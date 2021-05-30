@@ -1,0 +1,4 @@
+[submodule "repack"]
+	path = repack
+	url = https://gitlab.com/Neurochitin/kaleido.git
+	branch = saku
