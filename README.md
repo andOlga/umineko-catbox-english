@@ -49,3 +49,8 @@ The next time the game starts, it should be in English.
 
 The patch should work on PS4 and PS5 as the game uses the same file formats as the Switch version (at least as far as the patch is concerned).
 However, I have no idea how to actually apply the patch on these consoles. If you have usable instructions, please let me know.
+
+
+### PS3/PSP
+
+The patch is **not compatible** with the versions of Umineko released on this hardware. At all. Don't bother trying.
