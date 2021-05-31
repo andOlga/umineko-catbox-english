@@ -28,22 +28,22 @@ which can be used for playing in English. Its name is [Umineko Project](https://
 
 ## Applying the patch
 
+### Switch (emulation)
+
+The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch. To install the patch, [download it](../../releases/latest/download/patch.zip),
+right-click the game in your game list and choose "Open mods directory". Extract the archive there, preserving the directory structure.
+
+You may get sound stuttering when playing with the OpenAL sound backend. Switch to SoundIO if that happens.
+
+yuzu is currently not compatible with the game. While it boots, it crashes after a few minutes of play,
+and the sound stuttering issue is also present but has no resolution on that emulator. Avoid it.
+
 ### Switch (hardware)
 
 If you want to play the game on your Nintendo Switch hardware, it will need Atmosphère installed on it. If you don't have Atmosphère already, please look it up to see if
 it's compatible with your Switch model and install it if it is.
 Afterwards, [download](../../releases/latest/download/patch.zip) the patch and place the `patch.rom` file in `atmosphere/contents/01006a300ba2c000/romfs/` on your SD card.
 The next time the game starts, it should be in English.
-
-### Switch (emulation)
-
-The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch. To install the patch, [download it](../../releases/latest/download/patch.zip),
-right-click the game in your game list and choose "Open mods directory". Extract the archive there, preserving the directory structure.
-
-You may get sound stuttering when playing with the default OpenAL sound backend. Switch to SoundIO if that happens.
-
-yuzu is currently not compatible with the game. While it boots, it crashes after a few minutes of play,
-and the sound stuttering issue is also present but has no resolution on that emulator. Avoid it.
 
 ### PS4/PS5
 
