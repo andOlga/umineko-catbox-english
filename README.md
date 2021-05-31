@@ -30,13 +30,13 @@ which can be used for playing in English. Its name is [Umineko Project](https://
 
 ### Switch (emulation)
 
-The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch. To install the patch, [download it](../../releases/latest/download/patch.zip),
+The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch. To install the game, dump it from your Switch, then place the NSP/XCI file into any of the directories listed under Options -> Settings -> General -> Game Directories (add one if there's none listed). To install the patch, [download it](../../releases/latest/download/patch.zip),
 right-click the game in your game list and choose "Open mods directory". Extract the archive there, preserving the directory structure.
 
 You may get sound stuttering when playing with the OpenAL sound backend. Switch to SoundIO if that happens.
 
-yuzu is currently not compatible with the game. While it boots, it crashes after a few minutes of play,
-and the sound stuttering issue is also present but has no resolution on that emulator. Avoid it.
+yuzu is currently not compatible with the game. While it does boot, it crashes after a few minutes of play,
+and the sound stuttering issue is also present but has no resolution on that emulator. For now, I'd recommend to avoid this emulator.
 
 ### Switch (hardware)
 
