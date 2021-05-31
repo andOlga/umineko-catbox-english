@@ -13,18 +13,50 @@ If anyone knows, please tell me!
 
 ## Progress
 
-This patch is a work in progress. The translations will be added and published in the following order:
+This patch is a work in progress. The current state of the content is as follows:
 
-1. Hane.
-2. Saku (new content specifically introduced in this release).
-3. Tsubasa. 
-4. Rondo.
-5. Nocturne.
+- [ ] UI
+  - [ ] Text
+  - [ ] Images (that have text on them)
+- [ ] Rondo of Witch and Reasoning (Question Arcs)
+  - [ ] Episode 1: Legend of the Golden Witch
+  - [ ] Episode 2: Turn of the Golden Witch
+  - [ ] Episode 3: Banquet of the Golden Witch
+  - [ ] Episode 4: Alliance of the Golden Witch
+- [ ] Nocturne of Truth and Illusions (Answer Arcs)
+  - [ ] Episode 5: End of the Golden Witch
+  - [ ] Episode 6: Dawn of the Golden Witch
+  - [ ] Episode 7: Requiem of the Golden Witch
+  - [ ] Episode 8: Twilight of the Golden Witch
+- [ ] Symphony of Catbox and Dreams (new content)
+  - [ ] Letter from Bernkastel
+  - [ ] The Witches' Tanabata Isn't Sweet
+  - [ ] Game Master Battler!
+  - [ ] Jessica's Mother's Day Present
+  - [ ] Jessica and the Love Charm
+  - [ ] Memoirs of the ΛΔ
+  - [ ] Notes from a Certain Chef
+  - [ ] Labor Thanksgiving Day Gifts
+  - [ ] The Seven Sisters' Valentine
+  - [ ] Beatrice's White Day
+  - [ ] Cornelia, the New Priest
+  - [ ] Whose tea party?
+  - [ ] Valentine Letters
+  - [ ] To Mount Purgatory, Sakutaro!
+  - [ ] Arigato for 556
+  - [ ] A Certain Witch Hunter's Interview Tape
+  - [ ] Letter from a Summoner
+  - [ ] Important Facts Concerning Magic
+  - [ ] Angel of 17 Years East Shi-44a
+  - [ ] Jessica and the Killer Electric Fan
+  - [ ] Forgery #XXX
+  - [ ] Our Confession
+  - [ ] Last Note of the Golden Witch
 
-In other words, my intent is to prioritise the new content first. This is because there already is a very competent port of the PS3 versions of Rondo and Nocturne to PC,
+My intent is to prioritise the new content first. This is because there already is a very competent port of the PS3 versions of Rondo and Nocturne to PC,
 which can be used for playing in English. Its name is [Umineko Project](https://umineko-project.org). Please read their version until I'm done.
 
-<!-- TODO: put table here -->
+
 
 ## Applying the patch
 
