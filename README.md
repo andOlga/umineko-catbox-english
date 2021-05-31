@@ -38,8 +38,9 @@ This is a lofty goal. However, having the power of the actual console release at
 This patch is a work in progress. The current state of the content is as follows:
 
 - [ ] UI
-  - [ ] Text
-  - [ ] Images (that have text on them)
+  - [ ] UI text (chapter/song names, character bios, tips)
+  - [ ] UI images (settings screen, control hints, etc)
+  - [ ] CGs (that have text on them)
 - [ ] Rondo of Witch and Reasoning (Question Arcs)
   - [ ] Episode 1: Legend of the Golden Witch
   - [ ] Episode 2: Turn of the Golden Witch
