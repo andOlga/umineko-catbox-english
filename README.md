@@ -24,7 +24,7 @@ There's like a thousand different versions of Umineko. Very confusing, I underst
 |CGs|Yes|Yes|Yes|Sort of (they exist in files but are never shown...)
 |Text display|ADV<br>(small textbox at the bottom of the screen)|ADV|ADV or NVL|NVL<br>(text covers whole screen)
 |Voice acting|Yes|Yes|Yes|Yes<br>(need "voice-only" patch from 07th-Mod)
-|Backlog|Advanced<br>(jump to line/chapter, replay voice)|Advanced|Basic|Basic
+|Backlog|Advanced<br>(jump to line/chapter, replay voice)|Advanced|Basic<br>(only view past text)|Basic
 |Resolution|1920x1080|1920x1080|1920x1080|1280x960
 |Languages|English<br>(Japanese can be played without the patch 😆)|English, Russian, Portuguese, Chinese<br>Japanese **not** supported|English, Japanese|English, Japanese
 |Targeted platforms|Switch, PS4, PS5<br>PC (via emulation)|PC, Android, iOS|PC|PC
