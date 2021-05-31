@@ -1,4 +1,4 @@
-# English patch for Umineko Catbox (work in progress)
+# English patch for Umineko Catbox (UCE)
 
 ## Project description
 This is an English patch for Umineko When They Cry: The Symphony of Catbox and Dreams, the console version
@@ -6,10 +6,32 @@ of Umineko on PlayStation 4 and Nintendo Switch.
 
 This patch is meant to be used on the **actual console releases of the game**. It is ***not* a standalone application**.
 
-The goal of the patch is to translate all text-based story content, character bios and tips.
-Backgrounds with text on them are unfortunately out of scope, at least for now.
-I have no idea how the hell to generate .PIC files that Entergram uses for backgrounds.
-If anyone knows, please tell me!
+The goal of the patch is to translate as much of the game as possible.
+Currently, the only obstacle to a full translation is being able to replace images (as some of them have text on them).
+This *is* possible to do, I just still need to figure out how.
+
+This project is made possible by the **excellent** [kaleido](https://gitlab.com/Neurochitin/kaleido/-/tree/saku/) tool by Neurochitin, which allows for modding of Entergram games, as well as the fact that Entergram added built-in mod support to Umineko (for reasons unknown). This allows for a clean build/install process and helps me avoid distributing the entire game.
+
+## How does this compare to ...?
+
+There's like a thousand different versions of Umineko. Very confusing, I understand. So here's a quick comparison of how this version will stack up against its main competitors (once it's finished):
+
+|Feature|UCE|[Umineko Project](https://umineko-project.org)|[07th-Mod](https://07th-mod.com)|Steam release
+|-|-|-|-|-|
+|Content coverage|Rondo, Nocturne, Symphony|Rondo, Nocturne|Rondo, Nocturne|Rondo & Nocturne (full)<br>Symphony (partial)
+|Sprites|Animated Switch/PS4 sprites|Animated *or* static PS3 sprites<br>(fewer expressions but otherwise identical to Switch/PS4)|Static PS3 sprites<br>Original/Steam sprites|Original/Steam sprites
+|Backgrounds|Animated|Animated|Static|Static|
+|CGs|Yes|Yes|Yes|Sort of (they exist in files but are never shown...)
+|Text display|ADV<br>(small textbox at the bottom of the screen)|ADV|ADV or NVL|NVL<br>(text covers whole screen)
+|Voice acting|Yes|Yes|Yes|Yes<br>(need "voice-only" patch from 07th-Mod)
+|Backlog|Advanced<br>(jump to line/chapter, replay voice)|Advanced|Basic|Basic
+|Resolution|1920x1080|1920x1080|1920x1080|1280x960
+|Languages|English<br>(Japanese can be played without the patch 😆)|English, Russian, Portuguese, Chinese<br>Japanese **not** supported|English, Japanese|English, Japanese
+|Targeted platforms|Switch, PS4, PS5<br>PC (via emulation)|PC, Android, iOS|PC|PC
+
+My intent is for UCE to be the "perfect", definitive way of experiencing Umineko in English, short of an official release by Entergram. Should that happen, this project will be taken down in favour of the official release. However, Entergram's track record with English releases is non-existent, and licensing Umineko for the West would be a nightmare, so the probability of that happening is abysmally close to zero.
+
+This is a lofty goal. However, having the power of the actual console release at my fingertips, I no longer have to build something that sort of kind of *feels* like the console version of Umineko. Instead, I have the real, authentic thing here to cut open, tear apart and sew back together. This means that once the actual text insertion work is complete, there will be nothing left to do -- no possible improvements to make.
 
 ## Progress
 
@@ -28,7 +50,7 @@ This patch is a work in progress. The current state of the content is as follows
   - [ ] Episode 6: Dawn of the Golden Witch
   - [ ] Episode 7: Requiem of the Golden Witch
   - [ ] Episode 8: Twilight of the Golden Witch
-- [ ] Symphony of Catbox and Dreams (new content)
+- [ ] Symphony of Catbox and Dreams (new/bonus content)
   - [ ] Letter from Bernkastel
   - [ ] The Witches' Tanabata Isn't Sweet
   - [ ] Game Master Battler!
