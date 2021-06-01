@@ -135,7 +135,7 @@ However, if Lion doesn\'t exist, then Ange\'s seat is on Jessica\'s right.
 "Exactly.
  If you exist, the witch BEATRICE doesn\'t.
  Your existence...
-...kills BEATRICE}."
+...kills BEATRICE."
 "Are you saying I\'m the culprit who killed BEATRICE......?
  That\'s......just crazy.
  How can I be the culprit if I don\'t even understand her and have never met her?"
@@ -464,4 +464,4 @@ Will nodded to show he understood.
 ......Then, the two of them looked into BERNKASTEL\'s eyes,
  ......and Will spoke out clearly.
 
-"Here\'s the culprit."}
+"Here\'s the culprit."

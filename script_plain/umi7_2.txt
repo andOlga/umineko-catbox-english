@@ -367,7 +367,7 @@ Unless Will had eyes on the back of his head, he couldn\'t have seen this last b
 Will returned to the chapel by himself.
 The cold air and the monotonous sound of the rain were comforting.
 
-"......So, how\'s the game?"}
+"......So, how\'s the game?"
 And he had come here for a little peace and quiet...
 No sooner had he let out a sigh of relief than that voice rang out.
 "That\'s one for you to answer."
@@ -544,8 +544,8 @@ Will stood there, his left hand still in his pocket and his right palm glowing a
 Shannon just stood there, her hands still folded politely in front of her,
  ......her posture beautiful.
 And yet, ......it felt oddly as though raindrops were sparking and crackling in midair......
-"{o:0:{f:0:{g:0:LLNOWCAON‐KUN.}}}}"
-"{o:0:{f:0:{g:0:DO YOU WIO PROCEED?}}}}"
+"{o:0:{f:0:{g:0:LLNOWCAON‐KUN."
+"{o:0:{f:0:{g:0:DO YOU WIO PROCEED?"
 "................................."
 Will\'s expression had remained unchanged the whole time.
 Shannon\'s face was still kind and gentle.

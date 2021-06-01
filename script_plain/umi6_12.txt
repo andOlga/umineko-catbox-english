@@ -435,13 +435,13 @@ Dlanor unfurled the kind of scroll often depicted in Western fairy tales when an
 "First.
  "The rooms with the six people in them are all locked ROOMS"."
 "
-Acknowledged}.
+Acknowledged.
  Of course, that\'s only until Gohda and the others severed the chains and destroyed the locked rooms."
 At a nod from Dlanor, Cornelia, who stood behind her, started taking notes.
 "Second.
  "The definition of locked room implies that it is impossible to construct from the OUTSIDE"."
 "
-Acknowledged}."
+Acknowledged."
 "......In other words, no trickery done from the outside can construct a locked room.
  It isn\'t permitted for a chain lock to be reset from the outside by a skillfully used wire, for example."
 "I didn\'t need you to tell me that.
@@ -449,12 +449,12 @@ Acknowledged}."
 "Third.
  "The definition of a locked room implies that all forms of interference between the inside and outside of the room are PREVENTED"."
 "
-Acknowledged}.
+Acknowledged.
  However, I won\'t rule out the kinds of interference that you\'d expect from a normal room, such as knocks, voices, and the extension telephone line."
 "Fourth.
  "At the time of the breaking of the locked rooms, none existed within the rooms except the VICTIMS (Natsuhi, Eva, Kyrie, Rosa, Maria, Battler)"."
 "
-Acknowledged}."
+Acknowledged."
 This was to check that the murderer hadn\'t been hiding inside a locked room.
 Because if the discoverers departed the scene after becoming aware of the locked‐room murder,
  and then the culprit slipped out of the room after that, it would have been possible to construct an illusion of a locked room.
@@ -473,7 +473,7 @@ had now been eliminated.
 "......Tch, a stupid technicality.
  You must understand what we\'re getting at.
  
-Krauss\'s group cut the chains and destroyed the locked rooms, then killed the people inside}.
+Krauss\'s group cut the chains and destroyed the locked rooms, then killed the people inside.
  I just want you to argue against this."
 "Lady ERIKA, ......the undefined plurality of "Krauss\'s group" is INSUFFICIENT.
  You should first check to see which humans entered the rooms after the locked rooms were BROKEN."
@@ -487,7 +487,7 @@ Krauss\'s group cut the chains and destroyed the locked rooms, then killed the p
  ......‘After the breaking of the locked rooms, the only ones to enter the rooms apart from me were these four: Krauss, Rudolf, Hideyoshi, and Gohda’."
 "Sure.
  
-Acknowledged}.
+Acknowledged.
  However, this only applies to the current point in time.
  It\'s possible that some later development in the game will cause more people to enter."
 "Repetition requested.
@@ -503,7 +503,7 @@ This word "culprit" was fairly broad.
  ......I\'ll acknowledge it, but I\'ll make the language more strict.
  
 Krauss, Rudolf, Hideyoshi, and Gohda—
-these four had no involvement in murdering these six: Natsuhi, Eva, Kyrie, Rosa, Maria, and Battler}."
+these four had no involvement in murdering these six: Natsuhi, Eva, Kyrie, Rosa, Maria, and Battler."
 "And that means it was also impossible for any of the other humans, who didn\'t even enter the locked room,
  to have been involved in those murders either, doesn\'t it?"
 "Who knows. Think about it yourself.
@@ -537,7 +537,7 @@ Therefore, they have neither a technical nor a moral obligation to respond to re
 "Let us CONTINUE.
  Sixth, "the victims did not die by any method other than HOMICIDE"."
 "
-Acknowledged}."
+Acknowledged."
 "Of course, there were no suicides or accidental deaths."
 "Seventh, ‘the victims—"
 "That\'s enough, Dlanor."

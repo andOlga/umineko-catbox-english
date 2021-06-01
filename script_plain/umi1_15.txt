@@ -917,7 +917,7 @@ Please abandon any naive hopes of escaping after the storm passes.
 This game can only end with my victory or yours.
 When time runs out, I will win by default.
  There will be no ties.
-Make sure that you do not misunderstand your current situation.}
+Make sure that you do not misunderstand your current situation.
 "That\'s what it says......"
 ".........It isn\'t clear who put this letter there.
  However, I have been able to narrow down the list of suspects.

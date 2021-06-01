@@ -237,7 +237,8 @@ The simplest locked‐room trick.
  ......It\'s the reasoning I hate the most, so I wanted to destroy it in the very beginning..."
 "*cackle*cackle*...
  "
-Kanon was killed in this room}", yes?"
+Kanon was killed in this room
+", yes?"
 "Because you seemed to suspect Kanon as the culprit, you made me repeat this to destroy that possibility right away.
  I understand, I understand.
  *cackle*......"
@@ -265,9 +266,11 @@ Kanon was killed in this room}", yes?"
  Thanks to the witch\'s arrangement, I can say for sure that the room doesn\'t have a hidden door without searching the whole thing."
 "Indeed.
  
-There are no hidden doors in this room}.
+There are no hidden doors in this room
+.
  
-There is no way to get in or out other than the door and the windows}."
+There is no way to get in or out other than the door and the windows
+."
 "......Which means...
 ...that theory Auntie Rosa\'s so confident in...
 ...is wrong."
@@ -275,7 +278,8 @@ There is no way to get in or out other than the door and the windows}."
  ......If you, the witch, say in red
  "
 
-there are no hidden doors}", then it\'s settled."
+there are no hidden doors
+", then it\'s settled."
 "......However, no matter how much a human like me tries to argue against her, Auntie Rosa probably won\'t accept it.
  Humans can\'t prove there\'s no hidden door."
 "It\'s a Devil\'s Proof.

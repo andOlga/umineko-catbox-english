@@ -570,7 +570,7 @@ We erase the aforementioned six characters from 123456789...and get x2x45xxxx.
 "......Oh, ......4 and 5 are close..."
 "Yes, I get it!!
  So by "the two who are close", it means..."
-x2x45xxxx}.
+x2x45xxxx.
 "Yep.
  There\'s a gap between 2 and 4, but 4 and 5 are right next to each other.
  They\'re the two who are close...!"
