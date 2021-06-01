@@ -1983,8 +1983,8 @@ I just have the truth that Aunt Natsuhi isn\'t the culprit...
 {f:5:death‐death‐death‐death‐death‐death‐death‐death‐}
 {f:5:death‐death‐death‐}
 {f:5:death‐death‐death‐}
-{f:5:death‐death‐death‐death‐death‐death}!"
-"<Die the DEATH>!
+{f:5:death‐death‐death‐death‐death‐death}}!"
+"{p:1:<Die the DEATH>!
  <Sentence to DEATH>!!{n}
  <Great equalizer is the DEATH>}!!"
 Then, the trial for the fifth game was over.

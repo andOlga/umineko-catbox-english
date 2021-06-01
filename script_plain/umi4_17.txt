@@ -1256,11 +1256,11 @@ My Mom is Ushiromiya Asumu!
  They are then burdened with the responsibility of denying that in red, and if they do not, then it is victory.
  .........Then let me begin."
 {p:2:Due to the previous repetition request, and the refusal to repeat,}
- {p:2:I proclaim that you are not qualified to be my opponent}.
+ I proclaim that you are not qualified to be my opponent.
 {p:2:After all,}
- {p:2:{f:5:Beatrice} opened this game in order to fight with "Ushiromiya Kinzo\'s grandchild, Ushiromiya Battler"}.
+ {f:5:Beatrice} opened this game in order to fight with "Ushiromiya Kinzo\'s grandchild, Ushiromiya Battler".
 {p:2:This gave you the responsibility, as my opponent,}
- {p:2:to declare in red that you are "Ushiromiya Kinzo\'s grandchild, Ushiromiya Battler"}.
+ to declare in red that you are "Ushiromiya Kinzo\'s grandchild, Ushiromiya Battler".
 {p:2:You declined to repeat that}.
 {p:2:This means the loss of your qualifications}.
 "......D‐......deny something about that in red...

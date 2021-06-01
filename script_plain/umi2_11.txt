@@ -644,8 +644,8 @@ Flip it over.
 ".........So this is what I\'m getting at.
  ......The envelope that was handed to Maria contained a fake."
 "...I waited all that time for that nonsense?
- {p:1:This morning, Rosa definitely took an envelope out of Maria\'s handbag,}
- {p:1:and from that obtained the genuine key to the chapel}.
+ {p:1:This morning, Rosa definitely took an envelope out of Maria\'s handbag,
+ and from that obtained the genuine key to the chapel.}
  ...It wasn\'t a fake, as you say."
 "Heheh...
  I know that much.

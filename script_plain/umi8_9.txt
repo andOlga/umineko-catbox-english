@@ -47,7 +47,7 @@ Then again, it wasn\'t only the servants. Everyone else lacked an alibi as well.
  .........Hmm, that\'s not enough.
  I\'ll say it with the red truth."
 {p:1:All doors can only be locked or unlocked with a master key}.
- {p:1:Of course, it is possible to lock or unlock the doors from inside the room even without a master key}.
+ Of course, it is possible to lock or unlock the doors from inside the room even without a master key.
 "There you have it.
  Any other questions?"
 "Shouldn\'t there be keys to each individual room in addition to the master keys?"

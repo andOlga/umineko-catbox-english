@@ -413,8 +413,8 @@ When Ronove rebuked her, Beato stuck her tongue at him shamelessly.
  No matter how much you speak in riddles, this definitely isn\'t a locked room!
  It\'s a sham that only looks like a locked room!"
 "However, Battler‐sama.
- {p:1:Only the victims are inside the rooms,}
- {p:1:and no other people exist inside the rooms}.
+ {p:1:Only the victims are inside the rooms,
+ and no other people exist inside the rooms.}
  And by Milady\'s locked‐room definition,
  remote murders from outside the room have been clearly denied, have they not?"
 "Wait.

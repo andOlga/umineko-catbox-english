@@ -1831,7 +1831,7 @@ Beato went pale.
  Bring it on, you fake witch!!"
 "
 {p:1:After Jessica was injured,}
- {p:1:Eva was constantly under Battler\'s supervision}.
+ Eva was constantly under Battler\'s supervision.
  {p:1:Battler is neither the culprit nor an accomplice}.
  {p:1:By this, we can establish a perfect alibi for Eva}."
 "Wh‐......whaat...............?"
