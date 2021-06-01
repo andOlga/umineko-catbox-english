@@ -954,7 +954,8 @@ It shone with a golden light.
  Watch closely, Witch of the Future from 1998."
 {f:5:Bernkastel}......threw the golden heart into the air like an apple.
 Then, with the blood‐red blade of a scythe that appeared in her hand, ......she split it......
-"{p:1:{f:5:Beatrice} died in October of 1986.
+"
+{f:5:Beatrice} died in October of 1986.
  Therefore, the Golden Land she created was completely destroyed.
  Your relatives, kept alive in the Golden Land, were destroyed along with it.
  Your father, mother, and of course Battler...will never return to you again, and will never speak your name again}."
@@ -1194,10 +1195,12 @@ She kept sitting, her head lowered.
 "Wh‐what in the...... Why, my master?!
  The dead can\'t revive!!"
 "Impossible!!
- ......{p:1:Battler is dead}!!!
+ ......
+Battler is dead}!!!
  How can he revive?!"
 ".........Onii‐chan.........is alive........."
-"{p:1:I\'ve used the red truth!!
+"
+I\'ve used the red truth!!
  I\'ve said that Battler is dead}, right?!
  So how, {i:how} can he come back to life?!?!"
 "Even if the whole world says he\'s dead,
@@ -1214,7 +1217,8 @@ She kept sitting, her head lowered.
 "Even if the whole world refuses to acknowledge it, the miracle will happen as long as we believe!!"{n}{t}"Even if the whole world refuses to acknowledge it, the miracle will happen as long as we believe!!"
 The eight wriggling snake heads transformed into a massive whale jaw......and swallowed everything.
 "There will be no miracle!!
- {p:1:There exists no one whom you can trust}!!
+ 
+There exists no one whom you can trust}!!
  So dii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}ie!!!"
 {a:c:
 "There is someone.
@@ -1226,9 +1230,11 @@ That deeply pounded wedge could only have been used by someone who had both tale
 The woman who stood back to back with Battler, launching stakes, ......was very, very clearly......
 "Beato?!?!
  How?!
- {p:1:I announced your death with the red truth}!!"
+ 
+I announced your death with the red truth}!!"
 ".........So what if you did......?"
-"{p:1:The red truth is absolute!!
+"
+The red truth is absolute!!
  A perfect truth, which no one can overturn no matter how hard they try}!!"
 "Even if the whole world gets together......
 ...and denies that my family is still alive,
@@ -1287,9 +1293,12 @@ It was now {f:5:Bernkastel}\'s turn to run.
 In this world of Ange\'s, where even the red truth couldn\'t hurt anyone, just what sort of attack could have any effect?
 She frantically ran this way and that, throwing one wedge of red truth after another at the Ushiromiya family.
 {a:c:
-{p:1:Ushiromiya Kinzo is dead}.
-{p:1:Ushiromiya Krauss is dead}.
-{p:1:Ushiromiya Natsuhi is dead}.}
+
+Ushiromiya Kinzo is dead}.
+
+Ushiromiya Krauss is dead}.
+
+Ushiromiya Natsuhi is dead}.}
 She repeated this over and over again, ......but no one fell down.
 Ange wouldn\'t accept it, so they couldn\'t pierce anyone.
 "Th‐......this is......

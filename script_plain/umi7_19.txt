@@ -2793,7 +2793,8 @@ It was as though cracks had opened up all over her and blood was leaking out of 
  You want me to announce it clearly with the red truth?
  Then I\'ll do that, just for you."
 {a:c:
-"‘{p:1:This is all truth}
+"‘
+This is all truth}
 }
 {a:c:
 "NOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!"
@@ -3209,7 +3210,8 @@ On either side of Clair, who lay with her insides exposed,
  By all means, try.
  *cackle*cackle*, *giggle*giggle*giggle*!!
  Ahh{0}hah{0}hah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha, hiiyaa{0}a{0}a{0}a{0}aah{0}haa{0}a{0}a{0}a{0}a{0}aahhh!!!"
-"{p:1:Rule #1. It is forbidden to have a crime without all clues presented}."
+"
+Rule #1. It is forbidden to have a crime without all clues presented}."
 ......Will\'s black sword had cut through {f:5:Bernkastel}\'s body at a diagonal angle.
 However, it had no effect, ......like cutting the reflection of the moon on the water.
 "What\'s this?

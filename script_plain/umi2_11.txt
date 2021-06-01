@@ -469,7 +469,8 @@ How had the culprit opened this door?!
  ......Are you saying that\'s an evasive answer?"
 "That\'s right.
  So from now on,
- {p:1:when I speak the truth, I will use red}."
+ 
+when I speak the truth, I will use red}."
 "Wh‐what is this......?!
  Keep explaining!"
 "No matter what magic move I use,
@@ -483,7 +484,8 @@ How had the culprit opened this door?!
 "......But that won\'t make a game.
  So I set up this rule."
 "
-{p:1:Everything I speak in red is the truth}!
+
+Everything I speak in red is the truth}!
  There\'s absolutely no need to doubt it!"
 "Are you telling me to believe that...?!"
 "This is a game between you and me.
@@ -495,7 +497,8 @@ How had the culprit opened this door?!
  I\'ll repeat it again.
  "Dad and the rest entered the chapel using a hidden door, or were carried in through one"!"
 "Then I shall repeat what I said.
- "{p:1:Regardless of whether they were alive or dead,
+ "
+Regardless of whether they were alive or dead,
  the six definitely entered through the door}"!"
 ".........I‐is there any proof?!"
 "<Stop>!!
@@ -521,14 +524,16 @@ How had the culprit opened this door?!
  Genji‐san and the others said there was only one key, but that\'s impossible to prove!
  The culprit secretly made a duplicate key...!"
 "*cackle*cackle*cackle*cackle*!
- {p:1:Only one key to the chapel exists}!"
+ 
+Only one key to the chapel exists}!"
 "Arg......
  Th‐then what about this.
  The culprit used something other than a legitimate key to open it!
  I don\'t know what, but maybe a wire!
  A tool for picking locks!!"
 "What is this naive move?
- {p:1:It is impossible to unlock the lock to the chapel with anything but the chapel\'s key}!!
+ 
+It is impossible to unlock the lock to the chapel with anything but the chapel\'s key}!!
  Although it can be opened with the power of magic, of course...?"
 "Then what about this!!
  There\'s something wrong with the door itself!
@@ -538,7 +543,8 @@ How had the culprit opened this door?!
  It\'s also possible that they removed the hinges, and then removed the whole door before entering!!"
 "Wahahahahahahahahahaha!
  Is this the intelligence of a hundred years of humanity, Battleeeeeeer?!
- {p:1:When the door to the chapel is locked, it prevents any and all methods of entry or exit}!!"
+ 
+When the door to the chapel is locked, it prevents any and all methods of entry or exit}!!"
 "As long as you can\'t use magic, of course...?
  *cackle*!
  Is it about time for checkmate?!"
@@ -547,7 +553,8 @@ How had the culprit opened this door?!
  They might have entered through another secret door!!"
 "You talk too much, you incompetent fool.
  Then let me advance more on my earlier move.
- {p:1:The six definitely entered through {i:this front door}}!!"
+ 
+The six definitely entered through {i:this front door}}!!"
 "That\'s screwed up!!
  The door was locked, it was impossible to unlock without using that single key, and yet six people entered through this door?!?!
  How did they do it?!!
@@ -644,7 +651,8 @@ Flip it over.
 ".........So this is what I\'m getting at.
  ......The envelope that was handed to Maria contained a fake."
 "...I waited all that time for that nonsense?
- {p:1:This morning, Rosa definitely took an envelope out of Maria\'s handbag,
+ 
+This morning, Rosa definitely took an envelope out of Maria\'s handbag,
  and from that obtained the genuine key to the chapel.}
  ...It wasn\'t a fake, as you say."
 "Heheh...
@@ -672,7 +680,8 @@ Flip it over.
 "<Turn of the golden witch!>
  ......Show me how you defeat that."
 "............Very well.
- ...{p:1:The key to the chapel truly was the object inside the envelope I gave Maria}."
+ ...
+The key to the chapel truly was the object inside the envelope I gave Maria}."
 "I\'ll chase you.
  ......Can you repeat it in red?
  ......‘That envelope was completely under Maria\'s supervision until Auntie Rosa opened it’."
@@ -726,7 +735,8 @@ Flip it over.
 "Repetition requested!!
  "The envelope handed over midday yesterday and the envelope that Auntie Rosa opened are the same thing"."
 "Th‐that I can repeat.
- {p:1:The envelope I handed over to Maria and the one Rosa opened are the same thing}!!"
+ 
+The envelope I handed over to Maria and the one Rosa opened are the same thing}!!"
 "......Haah...!
  ...Aaaaah, that\'s no good, that\'s no goddamn good at all.
  Who even cares about that anymore?"

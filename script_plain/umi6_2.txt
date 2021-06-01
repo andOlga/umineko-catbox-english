@@ -238,7 +238,8 @@ was only unable to revive him because she had lost the stuffed animal that was h
  She\'s spent all of the willpower that she might have used to regain the will to fight.
  Therefore,
  ......
-{p:1:that {f:5:Beatrice} will never revive again}."
+
+that {f:5:Beatrice} will never revive again}."
 That Beato, who just sat around the whole time with empty eyes in the fifth game...
 ...must have been her corpse.
 She had managed to remain on the game board despite it all,

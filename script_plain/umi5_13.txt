@@ -74,12 +74,14 @@ Something sharp had sliced open all five of their necks......
 Those gaping wounds opened wider than their mouths,
  ......and made it feel as though they would no longer need their mouths to breathe.
 "......I see.
- So, {p:1:anyone looking at George, Jessica, Maria, Rosa, or Genji\'s corpses could confirm at a glance that they are dead}."
+ So, 
+anyone looking at George, Jessica, Maria, Rosa, or Genji\'s corpses could confirm at a glance that they are dead}."
 "Hmm?
  Red?
  Well, there\'s no point in me holding out against you.
  That\'s right,
- {p:1:at a glance, anyone could confirm that these corpses are dead, so it is absolutely impossible that they are just people playing dead}."
+ 
+at a glance, anyone could confirm that these corpses are dead, so it is absolutely impossible that they are just people playing dead}."
 "Why did Lia use the red......?"
 "Who knows.
  ......However, she is always thinking of Milady.
@@ -416,7 +418,8 @@ I\'ll tell the police about this in secret.
 "......That card was probably meant to surprise me and control me,
  ......but he\'s actually dug his own grave."
 {a:c:
-{p:1:I never told anyone except Shannon that I like autumn}.}
+
+I never told anyone except Shannon that I like autumn}.}
 This is unshakable proof that she\'s working with the culprit......
 Though I\'d thought this time in the closet would crush me with uncertainty and uneasiness, it had actually given me the start of a counterattack.
 If I hadn\'t been given this time in the darkness, I probably wouldn\'t have noticed this.

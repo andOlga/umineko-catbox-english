@@ -217,10 +217,12 @@ Inside that drawer.........lay a glittering golden key......
 "The definition of a locked room prevents all varieties of entering and exiting"!"
 "Decline repetition!!
  By definition, it is impossible for a locked‐room murder to take place inside a perfect locked room!"
-"{p:2:The chain might have been repaired after it was destroyed!
+"
+The chain might have been repaired after it was destroyed!
  The door might have been repaired after it was destroyed!
  The wall might have been repaired after it was destroyed}!!"
-"{p:1:My locked room doesn\'t involve anything being repaired}!!"
+"
+My locked room doesn\'t involve anything being repaired}!!"
 "<Good>!
  This really is getting fun, Battler‐san...!"
 "Sorry, but I don\'t have time to play with you right now!"
@@ -275,7 +277,8 @@ In her search for the truth, she tore at those wounds herself, opening them up o
  Reading dirty books wouldn\'t be nearly so fun if you didn\'t have to do it in secret."
 "......Pft—"
 ""Waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!""
-"{p:1:I deny all of your blue wedges with the red truth.
+"
+I deny all of your blue wedges with the red truth.
  None of the methods you suggest could defeat my locked room}!!"
 "...................................."
 Ange was breathing heavily.
@@ -336,7 +339,8 @@ wanted to use this final game to show you that."
  I offered up my life when I made my contract with {f:5:Bernkastel}!!
  All so that I could learn what happened that day!!
  That Single Truth will be the souvenir I take with me to hell!!!"
-"{p:1:It\'s useless.
+"
+It\'s useless.
  You cannot break this locked room.
  This locked room is perfect...!
  And yet, I kill you in this locked room}!!"
@@ -396,7 +400,8 @@ However, that hope wasn\'t strong enough to support me for twelve long years.
 A blazing blue wedge appeared in Ange\'s hand.
 {n}It was long, thick, and shaped like a spear.
 "This is the end, witch of 1986.
- ......{p:2:This locked room is perfect!!
+ ......
+This locked room is perfect!!
  Therefore, I can\'t get out, and you can\'t lay a finger on me from the outside!
  However, you {i:locked me into} this room!
  And there\'s just one trick that makes that the same as you "killing" me...!!
@@ -551,7 +556,8 @@ He could finish her with this last strike...and take the fragment......
 "Blue truth!!
  This is the answer to your locked room!!
  The length of the chain!!
- {p:2:The chain for your locked room was extra long, so it was possible to set and unset it from outside the room}!!!"
+ 
+The chain for your locked room was extra long, so it was possible to set and unset it from outside the room}!!!"
 What a ridiculous answer.
 However, if you blindly assume that a lock made by an unbreakable chain makes a locked room unbeatable, then this truly would be a perfect locked room.
 The blue wedge flung from Battler\'s hand plunged straight into Erika\'s chest.
@@ -559,7 +565,8 @@ As she winced in pain, her hand shook, ......and the fragment she held flew into
 ".........Your locked room definition claimed that the walls, windows, floor, door, and chain were all unbeatable!!
  However, wasn\'t there one really ridiculous thing missing?!
  Blue truth!!
- {p:2:Your locked room had no ceiling, so it was possible to enter by climbing over the wall}!!!"
+ 
+Your locked room had no ceiling, so it was possible to enter by climbing over the wall}!!!"
 Erika\'s blue scythe swung out from behind her back, catching Battler in the side as he stretched his hand out towards the fragment.
 Battler\'s hand......didn\'t reach it.
 {n}The fragment returned to Erika\'s hands once more.

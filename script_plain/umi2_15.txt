@@ -373,7 +373,8 @@ So she believed that {f:5:Beatrice} wouldn\'t break a promise either.
 But wasn\'t that just an image of {f:5:Beatrice} that Maria imagined...?
  There\'s no proof that the real {f:5:Beatrice} definitely keeps her promises, right...?
 "
-{p:1:I keep my promises}.
+
+I keep my promises}.
  If you solve the riddle of the epitaph, you shall be able to reach the Golden Land.
  When that happens, the ritual will end.
  No more people will die."

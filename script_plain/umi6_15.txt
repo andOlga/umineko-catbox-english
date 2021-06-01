@@ -45,7 +45,8 @@ Then, she closely examined the seals she had placed retroactively.
  I managed to do that with Kinzo\'s study last time...!
  .........It\'ll be fine... I can do this...! I can do it!!
  Do your worst, Erikaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!"
-"{p:1:We have confirmed that the seals to the guest room are {f:5:undamaged}.
+"
+We have confirmed that the seals to the guest room are {f:5:undamaged}.
  Since the time Lady {f:5:Erika} confirmed Battler\'s presence, this locked room has been {f:5:preserved}}."
 "<Good>!!
  I\'m breaking the seals!!
@@ -142,7 +143,8 @@ He could escape from the room,
  I\'m impartial in my judgments."
 "C‐can you say that with the red truth...?"
 "Yep.
- {p:1:I swear that I am impartial in my judgments}.
+ 
+I swear that I am impartial in my judgments}.
  .........I was very impartial in the last game, wasn\'t I?"
 "......That goes double for trials where things will be interesting either way, doesn\'t it?
  .........Accept her challenge, Battler.
@@ -262,7 +264,8 @@ With a click,
  ......Ushiromiya Battler—"
 "No, it\'s my move.
  ......I\'ll say it.
- ...............{p:1:Ushiromiya Battler is not on the bed}."
+ ...............
+Ushiromiya Battler is not on the bed}."
 "<Good>.
  .........You did well not to run away from the fight.
  I\'m impressed."
@@ -287,13 +290,16 @@ She wrote down that Battler\'s corpse, which should have been on the bed, was no
  and Dlanor made Swiss cheese of her, right...?
  I guess this is revenge...*giggle*..."
 "Before I start searching, I have one blue truth I can use without a search.
- {p:2:There is a possibility of a hidden door X that is impossible to discover.
+ 
+There is a possibility of a hidden door X that is impossible to discover.
  He\'s hidden behind that, so it is impossible for me to find him}."
-"{p:1:Knox\'s 3rd:
+"
+Knox\'s 3rd:
  It is forbidden for hidden passages to exist}.
  ......That right?"
 "......
-{p:1:No hidden places that are impossible for Erika‐san to find exist inside the guest room}."
+
+No hidden places that are impossible for Erika‐san to find exist inside the guest room}."
 "Knox\'s 3rd, ......{f:5:valid}."
 "<Good>.
  ......Then let\'s get started with the search."
@@ -312,7 +318,8 @@ Even the quiet sound of the rain......was distracting......
 "............I\'ll leave that one place be for the time being.
  So, were there any irregularities discovered in the bedroom?"
 "There were {f:5:none}.
- {p:1:Except for one location, there is no one to be seen in the {f:5:bedroom}}."
+ 
+Except for one location, there is no one to be seen in the {f:5:bedroom}}."
 "......What\'s this "except for one location" business?
  Stop being annoying and make it public."
 "There\'s a reason a face‐down card remains face down.
@@ -399,10 +406,12 @@ She left the bathroom for a moment until that was finished.
 "Let\'s check the inside of the bathroom.
  Was Battler seen?"
 "{f:5:No}.
- {p:1:No one was seen in the {f:5:bathroom}}."
+ 
+No one was seen in the {f:5:bathroom}}."
 "<Good>.
  With this, we...
-{p:1:have confirmed that except for one location, Battler does not exist in any place inside the guest room}."
+
+have confirmed that except for one location, Battler does not exist in any place inside the guest room}."
 "......Give that a rest.
  Just where is this one exception?"
 "A coffin.
@@ -417,14 +426,16 @@ Though it was extremely quiet,
 A cloud of gold butterflies gathered on the room\'s round table......and turned into a witch\'s chess board.
 It was finally.........time for the siege.
 "Blue truth.
- {p:2:You did not vanish from this room.
+ 
+You did not vanish from this room.
  You just hid yourself to make it seem as though you\'d disappeared from a locked room.
  The place you are hiding......is the "one exception" that I haven\'t investigated yet}."
 As Erika lightly raised her right hand, ......
 a single gold butterfly appeared from the darkness behind her,
  ......flitted between the index finger and middle finger of Erika\'s raised hand, and became a white piece.
 Then, .........she lifted it high into the air......
-"{p:2:This is the one exception.
+"
+This is the one exception.
  ......The walk‐in closet next to the entrance}!!"
 Bang!!
 .........Like a white bolt of lightning striking the earth,
@@ -438,7 +449,8 @@ The door was completely pierced,
  ......and the spear stuck in so deeply that if a human had been hiding in it, it would have struck through their chest as well.
  ......Its still quivering handle was a testament to the force with which it had been thrown.
 "......................................."
-"{p:2:There are no places in which to hide other than {f:5:this}.
+"
+There are no places in which to hide other than {f:5:this}.
  You are currently hiding in {f:5:here}}."
 ".........What do you say, Battler‐san...?
  Have you been struck through the heart in a single blow,
@@ -474,9 +486,11 @@ Slowly,
 A gold butterfly that had appeared from the darkness rested on Battler\'s finger and became a black piece.
 ......That black piece was the king, .........which represented Battler himself.
 "............You assert...
-...that "{p:2:Battler is hiding in the closet}", ......and this is my response.
+...that "
+Battler is hiding in the closet}", ......and this is my response.
  .........Take this."
-"{p:1:Ushiromiya Battler does not exist within the guest room.
+"
+Ushiromiya Battler does not exist within the guest room.
  ......There are no exceptions, including the closet}."
 Like a black bolt of lightning this time,
  ......Battler slammed his piece down on the white piece of Erika\'s that had cut deep behind his lines, ......smashing that piece completely.
@@ -496,12 +510,15 @@ She then lifted that hand into the air.........and raised the white piece high.
 "Let me announce a retroactive move.
  This occurs back in the very beginning, right after I broke the seals and entered this room.
  ......
-{p:1:At that time, I immediately closed the door, reset the chain, and sealed this room}."
+
+At that time, I immediately closed the door, reset the chain, and sealed this room}."
 "Objection.
- {p:2:Gohda severed the chain back when the crime was first discovered.
+ 
+Gohda severed the chain back when the crime was first discovered.
  Since the chain lock is not functioning, it is impossible to use it to create a seal}."
 "Objection overruled.
- {p:1:Erika repaired the chain lock}.
+ 
+Erika repaired the chain lock}.
  ......See?"
 "......That\'s impossible.
  ......How could she have repaired a brass chain?"
@@ -509,13 +526,15 @@ She then lifted that hand into the air.........and raised the white piece high.
  ......Have you forgotten, Beato?
  The duct tape seals.
  ......
-{p:1:Erika used that duct tape to join the two cut ends of the chain together, "sealing" them.
+
+Erika used that duct tape to join the two cut ends of the chain together, "sealing" them.
  In other words, the chain was repaired by the duct tape, and this room once again became a locked room locked from the inside}."
 "O‐objection.
  Erika‐san has already used up her duct tape seals, hasn\'t she...?!
  She shouldn\'t be able to use them anymore...!"
 "Objection overruled.
- {p:1:The use of the duct tape wasn\'t limited by the number of strips, right?
+ 
+The use of the duct tape wasn\'t limited by the number of strips, right?
  It was by the number of rooms.
  ......The only restriction was to limit it to only three rooms.
  ......Erika chose this guest room to be one of those rooms.
@@ -527,7 +546,8 @@ She then lifted that hand into the air.........and raised the white piece high.
  .........Pity is the evil liquor that the arrogant most {f:5:prefer}."
 "So,
  with this retroactive move,
- {p:1:I proclaim that the chain lock has been repaired by the duct tape seal and has regained its original functionality.
+ 
+I proclaim that the chain lock has been repaired by the duct tape seal and has regained its original functionality.
  And, thanks to that, I locked the room upon entering it and made this guest room a locked room from the inside once more}."
 The white piece Erika held aloft......represented the seal formed by the chain lock.
 This move would draw out Battler\'s king and drag it to the guillotine!
@@ -568,7 +588,8 @@ However, ......if he responded...
 Because after his escape, he wouldn\'t be able to set the chain lock again.
 The new riddle would put Erika in a much more difficult situation, but it would require him to construct a different escape method.
 Even a move such as him leaving the closet during the chaos in the bathroom and hiding in another place—say, under the bed—
-wouldn\'t work because he had already proclaimed that "{p:1:Battler does not exist within the guest room}".
+wouldn\'t work because he had already proclaimed that "
+Battler does not exist within the guest room}".
 If he could construct logic that allowed him to escape from here while leaving the chain lock intact,
  ............then Erika would be the one facing a fatal blow.
 However, ......if he didn\'t have that logic.........if he failed...
@@ -681,7 +702,8 @@ Where had it gone?!
 On top of the piece of the chain lock?
 {n}Or past that piece...?
 ".........I will respond to the repetition request.
- {p:1:The lock caused by the chain is intact}."
+ 
+The lock caused by the chain is intact}."
 Battler\'s king...
 ......had left the chain lock piece in its place...
 ......and had...
@@ -903,14 +925,16 @@ However, that doesn\'t mean that no one else is inside it.
 Kyrie...
 ......saved......Battler............
 {a:c:
-{p:1:
+
+
 Ushiromiya Kyrie
  {f:5:cannot save} Battler
 }.}
 ............Huh.........?
 "Wh‐......what do you mean......?"
 "......
-{p:1:Ushiromiya Kyrie......cannot save Battler}."
+
+Ushiromiya Kyrie......cannot save Battler}."
 "...Wh‐......why not?!
  There\'s no red saying that Kyrie can\'t save Battler!
  Wait a second, ......how are you using the red truth?!"
@@ -950,13 +974,16 @@ How...?!
 How...
 ...can Erika deny this logic...
 ...without the detective\'s authority?!
-"{p:1:Ushiromiya Natsuhi cannot save Battler}."
+"
+Ushiromiya Natsuhi cannot save Battler}."
 "Th‐then Eva!
  Ushiromiya Eva!!"
-"{p:1:Ushiromiya Eva cannot save Battler}."
+"
+Ushiromiya Eva cannot save Battler}."
 "Then Rosa!
  Maria!!"
-"{p:1:Save your br{f:5:eath}.
+"
+Save your br{f:5:eath}.
  Neither Rosa nor Maria can come to his ai{f:5:d}.
  ......{f:5:Death‐death‐death‐death‐}
 {f:5:death‐death‐death‐death}!
@@ -997,7 +1024,8 @@ How...
  ...I am no longer capable of making that proclamation."
 "Knox\'s...
 ......which one was it......"
-"{p:1:Knox\'s 7th.
+"
+Knox\'s 7th.
  .........It is forbidden for the detective to be...
 the {f:5:culprit}}."
 "B‐but that\'s...
@@ -1048,14 +1076,16 @@ However, there is one way.
 "So, I dashed all over the mansion,
  visited all the crime scenes,
  and............
-{p:1:I killed everyone all over again}!"
+
+I killed everyone all over again}!"
 "Wh‐......what on.........earth..............."
 ".........Of course, she couldn\'t just kill them however she liked.
  ......It had to be a perfect way of killing, good enough that their deaths could be determined with the red truth.
  ......Erika made sure of that."
 "The manner in which they were each killed differed,
  .........but afterwards,
- {p:1:she completely severed the heads of all those she killed}.
+ 
+she completely severed the heads of all those she killed}.
  ......That method of killing is solid enough to be called a red truth, right...? Lambda......?"
 "......I‐...............it\'s valid.
  No human could survive...
@@ -1087,7 +1117,8 @@ At that point, Erika stopped for a second,
  ...aaah, is she really capable of an expression even uglier than all the ones before......?
 With that...
 ...greatest of all faces, ......she spoke.
-"{p:1:All five people I killed......were very much alive until the moment I killed them}.
+"
+All five people I killed......were very much alive until the moment I killed them}.
  ......Everyone faithfully played dead as best they could until the moment just before I killed them, okay?"
 ".........Maria‐san was quite the little trouper.
  .........After all, even though her mother had already been killed in the same room,
@@ -1182,10 +1213,13 @@ It was the hallway on the second floor of the guesthouse...
  So, what do you think of them...?!
  Are they broken? Are they not broken...?
  Please, the red truth, loudly so we all can hear!!"
-""{p:1:For your attention: I beg to inform you of the following.
+""
+For your attention: I beg to inform you of the following.
  Know that neither is broken}.""
-"{p:1:Know that an unbroken seal is proof that all have hitherto been denied passage}."
-"{p:1:It needs no second telling, but be advised that passing through without breaking the seal is impossible}!!"
+"
+Know that an unbroken seal is proof that all have hitherto been denied passage}."
+"
+It needs no second telling, but be advised that passing through without breaking the seal is impossible}!!"
 "{f:5:Good}.
  ...Battler, it is as you {f:5:see}.
  ......There no longer exists anyone who can come to your {f:5:aid}."
@@ -1259,10 +1293,12 @@ It was the same room as before, of course,
 "......However, there are conditions.
  ......As I believe you know, these are all things you forced on yourself."
 "......First,
- {p:1:this room is a locked room created from the inside.
+ 
+this room is a locked room created from the inside.
  The seals on the windows are intact, so there can be no escape from there.
  Of course, there is no way to escape by leaving through the bathroom}."
-"{p:1:......I\'ll make it simple.
+"
+......I\'ll make it simple.
  There is no exit to escape from except for this door.
  However, the chain lock on this door is set.
  You can unset and reset it all you want, but you can only do so from the inside.

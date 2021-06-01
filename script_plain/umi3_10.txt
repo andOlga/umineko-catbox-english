@@ -415,7 +415,8 @@ When {f:5:Virgilia} and Ronove giggled and cackled,
 Ronove bowed his head, still laughing, and hid himself.
 After that, all that remained was the figure of {f:5:Beatrice}, who was grumpy and irritated,
  and {f:5:Virgilia}, who was coolly enjoying her tea.
-"...............When you said "{p:1:There are no more than 18 people on this island}", you actually cornered yourself."
+"...............When you said "
+There are no more than 18 people on this island}", you actually cornered yourself."
 ".........I thought so...
  ............I thought it might have been a {i:little} too early, but...
  ......I guess it really was......"

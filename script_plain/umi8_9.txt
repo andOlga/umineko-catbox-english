@@ -46,7 +46,8 @@ Then again, it wasn\'t only the servants. Everyone else lacked an alibi as well.
 "No, there isn\'t.
  .........Hmm, that\'s not enough.
  I\'ll say it with the red truth."
-{p:1:All doors can only be locked or unlocked with a master key}.
+
+All doors can only be locked or unlocked with a master key}.
  Of course, it is possible to lock or unlock the doors from inside the room even without a master key.
 "There you have it.
  Any other questions?"
@@ -54,16 +55,19 @@ Then again, it wasn\'t only the servants. Everyone else lacked an alibi as well.
 "......Normally, those would exist.
  However, they\'d make the game more complicated, so I\'ve eliminated them.
  Red truth.
- {p:1:In this game, we\'ll consider master keys to be the only keys that exist}."
+ 
+In this game, we\'ll consider master keys to be the only keys that exist}."
 "In other words,
  all of the locks that appear in this game can only be locked or unlocked by master keys."
 "That\'s how it is.
  It really is a simple game."
 "In that case, we should now check the number of master keys and who holds them."
-"{p:1:There are five master keys total.
+"
+There are five master keys total.
  One is held by each of the five servants}.
  The keys\'ll be managed by a particular method.
- {p:1:The servants keep the master keys on their person at all times, so it is impossible for them to be stolen, handed over, or used by any human other than themselves}."
+ 
+The servants keep the master keys on their person at all times, so it is impossible for them to be stolen, handed over, or used by any human other than themselves}."
 "What the heck.
  Now they\'re sounding less like keys and more like a fingerprinting system."
 "That\'s an interesting metaphor.
@@ -122,9 +126,11 @@ Everyone headed to Krauss\'s and Natsuhi\'s rooms together, ......and in Natsuhi
  Duct tape on all the windows?
  They even used a ladder for the windows on the third floor?"
 "......The game would get complicated otherwise, so I\'ve simplified it.
- {p:1:All of the windows have steel bars on them, so it is impossible to enter or leave by them}.
+ 
+All of the windows have steel bars on them, so it is impossible to enter or leave by them}.
  Therefore,
- {p:1:we\'ll say that they can seal the whole mansion by sealing the two doors, the front one and the back one}."
+ 
+we\'ll say that they can seal the whole mansion by sealing the two doors, the front one and the back one}."
 "Got it. That makes it easy."
 "What do you think?"
 "Actually killing the two people in Aunt Natsuhi\'s room would be easy.
@@ -143,13 +149,16 @@ Everyone headed to Krauss\'s and Natsuhi\'s rooms together, ......and in Natsuhi
  Then, they locked the door from the inside, hid inside the room, and found a good chance to escape."
 "Hmm, that theory does make logical sense."
 "......I\'ll say it in red.
- {p:1:The culprit of the first twilight has definitely killed six people}."
+ 
+The culprit of the first twilight has definitely killed six people}."
 "Then I\'ll take a shot with the blue truth.
  Here is the true nature of this locked room.
- {p:2:The culprit locked the door from the inside, then hid in Natsuhi\'s room.
+ 
+The culprit locked the door from the inside, then hid in Natsuhi\'s room.
  Then, after everyone left, they found an opportunity to escape}."
 ".........Sure, I\'ll deny that in red.
- {p:1:The group sealed the room at the same time they left.
+ 
+The group sealed the room at the same time they left.
  No culprit joined the group as they left.
  Also, all of the seals on Natsuhi\'s room, the dining hall, and the mansion itself will never be broken}."
 "Heheheheheh.
@@ -185,7 +194,8 @@ Once again, their actions left a weak point open, and they were faced with yet a
 "To prevent the culprit from using it for any mischief,
  {p:42:we destroyed the master key Shannon‐san had held on the spot}."
 "......At the time Shannon is killed, Kanon goes missing forever.
- .........{p:1:From now on, Kanon is treated as having been killed.
+ .........
+From now on, Kanon is treated as having been killed.
  Also, Kanon\'s master key is treated as having been destroyed}."
 "Well, it\'d be tasteless to go into it, so I won\'t, but...
 ...given that Shannon\'s dead, I wouldn\'t really expect anything else."
@@ -351,7 +361,8 @@ The curtain is lowered on this tale, for now......
 "This could be the heart of this game.
  Is that all for the game\'s premises?"
 ".........Besides that, I guess there\'s only "the Reader will tell no lies".
- In other words, {p:1:there are no lies in the non‐dialogue narrative text}.
+ In other words, 
+there are no lies in the non‐dialogue narrative text}.
  ......I could\'ve done that if I wanted, but it\'d be a pain and make things complicated."
 "So, you willingly abandon a witch\'s privileges.
  You seem quite confident."
@@ -359,7 +370,8 @@ The curtain is lowered on this tale, for now......
 "That\'s all from me.
  ......I don\'t intend to give you any more hints or answer any more questions."
 "As the observer, I\'ll proclaim this once again.
- {p:1:I guarantee that it\'s possible to identify the culprit with this information}."
+ 
+I guarantee that it\'s possible to identify the culprit with this information}."
 "Okay.
  .........Got it."
 "I can\'t wait to get started.

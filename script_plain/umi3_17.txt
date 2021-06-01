@@ -1280,8 +1280,10 @@ An Uncle Hideyoshi who you could see right through was summoned.
 "Oh yeah, that\'s right.
  Sure, say it in red for him!"
 "
-{p:1:I was in the room the whole time}.
- {p:1:Both before and after the time period of the crime}."
+
+I was in the room the whole time}.
+ 
+Both before and after the time period of the crime}."
 "See, look.
  This makes it impossible for Eva to be the culprit!
  How will you counter this?"
@@ -1414,11 +1416,14 @@ Under the storm and stress of Battler\'s spirit, the witch side was completely s
 ".........That\'s right.
  In the end, three people went outside to get food."
 "I\'ll add in some red as I speak, \'cause it\'ll be a pain otherwise.
- {p:1:Kyrie didn\'t think that they needed food}.
+ 
+Kyrie didn\'t think that they needed food}.
  Since going without food for about a day wouldn\'t kill them,
- {p:1:she claimed that they should not leave the guesthouse}."
+ 
+she claimed that they should not leave the guesthouse}."
 "And yet, she herself...
-{p:1:suggested that they leave the guesthouse to get food}.
+
+suggested that they leave the guesthouse to get food}.
  .........Isn\'t this a contradiction?"
 "Yes, a spectacular contradiction.
  It contradicts Kyrie\'s pattern of behavior."
@@ -1464,7 +1469,8 @@ Under the storm and stress of Battler\'s spirit, the witch side was completely s
  ...You require tangible evidence of the specific reason for which Kyrie changed her mind and decided that food really was necessary.
  ......For example, if someone heard her say that, or if it was written down somewhere."
 "Too bad,
- {p:1:no reason for her changing her mind was ever told to anyone, nor was one ever written down}!
+ 
+no reason for her changing her mind was ever told to anyone, nor was one ever written down}!
  Therefore, you can only speculate as to what was inside Kyrie\'s mind!"
 "So it is impossible to prove!!
  You don\'t have a single counter to my move!
@@ -1485,7 +1491,8 @@ Under the storm and stress of Battler\'s spirit, the witch side was completely s
  Think in your own way!"
 "Why don\'t you resign right now?
  And I\'ll corner you even more with red.
- {p:1:Until the last instant before she died, Kyrie maintained her pattern of behavior which states ‘I won\'t go to the mansion to get food’}!"
+ 
+Until the last instant before she died, Kyrie maintained her pattern of behavior which states ‘I won\'t go to the mansion to get food’}!"
 "And yet, she took the initiative and headed for the mansion.
  She was pushing a cart, trying to carry food.
  Why that contradiction?
@@ -1574,7 +1581,8 @@ He ground his teeth, making fists with both hands.
  Fine, search as much as you want!!"
 "There\'s no way you\'ll learn anything!
  I just said it in red a short while ago.
- {p:1:Kyrie did not leave anything written down}!
+ 
+Kyrie did not leave anything written down}!
  No matter what you find, how could you understand anything!!"
 ".........We may find nothing...
  ......But, ......Battler is grinding his teeth, fighting to think of a move to break through you.
@@ -1830,10 +1838,13 @@ Beato went pale.
  I\'ll take it!
  Bring it on, you fake witch!!"
 "
-{p:1:After Jessica was injured,}
+
+After Jessica was injured,}
  Eva was constantly under Battler\'s supervision.
- {p:1:Battler is neither the culprit nor an accomplice}.
- {p:1:By this, we can establish a perfect alibi for Eva}."
+ 
+Battler is neither the culprit nor an accomplice}.
+ 
+By this, we can establish a perfect alibi for Eva}."
 "Wh‐......whaat...............?"
 "I\'ll seal you,
  and {y:0:Human}{n:0:human}s as well,
@@ -1842,63 +1853,95 @@ Beato went pale.
  Sleep for all eternity in an absolute locked room of magic with no exits.
  ......Now, prepare yourself.
  For the red truth."
-{p:1:There are no more than 18 humans on this island}.
+
+There are no more than 18 humans on this island}.
 Throw away your foolish thoughts of mysterious people hiding and committing crimes.
 ...But if I say it this way, you could also suspect animal culprits.
  It would be unbearable to hear an irrational theory about how an orangutan trained to commit murder wouldn\'t count as a human.
 So, I\'ll change it like this.
-{p:1:No life forms other than humans have any connection to this game}.
+
+No life forms other than humans have any connection to this game}.
 So, with that covered,
  next, I\'ll explain the situation for all 18 people who exist on this island.
-{p:1:Kinzo is dead}.
- {p:1:Krauss is dead}.
-{p:1:Natsuhi is dead}.
- {p:1:Hideyoshi is dead}.
-{p:1:George is dead}.
- {p:1:Rudolf is dead}.
-{p:1:Kyrie is dead}.
- {p:1:Rosa is dead}.
-{p:1:Maria is dead}.
- {p:1:Genji is dead}.
-{p:1:Shannon is dead}.
- {p:1:Kanon is dead}.
-{p:1:Gohda is dead}.
- {p:1:Kumasawa is dead}.
-{p:1:Nanjo is dead}.
+
+Kinzo is dead}.
+ 
+Krauss is dead}.
+
+Natsuhi is dead}.
+ 
+Hideyoshi is dead}.
+
+George is dead}.
+ 
+Rudolf is dead}.
+
+Kyrie is dead}.
+ 
+Rosa is dead}.
+
+Maria is dead}.
+ 
+Genji is dead}.
+
+Shannon is dead}.
+ 
+Kanon is dead}.
+
+Gohda is dead}.
+ 
+Kumasawa is dead}.
+
+Nanjo is dead}.
 Those 15 are all dead.
 And.
-{p:1:Battler is alive}.
-{p:1:Eva is alive}.
-{p:1:Jessica is alive}.
+
+Battler is alive}.
+
+Eva is alive}.
+
+Jessica is alive}.
 That\'s everyone, all 18 of them!
 "So you understand that, accordingly, when the last victim, Nanjo, died,
  only three people, Battler, Eva, and Jessica, were alive, right?"
 ".........Wh‐......what did you say...?
  ......Y‐......you bitch, ...you couldn\'t mean............"
 "
-{p:1:Eva was with you the whole time}.
- {p:1:So committing a crime was impossible for her}.
- {p:1:Of course, Battler‐kun isn\'t the culprit}.
- {p:1:He wasn\'t forging an alibi for her, and he took the possibility that she was the culprit into account, watching over her actions carefully}."
+
+Eva was with you the whole time}.
+ 
+So committing a crime was impossible for her}.
+ 
+Of course, Battler‐kun isn\'t the culprit}.
+ 
+He wasn\'t forging an alibi for her, and he took the possibility that she was the culprit into account, watching over her actions carefully}."
 "
-{p:1:No chance existed for her to do anything suspicious}!
- {p:1:In short, at the time of the crime, only Nanjo and Jessica were in the servant room}."
+
+No chance existed for her to do anything suspicious}!
+ 
+In short, at the time of the crime, only Nanjo and Jessica were in the servant room}."
 "......And I know what you\'re thinking.
  Your next move will be this, right?
  There\'s also a chance that Jessica is the culprit!
  But too bad, I\'ll slice it up in red before you try!!"
 "
-{p:1:Ushiromiya Jessica has not committed murder}!
- {p:1:She was not involved with Nanjo\'s murder}!!
- {p:1:Her eyes were completely blocked}.
- {p:1:It\'s impossible for her to carry out a murder like that}!"
+
+Ushiromiya Jessica has not committed murder}!
+ 
+She was not involved with Nanjo\'s murder}!!
+ 
+Her eyes were completely blocked}.
+ 
+It\'s impossible for her to carry out a murder like that}!"
 "And here\'s an extra.
- {p:1:Neither Eva nor Battler killed Nanjo, nor were they involved}!!"
+ 
+Neither Eva nor Battler killed Nanjo, nor were they involved}!!"
 "W‐wait a fucking second!!
  That makes no goddamn sense!!
  There are only three humans, then a murder occurs, ......and none of those three were involved? That\'s insane!!"
 "I\'ll state it clearly.
- {p:1:The culprit who killed Nanjo was neither Battler nor Eva nor Jessica}!!
+ 
+The culprit who killed Nanjo was neither Battler nor Eva nor Jessica}!!
  In other words, it wasn\'t one of the survivors.
  Get iiit?"
 "No, umm, .........th‐that\'s right!
@@ -1908,22 +1951,30 @@ That\'s everyone, all 18 of them!
  which took the name of "someone other than Jessica" and killed Doctor Nanjo...!!"
 "Moron.
  I\'ve already said it in red.
- {p:1:Jessica\'s eyes were completely blocked, and murder was impossible for her}!"
+ 
+Jessica\'s eyes were completely blocked, and murder was impossible for her}!"
 "No matter what kind of personality she was possessed by, murder could not be carried out with her body!
  I wonder if you\'ll be satisfied if I say it this way?"
-"{p:1:No actions caused by Jessica\'s body had any relation to or influence on the murder of Nanjo}!
- {p:1:This also applies to Battler and Eva}.
+"
+No actions caused by Jessica\'s body had any relation to or influence on the murder of Nanjo}!
+ 
+This also applies to Battler and Eva}.
  In other words, no matter how much you try to struggle and interpret it,
- {p:1:neither Jessica nor Battler nor Eva is the culprit who killed Nanjo}!"
+ 
+neither Jessica nor Battler nor Eva is the culprit who killed Nanjo}!"
 "Y‐...you\'ve got to be kidding me!!!
  I mean, everyone else is dead for sure, right?!!"
 "Then......all that\'s left......is the Doctor Nanjo suicide theory, right?!
  And the trap theory!
  The culprit was already dead, but a trap that they had already prepared went off..."
-"{p:1:Nanjo\'s death was a homicide}.
- ...{p:1:Of course, it was with a direct method of murder, not a trap}.
- {p:1:They readied their weapon, and killed him with it directly from the front at point‐blank range}!
- {p:1:The culprit appeared openly before Nanjo\'s eyes, and as they both looked at each other\'s faces, the culprit killed him}...!!"
+"
+Nanjo\'s death was a homicide}.
+ ...
+Of course, it was with a direct method of murder, not a trap}.
+ 
+They readied their weapon, and killed him with it directly from the front at point‐blank range}!
+ 
+The culprit appeared openly before Nanjo\'s eyes, and as they both looked at each other\'s faces, the culprit killed him}...!!"
 "But wait!!
  There are only three survivors!
  You said in red that everyone else is dead!
@@ -1935,7 +1986,8 @@ That\'s everyone, all 18 of them!
 "Insane!!
  You\'re lying!!
  You\'re lying with the red letters!!!"
-"{p:1:The red only tells the truth}!!!
+"
+The red only tells the truth}!!!
  Isn\'t doubting that the same as betraying the honor of that witch who\'s behind you, shriveling up in fear of me and hiding behind your back?!"
 "D‐.........damn it............!!!"
 "I\'ll state it clearly,
@@ -1983,11 +2035,15 @@ And she claims "that person"......is a witch.........?!!
  That has already been dealt with in red, you know?
  Remove everything other than humans from consideration entirely.
  And no stuff like robots, either."
-"{p:1:Absolutely no factors other than humans participate in this game board}!
+"
+Absolutely no factors other than humans participate in this game board}!
  Therefore, I can also say this:"
-"{p:1:The one who killed Nanjo was definitely a human}!"
-"{p:1:A human, with their feet on the ground, held up a weapon and killed with it}!
- {p:1:Right before his eyes}!
+"
+The one who killed Nanjo was definitely a human}!"
+"
+A human, with their feet on the ground, held up a weapon and killed with it}!
+ 
+Right before his eyes}!
  However, the human may have been able to use magic.
  ......Which means, it was a witch."
 "......That is, in other words, me.

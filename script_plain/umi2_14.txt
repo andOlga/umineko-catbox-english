@@ -289,21 +289,27 @@ They were two master keys.
 "......That\'s right, I\'d forgotten.
  What about the keys specifically for this room, the servant room keys?!"
 "Mmhm.
- Those {p:1:are in the key box in the center of the servant room}.
- There are several servant room keys, but {p:1:all of those are inside the key box}."
+ Those 
+are in the key box in the center of the servant room}.
+ There are several servant room keys, but 
+all of those are inside the key box}."
 "Which means that the situation isn\'t any different from the time with the key to Jessica\'s room...
  It\'s not like the servants would walk around with an unnecessary key when they have those convenient master keys.
  I can accept that they were all still shut away in the key box..."
 "And nothing has changed in the other conditions.
- {p:1:Entry and exit are impossible except for the single door and the single window}.
+ 
+Entry and exit are impossible except for the single door and the single window}.
  Therefore, hidden doors and irregular methods of entry cannot exist.
  Rejoice, great detectives.
  *cackle*!"
 "
-{p:1:And those were both locked}.
- {p:1:The door and the window do not permit any kind of entry or exit when they are locked}.
+
+And those were both locked}.
+ 
+The door and the window do not permit any kind of entry or exit when they are locked}.
  So it won\'t work to remove the door, make a crack to slide in through, or anything like that while the lock is maintained.
- And obviously, {p:1:it is impossible to unlock the door without the servant room key or a master key}."
+ And obviously, 
+it is impossible to unlock the door without the servant room key or a master key}."
 "...It\'s a pain having to read all these aloud every time.
  Sooner or later, I should think of some word to abbreviate all this into a single phrase."
 "But you can\'t repeat that no one was hiding in this room!
@@ -380,21 +386,31 @@ I\'ve finally caught her by the tail!
 Alright, starting now, I\'ll flip it over!
  The next thing I\'ll request she repeat is—
 "
-{p:1:No one exists in this room except your group}.
- {p:1:"Your group" refers to Battler, George, Maria, Rosa, Genji, Gohda, and Shannon}."
+
+No one exists in this room except your group}.
+ 
+"Your group" refers to Battler, George, Maria, Rosa, Genji, Gohda, and Shannon}."
 "......Wha‐............"
 "Let\'s go back to Jessica\'s room.
- {p:1:At the time of Jessica\'s corpse discovery,
+ 
+At the time of Jessica\'s corpse discovery,
  only Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa, and Nanjo were in Jessica\'s room}."
-"Whoops, the corpse of {p:1:Jessica is also included, of course}.
- {p:1:Therefore, both in the case of Jessica\'s room and the case of this servant room, no humans exist that you were not aware of}.
- {p:1:No one is hiding}."
+"Whoops, the corpse of 
+Jessica is also included, of course}.
+ 
+Therefore, both in the case of Jessica\'s room and the case of this servant room, no humans exist that you were not aware of}.
+ 
+No one is hiding}."
 "And I\'ll say more.
- {p:1:No method exists by which the doors can be locked from the outside without using a key}.
- {p:1:Regarding the windows, no method exists by which they could somehow be locked from the outside}."
+ 
+No method exists by which the doors can be locked from the outside without using a key}.
+ 
+Regarding the windows, no method exists by which they could somehow be locked from the outside}."
 "And while I\'m at it.
- {p:1:You are incompetent}!"
-"*cackle*cackle*cackle*cackle*, {p:1:hiiihhi{0}hi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi}!!"
+ 
+You are incompetent}!"
+"*cackle*cackle*cackle*cackle*, 
+hiiihhi{0}hi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi}!!"
 "S‐.........son of a biiiiitch......
  Then.........it really is......a locked room, isn\'t it............"
 "It, ...it was so hard to think of, too.
@@ -500,14 +516,20 @@ It\'s either one hell or the other!!
  I can\'t choose!
 {n}Hiiiiiiiiiiiiiiiiiiiiiiiiiiiii!!!
 "That is why I am here...!!
- {p:1:Come on, Ushiromiya Battler, kneel}.
+ 
+Come on, Ushiromiya Battler, kneel}.
  Then swear your eternal loyalty and lick my shoes...!!"
-"{p:1:If you accept me, all of the riddles will be resolved}.
- {p:1:With my power, any kind of locked room can be created or destroyed}!!"
+"
+If you accept me, all of the riddles will be resolved}.
+ 
+With my power, any kind of locked room can be created or destroyed}!!"
 "Battler, don\'t you want to abandon yourself to the joy of surrendering to one with poweeeer??
- {p:1:I\'ll make you my favorite piece of furniture}.
- {p:1:I\'ll love you so much and make you my toy until you turn to ashes}..."
-"{p:1:*cackle*cackle*cackle*hihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hya{0}hya{0}hya{0}hha{0}hha{0}ha{0}ha{0}ha{0}hha{0}ha{0}ha{0}hha{0}hha{0}hha{0}hha{0}hha{0}hhahha}!!!"
+ 
+I\'ll make you my favorite piece of furniture}.
+ 
+I\'ll love you so much and make you my toy until you turn to ashes}..."
+"
+*cackle*cackle*cackle*hihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hya{0}hya{0}hya{0}hha{0}hha{0}ha{0}ha{0}ha{0}hha{0}ha{0}ha{0}hha{0}hha{0}hha{0}hha{0}hha{0}hhahha}!!!"
 ".........Now it\'s clear.
  There\'s no longer any reason to doubt."
 "Hm...?
@@ -849,8 +871,10 @@ something like that......?"
 "Please, Beato, show yourself here and tell Auntie Rosa...
 that those are all of the master keys, and that there\'s no need to suspect anyone anymore...!!!"
 "
-{p:1:There are only five master keys}.
- {p:1:There are only five master keys}."
+
+There are only five master keys}.
+ 
+There are only five master keys}."
 "...*cackle*, whatever could be wrong?
  It doesn\'t reach Rosa\'s ears no matter how often I say it.
  It seems there must still be someone who denies that I exist, isn\'t that riiiight?
@@ -870,7 +894,8 @@ that those are all of the master keys, and that there\'s no need to suspect anyo
  Can you do it?
  You can do it, riiiiiiiight??
  Then I\'ll appear, sure, I\'ll say it in red, sure!
- I\'ll tell Rosa that {p:1:there are only five master keys}!!"
+ I\'ll tell Rosa that 
+there are only five master keys}!!"
 "Oh, but I understand, there\'s no way you could throw away your lordly pride.
  But that\'s alright, that\'s more than enough, you\'re starting to waver a bit, aren\'t youu?"
 "For just an instant, you thought maybe it would be alright to lick my shoes, didn\'t youuu?

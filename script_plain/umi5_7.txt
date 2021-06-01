@@ -358,7 +358,8 @@ Or does she lose something...?
 "...As far as chessboard thinking tells us, ......people don\'t make moves which cause them to lose something.
  That means you must have something to gain by having us solve the epitaph..."
 "No.
- {p:1:This child has nothing to gain from having someone solve the epitaph}."
+ 
+This child has nothing to gain from having someone solve the epitaph}."
 "............Are you sure that\'s alright?
  Using the red truth like that without her permission."
 "......It is what she would want."
@@ -368,8 +369,10 @@ was that she wanted to make us find the gold\'s hiding place for her so that she
  .........Is that wrong too?"
 "Yes.
  ......In the first place,
- {p:1:the gold of the Golden Land belongs to her from the start}.
- {p:1:She has absolutely no need to make anyone find it for her or to snatch it away herself}."
+ 
+the gold of the Golden Land belongs to her from the start}.
+ 
+She has absolutely no need to make anyone find it for her or to snatch it away herself}."
 Of course.
  ......Beato is {f:5:Beatrice} the Golden.
 She\'s the master of the Golden Land and the Ushiromiya family alchemist.
@@ -386,7 +389,8 @@ No, to the contrary, she might get her own gold stolen away.
  Whether we solve it or not, she gains nothing.
  ......In other words, the whole issue of whether the epitaph is solved or not is immaterial in Beato\'s eyes."
 "......You could say that.
- {p:1:Whether the epitaph\'s riddle is solved or not, she has nothing at all to gain from it}."
+ 
+Whether the epitaph\'s riddle is solved or not, she has nothing at all to gain from it}."
 "It doesn\'t matter whether it\'s solved or not.
  ......Doesn\'t that mean that the epitaph\'s riddle {i:itself} has no value to Beato...?"
 "..................
@@ -404,7 +408,8 @@ Like two sides on a balanced scale.
 That means that the epitaph\'s riddle and massacring the entire family...
 have equal significance from Beato\'s point of view......
 But {f:5:Virgilia} responded with the red text.
-{p:1:Regardless of whether the epitaph is solved or not, Beato has nothing to gain}.
+
+Regardless of whether the epitaph is solved or not, Beato has nothing to gain}.
 If she has nothing to gain, then this epitaph\'s riddle...is meaningless and immaterial to Beato.
 In that case, how much are the epitaph murders, which lie on the other side of the scales and are equal to the epitaph\'s riddle in value...
 ......worth to her...?
@@ -514,9 +519,12 @@ No one tells you that you shouldn\'t eat it first, but our mentality leads us in
 "...................................."
 ......There\'s only me.
 ".........Let me first speak with the red.
- {p:1:Battler‐kun, you are not the culprit}.
- {p:1:You haven\'t killed anyone}.
- {p:1:This can be said of all games}."
+ 
+Battler‐kun, you are not the culprit}.
+ 
+You haven\'t killed anyone}.
+ 
+This can be said of all games}."
 "Then that.........just makes it even more likely that it\'s about me.
  ...It means the sole reason she had for bringing about the epitaph murders...was to show them to me."
 Beato\'s always making out that she chooses who to kill next by roulette.
@@ -526,8 +534,10 @@ In all of these supposedly random games, there\'s only this one unchanging const
 "She wants.........revenge? Against me?
  So is she performing the epitaph murders to make me feel fear...?"
 "That\'s wrong.
- ......{p:1:Her goal is not to make someone experience fear}.
- {p:1:And it isn\'t to have revenge on someone either}."
+ ......
+Her goal is not to make someone experience fear}.
+ 
+And it isn\'t to have revenge on someone either}."
 "In that case!
  That means the epitaph murders really don\'t mean anything to her.
  The riddle of the epitaph is meaningless, and the corresponding epitaph murders are also meaningless.
@@ -579,7 +589,8 @@ They aren\'t overly concerned about who wins and who loses......
  ......But now, I can\'t imagine that\'s true."
 ".........Thank you.
  In that case, I\'ll give you one more red.
- ...{p:1:Beato never committed murder for the sake of pleasure}."
+ ...
+Beato never committed murder for the sake of pleasure}."
 She didn\'t do it for pleasure, and she didn\'t do it to make anyone feel fear.
 She has nothing to gain from the epitaph murders,
  and she doesn\'t care whether they succeed or fail.

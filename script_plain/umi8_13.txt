@@ -52,7 +52,8 @@ Erika popped into existence out of nowhere and bowed to her master.
  After my long experience with witches, I\'ve decided not to trust normal words."
 "......Very well.
  I\'ll promise it with the red truth.
- ......{p:1:When the seal on the Book of the Single Truth is dissolved, you, Ange, will be the first to read it}.
+ ......
+When the seal on the Book of the Single Truth is dissolved, you, Ange, will be the first to read it}.
  ......Is that good enough for you?"
 For some time, Ange considered the witch\'s words, searching for some sort of trap hidden within them...
 There was no greater guarantee than a red truth given by a witch.
@@ -709,7 +710,8 @@ Before the diary unveiling party, a press conference was held in one of the room
  It seems that some are claiming it to be no more than the personal account of a single deceased person."
 "That is not the case.
  I guarantee it.
- {p:1:The truth is written in this diary}."
+ 
+The truth is written in this diary}."
 A stir passed through the crowd, and the room was suddenly filled with camera flashes.
 "This ends Hachijo\'s interview...!
  Allow us to express our deep gratitude to all members of the press for coming today!
@@ -866,14 +868,17 @@ This time, it wasn\'t conceptual, but words I could hear.
 However, they weren\'t words of the human world.
  They were a witch\'s words.
 The red truth, which signifies absolute truth.
-‘This is...{p:1:the truth of the Rokkenjima incident}!!’
+‘This is...
+the truth of the Rokkenjima incident}!!’
 "............I won\'t accept it."
 ‘It doesn\'t matter if you accept it or not!!
  This is the truth!!
- {p:1:After all, *********, ******************!!
+ 
+After all, *********, ******************!!
  *********************************}!!!’
 "......I won\'t accept it, I won\'t! ......I\'ll never accept a truth like that, ......never......"
-‘{p:1:Whether you accept it or not, that doesn\'t change the truth!!
+‘
+Whether you accept it or not, that doesn\'t change the truth!!
  After all, this is the Single Truth, proven in re{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eddd}!!’
 *giggle*giggle, ......heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh, hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!
 Who cares about the truth, so stupid, so pointless...!

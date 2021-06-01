@@ -221,12 +221,14 @@ When she gave this order, her subordinates hesitated, looking back and forth bet
 "Stand back!!
  We will arrest that woman!!
  Know that this maid is the culprit!!"
-"{p:1:It is forbidden for a servant to be the culprit}!!"
+"
+It is forbidden for a servant to be the culprit}!!"
 "Wh‐
 what...
 ......did you say.........?!?!"
 The words of power blasted away the Aides who were trying to arrest the maid.
-"{p:1:......Van Dine\'s Twenty Rules, Rule #11}.
+"
+......Van Dine\'s Twenty Rules, Rule #11}.
  ......If you want to torture this maid, make sure you double check the alibis for the second wife and her lover first."
 "Th‐those two already have a clear alibi for the time of the crime...!!"
 "That, an alibi?

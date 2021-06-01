@@ -979,10 +979,12 @@ Gaap had no intention of letting her get away.
  ......I believe that would be inelegant and rude in the {f:5:extreme}.
  Let us do this some other {f:5:time}.
  ......If you would excuse {f:5:me}."
-"......{p:2:It is possible for Kanon to save Battler.
+"......
+It is possible for Kanon to save Battler.
  After Erika sealed the room, he left by the window, switched places with Battler‐kun in the guest room, set the chain lock, and hid in the closet}."
 "......
-{p:1:That is {f:5:impossible}.
+
+That is {f:5:impossible}.
  The seals on the windows were also {f:5:intact}.
  Of course, this is at the time of the logic {f:5:error}}."
 Gaap\'s blue wedge and rapid reverse roundhouse......crossed with Dlanor\'s red longsword, and both pointed at the other\'s throat......
@@ -1000,7 +1002,8 @@ The once peaceful mood of the wedding broke apart.
  A hellish wedding truly is vulgar and {f:5:barbaric}.
  ......Now, excuse {f:5:me}."
 "......Hold it right there, you haven\'t fooled me yet......
- {p:2:You were talking about the seals blocking {i:Kanon}, the ones on the windows of the cousins\' room, right?
+ 
+You were talking about the seals blocking {i:Kanon}, the ones on the windows of the cousins\' room, right?
  Then what about the windows on the next room over?
  All you\'ve done is shown that the rescue would have been impossible for Kanon.
  There\'s still a chance for the humans in the next room over}...!"
@@ -1044,9 +1047,11 @@ Dlanor watched, shrugged, and turned away...
  Multiple submissions are forbidden, so the blue truth you just spoke will be unusable during this wedding {f:5:ceremony}.
  ......This is in accordance with the official Great Court Regulations, Article {nobr:214‐15}, "Prohibition of Multiple {f:5:Submissions}"!"
 "For your attention: I beg to inform you of the following.
- {p:1:Know that it is forbidden for blue truth to be used if based on the argument that the window seals of the next room over were torn at the time of the logic error}."
+ 
+Know that it is forbidden for blue truth to be used if based on the argument that the window seals of the next room over were torn at the time of the logic error}."
 "For your attention: I beg to inform you of the following.
- {p:1:Be advised that there can be no obligation to provide an answer to said blue truth}...!"
+ 
+Be advised that there can be no obligation to provide an answer to said blue truth}...!"
 "C‐cowards!!
  Hey, let go of me, rabbit band!!"
 The Chiester Sisters led Gaap away...

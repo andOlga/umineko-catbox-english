@@ -68,7 +68,8 @@ Then, the game board floated up once again, .........and a world unfolded itself
  ......As the Witch of Miracles, and as the final Game Master, I proclaim the start of the final game.
  And I make you this promise."
 {a:c:
-{p:1:I will not give this game a happy ending.}}
+
+I will not give this game a happy ending.}}
 *sob*.
  ......*sob*sob*......
 A single girl......was crying in a desolate, quiet chapel.

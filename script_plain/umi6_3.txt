@@ -522,7 +522,8 @@ Beato looked at Kumasawa with hopeful eyes, as though praying that she would tel
 "If I can\'t regain them,
  ......can\'t you at least tell me what kind of person the {f:5:Beatrice} Father loved was?"
 "Th‐......that is something I can tell you, but......"
-"{p:1:I was born for Father\'s sake}.
+"
+I was born for Father\'s sake}.
  So, I want to become the Golden Witch {f:5:Beatrice} that Father desires."
 "......B‐......{f:5:Beatrice}‐sama......"
 "I can\'t use magic.

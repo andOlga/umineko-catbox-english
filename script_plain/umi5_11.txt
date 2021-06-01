@@ -790,7 +790,8 @@ Erika wasn\'t blown back.
 {n}However, a blue wedge was stuck deeply into her.
 ".........So this is that so‐called blue truth.
  Well then, let me hear your opinion."
-"{p:2:You can\'t eliminate the possibility that Natsuhi met with Kinzo at 11 p.m.
+"
+You can\'t eliminate the possibility that Natsuhi met with Kinzo at 11 p.m.
  In the six‐plus hours between then and the time you all barged into the study, Kinzo had every opportunity to escape!
  Because of this, you can\'t state decisively that Kinzo doesn\'t exist}."
 Beato announced that with an expression worthy of her title as witch.
@@ -892,7 +893,8 @@ Their words were clad in the red truth and cut off the witch\'s method of escape
  I think it\'s best if you stay away from the door nyeh...
  Kihihi!"
 "For your attention: I further inform you of the following.
- {p:1:From last night at 23:00 until the present time, the study door was not opened even once}."
+ 
+From last night at 23:00 until the present time, the study door was not opened even once}."
 "Wh‐......what is that scrap of paper?"
 "It\'s a completely ordinary receipt.
  But even so, this mere scrap of paper proves that you lied."
@@ -909,7 +911,8 @@ Their words were clad in the red truth and cut off the witch\'s method of escape
 "The other windows are all locked as well.
  They can\'t be locked from the outside by construction...!"
 "For your attention: I beg to inform you of the following!
- Be advised that {p:1:the windows were all locked}!
+ Be advised that 
+the windows were all locked}!
  Guards, blockade all of the windows."
 "In the name of Eiserne Jungfrau, the imperial guard is hereby permitted to make use of forbidden weapons."
 "Understood, ma\'am.
@@ -989,10 +992,12 @@ Both Beato and Kinzo would be sent to a place where no one could catch them,
  How dare you stoop to this just because your lie about concealing Father\'s death is about to be revealed...!!"
 "Darn right!! Just where in this study is there a hidden door...?!!
  Go on, try provin\' it exists!!"
-"{p:2:No proof is required!!
+"
+No proof is required!!
  It\'s a Devil\'s Proof! The existence of a hidden door is impossible to discover or disprove!!
  Therefore, no one can eliminate the possibility that Kinzo escaped from this study through a hidden door}!!"
-"{p:1:I will not allow a hidden door to exist in this {f:5:room}}."
+"
+I will not allow a hidden door to exist in this {f:5:room}}."
 Beato\'s blue wedge, which had been fired off as a farewell gift,
  was crushed with a flash of Dlanor\'s longsword, ......and the pitch‐black gate was crushed as well...!
 And it wasn\'t just crushed visibly and physically.
@@ -1001,7 +1006,8 @@ From that moment onwards, the warp portal which conceptualized hidden doors had 
  ......use the red truth......?!
  And what was that?! What do you mean you "will not allow" hidden doors to exist?!"
 "It\'s because that\'s what defines a mystery.
- {p:1:Knox\'s 3rd: It is forbidden for hidden passages to exist}.
+ 
+Knox\'s 3rd: It is forbidden for hidden passages to exist}.
  You can\'t have any hidden doors in the mystery genre. I\'m terribly sorry."
 "In this world, gods other than our God do not exist, and hidden doors do not {f:5:exist}.
  They must not {f:5:exist}. We will not allow them to {f:5:exist}.
@@ -1025,22 +1031,30 @@ From that moment onwards, the warp portal which conceptualized hidden doors had 
  Educate me with your blue truth...!!"
 "......Very well.
  Make sure you don\'t regret it!!"
-"{p:2:It\'s possible that, after slipping out the door, Kinzo noticed the trick with the receipt and correctly returned it to its original place}."
-"{p:1:That possibility has already been eliminated in {f:5:red}.
+"
+It\'s possible that, after slipping out the door, Kinzo noticed the trick with the receipt and correctly returned it to its original place}."
+"
+That possibility has already been eliminated in {f:5:red}.
  After 23:00, the door to the study was not opened even {f:5:once}}."
-"{p:2:Kinzo might have been a marvelous mage and inventor!
+"
+Kinzo might have been a marvelous mage and inventor!
  He might have invented a concoction to turn his body to mist and slipped out through the keyhole}!!"
-"{p:1:No such substance {f:5:exists}.
+"
+No such substance {f:5:exists}.
  It must not {f:5:exist}}."
-"{p:2:Maybe he invented a teleportation device!
+"
+Maybe he invented a teleportation device!
  That possibility is impossible to eliminate because of the Devil\'s Proof}!!"
-"{p:1:Such a machine does not {f:5:exist}.
+"
+Such a machine does not {f:5:exist}.
  I will not permit it to {f:5:exist}}."
-"{p:2:Oh, so you can examine every chemical substance in the world?
+"
+Oh, so you can examine every chemical substance in the world?
  You can rule out the existence of unknown scientific devices?!
  There\'s no way you can, it\'s a Devil\'s Proof!
  You cannot rule out their existence}!"
-"{p:1:I will {f:5:repeat}.
+"
+I will {f:5:repeat}.
  In the name of God, I will not permit such chemicals or devices to {f:5:exist}.
  From now until the end of time, I will not permit them to {f:5:exist}}."
 "Even in the future?!
@@ -1101,13 +1115,15 @@ Of course, this didn\'t mean that she\'d surrendered.
  Why did Lady {f:5:Beatrice} acknowledge the locked room when she\'s trying to destroy it nyeh?"
 "......Sh‐she\'s probably going to claim that Kinzo existed outside of this room.
  ......Reactivation of the great Lady {f:5:Beatrice}\'s warp portal confirmed!"
-"{p:2:Natsuhi claims to have "talked with Kinzo in the study", but she never said that she spoke with him face to face.
+"
+Natsuhi claims to have "talked with Kinzo in the study", but she never said that she spoke with him face to face.
  Therefore, if Kinzo was in a location other than the study, there is no contradiction as long as they held a conversation}!"
 ".........nn—"
 After bouncing at an erratic angle, the witch\'s stake pierced the top of Dlanor\'s foot.
 "You sure are slow.
  ......Heheheheh, top of the foot, all mi~ne!"
-"{p:2:Natsuhi used the internal phone line in this study to speak with Kinzo, who was in another place!
+"
+Natsuhi used the internal phone line in this study to speak with Kinzo, who was in another place!
  There\'s nothing strange about Kinzo, who hates the relatives, predicting that they would enter his study and leaving to go elsewhere.
  He might have gone to the hidden mansion, Kuwadorian}!"
 The power of Beato\'s blue truth began to dwell in the Stake of Asmodeus piercing the top of Dlanor\'s foot, changing the stake into a blue wedge.
@@ -1122,7 +1138,8 @@ Dlanor moved clumsily, trying to pull the blue wedge out of her foot,
 Of course, Beato didn\'t miss this chance.
 {n}No witch would!
 "I have more, so prepare yourself.
- {p:2:There\'s a chance that the Kinzo mentioned by Natsuhi does not refer to the person himself!
+ 
+There\'s a chance that the Kinzo mentioned by Natsuhi does not refer to the person himself!
  The Kinzo spoken of by Natsuhi might have been another name for this room!
  Kinzo had taken refuge in Kuwadorian and was impossible to contact.
  Perhaps Natsuhi called this room "Father",
@@ -1134,13 +1151,16 @@ Beelzebub\'s blue wedge pierced the base of Dlanor\'s neck!
  Is that {f:5:all}?"
 "You don\'t call it a full‐course dinner if you stop at the soups and hors d\'oeuvres!
  I\'ll hit you with the main dish and the dessert at once, so watch your stomach explode and die!!!"
-"{p:2:Even if, as you say, this is a locked room and impossible to escape from, you can\'t deny the possibility that he is still hiding in this room.
+"
+Even if, as you say, this is a locked room and impossible to escape from, you can\'t deny the possibility that he is still hiding in this room.
  I\'m not talking about a hidden door! He might be under the bed or above the ceiling!
  He might be hiding in such a subtle blind spot that even a demon would not recognize it}!"
-"{p:2:Or, it might be that Natsuhi, ordered by Kinzo to act as his proxy,
+"
+Or, it might be that Natsuhi, ordered by Kinzo to act as his proxy,
  considered herself both his representative and another Kinzo!
  In other words, it\'s possible that Natsuhi was also Kinzo}!"
-"{p:2:I\'ve got plenty more!! At eleven o\'clock last night, Kinzo escaped out the window!
+"
+I\'ve got plenty more!! At eleven o\'clock last night, Kinzo escaped out the window!
  Natsuhi watched him go, then locked the window!!
  This doesn\'t lead to any problems. In fact, it might be the most beautiful blue truth yet}!"
 "How\'s that, Dlanor A. Knox?!
@@ -1223,9 +1243,11 @@ Erika grinned at Natsuhi with a smile more demonic than a real demon\'s.
 "Wh‐why would I send Father out through the window?!!
  This is intolerable! This mockery is intolerable!!"
 "For your attention: I beg to inform you of the following.
- {p:1:The "Kinzo" Natsuhi mentions refers to nothing other than Ushiromiya Kinzo}."
+ 
+The "Kinzo" Natsuhi mentions refers to nothing other than Ushiromiya Kinzo}."
 "For your attention: I beg to inform you of the following!
- {p:1:Natsuhi claims that she was face‐to‐face with Kinzo in the study at 11 p.m.}!"
+ 
+Natsuhi claims that she was face‐to‐face with Kinzo in the study at 11 p.m.}!"
 "Ah, .........aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh...!!"
 Natsuhi let out a cry, but it was too late...
 {n}She had completely risen to their provocation...!
@@ -1258,17 +1280,24 @@ If this wedge was taken out, ......then......!
 "Allow me to {f:5:ask}.
  Just where in this study is Kinzo {f:5:hiding}?"
 "Heheh, who knows...
- {p:2:Maybe he\'s under the bed}?!"
-"{p:1:That possibility was searched and {f:5:voided}}."
-"{p:2:Maybe he\'s in the bathtub}!!"
-"{p:1:Searched and {f:5:voided}}."
-"{p:2:Inside the closet!
+ 
+Maybe he\'s under the bed}?!"
+"
+That possibility was searched and {f:5:voided}}."
+"
+Maybe he\'s in the bathtub}!!"
+"
+Searched and {f:5:voided}}."
+"
+Inside the closet!
  Under the desk!
  Behind the curtains}!!"
-"{p:1:Searched and {f:5:voided}.
+"
+Searched and {f:5:voided}.
  {f:5:Voided}.
  {f:5:Voided}}."
-"{p:2:Behind the bookshelf,
+"
+Behind the bookshelf,
  behind the closet,
  under the carpet,
  under the floor,
@@ -1279,7 +1308,8 @@ If this wedge was taken out, ......then......!
  inside a rock,
  inside a stone,
  inside the room}!!"
-"{p:1:Voi{f:5:ded}, voi{f:5:ded}, voi{f:5:ded}.
+"
+Voi{f:5:ded}, voi{f:5:ded}, voi{f:5:ded}.
  Voi‐voi‐voi‐{f:5:dead‐dead‐dead}!
  Voi‐voi‐voi‐voi‐voi‐voi‐voi‐voi‐{f:5:death‐death‐death‐death‐death‐death‐death‐death}!
  <Die the DEATH>!
@@ -1527,7 +1557,8 @@ It was possible for him to move without Natsuhi\'s knowledge.
 "Warning! Battler is approaching the study door!"
 "For your attention:
  a loud noise is produced when the lock on the study door is released.
- Know that {p:1:you cannot leave through the door without drawing Natsuhi\'s suspicion}."
+ Know that 
+you cannot leave through the door without drawing Natsuhi\'s suspicion}."
 Because Battler had acted as though he was heading for the door, Gertrude, who was sealing the door, immediately issued a warning.
 Maybe it was possible for him to leave the study while in Natsuhi\'s blind spot.
 ......However.
@@ -1536,7 +1567,8 @@ Maybe it was possible for him to leave the study while in Natsuhi\'s blind spot.
  Even if Natsuhi was in a blind spot inside the study, she wouldn\'t have missed the loud sound of the auto‐lock releasing.
  There\'s no {i:way} she wouldn\'t find that odd...!!"
 "For your attention:
- I beg to inform you that {p:1:Natsuhi did not hear the sound of the door opening while in the room}."
+ I beg to inform you that 
+Natsuhi did not hear the sound of the door opening while in the room}."
 The washroom and toilet are very close to the door.
 {n}Even if they hadn\'t been, that auto‐lock always lets off such a massive sound.
 She\'d be able to hear that sound no matter what.
@@ -1544,7 +1576,8 @@ Natsuhi had already spoken with Erika and the others about the details of the pr
  and she had made it quite clear that nothing out of the ordinary had occurred.
 The argument that Natsuhi could have failed to hear the lock would not work...!
 "For your attention: I further inform you of the following.
- {p:1:Kinzo entering or exiting through the door will not be permitted}."
+ 
+Kinzo entering or exiting through the door will not be permitted}."
 "For your attention: I beg to inform you that this is a useless struggle!
  It is foolish in the extreme...!!"
 ".........It\'s true that I can\'t break through the red of that girl by the door.
@@ -1585,8 +1618,10 @@ And it was always the witch\'s last futile resistance at the brink of death!
 Cornelia thrust out both her arms and drew a sign.
 {n}When she did, a red barrier blocked the way ahead of Battler.
 "I beg to inform you that this is useless, Ushiromiya Battler...!
- For your attention: my {p:1:windows are sealed from the inside, and Natsuhi did not help Kinzo to escape}...!!"
-"{p:2:I\'m not saying Aunt Natsuhi helped Grandfather escape.
+ For your attention: my 
+windows are sealed from the inside, and Natsuhi did not help Kinzo to escape}...!!"
+"
+I\'m not saying Aunt Natsuhi helped Grandfather escape.
  ......What if Grandfather snuck out, keeping it a secret from Aunt Natsuhi}?!"
 "Wh‐why would Kinzo go out the window on his own?!!!"
 "On this night of madness, leaping out into the rainy sky...
@@ -1615,15 +1650,19 @@ Cornelia quickly came back to her senses and set up another red barrier.
 "For your attention: I beg to state the following...!!
  Let us temporarily assume that Kinzo did escape through the window...!
  In that case, how did he lock a window which cannot be locked from the outside?!
- {p:1:The window was locked from the inside}!!"
+ 
+The window was locked from the inside}!!"
 ".........No good!"
 "Yeah, it\'s no goddamn good at all!!"
 Kinzo and Battler grinned!
 She thought this feeble red could block the charge of Battler and Kinzo, the two family heads?
-"{p:2:After Grandfather jumped out the window, Aunt Natsuhi probably noticed a slight draft.
+"
+After Grandfather jumped out the window, Aunt Natsuhi probably noticed a slight draft.
  She then approached the window, realized that it was wide open, and quickly closed and locked it}...!!"
-"{p:2:Natsuhi probably couldn\'t even imagine that I had slipped out the window}!"
-"{p:2:Yeah!!
+"
+Natsuhi probably couldn\'t even imagine that I had slipped out the window}!"
+"
+Yeah!!
  So it\'s only natural that Aunt Natsuhi thought Grandfather was sleeping in bed}!!"
 Now that Battler had found the answer, the red barrier was more fragile than thin glass.
 The red magical wall of certainty had been smashed again, so easily that it disgraced the name of certainty itself!
@@ -1636,11 +1675,13 @@ She took a talisman from her pocket, placed it in thin air, and drew a sign.
 Then, not red, but blue burned there.
 {n}Though it was far more frail than the red barrier, it was her last method of resistance.
 "Y‐you won\'t get through, you won\'t!! For your attention, for your attention!!
- {p:2:Be that as it may, this is the third floor...!
+ 
+Be that as it may, this is the third floor...!
  How could a wingless human escape from the window}......?!!
  Know that you won\'t get through, you wooooooooon\'t!!"
 "Just quit your whining and watch!!!"
-"{p:2:This is the answe{-}e{-}e{-}e{-}e{-}e{-}e{-}er{-}r{-}r{0}r{0}r{0}r{0}ra{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh}!!"
+"
+This is the answe{-}e{-}e{-}e{-}e{-}e{-}e{-}er{-}r{-}r{0}r{0}r{0}r{0}ra{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh}!!"
 Battler......flew.
 He burst through Cornelia\'s blue barrier, smashing it away,
  .....and his body flew out the window into the darkness of the rainy sky.
@@ -1673,14 +1714,17 @@ It seemed slow.
 Their gazes crossed and clashed like lightning.
 When knight confronts knight, it is always head‐on and decided in a single strike......!
 Blue and red......crossed paths......
-"{p:2:Was the existence of Natsuhi\'s blind spot within the study depicted {f:5:beforehand}?
+"
+Was the existence of Natsuhi\'s blind spot within the study depicted {f:5:beforehand}?
  If it was not, this theory is {f:5:impermissible}}.
- {p:1:Knox\'s 8th:
+ 
+Knox\'s 8th:
  It is forbidden for the case to be resolved with clues that are not {f:5:presented}}...!!"
 Dlanor\'s double strike with both the blue and red blades sliced at Battler,
  .........and missed.
 Those longswords, which had never lost in a hundred battles, cut through the empty air......
-"{p:1:When we entered the study, its structure was mentioned clearly}.
+"
+When we entered the study, its structure was mentioned clearly}.
  ......Sorry, little miss."
 For the first time, Dlanor showed an expression.
 {n}......It was a soft smile.
@@ -1694,8 +1738,10 @@ So though she had known that she wouldn\'t make it, she had still crossed swords
 "Yes, {f:5:come}."
 In Battler\'s hand......was a blade that shone red.
 {n}That blade etched out the red truth......
-{p:1:― It wouldn\'t be an exaggeration to say that Kinzo\'s study was a small villa he had created inside the mansion.}
-{p:1:― A study.
+
+― It wouldn\'t be an exaggeration to say that Kinzo\'s study was a small villa he had created inside the mansion.}
+
+― A study.
  A book archive.
  A place to sleep.
  And a bathroom and washroom.
@@ -1866,7 +1912,8 @@ As though readying herself, Dlanor quietly closed her eyes, but she still stood 
 The blue power gathered.
 {n}......Battler slowly approached Dlanor.
 Then, he faced the rainy sky and yelled out the blue truth.
-"{p:2:Ushiromiya Kinzo escaped from the study through the window when Aunt Natsuhi couldn\'t see him.
+"
+Ushiromiya Kinzo escaped from the study through the window when Aunt Natsuhi couldn\'t see him.
  Aunt Natsuhi didn\'t notice and locked the window.
  This way, Aunt Natsuhi can see Grandfather go to bed at eleven o\'clock and Grandfather can escape from the study without contradicting the lock of the window or the door sealed by the receipt.
  I proved through my demonstration that this escape was physically possible.

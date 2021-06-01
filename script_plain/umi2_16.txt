@@ -434,14 +434,23 @@ Auntie Rosa pointed the barrel of that gun at me...
  how do you say the culprit killed George‐aniki and the rest in that locked room?!
  How did they lock it?!!"
 "Absolutely and totally correct!
- {p:1:Natsuhi\'s room was exactly the same, just like usual}!
- {p:1:The door and the windows were locked from the inside}."
-"{p:1:There were no frauds or tricks, no means of secret passage nor places in which to hide}!
- {p:1:Natsuhi\'s own key was in George\'s pocket, and locked inside the room}.
- {p:1:That leaves only the five master keys, and "Rosa" was holding all of them}!"
-"{p:1:And while I\'m at it, the parlor is the same}.
- {p:1:The key to the parlor itself is sealed away in the servant room}.
- {p:1:So unlocking it with anything but a master key is impossible}! {p:1:The locked‐room definition of the room is the same as always}!"
+ 
+Natsuhi\'s room was exactly the same, just like usual}!
+ 
+The door and the windows were locked from the inside}."
+"
+There were no frauds or tricks, no means of secret passage nor places in which to hide}!
+ 
+Natsuhi\'s own key was in George\'s pocket, and locked inside the room}.
+ 
+That leaves only the five master keys, and "Rosa" was holding all of them}!"
+"
+And while I\'m at it, the parlor is the same}.
+ 
+The key to the parlor itself is sealed away in the servant room}.
+ 
+So unlocking it with anything but a master key is impossible}! 
+The locked‐room definition of the room is the same as always}!"
 "Come onnnnn, there\'s only one suspect noooooooooow,
  or are you still playing dumb, Ushiromiya Battleeee{-}e{-}e{-}e{-}e{-}e{-}e{-}eeeer?!"
 "Shut uuuuuuup!!

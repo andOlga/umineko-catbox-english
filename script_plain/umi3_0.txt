@@ -276,7 +276,8 @@ That\'s right, just like that.
 "Kyahhahahahahahaha!!
  Wronnng!"
 "So naive.
- {p:1:Of all of the doors that exist on Rokkenjima, none has a crack through which a key can slip}."
+ 
+Of all of the doors that exist on Rokkenjima, none has a crack through which a key can slip}."
 "He got it wrong? He got it wrong?!
  Right, this time me, my turn!
  Wherrre should I strike!"

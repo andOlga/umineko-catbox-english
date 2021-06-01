@@ -485,7 +485,8 @@ Which meant that it was possible that the gold didn\'t exist and was just an ill
 "However, ......‘I’ have finally found it...
  The cat box...has been opened...!"
 "It\'d be a waste of time to do that repetition game, so I\'ll give you a little bonus.
- {p:1:This mountain of gold is the real thing.
+ 
+This mountain of gold is the real thing.
  All of the ingots piled up here are real, pure gold!
  There are absolutely no tricks such as replicas or fakes}!!"
 "......Alright, got it.
@@ -502,9 +503,11 @@ Which meant that it was possible that the gold didn\'t exist and was just an ill
  ...I only {i:felt as though} Grandfather and I had exchanged words.
  Give it a rest. The same move won\'t work again!"
 "In that case, your blue truth, if you please!"
-"{p:2:I was probably in a state of euphoria after solving the epitaph\'s riddle.
+"
+I was probably in a state of euphoria after solving the epitaph\'s riddle.
  And that caused me to mistake something for Grandfather}."
-"{p:2:For example, maybe that was some kind of sheet or cover that had gotten caught in a dark grove of trees,
+"
+For example, maybe that was some kind of sheet or cover that had gotten caught in a dark grove of trees,
  which looked like Grandfather wearing a pitch black cloak!
  As a result, I mistakenly thought that I\'d had some sort of conversation with Grandfather}."
 ".........Blue truth, valid.

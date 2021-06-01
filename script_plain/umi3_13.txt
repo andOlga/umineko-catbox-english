@@ -91,8 +91,10 @@ that the grotesque nightmare she had just had was only a dream...
  It is thought that Maria\'s death was due to strangling with bare hands.
  However, due to the "Devil\'s Proof", we cannot discount a misdiagnosis."
 "......I will say it in red.
- {p:1:Rosa and Maria died}.
- {p:1:The causes of death were as Nanjo diagnosed}.
+ 
+Rosa and Maria died}.
+ 
+The causes of death were as Nanjo diagnosed}.
  ......She wasn\'t eaten by a spider, nor was she crushed by a mountain of cake.
  Don\'t worry."
 "............So you argue that even though you toyed with their death so much, it\'s all okay because the corpse is clean...
@@ -282,7 +284,8 @@ Then, as though finding revulsion in his own bad mood, he chuckled.
  If we suppose that Auntie Rosa is the culprit and died in an accident, I can deny the witch.
  ......I don\'t want to suspect Auntie Rosa, but for now I\'ll deliberately assume that it was her, just to beat the hell out of Beato."
 "I will deny it with red.
- {p:1:Rosa\'s and Maria\'s deaths were homicides}."
+ 
+Rosa\'s and Maria\'s deaths were homicides}."
 "Alright.
  ...Why don\'t we start from there.
  ...............Damn, I\'m just not getting fired up."

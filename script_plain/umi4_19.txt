@@ -221,8 +221,10 @@ But......it\'s inconceivable......!
 That stuffed animal, the only one of its kind in the world, was torn apart and thrown away,
  and not a thread remained.
 Reviving it is an absolutely certain impossibility......!!
-{p:1:This is my Golden Land}...!
-{p:1:A world where magic that isn\'t mine certainly cannot exist}!!!
+
+This is my Golden Land}...!
+
+A world where magic that isn\'t mine certainly cannot exist}!!!
 "G‐
 ......go right ahead,
  ......I defy you to do it, Ushiromiya Angeeeee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eee!!!"
@@ -294,13 +296,18 @@ Then, still hugging Sakutarou,
 "What are you so flustered about, {f:5:Beatrice}?
  ..................This is...magic, right?"
 "It cannot possibly be magic...!!
- {p:1:This is my Golden Land}!!
- {p:1:A world where magic that isn\'t mine certainly cannot exist}!!
+ 
+This is my Golden Land}!!
+ 
+A world where magic that isn\'t mine certainly cannot exist}!!
  And my
- {p:1:magic was not able to revive Sakutarou}...!!"
+ 
+magic was not able to revive Sakutarou}...!!"
 "There\'s no way it could!!
- {p:1:That stuffed animal was a special stuffed animal}!
- {p:1:Rosa made it for her daughter\'s birthday, and in the entire world, only one of its kind}—
+ 
+That stuffed animal was a special stuffed animal}!
+ 
+Rosa made it for her daughter\'s birthday, and in the entire world, only one of its kind}—
 .........—
 ...............u...
 ...............hh......"
@@ -477,7 +484,8 @@ Of course, she answered right away.
 "Yes, that\'s true.
  Beato declared it with the red truth.
  ......So I\'ll declare it too.
- {p:1:Ushiromiya Battler is not Ushiromiya Asumu\'s son}."
+ 
+Ushiromiya Battler is not Ushiromiya Asumu\'s son}."
 ".........Hmph, ......in that case, he is not qualified to be the opponent in my game, is he..."
 "Repetition request for {f:5:Beatrice}.
  "Ushiromiya Battler is not Ushiromiya Kinzo\'s grandchild"."
@@ -486,15 +494,20 @@ As Beato wrinkled her forehead,
  ......a pained smile rose to her face.
 "Declining to repeat, I see.
  Beato declared two red truths:
- "{p:1:You are not Asumu\'s son}",
+ "
+You are not Asumu\'s son}",
  and
- "{p:1:No one except Kinzo\'s grandchild Battler is qualified to be her opponent}"."
+ "
+No one except Kinzo\'s grandchild Battler is qualified to be her opponent}"."
 "The following theory will see you accepted as qualified without any contradictions.
  This is my blue truth—listen to this...!"
-{p:2:The one who is qualified to be Beato\'s opponent is "Kinzo\'s grandchild, Ushiromiya Battler",}
+
+The one who is qualified to be Beato\'s opponent is "Kinzo\'s grandchild, Ushiromiya Battler",}
  and whether that person is "Asumu\'s son" or not is not an issue.
-{p:2:In other words, you can be Kinzo\'s grandchild even if you are not Asumu\'s son}.
-{p:2:As long as you are Rudolf\'s son}!
+
+In other words, you can be Kinzo\'s grandchild even if you are not Asumu\'s son}.
+
+As long as you are Rudolf\'s son}!
 "Hmph, what a stupid word game."
 "...............Blue truth, valid.
  Beato, your counterargument with the red truth?
@@ -520,7 +533,8 @@ As Beato wrinkled her forehead,
 "Say it in red!
  Say that Ange is your little sister!!"
 ".........
-{p:1:Ange is......my little sister}.
+
+Ange is......my little sister}.
  .........ah, ............it worked."
 She hugged Battler, who was still out of it and slumped in his chair, strongly from behind.
  So strongly that it hurt.
@@ -587,29 +601,44 @@ What he needs is not some vague purpose, like winning against the witch, or beca
 "No, ......no more witches...!
  Enough of Beato, ...enough of everything...and you too, you\'re probably just another one of the witch\'s allies...
  I could be betrayed again at any time...!!"
-"{p:1:I can\'t trust anything, I can\'t trust any words that aren\'t red}...!!
+"
+I can\'t trust anything, I can\'t trust any words that aren\'t red}...!!
  Leave me alone, leave me alo{-}o{-}o{-}o{-}o{-}o{-}o{-}ooone!!"
 Battler\'s soul howled.
  She hugged his head from behind, so tightly that it hurt.
-"{p:1:Hurry up and come home, Onii‐chan}!!
- {p:1:Don\'t leave me all alone}!!!"
+"
+Hurry up and come home, Onii‐chan}!!
+ 
+Don\'t leave me all alone}!!!"
 "...............Huh......?
  .........Who...
 ...............are you......?"
-"{p:1:It\'s me, it\'s Ange}...!!
- {p:1:No one\'s coming back home, Onii‐chan, not you, not Mom, not Dad}!!
- {p:1:I\'m so lonely}!!
- {p:1:Please, hurry up and come home}!"
+"
+It\'s me, it\'s Ange}...!!
+ 
+No one\'s coming back home, Onii‐chan, not you, not Mom, not Dad}!!
+ 
+I\'m so lonely}!!
+ 
+Please, hurry up and come home}!"
 "......A‐.........Ange......
  .........So you were.........Ange............"
-"{p:1:That\'s right, I\'m Ange}!!
- {p:1:The Ushiromiya Ange of a world where no one comes home}...!!
- .........{p:1:My entire family...never came home from Rokkenjima that day}...!!"
-"{p:1:The witch before your eyes stole away my whole family, even you}...!
- .........{p:1:Only you can finish her, Onii‐chan}!!
- {p:1:Finish her}...!!"
-"{p:1:And take your family back}!!
- {p:1:And then.........come home to me}......!!!"
+"
+That\'s right, I\'m Ange}!!
+ 
+The Ushiromiya Ange of a world where no one comes home}...!!
+ .........
+My entire family...never came home from Rokkenjima that day}...!!"
+"
+The witch before your eyes stole away my whole family, even you}...!
+ .........
+Only you can finish her, Onii‐chan}!!
+ 
+Finish her}...!!"
+"
+And take your family back}!!
+ 
+And then.........come home to me}......!!!"
 "...............Beato stole...
 ...my family........."
 "......Hmph, ............as she says.

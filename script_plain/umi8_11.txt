@@ -1043,25 +1043,32 @@ Of course, it was easy to set and unset the chain from the inside.
 However, stepping into their opponent\'s chained room would be difficult.
 They were fighting to the death with two chain locked rooms at once.
 There could be no better locked‐room duel for this pair, who had battled with theories concerning chained rooms so often.
-"{p:2:Furudo Erika committed suicide, died in an accident, died of illness, died by some reason other than homicide}!!"
-"{p:1:It wasn\'t a suicide, it wasn\'t an accidental death, it wasn\'t a death by illness! I really was killed by you, Battler‐san}!!!"
-"{p:2:It was a murder committed by slipping poison gas through the crack of the door, by filling the room with water and drowning you, by sucking the oxygen out of the room and making you suffocate}!!"
-"{p:1:There was no poison gas, there was no drowning, there was no death by suffocation}!!"
+"
+Furudo Erika committed suicide, died in an accident, died of illness, died by some reason other than homicide}!!"
+"
+It wasn\'t a suicide, it wasn\'t an accidental death, it wasn\'t a death by illness! I really was killed by you, Battler‐san}!!!"
+"
+It was a murder committed by slipping poison gas through the crack of the door, by filling the room with water and drowning you, by sucking the oxygen out of the room and making you suffocate}!!"
+"
+There was no poison gas, there was no drowning, there was no death by suffocation}!!"
 "Hahahaha, ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!
  A locked room murder with poison gas? Death by drowning? Suffocation?!
  *giggle*giggle*, aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!"
 "Crazy, right? It\'s funny, isn\'t it?"
 "<Good>!!
- {p:2:Ushiromiya Battler committed suicide, he died in an accident, he died by illness}!!
+ 
+Ushiromiya Battler committed suicide, he died in an accident, he died by illness}!!
  Time for me to test your locked room!"
 "Red truth!!
- {p:1:Ushiromiya Battler was stabbed to death!!
+ 
+Ushiromiya Battler was stabbed to death!!
  Let\'s say the weapon was a knife, stuck right into his back}!!"
 "<Good>!!
  Nothing beats a classic locked room!!"
 "Then why don\'t you try it too?!"
 "I\'ll take that challenge with the red truth!!
- {p:1:Furudo Erika was stabbed to death!
+ 
+Furudo Erika was stabbed to death!
  The weapon was a knife, stuck right in her back}!!"
 "Interesting!!
  I\'ll tear your locked room to bii{-}i{-}i{-}i{-}i{-}i{-}i{-}its!!"
@@ -1078,5 +1085,6 @@ After shrugging impatiently, Ange finally faced Beato.
  .........When he\'s not around, I sometimes forget to hold back."
 "What a coincidence.
  I feel the same."
-"{p:1:I killed you inside a perfect locked room, with windows, doors, and all other methods of entry or exit blocked}!!"
+"
+I killed you inside a perfect locked room, with windows, doors, and all other methods of entry or exit blocked}!!"
 "Okay, I\'ll play along with your game. Repetition requested!!!"

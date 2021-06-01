@@ -893,11 +893,13 @@ And now......it was clear that {f:5:Beatrice} had already reached one.
 "Repetition requested.
  "The one who rescued Battler was, without a doubt, Kanon.""
 "Very well.
- {p:1:The one who rescued Battler was, without a doubt, Kanon}."
+ 
+The one who rescued Battler was, without a doubt, Kanon}."
 "Repetition requested.
  "Battler and Kanon are different people.""
 "Very well.
- {p:1:Battler and Kanon are different people}."
+ 
+Battler and Kanon are different people}."
 "......Hmph.
  That\'s enough."
 "Erika, are you done confirming things?"
@@ -1034,8 +1036,10 @@ Then, without any signal, the two slowly raised their guns...
 "Here I go!!"
 After holding the gun high and pointing it at Beato once more,
  Erika pulled the trigger with statements of red and blue truth.
-"{p:1:The cousins\' room is guaranteed to be a perfect locked room until the end}.
- {p:2:So, if Kanon really had been in that room, it would have been impossible for him to escape!
+"
+The cousins\' room is guaranteed to be a perfect locked room until the end}.
+ 
+So, if Kanon really had been in that room, it would have been impossible for him to escape!
  In other words, Kanon was not in the cousins\' room at the time it was sealed!!
  Kanon\'s name is an alias.
  His real name is still unknown!
@@ -1046,9 +1050,11 @@ The goat attendees chattered and clapped their hands in realization.
 Ah, I love watching this.
 {n}I love being surrounded by this chatter.
 {n}......After all, ......I am a detective!!
-"{p:1:It is true that the next room over was sealed,
+"
+It is true that the next room over was sealed,
  but at the time of the logic error, only the doors were checked to see whether the seals were preserved}.
- {p:2:Therefore, there is a chance that the window seals were broken.
+ 
+Therefore, there is a chance that the window seals were broken.
  Kanon was in the next room over, and he escaped through that window}...!!
  That is all!!!"
 Any other theory would be impossible!!
@@ -1065,7 +1071,8 @@ There was a confident smile on her face.
 {n}It was as though she was offering to play with Erika a little longer.
 ......In fact, that was Beato through and through.
 {f:5:Beatrice}, the witch who mocks others with unsolvable locked room tricks...!
-"{p:1:At the time the next room over was sealed,
+"
+At the time the next room over was sealed,
  Hideyoshi, George, Kumasawa, Shannon, and Nanjo were in it.
  And the number of people in the next room over was five.
  No one existed there except for those to whom those five names refer!
@@ -1158,36 +1165,42 @@ This final duel......has already begun, even though we haven\'t pulled our trigg
 "Repetition requested.
  "At the time Battler was rescued, only Kanon entered the guest room.""
 "I acknowledge it.
- {p:1:At the time Battler was rescued, only Kanon entered the guest room}.
+ 
+At the time Battler was rescued, only Kanon entered the guest room}.
  I believe that was the whole point..."
 "Repetition requested.
  "From the time I entered the room to the time of the logic error, Battler, Kanon, and I were the only ones who entered or exited the room.""
-"{p:1:I acknowledge it.
+"
+I acknowledge it.
  From the time you entered the room to the time of the logic error, you, Battler, and Kanon were the only ones who went in or out of the guest room}."
 "Repetition requested.
  "This refers to three people.""
-"{p:1:I acknowledge it.
+"
+I acknowledge it.
  It refers to three people: you, Battler, and Kanon}."
 "Confirming definition.
  Can I accept "three people" to mean the number of bodies?
  You\'re saying that three bodies went in or out of the room, right?"
 I\'ve had enough of things being mixed about with names and numbers of people.
 {n}I want this point to be clear...!
-"{p:1:Of course.
+"
+Of course.
  Three people—in other words, three bodies—went in or out.
  Only you and Kanon entered, and only Battler left.
  It has already been said in red that every name has just one person that it belongs to, and no one can go by a name that is not theirs.
  Therefore, for each of the names "Erika", "Battler", and "Kanon", only that single person can go by that name}."
 "Repetition requested.
  "I am not the rescuer.""
-"{p:1:Of course}!
+"
+Of course}!
  You are the detective, are you not?
  Worry not, I will respect that!"
 "Confirming definition.
  How do you define "rescuer"?"
 This is also important.
 {n}I want to immediately remove the possibility that I rescued him accidentally.
-"{p:1:A "rescuer" means someone who reset the chain lock after Battler undid it.
+"
+A "rescuer" means someone who reset the chain lock after Battler undid it.
  It does not matter whether they intended to save Battler or not}."
 Since she said "after Battler undid the chain lock", it\'s impossible for this to have occurred before I set foot in the room.
 After that point in time, I would not undo the chain "for all eternity".
@@ -1205,17 +1218,20 @@ There\'s no room for anyone but Kanon to be involved.
 ......At least, so far!
 "Repetition requested.
  "The definition of "going in or out" is "crossing the boundary between the guest room and the area outside it.""
-"{p:1:I acknowledge it}."
+"
+I acknowledge it}."
 "Repetition requested.
  "The phrase "guest room" includes all of:
  the bedroom,
  the bathroom,
  and the closet.""
-"{p:1:I acknowledge it}.
+"
+I acknowledge it}.
  I\'ve no intention of wriggling out of this by saying the closet isn\'t part of the guest room."
 "Confirming definition.
  The inside of the guest room is divided into three sections: the bedroom, the bathroom, and the closet."
-"{p:1:I also recognize it as such.
+"
+I also recognize it as such.
  Furthermore, you have already confirmed with the red truth that two of those sections, the bedroom and the bathroom,
  had no one hiding in them}."
 "Repetition requested.
@@ -1250,20 +1266,29 @@ The people who have gone in and out of the room have been confirmed both by name
 ...my theory...
 ...is set in stone.
 First, here are the details of the situation that are certain!
-{p:1:The game ended while I was inside the guest room,
+
+The game ended while I was inside the guest room,
  so I did not undo the chain lock that I had previously set.}
-{p:1:So, it can\'t be that he escaped behind my back after I left the room.}
-{p:1:Furthermore, the chain lock was set at the same time I entered the room.
+
+So, it can\'t be that he escaped behind my back after I left the room.}
+
+Furthermore, the chain lock was set at the same time I entered the room.
 {n}No one could have left the room during the few seconds between the time I entered and the time I set the chain lock.}
-{p:1:I sealed the guest room at the time I examined Battler\'s "corpse",
+
+I sealed the guest room at the time I examined Battler\'s "corpse",
  so until I came again and broke the seals, it was absolutely impossible for anyone to go in or out.}
-{p:1:Therefore, it\'s certain that Battler was hiding somewhere inside the guest room at the time that I entered it.}
-{p:1:The only chance Battler had to escape was after I broke the seals.}
-{p:1:To be even more specific, he had no chance to escape except for the time I was in the bathroom}.
+
+Therefore, it\'s certain that Battler was hiding somewhere inside the guest room at the time that I entered it.}
+
+The only chance Battler had to escape was after I broke the seals.}
+
+To be even more specific, he had no chance to escape except for the time I was in the bathroom}.
 By the above premises, Battler\'s trick to escape with the chain still set is as follows!
-{p:2:For the aforementioned reasons, the only one who could have set the chain lock, which can only be set from the inside, and allowed Battler\'s escape...
+
+For the aforementioned reasons, the only one who could have set the chain lock, which can only be set from the inside, and allowed Battler\'s escape...
 is Kanon, the only person to enter the room except for me and Battler!}
-{p:2:After Kanon entered the room, he set the chain,
+
+After Kanon entered the room, he set the chain,
  hid in the one place that he could hide inside the guest room, the closet—}
 .........Ah?!
 Whoa, that was close!!
@@ -1352,13 +1377,15 @@ Slowly,
  I\'ve seen through your double check."
 "............Then come."
 "......
-{p:2:‘Battler\'s guest room disappearance trick’ is as follows.
+
+‘Battler\'s guest room disappearance trick’ is as follows.
  ......While I searched the room, Battler was hiding in the closet.
  Then, during the disturbance in the bathroom, he unset the chain and escaped from the room.
  At that time, Kanon was waiting for him in the hallway.
  Kanon entered the guest room in his place and set the chain.
  This is the trick to Battler\'s disappearance}."
-"{p:2:......And, afterwards,
+"
+......And, afterwards,
  .........he hid in the bedroom.
  This happened after I checked to see that there was no one unexpected in the bedroom, so it is valid.
  In this way, Kanon the rescuer concealed himself in the bedroom}."
@@ -1366,7 +1393,8 @@ Erika\'s blue bullet flew in a strange arc,
  became a wedge of the blue truth, and pierced straight down through the bed and the floor beneath.
 Beato didn\'t pull her trigger.
 ......However, she did quietly argue back with the red truth.
-"{p:1:Kanon does not exist in the bedroom}."
+"
+Kanon does not exist in the bedroom}."
 The goat attendees gasped.
 It had appeared as though Erika had been defeated, denied by the red truth.
 ......To goats who can\'t see more than a single truth, it probably looks as though I\'ve lost...
@@ -1434,7 +1462,8 @@ Eventually, it became clear that this was not a robe, but a raincoat.
 ...way.................."
 Inside the coffin of the closet,
  ......nothing remained except an empty darkness.........
-"{p:1:Kanon does not exist in the guest room.
+"
+Kanon does not exist in the guest room.
  .........Of course, this includes all parts of the closet, the bedroom, and the bathroom}."
 "Ah..................
 ........................ah..............."
@@ -1598,11 +1627,15 @@ that it would have taken Beato‐san completely off your mind."
  and my self‐introduction!!"
 Erika spun around in a magnificent and graceful rondo,
  scattering blood and golden petals around her as she raised her gun.
-"{p:1:Hello and good day!
+"
+Hello and good day!
  Detective Furudo Erika at your service!!
  I may be uninvited, but I hope I\'m not unwelcome}!!"
-"{p:1:I am the visitor,
+"
+I am the visitor,
  the 18th human on Rokkenjima}!!!"
 "............Sorry, but..."
-"{p:1:Even if you join us all—}"
-""{p:1:That\'s only 17}.""
+"
+Even if you join us all—}"
+""
+That\'s only 17}.""

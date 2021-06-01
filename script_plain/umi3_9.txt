@@ -232,7 +232,8 @@ Now, all I could do was be taught how to use a gun,
 "Repetition request for Beato.
  How many master keys this time?"
 "...Hmph. The same as last time.
- {p:1:There are five, one for each servant}."
+ 
+There are five, one for each servant}."
 "Which means this still isn\'t a locked room.
  There are still four master keys left.
  It just means that after Shannon‐chan was murdered, one of the other four keys locked it."
@@ -305,8 +306,10 @@ Now, all I could do was be taught how to use a gun,
 "In other words, the six locked rooms form one massive locked room,
  and all of the master keys as well as the individual room keys are shut up inside it...!"
 "
-{p:1:Furthermore, all of the doors and windows in the six rooms are normal}.
- {p:1:No device exists which can lock them without a key, such as an auto‐lock}.
+
+Furthermore, all of the doors and windows in the six rooms are normal}.
+ 
+No device exists which can lock them without a key, such as an auto‐lock}.
  *cackle*cackle*, what do you think, it\'s beautiful, isn\'t iiiiiiiiiiiit??? Uhhyahhyahhyaaahh!"
 "As I said, Milady, that is not dignified."
 When Ronove rebuked her, Beato stuck her tongue at him shamelessly.
@@ -358,7 +361,8 @@ When Ronove rebuked her, Beato stuck her tongue at him shamelessly.
  Owowowowoow!!
  *cackle*cackle*, sorry, sorry, that\'s fine, I\'ll respond."
 "
-{p:1:Kinzo, Genji, Shannon, Kanon, Gohda, and Kumasawa—these six are all dead}!"
+
+Kinzo, Genji, Shannon, Kanon, Gohda, and Kumasawa—these six are all dead}!"
 "Why are you so out of it?
  ...Alright.
  So I\'ve drawn one out of you.
@@ -371,7 +375,8 @@ When Ronove rebuked her, Beato stuck her tongue at him shamelessly.
  Show me that you can deny the existence of people we aren\'t aware of!"
 "I\'ll respond."
 "
-{p:1:There is no one hiding in the six rooms}!"
+
+There is no one hiding in the six rooms}!"
 "Alright.
  Now I\'m sure that it\'s only the six of them canned in there.
  And they aren\'t pretending to be dead."
@@ -395,7 +400,8 @@ When Ronove rebuked her, Beato stuck her tongue at him shamelessly.
 "*cackle*cackle*!
  Very well, very well, I\'ll slay you with my red treasured sword!"
 "
-{p:1:The six died instantly}!
+
+The six died instantly}!
  By instant death, I mean that as soon as they were attacked, they became incapable of action."
 "Well, death in its full meaning may have taken several seconds or even minutes.
  But in any event, it was completely impossible for them to take any action of their own will.
@@ -413,7 +419,8 @@ When Ronove rebuked her, Beato stuck her tongue at him shamelessly.
  No matter how much you speak in riddles, this definitely isn\'t a locked room!
  It\'s a sham that only looks like a locked room!"
 "However, Battler‐sama.
- {p:1:Only the victims are inside the rooms,
+ 
+Only the victims are inside the rooms,
  and no other people exist inside the rooms.}
  And by Milady\'s locked‐room definition,
  remote murders from outside the room have been clearly denied, have they not?"
@@ -456,7 +463,8 @@ does not in itself disprove that there was a trap!"
  It is possible to establish this locked‐room murder via a murder trap X that they couldn\'t find."
 "......I‐I\'ll kill that check with the red truth!!"
 "
-{p:1:The six were not killed by traps}!"
+
+The six were not killed by traps}!"
 "The definition of trap?!"
 "Oh...
 umm...
@@ -568,7 +576,8 @@ This isn\'t torture inflicted on me about whether I\'ll submit or not.
 "...W‐wait!
  No, umm, ......I\'ll say it, I\'ll say it!
  I\'ll use the red like you want!
- {p:1:None of the six committed suicide}!"
+ 
+None of the six committed suicide}!"
 "How\'s that?!
  Are you satisfied...?!
  *cackle*cackle*, kakkakakakaka!

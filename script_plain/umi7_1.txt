@@ -253,13 +253,17 @@ He wasn\'t at all interested in getting involved,
 Then, he approached the casket...
 and pointed at its rose‐filled insides.
 "You ask me to solve the case of {f:5:Beatrice}\'s murder, but...
- {p:1:Van Dine\'s Twenty Rules, Rule #7.
+ 
+Van Dine\'s Twenty Rules, Rule #7.
  It is forbidden to have a crime without a corpse}."
-"{p:2:That\'s a Devil\'s Proof.
+"
+That\'s a Devil\'s Proof.
  Maybe it just isn\'t inside the casket?
  Unless you can prove that no corpse exists, this is mystery}."
-"{p:1:Rule #1. It is forbidden to have a crime without all clues presented}."
-"{p:1:Don\'t worry.
+"
+Rule #1. It is forbidden to have a crime without all clues presented}."
+"
+Don\'t worry.
  Everything is gathered here}."
 ".............................."
 There was no change to Will\'s unsatisfied expression,
