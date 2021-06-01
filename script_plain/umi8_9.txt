@@ -21,7 +21,7 @@ Gohda, who had woken up to get breakfast ready, went to check on the adult sibli
 "It was such a terrible way to be killed......
  {p:42:Doctor or not, no one examining a body will reach the wrong conclusion}."
 "Looks like {p:42:all of the victims died instantly}.
- ......Kihi{0}hi{0}hihi."
+ ......Kihihihihi."
 "{p:42:After inspecting the interior of the dining hall, we determined that all of the doors and windows had been locked, making it a locked room}."
 "And {p:42:nothing suspicious was found inside the dining hall}."
 "Of course, {p:42:there was no one hiding in the dining hall either}."
@@ -75,9 +75,9 @@ The servants keep the master keys on their person at all times, so it is impossi
 "We tried to retrieve Genji‐san\'s master key, but had no luck."
 "To prevent trouble later on, {p:42:we destroyed Genji\'s master key}."
 This was the crime of the first twilight.
-{n}The scene was the fully locked room of the dining hall.
+The scene was the fully locked room of the dining hall.
 None of the servants holding master keys have alibis.
-{n}Then again, no one else has an alibi either......
+Then again, no one else has an alibi either......
 Everyone returned to the parlor to discuss what should be done next.
 The phones were out, so they couldn\'t contact the police.
 Was the mysterious culprit hiding away somewhere, planning to attack their next victim at this very moment?
@@ -167,7 +167,7 @@ The group sealed the room at the same time they left.
  Nice going, {f:5:Bernkastel}."
 "Thanks."
 This was the crime of the second twilight.
-{n}The scene was Natsuhi\'s fully locked room.
+The scene was Natsuhi\'s fully locked room.
 This time, all of the servants with master keys have alibis.
 The whole group, realizing the dangers of being inside the mansion, took shelter in the guesthouse......
 All those who took refuge in the guesthouse decided to hole up in there until the typhoon passed.
@@ -208,7 +208,7 @@ This was the crime of the fourth twilight.
 The scene was the rose garden.
 There are no locks or doors.
  It isn\'t a locked room.
-{n}So, the master keys no longer have anything to do with this.
+So, the master keys no longer have anything to do with this.
 Then, the pace of the crimes began to accelerate......
 The group took shelter in the guesthouse.
 They carefully sealed all doors and windows, sealing themselves in a locked room.
@@ -235,9 +235,9 @@ And there, ......they learned that a tragedy had occurred once more.
 "Since the two master keys that exist are here inside the guesthouse,
  ......that makes this guesthouse a perfect locked room...!"
 "Well, since someone\'s dead, it obviously wasn\'t perfect.
- Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi......"
+ Kihihihihihihihihi......"
 This was the crime of the fifth and sixth twilights.
-{n}The scene was the locked room known as the guesthouse.
+The scene was the locked room known as the guesthouse.
 Gohda\'s and Kumasawa\'s master keys were also destroyed, meaning that all master keys had now been lost.
 Now, no one could break into this locked room guesthouse.
 At least, that should have been true......
@@ -287,7 +287,7 @@ It was, as anyone could tell by looking, a gruesome corpse......
 This was the eighth twilight.
  The crime scene was...outside.
 However, the three who chased after Jessica have alibis.
-{n}George, Battler, and Maria couldn\'t have killed Jessica.
+George, Battler, and Maria couldn\'t have killed Jessica.
 So, is there really someone hiding on this island apart from the Ushiromiya family......?
 The curtain is lowered on this tale, for now......
 "......That\'s all for my tale."
@@ -379,15 +379,15 @@ I guarantee that it\'s possible to identify the culprit with this information}."
 "Yeah.
  Let\'s make the most of it...!"
 ......This is a real game between you and me.
-{n}I recommend finding some paper and something to write with.
-{n}That is, if you really intend to fight me.
+I recommend finding some paper and something to write with.
+That is, if you really intend to fight me.
 If you do get completely stuck, maybe you should listen in on Battler and Beato\'s reasoning.
-{n}We\'ll have those be "hints", for when you get absolutely stumped and can\'t move forward.
+We\'ll have those be "hints", for when you get absolutely stumped and can\'t move forward.
 Still, I\'d rather fight you one‐on‐one.
-{n}If you plan to enjoy our little duel...
-{n}Then try defeating me by your own power alone, without relying on hints.
+If you plan to enjoy our little duel...
+Then try defeating me by your own power alone, without relying on hints.
 So, ......let\'s enjoy ourselves, shall we?
-{n}Enjoy this game that I\'ve created...just for you......
+Enjoy this game that I\'ve created...just for you......
 "These purple statement things are quite a problem..."
 "We know that they\'re statements important enough to be on par with red truth.
  But they also contain the culprit\'s lies."
@@ -459,8 +459,8 @@ So, ......let\'s enjoy ourselves, shall we?
 "Yes!! That\'s right!"
 The pair gave each other a high five.
 Finally, they had found their first big clue.
-{n}A safe slice on the roll with a needle in it.
-{n}They had discovered some purple statements they could trust.
+A safe slice on the roll with a needle in it.
+They had discovered some purple statements they could trust.
 "Let\'s try writing out Nanjo\'s and Jessica\'s purple statements!
  These are the same as red truth.
  We\'re finally getting somewhere...!"
@@ -734,7 +734,7 @@ all had their deaths confirmed by people who {i:also} haven\'t been confirmed in
  It\'s all because you\'ve trained me so well."
 The pair grinned at each other.
 They had been to the brink of death and back in their many intellectual games before now.
-{n}They wouldn\'t be discouraged by a riddle like this.
+They wouldn\'t be discouraged by a riddle like this.
 "Now let\'s move on to the crimes of the seventh and eighth twilights.
  I think we\'re getting pretty close to the core of things."
 "Yeah, let\'s keep our wits about us!"

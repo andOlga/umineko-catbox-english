@@ -1,8 +1,8 @@
 Two silhouettes could be seen in the chapel.
-{n}A big brother...and his little sister.
+A big brother...and his little sister.
 The big brother who would never return from that day twelve years in the past, and the little sister who waited all alone twelve years in the future.
 However, the big brother knew everything, understood everything.
-{n}And the little sister knew nothing, understood nothing.
+And the little sister knew nothing, understood nothing.
 So, no matter how much time passed, the little sister remained as the girl she had been twelve years before.
 She remained a six‐year‐old girl forever......
 Her sobs into her big brother\'s chest finally subsided......
@@ -56,7 +56,7 @@ Mom and Dad.
  And...everyone else.
 I want to go back......to that island on that day.
 So, I\'ve always remained the way I was on that day.
-{n}My heart and soul stopped, stuck as a six‐year‐old\'s forever...
+My heart and soul stopped, stuck as a six‐year‐old\'s forever...
 "......I want to go back there."
 "I know."
 "Mom, Dad, Onii‐chan.
@@ -81,10 +81,10 @@ So, I\'ve always remained the way I was on that day.
  Everyone will welcome you back from the distant future."
 "Will I......be able to stay there forever......?"
 This way, ......I\'ll be able to be with everyone forever.
-{n}This is the goal I\'m supposed to reach......
+This is the goal I\'m supposed to reach......
 "Ange, listen to me carefully."
 But Battler spoke in an admonishing tone.
-{n}As though warning me that this dream would not be granted...
+As though warning me that this dream would not be granted...
 "The Rokkenjima family conference only lasts one night.
  Although, the typhoon stopped the boat from coming that day, so it went on for one night more."
 "So, when the typhoon passes, ......I\'ll have to leave the island again...?"
@@ -175,4 +175,4 @@ That blinding light peeked in through the cracks around the door.
 Welcome back, Ange.
  And after this, that will be it.}
 {a:c:
-Just for you, I\'ll open this game board...{n}......one final time......}
+Just for you, I\'ll open this game board.........one final time......}

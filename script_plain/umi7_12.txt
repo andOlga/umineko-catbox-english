@@ -77,9 +77,9 @@ Okay.
 "That\'s the right attitude.
  Let\'s give it our all together."
 "Yeah!"
-"My name is Asne ({p:0:明日音}).
+"My name is Asne (明日音).
  Pleased to meet you."
-"My name is Belne ({p:0:鐘音}).
+"My name is Belne (鐘音).
  Pleased to meet you."
 .....................
 The newly arrived servants looked......a bit frivolous.
@@ -426,10 +426,10 @@ After flitting into the air, it burst into a shower of gold sparks and disappear
 Then, the vanished key......went to Belne‐san\'s locker......
 Though it was far away, in the locker of a changing room, I had a vivid understanding of its new state.
 It wasn\'t by sight or by touch.
-{n}It was by some other sense inside my heart, which couldn\'t be explained by the five senses.
-{n}A completely new sensation that I\'d never felt before.
+It was by some other sense inside my heart, which couldn\'t be explained by the five senses.
+A completely new sensation that I\'d never felt before.
 It was the completely alien concept...called magic.
-{n}A completely unknown pleasure that left me in a trance.
+A completely unknown pleasure that left me in a trance.
 "......It is done, my friend.
  I shall return this body to you..."
 Nn, ..................ah......
@@ -507,7 +507,7 @@ Is this...
 ...how witches...
 ...always feel?
 ............I have a witch friend called {f:5:Beatrice}.
-{n}She always used to pull pranks on me with her strange magic.
+She always used to pull pranks on me with her strange magic.
 Because I saw this all the time,
  .........I thought I knew what magic was.
 But today...
@@ -517,7 +517,7 @@ It was a completely unknown pleasure.
 After all......
 With a movement of my fingertips,
  .........the key had danced on command.
-{n}It was an mysterious, wondrous miracle of magic—something no {y:0:Human}{n:0:human} could do.
+It was an mysterious, wondrous miracle of magic—something no {y:0:Human}{n:0:human} could do.
 I still couldn\'t let go of that excitement...
 ........................
 ".........Shannon.
@@ -585,10 +585,10 @@ If I had moved my fingers a different way, the ring could have flown into the ai
 True, {f:5:Beatrice}\'s magical power was still weak.
 It had all happened in the little world behind the backs of the servants filled with the anti‐magic toxin.
 However, inside that tiny, short‐lived world, I could have done anything at all.
-{n}Beato just happened to settle on making the keys dance and turning one into a butterfly.
-{n}But if she wanted to, she could have done anything else!
+Beato just happened to settle on making the keys dance and turning one into a butterfly.
+But if she wanted to, she could have done anything else!
 The endless sensation of that free, unrestricted power...
-{n}I could still feel it in my fingertips.
+I could still feel it in my fingertips.
 Could it be that, along with that sensation, a sliver of that magical power might also remain...?
 I can tell.
  It\'s still there.
@@ -597,7 +597,7 @@ I can do it.
  ......I can still.........do it......
 "............Ah......"
 A single spot of golden light suddenly lit up in this dark room.
-{n}It was right between my clasped hands.
+It was right between my clasped hands.
 When I slowly opened them,
  ......I could see a single dot that sparkled gold.
 "What...
@@ -617,9 +617,9 @@ It flapped its wings and scattered gold sparks about like Tinker Bell.
 To Shannon, it probably just looked as though a gold butterfly was flapping its wings.
 ......Of course, that alone was a miracle that she could hardly grasp.
 But to me, it was like a remote‐control plane in the shape of a butterfly.
-{n}I could control that gold butterfly however I wanted.
+I could control that gold butterfly however I wanted.
 Not clumsily with threads.
-{n}......I could make it flap, dance, play through the air as I wished.
+......I could make it flap, dance, play through the air as I wished.
 I was taking a walk through the air as that little butterfly.
 The golden glint of it pierced the darkness of the small room as it danced about freely.
  ......It was an entrancing pleasure.
@@ -715,12 +715,12 @@ In the sea of the pitch‐black starry sky, I was alone.
 ...on a witch......
  .........Let\'s try putting it all together."
 I need a different look than the witch in the demon‐red dress.
-{n}A white, noble witch.
+A white, noble witch.
 ......Unlike the time with the red witch, I\'m thinking about my own look now,
  ......so I\'d like to make it beautiful and......cute if I can.
 A white dress.
  A noble look.
-{n}Like one of noble blood, but with a dark, sarcastic streak......
+Like one of noble blood, but with a dark, sarcastic streak......
 No, she\'s like a tomboy princess, so her voice is a mix of formality and rudeness.
 Then the dress should be the exact opposite, pure and clean, to make a nice contrast......
 "..............................
@@ -754,7 +754,7 @@ Silently, a silvery spider dropped down vertically.
 Beato, now in her new form, lightly touched the silver spiderweb that trailed out behind it.
 As she did, ......there was a faint sound of flesh burning, and a thin burn was left across her fingers.
 {f:5:Beatrice} can\'t stand spiderwebs.
-{n}That was one of the weaknesses of the evil spirits Kumasawa‐san spoke of.
+That was one of the weaknesses of the evil spirits Kumasawa‐san spoke of.
 Since the witch {f:5:Beatrice} had revived thanks to the power of those evil spirits,
  she also inherited their weaknesses.
 So, the sacred mirror is also one of her weaknesses.
@@ -794,7 +794,7 @@ pitiful self.
 "The VIP room of the witch—{i:that} is {f:5:Beatrice}\'s room!"
 "Oh, so it is.
  From this evening forward, that room in the nighttime mansion shall be my dwelling place...!
- Why didn\'t I think of that myself, hahaha, heha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!"
+ Why didn\'t I think of that myself, hahaha, hehahahahahahahaha...!!"
 "Then let\'s go, Beato.
  If we\'re going to drink tea together, we\'ll need a much better room than that cramped one."
 "Indeed.
@@ -811,7 +811,7 @@ Looking down at it from this height, it really did look like a small dollhouse..
  ...If I had never learned the joys of magic and awakened as a witch,
  everything would doubtless have remained as it was."
  .........I was your only close friend as well, wasn\'t I?
-{n}Please forgive me for erasing that friend so suddenly.
+Please forgive me for erasing that friend so suddenly.
 As a parting gift, ......I will erase "me" from your world.
 Starting now, this will not be a two‐person room.
 It will be a single‐person room, with just you in it.
@@ -823,7 +823,7 @@ When I mature as the witch {f:5:Beatrice} and wander freely about the nighttime 
  ......I may bump into you as you do your nighttime rounds.
 However, when I meet you again,
  it will not be a reunion.
-{n}It will be our first meeting.
+It will be our first meeting.
 After all, though you have heard the rumors about the witch {f:5:Beatrice}, you have never met her......
 Farewell, Shannon.
 Let us meet again sometime and spin up some fun tale.........
@@ -847,7 +847,7 @@ Am I just tired......?
 I turned around to face my bed.
 ............?
 My bed wasn\'t there.
-{n}There was no bed in this room except the one I had just turned my back on.
+There was no bed in this room except the one I had just turned my back on.
 If I\'m the only one in this room, and the only bed is the one behind me,
  ......that must mean it\'s my bed.
 ......That feels wrong, for some reason.
@@ -861,7 +861,7 @@ that I was just sleeping there until a second ago, don\'t they...?
 ...doesn\'t feel like my bed.
 But I, Shannon, have a single‐person room—I was the only person to be given one while all the other kids had to share.
 So, there\'s only one bed.
-{n}And it must be mine.
+And it must be mine.
 ...........................
 ".........Am I just...
 ...tired?
@@ -923,5 +923,5 @@ Very well, then—this will be fun!
  All nights on this island belong to me!!
 Oh, how refined and pleasant are the days of a witch!
 Oh, I am one yet many!
- Kiha{0}ha{0}ha{0}ha{0}hah{0}hha, hyahhaha!!
+ Kihahahahahahhha, hyahhaha!!
 Here\'s to the wonderful world of witches!!

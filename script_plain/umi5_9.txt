@@ -42,7 +42,7 @@ One among these, the facility known as the "Gospel House", had been given an esp
  ......Furniture came from that place quite often."
 "As part of their work training and public activity,
  the head employed Gospel House children with exceptional grades as servants.
- ......All of the servants in the mansion with the character "{ruby:in/on/non:{p:0:音}}" in their names—Shannon, Kanon, Lunon, Manon, Lenon, and more besides—
+ ......All of the servants in the mansion with the character "{ruby:in/on/non:音}" in their names—Shannon, Kanon, Lunon, Manon, Lenon, and more besides—
 were children from there."
 "......There were quite a lot of them, weren\'t there...
  Though most quit after just a few years."
@@ -188,7 +188,7 @@ And.........on the other side of the trees, ...the servant saw a woman.
 .........Who?
  It was someone she didn\'t recognize, someone who couldn\'t possibly have been there.
 The baby stopped crying and stared in that direction.
-{n}...Then, the servant\'s legs started to automatically carry her that way...
+...Then, the servant\'s legs started to automatically carry her that way...
 "Come this way, woman.
  .........Bring that cursed baby with you."
 "...........................Ah......"
@@ -232,7 +232,7 @@ The two who had died after falling from a great height into a thicket of golden 
 "I guarantee it.
  You are completely sinless!!
  If someone wants revenge for 19 years ago, they need look no further than me!!
- Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"
+ Wahhahahahahahahahahaha!!"
 "...Ee......eeeeeeeeeeeeekkk.........!"
 When I spotted the two of them on the rocks below, ......I went pale.
 Then, I dashed back to the mansion......and there was a great uproar.
@@ -249,11 +249,11 @@ And before anyone except Father and I knew,
 That\'s right, it was a dream...a nightmare!!
 I was convinced that Father would blame me.
 ...However, his reaction was somehow strange...!
-"Heh, ......heh{0}eh{0}eh{0}eh{0}eh{0}eheh, fwaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahha{0}hhahaha!!
+"Heh, ......heheheheheheheh, fwahahahahahahahahahahahhahhahaha!!
  I saw this coming, I {i:knew} this would happen!
  How long must you struggle?
  To what lengths will you go to escape being mine?!!
- Waha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}haha!!
+ Wahahahahaahahahahahaha!!
  I have no interest in an empty cage!
  Throw it away!!"
 When Father learned of the accident,
@@ -270,7 +270,7 @@ It was an unfortunate accident.
 No, there wasn\'t an accident at all!
 I forgot everything, even that the baby had existed in the first place...!!
 After all, it was a twisted nightmare which lasted not even three days!
-{n}That\'s right, it was all a nightmare...!!
+That\'s right, it was all a nightmare...!!
 I don\'t want to remember any of it!!
 The cliff, the broken fence, the roar of the sea,
  and......the wailing of that baby.........!!!
@@ -299,7 +299,7 @@ The cliff, the broken fence, the roar of the sea,
  *cackle*cackle*cackle*!"
 "And just when the riddle was solved and I thought my job was finished.
  I\'ve got to entertain this final guest of mine!!
- Kuhhya{0}hya{0}hya{0}hya{0}hya!!"
+ Kuhhyahyahyahyahya!!"
 "It\'s getting interesting.
  ......Not only are you protecting Lord {f:5:Goldsmith}\'s secret, but you also have a 19th guest and a man from 19 years ago."
 ".........That\'s right—to us who claim that Kinzo is alive, Erika is number 19.
@@ -308,9 +308,9 @@ The cliff, the broken fence, the roar of the sea,
 "We have no lack of opponents!!
  And I was just thinking it a shame to have only one guest at my tea party!!
  Come, you fools!!
- Kuhha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}hahah!!"
+ Kuhhahahahaahahahahahahaahahah!!"
 Furudo Erika is Lady {f:5:Bernkastel}\'s piece.
-{n}In that case, whose piece is the man from 19 years ago......?
+In that case, whose piece is the man from 19 years ago......?
 The voice which could be faintly overheard through the receiver...was Natsuhi\'s.
 "I, ......I understand.
  I\'ll sleep right now.
@@ -326,7 +326,7 @@ When heard through a receiver, even these begging screams which would have shake
 "I\'ll keep it!
  I\'ll keep my promise!!
  So stop it, just stop it!
- Stop iiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iittt!!"
+ Stop iiiiiiiiiiiiiiittt!!"
 The receiver was set down violently.
 ......“He” knew very well how bad an aftertaste you could leave for the other side just by the way you hung up the phone...
 "Okay, good night, Mother.
@@ -336,12 +336,12 @@ The receiver was set down violently.
  You can change your voice?"
 "*giggle*!
  Anyone can change their voice.
- A sweet voice when begging Papa for a favor{p:0:♪}
+ A sweet voice when begging Papa for a favor♪
  A hoarse‐sounding voice when taking the day off school.
  An apologetic voice when turning down a friend that you actually hate!
- {f:5:If you want}{p:0:♪},
- {p:0:I can do~}
- {p:0:{nobr:ａｎｙ} {nobr:ｖｏｉｃｅ☆}}
+ {f:5:If you want}♪,
+ I can do~
+ ａｎｙ ｖｏｉｃｅ☆
  at all~!"
 ".........You should stop being a witch and become a voice actress."
 "Heheheheheheheh!
@@ -370,7 +370,7 @@ The receiver was set down violently.
  *giggle*.
  The pack of witches and furniture guarding Natsuhi is less like a set of chess pieces and more like—"
 "Bowling pins, right?!
- Kyahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!
+ Kyahhahahahahahahahahaha!!
  Illusions of Natsuhi and Beato,
  Kinzo and the worthless furniture!
  Entertain us a bit, will you?!"
@@ -417,14 +417,14 @@ no, one of {i:our} few pleasures."
  *giggle*giggle*!!
  Pin confirmed!!"
 "Ahhahaha...ahhahahahahaha!"
-""Kyahhha{0}hah{0}hah{0}ha{0}ha{0}ha{0}ha{0}hah{0}hha{0}ha{0}hah{0}gwa{0}hyah{0}haha{0}aah!!!""
+""Kyahhhahahhahhahahahahahhhahahahgwahyahhahaaah!!!""
 There\'s no need for a Golden Witch anymore.
 All that\'s needed is a sacrificial doll so that we two witches can enjoy some time playing.
 Die, die, disappear.
 Confess to your filthy past and your crimes,
  pour out your sob story of regret and repentance as you throw yourself off a cliff and die!!
 There will be no more appearances for the Golden Witch......!!
-Ahhah{0}ha{0}ha{0}ha{0}ha{0}haah{0}hah{0}haa{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!
+Ahhahhahahahahaahhahhaahahahahahaahahahahahahaha...!!
 "......................................."
 "...............Beato..."
 This will be......a most horrible game.
@@ -432,10 +432,10 @@ On the surface, it does look very similar to the usual tales.
 However, ......there is no respect given to the true main characters of this tale.
 This is supposed to be the tale to which the Golden Witch {f:5:Beatrice} invited Ushiromiya Battler.
 However, the host has been lost, and there is no longer a guest.
-{n}......With both inviter and invitee now gone, only the worst kind of tale remains.
+......With both inviter and invitee now gone, only the worst kind of tale remains.
 {a:c:Welcome to the fifth game:
-{n}End of the Golden Witch.
-{n}Welcome to a party with neither host nor guests,{nobr: hijacked by wicked witches......}}
+End of the Golden Witch.
+Welcome to a party with neither host nor guests, hijacked by wicked witches......}
 ".........Ready, Battler?
  The second day is about to start.
  Heheheheh! I hate Beato\'s kind of slow, plodding storytelling!"

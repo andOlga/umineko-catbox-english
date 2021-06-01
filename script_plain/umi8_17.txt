@@ -21,7 +21,7 @@ once said that a {y:0:Human}{n:0:human}\'s life is an adventure from beginning t
 {f:5:Featherine}......spoke to no one inside the empty study.
 Of course, no one commented on her words.
 However, {f:5:Featherine} seemed to hear something.
-{n}She nodded and grinned contentedly.
+She nodded and grinned contentedly.
 "Yes, I know.
  I will write a bit further, then lay down my pen.
  ......Then, it will be time for us to say our goodbyes."
@@ -29,7 +29,7 @@ However, {f:5:Featherine} seemed to hear something.
 The lights in the study dimmed......
 "Would you mind letting me rest for a while?
  ......During that time, my cat......or rather, my miko will entertain you......"
-"Owowow{0}ow{0}ow{0}ow{0}ow{0}ow{0}ow,
+"Owowowowowowowowow,
  you suck! Can\'t you be less clumsy with that needle?!"
 "......Shut up.
  If you don\'t want it sewn by hand, I\'ll use a sewing machine.
@@ -43,7 +43,7 @@ The lights in the study dimmed......
 "I\'m going to sew you up with a long, fat needle now.
  It\'ll hurt like hell, so you\'d better close your eyes.
  Five, four, three, two—"
-"A‐and keep that stuff to yourse{-}e{-}e{-}e{-}elf!!
+"A‐and keep that stuff to yourseeeeelf!!
  Ah, B‐Bern, d‐don\'t, don\'t, aaaa!!"
 But despite all this, the two of them truly were close.
 Though {f:5:Lambdadelta} had been brutally dismembered in the final fight, she had survived.
@@ -101,9 +101,9 @@ Erika grinned and wiggled her fingers menacingly.
 "Wait, ......you aren\'t thinking........."
 "Let\'s see if my rival can handle this."
 "Gyah,
- gyah{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}haha,
- ahh{0}hya{0}ha{0}ha{0}haha,
- stoppii{-}i{-}i{-}i{-}it that tickle{-}e{-}e{-}e{-}e{-}es!!"
+ gyahhahahahahahaahaha,
+ ahhhyahahahaha,
+ stoppiiiiiit that tickleeeeees!!"
 ......She tickled the open end of {f:5:Lambdadelta}\'s left arm.
  Apparently, she was extremely ticklish there.
 Incidentally, the open end of {f:5:Lambdadelta}\'s arm was cute and fluffy with white cotton candy poking out.

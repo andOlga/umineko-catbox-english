@@ -1,6 +1,6 @@
 "Amakusa, could you turn that off?"
 "Whoops, my bad.
- You don\'t like {nobr:M. Zakky}?"
+ You don\'t like M. Zakky?"
 "I\'m just not in the mood."
 Amakusa turned the radio off.
 The world of cheery sounds was immediately swallowed up by the roar of the sea,
@@ -143,7 +143,7 @@ Ange put on her knapsack and grabbed the flowers she was planning to offer.
  ......Go on, gal.
  Your family\'s waiting for you."
 I had never been on a road like this, but I had no trouble finding my way.
-{n}If I walked straight ahead, it would probably guide me to the final destination for everything.
+If I walked straight ahead, it would probably guide me to the final destination for everything.
 The vegetation certainly was incredible, and you would lose track of the path if you were careless enough to let your attention drift.
 ......But the road that was left was much better than I had imagined.
 Still, that didn\'t change the fact that it was a bad road.
@@ -175,10 +175,10 @@ It had become a slant filled with crags that you might even call gentle cliffs,
  and though it would be easy to tumble down, it looked like climbing back would be pretty difficult.
 .........It seemed that proceeding any further would be impossible.
 If I continued any further, I wouldn\'t be able to return.
-{n}In other words, .........this is...the border.
+In other words, .........this is...the border.
 Between 1986 and 1998.
  That day and today.
-{n}And this world and the other.
+And this world and the other.
 "............This is...
 ...this journey\'s...final destination, it seems."
 As the strong wind blew Mammon and Sakutaro\'s hair, they looked down from the hilltop...
@@ -194,7 +194,7 @@ He\'s right.
  ......and I am the Ushiromiya Ange who has been left all alone.
 At first, it was a journey to die.
  But not anymore.
-{n}It has become a journey to accomplish something......
+It has become a journey to accomplish something......
 "Yeah.
  ......So, I\'m sorry, you two.
  As I was back then, on that day, I would have gone down this cliff without any hesitation."
@@ -208,12 +208,12 @@ At first, it was a journey to die.
  They will come any moment.
  ..................Everyone.’
 Sakutaro said it as though it was completely natural.
-{n}......And...I believed it.
+......And...I believed it.
 Mom.
  Dad.
  Onii‐chan.
-{n}All of my relatives, and those fun servants.
-{n}And............Maria onee‐chan.
+All of my relatives, and those fun servants.
+And............Maria onee‐chan.
 "It\'s me.
  ......It\'s Ange.
  ...............I\'ve...come back."
@@ -235,7 +235,7 @@ And so,
  ......even though my body was on the top of the hill, a strong wind blowing against me,
  .........my soul was now certainly dancing through that sky......
 The vast, vast sky of Rokkenjima.
-{n}......Below me was the green of many trees.
+......Below me was the green of many trees.
 But...I can tell.
  I can comprehend the presences of my family and relatives, and all the servants.
  .........And...Maria onee‐chan too.
@@ -257,10 +257,10 @@ It is so warm, and overflowing with kindness and happiness.
  ......But it isn\'t something that just anyone can see with their eyes.
  ............Magic is...
 ...yes, I can say it clearly."
-{m:-5:—}—Without love, it cannot be {y:1:‘seen’}{n:1:seen}.
+——Without love, it cannot be {y:1:‘seen’}{n:1:seen}.
 I\'m sorry, Onee‐chan.
 ......I\'ve already been excommunicated from the witches\' alliance, but...
-{n}...after all this time, I now understand how wonderful it is.
+...after all this time, I now understand how wonderful it is.
 And.........I know that after that day I wounded you, Mariage Sorcière was...
 ...transfigured into something different from what you truly desired.
 .........Back in those days, even magic that allowed you to vent your anger by cursing people was probably important to you.
@@ -282,7 +282,7 @@ Those days were flipped through one after another,
 The pages with drawings that were colorful...
 gradually changed into pages colored only with black ink......
 ......Eerie magic circles, and demon summonings.
-{n}Evil magic for harming people.
+Evil magic for harming people.
 What to do to create magic so that the class bully catches a cold.
 What to do to create magic so that you‐know‐who in class gets seriously injured and dies.
 What to do to create magic so that a bus with all the bullies on it falls off a cliff.
@@ -307,7 +307,7 @@ Then,
 Crunch, crunch.
  ......I could hear the sound of gravel being stepped on.
 I heard those footsteps, and was surprised at that miracle.
-{n}......Without a doubt, those footsteps were Maria onee‐chan\'s.
+......Without a doubt, those footsteps were Maria onee‐chan\'s.
 "............Ma‐......Maria onee‐chan........."
 "Kasumi.
  ......Looks like I finally found you, eh, Ange‐chan.........?"
@@ -323,10 +323,10 @@ Ange clicked her tongue at that, but Kasumi probably didn\'t hear it that way.
  You\'re going to throw them, right?
  That\'s alright, we\'ll wait that long."
 ......Before what.
-{n}...Ange could more or less guess.
+...Ange could more or less guess.
 The way the black‐suits had their hands unnaturally stuck into their pockets made me realize that they were obviously in possession of handguns.
 .........This is a deserted island.
-{n}There could be no more convenient place to dispose of someone.
+There could be no more convenient place to dispose of someone.
 I have absolutely no interest in the family matters of the Sumadera family.
 ...But if I die, all of that wealth will roll right into the Sumadera family coffers.
 Unlike me, they probably have a great deal of interest in it.
@@ -345,7 +345,7 @@ Of course, the Ushiromiya Group has a stake in this, too—it seems that if the 
  .........You really are Sumadera Kyrie\'s child, aren\'t you?
  Not a trace of grace."
 She grabbed me by the hair and forced my face up to hers.
-{n}And then spat in it.
+And then spat in it.
 ......My words are filthy, but her spit\'s not to be outdone.
 ".........Every time you talk about me, it\'s always with reference to Mom.
  ...Am I really that much like my mother?"
@@ -396,7 +396,7 @@ Taking charge of the Sumadera family with all its proud history required an extr
 It was an unimaginably heavy responsibility.
 Normally, this would have been demanded of Kyrie.
 Kyrie had undergone that harsh training.
-{n}And Kasumi, as the younger sister, should have been able to just take it easy.
+And Kasumi, as the younger sister, should have been able to just take it easy.
 No, in fact, she had lived like a lazy, selfish, and affluent princess, sneering at Kyrie, who had been given the heavy responsibility.
 ......However,
  Kyrie was suddenly disinherited.
@@ -411,7 +411,7 @@ After that, the Sumadera family began receiving preferential treatment from a se
  ......There must have been some kind of backroom deal.
 In other words, Kyrie took advantage of the Ushiromiya family\'s financial support to leave the Sumadera family openly.
 Kasumi watched it happen in shock.
-{n}No, she even disparaged her dishonorable sister as a loser.
+No, she even disparaged her dishonorable sister as a loser.
 ......But eventually...
 ...she learned that the heavy responsibilities Kyrie had borne would be passed on to her,
  and then, for the first time, she realized that she had been outwitted......
@@ -424,11 +424,11 @@ Kasumi watched it happen in shock.
 "This girl doesn\'t know when to shut up!
  Oorrrrah!"
 The black‐suit punched me in the gut, and I doubled over.
-{n}But I was quickly grabbed by the collar and made to stand up again.
+But I was quickly grabbed by the collar and made to stand up again.
 As she continued to cold‐heartedly look down upon Ange, Kasumi blew out smoke......
-{n}The hard days after Kyrie left were floating through her mind.
+The hard days after Kyrie left were floating through her mind.
 Until then, she had been allowed to be simply a rich young lady, unrestrained and unaffected.
-{n}......Only Kyrie, the older sister, had been strictly trained, and she, the younger sister, had been able to live as nothing more than a princess.
+......Only Kyrie, the older sister, had been strictly trained, and she, the younger sister, had been able to live as nothing more than a princess.
 Then, suddenly, everything was turned over to such a degree that her life tumbled and crashed......
 "My life, lifestyle, way of living, ......everything was stolen from me.
  .........Do you know how much I was maligned based on my sister\'s dishonor by those relatives who didn\'t know the details...?
@@ -438,7 +438,7 @@ Then, suddenly, everything was turned over to such a degree that her life tumble
  I hope it continues for many years to come.
  .........gagghh!!"
 A kick landed in Ange\'s side as she lay prostrate on the ground.
-{n}Ange didn\'t stand up again.
+Ange didn\'t stand up again.
 ......So she continued to lie there like a caterpillar, getting kicked every time she spoke up.
 "......I saw Nee‐san at an Ushiromiya Group party once.
  ......She was with her husband,
@@ -463,9 +463,9 @@ A kick landed in Ange\'s side as she lay prostrate on the ground.
  And so I thought.
  .........If I could pull this off, I would be able to forget all of my hatred and start over."
 Ange was about to respond to this with another bitter comment, but stopped.
-{n}...Because she would be kicked again if she responded.
+...Because she would be kicked again if she responded.
 ......Even if Kasumi didn\'t say any more, it wasn\'t difficult to imagine what she meant.
-{n}Kasumi was thinking of bringing an end to her hatred of Kyrie by taking revenge against her daughter, Ange.
+Kasumi was thinking of bringing an end to her hatred of Kyrie by taking revenge against her daughter, Ange.
 .........Talk about pushing your problems on other people.
 "Come on, stand up.
  If you like this island that much, I\'ll bury you here deep.
@@ -489,14 +489,14 @@ out with the garbage......"
  ......You idiot, Ange‐sama...!
  Why did you come without Amakusa...!"
 I don\'t need you to tell me that, Mammon.
-{n}......I\'m already right in the middle of regretting it.
+......I\'m already right in the middle of regretting it.
 I walked a long way to get here.
  The forest was very thick.
-{n}......There\'s no way that the disturbance here will reach the boat......
+......There\'s no way that the disturbance here will reach the boat......
 As Kasumi took her sweet time smoking that single cigarette down to the filter,
  I was continuously laid into by the black‐suits however they deemed fit.
 The moment I grabbed my head to protect it, the top of my head was kicked by someone at a bad angle, and my head filled with stars......
-{n}This feeling of stars flickering in a world twisted with gray...
+This feeling of stars flickering in a world twisted with gray...
 ...was one I knew well.
 My life was very similar to the one Sumadera Kasumi led.
 ...Because I was tormented constantly with all kinds of bullying under the guise of education and training, to make me a worthy "successor to the Ushiromiya family".
@@ -516,7 +516,7 @@ After all, sometimes she would ask herself "Umm, what was I saying again?"
 Yes.
  Aunt Eva\'s punishments weren\'t something that would continue until I learned something, or acknowledged my mistake, or apologized.
 .........They would continue until Aunt Eva wanted to stop.
-{n}So even this violence was a bit nostalgic, in a way that made me want to vomit.
+So even this violence was a bit nostalgic, in a way that made me want to vomit.
 ......I opened my eyes, ......and oh look, there\'s Aunt Eva.
 Right next to Kasumi, who was smoking her cigarette,
  I could see Aunt Eva, the two of them looking almost as though they were laughing at me together.
@@ -525,18 +525,18 @@ When I think about it, even Aunt Eva\'s life might be worthy of sympathy.
  were all things that she herself had suffered.
 Because people cannot voice insults that they have never been subjected to themselves......
 It was probably the same way for Aunt Rosa as well.
-{n}......As the youngest child of the glorious Ushiromiya family, she must have gone through many tough times.
+......As the youngest child of the glorious Ushiromiya family, she must have gone through many tough times.
 So, just as Aunt Eva acted towards me...
-{n}And just as Sumadera Kasumi is acting right now...
-{n}......Aunt Rosa must also...have been the same.
+And just as Sumadera Kasumi is acting right now...
+......Aunt Rosa must also...have been the same.
 People push the suffering they have been made to bear onto other people.
-{n}Otherwise, they can never escape from it.
+Otherwise, they can never escape from it.
 ......So on and on, in eternity and perpetuity, the chain of suffering and sadness never ends.
 That is the reason............Maria onee‐chan\'s magic was...
 ...so incredible.
 With her magic, ......she did not have to bear the suffering from Aunt Rosa.
 That pain was probably pushed onto her.
-{n}Its weight probably tormented her.
+Its weight probably tormented her.
 ......But Onee‐chan did not carry that burden on her own shoulders.
 .........She exorcised it...and filled her world with happiness.
 So, I\'m sure...
@@ -548,7 +548,7 @@ So, I\'m sure...
 "............What is it?
  Do you have something to complain to me about?"
 In the past, I would have snapped back.
-{n}......And cancelled out her hatred with hatred of my own.
+......And cancelled out her hatred with hatred of my own.
 ...No, I cancelled out nothing.
  The weight of that which had been forced onto her bears down hard on my shoulders as well.
 After all, even now, ......I hate her.
@@ -612,9 +612,9 @@ I had learned the magic to create happiness from Maria onee‐chan.
 ......built up a future with a completely different relationship?
 All this time,
  .........I have hated Aunt Eva.
-{n}...So I never noticed the black witch beside her.
+...So I never noticed the black witch beside her.
 ......Without love, it couldn\'t be {y:1:‘seen’}{n:1:seen}.
-{n}I didn\'t have...
+I didn\'t have...
 ...any love for her......
 So now, finally...
 .........I\'ll glare at the black witch,
@@ -657,7 +657,7 @@ So now, finally...
  .........*cough*!!
  ...............g\'......"
 The black‐suits persistently kicked my stomach and back.
-{n}......As though they had been ordered to by the black witch.
+......As though they had been ordered to by the black witch.
 "......Dear me, still nothing to you, is it......?
  ............You keep staring right at me.
  You hate me?
@@ -699,7 +699,7 @@ She\'s had a life just as unfair as mine forced upon her, and the pain of that n
  Be more honest with yourself.
  Why not spit out your emotions more and more and more foreveeeeeeeer?!"
 ......The black witch stirred Kasumi up.
-{n}And Kasumi began to give herself over to that dark emotion.
+And Kasumi began to give herself over to that dark emotion.
 ......She was doing nothing more than turning her deep sadness into cheap booze and forcing it down,
  trying to forget for just a brief moment.
 The words Kasumi insulted me with...
@@ -728,7 +728,7 @@ However, I was reflected in Kasumi\'s eyes, and they were burning me with flames
  Why don\'t you burn yourself to ashes with a roar of hate foreveeeeeeer?!"
 "U‐......USHIROMIYA ANGEEEEEEEEE!!
  Loathing you......is what allows me to draw breath!!
- Ehhehe{0}he{0}ha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"
+ Ehhehehehahhahahahahahahahahahaha!!"
 "Sumadera Kasumi, that bouquet of flowers.
  .........These flowers are for your dead family, right, Ange?"
 The black witch grinned at me unpleasantly, and used her chin to signal Kasumi to pick them up.
@@ -789,15 +789,15 @@ I don\'t hate Kasumi.
 That black witch ate into Aunt Eva, Sumadera Kasumi, and Aunt Rosa,
  ......tormenting them for an eternity without letting their wounds be healed.
 .........I can\'t forgive her......
-{n}......I can\'t forgive.........the black witch......
+......I can\'t forgive.........the black witch......
 "Oh my god, this is priceless...!
  ......Magic for making candy rain from the sky, ......it says!!
- Ahhaha{0}hahaha...!"
+ Ahhahahahaha...!"
 "Let\'s see.
  Dissolve sugar in cold water purified by the sun...?
- Dip the magic wand in, and say the incantation, .........*cackle*cackle*cackle*, ahhaha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!
+ Dip the magic wand in, and say the incantation, .........*cackle*cackle*cackle*, ahhahahahahahahahaha!!
  What the hell?!
- Ahhaha{0}ha{0}ha{0}ha{0}hahaha...!!
+ Ahhahahahahahahaha...!!
  Criiiiiiiiinge!!"
 The black‐suits also rolled around, guffawing.
 Then, grinning, the black witch whispered something into Kasumi\'s ear.
@@ -822,7 +822,7 @@ The entire miracle of happiness created by that magic,
  ......she tore out and threw away......
 "Oh, this one\'s another classic...!
  Magic to make dinner be cream croquettes?
- Ahhaha{0}ha{0}hahaha!!
+ Ahhahahahahaha!!
  ......What\'s this next one?
  Magic to make bell peppers taste nice?
  This is amazing, ridiculous!
@@ -853,11 +853,11 @@ Mammon cried and yelled, ......but she had no way of reaching Kasumi.
 "Ahah, what a creepy name!
  *giggle*, it says they can fly at awesome speeds, and finish off the enemy for you.
  Ahhaha, Ange, if you can use this kind of magic, shouldn\'t you use it right now?
- .........Ahhaha{0}hahaha.
+ .........Ahhahahahaha.
  Stupid!"
 The pages that wrote of the Seven Sisters of Purgatory were also heartlessly torn away.
 ......The pages themselves were just paper.
-{n}They weren\'t Mammon\'s vessel or anything.
+They weren\'t Mammon\'s vessel or anything.
 But the tearing, denying toxin burned Mammon from the inside......
 Mammon\'s face twisted from the heat and pain...
 ".........ghhh, ...............kkkhhh, ........."
@@ -897,9 +897,9 @@ The picture of Sakutarou...
 ...that Onee‐chan had drawn...
 ...was violently ripped in half.........
 "What a shhhhhitty drawi~ng.
- Kyahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!"
+ Kyahhahahahahahahahahahaha...!"
 "You all laugh too.
- Aahha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!"
+ Aahhahahahahahahaha...!"
 Obeying the pair, the black‐suits laughed crudely,
  ......and heartlessly trampled all over the paper that had been torn and thrown away......
 ‘Uuuuuuuuuuuu, ......hic!
@@ -920,7 +920,7 @@ I couldn\'t stand it either......
  ......Only those who can {y:1:‘see’}{n:1:see} the world of magic can understand how wonderful it is.
 It can\'t be explained to humans who can\'t understand.
  And so it is mocked.
-{n}.........If only you could show it...
+.........If only you could show it...
 ......But you can\'t......
 Because, in front of {y:0:Human}{n:0:human}s who are filled with the anti‐magic toxin and who can\'t understand magic,
  .........magic cannot be used......
@@ -931,7 +931,7 @@ Because, in front of {y:0:Human}{n:0:human}s who are filled with the anti‐magi
 "You and Maria.
  ......And that stuffed animal and the furniture over there too.
  *giggle*giggle*giggle*!!
- Ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!"
+ Ahhahahahahahahahahaha!"
 "Aah, I could laugh.
  You don\'t have any friends, do you?
  You\'re allllways all alone, and stuffed animals are your friends, right?
@@ -941,7 +941,7 @@ Because, in front of {y:0:Human}{n:0:human}s who are filled with the anti‐magi
  I know what it\'s like to live that way.
  .........So I\'ll be the one to recognize you for what you are.
  You really are a pitiful little child.
- Ehhehehha{0}ha{0}ha{0}ha{0}ha{0}hahaha!"
+ Ehhehehhahahahahahahaha!"
 .........So, to you,
  ......she looks like a pitiful child.
 Yes, I\'m sure she does.
@@ -975,15 +975,15 @@ With expressions that ridiculed it from the bottoms of their hearts, the black w
  ............and said it aloud......
 "Uu‐uu."
 The black‐suits stared blankly, asking what that was supposed to be.
-{n}Then Kasumi answered, cackling.
+Then Kasumi answered, cackling.
 "This is supposed to be the "incantation".
  Are you kidding me...!
  Ahhahahahahahaha...!!!"
 "Come on, why don\'t you guys try it too?
  Uu‐uu‐uu."
 The black‐suits imitated that moaning voice, making fun of it......
-{m:-5:———}—“Uu‐uu.”
-{n}That was the incantation...for the magic that would let her always be friends with the mama she loved.
+————“Uu‐uu.”
+That was the incantation...for the magic that would let her always be friends with the mama she loved.
 "What is this stupidity...!!
  If you could make family relationships better just by saying "uu‐uu", we would have world peace forever.
  Ahah‐hah‐hah‐hah‐ha!!"
@@ -991,7 +991,7 @@ The black‐suits imitated that moaning voice, making fun of it......
  A stupid moaning voice!
  If you do this over and over again, people are going to think you\'re a poor kid with mental problems!
  Are you retarrrrrded?!
- Waaahahha{0}ha{0}ha{0}haha, waaaha{0}ha{0}ha{0}hahaha!!"
+ Waaahahhahahahaha, waaahahahahahaha!!"
 ‘Stoooooop...... At least don\'t mock......that magiiiiiiiic......’
 ............One day when Maria onee‐chan and Aunt Rosa had gone on a picnic together.
 It was written that this was one of the five happiest days of her life.
@@ -1071,7 +1071,7 @@ Silently, slowly,
  .........I\'ll show you what real magic is."
 "...............Y‐you..............."
 The black witch winced slightly.
-{n}However, Kasumi sneered at me even more.
+However, Kasumi sneered at me even more.
 "Show me, then.
  So? What kind of magic are you going to show me?
  Magic to make candy rain from the sky?
@@ -1082,8 +1082,8 @@ The instant I opened my eyes, a tremendous wind arose.
 "Come, arise, the Seven Sisters of Purgatory."
 ".........Whaaat......"
 There was a flash behind me, and in an instant, seven high‐level furniture were gathered there.
-{n}It was a power that far surpassed the magical power I\'d had in my prime.
-{n}It was a power that matched even Maria onee‐chan and {f:5:Beatrice}.
+It was a power that far surpassed the magical power I\'d had in my prime.
+It was a power that matched even Maria onee‐chan and {f:5:Beatrice}.
 "The Seven Sisters of Purgatory, right here...!!"
 "......A‐Ange‐sama......!"
 "You said it once.
@@ -1095,7 +1095,7 @@ There was a flash behind me, and in an instant, seven high‐level furniture wer
 "I‐it\'s impossible...
  There\'s just no way, not with such a mass of toxin in front of us........."
 The Seven Sisters also remembered what had once happened in that classroom.
-{n}......If they could have obeyed Ange\'s order, they would have.
+......If they could have obeyed Ange\'s order, they would have.
 ......However, ......surrounded by the toxin that runs thick in {y:0:Human}{n:0:human}s, they hadn\'t been able to display the miracle of magic.
 ......And they remembered very well how deeply that had hurt Ange......
 But Ange spoke very quietly.
@@ -1136,7 +1136,7 @@ The black‐suit pointing the gun laughed at Ange\'s composure.
  ............To my magic, to the Seven Sisters of Purgatory, bullets are like nothing."
 "A‐Ange‐sama........."
 Mammon was flustered by Ange\'s absolute trust.
-{n}......She would have loved to live up to that trust, if only she could.
+......She would have loved to live up to that trust, if only she could.
  On that day as well.
 But, ......she had been unable to do anything, and she had hurt Ange.........
 "Hehheheh, you little shit.
@@ -1148,7 +1148,7 @@ But, ......she had been unable to do anything, and she had hurt Ange.........
  Blast me with some magic, I dare ya!!
  Hihhehhehheh!"
 The black‐suits jeered at her.
-{n}But Ange simply concentrated her mind in silence......
+But Ange simply concentrated her mind in silence......
 "Why not just shoot and kill her forever?!
  She\'s even telling you to shoot her!"
 "......This kid\'s already lost her mind from fear.
@@ -1183,7 +1183,7 @@ Half of Leviathan\'s body was covered with blood, and she wore a cold smile.
 "Wh‐.........what the...what?!"
 Kasumi and the rest were thrown into confusion...
 He certainly seemed to have fired the gun......
-{n}However,
+However,
  ......it hadn\'t hit Ange,
  .........and why...
 ...was the person who fired...
@@ -1220,14 +1220,14 @@ Belphegor was sprayed with blood, and her face twisted demonically with the joy 
  Who\'s there?!
  Where are you?!"
 The black‐suits panicked, pointing their guns in every direction.
-{n}But they didn\'t understand what was happening.
+But they didn\'t understand what was happening.
 They only knew that something terrifying was coming for them from somewhere,
  but they didn\'t know where...!!
 "Idiots!!
  Th‐the enemy is right in front of you!
  The witch\'s furniture is after you!!!"
 But they could not {y:1:‘see’}{n:1:see}...!!
-{n}Because they couldn\'t believe in magic, they could not {y:1:‘see’}{n:1:see}...!!
+Because they couldn\'t believe in magic, they could not {y:1:‘see’}{n:1:see}...!!
 Just as the black witch said, Satan was standing boldly right in front of the black‐suit.
 However, the black‐suit couldn\'t {y:1:‘see’}{n:1:see} that at all...!
 "*giggle*...!
@@ -1245,7 +1245,7 @@ However, the black‐suit couldn\'t {y:1:‘see’}{n:1:see} that at all...!
  What...are you?!?!"
 "............A witch.
  And unlike you, a real one."
-"Khhh... Wrraa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aagghhh, damn youu{-}u{-}u{-}uuu, you biii{-}i{-}i{-}i{-}iitch!!"
+"Khhh... Wrraaaaaaaaaaaaaagghhh, damn youuuuuuu, you biiiiiiiitch!!"
 As though announcing his candidacy for the fourth victim, one of the black‐suits pointed his gun at Ange.
 ......And pulled the......
 Ange glared at him coldly, and simply ordered.
@@ -1380,7 +1380,7 @@ But for that very reason, ......she hadn\'t been able to withstand her sad pain,
 "Goodbye, Aunt Kasumi.
  .........Take a long rest in a quiet world."
 I no longer feel any anger or hatred towards you.
-{n}I just want...
+I just want...
 to let your soul rest in peace.
 Kasumi\'s handgun spat fire.
 Slowly, that bullet continued through a world frozen to the utmost limit, ......making its way towards {f:5:Ange}\'s forehead.
@@ -1507,8 +1507,8 @@ Behind Eva\'s back, Mammon stood.
 "......A‐
 .........Angeee........."
 Then, time unfroze.
-{n}Fragments of the ruptured gun and gunpowder gas burned her face.
-{n}Letting out a shrill scream, she rolled around covering her face......
+Fragments of the ruptured gun and gunpowder gas burned her face.
+Letting out a shrill scream, she rolled around covering her face......
 ......It was pitiful.
 "......Unlucky.
  ......This is game over.
@@ -1521,9 +1521,9 @@ I signaled to Mammon.
 ".........It is I who should be grateful.
  ......I feel truly honored to have been able to meet a good witch and a good master in the end, and to have had the opportunity to fulfill my duty as furniture...!"
 Mammon understood.
-{n}This would be the final job I would ever give her.
+This would be the final job I would ever give her.
 Mammon quietly walked close.
-{n}Then, she looked down upon her.
+Then, she looked down upon her.
 "......Aunt Eva.
  Thank you for sticking with me until today.
  This is farewell.
@@ -1533,7 +1533,7 @@ Mammon quietly walked close.
 Then, ......the light sound of her forehead being perforated rang out.
 ......The battle of gunpowder smoke, delirium, ......and white and black magic...was over.
 It felt like it had been a long, .........truly long journey.
-{n}And the world slowly...
+And the world slowly...
 ...sank into darkness.........
 The stars that should be sparkling.........lay not in the sky, but were scattered beneath me.
 ......When I recognized that the pearls and rubies were creating a river of white and red,
@@ -1577,7 +1577,7 @@ I understood.
 Coming from a person like her, whose face was almost always expressionless, those words felt a bit hollow.
 {f:5:Bernkastel}.
  ......The enigmatic witch who invited me on this journey.
-{n}....................................
+....................................
 "There were moments when I suspected that you might have been lying to me."
 ".....................Why?"
 "......I am the Ange of 1998, so even if I save my family, that will only bring relief to the Ange of 1986.
@@ -1605,7 +1605,7 @@ Coming from a person like her, whose face was almost always expressionless, thos
  If you allow your moves to get distorted by hesitation and indecision, your opponent will be confused as well."
 ..................Sorry, {f:5:Beatrice}.
 But...don\'t hold it against me.
-{n}......“Ushiromiya Ange” still needs her family.
+......“Ushiromiya Ange” still needs her family.
 So I have the right to fight you...so that I can take them back.
 And you have the responsibility to accept my challenge.
 .........So please...don\'t hold it against me.

@@ -3,7 +3,7 @@ The aged doctor was Nanjo\'s son, but the atmosphere about him was very differen
 "I am truly sorry to say this after you have come all this way, but I have nothing in particular to tell you."
 Nanjo\'s son spoke very indifferently.
 "......After the accident on that island was taken up by the talk shows in a most indiscreet manner,
- there was a great deal of deeply offensive probing into my father, who was {nobr:Mr. Ushiromiya\'s} doctor and friend."
+ there was a great deal of deeply offensive probing into my father, who was Mr. Ushiromiya\'s doctor and friend."
 "All of it was without proof, and also, defiled all of my father\'s previous achievements.
  I still feel a great deal of resentment towards all of that."
 "............I think that\'s understandable.
@@ -54,26 +54,26 @@ The doctor realized that he had misspoken, and remained silent for a while, look
 "Thank you, Doctor.
  ......Then, if you would.
  Please tell me anything you can."
-"......As you know, my father was not only {nobr:Mr. Ushiromiya\'s} personal physician, but his friend through the game of chess.
- That relationship was very long, stretching back to the time {nobr:Mr. Ushiromiya} moved to Rokkenjima."
+"......As you know, my father was not only Mr. Ushiromiya\'s personal physician, but his friend through the game of chess.
+ That relationship was very long, stretching back to the time Mr. Ushiromiya moved to Rokkenjima."
 "Just how close were they?"
 "Considerably, it seems.
- It seems that their connection through chess led my father to stay at {nobr:Mr. Ushiromiya\'s} mansion quite often."
-"......I am not sure it is right of me to say this, but {nobr:Mr. Ushiromiya} was extremely moody.
+ It seems that their connection through chess led my father to stay at Mr. Ushiromiya\'s mansion quite often."
+"......I am not sure it is right of me to say this, but Mr. Ushiromiya was extremely moody.
  And my father was an exceedingly magnanimous man, who excelled at interacting with people like him.
- It\'s not hard to imagine that he was a rare friend for the isolated {nobr:Mr. Ushiromiya}."
+ It\'s not hard to imagine that he was a rare friend for the isolated Mr. Ushiromiya."
 "That day was the day of the family conference.
  ......The Ushiromiya family conferences are said to have involved harsh questioning from Ushiromiya Kinzo over how his fortune would be put to use,
  almost like a financial conference.
  So Doctor Nanjo had gained a trust so great that he was asked to attend even that...?"
 "My father was a simple doctor,
  so I cannot imagine that he was in a position to advise on asset management for a millionaire family like the Ushiromiyas."
-"He was most likely called there to assist, because {nobr:Mr. Ushiromiya\'s} health was not at its best at the time.
- ......As {nobr:Mr. Ushiromiya\'s} close friend, I\'m sure that my father would have kept his mouth shut, and been trusted not to leak the secrets of the family conference."
+"He was most likely called there to assist, because Mr. Ushiromiya\'s health was not at its best at the time.
+ ......As Mr. Ushiromiya\'s close friend, I\'m sure that my father would have kept his mouth shut, and been trusted not to leak the secrets of the family conference."
 "......Was Ushiromiya Kinzo in very bad health at the time?
  Are there any medical charts left?"
 "My father probably took the medical charts with him on the day of the accident.
- I\'m afraid to say that the entire folder of {nobr:Mr. Ushiromiya\'s} medical charts has been lost.
+ I\'m afraid to say that the entire folder of Mr. Ushiromiya\'s medical charts has been lost.
  He was my father\'s patient, so I don\'t know the details either."
 "Around the time of the incident.
  Was there anything you thought was strange?"
@@ -98,7 +98,7 @@ the name was my father\'s."
  and been returned to the sender, "me"."
 It was...truly a strange tale.
 Nanjo\'s son\'s name was written as the sender.
-{n}......However, he said that he hadn\'t mailed the letter.
+......However, he said that he hadn\'t mailed the letter.
 In short, that meant someone had sent it using his name.
 The destination was "Nanjo Terumasa", on Hokkaido\'s Rebun Island.
 But the lot number written on it didn\'t exist,
@@ -120,10 +120,10 @@ While emphasizing it so much it was annoying, the doctor removed the seal with a
 ......Then, when he tilted the envelope, an already opened mail envelope spilled out.
 The envelope had weight to it, hinting that there was something other than a letter inside.
 .........The recipient...was certainly Nanjo Terumasa.
-{n}Even seeing that......was a huge shock.
+Even seeing that......was a huge shock.
 After that incident, Nanjo\'s corpse had not been found, and he was being treated as dead in absentia under extraordinary circumstances.
 ......And despite that, this letter addressed to a Nanjo in Hokkaido existed.
-{n}One could almost take this as a sign that he had faked his own death and escaped to Hokkaido.
+One could almost take this as a sign that he had faked his own death and escaped to Hokkaido.
 "......Was Doctor Nanjo really in Hokkaido?
  Or was there another person there with the same first and last names?"
 "If my father had somehow escaped from the accident and was living on in Hokkaido,
@@ -152,9 +152,9 @@ But even in the case of a faulty address, the local post office will often court
 When they still can\'t find it, the mail is sometimes returned after an investigation of several days.
 It seemed that this was what had happened with this envelope, and the stamp was postmarked October 3rd.
 It was postmarked on Niijima.
-{n}Niijima is a long way away from Rebun Island.
+Niijima is a long way away from Rebun Island.
 On top of that, the destination was also nonsensical.
-{n}......It had taken more than a week for the mail to be returned.
+......It had taken more than a week for the mail to be returned.
 ......In other words, there was an extremely high chance that having this envelope returned to the sender after an indeterminate amount of time...
 had been the goal from the very beginning.
 Why do something like that.........?
@@ -165,13 +165,13 @@ After getting the doctor\'s permission, I tilted the already opened envelope.
 From the inside came a small, folded letter, and a small key with a number tag attached.
  A swipe card slid out in addition.
 A112 was engraved on the key\'s number tag.
-{n}......I didn\'t know what it meant.
+......I didn\'t know what it meant.
 The swipe card was pitch black and had gold letters engraved on it.
 "MEMBERS" was written there in English.
  The jet‐black, gold‐lettered card design made it feel like something very high‐class.
 ......But of course, I didn\'t have a clue what kind of card it was just from that.
 ......I unfolded the letter.
-{n}Its contents were extremely brief, and only the following was written:
+Its contents were extremely brief, and only the following was written:
 07151129.
 And the name of a certain massive bank known throughout Japan, as well as the words "Central Branch".
 ......That was all.
@@ -185,7 +185,7 @@ After he had finished putting his affairs in order following his father\'s funer
  There was no doubt that something of great importance was stored there,
  and it was natural that he was curious about what that could be.
 At first, he didn\'t know what to do.
-{n}......The card wasn\'t properly his possession.
+......The card wasn\'t properly his possession.
 When he mustered up his courage and showed the card to a bank clerk, he was then switched to a clerk of clearly high status, and was guided to a large vault on the fourth basement floor.
 The security on the way there was strict.
 The doctor had himself stored valuable items such as real estate transcripts in safe‐deposit boxes before,
@@ -249,7 +249,7 @@ I took Onee‐chan\'s grimoire from the knapsack I had set down.
  The one who had sent this hundred million yen in cash............was {f:5:Beatrice} herself......
 But, .........what is it...
  Something\'s bugging me......
-{n}What is it.........
+What is it.........
  What is it.........
 ".........Y‐......yeah.
  I\'m pretty sure I got something like that in the mail.
@@ -260,19 +260,19 @@ But apparently, its strange contents had stayed in his memory, and he remembered
 After a bit of a wait,
  his thin‐lipped wife came with the envelope, complaining that he always forgets where he puts things......
 The modus operandi for the sender and recipient was exactly the same as for Nanjo\'s son.
-{n}The sender was made out to be Kumasawa\'s son, and the recipient was Kumasawa Chiyo.
+The sender was made out to be Kumasawa\'s son, and the recipient was Kumasawa Chiyo.
 And the destination address was in the Okinawa Prefecture.
-{n}Okinawa Prefecture, Yaeyama County, Yonaguni City, {nobr:1‐2‐341‐5167}.
+Okinawa Prefecture, Yaeyama County, Yonaguni City, 1‐2‐341‐5167.
 Yonaguni Island is at the westernmost tip of Japan.
-{n}And the lot number was exactly like before: a sequential number that had apparently been chosen at random.
+And the lot number was exactly like before: a sequential number that had apparently been chosen at random.
 ......Now it was certain.
  This envelope was definitely sent with the goal of having it be returned to the sender.
 Its contents were exactly the same.
 A letter with the PIN and the bank\'s central branch written on it.
-{n}A swipe card.
+A swipe card.
  A key with attached number tag.
 The inscription on the number tag was A113.
-{n}......The number right after the one on the key that had been sent to Nanjo\'s son.
+......The number right after the one on the key that had been sent to Nanjo\'s son.
 Most likely, inside the vault was the same kind of duralumin case, packed with a hundred million yen in cash......
 "......Got the feeling my mom had sent it to me from beyond the grave.
  Don\'t really get what\'s inside, and it\'s creepy, so I just left it alone all this time, and totally forgot about it until today."
@@ -293,12 +293,12 @@ I had fallen into depression after losing my entire family.
  ...But it was a really strange thing to come in the mail, so a faint memory of it remained.
 It was a strange letter, which I had no memory of sending, but which had me as the sender.
 I forget the destination address, but the person it had been sent to was Ushiromiya Rudolf.
-{n}My father.
+My father.
 I remember that I got this letter I thought was from my father who had died, I opened it up,
  and I found a key and a card that I didn\'t really understand... I remember being really confused.
 I felt let down, and threw it away somewhere, I think...
 Where did I put that envelope?
-{n}I probably lost it somewhere in the chaos that followed.
+I probably lost it somewhere in the chaos that followed.
 By now, I have no way of checking its contents.
 But somehow I think I can guess.
 ......I\'m sure the contents were the same.
@@ -370,7 +370,7 @@ gets thrown into your mailbox with an ominous label attached."
  .........{f:5:Beatrice} would find it more fun to do it in a way that was a little bit uncertain, instead of one that was absolutely certain.’
 ".........She would find an uncertain method...more fun...?"
 I remembered Maria onee‐chan\'s diary...
-{n}......It had quite a lot of descriptions of playing with {f:5:Beatrice}.
+......It had quite a lot of descriptions of playing with {f:5:Beatrice}.
 Occasionally, some of these involved Beato playing pranks on the adult relatives with Maria.
 But those pranks always followed a certain little aesthetic principle of witches.
 Which was.........that things are more fun if they are uncertain.
@@ -391,7 +391,7 @@ A fickle person is very hard to deal with.
  I can\'t flip over the chessboard......to find out what that witch from twelve years ago was planning.
 As Ange thought these things over, her gaze wandered from place to place.
 Then, she suddenly showed interest in the wall.
-{n}There, a number of framed photographs were hung.
+There, a number of framed photographs were hung.
 Many were commemorative photos from when the Kumasawas got together as a family or went somewhere to play, and Kumasawa herself was in many of them.
 ...Still with a smile that made it so you could almost hear her lighthearted hoh‐hoh‐ho laugh.
 ......It\'s a distant memory, but I do remember that she was definitely this sort of cheerful old lady...
@@ -440,7 +440,7 @@ Either way, its disturbing contents brought to mind a bloody serial murder,
  and both of the message bottles depicted a crime that followed that pattern.
 If I could solve the witch\'s epitaph now, twelve years later, I wonder if I could expose some plot made back then......
 I tried to solve it many times myself, but I never did have a clue what it meant.
-{n}It seems that many Witch Hunters have been trying as well.
+It seems that many Witch Hunters have been trying as well.
 I also found theories like the La Plata theory and the Enoura theory in certain books.
 However, none of these theories were conclusive......
 "Are there any other materials?"
@@ -503,7 +503,7 @@ Because of that, most of the Witch Hunters were unable to cross over to Rokkenji
  We\'ll crank it up to full throttle!"
 The former boat captain promised that tomorrow, he would go back to his previous job and take his boat out to Rokkenjima.
 With this, I\'d managed to secure a method of transport to Rokkenjima.
-{n}This is probably all I can do on Niijima.
+This is probably all I can do on Niijima.
 All that\'s left is...tomorrow.
  On Rokkenjima, ......I\'ll reach the final destination of a journey that stretches back twelve years.
 ‘That\'s great news...
@@ -542,7 +542,7 @@ Certainly, just as these two said, there\'s no doubt that the boat captain has b
 "Mm, don\'t mention it.
  If I hadn\'t parted with my boat, I wouldn\'t have to be so stingy, and I\'d be able to take you to the island as much as you like..."
 It\'s not like I have a goal of doing something in particular on Rokkenjima.
-{n}So, the time of day I\'ll be staying there is evening...
+So, the time of day I\'ll be staying there is evening...
 ......The evening, which straddles the two different worlds of day and night, seemed almost like a borderline between this world and the next—
 or possibly, between 1998 and 1986—and felt like the most fitting time to visit Rokkenjima.
 ......It\'s not like I\'ll be doing anything on the island.
@@ -604,7 +604,7 @@ I had finally become aware of it.
  ......I might have been planning......to die on that island.
 I might have come all this way, heading for Rokkenjima, in search of a place to die.
 The boat captain had guessed that as well.
-{n}And so, for emphasis, he told me again: Don\'t.
+And so, for emphasis, he told me again: Don\'t.
 ".........I won\'t.
  I promise.
  .........In the first place,
@@ -618,21 +618,21 @@ The boat captain had guessed that as well.
 I was called.
  For what reason?
  For them.
-{n}Mom.
+Mom.
  Dad.
  Battler onii‐chan.
-{n}......And...Maria onee‐chan.
+......And...Maria onee‐chan.
 .........Or maybe, the Golden Witch.
  {f:5:Beatrice}.
 What does Rokkenjima have for me?
-{n}And what will I achieve?
+And what will I achieve?
 Even though tomorrow was almost upon me at last, I still wasn\'t able to understand my own mission......
 There was the sound of a car stopping in front of the store, and a short honk could be heard.
 "Then I\'ll see you tomorrow.
  Have a nice evening."
 "Mm."
 I got past the stacks of futons in the narrow store, and was about to go outside.
-{n}............Just then, my feet stopped.
+............Just then, my feet stopped.
 "......What is it?"
 "...........................Uh,
  ...............umm,

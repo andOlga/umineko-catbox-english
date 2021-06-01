@@ -3,7 +3,7 @@ There\'s only one place you\'ll find that word on Rokkenjima.
 Gold butterflies flitted from shadow to shadow, dodging raindrops.
 "......Unless my memory is mistaken, this is probably the place."
 It was......the chapel.
-{n}That mysterious building, one of the oldest on Rokkenjima, which had been built at the same time as the mansion.
+That mysterious building, one of the oldest on Rokkenjima, which had been built at the same time as the mansion.
 It was called the chapel, but not once had Kinzo used it for worship, and the members of the family had never been allowed inside.
 There were strict orders that none approach it without reason, and its purpose was always a mystery.
 However, any mystery will lose its luster after several decades.
@@ -16,7 +16,7 @@ Her last memory of the place was of the time she went in there to taunt Shannon 
  That is it.
  ......Quadrillion."
 Beato looked up......above the door of the chapel.
-{n}There was a relief displayed over an arch.
+There was a relief displayed over an arch.
 English words were written there.
 "‘You will be blessed only at a probability of a Quadrillion to one’.
  .........Heheh.
@@ -40,7 +40,7 @@ I thought it strange, but nothing more.
 The Master treasured this relief, so the head servant cared for it himself.
  ......I always accepted that excuse.
 But now, I understand.
-{n}There must be a trick to this relief.
+There must be a trick to this relief.
 And Genji polished it himself to make sure that no one else accidentally found out......
 "So, from this Quadrillion, I am to sacrifice the six letters chosen by the key......?"
 I prodded and played with the letter "Q".
@@ -87,23 +87,23 @@ By this point, I was able to make a good guess at what the "gouge and kill" line
 "Gouge and kill probably means to turn the keys and take them out.
  In that case, the parts about going from head to leg must mean starting at the left and going right."
 If that\'s the case, five letters have to remain on the board.
-{n}In other words, "tear apart" doesn\'t mean kill.
+In other words, "tear apart" doesn\'t mean kill.
 "If so, then we can read "tear apart" to mean putting a gap between the "d" and the "r".
  ......But how?
  Once again, there are two ways to do it..."
 Do I remove the "d" and move it to the left?
-{n}Do I remove the "r" and move it to the right?
+Do I remove the "r" and move it to the right?
 ......After pondering this for some time, I realized that both choices were wrong.
 "No.
  That\'s not right.
  I\'ve had it wrong since I removed that "l"."
 A short while ago, I removed the right of the two "l"s.
-{n}However, if I had removed the left one...
+However, if I had removed the left one...
 ......It would look like this.
 If you line it up this way, it\'s easy to see the next step.
-{n}The "r" gets shifted to the right.
+The "r" gets shifted to the right.
 This way, all of the letters are spread out evenly.
-{n}This must be it.
+This must be it.
 "And this next part......is another tough one.
  ......Praise my name...?"
 It\'s already clear that this is a word game.
@@ -117,7 +117,7 @@ Praise...my name.
  ......How can I get stuck after coming so far......?
  How are these five letters supposed to praise a name...?!"
 That man\'s name is Ushiromiya Kinzo.
-{n}Is the "u" part of Ushiromiya......?
+Is the "u" part of Ushiromiya......?
 No, several letters don\'t match, and there aren\'t nearly enough letters to make Ushiromiya...
 "One thing that is certain... "My name" must refer to Kinzo.
  ......Then, does the "u" stand for Ushiromiya after all?
@@ -128,7 +128,7 @@ No, several letters don\'t match, and there aren\'t nearly enough letters to mak
  The master of Rokkenjima, Kinzo......
  ......Hmm, not nearly enough letters......"
 This riddle left me totally confused.
-{n}However, there were only five letters left.
+However, there were only five letters left.
 There can\'t be so many possible combinations of those letters.
  I could use process of elimination.
 Thinking I\'d play around with it, I pulled out the "u".
@@ -165,14 +165,14 @@ Then, the "r".
 When I turned the key of the "u", I could feel a resistance, as though some mechanism had been activated.
 I waited for something to change, ......but nothing did.
 However, I had felt something happen.
-{n}A secret door or something must have opened up somewhere around here.
+A secret door or something must have opened up somewhere around here.
 ......Waiting around won\'t accomplish anything.
 I\'ve probably done everything I can here......
 All of the letters in "Quadrillion" had been removed.
 "On the ninth twilight, ......the witch revives, and none shall be left alive......"
 So now...has the witch...have I...revived......?
 The tenth twilight.
-{n}The journey ends, and you shall reach the Home of the Gold......
+The journey ends, and you shall reach the Home of the Gold......
 When I stepped down off the ladder and looked around,
  ......I immediately noticed that small change.
 "......That lion statue............"
@@ -180,8 +180,8 @@ At some point, the lion statue in front of the chapel had turned to face a diffe
 ......What an elaborate mechanism...!
 Did Kinzo plan up this extravagant device back when he first started building on this island......?
 I walked up to the lion statue and stared at it.
-{n}Other than the fact that it was pointing a different direction, nothing had changed.
-{n}In that case, is the lion looking at something in particular now......?
+Other than the fact that it was pointing a different direction, nothing had changed.
+In that case, is the lion looking at something in particular now......?
 I followed its line of sight.........and saw another lion statue.
 And that lion statue had also changed its direction.
 "I see......
@@ -214,10 +214,10 @@ So, when a gaping open secret passageway appeared, .........with stairs leading 
 "............Is this...
 ...real......?"
 I lightly touched the pile of gold with my finger.
-{n}It was hard...and cold.
+It was hard...and cold.
 I had almost thought that it might crumble like a sandcastle if I touched it.
 Now, there could be no doubt.
-{n}This certainly was......a ten ton pile of gold ingots.
+This certainly was......a ten ton pile of gold ingots.
 "......Haha,
  ...............ha......"
 Considering the amount of gold I had just found, I figured I ought to be crying out in delight.
@@ -278,10 +278,10 @@ Because the name of the Golden Witch who rules over Rokkenjima\'s night is {f:5:
 I was a different witch, stealing the name of the witch from Kinzo\'s delusions.
 And now, ......I have become the real {f:5:Beatrice}......
 By solving the epitaph\'s riddle, I would achieve my resurrection.
-{n}......I was the one who decided on that rule, or so I thought...
+......I was the one who decided on that rule, or so I thought...
 But as it turns out, ......this really {i:was}.........a ritual to resurrect {f:5:Beatrice}...
 I believed that I could create my own fate with magic.
-{n}I was a master of that magic, ......yet fate had led me here by the hand...
+I was a master of that magic, ......yet fate had led me here by the hand...
 At this moment, I was forced to truly accept and believe in this word called "fate"...
 "And after I put this on.........?"
 "......You will go to the Master.
@@ -310,10 +310,10 @@ He was saying those words to me, ......but not to the person I had been until a 
 "Go ahead,
  ......{f:5:Beatrice}‐sama..."
 Kumasawa also urged me forward with a respectful bow.
-{n}Kinzo was probably waiting for me inside.
+Kinzo was probably waiting for me inside.
 What expression should I wear as I go in...?
  How should I greet him...?
-{n}I don\'t have a clue...
+I don\'t have a clue...
 As the two of them motioned me forward, it was all I could do to avoid tripping over my dress as I walked.
 ".........Kinzo‐san.
  She is here."
@@ -322,11 +322,11 @@ At Nanjo\'s words, he slowly turned, still crouching...
 "...............Oh...
  .........Oohhhhhh........."
 Kinzo\'s eyes were already red with crying.
-{n}When he saw me, he groaned with wonder.
+When he saw me, he groaned with wonder.
 "......{f:5:Beatrice}......
  .........{f:5:Beatrice}........."
 Had he even forgotten how to stand up?
-{n}He crawled over to where I was.
+He crawled over to where I was.
 ...As he called out to me with the name of the woman he had loved long ago.
 I was too stunned to move.
 Then, Kinzo grabbed the hem of my dress, gripped it tightly, ......then curled up and sobbed.
@@ -343,15 +343,15 @@ So, humans seek forgiveness while they still live.
  However, in most cases, there are none in this world capable of giving such forgiveness.
 It was like that for Kinzo.
  There was no longer anyone in the world who could give that to him.
-{n}......But a miracle had woven one together, and in this moment, he had obtained the impossible...
+......But a miracle had woven one together, and in this moment, he had obtained the impossible...
 "Oooohhhh, {f:5:Beatrice}...
  ......{f:5:Beatrice}......
  ...You need not forgive me, you need not say anything...!
  All I ever wanted......was to say one word......of apology......!
- {nobr:Oooohhhhhh.........}"
+ Oooohhhhhh........."
 Kinzo kept grasping the dress\'s hem and sobbing.
 The sins of humans are not forgiven by other people.
-{n}They find forgiveness through regret and repentance.
+They find forgiveness through regret and repentance.
 ......I want to believe that some sin, some fault of his......has been forgiven thanks to the way I look...
 Kinzo\'s sobbing gradually ceased,
  ......and he slowly looked up at me and rose.
@@ -361,7 +361,7 @@ He staggered.
 ".........To know.........that you are alive......
  ......It brings me such...joy......"
 This time, his words weren\'t directed through me, but at me.
-{n}I hesitated, unsure how I should respond.
+I hesitated, unsure how I should respond.
 "......My lord, I beg your forgiveness for keeping this a secret from you all this time."
 "No matter.
  ......I do not fault you, Genji...
@@ -411,7 +411,7 @@ So, I\'d dreamed that if I solved the epitaph,
 Genji, Kumasawa, and even Nanjo nodded wordlessly.
 ......Now that I think about it, that explains so many things.
 I was always...in some way...special.
-{n}Genji and especially Kumasawa always treated me very kindly.
+Genji and especially Kumasawa always treated me very kindly.
 Then, ......does that mean this day is a promised day, which would eventually have come no matter what......?
 I don\'t understand anything anymore.
 It\'s all God\'s miracle.
@@ -468,7 +468,7 @@ But, ......though it may be temporary,
  .........Fath......er............"
 "Heh, ............heheheh............"
 That awkward word made Kinzo laugh.
-{n}Drops of silver fell from both of his eyes.
+Drops of silver fell from both of his eyes.
 At that moment, ......the shadow that had covered his face......was wiped away......
 "Thank you, ......Lion.
  My child......
@@ -478,8 +478,8 @@ At that moment, ......the shadow that had covered his face......was wiped away..
  ......The rest, I will do as I burn in the fires of hell.
  .........I, Ushiromiya Kinzo, have no more regrets in this life!!
  None at all! No regrets or things left undone!!
- Wahaha, ......waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}hah!!
- Waaah{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}haha!!!"
+ Wahaha, ......wahahahahahahahaahahah!!
+ Waaahhahahahahaahahahahahaha!!!"
 Looking up to the heavens, Kinzo spread his arms as though facing an applauding audience,
  ......laughing at the top of his lungs.
 It was the final pleasure, known only by those who have been released from all regrets of this world.
@@ -493,7 +493,7 @@ He dropped to his knees...
 "Y‐......yes........."
 Though their master had fallen, ......they walked up to him slowly.
 They already knew.
-{n}Kinzo\'s soul......had already burned itself out.
+Kinzo\'s soul......had already burned itself out.
 After checking Kinzo\'s pulse, Nanjo shook his head and stood back up.
 "............It was a peaceful death.
  ......I don\'t think he had any regrets at all."
@@ -517,7 +517,7 @@ That was...
  ......So, for the present, I would like to leave this here."
 ......Of course, I\'m glad I have a lot of money.
 However, money can\'t heal the pain in my heart.
-{n}I just.........want him to come back.
+I just.........want him to come back.
 "As you wish.
  Then it shall be left here.
  ......Also, take this key."
@@ -632,19 +632,19 @@ That alone is enough.
  You are my only master."
 "..................Th‐.........thank you very much..."
 A vast mountain of gold and the ring of the Ushiromiya family head.
-{n}The dress of the portrait {f:5:Beatrice}.
+The dress of the portrait {f:5:Beatrice}.
 And.........I became the true {f:5:Beatrice}, the Golden Witch.
 Right here in my very own Golden Land.
 If I think about it, not much has actually changed.
 After all, I\'ve always been the Golden Witch. ......I\'ve just had a few more people acknowledge that.
 {a:c:November 29th.
-{n}The day I became a true witch.}
+The day I became a true witch.}
 {a:c:
 Oh, I am one yet many.
 I am the Golden Witch, {f:5:Beatrice}.}
 {a:c:
-The true ruler of Rokkenjima,{n}......and the possessor of endless gold.}
+The true ruler of Rokkenjima,......and the possessor of endless gold.}
 {a:c:
 Yet, I am in no way complete.}
 {a:c:
-......Here I wait...{n}for the return of the one person I love......}
+......Here I wait...for the return of the one person I love......}

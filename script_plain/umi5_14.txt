@@ -5,7 +5,7 @@ That place was like a solemn cathedral, with an unbelievably high ceiling.
 White stonework.
  Golden ornaments.
 Though there were windows, there were no entrances nor exits.
-{n}It was a strange, strange place.
+It was a strange, strange place.
 But for some reason, no one wondered where this strange place was.
 ......Because they were not given the right to think of this place as strange.
 "Pieces.
@@ -68,11 +68,11 @@ He met the gaze of Beato, who was up on the balcony.
  It belongs to us."
 ".....................Yeah."
 I almost said that I was fighting Beato\'s witch illusions.
-{n}............Originally, Beato was my one and only enemy.
+............Originally, Beato was my one and only enemy.
 But now, ......Erika and those witches who started tampering with Beato\'s tale...
 ...are my enemies as well.
 Who should I fight and how?
-{n}Maybe it\'s a good thing I won\'t have the right to speak for a while.
+Maybe it\'s a good thing I won\'t have the right to speak for a while.
 I\'ll keep a cool head and calmly watch everything unfold......
 "I am the detective and the initiator of this coven, Furudo Erika.
  I will expose the culprit of the fifth game and bring this tale to a pleasing conclusion."
@@ -100,7 +100,7 @@ Urged by 45 to introduce himself, Kinzo stood up.
  I died, but look, I\'m here talking.
  See?
  Dying isn\'t a big deal, right?
- Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi..."
+ Kihihihihihihihihihihihihihi..."
 "I\'m Ushiromiya Natsuhi.
  ......I am alive."
 "............Eheheheheheheheh."
@@ -142,7 +142,7 @@ There was a second balcony, different from the one Beato\'s group was on, which 
 "Cornelia.
  I am an Assistant Inquisitor."
 The two of them could also be seen on the second‐floor balcony.
-{n}They sat apart from {f:5:Virgilia}\'s group.
+They sat apart from {f:5:Virgilia}\'s group.
 Then, ......Dlanor, who was seated between the two, slowly stood up.
 She had a presence and dignity about her, as though she was overseeing everything from that place.
 "Dlanor A. Knox is my {f:5:name}.
@@ -159,7 +159,7 @@ She had a presence and dignity about her, as though she was overseeing everythin
 "And finally, let us introduce ourselves.
  We are the Chiester Sisters Imperial Guards, who have been tasked with management of proceedings at this coven."
 "H‐hello, everyone...!!"
-"Nyeh nyeh{p:0:♪}"
+"Nyeh nyeh♪"
 "This ends the introductions of all pieces.
  A total of 38 people are present here!"
 The number of characters was 38 if you only took the fifth game into account,
@@ -194,7 +194,7 @@ It must have been......the defendant\'s chair.
  You are the culprit."
 Erika pointed at Natsuhi and spoke......
 The Natsuhi wax doll alone...twitched and regained its expression.
-{n}......It was an expression of panic.
+......It was an expression of panic.
 "Chiester Sisters.
  Please take the defendant to her chair."
 "Understood."
@@ -219,7 +219,7 @@ and tear them apart!!"
  And you are the true head, with the One‐winged Eagle engraved in your heart.
  Do not fear a crime you have not committed."
 At those words, Natsuhi jerked back, ......and gulped.
-{n}Her panic finally disappeared, and she stood up straight.
+Her panic finally disappeared, and she stood up straight.
 "...Th‐that\'s true...!
  I am Ushiromiya Natsuhi!
  I will confront any challenger who would dare blaspheme the name of Ushiromiya!"
@@ -246,9 +246,9 @@ that the culprit in this game is not {y:0:Human}{n:0:human}!
  This is what I\'ve been craving all along...!"
 ......If Erika were to win, the witch illusion would be destroyed.
 That would mean the existence of the witch would be denied.
-{n}Beato was fighting for her life.
+Beato was fighting for her life.
 However, this wasn\'t the only time she had been fighting for her life.
-{n}.........It had always been a life‐or‐death struggle, even when she fought with Battler.
+.........It had always been a life‐or‐death struggle, even when she fought with Battler.
 ...Because if Battler had won and broken through the witch illusion in any of the previous games,
  Beato would have been destroyed.
 "......That\'s dirty.
@@ -270,7 +270,7 @@ The only ones who truly had nothing to lose......were those witches.
  Except for the victim and Natsuhi‐san, all of us were in the same room, correct?"
 It really was simple.
 ......Everyone except Natsuhi was in the parlor.
-{n}And because it was so simple, it was decisive......
+And because it was so simple, it was decisive......
 "......No matter how you look at it, the one who killed Hideyoshi was Natsuhi.
  No, it\'s the other way around.
  ......No matter how you look at it, no one except for Natsuhi could have killed Hideyoshi.
@@ -329,7 +329,7 @@ After being guided by {f:5:Virgilia} and meeting {f:5:Beatrice},
 "As long as each side makes its own claim, different truths can exist at the same time..."
 Yes.
  This really is a trial.
-{n}Both sides put forth their own truths.
+Both sides put forth their own truths.
 This here truly is the Braun tube trial that {f:5:Virgilia} once used as an analogy......
 "Then I will follow Lady {f:5:Lambdadelta}\'s orders and start from the first crime at the first twilight.
  As you know, at midnight on October 4th, the first day,
@@ -385,7 +385,7 @@ and went to bed right away on my own... Yes, you\'d better believe I did...!"
  Your turn is over already, Erika.
  ...Go summon that bodyguard you rely on so much."
 Beato glanced at where Dlanor sat on the second‐floor balcony.
-{n}......However, Dlanor just stared back with those usual expressionless eyes.
+......However, Dlanor just stared back with those usual expressionless eyes.
 "Repetition requested.
  "We have absolute proof of Gohda and Kumasawa\'s alibis"."
 "Decline repetition.
@@ -415,7 +415,7 @@ Gohda and Kumasawa have no alibis.
  The two of them were in the guesthouse and could have reached the cousins\' room to commit murder at any time.
  Unless you can eliminate that possibility, you cannot treat Natsuhi as the culprit}."
 Beato\'s blue truth struck out rapidly.
-{n}The curtain had finally dropped, and the battle had begun......
+The curtain had finally dropped, and the battle had begun......
 "......A {y:0:Human}{n:0:human} like Erika can\'t use any red.
  How could she turn this around without calling Dlanor?"
 "Though Erika cannot use it, her master, Lady {f:5:Bernkastel}, can.
@@ -475,15 +475,15 @@ In other words, in that instant, Kumasawa\'s perfect alibi had been absolutely g
  Then what about Gohda?!"
 "Gohda‐san holed up in the servant room right after reaching the guesthouse.
  I sealed him up in the same way.
- Then, when Rosa‐san returned at {nobr:1 a.m.}, I happened to notice her when I stepped out into the corridor.
+ Then, when Rosa‐san returned at 1 a.m., I happened to notice her when I stepped out into the corridor.
  I let Gohda‐san, who was still in the servant room, know this."
-"The seal was intact at that time, so from the time we arrived at the guesthouse until {nobr:1 a.m.},
+"The seal was intact at that time, so from the time we arrived at the guesthouse until 1 a.m.,
  Gohda‐san never left the servant room.
- And afterwards, he was with me in the lounge until {nobr:3 a.m}.
- And after {nobr:3 a.m.}, I was upstairs,
+ And afterwards, he was with me in the lounge until 3 a.m.
+ And after 3 a.m., I was upstairs,
  so I can guarantee that Gohda‐san didn\'t come up."
-".........Erika\'s seal proves that Gohda was holed up in the servant room until {nobr:1 a.m}.
- And Erika can testify to his alibi from then until {nobr:3 a.m.},
+".........Erika\'s seal proves that Gohda was holed up in the servant room until 1 a.m.
+ And Erika can testify to his alibi from then until 3 a.m.,
  because she was passing the time in the lounge with him.
  And after that point, he never set foot upstairs until the morning after.
  Erika can attest to this as well."
@@ -556,10 +556,10 @@ At a glance, the fight between the two of them resembled our previous fights.
 However, there were some vital differences.
 The first was whether or not Beato was the Game Master.
 The Beato who fought against me was the Game Master.
-{n}So she knew all the truth.
+So she knew all the truth.
 That\'s why she was able to use the red truth at will.
 However, the current Beato isn\'t the Game Master.
-{n}She\'s just a single piece on the game board.
+She\'s just a single piece on the game board.
 ......In other words, even Beato doesn\'t know the truth.
 So you could say that Beato is now in the same position I once was.
 Also, though Erika may seem to be in the same position I once was,
@@ -568,7 +568,7 @@ She\'s connected to the witch called {f:5:Bernkastel}.
 ......Even though she isn\'t the Game Master, she\'s capable of elevating Erika\'s statements to become red truth.
 Because of this, Erika can use the red truth even though she\'s neither a witch nor the Game Master.
 Beato, who\'s supposed to be the witch, possesses no truth or red she can use.
-{n}And yet the detective, Erika, can use the red truth.
+And yet the detective, Erika, can use the red truth.
 The advantage has completely flipped over to the other side.
 ......You could probably say that the current Beato is in a much worse position than I was when I fought with her.
 After I got used to the game, Beato stopped responding to my repetition requests,
@@ -598,14 +598,14 @@ She fully understands the rules of this game, and is prepared to corner Beato wi
 "Yes......
  I was with Erika‐san the whole time..."
 "And during what time was this?"
-"F‐from 1 to {nobr:3 a.m}."
+"F‐from 1 to 3 a.m."
 "Yes, that\'s right.
- Between {nobr:1 a.m.} and {nobr:3 a.m},
+ Between 1 a.m. and 3 a.m,
  Doctor Nanjo, Gohda‐san, and I were relaxing in the lounge.
  ......Repetition requested, my master!"
 "I\'ll respond.
  
-From {nobr:1 a.m.} to {nobr:3 a.m.}, the trio of Erika, Nanjo, and Gohda...
+From 1 a.m. to 3 a.m., the trio of Erika, Nanjo, and Gohda...
 spent their time in the lounge on the first floor of the guesthouse}."
 ......Though she had flat out refused Beato\'s repetition request, she responded to Erika\'s immediately.
 The red truth...was starting to corner Beato.
@@ -617,10 +617,10 @@ Beato perceived the denial of her existence as pain...
 Even so, he shouldn\'t have an alibi for the time period before and after you were in the lounge!
  It was possible for Nanjo to commit the crime too}!"
 "That\'s right.
- I get that Nanjo was in the lounge with Erika from {nobr:1 a.m.} to {nobr:3 a.m.}, but what about before and after that?
+ I get that Nanjo was in the lounge with Erika from 1 a.m. to 3 a.m., but what about before and after that?
  ......Well, Erika?"
 "Of course.
- First, the alibi for before {nobr:1 a.m}.
+ First, the alibi for before 1 a.m.
  This is no problem at all.
  I played cards with the cousins in their room until midnight,
  and then went downstairs to the lounge, where I met Doctor Nanjo."
@@ -641,38 +641,38 @@ She added that she had rechecked the seal at that point and, of course, reset it
 Damn her.
 Even though she keeps it sealed for anyone else to enter or leave, she alone enters and leaves whenever she wants.
 "I see.
- So, from midnight until {nobr:3 a.m.} when you went to bed, you were with Nanjo the whole time?
+ So, from midnight until 3 a.m. when you went to bed, you were with Nanjo the whole time?
  That means Nanjo\'s alibi is the most rock solid of them all."
 "Yes, that is indeed the case!
  Repetition requested, my master...!"
 "I\'ll respond.
  
-After 24:00, Erika was with Nanjo the whole time until {nobr:3 a.m}}."
+After 24:00, Erika was with Nanjo the whole time until 3 a.m}."
 At midnight, the crime in the cousins\' room still hadn\'t occurred.
 So this establishes an alibi for the period before the time he spent in the lounge.
-"After that, we walked out of the archive and into the hallway at {nobr:1 a.m}.
+"After that, we walked out of the archive and into the hallway at 1 a.m.
  When we did, we just happened to bump into Rosa‐san as she returned.
  I then told Gohda‐san about that.
  ......I figured it was probably a servant\'s responsibility to welcome in a guest."
 Gohda asked if he should bring a towel, but Rosa refused.
 She quickly headed up to the second floor.
 At this point, Erika, Gohda, and Nanjo gathered together and decided to have a drink......
-Their alibis in the lounge up until {nobr:3 a.m.} have already been proclaimed in red, so there are no problems there.
-"Let\'s continue on to after {nobr:3 a.m}.
+Their alibis in the lounge up until 3 a.m. have already been proclaimed in red, so there are no problems there.
+"Let\'s continue on to after 3 a.m.
  This is Doctor Nanjo\'s alibi after we split up.
- At {nobr:3 a.m.}, Battler‐san returned and the people in the lounge went their separate ways.
+ At 3 a.m., Battler‐san returned and the people in the lounge went their separate ways.
  Doctor Nanjo, Battler‐san and I went up to the second floor.
  I then said good night to Doctor Nanjo.
  At this time, of course, I put a seal on the door to the doctor\'s room as well."
 "And it went unchanged until the crime was discovered.
  I flew out of my room the moment Battler‐san screamed,
  and I confirmed that the door to Doctor Nanjo\'s room was still sealed.
- Therefore, Doctor Nanjo\'s alibi is perfect both before {nobr:1 a.m.} and after {nobr:3 a.m}...!"
+ Therefore, Doctor Nanjo\'s alibi is perfect both before 1 a.m. and after 3 a.m...!"
 "Splendid, Erika.
  
 Both your seal and your red truth are perfect.
- Nanjo had the alibi of being with Erika until {nobr:3 a.m}.
- And he didn\'t leave his room after {nobr:3 a.m.} until morning}."
+ Nanjo had the alibi of being with Erika until 3 a.m.
+ And he didn\'t leave his room after 3 a.m. until morning}."
 Using the seals she had placed on the doors,
  Erika was granted red truths from {f:5:Bernkastel} one after another......
 When I gave Beato a repetition request, it was about maneuvering and tactics,
@@ -711,16 +711,16 @@ It didn\'t pierce through me, but it slapped me hard on the cheek like a whip.
  You can\'t go skipping Battler like that."
 "My apologies.
  I had completely forgotten about him."
-"After Battler returned at {nobr:3 a.m.}, you went upstairs with him.
+"After Battler returned at 3 a.m., you went upstairs with him.
  And I believe you also went to your own room and slept.
- You may have gone to the cousins\' room at midnight, but I don\'t think you went there after {nobr:3 a.m}."
+ You may have gone to the cousins\' room at midnight, but I don\'t think you went there after 3 a.m."
 "......Will you now claim that you went to crawl into Battler\'s bed later on?
  *cackle*cackle*!
  Of course, if you tell me you were looking at Battler\'s sleeping face all night long to confirm his alibi in the cousins\' room,
  I might just be willing to accept your proof...!"
 "Yes. I listened to him breathing in his sleep all night long. Got a problem with that?"
 "......What......?!"
-"I, Furudo Erika, can prove that Battler‐san returned to the cousins\' room at {nobr:3 a.m.},
+"I, Furudo Erika, can prove that Battler‐san returned to the cousins\' room at 3 a.m.,
  that he went straight to bed afterwards, and that he went straight to sleep.
  And I can prove that until he woke up, noticed the gruesome situation the room was in, and let out a scream, nothing happened in that room."
 "So you have no need to worry.
@@ -774,7 +774,7 @@ Like some kind of creepy venomous spider clinging to the wall of a darkened room
  I have no choice but to acknowledge it.
  I\'ll confirm it in red...!
  
-Ushiromiya Battler returned to the cousins\' room at {nobr:3 a.m.} and fell asleep.
+Ushiromiya Battler returned to the cousins\' room at 3 a.m. and fell asleep.
  After that, until the discovery of the crime, absolutely nothing out of the ordinary happened in the room}!"
 "
 In other words, it was impossible for Battler to commit murder or damage the corpses}."
@@ -783,28 +783,28 @@ In other words, it was impossible for Battler to commit murder or damage the cor
 The red from the two of them forced Beato to show an expression of considerable anguish...
 It was only natural.
 The red truth they had spoken not only guaranteed Battler\'s alibi, but a number of other things as well.
-First off, it meant the murder was impossible for {i:anyone} after {nobr:3 a.m}.
+First off, it meant the murder was impossible for {i:anyone} after 3 a.m.
 And since the cousins were confirmed to be alive as late as midnight, the time period of the crime automatically became...
 “between midnight and three o\'clock”.
 That also automatically provided a guaranteed alibi...
-for everyone who wasn\'t in the guesthouse before {nobr:3 a.m.}
+for everyone who wasn\'t in the guesthouse before 3 a.m.
 ".........That one hurts...
 ...a lot........."
 "After midnight, Erika was in the guesthouse the whole time.
  So, it should have been difficult for her to prove alibis for all of the people in the mansion..."
 "It should have been almost impossible to prove alibis for Eva and the others.
- ...But now, all she has to do is prove that they never visited the guesthouse between midnight and {nobr:3 a.m.},
+ ...But now, all she has to do is prove that they never visited the guesthouse between midnight and 3 a.m.,
  and she can prove those alibis..."
-"......Anyway, we\'ll have to construct it so that the murders were possible before {nobr:3 a.m}.
+"......Anyway, we\'ll have to construct it so that the murders were possible before 3 a.m.
  And we have to prove that it was possible for one of the people in the mansion to do it...!"
 The people who were in the guesthouse all had alibis.
-{n}The crime didn\'t occur before midnight.
-{n}The crime couldn\'t have occurred after three o\'clock.
+The crime didn\'t occur before midnight.
+The crime couldn\'t have occurred after three o\'clock.
 In other words, there was no way for the murders to happen unless someone from the mansion committed the crime between midnight and three o\'clock......
 In order to protect Natsuhi, she had to establish that it was possible for someone other than Natsuhi to commit the crime.
 Ironically, the witch had to prove that a {y:0:Human}{n:0:human} could have committed the crime...
 "............Still, that\'s a tall order.
- ......Until {nobr:3 a.m.}, Erika was in the lounge.
+ ......Until 3 a.m., Erika was in the lounge.
  And you have to pass through there to get upstairs.
  In other words, she\'s practically like a sentry for the upstairs floor of the guesthouse."
 "......This is an unimaginative suggestion, but if it was possible to reach the upper floor without Erika noticing,
@@ -875,7 +875,7 @@ In the middle of all that rain,
  Erika sealed all the windows from the outside...
 ...to create an alibi showing that no one could have snuck into the guesthouse from the outside.
 She climbed up the walls herself, ......and did that to all the windows on the first and second floor.
-{n}No, to all things which could possibly have permitted entry.
+No, to all things which could possibly have permitted entry.
 After hearing that she\'d listened to the cousins\' room all night long without sleeping a wink,
  even this bizarre behavior didn\'t seem quite so impossible......
 That had probably also......looked like a venomous spider.
@@ -910,12 +910,12 @@ It was impossible to reach the second floor of the guesthouse without passing th
  So, you know what\'s coming next, Great Lady {f:5:Beatrice}!
  
 Therefore, the time of the crime is limited to the single hour between midnight, when they were confirmed to be alive,
- and {nobr:1 a.m.}, when our party in the lounge started}!"
+ and 1 a.m., when our party in the lounge started}!"
 "Ug...
 ...gah...
 ...ah......"
 "I\'ve already said it, but at midnight, I went down to the lounge,
- hit it off with Doctor Nanjo, and was engrossed by a discussion of the mystery genre in the archive until {nobr:1 a.m}."
+ hit it off with Doctor Nanjo, and was engrossed by a discussion of the mystery genre in the archive until 1 a.m."
 "......It\'s a bit embarrassing, but I grew so engrossed with this discussion...
 that I wouldn\'t have noticed if anyone had passed through the corridor during that period.
  ......Quite a regretful mistake for a detective."
@@ -926,14 +926,14 @@ It almost seems like it\'s the other way around.
 It\'s enough to make you think that this is an intentional trap,
  said in full awareness that only Natsuhi doesn\'t have an alibi for the hour following midnight...
 "To put it the other way around, this has the following corollary:
- the only ones who could have reached the cousins\' room and committed the crime...are those who have no alibi between midnight and {nobr:1 a.m.}!"
+ the only ones who could have reached the cousins\' room and committed the crime...are those who have no alibi between midnight and 1 a.m.!"
 Her eyes clearly hinted that Natsuhi was the only one who fit this description...
 ......It had been a crime that occurred at a completely unknown point during that long night.
 But because of the alibis Erika had constructed,
  that time period had been compressed and restricted to the single hour following midnight.
 Erika left the cousins\' room at midnight.
-{n}This is the last time we have confirmation that George and the others were alive.
-And after the party in the lounge started at {nobr:1 a.m},
+This is the last time we have confirmation that George and the others were alive.
+And after the party in the lounge started at 1 a.m,
  it was impossible to reach the cousins\' room by any method.
 "............All this from a mere {y:0:Human}{n:0:human}......"
 "This is quite bad...
@@ -946,7 +946,7 @@ And after the party in the lounge started at {nobr:1 a.m},
 *giggle*giggle*giggle*giggle*!!"
 "Then let us continue.
  Let\'s examine the alibis of the remaining suspects, the people in the mansion.
- After all, we only have to worry about the single hour between midnight and {nobr:1 a.m}.
+ After all, we only have to worry about the single hour between midnight and 1 a.m.
  That shouldn\'t be difficult at all."
 "First, midnight.
  At this time, Natsuhi, Krauss, and Genji were in the second floor corridor, and all of the others were in the first floor dining hall.
@@ -956,10 +956,10 @@ And after the party in the lounge started at {nobr:1 a.m},
 At 24:00, Natsuhi, Krauss, and Genji were in the corridor on the second floor of the mansion.
  The rest of them were in the dining hall on the first floor}.
  And as you know, there was a mysterious knock, and a letter with the One‐winged seal on it appeared.
- The discussion surrounding that continued on until {nobr:1 a.m}.
+ The discussion surrounding that continued on until 1 a.m.
  I will say it with the red truth.
  
-Of all the people in the dining hall, not one of them left the dining hall until {nobr:1 a.m.}}...!"
+Of all the people in the dining hall, not one of them left the dining hall until 1 a.m.}...!"
 The time that the crime was possible had been limited to between midnight and one o\'clock.
 And it had been guaranteed that the adults in the family conference did not leave the mansion between midnight and one o\'clock.
  This gave them all proven alibis.
@@ -970,7 +970,7 @@ And it had been guaranteed that the adults in the family conference did not leav
 "
 The red truth is simply truth, and there is no need to provide evidence, proof, or room for a counterargument}!!
  ......You made that rule.
- *cackle*cackle*cackle*giggle*giggle*giggle*ehe{0}he{0}he{0}he{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!"
+ *cackle*cackle*cackle*giggle*giggle*giggle*ehehehehehahahahahahahahahahaha...!!"
 This overbearing red truth hadn\'t only given alibis to the adults in the dining hall.
 It also gave alibis to Shannon and Kanon, who had come to serve tea,
  and even guaranteed that they never left the dining hall.
@@ -988,7 +988,7 @@ If alibis were proven for Krauss and Genji,
  
 When Genji finished transferring the call, he immediately returned to the servants\' quarters}.
  That\'s just a cold, hard truth, without any evidence, proof, seals or alibis, got it?"
-"Then, at {nobr:1 a.m.},
+"Then, at 1 a.m.,
  there was another break in the family conference, and Rosa returned to the guesthouse.
  ......At that time...
  I\'m truly thankful for your cooperation, Ushiromiya Eva‐san.
@@ -997,10 +997,10 @@ When Genji finished transferring the call, he immediately returned to the servan
  I was also certain that something would happen that night."
 "She\'s the person who taught me how to make those seals.
  And she helped me to check the alibis of those people under suspicion...!"
-"During the break at {nobr:1 a.m.},
+"During the break at 1 a.m.,
  I went to Genji‐san\'s quarters and used the same seal as Erika‐chan...!
  In other words, if this wasn\'t broken,
- it would mean that no one could have entered or left that room between {nobr:1 a.m.} and the next morning...!!"
+ it would mean that no one could have entered or left that room between 1 a.m. and the next morning...!!"
 "Now, Kanon‐san and Kumasawa‐san.
  Please rise."
 Kanon rose expressionlessly, and Kumasawa got to her feet timidly.
@@ -1015,10 +1015,10 @@ Kanon rose expressionlessly, and Kumasawa got to her feet timidly.
 ""Y‐yes...""
 "With the red truth, I\'ll guarantee that Eva, Kanon, and Kumasawa\'s statements just now are the truth.
  
-At {nobr:1 a.m.}, Eva sealed Genji\'s sleeping quarters, and that seal was broken by Kanon and Kumasawa in the morning when the crime was discovered}.
+At 1 a.m., Eva sealed Genji\'s sleeping quarters, and that seal was broken by Kanon and Kumasawa in the morning when the crime was discovered}.
  Just to save time, I\'ll add on some more."
 "
-During the short break at {nobr:1 a.m.}, the first two to leave the dining hall were Rosa and Eva.
+During the short break at 1 a.m., the first two to leave the dining hall were Rosa and Eva.
  Until Eva returned, everyone in the dining hall remained there.
  After seeing Rosa off, Eva went to the sleeping quarters and sealed it.
  Of course, she did not enter the room at all at this time}."
@@ -1034,19 +1034,19 @@ She had thorough knowledge of all the chemicals in Kinzo\'s study and had used t
  which had now been acknowledged and made into red truth by {f:5:Bernkastel}.
 ......Without going into too much detail, the results she had obtained would have been convincing even without the red truth.
 Fingerprint collection with aluminum powder.
-{n}Composition analysis on the mud under people\'s shoes. Various chemical reactions from clinging rain water.
+Composition analysis on the mud under people\'s shoes. Various chemical reactions from clinging rain water.
 ......Erika had walked in and out of the study that didn\'t belong to her several times,
  using all manner of chemicals however she pleased without asking the family\'s permission.
 However, no one could fault her for this.
-{n}The pieces couldn\'t hinder any action the detective might take for the investigation.
-{n}That was the power of the detective\'s authority.
+The pieces couldn\'t hinder any action the detective might take for the investigation.
+That was the power of the detective\'s authority.
 "............You act like you own the place...
  ......From now on, I\'ll warn everyone I meet never to welcome in any guest who calls themselves a detective."
 "I believe that would be wise.
  Giving shelter to a detective is just about the worst omen of misfortune out there."
 ".........This is proof...
 that it was only possible to reach Genji\'s sleeping quarters and commit the crime...
-between midnight and {nobr:1 a.m}, just as with the murders in the guesthouse.
+between midnight and 1 a.m, just as with the murders in the guesthouse.
  And furthermore, Erika\'s investigation also proved that it was impossible for Genji to reach the cousins\' room."
 It had already been made clear in red truth that, after transferring the phone call to Natsuhi,
  Genji had gone straight back to the servants\' quarters.
@@ -1114,7 +1114,7 @@ However, all of those alibis had been accepted by {f:5:Bernkastel} and {f:5:Lamb
 ".........Even if Erika {i:has} accused Aunt Natsuhi of being the culprit, ......and even if everyone else here believes that,
  ......that\'s exactly why I want to be the one person who trusts her...!"
 If everyone assumes it\'s true, does it become the truth?
-{n}If everyone accepts a lie, does it become the truth?
+If everyone accepts a lie, does it become the truth?
 Must the solitary truth‐teller...
 be dragged to the guillotine to the jeers of liars?
 "I......don\'t like it.
@@ -1191,7 +1191,7 @@ Ushiromiya Natsuhi is not the culprit}!"}
  If you\'re willing to abandon this Ushiromiya family honor thing, Bern says she\'ll let you off with a draw.
  She\'s being really soft on you, you know...?"
 Krauss was currently missing, and it was unknown whether he was alive or dead.
-{n}Like Kinzo, he was no different than a "cat in a box" that had disappeared into the mists of the island.
+Like Kinzo, he was no different than a "cat in a box" that had disappeared into the mists of the island.
 The cat in the box is a creature of infinite variation; no interpretation of it can be denied.
 It is the root of endless interpretations.
  The true source of the Endless Witch\'s power.
@@ -1267,7 +1267,7 @@ and move on to the next game."
  If I can\'t even make that claim, my existence isn\'t worth anything...!!"
 "......I can\'t afford to lose.
  "Truth" isn\'t for anyone to deny."
-"......It\'s something that disappears...when you doubt it and abandon it yoursel{-}l{-}l{-}l{-}l{-}l{-}lf!!"
+"......It\'s something that disappears...when you doubt it and abandon it yourselllllllf!!"
 "Is that your answer, Beato......?"
 "Yeah, of course I refuse!!
  Ushiromiya Krauss is not the culprit!!"
@@ -1301,13 +1301,13 @@ with her last ounce of strength......
  Why don\'t I start reading aloud from the verdict."
 "......At midnight on October 4th, 1986, the defendant, Ushiromiya Natsuhi,
  left before the others while pretending to return to her room to sleep,
- and murdered George, Jessica, Maria, Rosa, and Genji one after another during the one hour period before {nobr:1 a.m.}!"
+ and murdered George, Jessica, Maria, Rosa, and Genji one after another during the one hour period before 1 a.m.!"
 "Let me add something on.
  Due to circumstantial evidence, include the murder of Krauss."
 "Yeah, that\'s right.
  In this situation, it\'s unthinkable that anyone except Natsuhi could kill Krauss!!"
 "A revision to the verdict!
- During the hour before {nobr:1 a.m.},
+ During the hour before 1 a.m.,
  Ushiromiya Natsuhi killed Krauss, George, Jessica, Maria, Rosa, and Genji one after another!
  It\'s only possible for any of these murders to have taken place between midnight and one o\'clock!
  The only person without an alibi during this time was Ushiromiya Natsuhi...!
@@ -1320,7 +1320,7 @@ with her last ounce of strength......
  If you can just do that, Natsuhi will stop at being one shade short of absolutely guilty,
  and the denial of your existence will be put on hold for this game......"
 If Natsuhi had an alibi, Beato would have shown it long ago.
-{n}In fact, wasn\'t the whole point of that trap to make her lose her alibi......?
+In fact, wasn\'t the whole point of that trap to make her lose her alibi......?
 "Even if her alibi is not proven, ......I will believe in Natsuhi\'s innocence...!!
  No matter how much you all try to pin your fake truth on her!!
  I am the true culprit!
@@ -1345,7 +1345,7 @@ In that case, the most convincing truth would swallow up everything else......an
 Even if it happened to be different from the real truth.
 The truth of those in the past is swallowed up by the truth of those in the future.
 ......Even if that truth is a fiction.
-{n}As long as everyone acknowledges it to be true...!
+As long as everyone acknowledges it to be true...!
 ".........You\'re all bark and bluster.
  ......I like it best when witches sob and beg for their lives when they\'re about to be burned at the stake.
  When they try and act tough like you do, it\'s such a buzzkill.
@@ -1370,10 +1370,10 @@ When that heartless announcement was made.........Kinzo stood up.
  No one can defile the crest engraved in your heart!!
  That is yours alone!!
  Do not ever forget your pride as the final head of the Ushiromiya family!
- Natsuhii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iii!!"
+ Natsuhiiiiiiiiiiiiiiiiiiiiii!!"
 "Just shut up and disappear.
  You putrid delusion, vomit of Natsuhi\'s mind."
-"Nngggaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhhh!!
+"Nngggaaaaaaaaaaaaaaaahhhhh!!
  You can\'t erase me! You can\'t erase my soul!!
  Not as long as Natsuhi continues to engrave the crest into her heart!!"
 "You lying illusion.
@@ -1381,15 +1381,15 @@ When that heartless announcement was made.........Kinzo stood up.
 The real Kinzo would never say such a thing.
  Begone,
  you fantasy of Kinzo inside Natsuhi\'s mind, beautified by her to suit her own purposes}."
-"Gwaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}ah{0}h{0}hha{0}a{0}a{0}a{0}a{0}a{0}a{0}ahhhh,
+"Gwaaaaaaaaaaaaaaaaahhhhaaaaaaaahhhh,
  Na...
 tsuhi......
-nnggwoo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oohhhhhhh...!!!"
+nnggwoooooooooooohhhhhhh...!!!"
 Bright red flashes of lightning smashed Kinzo over and over again as he screamed.
 Then, he crumpled like a doll......and sat back down in his chair as though nothing had happened.
 The fierce emotion had left Kinzo\'s face.
 He had truly......become like a wax model.
-{n}And so, .........he would never again share kind words with Natsuhi...
+And so, .........he would never again share kind words with Natsuhi...
 .........Yes.
 The true Kinzo...
 ......never once trusted Natsuhi during his entire life.
@@ -1418,8 +1418,8 @@ to you, did he not......?"
 Not only did he not entrust her with that,
  ......he never said hello...
 ......or met her gaze even once.........
-"......Uu, ......uwaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahh......!!
- Aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}ahhhhhh!!"
+"......Uu, ......uwaaaaaaaaaaaaaaaaaaahh......!!
+ Aaaaaaaaaaaahhhhhh!!"
 Natsuhi\'s cry,
  a mixture of sadness and many other emotions,
  echoed throughout the cathedral......
@@ -1462,7 +1462,7 @@ And, the culprit is among these people.
 "............It was you?!
  You killed George, killed my husband?!
  Why?!!
- Whyy{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}yyy?!!"
+ Whyyyyyyyyyyyyyyyy?!!"
 "I, ...I didn\'t kill anyone...!
  I, I, d‐didn\'t do...!!"
 "....................."
@@ -1495,7 +1495,7 @@ Then she started grabbing whatever her eyes fell upon and throwing it.
 She was kicked, her hair pulled and dragged up,
  her cheek slapped so many times that it started to swell.
 No one tried to stop it.
-{n}It wasn\'t because they were worried about Eva kicking them too.
+It wasn\'t because they were worried about Eva kicking them too.
 It was because they thought it an appropriate act of retribution for a person who had lost her beloved son and husband.
 A proper...retribution.
  A proper...truth.
@@ -1507,7 +1507,7 @@ She had already lost the husband and daughter who would have protected her,
 No longer...would anyone protect her.
  No longer...would anyone believe her. So she was now...the true culprit.
 Eva\'s shoulders heaved with her heavy breathing.
-{n}......Apparently, her anger still hadn\'t abated.
+......Apparently, her anger still hadn\'t abated.
 Erika patted Eva\'s shoulder and made her take a step back.
 ......Of course, this wasn\'t to protect Natsuhi from violence.
 It was to further humiliate her, ......now that she had been branded as the culprit.
@@ -1537,7 +1537,7 @@ Because {f:5:Lambdadelta} had acknowledged that the culprit of the tale was Nats
 "Why can\'t you just call it my sin? Why must you suspect Natsuhi?!!
  Acknowledge me!!
  I committed all the crimes!!
- It cannot be the work of a {y:0:Human}{n:0:human}! It cannot beee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}ee!!"
+ It cannot be the work of a {y:0:Human}{n:0:human}! It cannot beeeeeeeeeeee!!"
 The witch illusion had already been crushed, ......and Beato\'s voice didn\'t reach anyone.
 The verdict had already been announced.
  ......Everything had been decided.
@@ -1553,7 +1553,7 @@ The verdict had already been announced.
  or help distract me from my boredom.
  And you\'ve answered my expectations.
  The second one, that is.
- ...Eheheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh!!"
+ ...Eheheheheheheheheheheheheheh!!"
 "......I...
 ...am a witch......
  Even if you don\'t acknowledge it, Lady {f:5:Lambdadelta}...
@@ -1574,7 +1574,7 @@ From Beato\'s point of view up on the balcony,
  ......it must have looked like a huge boiling pot of goats.
 "...............Heh,
  ......*cackle*,
- ...haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!
+ ...hahahahahahahahahahaha!!
  That\'s right,
  ......this was our contract from the beginning...!"
 "Yep.
@@ -1590,7 +1590,7 @@ Suddenly, there were goats standing right behind Beato.
  Uhihihahaaah!!
  The screams of those who gift me that line as their parting shot are the most gratifying of all!
  ......Now fall!
- {f:5:Beatricee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeee}......!!!"
+ {f:5:Beatriceeeeeeeeeeeeeeee}......!!!"
 The goats carrying Beato no longer viewed her as their master.
 After holding her above the pot of clambering goats,
  which were snorting heavily in anticipation......
@@ -1606,13 +1606,13 @@ Of course, they didn\'t do it gently.
 The arms of countless goats pulled at her flesh to keep it for themselves.
 They tried to tear her to bits.
 It didn\'t have to be flesh.
-{n}Hair, fingernails, shoes, even bits of her dress worked just fine.
+Hair, fingernails, shoes, even bits of her dress worked just fine.
 The mouths of those goats were the gateway into hell.
 However, Beato was too big to pass through that gateway.
 So they had to chew and tear her...
 into bits small enough to fit into it...!
 .........Beato let out a bold laugh.
-{n}She laughed from inside the pot of goats.
+She laughed from inside the pot of goats.
 However, her expression was very different from the one she had intended.
  .........It was an expression not of a witch, ......but of a single {y:0:Human}{n:0:human} screaming out for the final time.
 Then, the sea of goats parted.
@@ -1644,8 +1644,8 @@ If I want to deny her truth, I\'ll need to present a different one.
  ......However, all courts place time limits upon determining the {f:5:truth}.
  And a truth that cannot be reached within that time limit cannot become {f:5:truth}."
 ......Yeah, ...I know that......!!
-{n}By now, everyone is certain that Aunt Natsuhi is the culprit.
-{n}It might be too late now, ......even for the real truth...!
+By now, everyone is certain that Aunt Natsuhi is the culprit.
+It might be too late now, ......even for the real truth...!
 Aunt Eva\'s violence will probably go unstopped,
  and no one is even thinking about protecting Aunt Natsuhi.
 It\'s no longer a situation where we can say "oh, the truth will eventually be found".
@@ -1684,14 +1684,14 @@ I seriously doubt that I can put together a truth where Aunt Natsuhi isn\'t the 
  Bury the old piece and the unneeded player together!!"
 "As you {f:5:wish}.
  Glory be to the great Lady {f:5:Bernkastel}!
- I am the Chief {f:5:Inquisitor}, Dlanor {nobr:A. Knox}...!!
+ I am the Chief {f:5:Inquisitor}, Dlanor A. Knox...!!
  Step {f:5:forward}, Ushiromiya Battler!!"
 "D‐......dammit, I\'ve got nothing more to lose...
- If you wanna see me struggle, here you gooo{-}o{-}o{-}o{-}o{-}o{-}o{-}ooo!!"
+ If you wanna see me struggle, here you goooooooooooo!!"
 The only reason Erika\'s theory is so strong is because of those seals.
 She was given red so quickly just because {f:5:Lambdadelta} easily bought the alibis created by those seals.
 But the seals aren\'t red truth!
-{n}Just sticking paper in a door crack is far from perfect.
+Just sticking paper in a door crack is far from perfect.
 There\'s no way something like that can prove anything with "certainty"...!
 "Begin, Battler!!
  Ready to let those goats turn you into a pile of meat along with your beloved {f:5:Beatrice}?!"
@@ -1699,7 +1699,7 @@ There\'s no way something like that can prove anything with "certainty"...!
  Wouldn\'t that make for a wonderful stack of meat?
  ......Then we can wrap it up in a dumpling, steam it and maybe add some soy sauce!!"
 "No, the best way would be to fry them in a pan with some eggs and ketchup!!"
-""Ahyahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hhhya{0}hhya{0}hya{0}yhya{0}ha{0}ha{0}haa{0}a{0}a{0}a{0}a{0}a{0}aaahhhh!!""
+""Ahyahhahahahahahahhhyahhyahyayhyahahahaaaaaaaaaahhhh!!""
 "D‐dammiiiiiiiiiiiiiiiiiiiiittt!!"
 "
 Can\'t we doubt the reliability of these seals of Erika\'s?!
@@ -1748,18 +1748,18 @@ were not tampered with in any way that hindered their ability to act as seals, s
 "......Dammiiiiiiit...
  damn you, sticking duct tape all over the place that leaves marks on whatever it touches......!"
 Dlanor isn\'t my only enemy.
-{n}There\'s also her subordinates, Gertrude and Cornelia.
-{n}And also Erika and her master {f:5:Bernkastel}.
-{n}And even {f:5:Lambdadelta}, the one who hijacked Beato\'s game!
+There\'s also her subordinates, Gertrude and Cornelia.
+And also Erika and her master {f:5:Bernkastel}.
+And even {f:5:Lambdadelta}, the one who hijacked Beato\'s game!
 Everyone in this cathedral is an enemy.
 That fierce rush of red immediately repelled my feeble truth.
 ......It\'s obvious why. I don\'t have any alternate truth.
-{n}Even at this final stage, ......I have nothing...
+Even at this final stage, ......I have nothing...
 "Were the seals all that you had to {f:5:discuss}?
  You promised to give me everything you {f:5:have}."
 "..................kh........."
 If I only knew a truth that could prove Aunt Natsuhi\'s innocence...
-{n}If I could only make a theory that weaves its way through Erika\'s red......
+If I could only make a theory that weaves its way through Erika\'s red......
 ......Dammit, I don\'t know anything!!
 ".........Do you have any chance of winning...?"
 "......I left it at home.
@@ -1775,19 +1775,19 @@ If I only knew a truth that could prove Aunt Natsuhi\'s innocence...
  When did I ever make a promise to you and lie about it...?"
 "............Heheheh, ...*cackle*cackle*cackle*.
  ......After hearing you say that, hell might not be so bad.
- ......Eha{0}ha{0}ha{0}ha{0}ha{0}haha, gaha{0}ha{0}ha{0}ha{0}haha...!!
+ ......Ehahahahahahaha, gahahahahahaha...!!
  Kill us! {f:5:Bernkastel}, {f:5:Lambdadelta}...!!
- Hyahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}haha!!"
+ Hyahhahahahahahahahahahaahahahaha!!"
 Beato let out a shrill cry, overcome with laughter.
-{n}......It was a broken laugh, and tears streamed down her cheeks.
+......It was a broken laugh, and tears streamed down her cheeks.
 Battler\'s words would no longer reach her ears.
 She kept on laughing insanely, like a broken record......
 "Is it {f:5:over}?
  {f:5:Pitiful}.
  I truly am {f:5:disappointed}, Ushiromiya Battler...!!"
-"Hyah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha, hiihha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}hah{0}hya{0}ha{0}ha{0}ha{0}ha{0}ha{0}a{0}a{0}a{0}aahh!!
+"Hyahhahahahahahahahaha, hiihhahahahahahahaahahahahhyahahahahahaaaaaahh!!
  Kill me, Dlanor!! Slice me in half with your red longsword!!
- Hyah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haah{0}haa{0}a{0}a{0}aaahhh!!"
+ Hyahhahahahahahahahahaahhaaaaaaahhh!!"
 "Nng.........nngaaaaaaaaaaaaggghhhhh!!"
 "
 I postulate a method X that could lead someone to the upper floor of the guesthouse without passing through the lounge!
@@ -1867,7 +1867,7 @@ Knox\'s 9th:
  Observers are permitted to put forward their own conclusions and {f:5:interpretations}}!"
 "
 Maybe I was the culprit, and I gave George‐aniki and the others a slow‐acting poison to make them die after midnight,
- then silently slit their throats when I returned at {nobr:3 a.m.}!!
+ then silently slit their throats when I returned at 3 a.m.!!
  I could have done it so quietly that Erika wouldn\'t hear}...!!"
 "
 Knox\'s 8th:
@@ -1897,7 +1897,7 @@ the red truth is simply truth, and there is no need to provide evidence or proof
 "Wh‐
 ......what the...
 .....d‐
-......damn it aa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}ll......!!"
+......damn it aaaaaaaaaall......!!"
 In the face of these insane arguments,
  ......all my effort to overturn the truth treating Aunt Natsuhi as the culprit is completely meaningless.
 Each time I brandish my desperate blue truths,
@@ -1910,7 +1910,7 @@ Each time I think I can slip through a chink in their armor,
  Dlanor smacks me down with the red longsword of Knox......
 "......Hihihiha,
  hiihii,
- ......haha, haha{0}ha{0}ha{0}haha......"
+ ......haha, hahahahahaha......"
 "............Beato......"
 "That\'s enough, Battlerr...
  ......This will at last be...
@@ -1978,15 +1978,15 @@ I understood that this...
  You aren\'t needed in {i:our game}.
  .........
 *giggle*giggle*giggle*,
- ehe{0}he{0}he{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahah!!
+ ehehehehahahahahahahahahahah!!
  Do it, Dlanor!!"
 "This is the {f:5:end}.
  ......If you still have one last bit of power,
  let me see you muster it now, in your last {f:5:moments}...!"
 "Nn.........
-......nnnggaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aagghhhhh!!!"
+......nnnggaaaaaaaaaaaaaaaaaagghhhhh!!!"
 It\'s a small but brilliant red truth.
-{n}My last trump card, courtesy of {f:5:Virgilia}...!!
+My last trump card, courtesy of {f:5:Virgilia}...!!
 Erika......this takes your theory back to square one...!!
 "Go for it...if you think you can."
 {a:c:
@@ -2056,17 +2056,17 @@ This court is now {f:5:disbanded}.
 {f:5:death‐death‐death‐death‐death‐death}}!"
 "
 <Die the DEATH>!
- <Sentence to DEATH>!!{n}
+ <Sentence to DEATH>!!
  <Great equalizer is the DEATH>}!!"
 Then, the trial for the fifth game was over.
-{n}The detective, Furudo Erika, accused the culprit, Ushiromiya Natsuhi.
+The detective, Furudo Erika, accused the culprit, Ushiromiya Natsuhi.
 There are three riddles that the detective must explain.
 The first is the whodunit.
  Who is the culprit?
 As previously stated, it is Ushiromiya Natsuhi.
 The second is the howdunit.
  How did they carry out the crime?
-During the hour between midnight on October 4th, 1986 and {nobr:1 a.m.} the next day,
+During the hour between midnight on October 4th, 1986 and 1 a.m. the next day,
  Ushiromiya Natsuhi went to the cousins\' room on the second floor of the guesthouse and the servants\' quarters on the first floor of the mansion.
  There, she carried out the murders.
 It is only possible for the crime to have taken place during that hour,
@@ -2092,7 +2092,7 @@ After that, all that remained was the corpse of this sorrowful man, pierced by t
  and lit by the faint glow let in from the cathedral\'s skylight.........
 And then, there is the third riddle that the detective must uncover.
 The final riddle...the whydunit.
-{n}Why did they commit the crime—
+Why did they commit the crime—
 the motive.
 In third‐rate mysteries, there\'s no need to uncover this.
 After all, even if you don\'t expose the motive, the culprit will just confess it when all\'s said and done.
@@ -2230,14 +2230,14 @@ that you hated both your husband and the Ushiromiya family."
 Each time Erika read from Natsuhi\'s diaries,
  ......she exposed another of Natsuhi\'s emotions during those painful days.
 ......Natsuhi hadn\'t written them down to record them for posterity.
-{n}She had written to forget those memories and seal them away.
+She had written to forget those memories and seal them away.
 That was why, after writing down her feelings during those painful days,
  ......she had locked them up and sealed them away for all eternity.
 However, Erika claimed that these were Natsuhi\'s true, hidden feelings...
 that had been locked away and concealed.
 Since it had already been "concluded" that Natsuhi was a murderer, everyone accepted Erika\'s claim.
 By this point, the red truth wasn\'t even necessary to establish Natsuhi\'s motive.
-{n}As long as the reason seemed plausible, everyone would believe it.
+As long as the reason seemed plausible, everyone would believe it.
 No matter how much Natsuhi might object, no one would believe her.
 No one could accept the truth Natsuhi spoke of, about the days she had spent loving her husband.
 And so it was being painted over by a false truth, in which she hated her husband and swore revenge against him......
@@ -2317,7 +2317,7 @@ However.........
  ...Do you really think......that I would defile Father\'s honor...the Ushiromiya family honor...
 just to clear away the false accusations made against me...?!!"
 Of course, Natsuhi knew that she wasn\'t the culprit.
-{n}And she also knew that Kinzo wasn\'t.
+And she also knew that Kinzo wasn\'t.
 So being framed herself and pushing the blame onto Kinzo...
 were both unacceptable, unbearable outcomes.
 "Are you sure?
@@ -2331,7 +2331,7 @@ were both unacceptable, unbearable outcomes.
  I am certain that God knows I am innocent...!
  And one day, he will prove it!!"
 If it came to a choice between her or Kinzo being framed for these crimes...
-{n}......Natsuhi would sacrifice herself.
+......Natsuhi would sacrifice herself.
 Perhaps...
 ...that was her way...
 ...of protecting the Ushiromiya family honor.
@@ -2357,7 +2357,7 @@ Even if I am a good person up until my death...
  and that is shared with everyone else...
 ......then even all the goodness in which I lived my life will be overwritten easily.
 And so, I think...
-{n}I must live as a good person for all eternity......
+I must live as a good person for all eternity......
 "......If you claim that Kinzo‐san was not the culprit,
  he will need an alibi which proves that the crimes were impossible for him.
  Otherwise, we cannot truly be certain that you are the culprit, Natsuhi‐san."
@@ -2546,10 +2546,10 @@ In a rage, Natsuhi unlocked the door to her room and pointed inside.
  Do you think he realized we were coming and escaped out of the window again?"
 If Kinzo wasn\'t in this last room, ......it meant that he didn\'t exist anywhere.
 "There is no living Kinzo outside the mansion".
-{n}"There is no living Kinzo inside the mansion".
+"There is no living Kinzo inside the mansion".
 Therefore, “no living Kinzo exists”.
 However, Erika didn\'t make that argument.
-{n}She had brought things to this point, but she didn\'t make it checkmate...
+She had brought things to this point, but she didn\'t make it checkmate...
 It was because {f:5:Bernkastel} didn\'t want to win by cornering Natsuhi with the red truth,
  but by forcing Natsuhi to admit to a humiliating resignation......
 "I have not only been searching for Kinzo‐san himself all this time.
@@ -2593,7 +2593,7 @@ For the entire duration of the night between midnight and morning,
  I discovered that Kinzo did not exist anywhere in this room between midnight and morning.
  However, your bed alone is excluded from this."
 A shocked silence dominated the room......
-{n}Natsuhi completely forgot to close her open mouth...
+Natsuhi completely forgot to close her open mouth...
 "Last night,
  at around the time the gold was discovered—I estimate 23:00—
 Kinzo‐san escaped from the window on the third floor and snuck into the bed in your room.
@@ -2623,7 +2623,7 @@ Therefore, we can conjecture that Ushiromiya Natsuhi and Ushiromiya Kinzo had se
 ......how could there possibly...
 b‐be proof of that?!!
  How low are you willing to sink to mock me?!
- Y‐you vile creatuu{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}u{-}ure!!"
+ Y‐you vile creatuuuuuuuuuuuuuuure!!"
 Natsuhi tried to attack Erika,
  ...but Eva pinned her arms behind her back, so she couldn\'t do anything.
 "How unsightly.
@@ -2645,7 +2645,7 @@ were all alone in his study when you went to "say goodnight to him", weren\'t yo
  Was it Eva‐san?!
  Yes, you must be behind something this ludicrous!!"
 "Who was it?! Whooooo?!
- Aaaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}hhhhh!!!"
+ Aaaaaaaaaaaaaaaaaaaaaahhhhh!!!"
 "I acknowledge receipt of the relevant parties\' testimony.
  Wow, this is pretty fatal.
  *giggle*giggle*giggle*...! No room for doubt now!"
@@ -2668,7 +2668,7 @@ were all alone in his study when you went to "say goodnight to him", weren\'t yo
 
 The real Kinzo never once ordered Natsuhi...
 to do anything like protect his honor}."
-"Waaaaaaaaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}ahhhhhhh!!"
+"Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhh!!"
 As Natsuhi screamed, she fell down to her hands and knees......
 She no longer...
 ...had any way to reject the fake truth...

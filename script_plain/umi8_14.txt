@@ -1,7 +1,7 @@
 I saw a figure, apparently the driver, open an umbrella and come towards me...
 ".........Is this your garden?"
 The figure questioned me.
-{n}Of course, I couldn\'t answer it...
+Of course, I couldn\'t answer it...
 "......If it is, then I must apologize.
  Yes, on a day with such fine weather, anyone would want to take a nap in such a lovely garden as this.
  ......And yet, unless my memory fails me..."
@@ -35,8 +35,8 @@ Eventually, Hachijo returned.
  How do you feel...?"
 I nodded weakly, letting her know that it wasn\'t so bad for now.
 ......But...where is this place?
-{n}A room I have absolutely no memory of, ......in a house I don\'t remember at all.
-{n}And, first and foremost, here\'s a woman that I\'ve never seen......
+A room I have absolutely no memory of, ......in a house I don\'t remember at all.
+And, first and foremost, here\'s a woman that I\'ve never seen......
 "To start off, let me introduce myself.
  I\'m Hachijo Ikuko.
  I don\'t mind if you address me in a friendly manner as Ikuko, or if you prefer to call me Hachijo‐san and keep things more formal."
@@ -143,7 +143,7 @@ However, I was unable to remember any more, unable even to be sure that eighteen
  It seems you must also have some talent as a critic or a detective novel writer."
 ...............A detective novel...writer.
  ......A critic.
-{n}........................
+........................
 From across the fog of oblivion...
 ...I seem to remember myself fighting and arguing about......mysteries, ......or something like that.
 That way of fighting, which I must have learned in the past.........sent a surge of excitement through me.
@@ -206,7 +206,7 @@ So, I figured you could hardly call her a novelist when she kept writing novels 
  I\'ll go make some tea, so would you mind reading it again and sharing your thoughts with me?"
 Saying this with a smile, Ikuko thrust a pile of manuscript paper at me.
 When it comes to detective novels, reading and writing are the same.
-{n}It\'s boring if you just do it by yourself.
+It\'s boring if you just do it by yourself.
 You only get something really precious when you share the world with someone else.
 ........................Headache.
 "Tohya?
@@ -265,15 +265,15 @@ Joined by the servant who happened to be working that day and the cat Bern, we r
  ......To Ikuko‐san\'s big debut."
 "To Tohya\'s big debut!"
 We clinked our glasses once more.
-{n}The evening wore on.........
+The evening wore on.........
 We must\'ve had way too much to drink.
 Before I knew it, I must have passed out on the sofa.
 There was a blanket covering me.
  ......Ikuko‐san must\'ve put it there.
 The lights were out in the study, but it wasn\'t dark.
-{n}The computer\'s monitor was glowing.
+The computer\'s monitor was glowing.
 Outside, it had started to rain.
-{n}......It reminded me of the day Ikuko‐san found me and took me in.
+......It reminded me of the day Ikuko‐san found me and took me in.
 Because of that, ......whenever it rains, I find myself wondering who I was, ......and I usually get headaches.
 So, I wasn\'t sure whether the pain was because of the rain or because I drank too much.
 "......Ikuko‐san.
@@ -283,13 +283,13 @@ So, I wasn\'t sure whether the pain was because of the rain or because I drank t
 "No, I slept well.
  Thanks to that, I feel refreshed."
 I turned on the light and looked out through a gap in the curtains.
-{n}......As I\'d thought, it was the sort of pouring rain that always reminded me of that day.
+......As I\'d thought, it was the sort of pouring rain that always reminded me of that day.
 "It\'s raining pretty hard out there.
  The wind looks pretty strong too.
  I hope the rain gutters don\'t get clogged with leaves again."
 "......I just had them cleaned the other day, so they should be fine for a while."
 Her answer sounded a little abstracted.
-{n}Apparently, her attention was absorbed by the computer.
+Apparently, her attention was absorbed by the computer.
 "You\'ve been pretty hooked by that computer lately, Ikuko‐san.
  Did you find an interesting article or something?"
 ".........It may be a bit juvenile, but it\'s still pretty interesting.
@@ -306,7 +306,7 @@ Unable to tell what was the floor and what was the ceiling, ......I crumpled and
 "Tohya......are you okay...?!"
 "......My head.........hurts....................."
 The Rokkenjima Explosion Accident.
-{n}The many disquieting rumors surrounding it.
+The many disquieting rumors surrounding it.
 The scheming of the relatives after Ushiromiya Kinzo\'s vast wealth and the hidden gold......
 And the truth?
 Ushiromiya Eva, the sole survivor, said nothing.
@@ -325,9 +325,9 @@ Help me, Ikuko.........
  .........Someone else\'s memory............is hurting me.........
 My...head\'s......splitting.....................
 {a:c:......I can hear the sorrowful sound of wind......
-{n}And......that must be rain.
-{n}......Who......am I, again...?
-{n}I am......Ushiromiya......}
+And......that must be rain.
+......Who......am I, again...?
+I am......Ushiromiya......}
 {a:c:
 "Ange! ......Ange...!!"}
 {a:c:
@@ -336,19 +336,19 @@ My...head\'s......splitting.....................
  Voices calling to me}.
 {a:c:Dad......and Mom......}
 {a:c:......It can\'t be them......}
-{a:c:In 1986, ......on Rokkenjima,{n}......Mom and Dad......}
+{a:c:In 1986, ......on Rokkenjima,......Mom and Dad......}
 "......Ange, hang in there...!
  Can you hear Daddy\'s voice...?!"
 "Please, say something!! Ange!!"
 ......Mom, Dad......
-{n}I\'ll......say it out loud......
+I\'ll......say it out loud......
 .........Mom......Dad.........
 "Ange...!!
  Ange, thank goodness......!!"
 I could feel my body being lifted up firmly......and hugged roughly.
 ......Mom and Dad......were hugging me......
 My eyelids had been open for a while now.
-{n}I could feel the light slowly returning to my eyes.
+I could feel the light slowly returning to my eyes.
 Just like your eyes get used to the dark, ......my eyes got used to the light, ......and bit by bit, the scene around me came into view.
 However, it was an unusual sight, which seemed to be very far away.
 My body......was being hugged by Mom and Dad.
@@ -535,7 +535,7 @@ I should\'ve known better than anyone that it couldn\'t possibly be true, ......
  I\'ve inherited all of that. Right?"
 "*giggle*.
  ......If only my health had held out a little longer, I was planning to spend all of it on myself."
-*giggle*, ......aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.
+*giggle*, ......ahahahahahahahahahaha.
 As Ange laughed, tears poured from her eyes again.
 Everyone surrounded Ange with their kind, warm smiles......
 Battler stood alone in the rose garden maze, letting the rain quietly fall on him......
@@ -566,7 +566,7 @@ He patted her head gently.
  An empty box isn\'t so bad—it\'s a clean slate, a fresh start.
  And anyway, if you\'re harboring false hopes, sometimes it\'s better just to pull out the thorn."
 Battler laughed heartily.
-{n}Then, with that same smile on his face, he told her.
+Then, with that same smile on his face, he told her.
 "We\'re already dead."
 "...............Yeah."
 "You\'ve lived twelve years on the hope that we might still be alive.

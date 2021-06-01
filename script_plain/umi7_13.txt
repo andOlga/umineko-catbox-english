@@ -42,7 +42,7 @@ That\'s right, the feel.
 Then is this...
 ...a dream......?
 Just as I was about to accept this theory, ......I thought I heard someone talking to me.
-{m:-5:—}—My, my.
+——My, my.
  It seems the work of a servant is just as boring as it ever was.
 Not only boring, but difficult, strict, constraining, joyless...
 All you get in return for your years of service is some level of respect from the newer servants.
@@ -61,10 +61,10 @@ She couldn\'t say any more.
 Shannon, who had been sleeping on a bed, ......was somehow in a rose garden.
 However, though this rose garden somehow resembled the rose garden on Rokkenjima, it was also completely different.
 After all, ......the roses were golden.
-{n}Not only the flowers, but the dancing butterflies too.
+Not only the flowers, but the dancing butterflies too.
 It was a golden rose garden of mysterious beauty.
 Somehow, Shannon was sitting in the chair under the arbor.
-{n}It was as though she\'d taken a nap there and woken up from a dream.
+It was as though she\'d taken a nap there and woken up from a dream.
 ......But it felt strange.
 Is this golden rose garden a dream?
 For some strange reason, it even felt as though my entire life up to this point had been a dream,
@@ -212,7 +212,7 @@ So, the time passed like a Sunday morning, when you can wrap yourself in your bl
 "Because......I have to get up early tomorrow.
  If I stay here talking too long, I\'ll sleep in,
  and Madam will give me a good scolding..."
-"Pft, hah{0}hah{0}ha{0}ha{0}hah{0}haa{0}ha{0}ha{0}ha{0}haha!
+"Pft, hahhahhahahahhaahahahahaha!
  Why are you so anxious to return to the world of that short‐tempered Natsuhi?
  Really, now.
  Are you really saying you want to return to the {y:0:Human}{n:0:human} world, where it\'s all work and no rewards?"
@@ -535,7 +535,7 @@ Is this incomprehensible messing around the thing that you found?
 "............I don\'t understand.
  .........I don\'t understand......"
 {f:5:Beatrice} held her head as though she was having a headache.
-{n}But no matter how much she grimaced, she couldn\'t think of an answer.
+But no matter how much she grimaced, she couldn\'t think of an answer.
 "......Tell me.
  .........What is it you found within this vulgar playing?"
 "..............................
@@ -571,7 +571,7 @@ At first, it was like a sort of contest to see who knew more than the other.
 However, eventually, this turned into respect for how much the other had read and how deeply they were able to think about it.
 Respect.
  Trust.
-{n}Those emotions made our friendship even stronger.
+Those emotions made our friendship even stronger.
 Of course, all of that had still fallen within the category of "friendship"......
 ......But we were still slightly aware of the fact that the other was of the opposite sex,
  making for a relationship that was charming, or youthful, .........or maybe you could call it exciting.
@@ -597,9 +597,9 @@ At some point, our discussions about mystery novels became just an excuse for us
  personally, I think that\'s unfair."
 "Whodunit".
  Who\'s the culprit?
-{n}"Howdunit".
+"Howdunit".
  How did they commit the crime?
-{n}"Whydunit".
+"Whydunit".
  Why did they commit the crime?
 "Who the culprit is, and what tricks they used...
  There are a ton of works that ask you to figure that out.
@@ -639,11 +639,11 @@ However, I decided to look for novels like the ones he recommended in the future
 "......Yes.
  I think you\'re right......"
 This isn\'t limited to the mystery genre.
-{n}All people, at all times, are driven by their hearts.
+All people, at all times, are driven by their hearts.
 Figuring out the heart is the essence of interactions between people—
 no, interactions between hearts.
 None of us humans can live on our own.
-{n}And yet, we have no way of peeking into the hearts of others.
+And yet, we have no way of peeking into the hearts of others.
 That\'s why every meeting between people............is its own mystery of the heart.
 Encountering those mysteries, reasoning about them, and understanding them, is what allows people and hearts to connect with one another.
 The two of us are here, by ourselves, talking together about mysteries.
@@ -678,7 +678,7 @@ The book exchange between the two of us had become completely one‐sided, with 
 "If I do......?"
 "Come over to my place."
 He said it......almost carelessly.
-{n}Maybe he was a bit embarrassed, since he laughed weakly and blushed.
+Maybe he was a bit embarrassed, since he laughed weakly and blushed.
 "And then,
  ......we won\'t need to worry about time running out anymore."
 "......That\'s right.
@@ -701,7 +701,7 @@ He was probably too proud to show me his blushing cheeks.
 But even without seeing, I knew what his face looked like.
 To come riding on a white horse...
 ...umm, who did that, again...
-{n}Uhh, isn\'t that like...a fairy tale prince......?
+Uhh, isn\'t that like...a fairy tale prince......?
 So, what exactly does that mean...
 ...umm...
 ummmmm.........
@@ -713,7 +713,7 @@ when that day will come..."
 "As soon as you make up your mind."
 "Huh...............?"
 My heart skipped a beat...
-{n}It was so sweet...yet it hurt......
+It was so sweet...yet it hurt......
 "Any time\'s good for me.
  This is your life we\'re talking about, Shannon‐chan.
  You should think about it carefully before you decide.
@@ -726,7 +726,7 @@ If I were a bit more foolish...and courageous...
 ...I could have told him that my mind is already made up,
  ...and I could have asked him to take me away from this island right now.
 But I can\'t.
-{n}I have to think carefully about my future, for both of our sakes......
+I have to think carefully about my future, for both of our sakes......
 My head filled with pointless, senseless thoughts......
 "I,
  ......I\'m happy to hear you say that......
@@ -735,9 +735,9 @@ My head filled with pointless, senseless thoughts......
 With his back still to me, he scratched his head and laughed.
 I knew he was doing this out of embarrassment, so I could clearly tell what his expression must have been.
 In the same way...
-{n}He must have realized what my face looked like.
+He must have realized what my face looked like.
 We\'re both puzzle‐solvers of love.
-{n}We theorize about each other\'s love, solving each other\'s mysteries...
+We theorize about each other\'s love, solving each other\'s mysteries...
 "......Thanks for giving me time."
 "You have all the time in the world."
 "No.
@@ -785,7 +785,7 @@ So,
 It is an emotion I do not know.
  One I do not possess.
 Though my magic can grant any wish...
-{n}Though my paradise can grant any wish....
+Though my paradise can grant any wish....
 It is something I cannot have,
  ......an incomprehensible emotion that burns like fire,
  ......and yet, one desires madly to hold it close...
@@ -802,6 +802,6 @@ And I knew what Shannon had discovered in the world of {y:0:Human}{n:0:human}s..
 Love, ......is it?
 It may be the most important element, ......and the one that I lack...
 ......Shannon.
-{n}I shall observe from afar...
+I shall observe from afar...
 ...the course of your love.
 Go forth, ......and teach me more and more about this new emotion.........

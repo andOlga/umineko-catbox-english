@@ -25,7 +25,7 @@ In other words, ......the reason I\'m walking down this bizarre corridor...
 {a:c:*patter*, *patter*patter*patter*.........}
 It sounded as though some small animal, like a dog or a cat, was walking at a quick pace.
 No miracle could cause a dog or cat to be in a place like this.
-{n}Such a miracle would not be "allowed".
+Such a miracle would not be "allowed".
 Since it isn\'t a miracle,
  that means I am being guided in that direction.
 .........Alright then.
@@ -87,7 +87,7 @@ When I looked at its food bowl, ......it was piled up with what appeared to be b
 ...and piled it into there.
 ".........Come on, what\'s with the creepy reception?"
 {a:c:
-{m:-5:―}―That was a mean thing to do, kicking it}.
+――That was a mean thing to do, kicking it}.
 The instant I heard that voice, the hairs on the back of my neck stood on end.
 Then, ......the surrounding area finally brightened.....
 However, {f:5:Bernkastel} had already guessed where this was before it grew bright...
@@ -233,7 +233,7 @@ Wait, I\'ve seen this before.
  However, I have one condition as well.
  ......Provide all of the answers I seek.
  No hiding, concealment, or tricks."
-"Heh, ......heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh...!
+"Heh, ......heheheheheheheheheh...!
  Leave it to me.
  Tearing apart the chest and ripping out the guts is my specialty.
  .........After all, you trained me."
@@ -242,7 +242,7 @@ Wait, I\'ve seen this before.
  ......Let the master treat her miko to some tea..."
 "Beato once told me that tea is best drunk in the company of a witch."
 "It seems we differ in that regard......
- ......Heh, ...heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh."
+ ......Heh, ...heheheheheheheheheheheheheheheh."
 ......At some point, that dish piled with biscuits...
 ...had reverted to a mountain of torn‐apart meat and a splatter of red.
  No, not just meat, ...even intestines...
@@ -257,7 +257,7 @@ Wait, I\'ve seen this before.
 It was the piece that represented {f:5:Beatrice}.
 It was sometimes a king, sometimes a queen, and could even become a knight.
 However, that was only if it got promoted.
-{n}Until then, it was only a trash piece, like a pawn.
+Until then, it was only a trash piece, like a pawn.
 First came piece positioning.
  Even this early, the witch\'s game had already begun.
 {f:5:Bernkastel} took Beato\'s piece and slowly raised it high.

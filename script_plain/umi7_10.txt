@@ -24,7 +24,7 @@ If you lose a tool, you get in trouble.
  so one of them will probably tell Madam that it was my fault.
 Still, it\'s my fault that I lost it in the first place.
 I wonder when I lost it.
-{n}When, when......
+When, when......
 We did a big clean of the entire chapel today.
 The chapel is a large building behind the mansion.
  However, no one ever goes near it, normally.
@@ -36,10 +36,10 @@ I\'d been put in charge of cleaning the window frames, but I was also given many
 While those small jobs kept me busy, I must have completely forgotten about the small broom...
 ...and left it lying around somewhere.
 ......I hate myself for doing this.
-{n}This isn\'t the first time this has happened.
+This isn\'t the first time this has happened.
 It happens all the time.
 Every time I set something down, it always disappears.
-{n}It goes somewhere else. Vanishes.
+It goes somewhere else. Vanishes.
 I\'ve come to think that these might be pranks by the witch {f:5:Beatrice}.
 The ghost of the witch {f:5:Beatrice} borrowed the power of Rokkenjima\'s evil spirits to become reborn.
 Until Kumasawa‐san told me, I never knew the meaning of the shrine on the rocks by the sea.........
@@ -82,7 +82,7 @@ Until Kumasawa‐san told me, I never knew the meaning of the shrine on the rock
  The VIP room on the second floor is where {f:5:Beatrice}‐sama dwells...
  You must always be respectful when cleaning that room...
  Otherwise...
-.........uhi{0}hi{0}hi{0}hi{0}hhi{0}hhi~!"
+.........uhihihihihhihhi~!"
 "In the eyes of those teenage boys and girls with their fertile imaginations, the ghost story was both terrifying and fascinating.
  By experiencing and sharing in a story together, a kind of solidarity forms.
  Then, sharing in that experience becomes obligatory,
@@ -121,11 +121,11 @@ Now that I think about it, I don\'t think I had it anymore when I reached the la
  so I must have completely forgotten to clean that window frame.
 "..................Ah."
 Through the window, I could see the others leaving in groups.
-{n}Shannon turned around and glanced up in my direction, looking worried.
+Shannon turned around and glanced up in my direction, looking worried.
 ......I don\'t want to be responsible for making everyone wait, so it\'s actually a relief that they\'re leaving without me...
 Still, ......naive though it may have been, I wanted them to wait......
 The sun\'s beginning to set, and the chapel\'s getting darker and darker.
-{n}I don\'t want to hang around in a place like this all by myself.
+I don\'t want to hang around in a place like this all by myself.
 I\'d better find the small broom fast.
 No, that\'s not all.
  I also need to clean the window frames I forgot.
@@ -149,7 +149,7 @@ all of them vanish almost right away.
 I put things down planning to use them later, or because that\'s obviously the right place to leave them,
  and still they disappear as soon as I turn around.
 It isn\'t someone hiding them as a prank.
-{n}It\'s happened many times when I\'m the only person around.
+It\'s happened many times when I\'m the only person around.
 ......Everyone always says I\'m too careless and forgetful, and they laugh at me, get mad at me.
 I do try to be alert,
  but like some kind of bad joke, I lose things easily when I forget about them for just a short while.
@@ -174,7 +174,7 @@ The witch answers.
 Fool.
  ......Isn\'t it obvious?
 Why else, except to entertain myself by watching you wander about pointlessly?
- *cackle*cackle*, hyah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah{0}hah{0}hah{0}ha...!!
+ *cackle*cackle*, hyahhahahahahahahahhahhahha...!!
 I felt so frustrated.
  I knew all along that that was the reason, but the witch being so blatant about it was incredibly annoying.
 I can tell.
@@ -210,7 +210,7 @@ And the witch keeps moving the small broom to the next window, and the next one.
  heh
 heh
 hah
-ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha}...!!
+hahahahahahahahahaha}...!!
 The shrill, voiceless{FIXME?} laugh of the formless witch continues to mock my sobbing.
 The witch is right beside me, laughing at me.
 As I dash around the chapel, she\'s following along with me, taunting me.
@@ -220,7 +220,7 @@ there.
 She\'s right behind me, ......just over my shoulder,
  cackling away at this very moment.
 I know that turning around won\'t help, since she has no form.
-{n}I can try to look, but I mustn\'t look with my eyes.
+I can try to look, but I mustn\'t look with my eyes.
 Once my eyes tell me there\'s nothing there, I won\'t be able to {i:{y:1:‘see’}{n:1:"see"}} anymore.
 I learned that from the Director of the Gospel House.
  ......You mustn\'t try to {y:1:see}{n:1:look} with your real eyes.
@@ -231,10 +231,10 @@ The whole world is filled with God\'s love.
  So you won\'t be able to feel them or understand them.
 Instead, you must quietly understand them with the eye of your heart.
 You don\'t look and have your eyes reflect their image.
-{n}You {y:1:‘see’}{n:1:"see"}...{0}and picture them in your mind.
+You {y:1:‘see’}{n:1:"see"}...and picture them in your mind.
 In this way, I learned how to recognize beings not of this world at the Gospel House.
 ......This power doesn\'t only allow you to {y:1:‘see’}{n:1:"see"} God.
-{n}It allows you to {y:1:‘see’}{n:1:"see"} {i:all} those not of this world.
+It allows you to {y:1:‘see’}{n:1:"see"} {i:all} those not of this world.
 ".........Please, stop it now.
  Stop this prank."
 "...............Hoh.
@@ -249,7 +249,7 @@ In this way, I learned how to recognize beings not of this world at the Gospel H
 So, when I hear that name, it feels bad.
 She deliberately called me not by the blessed name given to me by the Gospel House, but by that unblessed name.
 Upsetting the heart is a classic move for evil beings to make.
-{n}That is their way of attempting to prevent others from perceiving them.
+That is their way of attempting to prevent others from perceiving them.
 To beings like witches, being understood is like shoving them out into the light of day.
 "......It won\'t work.
  In the Gospel House, I learned how to perceive those not of this world.
@@ -281,7 +281,7 @@ She turned around...
 "A mere {y:0:Human}{n:0:human}...
 ...grasped my form......?"
 The demonic lips......twisted in an ugly curve.
-{n}It was clearly a challenging, repulsive, ......demon\'s smile...
+It was clearly a challenging, repulsive, ......demon\'s smile...
 She wore a blood‐red dress and hat.
  The design was completely different from anything {y:0:Humans}{n:0:humans} wore.
 Her hair was blonde.
@@ -378,19 +378,19 @@ When the witch snapped her fingers, the broom for which I had searched so long f
  Let us play again sometime."
 "If you\'re my friend, that is."
 "When a cat toys with a mouse, does it try to become friends with it first?
- *cackle*cackle*, ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa!!"
+ *cackle*cackle*, ahahahahahahahahahaa!!"
 The witch faded away......
-{n}As she did, my mind\'s eye slowly closed......
+As she did, my mind\'s eye slowly closed......
 When I returned to my body, I felt suddenly tired and let out the breath I\'d been holding.
 ......Of course, when I turned around, there was no one to be seen.
 I couldn\'t feel the witch\'s presence anywhere anymore.
-{n}It had gotten very dark by this time.
+It had gotten very dark by this time.
 I decided to leave the chapel.
-{n}There\'s no point in searching for the small broom any longer.
+There\'s no point in searching for the small broom any longer.
 ......Not until the witch decides to give it back.
 I went out of the chapel.
 The chapel key had been left in the lock.
-{n}I used it to lock the door.
+I used it to lock the door.
 ............What am I going to do about the small broom?
 There\'s nothing I can do.
  I can\'t even blame the witch.

@@ -1,13 +1,13 @@
 With Jessica\'s death, it became certain that the culprit was hiding somewhere nearby, and that they would come after our lives if they had a chance.
 According to Genji‐san, when tomorrow morning comes, the boat should arrive.
 The boat has a radio, too.
-{n}We\'ll probably be able to contact the police immediately with that.
+We\'ll probably be able to contact the police immediately with that.
 We all gathered in the parlor, and decided to wait quietly until tomorrow.
 I proposed that we should search throughout the mansion for clues about the culprit,
  but Auntie Rosa rejected that, saying that if we put pressure on the culprit, or provoked them,
  it might lead to a third murder.
 ...That was probably the right thing to do.
-{n}Even if a bunch of amateurs like us investigated, there\'s no way we\'d find anything.
+Even if a bunch of amateurs like us investigated, there\'s no way we\'d find anything.
 It would be wisest to focus on protecting ourselves without doing anything unnecessary, and leave it to the police after tomorrow.
 We had been tense in the beginning, but other than Auntie Rosa,
  most of us had spent all morning watching TV and were getting bored, so our sense of danger had grown much less intense.
@@ -24,7 +24,7 @@ Furthermore, Auntie Rosa was even armed with a gun.
 Surely, with this many people staying in this room, they wouldn\'t be able to touch us easily.
 That feeling of security, along with the passage of time, allowed us to recover from the shock of that morning bit by bit...
 Incidentally, lunchtime had just ended for us.
-{n}However, it had been a canned‐food lunch, a far cry from last night\'s dinner which Gohda‐san had skillfully made for us.
+However, it had been a canned‐food lunch, a far cry from last night\'s dinner which Gohda‐san had skillfully made for us.
 ...Auntie Rosa too had suspected that poison had been used in the murder of those six people.
 ...So, we probably couldn\'t deny the possibility that the culprit had snuck into the kitchen during all that confusion in the morning, and mixed poison in with the ingredients there.
 ......Auntie Rosa had ordered all of us not to put anything into our mouths except safe foods like canned food, until the police came.
@@ -44,7 +44,7 @@ As I was sitting lazily on a sofa, with no desire to watch TV,
  "Wolves and Sheep Puzzle"?
  ..................Let\'s have a look‐see."
 "Wolves and Sheep Puzzle".
-{n}It was a phrase that Auntie Rosa had said this morning when we had gone to call on Jessica.
+It was a phrase that Auntie Rosa had said this morning when we had gone to call on Jessica.
 ...At the time, I hadn\'t known what it meant, and then after that, there was the uproar when Jessica\'s body was found, so I\'d forgotten about it completely.
 The book that Maria held out to me looked like a foreign picture book or something that had been translated.
 Opening it, I could tell that the book contained an assortment of puzzles.
@@ -55,27 +55,27 @@ Opening it, I could tell that the book contained an assortment of puzzles.
  I\'ve heard of a game with rules like this.
  So this is that, but with wolves and sheep?"
 It was a very simple puzzle, passed on from long ago.
-{n}Let\'s try one of the problems.
+Let\'s try one of the problems.
 On the right bank, there are two wolves and two sheep.
-{n}There is a boat that as many as two animals can ride on, and using it, you have to move all four of them to the opposite left bank.
+There is a boat that as many as two animals can ride on, and using it, you have to move all four of them to the opposite left bank.
 There are two rules.
 The first is regarding the boat.
-{n}It can be paddled by wolves or sheep, and even just by one animal on its own.
-{n}But it can only hold up to two.
+It can be paddled by wolves or sheep, and even just by one animal on its own.
+But it can only hold up to two.
 The second is regarding the wolves.
-{n}When they are greater in number than the sheep in that location, they attack the sheep and it\'s game over.
+When they are greater in number than the sheep in that location, they attack the sheep and it\'s game over.
 For example, at the start of the game:
-{n}Both sheep ride the boat, and go to the other side.
-{n}Then one sheep gets off, and the other goes back to the first bank.
+Both sheep ride the boat, and go to the other side.
+Then one sheep gets off, and the other goes back to the first bank.
 ......When it does, there are two wolves on the first bank.
-{n}And a single sheep returns there.
+And a single sheep returns there.
 When that happens, there are more wolves, so the sheep is attacked and it\'s game over.
 On either bank or even the boat, there must not be more wolves than sheep.
 It\'s a puzzle about how to shuttle them across in the boat under these conditions.
 By the way, the right answer is: On the first turn, move both wolves to the opposite bank.
-{n}Then one wolf comes back.
+Then one wolf comes back.
 On the second turn, move two sheep to the opposite bank.
-{n}Then one wolf comes back.
+Then one wolf comes back.
 Then on the third turn, put that last wolf that was on the right bank on the boat and cross to the opposite bank, and congratulations, transport successful.
 Partway, there may be the same number of wolves and sheep in the boat or on either side, but that isn\'t a problem.
 You only lose when the number of wolves is greater.
@@ -94,7 +94,7 @@ At the time we had found our parents\' corpses, Auntie Rosa was already suspecti
 While she didn\'t know whether it was all of them or just some, she had sniffed out the possibility that "wolves" were hiding among them.
 ......Well, yeah.
 That murder scene was pretty damn elaborate.
-{n}It\'s easy to imagine that there were multiple culprits.
+It\'s easy to imagine that there were multiple culprits.
 And considering that she had that idea already in mind when we went to Jessica\'s room,
  where Jessica had been alone with a servant, Kanon, and had been killed,
  .........it isn\'t hard to imagine why Auntie Rosa had suspected the servants so persistently...
@@ -136,7 +136,7 @@ Auntie Rosa stuck her head out into the hallway, and after watching them leave c
 "So you\'re saying that you\'ve chased out all of the "wolves"?
  ......Auntie Rosa."
 With that one sentence, Auntie Rosa\'s gaze grew sharp.
-{n}...Apparently she had picked up on my sardonic tone.
+...Apparently she had picked up on my sardonic tone.
 ......Auntie Rosa laughed lightly.
 "...Your mind sure works fast, Battler‐kun.
  I like clever kids.
@@ -162,7 +162,7 @@ With that one sentence, Auntie Rosa\'s gaze grew sharp.
  Isn\'t that proof that one of the servants was involved?"
 "......nn.................."
 Only a master key could have locked the door to Jessica\'s room.
-{n}...In that case, we can only suppose that one of the servants locked it......
+...In that case, we can only suppose that one of the servants locked it......
 .........No,
  ......wait.
 "Flip over the chessboard.
@@ -345,7 +345,7 @@ there are no hidden doors}", then it\'s settled."
 Auntie Rosa held up the gun, and pointed the barrel at me.
 But that was only for an instant.
 She immediately lowered the gun, laughing impishly.
-{n}......But to me, the time I spent staring down the barrel of the gun had felt like an eternity.
+......But to me, the time I spent staring down the barrel of the gun had felt like an eternity.
 "...How does that gun prove that you aren\'t the culprit, Auntie Rosa?"
 "Think about it.
  What if I were the culprit?
@@ -368,15 +368,15 @@ She immediately lowered the gun, laughing impishly.
  Battler‐kun, George‐kun.
  ...Let\'s make up."
 George‐aniki was wearing an unsatisfied expression.
-{n}...He probably couldn\'t forgive the damage done to Shannon\'s honor.
+...He probably couldn\'t forgive the damage done to Shannon\'s honor.
 ...What about me...?
  Several bits of circumstantial evidence hint strongly at the servants\' participation.
 ......I don\'t want to believe that one of them is the culprit, or possibly colluding with the culprit,
  ...but in the current situation, that\'s nothing but wishful thinking.
 Who should I believe?
 In the first place, who is the culprit?
-{n}Are there accomplices?
-{n}If so, how many?!
+Are there accomplices?
+If so, how many?!
 ......I feel like I\'m constantly only suspecting the people connected to all this.
 ...I find myself quickly forgetting about that 19th person,
  the guest, {f:5:Beatrice}, who came yesterday and boldly called herself the Golden Witch.
@@ -397,7 +397,7 @@ It was only accented by the sound of Shannon and Kumasawa washing the dishes.
 Gohda was using the leftovers from breakfast and lunch as ingredients for a servants\' soup.
 ......Rosa had suspected that poison might have been added to the food, so they had decided to eat canned food, but it hadn\'t really been filling.
 But Gohda thought that she was being too careful.
-{n}So he was spontaneously creating a soup to be served only to those that wanted to eat it.
+So he was spontaneously creating a soup to be served only to those that wanted to eat it.
 Shannon and Kumasawa were washing the dishes that the food had been arranged on.
 On the inside, they thought maybe Gohda should be the one to wash them since he had been the one who wanted the food on plates in the first place,
  but they left their complaints unsaid for the time being.
@@ -459,12 +459,12 @@ our imagination, was it......?"
 Shannon and Kumasawa drew close together, fearfully looking at the back door...
 "...Who, ...who is it......?"
 As Gohda fearfully approached the back door, he called out.
-{n}......And he checked with his eyes the location of a butcher\'s knife set on a nearby sink.
+......And he checked with his eyes the location of a butcher\'s knife set on a nearby sink.
 ......He didn\'t pick it up yet.
-{n}Because there was still a possibility that this was a member of the family.
-{n}However, that possibility wasn\'t possible...
+Because there was still a possibility that this was a member of the family.
+However, that possibility wasn\'t possible...
 There was no response from across the door to Gohda\'s initial question.
-{n}...Maybe his voice had been so quiet that it hadn\'t reached through all the wind and rain outside.
+...Maybe his voice had been so quiet that it hadn\'t reached through all the wind and rain outside.
 ".........Genji‐san."
 "......Yes.
  .........Stand back, Doctor Nanjo and the women."
@@ -472,13 +472,13 @@ There was no response from across the door to Gohda\'s initial question.
 Genji took a knife with a classical design from a stationery box placed near the chess set.
 ...It was something to be used instead of a paper knife to open envelopes for invoices and bills.
 But it was fundamentally a knife.
-{n}So the blade on it could injure someone...
+So the blade on it could injure someone...
 Genji hid it in his sleeve with a well‐practiced manner.
-{n}Then he too approached the back door, and signaled to Gohda with a silent nod.
+Then he too approached the back door, and signaled to Gohda with a silent nod.
 Gohda cautiously approached the back door, .........and slowly started to open it......
 "Wa...wahyaaaaaaaaaaaaaaaaaaaaaaaaa...!!!"
 The figure of a person suddenly shuffled into sight, landed on its knees, and fell over.
-{n}Gohda fell backwards onto his backside in shock.
+Gohda fell backwards onto his backside in shock.
 That figure was soaked with rain, smeared with mud, and drenched with blood...
 "K‐............Kanon‐kun?!
  Kanon‐kun!!"
@@ -516,7 +516,7 @@ Even now, deep‐red blood poured out from there...!
  ......hiiiiii..."
 After appearing in this horrible state, he had said not to tell Rosa.
 ......That could only mean something very disquieting.
-{n}......An eerie sense of panic rose to their faces...
+......An eerie sense of panic rose to their faces...
 "C‐come now, everyone!
  Let\'s hurry and carry him...!
  Quickly, quickly...!"
@@ -569,7 +569,7 @@ Disregarding Nanjo and Kumasawa, who were struggling hard and stained with blood
  How could you do that...to Milady......
  ...I\'m gonna kill you......ugnnnggg...!"
 Kanon screamed even more hatefully...
-{n}...His hate‐filled voice made it seem like he had seen Jessica being harmed right before his eyes.
+...His hate‐filled voice made it seem like he had seen Jessica being harmed right before his eyes.
 "......Cer‐certainly, Rosa‐sama may have had a reason to kill Milady.
  If the Ushiromiya family was wiped out, the inheritance would all go to Rosa‐sama..."
 "If so, Battler‐sama and George‐sama are in danger...!
@@ -584,7 +584,7 @@ Shannon ran.
 ......The inside of the mansion had been scrupulously cleaned, so they probably wouldn\'t be easy to find.
 She might find some if she searched the rose garden, but they would probably have all been lost in this wind and rain...
 That\'s right, ......the boiler room isn\'t cleaned very often.
-{n}...If she went there, ......she might be able to find some...
+...If she went there, ......she might be able to find some...
 Shannon ran down the stairs to search for {i:those} in the underground boiler room...
 Had some medicine taken effect at the brink of death,
  or had Kanon finally stopped even feeling pain?
@@ -619,17 +619,17 @@ Almost like he had been awake the whole time and had suddenly opened his mouth.
 He looked firm and steady, and Nanjo was slightly relieved, but thinking of the deepness of that wound, he just couldn\'t wipe away a certain creepy feeling.
 ......He knew because he was a doctor.
 Kanon should have been expected to fall unconscious after losing so much blood.
-{n}And yet somehow, he had preserved his awareness so clearly.
+And yet somehow, he had preserved his awareness so clearly.
 ......Youth?
  Or tenacity?
-{n}...Sometimes the power of human life did surpass common knowledge......
+...Sometimes the power of human life did surpass common knowledge......
 When they had stopped the bleeding, to make sure there were no foreign objects inside the affected area,
  Nanjo had groped around a bit inside the bleeding hole with tweezers, and the great depth of the wound had surprised him.
 ...The wound had certainly reached as far as his lungs.
 ......And yet, ...and yet...
-{n}......No, on the other hand, the fact that he is alive is fortunate...
+......No, on the other hand, the fact that he is alive is fortunate...
 ......But Kanon had spoken clearly.
-{n}...He had hatefully said that the one named Rosa had created this wound, and was repeating curses and enraged words.
+...He had hatefully said that the one named Rosa had created this wound, and was repeating curses and enraged words.
 "...She wants to kill everyone by any means necessary before the typhoon passes, so that she can have the Master\'s wealth all to herself.
  She told me that clearly."
 ".........Damn...!
@@ -677,7 +677,7 @@ Kanon showed off his gaping wound, which was still slowly spitting out foamy blo
  ..................Look."
 Kanon held up two fingers, showed them to everyone, and slowly started to stick them into the gruesome wound right in the center of his chest...
 ......Plunging, slimy, squishy, wet.
-{n}The fingers...went in deep...to the base...
+The fingers...went in deep...to the base...
  ......Squich, gloop, blorp...
 "Hiiiiiiiiiiiiiiiiiiii...!!
  K‐K‐K‐Kanon‐san, stop it, stop it...!!"
@@ -704,10 +704,10 @@ Just then, the door opened vigorously, and Shannon appeared.
 "......Huh, ......huhh...?"
 It was only natural.
  Everyone believed he was Kanon.
-{n}So they couldn\'t understand the meaning of Shannon\'s question.
+So they couldn\'t understand the meaning of Shannon\'s question.
 When they looked, they noticed that Shannon was holding a handkerchief in her hand.
 It was filthy, and looked like she had wiped up some trash or dust.
-{n}And while holding that, she approached Kanon, .........and drew close to his legs.
+And while holding that, she approached Kanon, .........and drew close to his legs.
 "What is that......?"
 "It\'s a handkerchief with a spider\'s web wiped onto it."
 ".....................
@@ -727,7 +727,7 @@ And his arm drew trails with some kind of afterglow that flashed purple.
 They were three beautiful purple trails drawn in an arc, and they were traced across the throats of Nanjo and Kumasawa, who had been tending to him.
 And Nanjo and Kumasawa\'s throats......had opened like gaping mouths, ...and it was the very instant before the blood was about to start spewing out.
 The third purple trail should have traced across Shannon\'s throat.
-{n}But Shannon wasn\'t there.
+But Shannon wasn\'t there.
 Because Genji, who had been behind her, had wrapped his own arm around Shannon\'s neck and pulled her back.
 This all happened in an instant.
 "...........................!!!"
@@ -754,7 +754,7 @@ Under normal circumstances, it should have been surprising to see someone as old
 "Genji‐sama, here...!"
 "......Yes."
 Genji took the handkerchief with the spiderweb stuck to it from Shannon.
-{n}And he approached Kanon, who was pinned to the wall by Gohda\'s massive body and the knife.
+And he approached Kanon, who was pinned to the wall by Gohda\'s massive body and the knife.
 "Sto‐stop it...!!
  Don\'t co—Don\'t come near me with that...!!
  Stop it, sto‐stop!!"
@@ -764,11 +764,11 @@ When Genji pushed the handkerchief up against Kanon\'s face,
 Of course, the smell was the same too.
  As he was burned and inflamed, festering in filthy red and black, and cried out in his death throes, Kanon\'s body burst open and scattered.
 It was almost as though a balloon filled with gold leaf had popped.
-{n}The entire servant room was completely buried under a storm of gold leaf—no, a rabble of gold butterflies...
+The entire servant room was completely buried under a storm of gold leaf—no, a rabble of gold butterflies...
 Those butterflies began to softly fade into nothingness, as though dissolving into water, no, into the air itself,
  ......and afterwards, all that was left was the three of them sitting on their behinds, stained with blood.
 However, not everyone was just stained with blood.
-{n}Some of them were lying on the ground, vomiting blood themselves.
+Some of them were lying on the ground, vomiting blood themselves.
 "...Kumasawa...!
  ......Doctor Nanjo...!
  ....................."
@@ -786,7 +786,7 @@ Gohda looked at his own hand.
 The bright‐red blood left from his scuffle with Kanon...definitely remained.
 ...And yet, Kanon was nowhere to be seen.
 Because he had disappeared.
-{n}He had turned into gold butterflies and scattered.
+He had turned into gold butterflies and scattered.
 Gohda kept screaming alone that he had no clue about what was going on.
 Shannon sobbed in front of Nanjo\'s and Kumasawa\'s remains,
  ...and Genji watched over her, silent as always...

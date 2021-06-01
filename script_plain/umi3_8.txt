@@ -34,7 +34,7 @@ As soon as they exited into the corridor, Kyrie made an openly disgusted express
  ...What is this stench?
  It\'s unbearable..."
 Because of that fuss, everyone stuck their heads out into the corridor.
-{n}...It was a faint stench, but after the complaints, they clearly noticed it.
+...It was a faint stench, but after the complaints, they clearly noticed it.
 Each of them went into the corridor, relying on their own sense of smell to tell them where this strange odor was coming from...
 "What in the world could it be?
  Let us have Genji deal with it.
@@ -69,7 +69,7 @@ Hideyoshi tried to make fun of it, but staring at this creepy magic circle while
 ...The dripping bright‐red paint made one think of blood, and it made things even more eerie.
 Hideyoshi tried to open the door, but it was locked.
 ...As a general rule, the parlor was never locked.
-{n}Someone had gone out of their way to lock it.
+Someone had gone out of their way to lock it.
 "......What does this mean...?
  Did someone secretly leave this graffiti while we were talking in the dining hall?
  On the doors to the parlor and the boiler room?"
@@ -95,11 +95,11 @@ Hideyoshi tried to open the door, but it was locked.
 The adults split up.
 As a result, they confirmed that the four children were safe in the so‐called cousins\' room, on the second floor of the guesthouse.
 It appeared that they had stayed up late last night playing.
-{n}All of them were snoring loudly, so Rosa decided not to wake them.
+All of them were snoring loudly, so Rosa decided not to wake them.
 Furthermore, Nanjo, who had returned early the previous night to rest, was also alright.
-{n}It seemed he believed in the phrase "early to bed, early to rise", and had awoken refreshed.
+It seemed he believed in the phrase "early to bed, early to rise", and had awoken refreshed.
 During that time, Kyrie and Hideyoshi searched for the servants.
-{n}But they didn\'t find them.
+But they didn\'t find them.
 ...The servant room in the guesthouse was also empty.
 "......The children are alright.
  All of them stayed up too late last night."
@@ -138,7 +138,7 @@ During that time, Kyrie and Hideyoshi searched for the servants.
  I\'ll stay with Rosa‐san and watch over the place.
  Would you tell that to my husband?"
 Rosa and Kyrie remained in the guesthouse.
-{n}Hideyoshi went with Nanjo, and returned again to the mansion.
+Hideyoshi went with Nanjo, and returned again to the mansion.
 Meanwhile, in the mansion...
 Unbelievably, ...or maybe we should say that bad feelings have a tendency to be right...
 Rudolf\'s prediction was right on.
@@ -154,7 +154,7 @@ Rudolf\'s prediction was right on.
  Father and the servants are hiding, and there are strange magic circles all over the mansion.
  ......What in the world is happening...?!"
 There weren\'t only magic circles on the door to the boiler room and the door to the parlor.
-{n}There were also two on the second floor,
+There were also two on the second floor,
  and one on the third floor, for a total of five.
 They were all the same magic circle, and all of the doors were locked, so they couldn\'t check inside.
 "...Anyway, let\'s do something about the boiler room first.
@@ -179,8 +179,8 @@ are just neatly missing."
  Smashing a window might work."
 Krauss had a little trouble deciding whether this was a situation that called for smashing a window.
 At that time, Hideyoshi and Nanjo returned.
-{n}There was nothing strange in the guesthouse, and the children were safe.
-{n}They told the others that Rosa and Kyrie had stayed to watch over the place.
+There was nothing strange in the guesthouse, and the children were safe.
+They told the others that Rosa and Kyrie had stayed to watch over the place.
 "Good morning.
  ...I hear that something strange has happened."
 "Good morning, Doctor Nanjo.
@@ -277,7 +277,7 @@ Had he heard {f:5:Beatrice}\'s sneering voice?
  Can\'t you just do what you want, I don\'t believe, I don\'t believe any of it,
  damn it damn it damn it damn it damn it!!"
 "Don\'t talk to me, don\'t show me anything, go away, go away, go the hell away!!
- Get your goddamned annoying face AWAY FROM MEEE{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}EEEEEE!!!"
+ Get your goddamned annoying face AWAY FROM MEEEEEEEEEEEEEEEEEE!!!"
 "........................!!!"
 {f:5:Beatrice} instinctively winced at Battler\'s sudden rage.
 "......E‐even if you say that, um...
@@ -289,9 +289,9 @@ Had he heard {f:5:Beatrice}\'s sneering voice?
  If your turn won\'t come until mine is finished, then you can just wait for all stinking eternity, can\'t you!!"
 "Aaaah, I don\'t care I don\'t care I don\'t get it!!
  I won\'t accept witches or magic, I won\'t accept something that fucked up!!
- Uuooooooooooohhh, I said DON\'T TALK TO MEEEE{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}EEEEE!!!"
+ Uuooooooooooohhh, I said DON\'T TALK TO MEEEEEEEEEEEEEEEEEEEE!!!"
 ......I don\'t know what\'s what anymore.
-{n}After being shown something that screwed up, how could I continue to resist...
+After being shown something that screwed up, how could I continue to resist...
 I wandered aimlessly through the rose garden.
 ......It was raining and windy, but that didn\'t mean my body got wet.
  ...There was just a feeling of isolation as I wandered amidst the wind and rain without an umbrella.
@@ -299,16 +299,16 @@ I wandered aimlessly through the rose garden.
 lost to her game a long time ago."
 ...Actually, I wonder whether we hadn\'t reached a clear resolution in the previous game.
 After all, I had submitted to her for a time.
-{n}So the world had been tinted with witches and magic.
+So the world had been tinted with witches and magic.
 ......Right now, Rokkenjima is a different world, where witches stride around openly and fire off strange magic.
 ...It isn\'t a matter of accepting it or denying it.
 Maybe I had mistakenly assumed that I was playing a game on an even footing with Beato.
 I had already been defeated in the last game, ...and this may just be the signing ceremony of my surrender.
 Just now, a mighty battle had unfolded in this rose garden.
-{n}I had seen it with my own eyes.
+I had seen it with my own eyes.
 I kicked the ground.
  ......Obviously, the ground was hard.
-{n}And a puddle splashed.
+And a puddle splashed.
 Several towers had split this ground, sprouting like high‐rise buildings.
 ......The more I kicked this ground,
  .........the more it felt like that really couldn\'t be possible.
@@ -406,7 +406,7 @@ understand the science of fire giving rise to heat to cause a thermal which call
 Just like this person had just said, ancient people who didn\'t understand the principles had probably believed that,
  through the rain ceremony, their wish had reached the heavens and made the rain fall.
 To them, that was certainly magic.
-{n}As long as they didn\'t understand thermals...
+As long as they didn\'t understand thermals...
 "If you press a light switch, the light turns on.
  ......Children do not know the scientific principles behind why the lightbulb lights up;
  they press the switch knowing only the result.
@@ -454,7 +454,7 @@ To them, that was certainly magic.
  until the moment you look into the Braun tube, two conflicting truths can exist at the same time.
  ......A bizarre space where two truths, of which only one is permitted to exist, may exist simultaneously."
 Is the cat in the box alive or dead?
-{n}If you open the box, you will know the answer.
+If you open the box, you will know the answer.
  You will know the truth.
 However, until you open the box, you can claim that the cat is alive, and you can also claim it is dead.
 Each of the two parties makes a claim that according to them is the "correct" truth,
@@ -584,7 +584,7 @@ collapse by the judgment, and become one."
 "Aaand?
  Did you think of a response to that pleasant, thrilling, refreshing, highly acclaimed, wonderful fantasy battle between Master and meeeeeeee?
  Isn\'t that impossible to explain without fantasy?
- Hihhyahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaah?!"
+ Hihhyahhahahahahahahahahahahahaah?!"
 "...Milady.
  You have only just promised to be kind and act refined, remember?"
 "Ahhyahahahahaha, oops, my mistake.

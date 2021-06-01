@@ -16,7 +16,7 @@
 "......So Mama will always be with me from now on.
  .........There won\'t be any more overtime or working on days off.
  ...She\'ll always be with me, and think only of me, kihhihihi, and she\'ll fight all the time against fearsome enemies for me.
- Kihhihi{0}hi{0}hihihi...!"
+ Kihhihihihihihi...!"
 "......There\'s something wrong with you.
  ......How can you sit there saying such incomprehensible crap in a situation like this...?!"
 "............Didn\'t Auntie Kyrie just tell you, Battler...?
@@ -51,10 +51,10 @@ You couldn\'t blame him......
  Right now, the only humans left alive on the island were himself, Maria, Gohda, and Kumasawa.
 But there was no way those two could call when they were locked up in the gardening storehouse.
 ......Which meant.........there was only one person.
-{n}It had to be Kinzo.
+It had to be Kinzo.
 As she happily chatted with the person on the other end of the phone, Maria slowly turned to face Battler.
-.........And, with an unsettling expression on her face, she laughed with a "kihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi".
-{n}......It felt almost as though the person on the other end of the line was chatting about Battler.
+.........And, with an unsettling expression on her face, she laughed with a "kihihihihihihihihihi".
+......It felt almost as though the person on the other end of the line was chatting about Battler.
 "Maria...who\'s on the phone?
  ......Grandfather......?!"
 Battler couldn\'t imagine that this was the case.
@@ -63,11 +63,11 @@ Battler couldn\'t imagine that this was the case.
 Just what kind of person could be on the phone.........who could make Maria chat with a smile like that?
 .........At that time, in the back of his mind, the words Kyrie had spoken to him drifted up.
 Even if a witch does appear, there is no need to doubt it.
-{n}......Just.........believe in its existence......
+......Just.........believe in its existence......
 "Yep.
  Battler just came back.
  He sure is hasty.
- Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi......"
+ Kihihihihihihihihihihi......"
 "Maria!!
  Who\'s on the phone?!
  Who?!?!"
@@ -93,7 +93,7 @@ Battler, who was slightly fearful about finding out for sure who was at the othe
  Where are you going...?!"
 "To where my test is.
  ......I wonder who the Ushiromiya family head will be, you or me.
- Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi."
+ Kihihihihihihihihihihihihi."
 ".........D‐don\'t go!!
  You\'ll be killed!!"
 "No I won\'t.
@@ -110,10 +110,10 @@ Battler stretched his hand out to Maria\'s back as she left,
 "...............He‐......hello......?"
 "<Congratulaatioooooooons>!!
  <And I\'m fi~ne>!!
- <And yoo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oouuuuu>?!
- Aaa{0}a{0}ah{0}h{0}h{0}hyah{0}hyah{0}hyah{0}hyaaaaa!!!"
+ <And yooooooooooouuuuu>?!
+ Aaaaahhhhyahhyahhyahhyaaaaa!!!"
 Screwed up, mocking English filled his ears.
-{n}......It was the voice of a woman he didn\'t know.
+......It was the voice of a woman he didn\'t know.
 ......Who—
 the inside of his head was starting to freeze up—
 ............who............
@@ -122,7 +122,7 @@ the inside of his head was starting to freeze up—
  Is it not??
  That takes me back...you must have done that one in middle school, right?
  That thing you do in pairs!
- Uhhya{0}hya{0}hya{0}hya{0}hya{0}hyaaaaahh!!!"
+ Uhhyahyahyahyahyahyaaaaahh!!!"
 "Y‐...you\'re insane......
  Who are you?!!
  Answer me!!!"
@@ -135,17 +135,17 @@ the inside of his head was starting to freeze up—
  Go the other way and try "captive".
  ......I have Kinzo captive!
  Ri~~ght?
- Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha..."
+ Wahhahahahahahahahaha..."
 That last laugh didn\'t sound like it was aimed at Battler.
 ......It was almost as though Kinzo was right next to the phone, cackling as well...
 "......S‐......say your goddamned name!!
  Who are you?!
  Who?!!!"
 "Try and guess, you could win a invite to Hawaii!
- Ahhyah{0}hyah{0}hhyaaaah!!
+ Ahhyahhyahhhyaaaah!!
  Fffinally.
  FINALLY!!
- Mmmmmmm, it was soooo looo{-}o{-}o{-}o{-}ong, the days leading up to today were reee{-}e{-}eeally long...!!"
+ Mmmmmmm, it was soooo looooooong, the days leading up to today were reeeeeeally long...!!"
 "I seriously waited a thousand years, you know?? For this day to arrive!!
  And here it is, all thanks to you,
  my BIG resurrection!!
@@ -156,7 +156,7 @@ That last laugh didn\'t sound like it was aimed at Battler.
  Can\'t you act a little more ladylike?"
 Kinzo and {f:5:Beatrice} sat facing each other over the chessboard on the reception table.
 Also on the table were expensive cheeses and the like to go with drinks.
-{n}And there was a line of several empty wine bottles.
+And there was a line of several empty wine bottles.
 As {f:5:Beatrice} rolled around in her sofa in an unseemly way,
  she held a wine glass in one hand, in a good mood,
  ......and probably, completely drunk.
@@ -166,7 +166,7 @@ As {f:5:Beatrice} rolled around in her sofa in an unseemly way,
 "If you don\'t open it today, just when are you gonna open it?!
  Let\'s slosh it all over each other for fun!
  Then let\'s whack each other with the empty bottle!
- Uhhyah{0}hyah{0}hyahhya!!"
+ Uhhyahhyahhyahhya!!"
 "Hahhaha, that would be entertaining.
  You are a little too excited.
  You\'re cutting loose too much."
@@ -202,7 +202,7 @@ As {f:5:Beatrice} rolled around in her sofa in an unseemly way,
  But please, don\'t try to chat me up when Kinzo\'s around, okaay?
  The guy\'s a bad egg, he gets seriously jealous, see?"
 ".........But when Kinzo isn\'t around and we\'re all alone, I\'ll love you all you want in secret, alright...?
- Uhyaaahya{0}hhya{0}hhya{0}hhya{0}hhya{0}a{0}a{0}a{0}kkya{0}kkya{0}kkyakkya!!!"
+ Uhyaaahyahhyahhyahhyahhyaaaakkyakkyakkyakkya!!!"
 "Y‐you\'re insane........."
 "Kinzoo, I\'ve changed my mind.
  I won\'t do Maria\'s test.
@@ -215,7 +215,7 @@ As {f:5:Beatrice} rolled around in her sofa in an unseemly way,
  I\'ll only be alone with him this one time.
  ......I\'m always alone with you, riiight...?
  But no more tying me up twenty‐four hours a day, alright?
- Kuhhyahha{0}hha{0}ha{0}ha{0}hahaha...!!!"
+ Kuhhyahhahhahahahahaha...!!!"
 "So there you have it, Battlerr!
  I, the Golden Witch {f:5:Beatrice}, will be running your test myself!
  As for the place...let me see.
@@ -225,7 +225,7 @@ As {f:5:Beatrice} rolled around in her sofa in an unseemly way,
  If you become the next head, you\'ll be the new owner of everything on this island."
 "......I wouldn\'t mind letting you have me all to yourself, you know......?
  Just like Kinzo did, ......control me, okay......?
- Kuhhihi{0}hi{0}hi{0}hi{0}hi{0}hihi, uhhya{0}hha{0}hha{0}ha{0}ha{0}ha{0}ha{0}haha!"
+ Kuhhihihihihihihihi, uhhyahhahhahahahahahaha!"
 "Th‐the front entrance of the mansion......
  Perfect...!!
  Listen to me, you stinking drunk!!
@@ -233,7 +233,7 @@ As {f:5:Beatrice} rolled around in her sofa in an unseemly way,
  And I\'ve got some {i:hot punch} waiting to help you through your hangover!!
  Just you wait!!"
 Battler impulsively slammed the receiver down.
-{n}There was no need to talk through a receiver anymore.
+There was no need to talk through a receiver anymore.
 ......I\'ll meet her face to face and settle this!!
 I took the spear I\'d made by taking apart the hat stand,
  and went outside without even an umbrella.
@@ -243,9 +243,9 @@ Going alone would be too reckless...
 "Gohda‐san, Kumasawa‐san...!
  It\'s me, it\'s Battler...!"
 I headed for the gardening storehouse first.
-{n}I need all the help I can get.
+I need all the help I can get.
 Gohda‐san\'s a burly man, so I can probably count on him to add some extra brawn.
-{n}Kumasawa‐san\'s knowledge and familiarity with the area as a senior servant might prove to be a huge weapon.
+Kumasawa‐san\'s knowledge and familiarity with the area as a senior servant might prove to be a huge weapon.
 Both of them have master keys, and they know more about the mansion than I do.
  ......They\'re pretty reliable allies.
 As I banged on the shutter and called out for them to open it, I remembered that there was nothing they could do from the inside.
@@ -273,7 +273,7 @@ The shutter is still closed.
 ......And there\'s only a single key, which I\'m sure Gohda‐san took possession of.
 So how did the culprit......open the shutter and kill the two of them inside......?
 No wait, they weren\'t necessarily killed...
-{n}If this is a suicide......
+If this is a suicide......
 ......That way, this locked room makes sense, but I don\'t know why the two of them would hang themselves...!!
 Feebly, ...I slumped down on the spot.
 Now, the only humans alive on this island...
@@ -281,13 +281,13 @@ Now, the only humans alive on this island...
  ......and my old bastard\'s old bastard.
 .........No, there\'s also that nutso woman calling herself {f:5:Beatrice}...
 Maria\'s been acting like she\'s on the witch\'s side from the beginning.
-{n}And Gramps is the very person who revived the witch.
-{n}Plus there\'s the witch herself.
+And Gramps is the very person who revived the witch.
+Plus there\'s the witch herself.
 ......What the hell... .........Then, it\'s just as though...
 .........I\'m the only one on this island............
 Using my pole as a cane, I feebly rose to my feet.
 ......Damn, I can\'t do it like this...
-{n}I\'ve got to avenge...everyone......
+I\'ve got to avenge...everyone......
 "Damn iiiiiiiit...... This is no good...
  Yeah, it\'s no good, it\'s no goddamn good at all...
  Damn iiiiiiiiiiiiitt........."
@@ -301,7 +301,7 @@ Amidst the pouring rain, ......I walked through the rose garden without an umbre
 ......I could see the arbor in the distance.
 According to Jessica, it seemed that George‐aniki had also been killed...
 Well, by this point, there\'s no need to worry about the lives of any hostages.
-{n}......I left the path, aiming for the arbor.
+......I left the path, aiming for the arbor.
 Then,
  ............I saw George‐aniki\'s weather‐beaten corpse...
 "...............Aniki......
@@ -325,7 +325,7 @@ Just as Gohda‐san had once said.
  ......It seems that old geezer and the witch...
 ......really don\'t view our lives as anything more than that......"
 ...That damn witch, when she was on the phone...
-{n}She talked about us like we were "on the game board"......
+She talked about us like we were "on the game board"......
 "...Perfect......
  ......Right, she thinks this is a game, huh......
  Then, ...in the same way you killed everyone like it was a game,
@@ -335,21 +335,21 @@ Just as Gohda‐san had once said.
 The lightning caused the mansion\'s vast shadow to emerge.
 ......Finally, ......the mansion.
 As the massive shape came into view, there was no silhouette of any person.
-{n}It seemed that there weren\'t any underlings waiting for me in a pack, or anything like that.
+It seemed that there weren\'t any underlings waiting for me in a pack, or anything like that.
 .........According to Kyrie‐san, there were a large number of attendants with goat heads.
 At least for now, I couldn\'t sense...
 any large group like that hiding and staring at me...
 What\'s this......?
-{n}Beneath the roof of the entrance,
+Beneath the roof of the entrance,
  .........there\'s something set down.
 "......What is this?
  .........A...box?"
 It looked like the kind of small box that girls often keep trinkets in.
 ......Or maybe it was the same kind of extravagant cigar case you\'d find in a reception room.
 Either way, it didn\'t look like something that belonged here...
-{n}It clearly looked......as though I was being told to open it.
+It clearly looked......as though I was being told to open it.
 But the thought of doing what they wanted me to do was somehow irritating.
-{n}......However, it didn\'t look like we\'d get anywhere if I didn\'t open it.
+......However, it didn\'t look like we\'d get anywhere if I didn\'t open it.
 Could it be that it\'s set up with some trap to make it explode when opened......?
 While thinking things like that, and forgetting even to go under the overhang,
  I continued to glare at the box as the rain beat down upon me.
@@ -361,8 +361,8 @@ It was also the sound that announced that the crazy day of October 4th had final
 That sound quietened, ............and I could hear an eerie laugh coming out of nowhere......
 I got the feeling that the voice was coming from the heavens, ......and I looked up at the sky.
 ......And there.........was a woman I had never seen before.
-{n}No, it\'s not true that I\'ve never seen her before.
-{n}......I saw her once today.
+No, it\'s not true that I\'ve never seen her before.
+......I saw her once today.
 Yes, in the portrait inside the mansion......
 The clothes were different, ......but that face was just like the witch of the portrait......
 Aaah, who am I kidding... I already know who this person is...!!
@@ -406,7 +406,7 @@ I adjusted my grip on the spear,
  Worry not, I\'ll call plenty of gold butterflies, goats, demons, and witches later on!
  If you wish, I will invite you to my Golden Land!!"
 "There, I will grant you any wish that you desire...!!
- Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!"
+ Wahhahahahahahahahahahahahaha...!!"
 "......It\'s starting to look like someone knocked an ink bottle over the chessboard of this island."
 "I see, that too is a pleasant description...!
  *cackle*cackle*, soon, you will be covered in that ink as well.
@@ -452,7 +452,7 @@ Whether we interpret the result of her snapping her fingers as magic flying at m
  Of course, the shutters are down for all the windows as well.
  My castle isn\'t so fragile that a single knight like you could break in!"
 I tried the front door anyway just in case, ......but, yup, it really was locked.
-{n}When I looked around, I noticed that indeed the shutters were closed on the windows.
+When I looked around, I noticed that indeed the shutters were closed on the windows.
 ......Normally, they wouldn\'t be.
 "......Tch.
  Looks like you prepare for everything.
@@ -479,7 +479,7 @@ Gohda‐san and Kumsawa‐san probably have master keys, but they\'re in the loc
 "Aaah, remind me of Kinzo in his younger days once more...!!
  That single time in my thousand‐year life!
  Remind me of that day I was taught the joy of being controlled, of submitting and being reduced to furnituuuuuuuure!!
- Uhyaaa{0}hhya{0}hhya{0}hhya{0}hhya!!"
+ Uhyaaahhyahhyahhyahhya!!"
 "......You damn drunk, we aren\'t getting anywhere."
 Ignoring the stupidly smiling witch, I picked up the box.
 "Yes.
@@ -489,21 +489,21 @@ Ignoring the stupidly smiling witch, I picked up the box.
 "........................"
 I opened it.
  ......There was a faint smell of cigarettes.
-{n}Apparently, it really had originally been a cigar case.
-{n}But there were no cigarettes or cigars inside.
+Apparently, it really had originally been a cigar case.
+But there were no cigarettes or cigars inside.
 Instead, there was a Western envelope with the One‐winged Eagle crest.
-{n}And when I opened that too, ......there was a letter inside.
+And when I opened that too, ......there was a letter inside.
 I looked up at the witch.
  She was grinning down at me.
 ......It seemed she was waiting in anticipation to see what kind of reaction I\'d have to the contents.
 ......Dammit, I\'ll show her.
  Its contents were like this...
 {a:c:{e:070:Among the three mentioned below.
-{n}In order to gain two, sacrifice one.
-{n}{n}1. Your life
-{n}2. __\'s life
-{n}3. Everyone else\'s lives
-{n}{n}If you do not choose one, all of the above will be lost.}}
+In order to gain two, sacrifice one.
+1. Your life
+2. __\'s life
+3. Everyone else\'s lives
+If you do not choose one, all of the above will be lost.}}
 ".........The heck is this?
  Some pretty creepy stuff\'s written here.
  And most importantly, the second one is blank, so I don\'t even know whose life."
@@ -588,14 +588,14 @@ Under that majestic gaze, unimaginable from her manner a short while ago,
 ".........The test has already begun.
  You may think as you wish."
 There were no signs from the witch\'s expression that she was sneering at a person unable to answer the tough question thrust upon them.
-{n}......She was earnestly asking something of him, and he could even feel a quiet determination.
+......She was earnestly asking something of him, and he could even feel a quiet determination.
 Even as the rain beat upon him, Battler could not shift his eyes from her gaze.
 ......The witch threw her umbrella away.
-{n}She abandoned herself to the falling rain.
+She abandoned herself to the falling rain.
 So that the rain would fall on her until Battler answered that question.
 ......She had chosen to join him, allowing the rain to beat down on her as well, until he reached an answer.
 For some reason, Battler could tell that.
-{n}......But, even so, ......he didn\'t understand.
+......But, even so, ......he didn\'t understand.
 "W‐......well, ...uh.
  ......I mean, you\'re right, I do think I was being childish...
  All things considered, just \'cause Dad got remarried, that doesn\'t wipe out what I owe him for raising me."
@@ -865,10 +865,10 @@ Kinzo and Ronove had opened a new bottle and were enjoying the show.
  How were the results of Battler\'s test?!"
 "Maria\'s test got passing marks with no complaints, I\'ll have you know?
  I\'ve long held her in contempt as a worthless little urchin,
- but lo and behold, surprise surprise, {nobr:my oh} {nobr:my oh} {nobr:my oh} my, not bad, not bad, not bad indeed!
+ but lo and behold, surprise surprise, my oh my oh my oh my, not bad, not bad, not bad indeed!
  Wa‐hah‐hah‐hah‐hah‐hah!!"
 It seemed like Kinzo was dead drunk.
-{n}He laughed towards Beato with the same level of excitation as the time they\'d left for the tests.
+He laughed towards Beato with the same level of excitation as the time they\'d left for the tests.
 ...However, Ronove and {f:5:Virgilia} instantly noticed the change in her enthusiasm.
 Gaap also froze her expression and went silent.
 "Wahhahahahahahhahha, what is it, {f:5:Beatrice}, my beloved witch?
@@ -938,7 +938,7 @@ Since the time she had returned, her expression hadn\'t changed in the slightest
  her brow furrowed, and she looked a bit displeased.
 And when she whispered "disappear", in that instant, the room flashed, and was tidy again, as though nothing had ever happened.
 The reception chairs were neatly arranged, and there was no wine or cheese.
-{n}There were no stains where things had been spilled, nor was there any scattered trash.
+There were no stains where things had been spilled, nor was there any scattered trash.
 ......To the contrary, even the air had frozen over,
  and, enough to make one doubt whether so many noisy people really had been in this room until just moments ago,
  .........the study had returned to total silence.
@@ -1039,7 +1039,7 @@ When I turned around, ......there was someone I thought I might, or might not, r
 Suddenly, in another place, there was a girl wearing a bright pink dress.
 ......I had a feeling I\'d met her somewhere too, but I couldn\'t remember.
 More important was the meaning of the words she said.
-{n}......The game being abandoned means......huh?
+......The game being abandoned means......huh?
 ".........That\'s all there is to it.
  No match can reach its conclusion without two opposing sides.
  .........It means that you\'ll never be able to win and escape this world for all eternity."
@@ -1085,7 +1085,7 @@ More important was the meaning of the words she said.
 "............I agree.
  Getting Battler involved and then leaving without giving him victory or defeat is just beyond irresponsible."
 Suddenly, even Gretel was there.
-{n}......And everyone was criticizing Beato for being irresponsible.
+......And everyone was criticizing Beato for being irresponsible.
 "Hoh.
  .........It seems that the greatest reason I am being called irresponsible is that Battler will be stuck as an opponent."
 ".........In that case, Battler.
@@ -1131,7 +1131,7 @@ So, I also responded to that.
  As long as I\'m here,
  there\'s no way I\'m letting you escape!!"
 "Are you listening, you goddamn Witch of Irresponsibility?!
- Why don\'t you say some{-}thiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}ing!!!"
+ Why don\'t you say somethiiiiiiiiiiiiiing!!!"
 After I yelled at her, ......Beato went silent for a while.
 Whether my words had reached her, or whether she was thinking about something completely different...I couldn\'t tell.
 But for a while, she was silent,
@@ -1184,7 +1184,7 @@ My name is Ushiromiya Battler}.
  But don\'t do it!
  He\'s......!!"
 When Gretel yelled, Beato glared at her.
-{n}Then, her form was wiped away in an instant.
+Then, her form was wiped away in an instant.
 "Shut up.
  You leave your seat for a while.
  You too, ladies.
@@ -1215,9 +1215,9 @@ And I opened this game in order to fight Ushiromiya Kinzo\'s grandchild, Ushirom
  Just repeat it in red."
 Beato urged me with the same indifferent tone.
 ......But I don\'t have a clue what she\'s trying to do.
-{n}......I\'ve done absolutely nothing wrong that I\'d hate to be confronted with, and there\'s nothing that I\'m hiding.
+......I\'ve done absolutely nothing wrong that I\'d hate to be confronted with, and there\'s nothing that I\'m hiding.
 There\'s nothing she could demand for me to repeat that would cause me any trouble.
-{n}......So, why something like this...?
+......So, why something like this...?
 "Sure, I\'ll repeat it.
  
 Ushiromiya Battler\'s mother is Ushiromiya Asumu}.
@@ -1235,12 +1235,12 @@ It was from Ushiromiya Asumu that Ushiromiya Battler was born}."
 "It was from Ushiromiya Asumu that you were born."
 "
 It was from Ushiromiya}...
-{m:-5:—}—...
+——...
 ...hhnguh...
-...{nobr:{m:-5:——}—}?!
- {nobr:{m:-5:——}—}?!?!"
+...———?!
+ ———?!?!"
 All of a sudden, my throat closed...
-{n}I was suddenly assaulted by a shortness of breath that felt as if I had been choked.
+I was suddenly assaulted by a shortness of breath that felt as if I had been choked.
 Wh‐.........what\'s going on......?
  O‐......one more time......
 "It was from Ushiromiya Asumu that I was born...
@@ -1258,8 +1258,8 @@ Wh‐.........what\'s going on......?
 "..................tch..."
 "..........................."
 My Mom is Ushiromiya Asumu!
-{n}Why can\'t I say that fact in red?!
-{n}What\'s going on...?!
+Why can\'t I say that fact in red?!
+What\'s going on...?!
  Th‐this is......gghh—!!
 "If you try to forcefully speak red that cannot be spoken, you will choke.
  There is no need to strain yourself.
@@ -1414,7 +1414,7 @@ Without saying anything more,
 Chasing after {f:5:Bernkastel}, who had disappeared first, {f:5:Lambdadelta} disappeared as well...
 Then, after everyone had disappeared, .........there was no one left in the study.
 It returned to silence, almost as though no one had been there from the beginning.
-{n}......No one was here in the first place.
+......No one was here in the first place.
 The silent study told of that wordlessly, and the sound of the wind and rain began to fill the room bit by bit......
 In a world where everything had sunk into darkness, Beato questioned herself.
 "......The fact is............from the very beginning, magic should only have been used within Mariage Sorcière."
@@ -1438,9 +1438,9 @@ In a world where everything had sunk into darkness, Beato questioned herself.
 "...............That is...so.
  That is truly so......"
 It was a witches\' alliance to make everyone happy together, with magic.
-{n}......I wonder when it got this screwed up?
+......I wonder when it got this screwed up?
 What was I trying to do when I started this game?
-{n}......I can\'t really remember even that.
+......I can\'t really remember even that.
 No, I may remember,
  ...but that\'s a feeling I now wish to throw away to the far side of oblivion.
 ".........It\'s alright.

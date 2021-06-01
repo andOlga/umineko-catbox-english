@@ -114,14 +114,14 @@ However, the lock was undone this time.
 "Well, no point thinking about it now.
  After all, that might just be a whim of the Game Master\'s."
 As soon as she entered the entrance hall, the door to the parlor opened violently.
-{n}Out of it flew Gohda\'s large body.
+Out of it flew Gohda\'s large body.
 "Ah, good evening, Gohda‐san.
  Is something the matter?"
 "A‐...awawawa....awawawa!!
  P‐police...ambulance...!!
  Awawawawawa!!"
 That expression really is wonderfully pathetic.
-{n}Just fitting for the first one to discover the crime.
+Just fitting for the first one to discover the crime.
 "Please calm down.
  How could the police or an ambulance get to an isolated island in the middle of a typhoon?
  I\'m sure the phones are out anyway, so please calm yourself."
@@ -177,7 +177,7 @@ Rudolf crumpled to his knees and fell onto Battler\'s body.
 No words could console him as he cried with a mad sorrow...
 ......In a single night, ...he had lost both his wife and his son.
 During this time, Krauss checked the window locks and the bathroom and searched the closet to find if anyone was hiding there, but he found no one...
-"Battleeer...! Battleeeeeeer......! Dammiiiiit......! Aa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}hhh......"
+"Battleeer...! Battleeeeeeer......! Dammiiiiit......! Aaaaaaaaaahhh......"
 "H‐......how sad......"
 "......It\'s hard to believe, ......but just like the others, ......this is a locked room."
 "Wh‐......what, again...?!"
@@ -224,7 +224,7 @@ At that time,
 ......then the Seven Sisters of Purgatory would probably have pulled it off for me.
 They could only accomplish what I could do myself.
 ......No, that\'s not it either.
-{n}They could take what {i:I} had accomplished and turn it into "magic".
+They could take what {i:I} had accomplished and turn it into "magic".
 Of course, there were a great number of witnesses in that classroom, so that would probably have been impossible.
  ......Maria onee‐chan would call it "being burned by the anti‐magic toxin".
 However, ......if I had called those classmates out somewhere without witnesses, ......and carried out murder myself...
@@ -360,7 +360,7 @@ It was the same for Erika......
  ......I guess the whole Ushiromiya family got so fed up with Erika prattling on about being a detective and not knowing when to shut up...
 ...that they all joined together and set up a fake murder to make fun of her, or something?
  Wait, is that the right answer?
- I\'m, like, a {i:super} great detective{p:0:☆}"
+ I\'m, like, a {i:super} great detective☆"
 "Unfortunately, ......this isn\'t a ruse.
  The victims have been thoroughly killed."
 "Huh?!
@@ -405,7 +405,7 @@ It was the same for Erika......
  ......Be like this forever, {f:5:Bernkastel}.
  Seeing your face twist with anguish is the one forbidden honey I\'ve found for myself."
 {f:5:Lambdadelta} had guaranteed that it was a perfect locked room.
-{n}{f:5:Bernkastel} had guaranteed that it was a perfect murder.
+{f:5:Bernkastel} had guaranteed that it was a perfect murder.
 A perfect
  "locked‐room"
  "murder".

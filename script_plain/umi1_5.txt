@@ -1,7 +1,7 @@
 We crossed the hall again on our way to the entrance.
 As we did, we once again saw that witch\'s portrait.
 However, the word "saw" is probably not the best word to describe that experience.
-{n}......It was more like our eyes were drawn to it.
+......It was more like our eyes were drawn to it.
 That woman\'s eyes, with their sage‐like glamour, definitely had the power to make those who looked at her stand rooted to the spot.
 "............So this is the witch, {f:5:Beatrice}.
  ......Wonder if it\'s true."
@@ -50,7 +50,7 @@ As I skimmed over it, I was taken aback by the array of unnerving words that jum
 Grandfather succeeded the Ushiromiya family after it had been almost totally destroyed in the Great Kanto Earthquake,
  and by successfully riding the stormy seas after the war, managed to accumulate great wealth.
 ...That much of the story everyone knows.
-{n}However, this is where the strange part of the story begins.
+However, this is where the strange part of the story begins.
 ...Part of it is closely tied to Grandfather\'s black magic hobby, so its credibility is extremely low, but......
 ......Well, wait until the end before you doubt or make fun of it.
 After the war, Grandfather successfully predicted what the future would hold, his big gamble paid off, and he accumulated a vast store of wealth,
@@ -58,7 +58,7 @@ After the war, Grandfather successfully predicted what the future would hold, hi
 Grandfather came from a branch family and had no connections in the business world or the financial world.
  Even though he later built connections with the occupying forces, in the beginning he was supposedly a nameless person who had not yet gained anyone\'s trust.
 Money can only be gathered based on trust.
-{n}There\'s no way anyone would lend money to an untrustworthy person.
+There\'s no way anyone would lend money to an untrustworthy person.
 ......How did Grandfather, whose trustworthiness was zero, manage to obtain the large amount of funds in the first place?
 ......It is said that, when asked that question, Grandfather answered like this:
 {i:One fateful day, I encountered the Golden Witch }{f:7:Beatrice}{i:.}
@@ -147,7 +147,7 @@ How much is 20 billion yen actually worth?
  ......We would have to measure it by putting it in terms we could understand.
 I mean, they say that wages over a lifetime are 200 million yen.
 ...You grow up and work like crazy, sacrificing your life for your company, and as you approach old age are finally freed.
-{n}And all that together, including the retirement money, comes out at 200 million yen.
+And all that together, including the retirement money, comes out at 200 million yen.
 ...In other words, that is the cash equivalent of a human\'s life—
 no, you could even call it the price of a life.
 ...We were talking about a sum so enormous that it would require a hundred of those lives.
@@ -215,7 +215,7 @@ As I laughed and made fun of the witch in an attempt to differentiate myself fro
  Uu!!
  {f:5:Beatrice} exiiiists!"
 Maria stared up at me.
-{n}...She had on her usual sour look, but I could tell she was angry because of the color of her eyes.
+...She had on her usual sour look, but I could tell she was angry because of the color of her eyes.
 "Witches exist!
  Witches exist!
  Uu‐uu‐uu!!!"
@@ -229,7 +229,7 @@ Then, Jessica tapped me on the shoulder and told me in a small voice.
  Maria really believes that things like witches and {f:5:Beatrice} exist."
 "Come to think of it, Maria‐chan, in social studies at your school, when you were asked to write what you wanted to be when you grew up, you wrote "a witch", didn\'t you?"
 Maria nodded seriously.
-{n}Tears started to run from the corners of her eyes.
+Tears started to run from the corners of her eyes.
 .........I see. To a girl who wants to become a witch in the future,
  this "{f:5:Beatrice}" is proof that witches do exist in this world,
  and is also someone who she admires and strives to be like.
@@ -241,7 +241,7 @@ Maria nodded seriously.
 "It\'s alright. They exist, witches.
  Onii‐chan believes it."
 George‐aniki kneeled down and held Maria\'s head.
-{n}...Watching this, Jessica poked me in the side.
+...Watching this, Jessica poked me in the side.
 ...So that\'s what it is.
 It\'s basically like, I just dropped the bomb that Santa Claus doesn\'t exist,
  in front of a child who believes in him, on Christmas Eve.
@@ -538,7 +538,7 @@ The formerly tyrannical oldest brother would always abuse his privileges and inf
  You plan to turn this island into a resort, right?
  During construction, you might stumble upon the gold by chance."
 Eva let out a high‐pitched laugh.
-{n}Krauss watched without even flinching.
+Krauss watched without even flinching.
 "......Let me add a seventh condition before I accept.
  In the situation that any sibling other than myself finds the gold, they will immediately turn it over to me."
 "Yes, yes, of course, we\'ll guarantee you that.
@@ -552,7 +552,7 @@ When at last Kinzo faced death and it came time for the inheritance to be distri
 That situation would likely be a fatal wound to Krauss.
 They had latched onto that weak point, and were threatening their brother under the veil of compromise, trying to wring out a huge sum of money.
 ......However, they had let one thing slip their minds.
-{n}The three of them had forgotten that their oldest sibling, who they couldn\'t defeat unless they banded together, was a very nimble thinker when it came to being crafty.
+The three of them had forgotten that their oldest sibling, who they couldn\'t defeat unless they banded together, was a very nimble thinker when it came to being crafty.
 Krauss relaxedly let out a gloating laugh as he spoke to Eva, who could not hide her smile, so certain she was of her victory.
 "Hahaha.
  This all sounds marvellous to me.
@@ -565,7 +565,7 @@ Krauss relaxedly let out a gloating laugh as he spoke to Eva, who could not hide
 Rosa\'s expression dimmed.
  ......When her brother started talking like this, the conversation would never change for the better.
 ...Eva was also sensitive enough to realize this.
-{n}Therefore, even though Krauss had obediently accepted the deal, she was unable to wipe away her feeling of insecurity.
+Therefore, even though Krauss had obediently accepted the deal, she was unable to wipe away her feeling of insecurity.
 "...My, how obedient.
  That\'s not like you, Nii‐san."
 "That\'s harsh.
@@ -573,10 +573,10 @@ Rosa\'s expression dimmed.
  Of course I don\'t.
  I\'m just like all of you."
 — I\'m just like all of you.
-{n}It felt as though only that part was emphasized.
+It felt as though only that part was emphasized.
 The color of Rudolf\'s face darkened.
 {i:"I have a plan, just like all of you"}.
-{n}...That\'s what it sounded like to him.
+...That\'s what it sounded like to him.
 That gave him a sense of urgency.
  Trying to bring this near‐finished discussion to a conclusion, he rushed to wrap it up.
 "......Then we are good.
@@ -594,7 +594,7 @@ Krauss made as if to accept it, but then, with a small laugh, drew back his hand
 "............Actually,
  in order to make sure this agreement is definitely effective, I would like to propose a single amendment."
 When Krauss said that one sentence...
-{n}...all of the siblings felt at the same time as though something annoying was creeping up their backs.
+...all of the siblings felt at the same time as though something annoying was creeping up their backs.
 "......Th‐that won\'t do.
  We\'ve already decided, haven\'t we?
  Be quiet and sign it."
@@ -645,9 +645,9 @@ Ever since he was a child, he had never been able to overcome the height of the 
 "I am very happy that I am able to resolve it today.
  .........But you too would be very happy to see this deal quickly concluded, wouldn\'t you...?"
 Krauss stared at each of the siblings.
-{n}...They avoided his gaze with animal‐like instinct.
+...They avoided his gaze with animal‐like instinct.
 Only Hideyoshi was slow avoiding it.
-{n}...So he was caught in Krauss\'s gaze.
+...So he was caught in Krauss\'s gaze.
 "Hideyoshi nii‐san.
  I hear that your company has been going extremely well recently, hasn\'t it?
  You didn\'t hit any problems getting it listed as a stock, and both its performance and stock prices are constantly growing.
@@ -662,12 +662,12 @@ Only Hideyoshi was slow avoiding it.
  If you can collect evidence proving that no one would offer a loan to me, then I can collect evidence on you.
  Hahaha, is it really that strange of a thing?"
 Krauss grinned broadly.
-{n}...In contrast, Hideyoshi\'s face was turning obviously pale......
+...In contrast, Hideyoshi\'s face was turning obviously pale......
 Hideyoshi\'s company was a fast‐food‐chain operating company that he had started from nothing.
 Through Hideyoshi\'s management efforts, performance of the business repeatedly rose and magnified, and ultimately it succeeded in becoming a stock‐listed company.
 The greatest advantage of being in the stock‐holding system is that, by selling stock certificates, a large amount of financing can be gained.
 That amount is far greater than the actual profits from the business.
-{n}This made it an extremely effective way to gather the massive funds needed to grow his company even further.
+This made it an extremely effective way to gather the massive funds needed to grow his company even further.
 However, in exchange for financing the company, the stockholders have certain rights.
 Namely, the right to observe and guide the company that they have financed, in order to raise its profits above their investment.
 ......That right is guaranteed to all stockholders, and they sometimes even use it to reorganize ineffectual management.
@@ -675,7 +675,7 @@ It is the "right" to prevent the money they have spent financing the company fro
 However, if they use this right forcibly, they can eject the former management and take over the company.
 ...Because the general body of all stockholders has the power to dismiss the management and nominate new management.
 That right is exercised on a majority decision by the stockholders.
-{n}And people who hold more stock get to cast more votes.
+And people who hold more stock get to cast more votes.
 In other words, if some person or group holds a majority of the stock, they can freely chase out the old management and make the president anyone they would like.
 If they want, it is even possible for them to make themselves president.
 Many companies, in order to prevent their stock from being bought up by malicious people and their position from being threatened,
@@ -701,7 +701,7 @@ So in the end, whoever manages to buy up the most stock wins.
 If Hideyoshi could obtain a large sum of money at this critical time, he would be able to avoid losing all of that which he had built up...
 {a:c:
 THEREFORE,
- MORE THAN ANYTHING ELSE,{n}
+ MORE THAN ANYTHING ELSE,
 HE WANTED A LOT OF MONEY RIGHT NOW...!}
 He couldn\'t wait for the division of Kinzo\'s inheritance, which may not happen for some time.
 "And you, Rudolf, you\'ve been in a lot of trouble lately, haven\'t you?
@@ -728,11 +728,11 @@ Rudolf had been building a large amount of wealth with a certain type of niche m
 An American corporate giant was trying to accuse Rudolf\'s company of violating their rights.
 For various reasons, it was thought that winning the trial was extremely unlikely, and Rudolf was being pressed to surrender outright.
 ...But even so, there was a way to resolve it with money.
-{n}If he could only pay that money, though it might be painful, he could still pick himself back up.
+If he could only pay that money, though it might be painful, he could still pick himself back up.
 ...But if he didn\'t pay, he\'d lose everything.
 {a:c:
 THEREFORE,
- MORE THAN ANYTHING ELSE,{n}
+ MORE THAN ANYTHING ELSE,
 HE WANTED A LOT OF MONEY RIGHT NOW...!}
 ".........Rosa, you\'re a good and noble little sister.
  You wouldn\'t even touch a dangerous money game.
@@ -742,26 +742,26 @@ HE WANTED A LOT OF MONEY RIGHT NOW...!}
 ...umm...
 ...th‐that has nothing to do with you, Krauss nii‐san!!"
 Rosa uncharacteristically lay bare her emotions and yelled.
-{n}...Because she had thought she had kept it a secret.
-{n}As Krauss watched, he let slip a muffled laugh...
+...Because she had thought she had kept it a secret.
+As Krauss watched, he let slip a muffled laugh...
 ......There was nothing to fear.
  Every one of them,
 {a:c:
- MORE THAN ANYTHING ELSE,{n}
+ MORE THAN ANYTHING ELSE,
 WANTED A LOT OF MONEY RIGHT NOW...!}
 In other words, the situation had been reversed.
 Because only Krauss, who they were threatening, had no urgent need for a large sum of money.
 Compared to that, the three who were threatening him wanted money quickly, no matter what the cost.
 So the longer Krauss postponed this deal, the greater the advantage to him.
 Krauss was very sly.
-{n}He had known of their Achilles\' heel from the beginning.
-{n}Even so, he had not been certain.
+He had known of their Achilles\' heel from the beginning.
+Even so, he had not been certain.
 Therefore, he had hidden that until the very end, and, upon closely and completely examining their attitude, he had struck back.
 "If I could, I would love to raise some money for my darling brother and sisters in their time of need.
  ...But unfortunately, I have nothing on hand."
 "......If you have any sponsors in mind that can raise a whole 750 million, I suggest you try there first."
 Krauss\'s elated words were horribly blunt.
-{n}The other siblings could do nothing more than listen, grinding their teeth.
+The other siblings could do nothing more than listen, grinding their teeth.
 .........If they could think of a sponsor that convenient, they wouldn\'t have kept up this charade.
  They had entered this huge battle specifically because they had exhausted all other options.
 "......If you\'re still set on relying on your older brother,
@@ -891,9 +891,9 @@ Kanon stayed where he was, alert and unmoving, until he was given the next order
 "As you ask.
  ......Please excuse me."
 Kanon bowed and left the study.
-{n}As the door was closed, a heavy locking noise resounded.
+As the door was closed, a heavy locking noise resounded.
 But that was not the sound of Kanon locking the door.
-{n}It was the door locking automatically.
+It was the door locking automatically.
 No one could enter without Kinzo\'s permission, and once they left, they could not enter again.
 ......It was a mechanism that Kinzo, unable to trust his blood relatives, had created to lock himself up in his own study and isolate himself from the outside world.
 ......The only ones he could trust now were not the sons who shared his blood, but those servants who called themselves furniture...
@@ -909,7 +909,7 @@ But it would have been very difficult to gather that from his indifferent expres
  ...it isn\'t clear to me.
  ...Why did Kinzo‐san have something so provocative written, I wonder."
 Nanjo looked at the portrait of {f:5:Beatrice}.
-{n}......No, he actually directed his gaze beneath the portrait, at the plate with the epitaph.
+......No, he actually directed his gaze beneath the portrait, at the plate with the epitaph.
 "...............I fail to understand the Master\'s thoughts.
  I sense that they run very deep."
 "......For as long as I can remember, whenever Kinzo‐san played chess, he would always make moves based on some far‐sighted reading of the board.
@@ -944,24 +944,24 @@ As Nanjo lightly laughed in response, he once again looked at the epitaph.
  You who seek the Golden Land, follow its path downstream in search of the key..."
 That which is written on the epitaph of the portrait of my beloved witch {f:5:Beatrice} is as follows:
 {e:070:Behold the sweetfish river, running through my beloved home of old.
-{n}You who seek the Golden Land, follow its path downstream in search of the key.
-{n}{n}As you travel down it, you will see a village.
-{n}In that village, look for the shore the two speak of.
-{n}There the key to the Golden Land sleeps.
-{n}{n}You who laid hand upon the key must journey as follows to the Golden Land.}
+You who seek the Golden Land, follow its path downstream in search of the key.
+As you travel down it, you will see a village.
+In that village, look for the shore the two speak of.
+There the key to the Golden Land sleeps.
+You who laid hand upon the key must journey as follows to the Golden Land.}
 {e:070:On the first twilight, sacrifice the six chosen by the key.
-{n}On the second twilight, those who remain shall tear apart the two who are close.
-{n}On the third twilight, those who remain shall praise my noble name.
-{n}On the fourth twilight, gouge the head and kill.
-{n}On the fifth twilight, gouge the chest and kill.
-{n}On the sixth twilight, gouge the stomach and kill.
-{n}On the seventh twilight, gouge the knee and kill.
-{n}On the eighth twilight, gouge the leg and kill.
-{n}On the ninth twilight, the witch revives, and none shall be left alive.
-{n}On the tenth twilight, the journey ends, and you shall reach the Home of the Gold.}
+On the second twilight, those who remain shall tear apart the two who are close.
+On the third twilight, those who remain shall praise my noble name.
+On the fourth twilight, gouge the head and kill.
+On the fifth twilight, gouge the chest and kill.
+On the sixth twilight, gouge the stomach and kill.
+On the seventh twilight, gouge the knee and kill.
+On the eighth twilight, gouge the leg and kill.
+On the ninth twilight, the witch revives, and none shall be left alive.
+On the tenth twilight, the journey ends, and you shall reach the Home of the Gold.}
 {e:070:The witch shall praise the wise, and bestow four treasures.
-{n}{n}One shall be all of the Golden Land\'s gold.
-{n}One resurrects all the dead people\'s souls.
-{n}One even revives all the love they possessed.
-{n}And one for the witch to eternally rest.
-{n}{n}Rest in peace, my beloved witch, {f:5:Beatrice}.}
+One shall be all of the Golden Land\'s gold.
+One resurrects all the dead people\'s souls.
+One even revives all the love they possessed.
+And one for the witch to eternally rest.
+Rest in peace, my beloved witch, {f:5:Beatrice}.}

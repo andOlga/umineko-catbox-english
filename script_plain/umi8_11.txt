@@ -46,7 +46,7 @@ Making sure that Battler and the others couldn\'t see her face, {f:5:Lambdadelta
  But don\'t worry.
  ......You obviously do know me better than anyone else in the world."
 "Y‐......yeah, of course!
- After all, I love, adore, and understand you more than any other person in the universe{p:0:☆}"
+ After all, I love, adore, and understand you more than any other person in the universe☆"
 {f:5:Lambdadelta} was flustered by {f:5:Bernkastel}\'s apparently friendly words, which were very rare, coming from her.
 "......Battler‐sama.
  Pardon me for interrupting your conversation.
@@ -94,7 +94,7 @@ She might be in a bad mood for reasons that a man like him couldn\'t understand.
  ......What\'s going on with you, anyway?
  You\'ve looked like you\'re in a bad mood for a while now."
 "I imagine {f:5:Bernkastel} gave her something strange to drink and pretended it was just a rare sort of black tea.
- Hyah{0}hyah{0}hya!"
+ Hyahhyahhya!"
 "......I have no business with you.
  Back off for a bit, would you?
  I want to talk to Onii‐chan alone."
@@ -191,7 +191,7 @@ Onii‐chan...has been hiding the Book of the Single Truth from me...!!
  you are the {f:5:Beatrice} of 1986, Onii‐chan, ......and I am the {f:5:Beatrice} of 1998!!"
 A cyclone rose up around Ange.
 It was a golden swirl of gold butterflies.
-{n}Just like the Golden Witch, {f:5:Beatrice}......
+Just like the Golden Witch, {f:5:Beatrice}......
 "I am {f:5:Ange Beatrice} of 1998, the final Golden Witch!!
  No witch of the past can defeat a witch of the future!!"
 The cyclone of gold broke apart, and as gold leaves scattered across the room, .........the final witch, who would inherit {f:5:Beatrice}\'s name in the future, appeared.
@@ -235,7 +235,7 @@ Come to think of it, {f:5:Bernkastel} was gone as well.
 "So, what does that mean?!
  What now?!"
 At that moment, they heard a tremendous hiss.
-{n}It was as though large chunks of hail had started falling everywhere.
+It was as though large chunks of hail had started falling everywhere.
 An earthquake accompanied that noise, and the whole mansion groaned.
  Dust began to fall from the ceiling.
 At the same time, it seemed as though the curtain‐covered window glowed with a pale light.
@@ -358,14 +358,14 @@ For the first time, those windows became a source of terror instead of sunlight 
 "Gertrude!"
 "......For your attention: know that this window shall not be breached."
 Getrude sealed another window.
-{n}The goats trying to break in through that one were thrown back.
+The goats trying to break in through that one were thrown back.
 But at the same time, those inside the building heard the terrible crash of a third window being shattered.
 Scattering fragments of glass everywhere, the massive goats broke through the window frame and entered the building.
 "W‐waaaaaaaaahhh!!"
 "G‐get back! Everyone get back!"
 ‘......On the first twilight......sacrifice the six...............’
 Those words really were coming from the goat\'s mouth.
-{n}Along with steaming, foul breath.
+Along with steaming, foul breath.
 However, it didn\'t get a chance to say any more.
 Forehead, neck, shoulder,
  chest, side, gut, knee—the stakes of the Seven Sisters buried themselves in deep one after another.
@@ -496,8 +496,8 @@ They were chewing away at every bit of Rokkenjima, ......of this final game that
  We\'ll just chew up all the ostentation, illusions, and fantasy for them!!"
 By now, Battler and the others had to admit it.
 The future wanted a tragedy.
-{n}Even if the truth of this island had been a gentle, peaceful thing.
-{n}The future didn\'t want that.
+Even if the truth of this island had been a gentle, peaceful thing.
+The future didn\'t want that.
 The truth they wanted...was painting over the past.
 "......The past is such a fragile thing.
  Even the cat box is being chewed apart."
@@ -555,7 +555,7 @@ Even {f:5:Lambdadelta} had already announced that she would be an observer inste
 "Two from the outside...?
  What do you mean...?"
 As soon as he said this, Battler realized.
-{n}This must be an agreement made between the three witches who are one...
+This must be an agreement made between the three witches who are one...
 "Normally, there\'s no need to go to the trouble of shutting the door...
  We can\'t do that this time, though."
 "......Only you and Beato can fulfill the role of shutting the door."
@@ -660,7 +660,7 @@ Some of the goats must also have decided that her existence was fictional as wel
 "......W‐we\'ll keep fighting until the end.
  You do not have permission to die in battle...!"
 ‘.........Fantasy is all fiction...... Fantasy is all fiction......
- ......Fantasy is......all......fii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}ictioon!!!’
+ ......Fantasy is......all......fiiiiiiiiiictioon!!!’
 A shriek from one of the goats became a signal for the wall of them to break.
 They pushed forward with gaping mouths and foul breath, each trying to reach their prey first, trying to return these fictional creatures to nothingness.
 "Look out...!!"
@@ -699,7 +699,7 @@ He had already chosen to abandon his life for this.
 ‘......Fantasy is all...pukespittle...pukespittle......’
 The goats kept coming, trying to feast on Ronove.
 None had any pretensions of making this a one‐on‐one fight.
-{n}Nothing mattered except chewing apart fantasy.
+Nothing mattered except chewing apart fantasy.
  Even just a nibble.
 As they gnashed those ruthless jaws and fangs, they gathered around Ronove......
 "......Ggh.........!"
@@ -742,8 +742,8 @@ Though they had been so vicious against the fantasy creatures, they stepped back
 Blue truth cut the goats apart.
 That blue truth dwelt within each and every one of the riddles in Beato\'s games so far.
 What about the locked room with the chain, first game, second twilight?
-{n}What about the locked room of the chapel, second game, first twilight?
-{n}What about the trick to killing Nanjo, third game, ninth twilight?
+What about the locked room of the chapel, second game, first twilight?
+What about the trick to killing Nanjo, third game, ninth twilight?
 There was no end to the blades.
 The countless riddles {f:5:Beatrice} left behind became blades, "challenges" that tore the goats apart.
 If they wanted to deny fantasy, ......they would have to make a counterargument.
@@ -820,14 +820,14 @@ With a roar, Will slammed into the goat giant with his body.
 Though its massive bulk bent back slightly, Will was still leaping into a deathtrap.
 However, if he hadn\'t done so, he wouldn\'t have been able to protect Dlanor.
 The goat grabbed Will.
-{n}It lifted him up and held him high in the air.
+It lifted him up and held him high in the air.
 It was like a little kid showing off his favorite toy and waving it around...
 "Let\'s hear your theory.
  .........If I\'m to hear a great theory before I die, it\'ll be a fitting end for me."
 ‘......Van Dine and Knox are useless for making theories......’
 "Gyagg......gghh....gghhh......!"
 The goat\'s massive hands closed on Will like a vise.
-{n}All the bones in Will\'s body creaked.
+All the bones in Will\'s body creaked.
 "......Let\'s hear...your theory.
  ......Guh, ......aah......"
 ‘There is no need...for a theory......’
@@ -860,16 +860,16 @@ Will\'s face was covered in shadow and couldn\'t be seen.
 Will slammed his forehead into the goat\'s now unprotected head.
 "If you call yourself a mystery fan, be proud to join a battle of wits!!
  If you call yourself a mystery fan, it\'s about time you realized!
- Giving up is nothing to brag abo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}out!!!"
+ Giving up is nothing to brag aboooooooooout!!!"
 Will headbutted the goat over and over again.
 His forehead was gushing blood, torn apart by the goat\'s fangs, but he kept on headbutting.
 Van Dine and Knox may be behind the times.
-{n}The mystery genre does progress with time, just like the world around it.
+The mystery genre does progress with time, just like the world around it.
 However, there\'s one thing that must never change.
 That is...pride.
 What is a knight proud of?
-{n}Not victory.
-{n}He\'s proud of the courage that lets him stand up to anyone without fear.
+Not victory.
+He\'s proud of the courage that lets him stand up to anyone without fear.
 Will couldn\'t forgive the kind of coward who could turn tail from a fight and then brag about it.
 People who call themselves mystery fans but who have no pride were the only ones Will just couldn\'t bear.
 The goat, unable to put up with this anymore, threw Will down to the floor.
@@ -928,7 +928,7 @@ Before long, the massive crowds of goats outside would probably come pouring in 
 "We\'re—"
 ""Just the MCs!!""
 Their excessively blunt refusal drew a few strained smiles.
-{n}However, it had lessened the tension in the room just a bit.
+However, it had lessened the tension in the room just a bit.
 "{f:5:Battler}‐sama, leave this to us!"
 "We won\'t allow the corrosion to proceed any further!"
 "And not one of us will be left behind."
@@ -972,7 +972,7 @@ However, in the face of {f:5:Ange Beatrice}, Witch of Truth, the one who sought 
 "....................................
  ......There it is."
 A single book, tightly locked, rested on the altar.
-{n}It was the hidden diary that Ushiromiya Eva had written in even in her later years.
+It was the hidden diary that Ushiromiya Eva had written in even in her later years.
 The Book of the Single Truth.
 ......It was the one {f:5:Featherine} had shown her in the world of 1998.
 This time, I have the key.
@@ -980,7 +980,7 @@ I gripped the gold key that sat in my pocket, ......the key Onii‐chan gave me.
 As I approached the altar, I saw that the Book of the Single Truth was wrapped in a strange bending of the light.
 ".........So, this is that seal of the Game Master that {f:5:Bernkastel} talked about."
 The Book of the Single Truth was sealed in something like a crystal.
-{n}It was a seal made by the Game Master\'s authority.
+It was a seal made by the Game Master\'s authority.
 This was on a different level than the breakable magic seal on the chapel door.
 No matter how Ange used her power as a Witch of Truth, this couldn\'t be broken by anyone except the Game Master.
 ......However, this time, Battler wasn\'t the only Game Master.
@@ -1009,7 +1009,7 @@ Battler was shut inside a crystal cage like a tower, so large that you had to lo
 "You don\'t mean........."
 "Go, and take care of Ange...!"
 Beato left Battler to handle this on his own and headed for the chapel.
-{n}Battler took a deep breath, then smiled daringly......
+Battler took a deep breath, then smiled daringly......
 "......I\'ve been waiting.
  ......Was it boring in that depths of oblivion place?"
 The answer was a laugh.
@@ -1036,8 +1036,8 @@ And, it would be a rude way to welcome his final guest.
  ......I told you, didn\'t I?
  I believed too."
 At the same time, they both brandished their mysteries, sealing the other in a chained locked room.
-"Come, Furudo Erikaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!"
-"Entertain me, Bwattleer‐shwa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aann{-}n{-}n{-}nn!!!"
+"Come, Furudo Erikaaaaaaaaaaaaaaaaa!!!"
+"Entertain me, Bwattleer‐shwaaaaaaaaaaaaannnnnn!!!"
 At the same time, they were both sealed inside a locked room locked with a chain.
 Of course, it was easy to set and unset the chain from the inside.
 However, stepping into their opponent\'s chained room would be difficult.
@@ -1051,9 +1051,9 @@ It wasn\'t a suicide, it wasn\'t an accidental death, it wasn\'t a death by illn
 It was a murder committed by slipping poison gas through the crack of the door, by filling the room with water and drowning you, by sucking the oxygen out of the room and making you suffocate}!!"
 "
 There was no poison gas, there was no drowning, there was no death by suffocation}!!"
-"Hahahaha, ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!
+"Hahahaha, ahhahahahahahahahahaha!!
  A locked room murder with poison gas? Death by drowning? Suffocation?!
- *giggle*giggle*, aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!"
+ *giggle*giggle*, ahahahahahahahahahahaha!!"
 "Crazy, right? It\'s funny, isn\'t it?"
 "<Good>!!
  
@@ -1071,7 +1071,7 @@ Ushiromiya Battler was stabbed to death!!
 Furudo Erika was stabbed to death!
  The weapon was a knife, stuck right in her back}!!"
 "Interesting!!
- I\'ll tear your locked room to bii{-}i{-}i{-}i{-}i{-}i{-}i{-}its!!"
+ I\'ll tear your locked room to biiiiiiiiits!!"
 ".........What\'s this supposed to be?"
 "Battler is busy at the moment with other business.
  For now, I shall be your opponent."

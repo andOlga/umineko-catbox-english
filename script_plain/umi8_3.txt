@@ -1,6 +1,6 @@
 The VIP room was filled with the sweet smell of pumpkin tea...
 and packed with smiles and laughter.
-"Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha!!
+"Ahhahahahahahahahaha!!
  Simply splendid.
  I am glad to see you in such high spirits...!"
 "I could say the same for you.
@@ -20,7 +20,7 @@ and packed with smiles and laughter.
 "Wahhahahaha!
  Don\'t think you\'ll get any more presents for complimenting me!"
 Kinzo laughed cheerily.
-{n}Beato, who sat next to Battler, was also laughing merrily.
+Beato, who sat next to Battler, was also laughing merrily.
 Ange stood all alone by the window,
  ......staring at the others and trying to figure out what sort of relationship the witch of the portrait had with her grandfather.
 There was a knock on the door.
@@ -126,7 +126,7 @@ Beato probably realized it too...
 At one time, the Ushiromiya family had ruled the skies like an eagle...before being crushed in the Great Kanto Earthquake.
 The eagle had one of its wings torn off, and it crawled in the mud, on the point of death.
 Then, they were saved by the Golden Witch\'s golden miracle.
-{n}Under the Golden Witch\'s protection, the eagle had nursed its wounds for many years.
+Under the Golden Witch\'s protection, the eagle had nursed its wounds for many years.
 And now, finally, it was time for the eagle to leave the nest the witch had provided......
 "All of the gold that your grandmother lent me,
  I will return to you.
@@ -219,7 +219,7 @@ Then,
  However, that time is already over.
  This game has been made, not for our sake, but for yours."
 They were talking in riddles again.
-{n}Grasping the key that hung by her chest, Ange looked at her brother\'s face...
+Grasping the key that hung by her chest, Ange looked at her brother\'s face...
 "We need to show you the contents of the cat box that is this day.
  ......That key I gave you is for opening it."
 "............What do you mean......cat box...?"
@@ -229,7 +229,7 @@ They were talking in riddles again.
  .........You must continue telling the story of this day, as the final witch."
 "Does that mean............that I mustn\'t remain here...?"
 Ange\'s tone was slightly tense.
-{n}She understood what her brother meant, and it made her frown.
+She understood what her brother meant, and it made her frown.
 "Just how long have I suffered, wishing that I could return to the Rokkenjima of 1986...
  And now, I finally made it here!
  So why are you chasing me out...?!
@@ -394,7 +394,7 @@ While Ushiromiya Kinzo still lived, this was only thought of as a tall tale abou
  If we think of it as being his source of high‐output mental power, the story isn\'t that difficult to swallow."
 Professor Ootsuki spoke passionately.
 Witch Hunters.
-{n}Enthusiasts who treat the mad fantasy surrounding Rokkenjima as their plaything.
+Enthusiasts who treat the mad fantasy surrounding Rokkenjima as their plaything.
 Ange had no reason to love these people, who embellished the deaths of her family just for the fun of it.
 And yet, how ironic it was for Ange, who wanted to know what happened that day,
  that these people were the ones who knew most about that island.
@@ -422,7 +422,7 @@ I asked her several times:
  What happened that day?
 Every single time she answered, it was to say that she didn\'t remember.
 But...well, she must have been flustered at the time.
-{n}The very first time I asked, she answered like this:
+The very first time I asked, she answered like this:
 "I can\'t tell you about it."
 It was a slip of the tongue.
  She knew what had happened that day.
@@ -431,7 +431,7 @@ She sealed the truth in a cat box...
 and left this world, taking the key with her.
 There can be only one answer.
 She was behind everything.
-{n}She got all of the family wealth to herself and became super‐rich.
+She got all of the family wealth to herself and became super‐rich.
 And afterward, she lamented the fact that her beloved son would never inherit any of what she had created, ...and she cursed me.
 ......Just remembering that old bitch makes me want to vomit.
 What happened that day?
@@ -458,8 +458,8 @@ It\'s to expose the crime Ushiromiya Eva committed that day...and to have my rev
 I can\'t expose Ushiromiya Eva\'s crime, so people are treating the events on the island as though some bizarre Golden Witch did it all.
 Defeating the Golden Witch means exposing Ushiromiya Eva\'s crime for what it was.
 I won\'t forgive Ushiromiya Eva.
-{n}I swear...... I swear............
-{n}I will hate her and take revenge for my family.
+I swear...... I swear............
+I will hate her and take revenge for my family.
 That is Ushiromiya Ange\'s one and only reason for living......
 "Hahhahahaha.
  If she knew she was hated that much, the president\'d probably be rolling around laughing in the next world."
@@ -520,7 +520,7 @@ strong?"
 end up as bandits or something?"
 "After all, they\'ve never even gone to school, and they haven\'t been taught any useful skills as far as employment is concerned."
 They only learned how to shoot guns.
-{n}And they were only ever praised when they killed the enemy.
+And they were only ever praised when they killed the enemy.
 "Eventually, your reason for living stops being revenge...and becomes the means you used to try and take it.
  ......It\'s sad, really."
 "Are you saying that I\'ll eventually get tired of revenge, and...
@@ -531,7 +531,7 @@ and your life will become entirely devoted to hating Ushiromiya Eva."
 "Hyahha...!
  Come to think of it, that\'s right."
 I\'m not sure what Amakusa is trying to say.
-{n}Probably something annoying.
+Probably something annoying.
 So I\'m not interested.
 ".........Revenge is stupid.
  Is that what you\'re trying to say?"
@@ -566,11 +566,11 @@ that you want to know what happened on that island that day so you can expose Us
  Tell me when we get there."
 "Roger that."
 I wasn\'t particularly tired, really.
-{n}I just said that because I didn\'t like talking about this.
+I just said that because I didn\'t like talking about this.
 "Don\'t become one.
  A child soldier."
 Ange, who had decided to feign sleep, ignored him.
-{n}But Amakusa kept talking.
+But Amakusa kept talking.
  He wanted to make sure she heard at least this much.
 "You started on a journey to learn the truth.
  It\'s becoming more and more a journey of revenge.
@@ -597,7 +597,7 @@ Is there any difference between hating Eva as I expose the truth...and hating Ev
 There\'s no difference.
 In the end, whether I find the truth or not, I\'ll just keep on cursing Eva, over and over, until I die.
 ............What a crappy life.
-{n}But now...that\'s all I have left.
+But now...that\'s all I have left.
 Ushiromiya Eva stole my family.
 So, I\'ll take revenge.
  ......By exposing her crimes and showing the world.
@@ -613,7 +613,7 @@ Is that why......he\'s speaking in riddles, trying to make everything more confu
 .........That\'s none of his business.
 I\'m not just trying to take revenge for their sakes.
 I\'m doing it for my sake too.
-{n}After all, that\'s the only thing I\'m living for.
+After all, that\'s the only thing I\'m living for.
 Taking revenge...is my reason to live.
 ..............................
 I don\'t have a clue...

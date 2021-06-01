@@ -182,7 +182,7 @@ Then, at the end, the priest said something important.
  Mama gave birth to me without a papa.
  Is that strange and sad? ...I asked."
 The priest taught me.
-{n}He said there was nothing strange about a child having no papa.
+He said there was nothing strange about a child having no papa.
 After all, Jesus Christ was born of a virgin.
 And the one who gave birth to him...
 was the Blessed Virgin...{i:Maria}...?
@@ -282,7 +282,7 @@ I had just been drinking some milk tea, all alone in the rose garden arbor.
  Mama said that she had to talk about something important with Uncle Krauss,
  ......so she told me to go outside and play.
 Suddenly, ......she was sitting right there.
-{n}I didn\'t know anyone who spoke that way.
+I didn\'t know anyone who spoke that way.
 I quickly realized that she was someone I didn\'t know at all......
 "......Who...are you?"
 "You were the one who first said that you wished to see me.
@@ -327,7 +327,7 @@ We moved to the beach and talked lots, sitting at a table under an umbrella.
 "......Magic?"
 "If you call yourself a witch, you must be able to show me some sort of magic, correct?"
 I was stunned for a second.
-{n}Of course, it should have been obvious.
+Of course, it should have been obvious.
 I was a child of the Holy Ghost, and since I\'d studied so much of the occult, I was also a witch, not a {y:0:Human}{n:0:human}.
  Until that day, I had been so sure of both of those things.
 So, when I was asked what sort of magic I could use, it left me in a daze...
@@ -389,13 +389,13 @@ She didn\'t want her own toxin to ruin her chance of knowing the miracles of mag
  ......There\'s candy...!!"
 "As a gift to mark my meeting with a new witch, and as a sign of our friendship, I offer this to you."
 This...was a true miracle of magic.
-{n}For the first time, I felt shame and embarrassment at my conceit.
+For the first time, I felt shame and embarrassment at my conceit.
 I could feel that sense of omnipotence disappear,
  the idea that I was the child of the Holy Ghost and the most important and special person in the world.
 ......Instead of a child of the Holy Ghost who can\'t do anything,
  I\'d rather be a witch who can use magic...!
 I, Ushiromiya Maria, wanted to become a witch...!!
-{n}Starting off as a witch apprentice!!
+Starting off as a witch apprentice!!
 Already, I was obsessed with Beato.
 "I want to become a real witch too!
  I want to be your disciple!!"
@@ -571,7 +571,7 @@ If we liken the creation of {f:5:Beatrice} to the laying of an egg,
  then when a single person creates her, it is no more than a delusion.
  Like a chick inside the egg.
 If, and only if, a second person acknowledges her, the shell cracks, and she appears.
-{n}She only appears when a second person comes to warm the egg.
+She only appears when a second person comes to warm the egg.
 When Maria acknowledged {f:5:Beatrice}, she finally hatched, and the chick was born.
 In that case, Mariage Sorcière, which nurtured {f:5:Beatrice} and her system of magic, was like a nest.
 {f:5:Beatrice} had a dignified presence, called herself the witch of Rokkenjima, and claimed to have lived a thousand years.
@@ -627,4 +627,4 @@ Jessica seemed to be getting irritated at having her butt pinched so much, and G
 Compared to Maria, the anti‐magic toxin is very strong in these two.
 At least at the beginning of the other games, they didn\'t acknowledge {f:5:Beatrice}.
 Maria showed me the point of view of one who believes.
-{n}Now to hear from those who don\'t.
+Now to hear from those who don\'t.

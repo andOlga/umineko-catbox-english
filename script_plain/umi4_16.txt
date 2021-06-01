@@ -9,15 +9,15 @@ However, ......that door had never felt as intimidating as it did now.
  Tch, what the hell has he got waiting in there......
  He better not have ransacked my desk and stuff......"
 She acted tough, trying to deceive herself.
-{n}......Trying to make herself believe that she wasn\'t scared of anything.
+......Trying to make herself believe that she wasn\'t scared of anything.
 She readied herself, and opened the door to her room.
 "...................................."
 ......When she saw that, fortunately, the room didn\'t appear to have been messed with, she relaxed.
 No one......was there.
  ......Of course.
-{n}There was nowhere for anyone to hide here.
+There was nowhere for anyone to hide here.
 Right away, Jessica locked the door behind her.
-{n}......Now the room was safe.
+......Now the room was safe.
 She peeked under the bed and in the closet, but of course, no one was hiding.
 "......Wh‐......what the hell.
  ...Haha, ...haha...!"
@@ -27,16 +27,16 @@ As her tension lessened and fatigue came back to her entire body, she realized h
 It was still only eleven.
 ......The plan had been for all the cousins to get together, have fun playing around, and talk animatedly about all kinds of things together into the night.
 Normally, we would have been doing that kind of thing at this very moment.
-{n}Why has that......turned into this......?
+Why has that......turned into this......?
 ".........It\'s all that old bastard\'s fault......
  ......How could he do that...to Mom......
 to everyone........."
 Her head was swimming with anger and sadness......
  But there was no one here to direct those emotions at.
 ......Because of the lock, this room\'s security was guaranteed.
-{n}Remembering that one more time, Jessica somehow regained her calm......
+Remembering that one more time, Jessica somehow regained her calm......
 If it keeps up like this and nothing happens...
-{n}Jessica thought that she would like to go to the dining hall and see her mother\'s last face.
+Jessica thought that she would like to go to the dining hall and see her mother\'s last face.
 ......Even though Gohda had emphasized so strongly that it was gruesome and that she definitely shouldn\'t look at it,
  even so, she wanted to see her mother\'s face one final time...
 But they had been warned repeatedly that doing anything stupid would put the hostages in danger.
@@ -86,7 +86,7 @@ The swarm of gold butterflies spun around, forming a small swirl as they gathere
 ......Then, that golden mound disappeared like a pile of leaves blown away by a cold wintry wind,
  ......and there lay a Western envelope with the One‐winged Eagle crest done on it in gold leaf......
 Ronove gestured to her to pick it up.
-{n}Jessica timidly picked it up, and opened the letter inside......
+Jessica timidly picked it up, and opened the letter inside......
 ".....................What is...this......?"
 "It is an exceedingly simple test that looks for the qualifications for becoming the next head.
  ......Please attend to the question written there with the readiness of the next head who will bear responsibility for the Ushiromiya family,
@@ -131,11 +131,11 @@ George and Jessica.
  ......The one you choose will definitely lose their life."
 "......................................."
 {a:c:{e:070:Among the three mentioned below.
-{n}In order to gain two, sacrifice one.
-{n}{n}1. Your life
-{n}2. Shannon\'s life
-{n}3. Everyone else\'s lives
-{n}{n}If you do not choose one, all of the above will be lost.}}
+In order to gain two, sacrifice one.
+1. Your life
+2. Shannon\'s life
+3. Everyone else\'s lives
+If you do not choose one, all of the above will be lost.}}
 "...............Why is Shannon\'s name here?"
 "The second choice has the name of the one most needed by that person, and most loved.
  ......I believe Kanon\'s name is written second on Jessica\'s test."
@@ -192,14 +192,14 @@ also makes for a fine fourth choice.
 "Da‐......damn iiiiiiiiiiiiiiiiittt......"
 That scene was being observed through a magic crystal ball being held by Kinzo.
 Kinzo finally couldn\'t hold it back; spreading his arms and facing the heavens, he began laughing in an explosive voice......
-"Fuhahahahahahaha, waahha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!
+"Fuhahahahahahaha, waahhahhahahahahahahahahaha!!
  Why do you hesitate, foolish grandchildren and descendants of mine!!"
 "This is a simple problem that can be answered immediately!
  It should cause less vacillation than whether to put butter or jam on your morning toast!!
  ......Do you people know the correct answer?"
 He turned and stared wide‐eyed at the Chiester Sisters, who had been faithfully standing in wait behind him.
 "N‐no, no, my apologies, I don\'t know, Lord {f:5:Goldsmith}!"
-"Fool, not choosing at all means GAME OVEE{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}EEER!!!
+"Fool, not choosing at all means GAME OVEEEEEEEEEEEER!!!
  You foolish rabbit, who cannot even choose a reason or a goal for her own life...!!"
 "You have not the value of a single ant that anyone might step upon without even noticing!!
  Die! Be crushed!! Disappear faster than I can blink!!
@@ -213,7 +213,7 @@ He turned and stared wide‐eyed at the Chiester Sisters, who had been faithfull
  The immediate reply is very nice.
  ......Have you been taught that you\'ll be given an extra carrot for answering that way?
  Heheheheh, that\'s not it, is it noowwwwww?
- Even that isn\'t it, is it noww{-}w{-}w{-}w{-}w{-}w{-}wwww...?"
+ Even that isn\'t it, is it nowwwwwwwwwww...?"
 "You are merely answering the way you have been told to answer, repeating the answer you have been indoctrinated with!!
  You are the same as that other rabbit a second ago.
  You still live without having chosen a purpose or a goal to live for...!!
@@ -254,10 +254,10 @@ He turned and stared wide‐eyed at the Chiester Sisters, who had been faithfull
  Try and choose it, try and choose to have the one you loved forgotten!!!!!!"
 "You can, right?
  I\'ll bet you can, riiiiiiiight?
- Cooooome onnnnn, try saying that you caa{-}a{-}a{-}a{-}a{-}a{-}a{-}aaan!!!!"
+ Cooooome onnnnn, try saying that you caaaaaaaaaaan!!!!"
 "I, ...I, I can...
  I can...!!
- Nihi, .........nihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hiiihii......"
+ Nihi, .........nihihihihihihihihihiiihii......"
 "L‐Lord {f:5:Goldsmith}...!
  Please, have mercy on her......!!"
 "Hihiiihiii...
@@ -284,16 +284,16 @@ without hesitation,
  Because I splendidly answered that devil\'s question, I was able to claim gold, honor, and that witch herself as my own."
 "Which answer did I chooooose?
  .........Do I really need to say it out loud?
- Wahha{0}hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!!"
+ Wahhahhahahahahahahahahahahahahahaha...!!!"
 "So.
  Have you decided on your answer......?"
 "................................."
 As Jessica stared at the crushed letter which lay on the floor,
  ......she hung her head in constant silence.
 All that filled the room was the sound of the wind and the rain, and the rustling of treetops.
-{n}Regardless of how noisy that was, it simply made the silence more apparent.
+Regardless of how noisy that was, it simply made the silence more apparent.
 Ronove waited for Jessica\'s answer.
-{n}......However, Jessica didn\'t speak.
+......However, Jessica didn\'t speak.
 Whether she was deep in thought, or had stopped thinking, Ronove couldn\'t tell.
 ......No, ...he might actually have known.
 But, cruelly like a demon, ......Ronove urged Jessica to voice it.
@@ -363,10 +363,10 @@ After chuckling slightly, Ronove dropped his gaze.
  If there\'s a future me out there who would do something like that, .........she\'s unforgivable to me.
  ...I\'d put an end to that woman myself too."
 Jessica had pictured it in her mind.
-{n}The future her, beyond each of the three choices.
+The future her, beyond each of the three choices.
 There were three Jessicas.
-{n}......Of the three, two had regrets.
-{n}Only one could hold her head high and smile at Kanon.
+......Of the three, two had regrets.
+Only one could hold her head high and smile at Kanon.
 "......You know,
  I once had the nerve to preach something to Kanon‐kun.
  ......Something about trying to live life to the fullest."
@@ -414,7 +414,7 @@ None of them questioned how a three‐sided mirror had appeared from a group of 
 ".................................
  ......My......deepest apologies..."
 Krauss looked at Kanon with a complicated expression that had an awkward smile mixed in.
-{n}......Kanon couldn\'t meet his eyes.
+......Kanon couldn\'t meet his eyes.
 "......{f:5:Virgilia}‐sama.
  ......There is no reason for Milady to lose her life.
  ......Please kill me.
@@ -426,7 +426,7 @@ Krauss looked at Kanon with a complicated expression that had an awkward smile m
 Suddenly, the air split, and the Chiester Sisters appeared, flying into {f:5:Virgilia}\'s chest.
 "{f:5:Virgilia}‐samaaaaaaaaaaaa!
  Hiieeehheiiiiih!!"
-"So mean, so mean, Lord {f:5:Goldsmith} is so meeeeeaan, wahhhn{0}haaaan{0}haahaahhhn!"
+"So mean, so mean, Lord {f:5:Goldsmith} is so meeeeeaan, wahhhnhaaaanhaahaahhhn!"
 "I\'m......doing the best I can......
  Crushing me for animal fodder...that\'s just too much.
  ......Uuuuuuuughhuhhuu!!"
@@ -464,13 +464,13 @@ If he used his cursed power, he might be able to cut through even metal bars.
  ...There was no way he could defeat three of them in an instant.
  It would instantly be reported, and then {f:5:Virgilia} and even the Chiester Sisters would dash in.
 Though he may be able to break the bars, ......he could do nothing more.
-{n}......It was useless.
+......It was useless.
 ......Kanon knew already that the witch was sneering at that kind of useless effort,
  ......so he could do nothing but stare at Krauss\'s repeated body‐slams...
 "......Ah, ............George‐sama......"
 Shannon, who had been looking at the three‐sided mirror, let out a voice.
 ...They looked to see that George, who had been silent this whole time, had raised his head.
-{n}......It seemed that George had also decided on an answer...
+......It seemed that George had also decided on an answer...
 "............Have you decided?
  Your answer?"
 "Yeah.
@@ -489,8 +489,8 @@ Shannon, who had been looking at the three‐sided mirror, let out a voice.
  ............Among the three mentioned below.
  In order to gain two, sacrifice one."
 "1. Your life.
- {nobr:2. Shannon\'s} life.
- {nobr:3. Everyone} else\'s lives.
+ 2. Shannon\'s life.
+ 3. Everyone else\'s lives.
  .........Which have you chosen?
  Could it be the first one, like Jessica?"
 ".........No."
@@ -511,10 +511,10 @@ Gaap looked a little surprised.
  ......My answer...
 ...is the third choice."
 George had chosen.........the third choice.
-{n}......“Everyone else\'s lives”.
+......“Everyone else\'s lives”.
 Even Gaap hadn\'t been able to imagine that answer.
 ......She had been sure that he\'d choose number one, just like Jessica......
-{n}So, she became interested in how he had reached that answer.
+So, she became interested in how he had reached that answer.
 ......How he had reached an answer that had defied the imagination of the 33rd ranked demon of the 72.
 "I want you to tell me.
  .........Tell me the perspective that makes you able to sacrifice the lives of everyone else so that you and the fiancée you love will be safe.
@@ -539,7 +539,7 @@ George faced the demon as he spoke, looking at her almost in disbelief.
  .........As of that moment,
  ......I was prepared to make the entire world my enemy for her sake."
 Those words, through the three‐sided mirror, ......also reached Shannon\'s ears.
-{n}And his determination reached her eyes.
+And his determination reached her eyes.
 ......Shannon certainly had arranged with George that tonight, she would be given an engagement ring.
 Then this incident had occurred, and she hadn\'t been able to receive the ring.
 But now,
@@ -553,8 +553,8 @@ dripped down.
  .........Yes, if I really think about it, this was an easy decision for you."
 "After all, your parents were already killed on the first twilight, right?
  By now, there\'s no one whose death would bother you.
- Hahha{0}ha{0}ha{0}ha{0}ha{0}haha, I see, this was an easy choice.
- Ahaha{0}ha{0}ha{0}ha{0}ha{0}haha......"
+ Hahhahahahahahaha, I see, this was an easy choice.
+ Ahahahahahahahaha......"
 "You can say whatever you want.
  This is my determination and my choice, ......personally, and as the next family head."
 The sparkle in George\'s eyes was brilliant and sharp.
@@ -607,7 +607,7 @@ Gaap needed to change her opinion of George.
  Stain that throne red by your own hands...!
  You will become king of the netherworld, ruler of all demons...!!"
 Gaap was now sure.
-{n}This man was truly fitting to succeed Kinzo\'s madness...!
+This man was truly fitting to succeed Kinzo\'s madness...!
 "Rage on, storm! Cry out, thunder!!
  Celebrate the birth of the new demon king!!
  The island of demons has now welcomed a new ruler...!!"
@@ -623,7 +623,7 @@ the first one will be you, then—I hope that won\'t be a problem?"
 "..............................Huh?"
 A gust of wind blew, ......stirring up George\'s jacket as though it was a cloak.
 It was very much like the cloak worn by the head.
-{n}It definitely gave the same impression of grandeur......
+It definitely gave the same impression of grandeur......
 ......At that time, ......Gaap certainly saw the storm wiped away, and the sky covered with a pure‐white and vast full moon.
 Bearing the full moon on his back,
  the man who called himself the new head...
@@ -664,7 +664,7 @@ Jessica knew.
 She knew that her father, in order to protect his family, was even now bluffing and fighting a solitary fight.
 Jessica understood something that his back had been telling her!
 Another left straight was buried into Ronove\'s face.
-{n}......That mighty strike wasn\'t due just to the brass knuckles she was using.
+......That mighty strike wasn\'t due just to the brass knuckles she was using.
 It was a strike...
 of a person, a family head, who could throw away everything in order to protect.
 "If Dad\'s lost his qualifications to be the successor,
@@ -687,7 +687,7 @@ was a grin from a great delight, which he had last felt so many centuries ago th
 "Come, to the Abyss...!"
 "Wwagh?!"
 Beneath George\'s feet, a pitch‐black pit suddenly opened its mouth wide.
-{n}Of course, George had no way of resisting.
+Of course, George had no way of resisting.
 After being swallowed up by it, George fell out of a pitch‐black hole that had opened up in the ceiling of the arbor.
 As George fell down,
  he was hit sharply in the gut, like a precision bee‐strike, by a reverse roundhouse kick from a stiletto heel...!
@@ -701,15 +701,15 @@ Right side of the head.
  Below the right armpit.
  Side of the right knee.
 As Gaap danced and spun like a small cyclone,
- she kept hitting him, {nobr:right foot} {nobr:left foot} {nobr:right foot} {nobr:left foot}, with successive roundhouse kicks.
+ she kept hitting him, right foot left foot right foot left foot, with successive roundhouse kicks.
 The fourth one became a sweep, cutting George\'s feet out from under him and making him fall down,
  but of course, there was no floor there, but a pitch‐black hole, and George was swallowed up once again.
 Gaap once again spun around like a small cyclone.
-{n}George, likewise, was once again spat out from the ceiling of the arbor.
+George, likewise, was once again spat out from the ceiling of the arbor.
 ".........Take this and keep it as a memento, the single strike at the end of the Abyss.
  ......Die......!!"
 The sharp strike of the queen bee pierced the heavens like a rising cyclone.
-{n}It kicked through George\'s abdomen as he fell from the ceiling......
+It kicked through George\'s abdomen as he fell from the ceiling......
 And then, ......time froze.
  George was pinned in midair by Gaap\'s raised leg......
 "Gah, .........mmph........."
@@ -763,7 +763,7 @@ Once cornered, he wouldn\'t be able to dodge anymore...!
 Jessica had a good understanding of the special characteristics of her equipped weapon, the brass knuckles.
 This powerful weapon\'s most notable characteristic was how it didn\'t let the opponent defend.
 Even if they blocked with their arm, that arm would receive direct damage.
-{n}......If it hit the wrong way, it might even break the bone.
+......If it hit the wrong way, it might even break the bone.
 So she pressed him forward.
  She would block off his escape routes, ......and then, with this fist, she would chip this demon down!!
 "Whoops...!
@@ -778,9 +778,9 @@ So she pressed him forward.
 "............Oops‐a‐daisy.
  .....................gggh."
 Ronove had blocked Jessica\'s lunged fist with his arm.
-{n}He tried to act as though it was no big deal, but it must have hurt a lot.
+He tried to act as though it was no big deal, but it must have hurt a lot.
 ......Jessica grinned.
-{n}Ronove smiled the same way, but twitched slightly.
+Ronove smiled the same way, but twitched slightly.
 "......I see.
  This certainly does hurt."
 "Final warning.
@@ -816,10 +816,10 @@ Jessica was repelled by the purple shield, tumbled backwards, and smashed her he
  That tenacity...yes, it is truly fitting for the next family head.
  ......Why don\'t I be your opponent for just a while longer.
  This is one of the privileges of an examiner.
- .........Pukku{0}ku{0}ku{0}ku{0}kuku!"
+ .........Pukkukukukukuku!"
 "SHATTER TO PIECEEEEEEEES, IIIAAAAAAAAAAAAAAHHHH!!"
 Gaap looked down on George, sneering.
-{n}He was lying face‐down in a puddle on the rose garden path.
+He was lying face‐down in a puddle on the rose garden path.
 The merciless rain beat down on him, so that it looked as though even the heavens were mocking him...
 ".........Ahhahahahahahaha.
  Stand up.
@@ -837,7 +837,7 @@ George stood up shakily.
  You did boast about having that resolve.
  ......Heheheheheh."
 George didn\'t answer.
-{n}......But his gaze was still obstinately resisting surrender.
+......But his gaze was still obstinately resisting surrender.
 "......If you are too obstinate, then this time you really will fall to the deepest depths of the Abyss...
  *cackle*cackle*cackle*."
 Gaap\'s strength was undeniable.
@@ -927,7 +927,7 @@ If George hadn\'t stopped, he probably would have caused exactly the damage he h
 "And what I got from Father...
 ...is patience."
 Anger with a low boiling point isn\'t something to be truly feared.
-{n}......True anger is cultivated through patience.
+......True anger is cultivated through patience.
 ".........I understand your declaration of violent intent.
  ......I also understand your defamation of my fiancée and my parents.
  And you have no intention of retracting any of these......?"
@@ -984,7 +984,7 @@ And twice.
 ".........Armada com martelo.
  ......Orbital blowout fracture with the first strike.
  Cerebral contusion with the second strike."
-"..................{m:-5:——}—...!!!"
+"..................———...!!!"
 Gaap was too shocked to speak.
 George had closed all that distance in an instant, and let off a fearsomely nimble midair double kick.
 ......Furthermore, with the accuracy and edge of a razor, it had cut nothing more than a few of her bangs.
@@ -1040,7 +1040,7 @@ As a large, pitch‐black hole opened in the sky,
 When George proclaimed that,
  ......a faint red magic circle rose up around him.
 But it seemed that George couldn\'t see it.
-{n}However, Gaap, being a demon, could.
+However, Gaap, being a demon, could.
 "M‐......magic?!
  Why does this guy have a defensive barrier...?!
  And what\'s more, it\'s......specialized for counterattacks...?!
@@ -1081,12 +1081,12 @@ So Jessica wouldn\'t give up.
  I\'ll bet it makes no sense to a guy like you, does it?
  See, a girl in love...doesn\'t even think about "giving up because it\'s useless"!!"
 At that time, Ronove certainly saw.
-{n}He saw the red‐hot burning glow of light surround Jessica\'s fists.
+He saw the red‐hot burning glow of light surround Jessica\'s fists.
 ".........This is......problematic.
  ......Enchanted, are they?
  ...Permeation upgrade......that will be troublesome."
 Within her relentless fists and determination...dwelled the power to succeed no matter what.
-{n}From a demon\'s perspective, that was magic.
+From a demon\'s perspective, that was magic.
  Absolute determination...becomes magic.
 "See?
  Nothing useless about it.
@@ -1103,14 +1103,14 @@ I\'m an idiot, so this is the only way I can live,
  but even so, ......I believe that one day,
  I\'ll definitely be able to teach Kanon‐kun about a new world!!
 So I\'m not gonna buckle in a place like this...!!
-{n}I\'ll definitely defeat you,
+I\'ll definitely defeat you,
  and save everyone!!
 "Dammit!!
  If I could just...open a hole......aaaaaaaargghhh!!!"
 Krauss was repeating his useless effort in trying to somehow open a hole between the metal bars.
 ......Useless.
  .........There\'s nothing useless.
-{n}There\'s nothing...
+There\'s nothing...
 The lookout goats had been swallowed up by those black pits and disappeared.
 ......Now was their do‐or‐die chance.
 This was their only chance to break the bars......
@@ -1134,7 +1134,7 @@ This was their only chance to break the bars......
  ......No, not once.
  ...Over and over again."
 Jessica\'s voice had reached Kanon.
-{n}It had certainly permeated into his stone‐cold heart.
+It had certainly permeated into his stone‐cold heart.
 And George\'s voice had reached Shannon.
  If the love he had shown was embodied by strength, she would have to respond in the same way.
 An incredible metallic sound rang out.
@@ -1222,7 +1222,7 @@ When he pressed it hard against the metal bars, sparks sprayed, almost as though
 "410, nihhihihihi!
  Firiiing!!"
 A golden arrow that sparkled gold was fired, leaving a gold tail streaming behind.
-{n}It drew a curve, went through the door, through the keyhole, down the stairs, towards the underground path at full speed......!
+It drew a curve, went through the door, through the keyhole, down the stairs, towards the underground path at full speed......!
 "S‐something shone!!"
 "......You can\'t block the golden arrow with a shield.
  Kanon‐kun, prepare to intercept.
@@ -1236,7 +1236,7 @@ A golden arrow that sparkled gold was fired, leaving a gold tail streaming behin
 Kanon stopped cutting the bars, and stood in front of Shannon.
 Behind him, Shannon closed her eyes, concentrating her mind, focusing deep, deep into the darkness of the underground path......
 A guided cluster round is a special kind of arrow made up of 48 sub‐rounds bound together.
-{n}It explodes mid‐flight and divides into 48 mini‐arrows.
+It explodes mid‐flight and divides into 48 mini‐arrows.
 The strength of each individual one is low, but they pierce through all shields and possess total lethality against ground troops.
 And on top of that, each one of the 48 possesses autonomous guidance towards their individual targets.
 ".........It shone.
@@ -1279,7 +1279,7 @@ And on top of that, each one of the 48 possesses autonomous guidance towards the
 "We don\'t let them shoot.
  ......Kanon‐kun, spirit particle combat, guard yourself."
 At those words, Kanon closed his eyes tightly and clenched his teeth.
-{n}......With Shannon at the center, a pressure and impact blasted out that could only be perceived by those not human.
+......With Shannon at the center, a pressure and impact blasted out that could only be perceived by those not human.
 "......Huh?!
  Firing system error!!
  No good, rebooting...
@@ -1330,7 +1330,7 @@ A prize?!
  After glancing at each other at those words, the goats rushed to the door at once, trying to get out,
  making the exit as tight a squeeze as the trains during the commuter rush.
 Each wanted to get out first, so none of them could get out.
-{n}......{f:5:Virgilia} held her head in frustration.
+......{f:5:Virgilia} held her head in frustration.
 By that time, Kanon had managed to cut just enough bars to make a gap that could be slipped through.
 It proved a bit of work for Krauss, large as he was, and Nanjo, whose waist was nearly his downfall, but even so, they all managed to make it through.
 But their relief at getting through was short‐lived.
@@ -1367,7 +1367,7 @@ Shannon held her hand out towards the bars they had come through.
 "I don\'t have a clue what you\'re saying, but—"
 "We at least got the point that it\'s something pretty bad."
 Kyrie picked up a metal bar that Kanon had just cut.
-{n}Krauss had no weapon, but he rubbed his fist, and the two of them glared into the depths of the underground passage where the shaking was coming from.
+Krauss had no weapon, but he rubbed his fist, and the two of them glared into the depths of the underground passage where the shaking was coming from.
 "......I believe this set of bars is the final thing blocking the way."
 "How far is it to the mansion from here?"
 "Quite a walk...
@@ -1390,12 +1390,12 @@ They couldn\'t tell for sure since they didn\'t have the three‐sided mirror,
 Then, the roars of beasts rang out from the darkness, and numerous fiery, glowing, bright‐red eyes appeared.
 The goats rushing towards them, with thunderous force, were several levels more massive than the guards had been.
 The tremors they created were almost like an earthquake.
-{n}The power and terror was tremendous, but Kyrie instead laughed with relief.
-{n}......Those massive bodies wouldn\'t be able to go through the gap in the bars!
+The power and terror was tremendous, but Kyrie instead laughed with relief.
+......Those massive bodies wouldn\'t be able to go through the gap in the bars!
 The group of goats crashed into the metal bars with a terrific sound like that of a train colliding with a dead end.
 Clumps of dirt fell here and there from the ceiling, and you could tell that the metal bars had buckled inwards.
 .....The force of their charge must have been no different from a train.
-{n}If the metal bars hadn\'t been there, they would undoubtedly have swallowed the five of them up and crushed them in an instant.
+If the metal bars hadn\'t been there, they would undoubtedly have swallowed the five of them up and crushed them in an instant.
 When the group of goats, pressed up against the metal bars, realized that the five were right in front of them,
  they let out a terrible howl, trying to intimidate the five.
 ......Although it was hard to tell whether that was really intimidation, or because of the pain from being pushed and shoved.
@@ -1404,7 +1404,7 @@ One calm goat among them figured out that it just needed to do something about t
 Kyrie sharply jabbed her metal pole at that goat\'s vitals...!
  The goat let out a roar of anguish.
 It probably hurt a lot, but that was all.
-{n}It wasn\'t enough to bring it down...
+It wasn\'t enough to bring it down...
 "Krauss‐san...!!"
 "Rrroooaaaaaaaaaaaaahhh!!"
 Still holding the stuck‐in metal pole, Kyrie relinquished the opposite tip to Krauss.
@@ -1449,7 +1449,7 @@ He lightly dodged the log‐like arm.
 When that arm touched the barrier that protected George, it let off a strong, red light.
 ......And the tip of the foot that was counterattacking gained the same shine, and the superhuman power of the goat was added to George\'s own.
 The second goat fell forwards and floated in the air for a second.
-{n}Then, George\'s next roundhouse kick missed right over the falling goat\'s head.
+Then, George\'s next roundhouse kick missed right over the falling goat\'s head.
 ......For an instant, the goat hoped to get away with its life.
 But no!!
  A heel was dropped onto the back of its head, and it was forced to kiss the ground.
@@ -1487,7 +1487,7 @@ The permeation upgrade had already stacked several times,
  ......However, I cannot allow things to continue as they are.
  It\'s about time for me to get serious and end this......!!"
 Ronove\'s face turned into an expression he had never shown before.
-{n}It was truly demonic, and to Jessica\'s eyes, full of respect.
+It was truly demonic, and to Jessica\'s eyes, full of respect.
 Because it was an expression only shown to enemies strong enough to make him get serious.
 "Whooaa?!?!
  What the heck?!"
@@ -1499,7 +1499,7 @@ And on top of that, with all of Ronove\'s magical power, it pushed Jessica back 
 Jessica tried to break through the wall with both fists, but it was solid.
  ......Without any exaggeration, it was solid!
 "You call this serious...?!!
- No problem... I\'ll break right through iiiii{-}i{-}i{-}i{-}iiitt!!"
+ No problem... I\'ll break right through iiiiiiiiiiitt!!"
 "I will not let you this time.
  This wall is somewhat different.
  ......Here, allow me to enchant it as well."
@@ -1519,7 +1519,7 @@ Every time she pounded her fists against the wall, pain rebounded upon her as th
 "Or, I might break through it and smash that whole wall along with your face, ever think about that?!
  Just watch meeeeeeeeeee!!"
 Without hesitation, Jessica slammed both fists into the wall.
-{n}Each time she did, a large amount of shards scattered, tormenting her body all over.
+Each time she did, a large amount of shards scattered, tormenting her body all over.
 Countless red cuts soon appeared all over her body...
 She grimaced at the intense pain, but her eyes were burning with fighting spirit, and her lips curved in a grin exactly the opposite of the pain...!
 "Kanon, are you done yet?!
@@ -1529,16 +1529,16 @@ She grimaced at the intense pain, but her eyes were burning with fighting spirit
 "There\'s no end to these guys...
  The bars might break just from them shoving each other!"
 The metal bars creaked under the strain of the group of goats.
-{n}Several arms grabbed the bars, twisting them with superhuman strength.
+Several arms grabbed the bars, twisting them with superhuman strength.
 ......However, some bars were being pulled in opposite directions by different hands.
  Apparently they really were stupid.
 The way those countless hands were grabbing the metal bars......happened to match up by chance.
 Several hands grasping two metal bars neatly put their power together and pulled the bars to the left and right, creating an opening.
 The incredible sound of metal bending could be heard, and that gap was getting larger bit by bit...!
 They attacked the arms of those goats one by one, but they weren\'t getting anywhere.
-{n}They couldn\'t stop the gap from expanding left and right...!
+They couldn\'t stop the gap from expanding left and right...!
 A loud metallic sound came from behind them.
-{n}Kanon had finally finished cutting.
+Kanon had finally finished cutting.
 "Quickly!!"
 "Kyrie‐san, ladies first.
  You next, Doctor Nanjo!"
@@ -1604,11 +1604,11 @@ The narrow underground passage was packed with goats, truly like a commuter trai
 ".........Hm? What do you want?
  Come this way, you say??"
 The five people in Krauss\'s group dashed through the passageway with all their strength!
-{n}They couldn\'t afford to dawdle around underground.
+They couldn\'t afford to dawdle around underground.
 They had to quickly join up with the children on the surface!
-{n}Once everyone was together, there would no longer be anything to fear!
+Once everyone was together, there would no longer be anything to fear!
 Just then, a terrible rumble started closing in from behind.
-{n}Had the pursuers finally made it through the metal bars?!
+Had the pursuers finally made it through the metal bars?!
 But they couldn\'t see anyone when they turned around.
 But that rumble and the dirt falling here and there from the ceiling grew closer and closer,
  finally catching up with them and even going past them.
@@ -1695,10 +1695,10 @@ Maybe it really was happy even to receive such a dubious prize.
  I\'ll settle this with a single strike......"
 Hoh‐hoh‐hoh‐ho...
  How unwise.
-{n}I know what you\'re gunning for.
-{n}The distance between the two of them is more than 10 meters.
+I know what you\'re gunning for.
+The distance between the two of them is more than 10 meters.
 If the goat and Krauss both step in with all their strength to settle the fight with a single blow, their power will be double the norm.
-{n}Both will crash together, so it will be a relative 4 times normal.
+Both will crash together, so it will be a relative 4 times normal.
 Even if, on top of that, the strike miraculously lands on a weak point for a critical hit, that will only double the power.
 .........In short, Krauss\'s maximum power level of 6, times 8, will cap out at 48 at the most.
 He might just barely be able to win if he repeated that lucky shot a full 20 times.
@@ -1737,7 +1737,7 @@ Sorry, my little goat sister...your onii‐chan caused you nothing but trouble.
 And I, ...a‐actually have a childhood friend, and I\'m going to marry her when I get hoooooome!!!
 "Gyaaaaaaaaahh!!!
  Nooooooooooo!!
- Don\'t trip so many loser flaaaaaa{-a{-}a{-}a{-}aags}!!"
+ Don\'t trip so many loser flaaaaaa{-aaaaags}!!"
 "You can\'t handle that punch, dodge iiiiiiiiiit!!"
 It happened the instant before the two crashed and their punches crossed.
 "Foolish, {f:5:Virgilia}.
@@ -1749,7 +1749,7 @@ The very instant the goat\'s left straight and Krauss\'s right straight crossed!
  The goat obeyed {f:5:Virgilia}\'s order with super‐fast reflexes and pulled back his straight, deflecting Krauss\'s punch!
 ".........mmgh—"
 Yes, {f:5:Virgilia}\'s decision was probably wise.
-{n}After all, the number of loser flags act as a multiplier on the opponent\'s power level!
+After all, the number of loser flags act as a multiplier on the opponent\'s power level!
 "That was close.
  If you had taken that punch after tripping so many loser flags, imagine just how great a force it would have been multiplied to...!!"
 "Come on, from there, smash the completely open right side of his face with a right straight!!"
@@ -1768,11 +1768,11 @@ Yes, {f:5:Virgilia}\'s decision was probably wise.
  Even with 20 loser flags,
  ......that\'s still not enough!"
 Krauss\'s and the goat\'s double rush make it x4.
-{n}With a miracle on their side, the firm promise of a critical hit would double it again for x8.
+With a miracle on their side, the firm promise of a critical hit would double it again for x8.
 On top of that, a multiplier of x20 equal to the number of tripped loser flags applies, making it x160.
 At a glance, that looks like an incredible amplification, but even so, Krauss\'s power level is 6.
-{n}Even multiplied by 160, it only makes for a power level of 960.
-{n}Just a fraction below the goat\'s 1000...!
+Even multiplied by 160, it only makes for a power level of 960.
+Just a fraction below the goat\'s 1000...!
 "That\'s why I said you weren\'t composed.
  You made a blunder.
  If they had crashed like that, you would have won."
@@ -1798,11 +1798,11 @@ The two punches crossed, and time stopped as each aimed for the face of the othe
  ......That\'s just no good.
  I\'m afraid this is a complete loss for your goat."
 A cross‐counter has four times the destructive power.
-{n}This is common knowledge in boxing.
+This is common knowledge in boxing.
 And if that is deflected, and the right straight hits, then the double cross‐counter has 8 times the destructive power.
-{n}This is also common knowledge in boxing.
+This is also common knowledge in boxing.
 If that is crossed......
-{n}By the principle of leverage, the triple cross then multiplies the destructive power by 12!
+By the principle of leverage, the triple cross then multiplies the destructive power by 12!
 This is also painfully common knowledge in the world of boxing!!
 ".........Krauss‐san\'s power level is 6."
 "A double multiplier from both sides for rushing in, making it times 4."
@@ -1823,14 +1823,14 @@ As the sparkling drops from the goat\'s eyes scattered, he softly toppled backwa
 "Ugyaa!!
  Heavyyyyyyy, get oooffffff!"
 The goat\'s massive body was too heavy for the slender {f:5:Virgilia}.
-{n}She floundered around with it on top of her, but it didn\'t look like she would be able to escape.
+She floundered around with it on top of her, but it didn\'t look like she would be able to escape.
 In that instant, the barrier {f:5:Virgilia} had sealed broke.
 "No hard feelings, please.
  Underestimating the principle of leverage was the cause of your defeat."
 "......I wonder why the principle of leverage worked on that counter.
  It\'s an eternal mystery."
 "Let\'s escape while we can...!!
- You take care, {nobr:Mr. Goat}...!"
+ You take care, Mr. Goat...!"
 "W‐well then, excuse us, {f:5:Virgilia}‐sama!"
 ".........*bow*."
 "Waaaaaaaaiiit!!
@@ -1838,9 +1838,9 @@ In that instant, the barrier {f:5:Virgilia} had sealed broke.
  Get this thing off meeeeee!!
  Kiiii!! Gapgapgapgap!!!"
 There was nothing more to block their way.
-{n}......They ran through the underground passage with single‐minded purpose...!
+......They ran through the underground passage with single‐minded purpose...!
 Jessica had finally been cornered with the wall at her back.
-{n}......Ronove\'s magic barrier was advancing bit by bit, and would probably crush her against the wall before long.
+......Ronove\'s magic barrier was advancing bit by bit, and would probably crush her against the wall before long.
 Considering the distance...this would be the final strike, the final throw of her iron fist.
 Jessica had dealt out many punches so far.
 ......The wall wasn\'t invincible.
@@ -1861,7 +1861,7 @@ However, due to the rebounding damage,
  ......It seems that you plan on putting all of your strength into this final strike.
  However, that final strike will instead prove fatal for you."
 The damage reflected by Ronove\'s magic barrier was proportional to the strength of the attack.
-{n}Jessica\'s all‐out punch would be bounced back onto her.
+Jessica\'s all‐out punch would be bounced back onto her.
 ......The more all‐out she went, the more suicidal it would be for her.
 "I, I get it......
  I know that........."
@@ -1879,7 +1879,7 @@ And on top of that,
 ......If she wasn\'t careful, that destructive power might pierce the defensive wall, smash Ronove as well,
  and then go on to expand the size of her bedroom by connecting it to the room next door.
 ......However, that damage would rebound on Jessica as well.
-{n}She wouldn\'t escape unharmed!
+She wouldn\'t escape unharmed!
 "I will say it just one more time.
  Stop.
  I say this out of consideration for you!"
@@ -1892,7 +1892,7 @@ The three goats had been beaten down long ago.
 ......He was after her.
  He was planning on bringing her down with a single strike...
 Gaap was also aiming for a single strike.
-{n}.........If she let that chance slide, this time, she would be killed......
+.........If she let that chance slide, this time, she would be killed......
 "......Aren\'t you going to use your pitfalls?"
 "............Ack......"
 Even the tiny moment of weakness during the time it took to open the hole would prove fatal against George now.
@@ -1912,26 +1912,26 @@ Gaap opened a vast pit with her in the center, and swallowed up George along wit
 The two were swallowed up by the pit, and spat out from the ceiling of the arbor.
 But that was what Gaap had been after, so she alone landed lightly.
  ......But there was another pit in George\'s landing spot.
-"Ehheheheheheheh, aaaahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!!
- Got you, Ushiromiya Geooooooo{-}o{-}o{-}orge!!"
+"Ehheheheheheheh, aaaahhahahahahahahahahaha!!!
+ Got you, Ushiromiya Geoooooooooorge!!"
 "It\'s been fun die now,
  it would be a waste for someone as good as you to end up as the Ushiromiya family head,
  so I\'ll eat you up right here, right now!!!
- Oooooorrrrrooo{0}o{0}o{0}o{0}o{0}o{0}oa{0}a{0}a{0}aahhh!!"
+ Oooooorrrrroooooooooaaaaahhh!!"
 George once again fell from the ceiling of the arbor.
  He had probably been dropped the same distance as falling off the roof of a two‐story building.
 In midair, he couldn\'t control his posture in any way.
-{n}It was impossible to resist or defend or avoid!!
+It was impossible to resist or defend or avoid!!
 As Gaap spun like a whirlwind, she concentrated all of her energy on the sharp tip of her stiletto heel.
 ......This was the final strike...to perform his requiem.
-{n}The queen bee\'s final strike, that would bore into heaven, knocking him down into the true Abyss!!
+The queen bee\'s final strike, that would bore into heaven, knocking him down into the true Abyss!!
 "Welcome to the Abyss!!
  This is the end of the line for you!!!"
 Her prey captured in her sight, she launched her foot up into the sky.
 ......It was then that she saw George\'s face.
  .........Even though he was in midair, he was calmly adjusting his glasses with the middle finger of his left hand.
 And his posture was still preserved as that of an axe kick.
-{n}Aiming for Gaap\'s forehead, without the faintest deviation......
+Aiming for Gaap\'s forehead, without the faintest deviation......
 ".........I already anticipated that you would opt for that move."
 "............Wh...at.........?"
 "If I\'d jumped to make the person that was {i:on the ground} taste my heel, my posture would have collapsed long ago.
@@ -1942,10 +1942,10 @@ And his posture was still preserved as that of an axe kick.
 mean......"
 "From the very beginning,
  ......I jumped to make the person that was two stories below taste my heel!!!"
-"Uungh, ......ooooooo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}h{0}h{0}h{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhhh!!!"
+"Uungh, ......oooooooooooooohhhaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhh!!!"
 "You lose, missy!!!"
 "Bing‐bong."
-"Unnggggrrrroooooaaaaaaahhh, take thiiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiiss!!!"
+"Unnggggrrrroooooaaaaaaahhh, take thiiiiiiiiiiiiiiiiiss!!!"
 Jessica\'s last and strongest upwards punch...
 reached the wall,
  ......and was sucked in.
@@ -1971,7 +1971,7 @@ The equally‐as‐shocking destructive power in George\'s axe kick smashed half
 Beato and Gaap gave each other a light high five.
 "......hhh...
 ...aaahh...
-............hhhhhhuuAAAA{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}AAHHH!!!"
+............hhhhhhuuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHH!!!"
 "Thanks, Ronove.
  That was a treat.
  I\'ll return Jessica\'s corpse back there.
@@ -1986,7 +1986,7 @@ Ronove shook his head slightly at this all‐too‐gruesome change.
  I did warn you."
 "Of course,
  ...I suppose it\'s only natural that a {y:0:Human}{n:0:human} like yourself can\'t understand the demonic pleasure I derive from foreseeing this conclusion and giving you repeated warnings that I know you won\'t listen to.
- ......Pukkuku{0}ku{0}ku{0}ku{0}ku{0}ku{0}kukuku!"
+ ......Pukkukukukukukukukukuku!"
 "It really was fun, kiddo.
  ......But you play with words a little too much.
  ......I think ‘If you\'re ready, may I fight back’ was the absolute classic?
@@ -2011,7 +2011,7 @@ Her stiletto heel, sharp as a weapon, was impaled through George\'s forehead.
 She......pulled it out with a blorp......
 It was like a mark of proof that Gaap had indeed finished him by her own hand......
 Ronove returned Jessica\'s corpse to its original form as well.
-{n}......And unlike how it had been with George, he also restored Jessica\'s life......
+......And unlike how it had been with George, he also restored Jessica\'s life......
 "...U‐...nff, .........*cough*, *cough*......
 ......what in the.........world......
  ......A dream......?"
@@ -2099,7 +2099,7 @@ Jessica realized that she was about to return to the corpse she had been.
  .........the one to test you...
 might be the newly resurrected {f:5:Beatrice} herself..."
 By now, Battler had no idea what Jessica was saying.
-{n}But from her tone, he realized that she knew she was about to die.
+But from her tone, he realized that she knew she was about to die.
 So even though he didn\'t understand the situation, he urged her to hang on in there.
 "......Haha, I told you, I\'m already dead.
  .........See ya.
@@ -2113,12 +2113,12 @@ So even though he didn\'t understand the situation, he urged her to hang on in t
  Jessicaaaaaaaaaaa!!"
 Battler\'s sorrowful voice could be heard from the dangling receiver.
 ......Crouching with her back against the adjacent wall...
-{n}......Jessica\'s head was half smashed.........
+......Jessica\'s head was half smashed.........
 "Where are we......?"
 "...Is this...a well......?
  Where is this...?"
 Kyrie stuck her face out of the well, and then Krauss showed himself too.
-{n}When he noticed that they could see the back of the mansion beyond a grove of trees, Krauss realized more or less where they were.
+When he noticed that they could see the back of the mansion beyond a grove of trees, Krauss realized more or less where they were.
 ......To think that there had been a hidden underground passage in a well all the way out here,
  and that it led to a hidden mansion......
 "Th‐this really is tough on this old body......
@@ -2129,7 +2129,7 @@ Kyrie stuck her face out of the well, and then Krauss showed himself too.
 "I, ......I\'m okay.
  Kanon‐kun, quickly."
 Kanon was the last, climbing up the ladder towards them in the shaft disguised as a well.
-{n}......It was probably quite deep.
+......It was probably quite deep.
 When he looked down, for the first time, he realized how far he\'d come up.
 "Nihi. Firing."
 Bang.
@@ -2181,7 +2181,7 @@ Kyrie ran wildly through the hallway, flew into some room, and locked the door.
 .........But she couldn\'t imagine for a moment that this would save her life.
 She would probably die soon!
 This was apparently one of the guest rooms.
-{n}......At that moment, a phone on a side table caught Kyrie\'s eye...
+......At that moment, a phone on a side table caught Kyrie\'s eye...
 After hanging up the call from Jessica, Battler was literally just about to dash out.
 In that instant, the phone rang again.
 "H‐hello!!!
@@ -2316,7 +2316,7 @@ a demon or a witch does appear in front of you..."
  ......Forgive me...for those days."
 "What do you mean, {i:forgive} you? Kyrie‐san, you are a {i:mother} to me now!!"
 I felt as though I heard an incredible sound at the other end of the receiver.
-{n}And then, a noisy clattering sound.
+And then, a noisy clattering sound.
 ......As though the receiver had fallen to the floor.
 "Kyrie‐san?!?!
  Kyrie‐san!!!

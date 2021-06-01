@@ -14,7 +14,7 @@ But from the witch side, a random shot might become fatal.
  At the very end of your games with the old me..."
 It was a strange question.
 In the past, Beato had always been the one posing it to Battler.
-{n}But now that Battler had figured it out, Beato was the one asking him about it...
+But now that Battler had figured it out, Beato was the one asking him about it...
 "......It\'s the exact opposite.
  ......In the past, only you remembered, ......and only I forgot.
  But now, it\'s the other way around.
@@ -133,8 +133,8 @@ After looking at her blankly for a second, {f:5:Lambdadelta} spoke her opinions 
 "Wha......uh......"
 The victims had sealed the locked rooms themselves.
 And that state had been preserved until Krauss and the others had broken the locked rooms open.
-{n}And no one had been inside the locked rooms except for the victims.
-{n}And Krauss\'s group, the ones who had broken the room open, were not the culprits......
+And no one had been inside the locked rooms except for the victims.
+And Krauss\'s group, the ones who had broken the room open, were not the culprits......
 ......Erika\'s battle had proceeeded in this way, with her detailed repetition requests winning her several other little red truths just like these.
 Normally, simply collecting such vital information would have been enough.
 However, the witch who was her master was tired of boredom,
@@ -174,11 +174,11 @@ Her knowledge and powers of memory and insight were ahead of the pack, and most 
 However, no matter how superior she might be to other humans,
  ......that didn\'t matter in a game of witches.
 In a witch\'s game, it\'s either 0 or 100.
-{n}In other words, everything is either the red truth, or it isn\'t.
+In other words, everything is either the red truth, or it isn\'t.
 If a normal human\'s abilities were worth a 10, her exceptional power would probably rate a 99.
  ......However, it could never be 100.
 Since it was less than 100, it wasn\'t absolutely certain.
-{n}So it didn\'t count as red truth.
+So it didn\'t count as red truth.
 For example, ......the examination of the corpses that Erika had worried over in the fight just now.
 If she had performed it with the detective\'s authority, she could have said with 100% certainty whether they were alive or dead.
 However, without the detective proclamation, it was 99%.
@@ -259,7 +259,7 @@ wasted...!!
 ".........uugh..."
 {a:c:
 "......Sounds like you\'re having a great time in here.
-{n}Am I interrupting?"}
+Am I interrupting?"}
 Gold butterflies gathered in the darkness and took the shape of Battler.
 Though he had just arrived, he seemed to realize immediately that the mood was dark.
 ".........Ah, Battler.
@@ -280,7 +280,7 @@ Though he had just arrived, he seemed to realize immediately that the mood was d
 ".........Battler......"
 "Ev...en......tie...?"
 {f:5:Bernkastel} noticeably grimaced.
-{n}Erika averted her eyes and hung her head, timidly...
+Erika averted her eyes and hung her head, timidly...
 "I know what you\'re thinking.
  That wasn\'t a draw,
  you should have won easily so it counts as a loss."
@@ -485,7 +485,7 @@ Now, she finally had enough leeway to fight as she pleased.
 ......She ground her teeth at being pitied by Battler, but her tears were not those of shame.
 "......{f:5:Understood}.
  Three rooms\' worth of duct tape seals, {f:5:accepted}.
- ......Regarding this matter, should we consider them as being accepted retroactively, back when Lady {f:5:Erika} received the non‐sticky duct tape from {nobr:Mrs. Kumasawa}?"
+ ......Regarding this matter, should we consider them as being accepted retroactively, back when Lady {f:5:Erika} received the non‐sticky duct tape from Mrs. Kumasawa?"
 Erika had borrowed duct tape from Kumasawa to make seals with.
 However, Battler had made it so that those were not sticky...
 If he made it so that there never was any problem with the stickiness of that duct tape, the transition could be made smoothly.
@@ -543,10 +543,10 @@ As he did, he thought he heard Erika let out a strained voice calling him to a s
  ......Thank you......
  .........Thank you............uuughhu......"
 Battler departed into the darkness, became a cloud of gold butterflies, and vanished...
-{n}Erika remained behind, sobbing......
+Erika remained behind, sobbing......
 ......uuughhu......*hic*......
  Just
- kidding{p:0:☆}
+ kidding☆
 "You\'re easy pickings, you stupid man.
  ......You fell right for it and gave me the tape...!
  ......You gave...the great Furudo Erika...
@@ -581,7 +581,7 @@ The illusion that Erika was at an overwhelming disadvantage was just an act.
 "With this, I can kill Battler perfectly...!
  I figured out his moronic locked rooms long ago...!
  A perfect locked room?
- Dumb{-}aa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}ass!!"
+ Dumbaaaaaaaaaaaaass!!"
 "I\'ll show you a real perfect locked room!
  And I could cry for joy at the fact that you gave me the weapon that will finish you...!
  My master! And Lady {f:5:Lambdadelta}...!
@@ -606,7 +606,7 @@ Dlanor looked at Erika in a slightly lonely way.
 ".........You knew that this was a no‐holds‐barred {f:5:fight}...
  .........Foolish, Lord {f:5:Battler}.
  This is, without a doubt, the result of your {f:5:arrogance}."
-............{nobr:Mr. Battler}, ...this will prove {f:5:fatal}......
+............Mr. Battler, ...this will prove {f:5:fatal}......
 "First of all, congratulations are in order, wouldn\'t you say, Furfur?!"
 "Yes, because we have learned that each and every one of the lovers possesses a strong will!"
 ""This is a victory for love...!
@@ -640,7 +640,7 @@ The two demons nodded, taking note of the six\'s continued resolve.
 "We\'ve decided to have this trial eliminate one group no matter what!"
 "For this trial, we will borrow from the second twilight of the epitaph—"
 ""‘Tear apart the two who are close!!’
- Ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!""
+ Ahahahahahahahahahahahahaha!""
 "......I don\'t understand."
 "Zepar‐sama, Furfur‐sama......what sort of trial is this?
  ......Do you mean we\'re going to kill each other...?"
@@ -716,7 +716,7 @@ could team up with whichever pair they liked with no risk to themselves, defeati
 "Sounds troublesome.
  ......It means that it isn\'t to your advantage to move first."
 If you take the initiative to fight, it\'s a matter of luck.
-{n}If you sit and wait for the others to start fighting, it\'s certain victory.
+If you sit and wait for the others to start fighting, it\'s certain victory.
 ......The fight would never begin in circumstances like this...
 "......Maybe we could just have everyone fight the person next to them one on one.
  ......Then, as soon as one fight is settled, the trial will be over."

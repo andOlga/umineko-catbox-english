@@ -1,13 +1,13 @@
 The Ushiromiya family conference was held once every year.
-{n}It took place on the first weekend of October.
+It took place on the first weekend of October.
 If a normal family were to use a pretentious name like "family conference",
  you\'d expect it to be nothing more than a reunion of rarely seen relatives who greet each other surrounded by buckets of sushi.
 However, in the Ushiromiya family, where the sons and siblings are lent great fortunes,
  and only those that achieve success in business are considered adults, it literally was a conference.
 How much of the fortune was invested? What kind of business was conducted? How much was earned?
 As a result, how much of the fortune borrowed from the main family could be repaid?
-{n}Or, alternatively, how much would be borrowed for future business ventures?
-{n}What lessons had they learned, and what could they learn from their mistakes?
+Or, alternatively, how much would be borrowed for future business ventures?
+What lessons had they learned, and what could they learn from their mistakes?
 It seems that topics like these had been discussed very seriously in the past.
 My dad called it a bed of nails.
 Apparently, it used to be a very serious family meeting, where one would commonly be showered with harsh and angry voices, and even get slapped in the face despite being well past the age for it.
@@ -20,9 +20,9 @@ The absence of the man responsible for all this, whatever the reason behind it, 
 The phrase "when the cat is away, the mice will play" comes to mind.
 Well then, let me introduce Jessica\'s father, whose face I haven\'t seen for six years.
 The man sitting to my dad\'s left is his older brother and the father of Jessica,
- Uncle {p:0:蔵臼}.
+ Uncle 蔵臼.
 ......This name sure is easy to read.
- Krauss ({p:0:蔵臼}).
+ Krauss (蔵臼).
 ...After so many weird names, it warps your sense of what\'s normal, and you start to think,
  "hey, what\'s wrong with Krauss,
  sounds pretty cool actually"...
@@ -42,7 +42,7 @@ Jessica, in order to escape the discussion of exams with the old bastard sitting
 Moving on, let\'s look at the end opposite from Uncle Krauss and the others.
 In the very last seat at the table, an old gentleman with a sturdy physique sat facing Kyrie‐san.
  This was my first time meeting him.
-I had only just been introduced to him, but it seems that he\'s Grandfather\'s personal doctor, a man called Nanjo ({p:0:南條}).
+I had only just been introduced to him, but it seems that he\'s Grandfather\'s personal doctor, a man called Nanjo (南條).
 Apparently he used to own a huge clinic on the nearby Niijima island, but he turned it over to his son and then began living a life of leisure in his old age.
 He\'s known Grandfather since the very beginning when the mansion was first constructed on this island, and they have a history going back several decades.
 I thought he might be Grandfather\'s companion in his suspicious hobbies, but, surprisingly, it seems that he\'s Grandfather\'s chess partner.
@@ -54,14 +54,14 @@ From listening in on his conversation with the womenfolk seated near him, he gav
 From that fact, I imagine that Grandfather\'s condition has grown much worse,
  and it may even be one of the major topics of discussion at the family conference...
 George‐aniki was just saying it, too.
-{n}For the past year, Grandfather has been continually pronounced as having very little time left to live.
+For the past year, Grandfather has been continually pronounced as having very little time left to live.
 ...It\'s awful to talk about, but Grandfather is an extremely rich man.
-{n}At the time of his death, his wealth will suddenly be released, along with our parents\' stomach acid, surely leading to some serious ulcers.
+At the time of his death, his wealth will suddenly be released, along with our parents\' stomach acid, surely leading to some serious ulcers.
 With this kind of thing, the greater the number of ways it must be split, the more trouble will be caused splitting it.
 ...This kind of talk would probably also be included in the family conference.
-{n}...Oh well, it\'s not like it has anything to do with us children.
+...Oh well, it\'s not like it has anything to do with us children.
 ......Finally, even though he\'s absent, let me introduce our Grandfather.
-The person who should be sitting in that seat of honor is Ushiromiya Kinzo ({p:0:金蔵}).
+The person who should be sitting in that seat of honor is Ushiromiya Kinzo (金蔵).
 ...It really sucks.
  He gave everyone else in the family these weird names, but he himself uses one which is conservative as all hell.
 If only his name were written with those same characters for "gold" and "vault", but he let us call him "Goldsmith" or something,
@@ -82,9 +82,9 @@ The spinning mills in Tokyo were all burned down in a huge fire,
 It then became a matter of who would become the heir to the main family, and as it turned out, none were left except for Kinzo, who was as far removed from the main family line as they come.
 Kinzo himself later said that it was such good luck, it was as though fate itself had been turned upside‐down.
 With that, Grandfather\'s ordinary life did a 180.
-{n}He was entrusted with reviving the wealth that the dying Ushiromiya family had almost completely lost.
+He was entrusted with reviving the wealth that the dying Ushiromiya family had almost completely lost.
 Of course, just because you suddenly dump a task on someone doesn\'t mean they can do squat to accomplish it.
-{n}I doubt the people around him were expecting much.
+I doubt the people around him were expecting much.
 But this is where Grandfather began to display his extraordinary talent and good luck.
 Grandfather used all of the family funds, and everything from the hair on his head to his toenails, as collateral to borrow a massive amount of money,
  created a gigantic supply of funds, and immediately started a business.
@@ -103,26 +103,26 @@ No, more than that, he must have foreseen these special procurements and started
 History textbooks say that all of Japan made a large profit off the emergency demands for the Korean War, but that wasn\'t the case in reality.
 Only a very limited number of the super‐rich played the money game and made an easy profit.
 Most of the citizens remained poor.
-{n}......In other words, Grandfather was an extremely lucky member of this group of winners.
+......In other words, Grandfather was an extremely lucky member of this group of winners.
 This all happened...during the year {ruby:Showa 25:1950}, I think?
-{n}And since the year of the Great Kanto Earthquake was {ruby:Taisho 12:1923}...
+And since the year of the Great Kanto Earthquake was {ruby:Taisho 12:1923}...
 ......that means Grandfather was able to revive the near‐dead Ushiromiya family, to a level even higher than it had been before, in the span of only twenty to thirty years.
 With that, you\'d think that he would revive the main family in Odawara,
  but for some reason, he went and did something as crazy as buying an entire small island in the Izu Archipelago.
 Buying an entire island is not something that you can ordinarily do today.
 However, Grandfather was clever.
-{n}He contacted the GHQ and applied for the establishment of a marine resource base.
+He contacted the GHQ and applied for the establishment of a marine resource base.
 He acquired this island as a business property, and then reneged on it and claimed it as his own plot of land.
 After the war there were prevention measures against food shortages, and, furthermore, he had the sponsorship of the GHQ, which meant that nobody could oppose him.
 It seems that Tokyo provided the land for next to no money at the time.
 Tokyo later made repeated complaints for the land to be returned, but not much could be done due to the involvement of the GHQ, even though they\'d been pushed into it.
 No doubt he\'d bribed everyone there was to bribe.
-{n}In the end, the city gave up in frustration.
+In the end, the city gave up in frustration.
 Grandfather, with considerable skill and blessed with good luck, managed to weather the stormy seas of that period,
  obtaining a vast fortune and his own island.
 Of course, it wasn\'t all luck.
-{n}He was skilled with English, and this was cultivated by his Western obsession.
-{n}It was by using that as a weapon that he was able to make inroads into the GHQ.
+He was skilled with English, and this was cultivated by his Western obsession.
+It was by using that as a weapon that he was able to make inroads into the GHQ.
 A mansion was immediately built on the island.
  That would be this mansion.
 Grandfather, who had always loved the West, made this once uninhabited island, Rokkenjima, a canvas upon which he could realize his dreams to his heart\'s content.
@@ -154,7 +154,7 @@ If that had happened, he\'d probably be sitting here with the rest of us, regali
 No, no—not here, in the dining hall of a mansion—we might have been around a table at some bar.
 If that were the case, I\'m sure that this would have been a more comfortable family conference.
 Alright, that\'s enough talk about the old geezer who won\'t pop off.
-{n}More importantly, let\'s talk about this incre~dible lunch!!
+More importantly, let\'s talk about this incre~dible lunch!!
 "I was already sold by the sashimi salad!
  Gohda‐san is one hell of a chef!
  Plus, these fish were caught in the oceans near here, weren\'t they?
@@ -204,9 +204,9 @@ Maria exclaimed as she sampled the two colored sauces.
 "What, there\'s a right one and a wrong one?! Alright, I\'ll give it a go~!
  Mmmmm?!"
 Apparently the two sauces were one sweet and one sour.
-{n}Despite it being bad manners, I also stuck my little finger in and licked it.
+Despite it being bad manners, I also stuck my little finger in and licked it.
 Whoa, one of them was sour enough to make you pucker up.
-{n}If it were yellow, I\'d have suspected lemon, but I couldn\'t guess what kind of sourness would be red.
+If it were yellow, I\'d have suspected lemon, but I couldn\'t guess what kind of sourness would be red.
 I decided to ask Shannon, who was putting away the serving cart behind us.
 "Shannon‐chan, what kind of sauce is this sour stuff?"
 "......Umm......
@@ -214,8 +214,8 @@ I decided to ask Shannon, who was putting away the serving cart behind us.
 ......u..."
 Shannon‐chan hesitated to speak.
 Maybe she was just setting the table and doesn\'t really know.
-{n}She\'s hesitating a bit much for that, though.
-{n}......Did I ask something wrong?
+She\'s hesitating a bit much for that, though.
+......Did I ask something wrong?
 Or did they use something that we\'d be better off not knowing about?
 While Aunt Natsuhi acted as though she had a headache, Kumasawa‐san, who was setting the other side of the table, began to laugh with a "hoh‐hoh‐ho".
 "What do you think we made it out of?
@@ -237,7 +237,7 @@ Kumasawa‐san leaned across from the other side of the table.
  ......Actually, it\'s squeezed juice from a mackerel, hoh‐hoh‐ho!"
 """WHAT, mackerel?!?!"""
 "Don\'t be ridiculous," we all thought, horrified.
-{n}Only Maria accepted it, nodding with an "uh‐huh".
+Only Maria accepted it, nodding with an "uh‐huh".
 "Uu?
  Mackerels are sour.
  If you squeeze them, this comes out!"
@@ -246,12 +246,12 @@ When Maria started clamoring that mackerel were sour, the adults were unable to 
 "You\'ve got it wrong, that\'s vinegared mackerel!"
 Auntie Rosa said to Maria in a small voice while turning red.
 Ahhhh, now I remember it perfectly.
-{n}Kumasawa‐san was always this kind of a character, wasn\'t she?
-{n}I think I remember her tricking me about all kinds of things when I was young as well!
+Kumasawa‐san was always this kind of a character, wasn\'t she?
+I think I remember her tricking me about all kinds of things when I was young as well!
 Amongst all of them, the most painful must have been that one!
-{n}That flimsy black stuff you get in Chinese food!
+That flimsy black stuff you get in Chinese food!
  Kikurage mushrooms!
-{n}She told me it was penguin meat and I went all around school like a smartass telling everyone, didn\'t I?!
+She told me it was penguin meat and I went all around school like a smartass telling everyone, didn\'t I?!
 "Kumasawa baa‐chan, you sure haven\'t changed...!
  You know Maria\'s gonna believe now, right?"
 "Hoh‐hoh‐ho, it\'s just a joke!
@@ -272,7 +272,7 @@ Seriously, should you call him meticulous or just talented?
 The dessert was probably planned from the beginning, but he took a cue from our stopping in front of the rose garden earlier today,
  and displayed an incredibly timely awareness of the season by just adding a few rose petals from that garden.
 This combination of sweet and sour was also exquisite.
-{n}If it was just sweet, you\'d just get used to it and become bored halfway through.
+If it was just sweet, you\'d just get used to it and become bored halfway through.
 But by bringing in the sour sauce at that point, you get a really vivid taste.
  And then, once you return to the sweet sauce, all of the sourness in your mouth is replaced with an enjoyable sweetness again.
 I\'m sure everyone else felt the same way.
@@ -347,7 +347,7 @@ Of course, there were those who well understood Shannon\'s meek nature and her i
  I would be delighted to help."
 To Shannon, Kumasawa was like a mother among the servants.
 The dining hall needed to be cleaned up, so we were chased out.
-{n}Instead, tea would be served in the parlor.
+Instead, tea would be served in the parlor.
 It seemed that they would be preparing the black tea that Auntie Rosa had bought for Aunt Natsuhi.
 Maria insisted that she also wanted to drink the black tea, but was rejected by the old bastard, who told her and the rest of us kids to go play outside.
 "Battler‐kun, why don\'t we all go for a walk outside?"
@@ -411,7 +411,7 @@ When Eva smiled with sharp sarcasm, everything seemed to get more tense.
  Right, Rosa?"
 ".................."
 Rosa smiled with a vague expression.
-{n}...Whether she agreed or disagreed, she knew that she would earn the displeasure of either her brother or her sister.
+...Whether she agreed or disagreed, she knew that she would earn the displeasure of either her brother or her sister.
 It was a bit of worldly wisdom she had needed to learn as the youngest sibling.
 "Quit it, Aneki.
  We should enter into the main topic while the brats aren\'t around, right?
@@ -487,7 +487,7 @@ Krauss laughed sarcastically, and Eva, smiling sweetly, returned an identical ch
 "It\'s true that there are people that hate doctors...
  Still, what a hassle!"
 Nanjo sighed deeply.
-{n}The purpose of an examination was to determine what medical treatment was appropriate.
+The purpose of an examination was to determine what medical treatment was appropriate.
 Receiving an examination and then not following the advice given made the whole thing pointless...
 "Then, in summary,
  his expected life is still three months,
@@ -549,7 +549,7 @@ After the doctor had exited and his footsteps had disappeared into the distance,
  but if Father\'s condition is worsening, and the day is drawing near,
  discussing the matter beforehand...isn\'t what I would call impatience..."
 Rosa sneaked a glance at Eva and Rudolf.
-{n}...As the youngest daughter in the family, being cross‐examined by the eldest was harsh.
+...As the youngest daughter in the family, being cross‐examined by the eldest was harsh.
 ".........Hoh.
  Is that your true opinion?
  I didn\'t expect that the most honest and pure‐hearted of the siblings would say something like that.
@@ -651,7 +651,7 @@ Eva, paying this no heed, stared at Krauss with a confident smile.
  Just as Rosa said, I\'m sure it would become popular if he were to open it."
 The lodging they had been guided to had not been constructed with the intent of building a guesthouse.
 ...It was originally constructed as a resort hotel.
-{n}However, even though it had been completed two years ago, there was absolutely no schedule for it to be opened...
+However, even though it had been completed two years ago, there was absolutely no schedule for it to be opened...
 "Nii‐san, it\'s just like all of your enterprises.
  Your attention and planning are both fabulous.
  Then, it always becomes unable to maintain itself partway, and ends without being able to collect any profit."
@@ -772,7 +772,7 @@ me, Eva, the third‐ranked in the Ushiromiya family hierarchy, who is granted t
 While Eva\'s face grimaced unattractively, her words pierced Natsuhi\'s heart like claws, and painfully twisted in.
 "..............................!!!"
 ......There were a hundred ways Natsuhi wanted to respond.
-{n}However, her anger and sorrow crushed her throat, and not one of them managed to make it to her mouth.
+However, her anger and sorrow crushed her throat, and not one of them managed to make it to her mouth.
 ...The anger which had lost any place to go became a single hot tear which slowly dripped down...
 "Whaaat?
  If you have something to say, please, say it now.
@@ -796,7 +796,7 @@ Natsuhi, resenting the fact that her husband had not come to her aid, shifted th
 "I am always thinking so seriously about this family\'s affairs, and you\'ve just taken that and...!!
  UuuUUUuuu, uuuuuuuuuhuhughh!!!"
 Natsuhi could no longer hide her tears.
-{n}She flew from the room in that state.
+She flew from the room in that state.
 After that, all that remained was a somewhat embarrassed mood about the parlor...
 When the sound of footsteps grew distant and silence returned, Krauss shrugged his shoulders slightly.
 "......I apologize for my wife.

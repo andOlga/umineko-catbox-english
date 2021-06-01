@@ -1,94 +1,94 @@
 {e:070:After being forced into an unwanted marriage,
  Natsuhi developed a grudge against the Ushiromiya family and was filled with a desire for revenge.
-{n}(*Trial Summary, p.3)}
+(*Trial Summary, p.3)}
 {e:070:As revenge for financially ruining her birth family,
  Natsuhi also plotted to take over the Ushiromiya family\'s fortune.
-{n}(*Trial Summary, p.4)}
+(*Trial Summary, p.4)}
 {e:070:When Natsuhi learned that the wealth of the Ushiromiya family was for all intents and purposes controlled by Kinzo himself,
  she initiated sexual relations to curry favor with him and managed to ensnare him.
-{n}(*Trial Summary, p.7)
-{n}(*{f:5:Bernkastel} Documents, p.682)}
+(*Trial Summary, p.7)
+(*{f:5:Bernkastel} Documents, p.682)}
 {e:070:To curry favor with Kinzo,
  Natsuhi repeatedly disguised herself as {f:5:Beatrice}, a witch and figment of Kinzo\'s imagination, and engaged in sexual acts.
-{n}Kinzo saw Natsuhi dressed as the mistress from his past and was easily ensnared.
-{n}Additionally, a servant happened to witness her in this outfit, forming part of the basis for the legend of the witch.
-{n}(*Trial Summary, p.8)
-{n}(*Submitted Evidence #17)
-{n}(*{f:5:Bernkastel} Documents, p.802)}
+Kinzo saw Natsuhi dressed as the mistress from his past and was easily ensnared.
+Additionally, a servant happened to witness her in this outfit, forming part of the basis for the legend of the witch.
+(*Trial Summary, p.8)
+(*Submitted Evidence #17)
+(*{f:5:Bernkastel} Documents, p.802)}
 {e:070:However, late at night on 1986‐10‐04, Ushiromiya Battler discovered the hidden gold.
-{n}Natsuhi planned the crimes after the relatives raised a fuss and insisted that Battler should succeed the headship.
-{n}She murdered the children in the "cousins\' room" and tried to frame Battler for the crime.}
+Natsuhi planned the crimes after the relatives raised a fuss and insisted that Battler should succeed the headship.
+She murdered the children in the "cousins\' room" and tried to frame Battler for the crime.}
 {e:070:Furthermore, Genji was murdered because he was opposed to this scheme.
-{n}Later on, Hideyoshi was also murdered.
-{n}After this point, Natsuhi displayed a strong intent to murder all those involved without discrimination.
-{n}(*Trial Summary, p.27)
-{n}(*Supplemental Materials B, p.61)
-{n}(*{f:5:Bernkastel} Documents, p.1103)}
+Later on, Hideyoshi was also murdered.
+After this point, Natsuhi displayed a strong intent to murder all those involved without discrimination.
+(*Trial Summary, p.27)
+(*Supplemental Materials B, p.61)
+(*{f:5:Bernkastel} Documents, p.1103)}
 {e:070:The concrete details of the crimes are as follows:}
 {e:070:1986‐10‐04 24:00.
-{n}Natsuhi decided to commit the crimes.}
+Natsuhi decided to commit the crimes.}
 {e:070:Because Genji refused to assist her when asked, she murdered him.}
 {e:070:She then murdered her husband Krauss in his own room.
-{n}(*Trial Summary, p.40)
-{n}(*Supplemental Materials S, p.8)
-{n}(*{f:5:Bernkastel} Documents, p.1105)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)}
+(*Trial Summary, p.40)
+(*Supplemental Materials S, p.8)
+(*{f:5:Bernkastel} Documents, p.1105)
+(*Great Court Internal Documents: Library of Law A09 #9974)}
 {e:070:Afterwards, she went to the "cousins\' room" on the upper floor of the guesthouse,
  waited for Rosa to join the rest, and killed George, Jessica, Maria, and Rosa.}
 {e:070:She mutilated the necks of the bodies.}
 {e:070:Afterwards, because there were people in the downstairs lounge, she waited in an empty room upstairs.}
 {e:070:She hid in this empty room until the people in the lounge dispersed and went to bed.
-{n}(*Trial Summary, p.41)
-{n}(*Supplemental Materials S, p.10)
-{n}(*{f:5:Bernkastel} Documents, p.1131)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)}
-{e:070:The people in the lounge dispersed just after {nobr:3 a.m.}}
+(*Trial Summary, p.41)
+(*Supplemental Materials S, p.10)
+(*{f:5:Bernkastel} Documents, p.1131)
+(*Great Court Internal Documents: Library of Law A09 #9974)}
+{e:070:The people in the lounge dispersed just after 3 a.m.}
 {e:070:Natsuhi left the empty room and escaped from the guesthouse.}
 {e:070:She returned to her room, where she met up with Kinzo, who had been hiding there.
-{n}They spent the rest of the night there together.}
+They spent the rest of the night there together.}
 {e:070:Kinzo left the room early next morning and concealed himself somewhere near the guesthouse.
-{n}(*Trial Summary, p.41)
-{n}(*Supplemental Materials S, p.29)
-{n}(*{f:5:Bernkastel} Documents, p.1200)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)}
+(*Trial Summary, p.41)
+(*Supplemental Materials S, p.29)
+(*{f:5:Bernkastel} Documents, p.1200)
+(*Great Court Internal Documents: Library of Law A09 #9974)}
 {e:070:Afterwards, Kinzo saw his chance and carried off the bodies of the six victims one by one, hiding them.
  Unfortunately, these hidden bodies have not been found.
-{n}(*Trial Summary, p.42)
-{n}(*Supplemental Materials S, p.37)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)}
+(*Trial Summary, p.42)
+(*Supplemental Materials S, p.37)
+(*Great Court Internal Documents: Library of Law A09 #9974)}
 {e:070:Natsuhi, who had failed in her scheme to cast suspicion on Battler, changed her plan to include the murder of all present.
-{n}(*Trial Summary, p.58)
-{n}(*Supplemental Materials T, p.19)
-{n}(*{f:5:Bernkastel} Documents, p.1348)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)}
+(*Trial Summary, p.58)
+(*Supplemental Materials T, p.19)
+(*{f:5:Bernkastel} Documents, p.1348)
+(*Great Court Internal Documents: Library of Law A09 #9974)}
 {e:070:Predicting that one of those present would eventually want to take a rest in a private room,
  Natsuhi concealed herself inside a closet in one of the guest rooms.}
 {e:070:When Hideyoshi visited that room at approximately 13:00, she murdered him.
-{n}(*Trial Summary, p.61)
-{n}(*Supplemental Materials T, p.26)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)}
+(*Trial Summary, p.61)
+(*Supplemental Materials T, p.26)
+(*Great Court Internal Documents: Library of Law A09 #9974)}
 {e:070:Natsuhi once again concealed herself in the closet from the time the others became aware of the incident to the time that they carried out Hideyoshi\'s body.
-{n}Furthermore, as proof of this, a button from Natsuhi\'s clothes was found in the closet.}
+Furthermore, as proof of this, a button from Natsuhi\'s clothes was found in the closet.}
 {e:070:Afterwards, she exited the closet and tried to return to her own room.}
 {e:070:However, Furudo Erika discovered her on the way, and Natsuhi confessed to her crimes after questioning.
-{n}(*Trial Summary, p.63)
-{n}(*Supplemental Materials T, p.32)
-{n}(*Submitted Evidence #26)
-{n}(*{f:5:Bernkastel} Documents, p.1348)
-{n}(*{f:5:Lambdadelta} Documents, line 7)
-{n}(*Great Court Internal Documents: Library of Law A09 #9974)
-{n}(*Great Court Internal Documents: Legal Mgmt. U99 #0107)
-{n}(*Great Court Official Notice #01724434)}
+(*Trial Summary, p.63)
+(*Supplemental Materials T, p.32)
+(*Submitted Evidence #26)
+(*{f:5:Bernkastel} Documents, p.1348)
+(*{f:5:Lambdadelta} Documents, line 7)
+(*Great Court Internal Documents: Library of Law A09 #9974)
+(*Great Court Internal Documents: Legal Mgmt. U99 #0107)
+(*Great Court Official Notice #01724434)}
 {e:070:Great Court Official Notice #01724434
-{n}Trial of Illusions #0147‐007982 (1986‐10‐05 24:00) decides as follows:
-{n}{n}Ushiromiya Natsuhi confessed to the crimes.
-{n}{n}For a period of 13 months following this announcement, related documents may be perused at the Great Court Legal Offices Document Management Center, First Subsection.
-{n}{n}Great Court Deputy Attorney General
-{n}Chief Inquisitor
-{n}Dlanor A. Knox}
+Trial of Illusions #0147‐007982 (1986‐10‐05 24:00) decides as follows:
+Ushiromiya Natsuhi confessed to the crimes.
+For a period of 13 months following this announcement, related documents may be perused at the Great Court Legal Offices Document Management Center, First Subsection.
+Great Court Deputy Attorney General
+Chief Inquisitor
+Dlanor A. Knox}
 "Then just say that I did it, okay?!
  That\'s what you want me to say, right?!
- Waa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhhhh...!!!"
+ Waaaaaaaaaaaaaahhhhhh...!!!"
 As though she had given up and decided that it would be useless to try and talk her way out of this any longer,
  Aunt Natsuhi said that and screamed.
 ......It was a sad incident.
@@ -137,7 +137,7 @@ Then, .........she confessed to her sin.
  this is not about what has happened today and yesterday.
  .........I confess to a murder that occurred 19 years ago."
 The adults all whispered together, wondering what this was about.
-{n}......Because they had never heard about a murder case 19 years ago.
+......Because they had never heard about a murder case 19 years ago.
 "......19 years ago,
  ......I.........committed a sin.
  .........I couldn\'t tolerate it.
@@ -152,7 +152,7 @@ The adults all whispered together, wondering what this was about.
 With a mix of conflicting emotions, of anger, sadness, regret and possibly defiance,
  Aunt Natsuhi confessed.
 The humiliation as a woman that others had given up hope on her ever bearing a child.
-{n}And also, the indescribably unpleasant feeling of being made to nurse a strange baby.
+And also, the indescribably unpleasant feeling of being made to nurse a strange baby.
 It caused her great sadness and rage,
  and before very many nights passed, it ate a hole into her heart......
 And then, ......I sold my soul.........to demons...
@@ -258,7 +258,7 @@ When you learned...
 ......everything.........has been taken from me......
  ......Uuughuu...
 ...*hic*......
-uuu{0}u{0}ughh{0}u{0}u{0}h{0}h{0}uuu!!"
+uuuuughhuuhhuuu!!"
 ".........After all this, you still claim that you were framed?
  Seriously, you just don\'t know when to give up."
 "Can you hear me?! You, the cursed baby from 19 years ago...!!

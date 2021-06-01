@@ -1,5 +1,5 @@
 The rose garden was truly splendid this year.
-{n}The roses were blooming like crazy, as though they were competing with each other.
+The roses were blooming like crazy, as though they were competing with each other.
 In that rose garden, Kinzo, Kanon, and Natsuhi could be seen...
 "Once again, the flowers have grown wonderfully this year.
  It must be the result of your care."
@@ -26,7 +26,7 @@ On the contrary, those siblings probably planned to turn the conversation to the
 "Are you sure that\'s alright, Kinzo?
  Casually walking around in a place like that."
 How had she gotten up there?
-{n}......Well, it\'s pretty pointless to wonder about that sort of thing when you\'re dealing with a witch.
+......Well, it\'s pretty pointless to wonder about that sort of thing when you\'re dealing with a witch.
 {f:5:Beatrice} was casually sitting on the roof of the arbor,
  almost as though she had been basking in the sun.
 "Those relatives are like a massive lump of the anti‐magic toxin, and they\'ll be intruding on us.
@@ -125,7 +125,7 @@ Kinzo is already dead}, remember?
  ......But what about you, Battler?
  Isn\'t this weird?
  Don\'t you have to accept the existence of the magic that revived Kinzo?
- Hahhi{0}hhyah{0}ha{0}haaaah!"
+ Hahhihhyahhahaaaah!"
 "......If you\'re trying to imitate Beato,
  stop it right now, \'cause it\'s pissing me off."
 "*giggle*!
@@ -139,7 +139,7 @@ Kinzo is already dead}, remember?
  Or do the scales of a mysterious form of butterfly that only lives on Rokkenjima happen to be hallucinogenic?!
  Or is it all because a mysterious secret organization called "Yamainu" made an as‐of‐yet undiscovered drug called Purupurupikopuyo which causes mass delusions?!!"
 "Let me hear tons of this wonderful crap,
- kyaaa{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"
+ kyaaahahahaahahahahahahahahahahahahahaha!!"
 ".........Just shut up.
  This isn\'t even a problem."
 
@@ -265,7 +265,7 @@ makes you simply naive and a failure at mysteries.
  You\'ve already lost once you start thinking that.
 You were trying to interpret everything within the bounds of the mystery genre, right...?
 Then you\'ve got to follow its conventions.
- ...*giggle*giggle*giggle*giggle*, hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hyah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha...!!
+ ...*giggle*giggle*giggle*giggle*, hihihihihihihihihihihihyahhahhahahahahahahahahahahahahahaha...!!
 "*cough*.
  .........That\'s how it is.
  Hidden doors must not exist at any of the crime scenes.
@@ -314,8 +314,8 @@ However, sweat glistened all over her body and it felt like she was breathing a 
 "....................."
 ......I tried to at least wipe away the sweat on Beato\'s forehead with a handkerchief.
 It\'s true I promised Beato that I\'d let her die.
-{n}But that was supposed to be......peacefully.
-{n}I wasn\'t planning to make her suffer first.
+But that was supposed to be......peacefully.
+I wasn\'t planning to make her suffer first.
 ......My goal isn\'t to make the sleeping Beato suffer like this before killing her......
 As if the complicated feelings inside me were plain as day to them,
  the two witches grinned together...
@@ -496,8 +496,8 @@ She looked at her husband\'s face.
 you leaned on your husband and held his hand, I\'ll bet?!
  What the heck, you and your husband share a pretty pure love, don\'t you?!
  Did you get all fired u~p?
- You know, like, that night{p:0:♪}
- Kiiihi{0}hi{0}hi{0}hi{0}hihi!!"
+ You know, like, that night♪
+ Kiiihihihihihihi!!"
 Red‐faced and avoiding Beato\'s eye, Natsuhi tried to hide her embarrassment by stuffing the patis whole into her mouth,
  chewing with her cheeks puffed out like a blowfish.
 Beato said that there was nothing better than this to go with tea,
@@ -522,12 +522,12 @@ Beato said that there was nothing better than this to go with tea,
 To make it look like Kinzo actually existed and was living life his own way,
  she had written his schedule for the day down to the finest detail and made the servants follow it to the letter.
 Who did he meet, when and where did he meet them, and what did he leave with them?
-{n}What was he doing, when and where was he doing it, and what did he change?
+What was he doing, when and where was he doing it, and what did he change?
 As a result, even though the relatives hadn\'t seen Kinzo even once,
  they never suspected in the slightest that he hadn\'t been there.
 Eva and the rest truly believed that their conversation about the inheritance had been overheard by Kinzo as he happened to walk through the hall, and that it had sent him into a rage.
 Everything had gone just as Natsuhi\'s plan had predicted, down to the finest detail.
-{n}And the coordination between the two of them and the servants had also been spectacularly intricate......
+And the coordination between the two of them and the servants had also been spectacularly intricate......
 "We couldn\'t afford to have this secret found out under any circumstances.
  That\'s why I made such a thorough plan."
 "Your willpower and attention to detail summoned success with certainty.
@@ -546,7 +546,7 @@ However, this second pair was in a world that the first couldn\'t see, where gol
 "......Ronove was kind enough to make us some of that Dimbula tea too."
 ".................................nn..."
 It felt as though Beato muttered something.
-{n}For the first time, it felt as though she had been able to communicate something.
+For the first time, it felt as though she had been able to communicate something.
 Surely, she had taken an interest in the black tea and felt like drinking it...
 Thinking this, Battler took Beato\'s cup and her hand, and made her grip the cup...
 "...............nn, ..............."
@@ -582,7 +582,7 @@ Of course,
  Just like you\'re cackling over there as you drink with Aunt Natsuhi."
 "..........................."
 "..............."
-"...............................................................................................................................................................{0}..."
+".................................................................................................................................................................."
 "............Can\'t you at least grin...?"
 "Never again.
  This child will never laugh again."
@@ -841,7 +841,7 @@ The two days of the crime give us more than enough time to injure each other wit
 "What......?"
 "After all,
  I\'m enjoying this game too.
- .........*giggle*giggle*giggle*giggle*. Ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha......"
+ .........*giggle*giggle*giggle*giggle*. Hahahahahahahahahahahahahahaha......"
 {f:5:Bernkastel} disappeared, leaving only that unpleasant laugh behind.
 "......................................."
 After that, all that remained was Natsuhi, sipping tea all alone,
@@ -857,7 +857,7 @@ Beato didn\'t answer.
 Battler took Beato\'s hand, made her hold the cup again, and brought it to her lips.
 ......Beato made a quiet sound in her throat and drank just one more mouthful......
 Then, Natsuhi\'s lonely teatime ended.
-{n}......Her truth, which was only hers and observed by no one else, had been defiled.
+......Her truth, which was only hers and observed by no one else, had been defiled.
 In Natsuhi\'s world,
  ......that tea party, which had been peaceful despite her annoyance at Beato for making fun of her too much, must have come to an end, and the two of them probably went their separate ways.
 However, in Natsuhi\'s exposed truth, ...she was all alone.

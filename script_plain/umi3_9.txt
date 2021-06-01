@@ -1,5 +1,5 @@
 ......The adults\' motivations aside...
-{n}At least for us kids,
+At least for us kids,
  these were supposed to be a fun couple of days where we cousins deepened our friendship.
 However, when we woke up, there was an unbelievably cruel reality waiting for us...
 "............hic, ......hic......!"
@@ -8,8 +8,8 @@ George‐aniki and Jessica were crying over Shannon‐chan and Kanon‐kun\'s de
 ......Right now, everyone who was alive was gathered in the lobby on the first floor of the guesthouse.
  And there were 12 of us.
 ...Unbelievable, right?
-{n}There were 18 up until yesterday.
-{n}...And in one night, a third of that number had lost their lives...
+There were 18 up until yesterday.
+...And in one night, a third of that number had lost their lives...
 My agitation had finally settled down, and, along with my lack of sleep from being woken up so early in the morning,
  I was beginning to feel like this was just a little unreal.
 ......I want to think this is some kind of bad dream...
@@ -78,7 +78,7 @@ It seemed that the adults had stayed up the whole night, spending the whole time
 ......So right when the adults had been getting worked into a frenzy over money,
  the murderer had been killing under the same roof...
 Aunt Natsuhi said that they were strict on locking the doors and windows at night.
-{n}And yet, some suspicious person had entered the mansion.
+And yet, some suspicious person had entered the mansion.
 ...The adults had decided that the inside of the mansion was too large to be safe,
  so they had pulled out the guns and moved to the guesthouse, where we had been.
 .........Which brings us to the present.
@@ -93,9 +93,9 @@ It makes sense, I mean, the mansion is vast.
 In contrast, the guesthouse is a much smaller building than the mansion.
 Two stories tall.
  Number of rooms...about ten?
-{n}......Apparently, it had originally been constructed to serve as a boarding house for when the island was to be turned into a resort.
+......Apparently, it had originally been constructed to serve as a boarding house for when the island was to be turned into a resort.
 So it\'s easy to grasp the entire structure, and easy to guarantee safety.
-{n}That makes it a good place to hole up in.
+That makes it a good place to hole up in.
 ......And.
  There\'s an extremely high likelihood that this mass murder of six people is a "game".
 Because the culprit had proclaimed that in a letter.
@@ -103,16 +103,16 @@ I heard that a Western‐style envelope with the family crest, just like the one
  had been found in the boiler room where Grandfather\'s corpse had been discovered.
 This was what the letter said:
 {e:070:So that there will be no misunderstandings.
-{n}The game I seek is whether or not you can solve the riddle of the epitaph,
+The game I seek is whether or not you can solve the riddle of the epitaph,
  not whether or not you can catch me.
-{n}{n}If you do not solve the riddle of the epitaph, the pitiful sacrifices will further increase in number.
-{n}It would be more wise to spend your time solving the epitaph than searching for me.
-{n}{n}If no one can solve the riddle of the epitaph, no one will survive.}
+If you do not solve the riddle of the epitaph, the pitiful sacrifices will further increase in number.
+It would be more wise to spend your time solving the epitaph than searching for me.
+If no one can solve the riddle of the epitaph, no one will survive.}
 {e:070:If a person appears with skill enough to solve the riddle of the epitaph, I will give them all the gold of the Golden Land,
  the Ushiromiya family headship, and all of my power.
-{n}{n}I was the one who succeeded the Ushiromiya family headship from Kinzo‐sama.
-{n}And I look forward to seeing who will receive the headship from me.
-{n}{n}{nobreak:{m:-3:—}—}{f:5:Beatrice} the Golden.}
+I was the one who succeeded the Ushiromiya family headship from Kinzo‐sama.
+And I look forward to seeing who will receive the headship from me.
+——{f:5:Beatrice} the Golden.}
 ...This riddle of the epitaph was...that thing.
 That strange epitaph written in the same place as the portrait of the witch, displayed in the hall of the mansion.
 Grandfather was the one who ordered that it be written,
@@ -672,7 +672,7 @@ As we talked, Ronove returned with Beato, who wore a meek expression.
 "I resign.
  ......For now, I will let you have your victory."
 Beato told me that frankly.
-{n}It seemed as though she had taken a far‐sighted view, as though saying "if you want to laugh, then laugh".
+It seemed as though she had taken a far‐sighted view, as though saying "if you want to laugh, then laugh".
 ......It was a bit of a buzzkill, and I lost my desire to attack her further.
 "Well, now that you\'ve resigned, in the end,
  all that means is that we\'re even, since my theory and yours can\'t deny each other.
@@ -686,7 +686,7 @@ Beato told me that frankly.
 Even though she ridiculed me horribly when I showed signs of defeat, she was so pathetic when it was her turn.
 I thought of her as a pretty unfair person, but I decided to act with dignity as a winner and accepted it.
 ......Beato had resigned.
-{n}That was the only result of the first twilight.
+That was the only result of the first twilight.
 {f:5:Beatrice} couldn\'t counter my move of "one of the six was the culprit,
  and that person died in an accident".
 ...No, she probably could have countered it, but because of some strategic decision, she had given up.
@@ -694,9 +694,9 @@ I felt less like I had won, and more like she had escaped me one step from victo
 In chess against witches, it is possible to battle onward solely using pieces called X which don\'t need explanation.
 Thanks to the "Devil\'s Proof", I can create as many strange fictions as I want, and use them to fight in the argument.
 ...But that\'s only within the context of chess with a witch.
-{n}......In our human world, such an abstract story can\'t explain anything.
+......In our human world, such an abstract story can\'t explain anything.
 The first twilight today was a chain of six locked rooms.
-{n}...It certainly may be possible for a human.
+...It certainly may be possible for a human.
 Beato hadn\'t been able to completely deny everything.
 However, I don\'t have a clue who committed the crime,
  why, and how they actually did it...
@@ -704,5 +704,5 @@ I shouldn\'t say this having won,
  ......but I get the feeling that I would have felt less muddled...
 if I had just been told right out by {f:5:Beatrice} that it was completely impossible for a human.
 Although I hide behind these abstract pieces called X,
-{n}............I couldn\'t deny that some kind of unthinkable,
+............I couldn\'t deny that some kind of unthinkable,
  creepy intention had definitely pervaded this mansion...

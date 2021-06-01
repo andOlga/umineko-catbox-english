@@ -36,7 +36,7 @@ And on this big bed that looked like something out of a child\'s dream world,
  .........An idiot or an impulsive type, one of those two is always best for a piece.
  ......Aaah, that piece really could have been so much more."
 "And now she\'s mincemeat!
- Hey, let\'s make hamburgers out of that later on{p:0:☆}
+ Hey, let\'s make hamburgers out of that later on☆
  Oh wait, didn\'t you like gyoza more?
  I wonder what little sister tastes like, *giggle*, so funny!"
 "..................Is it really alright for you to be so relaxed?
@@ -132,20 +132,20 @@ Except for the time when she lent one to Battler to unlock Natsuhi\'s room}.
  I must do my part too, and light a fire under Battler to never feel sympathy for her again.
  ......Although Ange\'s mincemeat seems to have done that pretty well for the time being."
 "A power‐up from an Ange‐flavored hamburger?
- Oh‐hoho{0}ho{0}ho{0}ho{0}hoho!
+ Oh‐hohohohohohoho!
  Of course, I won\'t be beaten either.
  I\'ll be giving Beato my full support so she can make enough of a comeback to compete with Battler."
 "......She won\'t lose. Beato.
- I mean, I\'ve threatened her with a wonderful penalty if she does{p:0:♪}"
+ I mean, I\'ve threatened her with a wonderful penalty if she does♪"
 "..................Your penalties are genuinely no joke, so you should go a little easy."
 "I\'ve decided what to do next time I get to give you a penalty, Bern.
  Wanna hear? Wanna hear?"
 "No."
-"Come o~~n, listen{p:0:☆}
+"Come o~~n, listen☆
  Okay, here we go, here we go.
  I\'ll lock you in a wonderful, wonderful castle."
-"The castle will be surrounded by pure white castle walls, {nobr:12 km} to a side.
- With a height of {nobr:10 m}.
+"The castle will be surrounded by pure white castle walls, 12 km to a side.
+ With a height of 10 m.
  No magic and no cheating allowed!
  That\'s really not something you can jump over, right?"
 "1,440,000,000 m³?
@@ -156,10 +156,10 @@ Except for the time when she lent one to Battler to unlock Natsuhi\'s room}.
  Isn\'t that a wonderful, romantic penalty?"
 "..................I\'ll let you multiply the length of the walls by five if you make the height one‐tenth its current height, and you can even shut me in it right now."
 "Really?!
- That would make it {nobr:3,600,000,000 m³}, you know?!
+ That would make it 3,600,000,000 m³, you know?!
  The penalty would take more than twice as long!
  Aaahh, you\'ll be my prisoner for such a long time?!
- I love you Bern, I really love yo~u{p:0:♪}"
+ I love you Bern, I really love yo~u♪"
 {f:5:Lambdadelta} playfully clung to {f:5:Bernkastel}, who yawned, looking bored, as she stroked {f:5:Lambdadelta} under the chin as though playing with a cat...
 "So you\'re betting on Battler to win.
  And I\'m betting on the two of them getting draws forever.
@@ -189,7 +189,7 @@ are betting on Beato to come out the winner!
  If it tips too much in Beato\'s favor, both of us will align along the same vector, and drag Beato back."
 "So the instant Beato finds herself on top, ......she\'ll have both of us as enemies to deal with.
  .........Ehheheheheh!
- A common front with Bern, sounds fu~~n{p:0:♪}"
+ A common front with Bern, sounds fu~~n♪"
 ".........Thanks.
  ......But I\'m not taking a konpeitou candy bath with you."
 "Aaa~w, but I thought we could take a konpeitou shower together,

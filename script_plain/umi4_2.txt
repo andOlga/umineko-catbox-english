@@ -21,7 +21,7 @@ So, trying not to get in the way of everyone\'s refreshing morning any more, I e
 ......Almost like I was cutting across the aisle in a movie theater while the movie was running.
 This is an all‐dorm academy called Saint Lucia Academy.
 It\'s not a school that just anyone can get into simply by passing a test.
-{n}...It\'s a hidden rich‐girls\' school, known only to a select group of celebrities from various circles.
+...It\'s a hidden rich‐girls\' school, known only to a select group of celebrities from various circles.
 For lofty nobles who truly wish their daughters to be brought up like saints,
  this is probably the ideal academy in which to protect them from the impurities of the common world.
 ......But at the same time, it was probably also a convenient place for nobles to confine daughters who they didn\'t want the public to know about.
@@ -46,7 +46,7 @@ I must be wearing a weary expression already this morning.
 ......I can understand completely why my other classmates, who had been enjoying a refreshing morning, would want to click their tongues upon seeing it.
 Consciously trying to do my best to avoid tainting my classmates\' morning, I quietly took my seat.
 ......Then, unusually, someone came to talk to me.
-{n}It was the class leader.
+It was the class leader.
 "Good day to you, Ushiromiya‐san.
  ......You seem to be in a bad mood this morning.
  Are you certain you\'re getting enough sleep?"
@@ -55,7 +55,7 @@ Consciously trying to do my best to avoid tainting my classmates\' morning, I qu
  Did you forget that the deadline was yesterday?"
 ...I\'m pretty sure I heard something about that sometime last week.
 But I think the questionnaire hadn\'t been passed out yet.
-{n}All the necessary information would be written on that, so it should have been no problem to forget about it until it was handed out...
+All the necessary information would be written on that, so it should have been no problem to forget about it until it was handed out...
 "......I wasn\'t given a questionnaire..."
 "You must have been.
  The dormitory leader distributed a copy to everyone.
@@ -71,15 +71,15 @@ In the end, treating it as though it was my own carelessness would settle everyt
 As I hung my head at the class leader\'s scolding,
  I could hear the giggles and whispers of people watching, coming from no direction in particular...
 Ushiromiya‐san did it again.
-{n}Because she never concentrates.
-{n}She is unsuitable for this school.
-{n}She has neither class nor manners.
+Because she never concentrates.
+She is unsuitable for this school.
+She has neither class nor manners.
 ......Sorry, girls, but I\'ve dealt with much worse when it comes to unfair personal attacks.
 I froze my heart and let those arrows of ridicule pass by as I quickly filled out the questionnaire...
 When I heard the news that Mom, Dad, Onii‐chan,
  and all the rest of my family had died, I was in the house of my grandpa on my mom\'s side.
 The only survivor of the accident was...Ushiromiya Eva.
-{n}......Only Aunt Eva.
+......Only Aunt Eva.
 Even at the time, I hadn\'t really liked Aunt Eva.
 At a glance, she seemed to act kindly to me,
  but even as young as I was, I could see clearly that she was somehow belittling Dad and the rest, and I didn\'t like it.
@@ -92,7 +92,7 @@ Aunt Eva had no desire to remarry, so she said I was essential for the successio
 Aunt Eva felt very strongly about the House of Ushiromiya.
 She firmly demanded to take charge of me right away, so that she could give me an education and lifestyle fitting for the successor.
 Complicated negotiations with lawyers apparently took place.
-{n}...But in the end, I was forced to go live with Aunt Eva.
+...But in the end, I was forced to go live with Aunt Eva.
 After she took me in, Aunt Eva told me something.
 You must bear all of the glory and history of the Ushiromiya family.
 And in order to make you a fitting successor to bear that, your life from now on will be dedicated to studying like hell.
@@ -116,7 +116,7 @@ And she made it known far and wide exactly how inferior I was to George onii‐c
  ......surely in memory of her dead son—
 no, ...she must still have been mourning his death.
 ......However, that wasn\'t something I could endure.
-{n}I couldn\'t possibly live together with Aunt Eva.
+I couldn\'t possibly live together with Aunt Eva.
 ......I would be eternally suffocated, continually compared with her dead son.
 Even as an elementary schooler, I understood that.
 I ran away from the House of Ushiromiya, and tried to go to my grandpa\'s house.
@@ -156,9 +156,9 @@ Just glancing at it, you would probably think it was a religious book written in
 But this isn\'t a book.
  It\'s a diary.
 Of course, it\'s not {i:my} diary.
-{n}.........There aren\'t any special things worth writing about in my daily life.
+.........There aren\'t any special things worth writing about in my daily life.
 Every single day is just gray, ...cold, and dry.
-{n}When nothing changes from day to day, there aren\'t any notable changes worth writing down.
+When nothing changes from day to day, there aren\'t any notable changes worth writing down.
 This is......the diary of Maria onee‐chan, who I had been very good friends with.
 She was three years older than me and a bit of a funny person, but Onee‐chan was always a warm, wonderful cousin.
 She would always grab me by the hand and invite me to play some fun game.
@@ -166,7 +166,7 @@ She would always grab me by the hand and invite me to play some fun game.
 Though I preface this with "for an elementary schooler", the handwriting that greeted me when I opened the diary was fairly accomplished,
  and while admittedly it had been written using every other line, the pages were dense with text.
 Was she just hopelessly obsessed with jotting everything down in her diary?
-{n}......Probably...not.
+......Probably...not.
 To her, writing her daily life down in a diary was probably like having a conversation with another part of herself.
 So rather than a journal in which the events of her day were simply listed,
  Maria onee‐chan\'s diary was written like a letter to another Maria, telling her of the events of that day.
@@ -181,7 +181,7 @@ At the same time,
  ......a very, very soft breeze blew, tickling the pages.
 And I thought the open diary might have sparkled faintly.
 ......The weather is good today.
-{n}Maria onee‐chan loves wonderful rays of sunlight.
+Maria onee‐chan loves wonderful rays of sunlight.
 So I\'m sure she\'s in a good mood.
 On the open diary, ...no, in the world of the diary, Maria onee‐chan showed herself...
 She had been nine, I believe, when she died.
@@ -253,7 +253,7 @@ As I listened to her tale, I began to get absorbed into her world......
  Want to have a melon soda too!"
 "Uu‐uu‐uu!
  I\'m a good girl, I\'m a good girl!
- Praised by Mama, uu‐uu‐uu{p:0:♪}"
+ Praised by Mama, uu‐uu‐uu♪"
 "*giggle*.
  You\'re getting a little too excited.
  If you don\'t quiet down a bit, you\'ll disturb the other customers."
@@ -297,8 +297,8 @@ Even though we always sent an invitation to Battler onii‐chan, he didn\'t get 
 Maria onee‐chan peeked into my happy memory.
 It\'s kind of embarrassing looking at myself, sitting quietly there, wearing the origami helmet that Dad had made as a party trick.
 In my hand was a paper gun that Battler onii‐chan had folded for me.
-{n}...And Mom was taking a commemorative photo.
-{n}It was the happiest moment of my life.
+...And Mom was taking a commemorative photo.
+It was the happiest moment of my life.
 "But your birthday\'s just as good, Maria onee‐chan.
  So, you get him today, right?
  Sakutaro."
@@ -312,12 +312,12 @@ It was apparently to be a cute lion stuffed animal,
 Today, she was looking forward to meeting Sakutaro even more than celebrating her own birthday.
 Auntie Rosa ran a clothing design company.
 It did actually seem to have a brand name, too, for what that\'s worth.
-{n}......I think it was just called <Auntie Rosa>, in English...?
+......I think it was just called <Auntie Rosa>, in English...?
 The slogan was supposedly "I can\'t forgive the way I was before today".
 ...Unfortunately, I\'ve never met anyone who knew of that brand name.
 Maybe it wasn\'t that famous.
 So, in any case, Auntie was pretty skilled with her hands.
-{n}I heard that some of the clothing she wears she made herself.
+I heard that some of the clothing she wears she made herself.
 So making a stuffed animal had to be well within her capabilities.
 "......A hand‐made stuffed animal... That sounds kind of wonderful.
  By the way, why did you call it Sakutaro?"
@@ -342,7 +342,7 @@ There was apparently a popular anime at the time whose main character was a girl
  Uu‐uu‐uu!"
 As soon as she proclaimed that, she started tearing into her meal.
 Auntie Rosa scolded her, telling her not to make a scene.
-{n}It seemed that she had seen it coming immediately.
+It seemed that she had seen it coming immediately.
 I had been thinking that, if I were as straightforward as Maria onee‐chan, that would probably be exactly what I would do as well,
  so it brought a kind of warm smile to my face when my expectations weren\'t betrayed.
 In the end, Auntie Rosa succumbed to her daughter\'s eyes sparkling with anticipation,
@@ -356,7 +356,7 @@ In the end, Auntie Rosa succumbed to her daughter\'s eyes sparkling with anticip
 Auntie Rosa spoke slightly humbly, but Maria onee‐chan was ecstatic even before opening the wrapping.
 ......I could really understand that feeling.
  It\'s not a matter of quality.
-{n}Just the fact that it was a handmade present was more pleasing than anything.
+Just the fact that it was a handmade present was more pleasing than anything.
 "Can I open it?
  Can I open it?!"
 "I\'d really prefer you to leave it until we get back home,
@@ -371,7 +371,7 @@ Auntie Rosa spoke slightly humbly, but Maria onee‐chan was ecstatic even befor
  Can I open ii~t?
  Mamaaa."
 "Yes, yes, but just for a bit, okay?"
-"Yaaaaaaaaayyyy...{p:0:☆}"
+"Yaaaaaaaaayyyy...☆"
 Before Auntie Rosa finished her sentence, Maria onee‐chan started unwrapping the present.
 And straight away, ......yellow and orange peeked out.
 What appeared was a slightly blank‐looking stuffed lion,
@@ -390,7 +390,7 @@ But to Maria onee‐chan, it was her mother\'s handmade stuffed animal, the only
 "No, this is good!
  With this size, we can always be together.
  We can go out together.
- Sakutaro~, I\'m your onee‐cha~n, uryu~{p:0:☆}"
+ Sakutaro~, I\'m your onee‐cha~n, uryu~☆"
 "It really is a cute stuffed animal.
  So this kid is your best friend Sakutaro."
 "Uu!
@@ -399,7 +399,7 @@ But to Maria onee‐chan, it was her mother\'s handmade stuffed animal, the only
  Cheers me up when I\'m feeling down, and plays a lot with me when I\'m feeling good!"
 "So I\'m not lonely anymore.
  Not lonely when Mama is busy with work and I\'m all alone, and even if no one plays with me at school, not lonely at all.
- Riiight, Sakutaro~, uryu~{p:0:☆}"
+ Riiight, Sakutaro~, uryu~☆"
 ......At school, Maria onee‐chan was in similar circumstances to me.
 Compared to the other kids in her class, Maria onee‐chan\'s tempo was always a beat too slow.
 Her impressionability and way of thinking about things were a little peculiar, ......and she was a little too idiosyncratic to blend in with them.
@@ -447,7 +447,7 @@ Maria onee‐chan told me that an angel came, not content to let that happen.
  ......and the twenty victims are shrunk down to one, then nineteen people are saved.
  ......A truly logical proposal."
 I wonder if this fairy tale has some kind of motif.
-{n}If it\'s a creation of Maria onee‐chan, a nine year old girl, that would be pretty impressive.
+If it\'s a creation of Maria onee‐chan, a nine year old girl, that would be pretty impressive.
 "The angel decided to accept that proposal.
  So, through the single sacrifice, nineteen people were saved.
  ......So my role is important.
@@ -465,7 +465,7 @@ The miserableness of our situations is very similar.
  Sakutaro?"
 ‘Uryuu! If I can be with Maria, I\'m happy too~!’
 "Look, Sakutaro is saying he\'s happy too.
- Uu{p:0:☆}"
+ Uu☆"
 Maria onee‐chan held up the Sakutaro stuffed animal, playing both sides of the conversation herself.
 I don\'t understand.
  ......But that\'s exactly why I want to reach Maria onee‐chan\'s level.
@@ -490,7 +490,7 @@ Of course, if you were to look at it with cold eyes,
 The soul of Maria onee‐chan\'s love.
 So I accepted the existence of a being called Sakutaro inside that stuffed animal.
 "Come on, say hi to Sakutaro, Ange.
- Come on, you say hi too, Sakutaro~{p:0:☆}"
+ Come on, you say hi too, Sakutaro~☆"
 ‘Uryu......?
  Is Ange...
 ...a scary person......?’
@@ -499,7 +499,7 @@ As Sakutaro timidly looked at me,
 ......Maria onee‐chan really is good at playing with stuffed animals.
 "It\'s okay, Sakutaro.
  Ange isn\'t scary, she\'s a very nice girl.
- Uu{p:0:☆}"
+ Uu☆"
 ‘...H‐hello.
  I\'m Sakutarou...
  ......Uryu......’
@@ -510,8 +510,8 @@ As Sakutaro timidly looked at me,
 I held out my right hand as though asking for a handshake,
  and Sakutaro\'s short hand was stuck out towards me, and lightly touched my index finger.
 After all, the size is all wrong for a handshake between a human and a stuffed animal.
-{n}This greeting by touching each other\'s fingers was our handshake.
-"Uu{p:0:☆}
+This greeting by touching each other\'s fingers was our handshake.
+"Uu☆
  See, now you two are friends!
  Two people\'s funner than one, and three people\'s funner than two.
  Uu!"
@@ -585,7 +585,7 @@ Rosa\'s forehead creased, and after sourly telling Maria that she was absolutely
  But I\'m not embarrassed at all to be with you."
 ‘I am a lion, ...but I\'m a stuffed animal.’
 "You\'re a lion and a stuffed animal, but you\'re my friend.
- So let\'s go out together{p:0:☆}
+ So let\'s go out together☆
  Just when Mama isn\'t around, as a secret.
  Uu?
  Are you embarrassed too?"
@@ -680,7 +680,7 @@ But from what she said, she was always with me, and I could meet her at any time
  I\'ll try reading it seriously sometime soon.
  ......And then I won\'t be all alone anymore,
  ...will I...?"
-"Uu!"{n}{t}‘Uryuu!’
+"Uu!"{t}‘Uryuu!’
 Maria onee‐chan and Sakutaro said that at the same time, happy that I had developed an interest in the world of witches.
 With half of Sakutaro\'s face peeking out of the knapsack on her back,
  Maria walked through the late‐night shopping district in high spirits.
@@ -773,15 +773,15 @@ made it very difficult to remember the several occasions on which she had spent 
  ...it wouldn\'t have been anything more or less than a stuffed animal.
 Anyone can make a relationship which only distracts you from your loneliness.
 But Maria onee‐chan was different.
-{n}Sakutaro wasn\'t a stuffed animal or a toy.
+Sakutaro wasn\'t a stuffed animal or a toy.
 ......He was a real friend, and far from just distracting Maria from her loneliness,
  he changed the nights without her mother into a fun time where they could play all by themselves...
 Was it because Sakutarou was a special stuffed animal?
-{n}Because her mother had made it herself?
-{n}Because it was very, very cute?
+Because her mother had made it herself?
+Because it was very, very cute?
 ......Probably...not.
 If there is a secret here, it doesn\'t lie within Sakutarou.
-{n}...I think it probably lies within Maria onee‐chan.
+...I think it probably lies within Maria onee‐chan.
 ".........Is this the power of magic you were talking about, Maria onee‐chan...?"
 "Uu.
  To know magic is to notice a lot of friends right beside you who you never noticed before.
@@ -884,13 +884,13 @@ Slowly.........
 When I closed the diary, ......a gray reality filled with dull air unfolded.
 Of course, Maria onee‐chan\'s form disappeared.
 ......Give it all you\'ve got, have courage.
-{n}...Take the first step into the world of witches.
+...Take the first step into the world of witches.
 I felt like Maria onee‐chan was cheering me on inside my heart.
 Cheering me on?
  Really?
-{n}Isn\'t that just what I\'d like to imagine...?
+Isn\'t that just what I\'d like to imagine...?
 No, that\'s not it.
-{n}I just convince myself that it is...and that\'s {i:why I cannot {y:1:‘see’}{n:1:see} her}.
+I just convince myself that it is...and that\'s {i:why I cannot {y:1:‘see’}{n:1:see} her}.
 Maria onee‐chan is always by my side.
  And even now, she\'s definitely there, cheering me on to do my best...
 And I...can hear it.
@@ -899,21 +899,21 @@ And I...can hear it.
 that Maria onee‐chan is there.
 I mustn\'t doubt.
  ...I believe.
-{n}Onee‐chan said she\'s always by my side.
-{n}I must not doubt that...
+Onee‐chan said she\'s always by my side.
+I must not doubt that...
 But as I faced that empty space, that empty back wall of the school building,
  amidst those almost heartlessly boring rays of sunlight, calling out her name was so much easier said than done...
 The chains of common sense which had clung to me until today sneered at me, telling me that calling out to the empty air was ridiculous...
 It was almost like being told to take a step forward off the roof of a skyscraper overlooking a sea of lights.
 ......Maria onee‐chan was telling me.
-{n}......That it\'s alright, that I can do it.
+......That it\'s alright, that I can do it.
 Stop thinking that you might fall, or that it would be foolish to take a step off a roof,
  ......and free yourself from those chains of common sense...............
 "...............whew.........
  .........haaah, ............
  .....................Yeah..."
 I steadied my breathing.
-{n}I concentrated my mind.
+I concentrated my mind.
 Make the form of Maria onee‐chan you can see vividly on the inside of your eyelids...rise to the surface in the empty space before you.
 .........Understand magic,
  ......and {y:1:‘see’}{n:1:see}...Onee‐chan......
@@ -922,9 +922,9 @@ Make the form of Maria onee‐chan you can see vividly on the inside of your eye
  Is someone there?!"
 Suddenly answered by the sound of rustling bushes and a wild cry, I came to my senses.
 Apparently I hadn\'t been the only one behind the school building.
-{n}No, I\'d been so immersed in the world of the diary that I hadn\'t noticed that someone else had come afterwards.
+No, I\'d been so immersed in the world of the diary that I hadn\'t noticed that someone else had come afterwards.
 I recognized a group of three beyond the bushes.
-{n}...They were girls from my class.
+...They were girls from my class.
 It felt as though they had come behind the school building to gossip about someone or talk in secret.
 I hurried out of that place.
 Because if it became known that I had been alone in a place like this, mumbling to myself, it would probably create more things for me to deal with...
@@ -938,5 +938,5 @@ Irritated and feeling that Maria onee‐chan had been made fun of,
  I left that place at a quick pace, and then a half‐run once I turned the corner.
 ......And I might have made it to Onee‐chan\'s world with just a little more time......
 Frustrating, aggravating... Why does everyone get in my way...
-{n}I\'ve never gotten in their way, not even once......!
+I\'ve never gotten in their way, not even once......!
 I ran and ran, but it still felt as though I could hear their shrill laughs......

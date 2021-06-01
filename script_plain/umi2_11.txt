@@ -101,7 +101,7 @@ The police would surely find some evidence from a thorough investigation.
  ...But we hadn\'t been adult enough to wait for that.
 ...I had investigated the chapel in my own way, trying to catch the culprit before the police got here.
 ......And what I figured out was—frustratingly—nothing.
-{n}......I hadn\'t been able to find a single hint.
+......I hadn\'t been able to find a single hint.
 "Come on, ......let\'s go out.
  ...Maria, we\'re going.
  ......Don\'t keep staring at it...!"
@@ -131,7 +131,7 @@ When the door to the chapel was closed, we learned about that creepy graffiti fo
 "Kihihihihihihihihihihi...
  This is the seventh magic circle of the sun.
  You don\'t even know that, huh...
- Kihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi.
+ Kihihihihihihihihihihihihihihihi.
  Ouch."
 "Hey!!
  Don\'t I always tell you not to make that creepy laugh!!"
@@ -223,10 +223,10 @@ It looked like some message was written there in English.
  ...The rust showed that the message had been there since construction.
 ".........I\'m bad at English.
  ......What\'s it say...?
- ......<This door is>...{0}<opened>...{0}<only at>...{0}<probability of>??
+ ......<This door is>...<opened>...<only at>...<probability of>??
  Sorry, my English sucks."
 I gave up after I was unable to finish reading the first of the two lines.
-{n}...It looked like the others could read it properly.
+...It looked like the others could read it properly.
 "...Umm, I think it went "m", "b", "t", "q", so,
  ...umm, umm... How big was that again... I think...umm...umm,
  ..............."
@@ -240,7 +240,7 @@ I gave up after I was unable to finish reading the first of the two lines.
 "Kihihihihihihi.
  ...At least learn English.
  How did you get into high school without even being able to read this much?
- Kihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi,
+ Kihihihihihihihihihi,
  ouch.
  Ouch
 ouch
@@ -252,7 +252,7 @@ ouch."
  You will be blessed only when a miracle occurs"."
 "......Grandfather\'s sorcery is based on astronomically low probabilities.
  ...In other words, the miracle that would open this door......would probably require an incredibly vast magical power.
- ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi.
+ ......Kihihihihihihihihihihihihihihihihihi.
  Ouch."
 "Niiiice, you can shut up now.
  Auntie Rosa, you were sending Maria to English classes?
@@ -309,7 +309,7 @@ Auntie Rosa\'s face grew increasingly pale.
  ............"
 "...Kihihihihihihihihihihihihihihihihihihi.
  ...It took you all far too long to notice.
- Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi..."
+ Kihihihihihihihihihihihihihihihihi..."
 ...When a kid pulls a prank, it sometimes goes unnoticed by the adults, and the kid who did it loses heart.
 ......If one of those pranks catches someone later on, it makes that kid really happy.
 ......Maria\'s celebration just now looked a lot like that...
@@ -353,9 +353,9 @@ We had been confused by the six deaths.
  We\'d thought that we had figured something out after hearing about that weird magic circle and the history of the chapel.
 ......That had all been a worthless problem!
 From midday yesterday until this morning, this chapel had been a locked room.
-{n}But our parents had been with us until last night.
+But our parents had been with us until last night.
 How had the culprit opened this door?!
-{n}And how had they locked it?!
+And how had they locked it?!
 "......What are you trying to pull.
  ...Again?
  A locked room again?!
@@ -567,10 +567,10 @@ The six definitely entered through {i:this front door}}!!"
  Come on, do you give up?!
  Then proclaim your submission, and kneel, as if toppling your king!!"
 "And then you shall kiss my shoes!
- There\'s no greater joy than forcing a man like you to lick my shoes, *cackle*cackle*cackle*cackle*kakaka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!"
+ There\'s no greater joy than forcing a man like you to lick my shoes, *cackle*cackle*cackle*cackle*kakakakakakakakakakaka!!"
 .........Damn iiiiiiiiit...
  It\'s no good, no good, no good...
-{n}So I can\'t win against the witch...?!
+So I can\'t win against the witch...?!
 This isn\'t chess at all—I\'ve just been made to take the losing side in a chess problem...!
  Is quibbling about details and getting a draw the best I can do...?
 "That definitely will not happen...!
@@ -588,12 +588,12 @@ Aaaaaaaaah, it\'s no good, it\'s no good, all of my hard‐fought moves are noth
 .........After a few more moves, ......I see myself being......checkmated......?
 .................................
 ......Don\'t give up, Ushiromiya Battler.
-{n}If I can see myself getting closed in upon...
+If I can see myself getting closed in upon...
 ......Then if I flip over the chessboard......I can anticipate the next move, right...?
 Kyrie‐san told me...
  When considering something, the closer you get to the very, very end, ......the easier it becomes to anticipate.
 Flip it over.
-{n}......Flip over...the chessboard...!!
+......Flip over...the chessboard...!!
 "......................................................"
 "......What\'s wrong?
  You\'ve gone silent all of a sudden.
@@ -633,7 +633,7 @@ Flip it over.
  If it\'s impossible, then decline.
  ...Here I go."
 ......This man, ......he thinks he has turned away from his defensive posture?
-{n}Impudent...
+Impudent...
 "I understand that the only way to enter the chapel is through the door, and that there was only one key.
  .........But hold it right there.
  ...Was that key really handed over to Maria yesterday before noon?"

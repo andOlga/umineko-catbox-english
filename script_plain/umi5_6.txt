@@ -191,7 +191,7 @@ Therefore, {f:5:Virgilia} silently urged Beato that saying nothing was the best 
 After successfully resolving all of their problems, they would have to lay Kinzo to rest.
 And the way to do that......was to make him disappear.
 One day, Kinzo would go out into the forest and never return.
-{n}They wouldn\'t be able to find him no matter how much they searched, so he would be declared "missing"......
+They wouldn\'t be able to find him no matter how much they searched, so he would be declared "missing"......
 ".........You said it yourself a second ago, Riiche.
  You can\'t catch a mouse that\'s escaped to a field.
  And you can\'t catch a {f:5:Goldsmith} who\'s disappeared into the forest."
@@ -233,7 +233,7 @@ One day, Kinzo would go out into the forest and never return.
  I don\'t need anything in return.
  Riiche, the one who serves you, has already paid me plenty in advance."
 Gaap seemed quite cavalier, but she was actually possessed by a strong sense of duty.
-{n}She was the kind of person who just couldn\'t leave someone in trouble alone.
+She was the kind of person who just couldn\'t leave someone in trouble alone.
 "Payment in advance?
  Now when did I do that...?
  I can\'t recall..."
@@ -263,7 +263,7 @@ Gaap seemed quite cavalier, but she was actually possessed by a strong sense of 
 ".............................."
 Having Kinzo...go missing.
  And doing it right in the middle of this family conference.
-{n}That was truly a last resort.
+That was truly a last resort.
 Hiding this final trump card in her heart, ......Natsuhi decided that she would grope around for a different plan until the last second.
 After all, this long, long night had only just begun......
 ......And it was long not only for her.
@@ -356,7 +356,7 @@ To reason out what will happen next, as Erika suggested...
 When Jessica finds out I\'ve solved the riddle, ......will she admire me...or curse me?
 ......I don\'t want to think about that now......
 ......Erika was still mumbling.
-{n}...Apparently...she had already started trying to reason it out...
+...Apparently...she had already started trying to reason it out...
 As I began to feel very bad, ......I lazily gazed out into the black night...
 "..................!"
 Then, .........I looked at a dimly lit outdoor light...
@@ -368,7 +368,7 @@ However,
  .........and maybe...
 ......no, it couldn\'t be......
 ............It was...looking at me.
-{n}And......it was.........
+And......it was.........
 "...................................."
 "...........................G‐"
 ......Grandfather.....................
@@ -386,7 +386,7 @@ Without a doubt,
 Grandfather, who had never worn any expression that wasn\'t moody or frightening,
  ......looked me in the face......and smiled at me for the first time.
 ......Almost as though he was saying "Too smart for your own good".
-{n}Or else, "I never thought it would be you"...
+Or else, "I never thought it would be you"...
 However, ......this was the result...chosen by Grandfather\'s epitaph.
 So I was sure......that he had accepted that result.
 ......He grinned one final time.
@@ -426,10 +426,10 @@ The expression on his face at the end...
  .........It\'s time we got a look.
  ...At this "Golden Land"..."
 We started to walk.
-{n}The entrance to the Golden Land was right there.........
+The entrance to the Golden Land was right there.........
 ".........So, my epitaph has finally been solved.
  ......And...it was Battler...
- .........Pfft, ...ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!
+ .........Pfft, ...hahahahahahahahahahaha...!!
  Entertaining beyond compare!"
 When I think about it, I was also a head that no one saw coming.
 How interesting that the one who will succeed me as head is also a person no one saw coming.
@@ -438,15 +438,15 @@ How interesting that the one who will succeed me as head is also a person no one
  Along with a present, the miracle chosen by my epitaph...!"
 {a:c:
 Battler, of all people.
-{n}......That......Battler......!!}
-"Waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!
- Waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!
+......That......Battler......!!}
+"Wahahahahahahahaha...!!
+ Wahahahahahahahahahahahahahaha!!
  At the very, very end of my life, I have witnessed a true miracle!!"
 "{f:5:Beatriceeeeeeeee}!
- I\'ve won this bee{-}e{-}e{-}e{-}e{-}ettt, waaahhha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}aahhh!!!"
+ I\'ve won this beeeeeeettt, waaahhhahahahahahahahahahahahahahahahahahahahaaaahhh!!!"
 "Ha, hahahahaha...!!
  Yahoo!!
- Haha{0}ha{0}ha{0}haaaahhh!!!"
+ Hahahahahaaaahhh!!!"
 ".........I can\'t see anything convenient about using gold as a store of value except for its non‐corrosive properties.
  I imagine it\'d take a lot of work to liquidate all of this."
 At the end of a crude underground tunnel, in a VIP room which was so beautiful that it seemed out of place,
@@ -463,7 +463,7 @@ If so, then 200 million yen is enough to make a single person\'s life complete.
 And this is 20 billion yen!
 ......This would account for the labors of a hundred humans, no, a single human life one hundred times over...!
 Of course, if you still wanted to work, you could.
-{n}Any money you gained as a result could all be used to play with.
+Any money you gained as a result could all be used to play with.
 After all, you would already have enough money to live for your entire life, no, for eternity...!!
 No, wait, I mustn\'t keep it all to myself. I can split it up among 100 people.
 If I could create a world where a full 100 humans wouldn\'t have to work for their whole lives, ......just what kind of world would that be...?
@@ -472,7 +472,7 @@ If I could create a world where a full 100 humans wouldn\'t have to work for the
 "And so,
  Bern‐Battler masterfully discovered the gold.
  The End.
- Heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh!!
+ Heheheheheheheheh!!
  I kept the really critical parts hidden, but nothing wrong with just a little bit of teasing, right?"
 "......Sure, do what you want with that.
  I\'m not interested in the micro details about what kind of puzzle it was or what kind of answer it had.
@@ -519,24 +519,24 @@ For example, maybe that was some kind of sheet or cover that had gotten caught i
  *giggle*giggle*giggle*giggle*giggle*!!"
 The "me" who had let out a strange yell in front of the gold mountain was finally starting to regain his cool.
 ......Now that we\'d found it, there was no covering it up.
-{n}I faintly thought about keeping this discovery a secret.
+I faintly thought about keeping this discovery a secret.
 ......However, Erika wanted to prove that her own reasoning was correct by announcing this fact to everyone.
 She really is an intellectual rapist...just as she says.
 The puzzle‐solving game is what\'s important to her,
  and she doesn\'t intend to take any responsibility for what happens after the riddle is solved.
 ......A riddle is sort of like a lock.
  Locks exist to be locked.
-{n}And whenever a lock is locked, there is a meaning behind locking it.
+And whenever a lock is locked, there is a meaning behind locking it.
 Therefore, there should also always be a meaning behind breaking one open and exposing what it protects.
 However, ......this girl has made the exposure itself her final goal,
  ...and she doesn\'t plan on taking responsibility for anything that happens later.
 ......Maybe the true storm to hit Rokkenjima...
 ...isn\'t the typhoon, but her.
 She won\'t keep this discovery secret.
-{n}She\'ll definitely announce it to brag about her success.
+She\'ll definitely announce it to brag about her success.
 And then, ......she\'ll call a real storm down upon this island.
 I won\'t be able to keep this covered up......
-{n}...Then in that case, ......there\'s nothing to do except announce this fact fairly.
+...Then in that case, ......there\'s nothing to do except announce this fact fairly.
 I can\'t imagine what will happen after that.
 As she grinned, Erika muttered to herself.
 ......She must have been predicting the uproar the relatives would soon bring about.

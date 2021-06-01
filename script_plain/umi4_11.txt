@@ -1,5 +1,5 @@
 It was already approaching ten at night.
-{n}The typhoon had already engulfed Rokkenjima.
+The typhoon had already engulfed Rokkenjima.
 Even the rose garden that had looked so beautiful during the day...
 was now being beaten down upon by the fierce winds and resisting with all its might, undulating and trying to keep the flowers from blowing away...
 Heading for the guesthouse through that rose garden, led by Shannon, were Battler, who was holding up an umbrella; Jessica; and Maria, who was sleeping on George\'s shoulder.
@@ -217,7 +217,7 @@ Firmly seated, he looked like he was awaiting Kinzo\'s arrival with an air of co
 That was the time that had been set for tonight\'s family conference to open.
 And in addition, it was also the time that the Ushiromiya family head needed to appear......
 Right then, they heard the sound of footsteps approaching from the hall.
-{n}There were multiple sets.
+There were multiple sets.
 Natsuhi jerked her head up with a start......
 But there came the sound of a knock, and her expression filled with disappointment.
 Because Kinzo probably wouldn\'t have knocked.
@@ -239,10 +239,10 @@ Of course, Krauss also seemed to know that.
  I cannot disobey."
 Tonight\'s family conference was clearly different from a normal one.
 On a normal year, no one was able to attend the family conference except relatives.
-{n}It would have been inconceivable for any servants to be present.
+It would have been inconceivable for any servants to be present.
 But this year was different.
 They had been told to have all of the servants in attendance for the family conference.
-{n}Of course, they would not be allowed to speak.
+Of course, they would not be allowed to speak.
  .........They were there as observers.
 Just what in the world was going to happen that needed five servants to observe?
 ......Even Krauss didn\'t know.
@@ -272,9 +272,9 @@ Even before the knock, they could imagine who it was.
 "Ye‐yes.
  Certainly, Madam......"
 Genji, accompanied by Kanon, had gone to meet Kinzo.
-{n}......There was still no sign of their return.
+......There was still no sign of their return.
 The hands of the clock were creeping past ten.
-{n}Once sure of that, Eva spoke to Krauss.
+Once sure of that, Eva spoke to Krauss.
 "......Nii‐saaan?
  It\'s time.
  Is the family conference still not going to start?"
@@ -314,17 +314,17 @@ The hands of the clock were creeping past ten.
  ......Right?
  Heheheh!"
 Krauss casually turned Eva\'s words back on her.
-{n}Of course, that poured fuel on Eva\'s anger.
-{n}But it didn\'t ignite.
+Of course, that poured fuel on Eva\'s anger.
+But it didn\'t ignite.
 Because in that instant, the sound of a very loud knock rang out.
 Both Genji and Kanon were usually very reserved when they knocked.
-{n}They wouldn\'t hit the door with such a violent strength.
+They wouldn\'t hit the door with such a violent strength.
 ......It was like a judge\'s gavel slamming down in a call to order.
 So everyone fell quiet......
 The door opened slightly, ......and Genji showed himself.
 Then, he spoke with a solemn tone different from his usual one.
-{n}It wasn\'t the tone he used when carrying out his duties.
-{n}......It was the tone he used when speaking for Kinzo himself.
+It wasn\'t the tone he used when carrying out his duties.
+......It was the tone he used when speaking for Kinzo himself.
 So just by hearing Genji speak like that, the siblings were struck with a sudden tension.
 "Take your seats, everyone."
 At those words, the dining hall fell into complete silence, and everyone rushed back to their designated seats.
@@ -339,7 +339,7 @@ Of the double doors into the dining hall, Genji opened the right door from the i
 Kinzo\'s gait had a dignified weight to it, and it was very hard to believe that he had been diagnosed as having not much time left to live.
 Genji pulled back Kinzo\'s seat, and motioned for him to sit.
 But Kinzo remained standing, signaling with his chin for Genji to move back.
-"Hhheheheheheheheh, fuhha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!
+"Hhheheheheheheheh, fuhhahahahahahahahahaha...!!
  Welcome, ladies and gentlemen, to Rokkenjima.
  Why the frightened face, Evaa?"
 "N‐no, why would I be frightened...!
@@ -347,8 +347,8 @@ But Kinzo remained standing, signaling with his chin for Genji to move back.
 "Wahahahaha...!!
  Evaa, you\'re as interesting as ever, aren\'t yoou?
  You might try honestly saying how frustrated you are at losing your bet with Krauss.
- ......Heheh{0}ha{0}ha{0}hah, you can\'t say it, can youuu?
- Hehuhuha{0}ha{0}ha{0}hah!!"
+ ......Hehehhahahah, you can\'t say it, can youuu?
+ Hehuhuhahahahah!!"
 Eva realized that their conversation during the day had indeed been an open book to Kinzo, and she turned red as she hung her head.
 "Well then, my sons, daughters, and their companions!
  Tonight, I shall make an important announcement regarding those things that you all have your hearts set upon: my fortune and the succession of the headship."
@@ -453,7 +453,7 @@ On the contrary, if a specific person\'s name was raised and proclaimed to be th
 "I will be the one to capture you!!
  Tonight, that shall become reality.
  *cackle*cackle*cackle*!
- Wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!"
+ Wahhahahahahahahahaha!!"
 For a while, Kinzo was overcome with cackling, and his eyes bulged.
 Whenever he talked about {f:5:Beatrice}, he was always eloquent, and filled with obsession......
 "Foolish sons and daughters such as yourselves were truly a daydream!!
@@ -466,7 +466,7 @@ Whenever he talked about {f:5:Beatrice}, he was always eloquent, and filled with
 "What is it?
  My friend."
 Nanjo nervously raised his hand, asking to speak.
-{n}Kinzo permitted it.
+Kinzo permitted it.
 "I understand how you feel, Kinzo‐san.
  Because you love your children,
  you expect a lot of them, and as a parent and grandparent myself,
@@ -638,7 +638,7 @@ Natsuhi looked like she was about to follow along, but Krauss gave her a look te
 Rudolf and the rest automatically knitted their brows at the occult‐like word "ritual".
 Was he talking about starting a strange ritual involving {f:5:Beatrice}\'s resurrection again......?
 He was demanding that they help...?
-{n}What in the world was he planning to start?
+What in the world was he planning to start?
 In the past, he had carried out many eccentricities that he called by the same name, such as lighting a strange incense and filling the whole mansion with the stench.
 To the siblings, a "ritual" was nothing more than one of the aged Kinzo\'s obnoxious hobbies.
 "Father...
@@ -736,7 +736,7 @@ Where from?
  Who?
  Who are they??
 ......The {y:0:Human}{n:0:human}s were thrown off balance and their minds went blank.
-{n}And because they wasted time with such thoughts, they lost their last chance to survive.
+And because they wasted time with such thoughts, they lost their last chance to survive.
 "I grant you permission to shoot six people to death.
  You have free choice of targets.
  Begin attacking."
@@ -774,7 +774,7 @@ And they understood that Kinzo would probably kill again......!
 ""Kyaaaaaaaaaaaaaaaaaaaaaaahhhhh!!!""
 Shrill screams burst out.
 Even now, they still didn\'t know what to do.
-{n}So they could only keep screaming and flapping their wide‐open mouths like goldfish......
+So they could only keep screaming and flapping their wide‐open mouths like goldfish......
 "F‐......Father......
 what do you think you\'re doing......?"
 "...Y‐you dolt!!
@@ -816,7 +816,7 @@ Nanjo\'s sharp words finally broke the spell that had been holding them down in 
 As Gohda and Kumasawa made a mad scramble to escape from the dining hall...
 ...410 teleported to that spot, blocking the way.
 "Nihi! You sure are slow nye~h.
- Did you think I\'d let you escape nye~h{p:0:♪}"
+ Did you think I\'d let you escape nye~h♪"
 "Hiieeeeeeeeeehhhh!!"
 "H‐help meeeeeeeeeeeee!!"
 "Gohda‐san, duck!!"
@@ -844,7 +844,7 @@ was that they were with the enemy, and had been guaranteed that they wouldn\'t b
  ......Rest in peace, my friend.
  *cackle*cackle*cackle*, your death will not be wasted.
  You will become one of the thirteen keys essential to the resurrection of my beloved witch.
- Fuhha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha......"
+ Fuhhahahahahahahaha......"
 The half of Genji\'s expression that remained...
 ...was as indifferent as ever.
 He tilted, ......fell in a heap, and sent a blood‐red splatter out across the floor......
@@ -859,7 +859,7 @@ In the truest sense, ......he was killing like it was a game to see who would be
 "Wellll then, whoo\'ll we go for next nye~h.
  Nihhihi!!"
 410 looked at Kyrie for a second.
-{n}In that second, ......Kyrie prepared for her own death.
+In that second, ......Kyrie prepared for her own death.
 But once she had readied her golden bow in midair, 410 looked at someone else over Kyrie\'s shoulder.
 ......So, as shameless as it was, Kyrie sensed that she had been saved......
 Again, an ugly sound of something cracking and exploding rang throughout the room.
@@ -885,9 +885,9 @@ So Rosa had no choice but to use force.
  If that is what you desire, then prevent it using your own power.
  ......Cut a path open for your own fate with your own hands.
  You who have always hid behind the backs of others in fear, show me the final bit of self‐mastery that dwells within you...!!
- Fuhha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!!"
+ Fuhhahahahahahahahaha!!!"
 "F‐......Father......
- .........UWAAA{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}A{0}Aa{0}A{0}Aa{0}AHHHH!!!"
+ .........UWAAAAAAAAAAAAaAAaAHHHH!!!"
 The chair that Rosa had lifted up...
 ......swung down at the father who had reigned as a symbol of terror for her entire life.
 It was the greatest, and final, act of bravery and self‐mastery in Rosa\'s life.
@@ -917,7 +917,7 @@ It was a massacre that happened in an instant.
 The interior of the dining hall was dirtied with blood spatter,
  ......and the six unlucky victims lay with their heads brutally exposed.
 Fittingly, it was Kinzo\'s abnormal laugh alone that echoed in that abnormal space......
-"Hahhahahahahaha, wahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!
+"Hahhahahahahaha, wahhahahahahahahahahahahaha!!
  The curtain has finally risen!
  It\'s the beginning of the ritual to revive {f:5:Beatrice}...!!"
 "You lucky ones who have managed to escape the first twilight, allow me to introduce you to my friends.
@@ -945,7 +945,7 @@ Only Shannon and Kanon seemed to recognize him, and they bowed deeply...
 "Allow me to introduce another of my friends.
  Arise, my friend, {f:5:Virgilia}...!!"
 Once again, the figure of someone unknown to the relatives appeared out of thin air.
-{n}She appeared in an elegant dress while greeting them gracefully.
+She appeared in an elegant dress while greeting them gracefully.
 ".........I thank you for summoning me, my lord.
  Although I would rather not have been summoned into a sanguinary place such as this."
 "Allow me to introduce her too.
@@ -1024,7 +1024,7 @@ There was no hole in the floor.
  But it had certainly looked as though Krauss had been swallowed up by a hole and disappeared......
 "............!!"
 Searching for her next prey, Gaap\'s gaze crossed Kyrie\'s.
-{n}She snapped her fingers.
+She snapped her fingers.
 Kyrie jumped back as though repelled.
 Her instinct was correct.
  Because, in the place where she had been until a second ago, a round, jet‐black hole had appeared, the same kind that had swallowed up Krauss.
@@ -1121,7 +1121,7 @@ Yeah, I\'m sure that\'s true.
 If the corrosion advances any further and even more weird people appear, just what in the world will they be wearing?
  .........It\'s too scary for me to imagine...
 ......Aaaah, seriously, give me a break...
-{n}Please, no more of these weird‐ass people...!!
+Please, no more of these weird‐ass people...!!
 "*cackle*cackle*cackle*! I can\'t oblige—they\'ll keep on coming, more and more!!
  I\'ll defile the foolish "closed circle" rule {y:0:Human}{n:0:human}s speak of, over and over again...!"
 "Welcome to my elegant game!
@@ -1157,7 +1157,7 @@ took a glance at me, and then grinned as though she\'d figured something out on 
 "Gaap is always sensitive to the fashions of the netherworld!
  But this year\'s fads truly are bold.
  I think I\'ll order something sometime...!"
-"For you, Riiche, I\'d recommend {nobr:Ali‐Gray}—Alice and the Graveyard.
+"For you, Riiche, I\'d recommend Ali‐Gray—Alice and the Graveyard.
  Let\'s go to 666 sometime soon to look at the clothes.
  You should come over to the netherworld every now and then."
 "When this game is over, I\'ll be sure to do that.
@@ -1186,7 +1186,7 @@ Six people—Krauss, Rudolf, Kyrie, Rosa, Shannon, and Gohda—had died, and eac
  I get it."
 That\'s right.
  The smashed faces might look atrocious.
-{n}......But they made it hard to confirm the identity of the person.
+......But they made it hard to confirm the identity of the person.
 For example, at that time, Uncle Krauss and Shannon‐chan had had their heads only half‐smashed.
 That itself was of course atrocious, but because half of their faces remained, it was easy to confirm their identity.
 But Dad and the other three were different.

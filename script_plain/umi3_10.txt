@@ -51,7 +51,7 @@ Eva took out a notebook and opened it to a page with the epitaph copied onto it.
 Natsuhi immediately brought a B4 blank sheet of paper from the servant room.
 Kyrie borrowed Eva\'s notebook, wrote out the epitaph on the paper, and laid it out on the table.
 Straight away, everyone peered down at it.
-{n}...A fence of people naturally formed.
+...A fence of people naturally formed.
 "I\'ve heard about it, but...
 ...really, this is a tough riddle.
  I don\'t have a clue what it\'s talking about."
@@ -163,7 +163,7 @@ you\'re able to narrow it down and say specifically what "{loghint:kawa:river}".
  They\'re freshwater fish, but they can live in the {loghint:kaisui:ocean}?
  I didn\'t know that.
  I thought they were {loghint:kawa‐zakana:river fish}, so they couldn\'t go out into the sea."
-"And they are also called {ruby:kougyo:{p:0:香魚}} (aroma fish) because they have a pleasant smell.
+"And they are also called {ruby:kougyo:香魚} (aroma fish) because they have a pleasant smell.
  I have never eaten one, but I have heard that they are very delicious when {loghint:shioyaki:grilled with salt}."
 "Whoa, Natsuhi‐san!
  You\'ve never eaten salt‐grilled sweetfish?!
@@ -180,7 +180,7 @@ you\'re able to narrow it down and say specifically what "{loghint:kawa:river}".
 that I have sometimes suspected that it refers to you and Maria‐chan."
 "I see.
  ......As you travel down it, you will see a village.
- The only "village" ({ruby:sato:{p:0:里}}) you\'ll find by going down the family tree is the one in Maria\'s name ({p:0:真里亞})."
+ The only "village" ({ruby:sato:里}) you\'ll find by going down the family tree is the one in Maria\'s name (真里亞)."
 "Right?!
  ......But as you all know, Father has a dislike of Maria,
  and he has almost never spoken with her."
@@ -364,7 +364,7 @@ Eva spoke coldly.
  Why aren\'t you seriously trying to solve it for that once‐in‐a‐lifetime chance?"
 "...Um, .........umm, ......I......"
 Rosa hung her head, troubled over how she should answer.
-{n}...She regretted, for the first time in a while, carelessly speaking to her sister when she was in a bad mood.
+...She regretted, for the first time in a while, carelessly speaking to her sister when she was in a bad mood.
 "If you\'ve noticed anything, say so.
  Even though Kyrie‐san and I were seriously reasoning, you just kept nodding your head, didn\'t you?
  Come on.
@@ -384,8 +384,8 @@ Rosa hung her head, troubled over how she should answer.
  ......Look, isn\'t just the tenth twilight strange?"
 "...............Huh?
  ......ah."
-"Even though they\'re all written the "Golden Land" ({ruby:ougonkyou:{p:0:黄金郷}}), for some reason, this one place has the "Home of the Gold" ({ruby:ougon no sato:{p:0:黄金の郷}}).
- He explicitly mixed in the character {ruby:no:{p:0:の}}, changing the phrasing.
+"Even though they\'re all written the "Golden Land" ({ruby:ougonkyou:黄金郷}), for some reason, this one place has the "Home of the Gold" ({ruby:ougon no sato:黄金の郷}).
+ He explicitly mixed in the character {ruby:no:の}, changing the phrasing.
  It vaguely bugged me that it\'s only said differently here..."
 ".........ah, umm, ...it\'s not like it means anything.
  This is Father we\'re talking about.
@@ -579,7 +579,7 @@ My husband did say that, despite being river fish, they go out into the ocean...
  .........And if the key might be a six‐character word...
 .....................Is the key really resting in that river?
 I, I don\'t know, I don\'t know.
-{n}...Anyway, I have to search in an atlas...
+...Anyway, I have to search in an atlas...
 But, even if I know that, I don\'t know {i:from what} I should take the six characters...
 "......You really don\'t know?
  Think deeply.
@@ -597,7 +597,7 @@ But, even if I know that, I don\'t know {i:from what} I should take the six char
 .........I\'m sure that was, ...what was it, ......umm, umm......
 ...I\'m sure, if my memory isn\'t wrong, ......that was probably, umm...
 No, I don\'t have to rely on my vague memory.
-{n}I should be able to figure that out immediately too by searching in the archive.
+I should be able to figure that out immediately too by searching in the archive.
 ".........We\'ve probably already realized the answer.
  ...All that\'s left is to research whether that\'s correct or not."
 "Come, Eva.
@@ -632,7 +632,7 @@ Then I locked it from the inside.
 I actually wasn\'t thinking that the murderer might be hiding somewhere.
 ...What scared me was my fear that one of the siblings might hear what I was investigating.
 My heart had started jumping......
-{n}...I had been half‐asleep until a short time ago, so I hadn\'t been able to realize how significant this thing I had realized was.
+...I had been half‐asleep until a short time ago, so I hadn\'t been able to realize how significant this thing I had realized was.
 But as I started to become aware, ......my heart started feeling like it was about to explode.
 ".........I...wonder if any of the other siblings have realized this......"
 I don\'t think Krauss and Rudolf will realize.
@@ -654,8 +654,8 @@ I see...
 This is what the sweetfish river means.
 ......Don\'t dawdle around, research further.
 "Y‐yes, I know...
- As you travel down it, you will see a village ({ruby:sato:{p:0:里}})...
- {ruby:sato:{p:0:里}} is an older word for {loghint:machi:town} or {loghint:mura:village}, right?
+ As you travel down it, you will see a village ({ruby:sato:里})...
+ {ruby:sato:里} is an older word for {loghint:machi:town} or {loghint:mura:village}, right?
  But it\'s a densely populated area... There\'s any number of those..."
 Why have you stopped thinking?!
 If you don\'t like it, why not quit forever...?
@@ -669,7 +669,7 @@ Why not just hand over the Ushiromiya headship to Kyrie forever?!
  ............ah, .........
 aaaaaaaahhh......!!"
 ......In {loghint:sono sato:that village}, look for the {loghint:kishi:shore} {loghint:futari:the two} {loghint:kuchi:speak} of.
-......It\'s a "shore" ({ruby:kishi:{p:0:岸}}).
+......It\'s a "shore" ({ruby:kishi:岸}).
  Understand?
 "Uh, ...*gulp*...
  I, I, I understand...!
@@ -679,9 +679,9 @@ All those pieces that I hadn\'t been able to understand at all were...
 ...snap,
  snap into place, all by themselves......
 I couldn\'t even remember to close my open mouth.
-{n}...My throat grew completely dry...
+...My throat grew completely dry...
 Is it......really alright for this to be the answer?
-{n}R‐really?
+R‐really?
  Really...?!
 "...But this isn\'t six characters at all.
  ......I\'m absolutely sure that this is the answer, but this doesn\'t reach six characters at all...!"

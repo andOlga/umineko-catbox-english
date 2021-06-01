@@ -154,7 +154,7 @@ How many times must you cut it with a knife to make eight pieces?
 It\'s obvious that you could do it in four cuts.
 Can it be done in even fewer cuts than that?
 The hints said that it was something that could be done because it was cheese.
-{n}If it was a birthday cake, you really wouldn\'t be allowed to do this.
+If it was a birthday cake, you really wouldn\'t be allowed to do this.
 ".........Cheese.
  ...Cheese.
  ......Something you can do because it\'s cheese?
@@ -224,7 +224,7 @@ Battler was happy that someone had confirmed his answer.
 As Erika had guessed, the book Maria held had an illustration of a piece of cheese just as Erika had described it.
 ......With cheese of this shape, three slices really would be the correct answer.
 You cut it in a + pattern from the top to make four pieces.
-{n}Then cut it from the side to double that and make eight pieces.
+Then cut it from the side to double that and make eight pieces.
 However, since this illustration hadn\'t been shown, the interpretation of the cheese had been left to the answerer.
 "......That is right.
  When the problem was stated, it never said anything about what the cheese\'s shape was or how flexible it was."
@@ -254,7 +254,7 @@ Once you\'ve done this six times, it looks like the side of an accordion.
 "......All the questioner said was to cut it into eight pieces.
  They didn\'t say anything about them being equal.
  ......Well, if you change the way you fold it, it is possible to make them all equal sizes, but I wouldn\'t want to confuse you stiff‐headed people with the explanation.
- Eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh......"
+ Eheheheheheheheheheh......"
 "Oh......ooooooohhh............"
 For a while, everyone was stunned......
 Battler had reached a far better answer than "three" by thinking of the problem as a riddle.
@@ -332,7 +332,7 @@ Light from the hallway poured in through the thin crack of the slightly open doo
 I\'m sure everyone\'s in the dining hall or somewhere, having a good time...
 I want to go there as soon as I can...
 .........I\'m sure my family will be there...
-{n}I hate being all alone in a place like this......
+I hate being all alone in a place like this......
 ......Dad......
  .........Mom......
 I stubbornly tried again and again to open the door,
@@ -343,7 +343,7 @@ That light coming out of the crack......is just a trap.
 This is an iron shackle,
  trying to keep me locked in here for eternity by making me think I\'m just an inch away from getting out a door that will never actually open......
 I need to get out of this creepy room...
-{n}......As soon as possible...
+......As soon as possible...
 When I closed the door, all that filled the room was that eerie sound of wind and rain.
 The way the wind picked up every now and then and shook the window frames felt like a monster in a cage shaking the bars...
 ......I was so scared of that monster......I couldn\'t help but avert my gaze from the windows.
@@ -351,7 +351,7 @@ Gotta search.
  If I can\'t get out the door, I need to find another way out......
 Just to the side of the door was a closet.
 There was only enough space inside to hang overcoats.
-{n}......Of course, it didn\'t connect to anywhere outside the room.
+......Of course, it didn\'t connect to anywhere outside the room.
 If this were hide‐and‐seek, it\'d probably be fun to hide in there.
 However, inside this creepy room, ......it would be no better than stepping into my own coffin...
 ......If I go in there,
@@ -371,7 +371,7 @@ I had the feeling that this was the only way out,
 I tried a lot of things, both mentally and physically, but there really was no way of getting out through the bathroom......
 All that was left.........was the windows.
 The view through the window was pitch‐black darkness.
-{n}The fierce winds and rain were slamming against the glass...
+The fierce winds and rain were slamming against the glass...
 The darkness on the other side of the window may have been unsettling,
  but I didn\'t really care where I went, as long as it was outside this room.
 However, the window......
@@ -401,17 +401,17 @@ If I can just break through this wooden frame......!
 Even though all the glass has been smashed apart,
  ......even though the cold rain is blowing in and tormenting me, ......I just can\'t get that frame to break...!
 They aren\'t iron bars.
-{n}It\'s just a delicate wooden mesh...
+It\'s just a delicate wooden mesh...
 It\'s fragile enough to make that creaking sound, so why doesn\'t it break...?!
 No wait, maybe it\'s close to breaking.
-{n}What if I try attacking it from a different angle instead of just smashing it head on?
+What if I try attacking it from a different angle instead of just smashing it head on?
 I stuck my left hand outside through one of the holes in the broken window, grabbed the frame from the front with my right hand, and tried to break it by shaking it around from both sides.
 My left hand started to grow ice‐cold from the frigid winds and rain...
 ......As I shook, fragments of glass sticking out from the broken frame poked into me, and my wrist was soon stained with blood.
 But...if I can just get out of here, this much pain is no big deal.
 But, ......I can\'t get out.
  I\'m stuck.
-{n}It won\'t open... I can\'t break it......!
+It won\'t open... I can\'t break it......!
 The more violently I shook the frame, the more the glass fragments tore into my left wrist, causing me intense pain.
  ......Wait, what\'s......huh?
  Ow, ...owowowowow?!
@@ -451,7 +451,7 @@ owowowooow...
 ......it\'s gonna break......
 gyaaah...!
 ......At that moment, I saw something in the darkness for the first time.
-{n}It was white.
+It was white.
 The darkness...
 ...grinned...
 and bared its white teeth.
@@ -504,7 +504,7 @@ Crunchriptearsquelch...
  Right?"
 "A‐...allow me to guide you all to the guesthouse..."
 The adults were apparently about to begin a conversation that they didn\'t want the kids to hear.
-{n}......The real family conference was about to start.
+......The real family conference was about to start.
 As the kids and Erika followed Shannon on their way to the guesthouse, they passed through the entrance hall...
 "Looks like it\'s pouring down at its hardest right now."
 "......Wouldn\'t it be better to watch TV or something in the parlor until it dies down a bit?"
@@ -539,7 +539,7 @@ Erika whispered to herself, but of course no one heard her.
  {f:5:Beatrice} isn\'t scary.
  At least, as long as you respect her.
  If you don\'t,
- .........ki{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!
+ .........kihihihihihihihihihihihihihihihihi!
  Right, Shannon?!"
 "Uh, ......yes.
  ......That rumor does exist among the servants as well.
@@ -611,7 +611,7 @@ After fishing around in her bag, Maria pulled out a string of beads attached to 
 "Here are your umbrellas.
  It\'s still raining very hard outside, so please take care."
 Shannon handed out the umbrellas she had brought.
-{n}Everyone headed towards the front door......
+Everyone headed towards the front door......
 After that, when there were none left standing in front of the portrait,
  ......a gold butterfly appeared.
 Then, expanding out into a spray of gold, it took a human form.
@@ -644,7 +644,7 @@ It wasn\'t as though she would like to touch either of those if she had the choi
 ......Was being perfectly fine around those...
 ...proof that she wasn\'t {f:5:Beatrice}...?
 Even though it was about herself, ......she didn\'t understand at all.
-{n}So, she quietly gazed into her own eyes on the portrait.
+So, she quietly gazed into her own eyes on the portrait.
 It felt as though the truth hid behind those eyes......
 ......Beato slowly...
 ...approached the portrait......
@@ -670,12 +670,12 @@ As long as she asked for nothing, ......this world would ask nothing of her.
 But she couldn\'t remain like this.
  ......She didn\'t want to spend eternity inside the darkness of this world.
 Yes, I need to hatch out of my egg.
-{n}This darkness is the inside of the shell that surrounds the gold butterfly called {f:5:Beatrice}.
+This darkness is the inside of the shell that surrounds the gold butterfly called {f:5:Beatrice}.
 ".........I will be born...
 for Father\'s sake.
  ......I will live for my father Battler\'s sake and be born to serve him."
 She put her purpose, her reason for being born, into words.
-{n}As if in response to those words, the seal on the shell began to melt away......
+As if in response to those words, the seal on the shell began to melt away......
 Cracks appeared in the darkness......and a brilliant light enveloped the world...
 And so, .........{f:5:Beatrice}......was born.
 "...............Huh...?"
@@ -689,12 +689,12 @@ She was also born.
 ......My twin?
  No, it feels a bit different.
 How can I put it?
-{n}......Both of us are lacking something and immature.
+......Both of us are lacking something and immature.
 Yes.
  Both of us are chicks, ......but we are also...fragments of the true {f:5:Beatrice}.
 It felt as though the two of us together could become the real {f:5:Beatrice}.
 ......No one explained this to us.
-{n}However, we naturally understood...
+However, we naturally understood...
 I decided to talk to this other me.
 Unless I get to know her and become one with her, I won\'t be able to become the {f:5:Beatrice} Father desires......
 In other words, the thing that Father wants from me...and was so heartbroken to find missing...must be something that she has...
@@ -703,7 +703,7 @@ In other words, the thing that Father wants from me...and was so heartbroken to 
 The {f:5:Beatrice} with her hair down looked at me dubiously several times, then finally spoke.
 ".........Why...do you have the same face as me......?"
 She used the word "warawa" to refer to herself, just like the true {f:5:Beatrice}.
-{n}......It looks like she really does have something that I lack.
+......It looks like she really does have something that I lack.
 "W‐......well...
  I don\'t know why either."
 "I am the Golden Witch, {f:5:Beatrice}.
@@ -748,7 +748,7 @@ However, since we both realized that we were the same person, there was no need 
  Is this...the hall of the mansion...?
  ......Oh—"
 Beato gasped.
-{n}Her portrait wasn\'t there.
+Her portrait wasn\'t there.
 ......Did that mean that this was at least two years in the past...?
 "Precisely. This is the hall of the Ushiromiya mansion.
  ......The night is my time.

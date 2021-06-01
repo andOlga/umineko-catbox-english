@@ -49,7 +49,7 @@ Another gold cyclone rose up.
 "Chiester Sisters Imperial Guards, right here!!"
 "It\'s s‐such an honor to be summoned to a gathering such as this!"
 "I haven\'t had nearly enough fun for it to end yet nyeh.
- Nihi{0}hi{0}hihi!"
+ Nihihihihi!"
 "There, I agree with you.
  But fear not, for our game will continue much longer than this."
 "For eternity, inside the cat box.
@@ -59,7 +59,7 @@ Another gold cyclone rose up.
 "Come on, don\'t be so stiff and formal.
  Tonight, we\'re all equal!"
 "That\'s right nyeh!!
- Battler gets it nyeh, nihi{0}hi{0}hi{0}hi{0}hihi!!"
+ Battler gets it nyeh, nihihihihihihi!!"
 "S‐stop it, 410.
  You\'re getting carried away... We\'ll get in trouble!"
 "Hey there, Riiche.
@@ -257,7 +257,7 @@ It was a bit creepy, as though the bad dream I\'d just had was continuing.
  It isn\'t even locked..."
 This was beginning to irritate me.
 The knob that locks and unlocks the door is on this side.
-{n}I should be able to lock or unlock the door by twisting it.
+I should be able to lock or unlock the door by twisting it.
 I turned it.
  Click.
 The door won\'t open.
@@ -266,7 +266,7 @@ I turned it.
  Click.
 The door won\'t open.
 ......It didn\'t open the last time, so it should have opened this time, ......but it didn\'t.
-{n}Now I have no idea which way is unlocked.
+Now I have no idea which way is unlocked.
 I kept on alternating between turning the lock and roughly twisting the doorknob.
 I started to become genuinely annoyed, wondering why they\'d locked me away behind such an inconvenient door.
 Eventually, I ran out of patience and pounded hard on the door, but that noise didn\'t bring anyone over.
@@ -288,7 +288,7 @@ I finally understood.
 The glaring emerald eyes in the darkness......were those of a cat standing in the open window.
 Its pitch‐black, luxuriant fur blended in with the darkness easily, leaving only the eyes visible.
 ......Did the Ushiromiya family own a cat?
-{n}It has a bell on it, so it can\'t be a stray.
+It has a bell on it, so it can\'t be a stray.
  It\'s a cat someone owns.
 At any rate, the cat was standing by the window......and staring straight at me.
 ".........Who...are you......?"
@@ -299,19 +299,19 @@ It then turned its head to look at me, almost as though it was telling me to fol
 When I peeked out the window, I saw the cat waiting for me under the pounding rain.
 ......I finally realized.
 This window was the only exit out of this locked‐room parlor.
-{n}That cat had surely come to tell me that.
+That cat had surely come to tell me that.
 The longer I keep standing around here, the longer the cat will have to wait in the rain.
 That\'s no good.
  It\'ll catch cold.
 I climbed up onto the windowsill and went out the window.
 The wind was strong, and the rain was cold, but I didn\'t get as wet as I\'d thought I would.
-{n}I might have been in the mansion\'s shadow.
+I might have been in the mansion\'s shadow.
 When the cat saw that I was outside, it walked along the wall of the mansion as if guiding me.
 It quickly disappeared into the blackness, but every now and then, it would turn around and set the bell jingling to let me know it was there.
 Eventually, a window with light seeping out came into view.
 It was the window to the hall.
 When I peeked inside, I saw everyone having a good time.
-{n}I couldn\'t hear their voices, but they were all right there.
+I couldn\'t hear their voices, but they were all right there.
 "Open up...!
  Open up!!"
 I pounded on the window, but no one heard.
@@ -321,11 +321,11 @@ In any event, no matter how much I hit the window, it didn\'t look as though any
 By this point, my loneliness was giving way to anger.
  Why don\'t you notice me? Why did you lock me up in that room all alone?
 I\'ve had enough.
-{n}I\'ll just get inside somehow and yell at everyone.
+I\'ll just get inside somehow and yell at everyone.
 When the cat realized that I had given up knocking on the window, it led me onwards with another jingle.
 ......But just where is this cat going?
 I know it\'s following the wall of the mansion.
-{n}But that\'s not the way to the front door.
+But that\'s not the way to the front door.
 The front door might be locked.
 I\'m sure the cat knows a place that I can get into the mansion from...and is leading me there.
 Away from the light seeping from the hall,
@@ -340,7 +340,7 @@ When I walked closer to pick the cat up, it slipped away from my hands and flew 
 Then, as though it really had melted away into the darkness inside the bush, all traces of it vanished.
 No matter how much I strained my ears, I couldn\'t hear the sound of that bell......
 Suddenly, the wind changed directions, and the rain started to hit me fiercely.
-{n}I can\'t stay in a place like this forever.
+I can\'t stay in a place like this forever.
 ".........I\'ll go inside.
  ......What room is this, I wonder..."
 I climbed up onto the windowsill and entered the room.
@@ -350,7 +350,7 @@ The room was completely dark.
  However, as my eyes got used to the darkness, I was able to make out a few things.
 It was a large room.
  There was a long table, and many chairs.
-{n}......It was...the dining hall.
+......It was...the dining hall.
 Perhaps because I realized this and was relieved, I was suddenly unable to see again.
 I searched blindly along the wall for the light switch.
 Then, finally, I felt a familiar shape.
@@ -365,7 +365,7 @@ Then, .........I realized that two of them were my own parents.
 "Hey, are you having a great time, people?!!"
 "Any kids who aren\'t having a good time\'ll get eaten!"
 ""Yell and sing the praises of tonight\'s banquet!!
- Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!""
+ Ahhahahahahahahahaha!!""
 The hall was alive with a mingling of {y:0:Human}{n:0:human}s and residents of magical fantasy.
 At first, everyone stayed with their own groups, too nervous to mingle.
 However, as time passed, people started to move around, and both halves began to chat happily together.
@@ -394,7 +394,7 @@ Everyone was now pleasantly drunk and unusually animated in conversation.
  Just what sort of hotel did he train at......"
 "It\'s no use trying to compete with Ronove‐sama, he\'s totally perfect.
  But I still love you more, Gohda.
- This one\'s been cooked juuust right{p:0:♪}"
+ This one\'s been cooked juuust right♪"
 The Seven Sisters had blended into the party perfectly, and were making things interesting.
 "And yet, there are a great many mysteries that are called masterpieces, and which are also discredited by Van Dine\'s Twenty Rules."
 "It\'s not like I\'m discrediting anything.
@@ -492,13 +492,13 @@ Smiling contently at the ensuing uproar, Battler headed towards the parlor.
  I didn\'t knock on the door in case she was asleep, but if she locked it, that proves she was awake.
  ......Let\'s try knocking once."
 Battler knocked on the door and called Ange\'s name.
-{n}However, there was no response from the other side.
+However, there was no response from the other side.
 He pressed his ear against the door, listening carefully, but there was no hint of Ange unhappily throwing a cushion at it.
 "She might have fallen asleep after having her little tantrum.
  ......Could you open it for me?"
 "As you wish."
 Shannon took out her master key and unlocked the door.
-{n}Then, she stepped back to let Battler go through.
+Then, she stepped back to let Battler go through.
 "......Ange...
  I\'m coming in......"
 Speaking a quiet voice to avoid waking Ange if she was asleep, Battler opened the door.
@@ -508,7 +508,7 @@ The breeze, which felt like outside air, immediately caught the attention of the
 The curtains to the wide‐open window fluttered about.
 "Ange......? ......Ange......?"
 A blanket lay crumpled up on the sofa.
-{n}It sat there just as Ange had left it after waking up.
+It sat there just as Ange had left it after waking up.
 The blanket was slightly warm.
 Clearly, she had been here until a short while ago.
 "Ange‐sama......?
@@ -523,7 +523,7 @@ Since she didn\'t leave via the main entrance, she probably doesn\'t even have a
 It was very hard to imagine any reason Ange could have for going outside in this weather.
 ............I have a bad feeling about this.
 This shouldn\'t be happening.
-{n}I\'m the Game Master of this game board.
+I\'m the Game Master of this game board.
 So why are we in a situation that the Game Master can\'t understand...?
 A large bolt of lightning lit up my surroundings for an instant, but I was unable to see any trace of Ange......
 "Okay, okay, now it\'s my turn to think of a question!
@@ -602,8 +602,8 @@ She stared at Lion and Will with an unnerving smile on her face, but she apparen
  It\'s like this, right?
  You\'re saying you lost to me, but not to Battler and Beato."
 It seemed as though {f:5:Bernkastel} might smile.
-{n}However, she didn\'t.
-{n}Those cold eyes spoke without words.
+However, she didn\'t.
+Those cold eyes spoke without words.
 Battler understood.
 He had played so many games against Beato.
 Those games had been a wordless message from Beato.
@@ -902,7 +902,7 @@ The next emotion that rose up inside me......was a desire to check and see that 
 In that instant, ......Ange heard a scraping sound.
 Thinking she must have imagined it, she was about to relax when she heard the sound once more.
 It was probably coming from the door.
-{n}Someone was clawing at the door from the outside.
+Someone was clawing at the door from the outside.
 Of course, she had no way of knowing who it was.
 However, for some reason, she was sure that it was that black cat scratching at the door.
 ......The black cat was telling her to leave this room.
@@ -935,9 +935,9 @@ The black cat seemed to nod, then silently ascended the stairs.
  but the second floor was Uncle Krauss\'s family\'s house, and I remembered getting in trouble for trying to go up there.
 However, at that moment, I couldn\'t think of any options...other than following that cat......
 I walked along the dark hallway with the black cat.
-{n}Eventually, we reached one of the doors.
+Eventually, we reached one of the doors.
 The black cat scratched at the door, then turned to look at me.
-{n}......It must have been telling me to open it.
+......It must have been telling me to open it.
 "Okay......
  ......I\'ll open it for you......"
 I put my hand on the doorknob......and felt the resistance of a lock again.
@@ -951,7 +951,7 @@ Somehow, Ange\'s fingertips were stained red with blood.
 She let out a short cry and dropped the key that she had just removed from the keyhole.
 She finally realized.
  In the darkness, she hadn\'t noticed before.
-{n}The black cat\'s key......was covered with blood......
+The black cat\'s key......was covered with blood......
 ......The emotions that had gone numb in Ange sprang back.
 A terrified scream rang out through the dark hallway......
 Even so, Ange would eventually open that door.
@@ -962,7 +962,7 @@ Cosmetics and books lay all over the place, as though a typhoon had just ripped 
 And......there were the corpses.
 Krauss and Natsuhi\'s corpses lay sprawled on the floor......
 Very shortly, Ange will step into this room.
-{n}She will then scream in terror once more......
+She will then scream in terror once more......
 And it isn\'t just the dining hall and Natsuhi\'s room.
 In the stormy rose garden, .........Shannon\'s corpse lies exposed to the rain.
 ......Partway down the path to the rose garden...is Jessica\'s corpse.

@@ -22,13 +22,13 @@ as though that light would never dim again.}
 {a:c:
 After all, it is such a wonderful thing......}
 {a:c:
-{m:-5:—}—Witness to your final dream,
+——Witness to your final dream,
 {e:080:{f:5:Publius Virgilia Maro}}}
 The suspects were gathered in a room, and several Inquisitors were reporting on the results of their investigation.
 Their uniforms closely resembled those of Eiserne Jungfrau, but they were slightly different.
  Also different were the badges signifying their department.
 Then came the sound of someone clapping their hands once.
-{n}It was the lead female Inquisitor.
+It was the lead female Inquisitor.
 It was her signal that all reasoning had been completed.
 "For your attention: it is now beyond doubt.
  The preceding logic has proven the nonexistence of your alibi."
@@ -142,15 +142,15 @@ The Inquisitors listened with calm—no, scornful gazes.
 They listened to the frantic babbling of the maid accused of murdering her master.
 However, nothing she said could bury the fault in her own alibi.
 They were all mere emotional arguments.
-{n}"I loved and respected my master so much. I had no motive for killing him."
+"I loved and respected my master so much. I had no motive for killing him."
 No matter how much she spoke,
  it only made her look more and more like the floundering true culprit struggling pathetically.
 The whodunit and howdunit had been satisfied.
-{n}As for the whydunit, the motive, the heart—who would care?
+As for the whydunit, the motive, the heart—who would care?
 ......No matter how much she spoke of her gratitude for her master, who had graciously fed her and given her a job when she had been left to starve on the streets after various misfortunes,
  that didn\'t help her case in the slightest in the mystery genre.
 Therefore, her motive didn\'t matter.
-{n}All of that could just be {i:squeezed out} of the culprit afterwards.
+All of that could just be {i:squeezed out} of the culprit afterwards.
 An Inquisitor took out a roll of parchment and held it forth, cutting off the maid\'s sobs and protests.
 "This is how you committed the crime.
  Know that this indictment has been received by the Great Court and that your arrest has been approved.
@@ -164,7 +164,7 @@ An Inquisitor took out a roll of parchment and held it forth, cutting off the ma
  ......It isn\'t even necessary for you to confess!
  Aides, arrest that maid!"
 "It wasn\'t me! I didn\'t kill the master...!!
- N‐no, nooo{-}o{-}o{-}o{-}o{-}o{-}oo!!"
+ N‐no, noooooooooo!!"
 "Hold it right there.
  You\'ve got the wrong culprit."
 A man kicked the door open, and the Inquisitors were all shocked at the sight of him.

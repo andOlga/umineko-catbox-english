@@ -12,13 +12,13 @@
  I hear, after acting {ruby:tsuntsun:bad‐tempered} and exploring the depths of cruelty, if you act properly incompetent and {ruby:dere:soft}, you can get a massive rise on that goodwill meter thing, riiight?
  Kyahahahahahaah!!"
 That lonely tone was the sound of the desolate wind blowing by.
-{n}The color of the glittering flower petals on the rose bushes was...that of gold.
+The color of the glittering flower petals on the rose bushes was...that of gold.
 The group of gold butterflies which had once danced through this golden rose garden like fluttering rose petals...
 could no longer be seen anywhere...
 The master of the Golden Land is the Golden Witch, {f:5:Beatrice}.
-{n}She could be called inhumane and cruel.
+She could be called inhumane and cruel.
  Arrogant and outrageous.
-{n} And also, naive and simple.
+ And also, naive and simple.
 That laugh of hers, which lost its grace more and more the longer it continued, ......could no longer be heard.
 The Golden Witch {f:5:Beatrice}...
 sat like a doll, resting in a deck chair adorned as beautifully as the golden rose garden.
@@ -31,11 +31,11 @@ Her hair was down, and {f:5:Virgilia} was carefully fixing it up with a comb.
 If {f:5:Beatrice} had been complaining about this and that regarding her hairstyle,
  then it would have been clear that she was the usual Beato.
 ......However, she gave no responses, and showed no reactions.
-{n}So instead, it only looked like {f:5:Virgilia} was combing the golden hair of a large doll...
+So instead, it only looked like {f:5:Virgilia} was combing the golden hair of a large doll...
 Alongside them, there was a table.
 On it was a chessboard...along with a mix of black and white pieces in an all‐out battle.
 However, something about this setup looked different from normal chess.
-{n}...It might have been a game similar to chess but not identical.
+...It might have been a game similar to chess but not identical.
 And on the other side, ......sitting back in his chair as he contemplated his next move, was a young man.
 ...No, perhaps he wasn\'t thinking of his next move.
 Every once in a while, he would change the positions of the pieces, reconsidering the situation each time he changed it.
@@ -53,14 +53,14 @@ Even Battler...didn\'t expect that Beato would respond to that statement.
 No, ......he was still holding onto the hope that there might be a chance of her responding,
  and had only made it sound as though he was talking to himself.
 Beato\'s eyes......reflected nothing.
-{n}And her mouth told nothing.
+And her mouth told nothing.
 "........................"
 After begging him to kill her,
  ...the Golden Witch had become a corpse which had given up on living.
 She wasn\'t sleeping.
-{n}......She was forbidden to step down from this game, and therefore, sleep was not permitted.
+......She was forbidden to step down from this game, and therefore, sleep was not permitted.
 So she must have heard.
-{n}However, ......his words probably hadn\'t reached her heart.
+However, ......his words probably hadn\'t reached her heart.
 The Golden Witch would no longer sneer at Battler\'s moves, nor would she praise them or belittle them.
 {f:5:Beatrice} was no longer......anything more than a living doll.
 Even so, she would glance at him every once in a while. It would be an empty glance, but a glance nonetheless.
@@ -79,8 +79,8 @@ However, her movements were never able to communicate anything to Battler......
 ......It seemed unbelievable.
  That shrill laugh of Beato\'s...would never be heard again.
 However, even if she couldn\'t answer, his voice was surely reaching her.
-{n}......Battler was talking to her because he believed this.
-{n}So he said the same thing one more time...
+......Battler was talking to her because he believed this.
+So he said the same thing one more time...
 "What led you to make this move in this situation?
  I don\'t get it at all.
  I don\'t understand your moves."
@@ -88,7 +88,7 @@ However, even if she couldn\'t answer, his voice was surely reaching her.
  ......So, her thoughts don\'t make any sense to you?"
 {f:5:Virgilia} answered in her disciple\'s stead.
 Up to this point, she had done her best to avoid speaking for Beato.
-{n}After all, there was a chance that Beato would respond in some way, and {f:5:Virgilia} didn\'t want to be the one to take that opportunity away from her.
+After all, there was a chance that Beato would respond in some way, and {f:5:Virgilia} didn\'t want to be the one to take that opportunity away from her.
 ......Which meant that Battler was being forced to bear with this silence...
 ...until Beato herself answered.
 {f:5:Virgilia} could no longer bear to watch him like this...
@@ -116,11 +116,11 @@ It wasn\'t tied to anything, so it didn\'t restrict her movement.
 However, it symbolized restriction.
  It was a visualization of the restriction that prevented her from leaving the game without either victory or loss...
 And...the shackle was probably hurting her.
-{n}The mercilessly cold steel shackle...
+The mercilessly cold steel shackle...
 was tormenting her over and over inside her waking dream.
 "............Ghh............ah..."
 So there was never any relief in her empty expression.
-{n}Her eyelids would sometimes tremble like she was having a bad dream, ...and every once in a while, she would let out a pained gasp.
+Her eyelids would sometimes tremble like she was having a bad dream, ...and every once in a while, she would let out a pained gasp.
 Unless I win,
  ......Beato will never be released from the curse that prevents her from resting in peace...
 "...Are you not in a hurry?
@@ -128,7 +128,7 @@ Unless I win,
 "............
  ......I\'m not interested."
 Why should I take part in any game without Beato as an opponent...?
-{n}If that\'s the only alternative,
+If that\'s the only alternative,
  then stepping through past games on a journey in search of Beato\'s thought process is a much better use of my time......
 "I\'ll be the next Game Master.
  Any objections?
@@ -200,9 +200,9 @@ However, this was the first time he had learned their names and spoken to them d
 Letting my voiceless emotions explode, ...I slammed the table hard.
 The two witches barely flinched.
 ......One grinned.
-{n}The other looked indifferent, as though nothing had happened.
+The other looked indifferent, as though nothing had happened.
 The two of them just stared at me silently.
-{n}...As though they were reproaching me.
+...As though they were reproaching me.
 "What\'s this?
  Not satisfied?
  Are you saying you\'ll step down from my fifth game?
@@ -237,7 +237,7 @@ For Ange\'s sake, ...even though I know that the witches are toying with me,
 "That spectacle where she was torn to bits, ripped to pieces by countless red‐hot pliers.
  Do you need to look at it directly this time......?"
 {f:5:Bernkastel} faced the palm of her right hand upwards.
-{n}...As she did, a pale light gathered there, ......and some kind of blue‐glowing crystal appeared there.
+...As she did, a pale light gathered there, ......and some kind of blue‐glowing crystal appeared there.
 ......A scene was reflected on its sharp surface,
  ...but it wasn\'t the scene that surrounded them now.
 If you looked deep into that crystal, ......that fragment,
@@ -260,8 +260,8 @@ Battler\'s fists shook with anger,
  ......but even if he swung them down, he wouldn\'t be able to hit {f:5:Bernkastel}.
 Like a cat or a phantom, this witch wouldn\'t even let someone pet her if she didn\'t wish for it.
 Besides, ...she\'s telling the truth.
-{n}For Ange\'s sake, I can\'t step down from this fight.
-{n}Even if these unpleasant witches hijack the game board.
+For Ange\'s sake, I can\'t step down from this fight.
+Even if these unpleasant witches hijack the game board.
 "Ehheheheheh.
  That\'s just like you, Be~rn.
  Even the way you frighten people into doing what you want is heartless.
@@ -318,7 +318,7 @@ Even though Battler had acknowledged this fifth game, he turned his back on them
 "......What\'s wrong, Lambda?
  If your opponent is me and not that fool Battler, you won\'t play...?"
 "Ehheheheheh!!
- Of course I will{p:0:♪}
+ Of course I will♪
  I\'m glad I get to play with you, Be~rn!
  Come on, let\'s play, let\'s play!
  Let\'s play together in {f:5:Lambdadelta}‐sama\'s super <hyper> and <cute> Episode 5~!"
@@ -329,7 +329,7 @@ Even though Battler had acknowledged this fifth game, he turned his back on them
  I made sure to use a Beato‐ish atmosphere {i:and} I made it into an even {i:more} interesting story."
 "Battler, make sure you come back as soon as your break\'s over, okay?
  It\'d be a shame to miss this.
- I\'ve prepared plenty of bonus hints that\'ll get you closer to Beato\'s secre~t{p:0:♪}"
+ I\'ve prepared plenty of bonus hints that\'ll get you closer to Beato\'s secre~t♪"
 "...Is what it\'ll look like but I\'ll actually fill it with misdirection and make things more and more confusi~ng.
  Wait, hey, Battlerr! Why aren\'t you listening when a witch is talking?!"
 Without answering, Battler disappeared into the darkness.
@@ -348,7 +348,7 @@ After shrugging and cackling,
  so people {i:don\'t do that}."
 "....................."
 That definitely......wouldn\'t be chess anymore.
-{n}It looked like Beato\'s eyes clouded very slightly with sadness.
+It looked like Beato\'s eyes clouded very slightly with sadness.
 ".........Damn them.
  .........This game is between me and Beato.
  ...I won\'t let anyone else profane it."
@@ -410,14 +410,14 @@ Because I\'ve been loafing about, crazier and crazier witches have been introduc
 Beato lay there silently, like a living doll with dull eyes...
 The game board that she had created herself had been hijacked by incomprehensible people and was being turned into a mess...
 Beato had called on me to be her opponent.
-{n}Then this game must be something she created for me.
-{n}I\'ve......got to take it back.
+Then this game must be something she created for me.
+I\'ve......got to take it back.
 "......You just wait here.
  I\'m going to take it back."
 "....................."
 Of course, Beato didn\'t respond in any way.
  ......That\'s right.
-{n}If she can\'t respond, ...then I have to protect it in her place.
+If she can\'t respond, ...then I have to protect it in her place.
 "I\'ll be right back.
  ......{f:5:Virgilia}, Ronove.
  ...I\'m counting on you two to look after this golden sleeping princess."
@@ -471,7 +471,7 @@ And the culprit is among these people.
 "............It was you?!
  You killed George, killed my husband?!
  Why?!!
- Whyy{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}yyy?!!"
+ Whyyyyyyyyyyyyyyyy?!!"
 "I, ...I didn\'t kill anyone...!
  I, I, d‐didn\'t do...!!"
 "....................."

@@ -1,9 +1,9 @@
 I had been trying to take a nap, ......but the boat really was shaking bad.
 I gave up on sleeping and went up onto the deck.
-{n}I was welcomed by the shining sun and a strong sea breeze...
+I was welcomed by the shining sun and a strong sea breeze...
 Up on the deck, Amakusa was doing some stretches.
 ......He probably has a lot of time on his hands too.
-{n}It\'ll still take a while longer to reach Niijima.
+It\'ll still take a while longer to reach Niijima.
 It would only have taken on the order of half an hour by airplane, but there was the chance that the Sumaderas\' net extended over Niijima airport.
 The harbor would probably be the same.
  For that reason, I had obtained a boat that would let me land while avoiding the harbor, with no questions asked.
@@ -52,7 +52,7 @@ And I felt as if that meant throwing away the promise the witch had made,
  and any chance that someone from my family might come back.
 So, I\'m continuing this journey because I want to believe in that illusion.
 I don\'t seriously believe that this journey will change anything.
-{n}......I\'m even free to end it at any time.
+......I\'m even free to end it at any time.
  It\'s up to me to choose where the final destination is.
 In the end, this journey is only for my personal self‐satisfaction......
 "............Self‐satisfaction, is it.
@@ -62,7 +62,7 @@ In the end, this journey is only for my personal self‐satisfaction......
 "Don\'t just laugh it off.
  What I\'m trying to say is that there\'s no {i:self} about it—in this world, the only one {i:capable} of satisfying you is yourself."
 Amakusa continued stretching as he spoke.
-{n}In an annoyingly eloquent way.
+In an annoyingly eloquent way.
 Hearing it told to me as though from a teacher made me instinctively want to resist, but what he was saying was extremely sensible.
 ".....................
  ......That may be true."
@@ -71,7 +71,7 @@ Hearing it told to me as though from a teacher made me instinctively want to res
  Children learn how to work hard because they want to be praised by their parents.
  .........Of course, that\'s why I never learned."
 "Sorry, that\'s not what I intended to say."
-"......What I want to say is that self‐satisfaction is {nobr:A‐OK}.
+"......What I want to say is that self‐satisfaction is A‐OK.
  No matter who praises you, it\'s meaningless unless you yourself are satisfied.
  ......Turning it around, even if no one praises you, that doesn\'t matter as long as you\'re satisfied yourself."
 ".........Self‐satisfaction and self‐improvement contradict each other, so we\'re usually taught that the former is bad.
@@ -98,7 +98,7 @@ Hearing it told to me as though from a teacher made me instinctively want to res
  I\'ll be over with the boat captain.
  Please, take your time."
 It seemed Amakusa had decided I was in a bad mood.
-{n}......Although I didn\'t feel that way myself.
+......Although I didn\'t feel that way myself.
 Maybe he had just finished a set of stretches and wanted to cool off in the shade.
 The sea winds were strong, but not enough to take the edge off the rays of the sun.
 Amakusa disappeared.
@@ -123,7 +123,7 @@ I noticed that Mammon had suddenly appeared, her full hair streaming out in the 
 "*giggle*.
  Your praise honors me."
 Apparently that counted as praise in Mammon\'s eyes.
-{n}She turned and gave a graceful curtsy.
+She turned and gave a graceful curtsy.
 "Ange‐sama.
  Do {y:0:Human}{n:0:human}s live so that they can be satisfied at the moment of their death?"
 "......It must be pretty tough to be somehow incomplete at the moment of your death, right?"
@@ -131,7 +131,7 @@ Apparently that counted as praise in Mammon\'s eyes.
  They live so that they can have a better death.
  They live to die."
 ............Wow, that\'s a hell of a thing to say.
-{n}...Yes, I should have expected that from a demon stake.
+...Yes, I should have expected that from a demon stake.
 However, her words might be the truth.
  Humans suffer because they aren\'t whole, and live only to be made whole.
 That might be the same, in other words, as a desire to die—to die while whole.
@@ -233,7 +233,7 @@ If those who live there are satisfied with what they have, that\'s more than eno
 "......And yet, when I was young, I said it, that day.
  I told her there\'s no way magic exists, ......and I hurt her."
 To me, magic doesn\'t exist—but that\'s {i:my} world.
-{n}Denying Onee‐chan\'s world as well just because of that was totally barking up the wrong tree.
+Denying Onee‐chan\'s world as well just because of that was totally barking up the wrong tree.
 "Mariage Sorcière is the witches\' alliance Maria onee‐chan created.
  I was invited into that, and invited to become a witch with her."
 "I thought it was a fun new game, and I went along with it for a while.
@@ -255,7 +255,7 @@ To me, magic doesn\'t exist—but that\'s {i:my} world.
  She still hadn\'t reached the same kind of philosophical viewpoint as Amakusa.
  ......Ahh, and that explains it perfectly.
  Why the witches\' alliance called Mariage Sorcière was necessary."
-{m:-5:―}―An alliance where each accepts that the other is a witch.
+――An alliance where each accepts that the other is a witch.
 "...That\'s right—I\'m pretty sure that was the first article in the agreement of Mariage Sorcière.
  ......Witches of the alliance must accept each other and respect each other.
  That is the deepest and the only meaning of the witches\' alliance......"
@@ -350,7 +350,7 @@ With a sleepy face, as though waking up from a long slumber, Sakutarou looked al
  ......And now, I\'m the only one who can."
 ‘..................Uryu......’
 Those words might have been a bit cruel.
-{n}Sakutarou\'s face clouded over...
+Sakutarou\'s face clouded over...
 "In the past, I denied you.
  .........Now that I have summoned you,
  ......that means that I have accepted your existence."
@@ -438,9 +438,9 @@ But now I\'m different.
  Whether magic actually does exist somewhere in the world or not, you see?"
 When I think about it, the world is so vast, ......and yet so small.
 Billions of people live on the Earth.
-{n}But I probably won\'t meet even one percent of those people.
+But I probably won\'t meet even one percent of those people.
 Even so, I will speak of the world.
-{n}Without knowing even one percent of the world—I will speak of "my world".
+Without knowing even one percent of the world—I will speak of "my world".
 "I\'m not qualified to deny the laws of a world I don\'t know.
  ......So just because magic doesn\'t exist in my world, I can\'t deny that magic exists in a world I don\'t know."
 "That makes it a true Devil\'s Proof.
@@ -464,7 +464,7 @@ I proclaimed the most important part again.
 Both Sakutarou and the Seven Sisters of Purgatory......reflected upon my words.
 And, probably, I did too.
 Does magic exist or not—
-{n}Do witches exist or not—
+Do witches exist or not—
 I reflected on the fact that, while ignoring what the answer was within my world, ......I had declared openly that I would accept their existence, despite it being a contradiction.
 ‘Thank you, ......Ange.’
 "If you will accept that much, perhaps one day, witches could also—
@@ -567,7 +567,7 @@ Even inside the diary, Maria onee‐chan had asked this of {f:5:Beatrice}, and h
 The magical significance of a stuffed animal being unique and handmade is very large.
 Then, if we could make the same thing once more......
 But Aunt Rosa is already gone from this world.
-{n}We can never make the same thing again.
+We can never make the same thing again.
 "......Was there ever another identical stuffed animal made, or anything like that?"
 "He is a stuffed animal made for Lady {f:5:Maria}\'s birthday present, and is the only one in the world.
  ......A handmade and unique vessel.
@@ -615,18 +615,18 @@ The spray hitting my cheek might not all be coming from the crashing waves.
  Shouldn\'t you be going down?"
 Amakusa called out to me, with an expression of surprise that I was still here.
 When I looked up, I saw that the island\'s silhouette had gotten much larger.
-{n}We might reach land very soon.
+We might reach land very soon.
 I remembered that the weather report had mentioned scattered rains.
 The sky wasn\'t dark enough for rain clouds.
-{n}It\'ll probably be just for a short time.
+It\'ll probably be just for a short time.
 Even if the rain was light enough not to be a bother,
  ......having rain start to fall as we approached the island felt like some kind of fate.
 It was probably raining on October 4th, 1986, as well.
-{n}I was approaching the Rokkenjima of that day, ......and not just in distance......
+I was approaching the Rokkenjima of that day, ......and not just in distance......
 I went back down with Amakusa.
 Amakusa was carrying what looked like a quite large and heavy golf bag.
 It was something Amakusa had brought back from god‐knows‐where after we split up for a day.
-{n}......I wasn\'t going to inquire as to its contents, but it\'s hard to imagine that they\'re anything peaceful.
+......I wasn\'t going to inquire as to its contents, but it\'s hard to imagine that they\'re anything peaceful.
 ".........I\'m deliberately not going to ask what\'s inside, but it looks heavy."
 "Why is it that these are so heavy?
  A French instructor taught me something interesting about that once."
@@ -637,8 +637,8 @@ It was something Amakusa had brought back from god‐knows‐where after we spli
 "That would be nice."
 Amakusa set the golf‐bag‐like luggage down heavily beside him.
 A two‐propeller aircraft touched down on the runway.
-{n}With the weather in these conditions, it could not have been a pleasant flight.
-{n}Everything after this flight had been suspended due to the weather.
+With the weather in these conditions, it could not have been a pleasant flight.
+Everything after this flight had been suspended due to the weather.
 Cutting through the drizzle as she traversed the runway, Sumadera Kasumi entered the lobby with two black‐suits as guards.
 The four black‐suits who had been waiting inside the lobby stood up and respectfully lowered their heads.
 """Kasumi‐sama...!"""

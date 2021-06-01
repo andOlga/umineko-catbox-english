@@ -39,7 +39,7 @@ Shannon‐chan, who didn\'t have any afternoon chores for a while, was faithfull
 I would have thought that, as a servant, accompanying us would force her to take care of us and tire her out, but it seemed that it wasn\'t so in her case.
 ...To the contrary, it seemed she was having fun joining in on the conversation with people of a similar age.
 When I asked, she told me she was a live‐in worker.
-{n}So normally, the only person close in age to her was Jessica.
+So normally, the only person close in age to her was Jessica.
 I get it, that must be pretty wearisome.
 "Alright, so I get that the sweetfish‐filled river near Odawara is the Hayakawa.
  In that case, we have to go down it!
@@ -75,7 +75,7 @@ I get it, that must be pretty wearisome.
 "The problem is the next line.
  Alright, let\'s see where your strange reasoning can take you."
 Jessica grinned broadly.
-{n}It was like she was saying that, if the puzzle could be solved so easily, she would have found it long ago.
+It was like she was saying that, if the puzzle could be solved so easily, she would have found it long ago.
 ...Damn it,
  I\'ll definitely find it and keep it all for myself!
 "The fourth line.
@@ -83,9 +83,9 @@ Jessica grinned broadly.
  .........I don\'t know what it means by "the two", but anyway, the shore.
  .........What does it mean by the shore?!
  Hmmmm...
-is there any place near there with {ruby:shore:{p:0:岸}} in its name?"
+is there any place near there with {ruby:shore:岸} in its name?"
 "Ummm,
- ......I have heard that there is a place called {ruby:Sogakishi:{p:0:曽我岸}} in Odawara."
+ ......I have heard that there is a place called {ruby:Sogakishi:曽我岸} in Odawara."
 "Huh?!
  Wow,
  you sure know a lot!"
@@ -196,7 +196,7 @@ After looking back at Maria\'s notebook to recall what was written there,
 "Oh well, just when the tale of the hidden gold was getting interesting, as soon as the witch\'s story is tied in, it quickly gets pretty shady."
 "No kidding, ahahahahahaha!"
 I laughed along with Jessica.
-{n}After all, a witch was just ridiculous.
+After all, a witch was just ridiculous.
 ...Of course, once we started laughing like that, Maria, who believed in witches, got angry.
 "Uu!
  Witches are awesome!
@@ -225,7 +225,7 @@ With a flourish of their wands, the stars in the sky would become candy and pour
 The last thing enriching her reality, which revealed more and more of its bland nature to her with every inch she grew.
 That was why Maria believed in witches.
 She didn\'t want that dream to be insulted.
-{n}And for that very reason, nor did she want the epitaph, which affirmed the existence of witches, to be insulted.
+And for that very reason, nor did she want the epitaph, which affirmed the existence of witches, to be insulted.
 Because the witch {f:5:Beatrice} {i:is} Maria\'s dream...
 "To Maria‐chan, this is not something that points to the hiding place of the gold,
  but magic to revive the witch."
@@ -235,7 +235,7 @@ Maria was very angry and clung onto George‐aniki.
 Jessica and I scratched our heads and apologized.
 ...It might not be possible to smooth things over again like the time she got mad in front of the portrait.
 Maria didn\'t want to be easily consoled.
-{n}As Jessica and I hung our heads, wondering what we could do, Shannon‐chan timidly opened her mouth in our place.
+As Jessica and I hung our heads, wondering what we could do, Shannon‐chan timidly opened her mouth in our place.
 "Umm,
  .........Maria‐sama, did you know...?
  There is a ghost story about {f:5:Beatrice}‐sama that has been passed down amongst the servants."
@@ -271,7 +271,7 @@ Maria puffed out her chest with an "uu‐uu" as though this was the final proof 
 If I said it out loud, Maria would probably be hurt again, so I didn\'t, but...
 ...I mean, you hear that kind of story everywhere.
 Depending on the place, it might be blamed on fairies or something.
-{n}It\'s just that, on this island, they call it the witch.
+It\'s just that, on this island, they call it the witch.
 Of course, you would expect that walking around a vast, elegant mansion at night would be a little unsettling.
 It\'s an island devoid of people.
  Since the mansion is so drafty, walking around on the night of a thunderstorm would certainly be eerie.
@@ -364,7 +364,7 @@ I really wanted to make fun of this worthless‐looking charm,
  it felt as though, even if it were just a prize from a game center, it would still be beneficial.
 Material quality isn\'t what\'s important about charms.
  It\'s the strength of the feelings behind them.
-{n}I\'d like to think I have enough respect for myself not to make fun of those.
+I\'d like to think I have enough respect for myself not to make fun of those.
 "Okay, thank you.
  I apologized to {f:5:Beatrice}‐sama, but, even in the worst case where I\'m cursed, I\'ll be safe now thanks to your charm.
  Right, Jessica?"
@@ -401,7 +401,7 @@ It also seemed like the wind had gotten a little stronger.
 "That\'s right.
  Maybe we should head back soon...?"
 Shannon‐chan looked down at her watch.
-{n}It may already be well into the evening.
+It may already be well into the evening.
 "Time to get back to work already?"
 "Yes.
  ...I enjoyed this time I spent together with you all.
@@ -446,7 +446,7 @@ Even Maria, who was still not tired of playing, agreed when she thought about wa
 We headed up the gentle stairs and returned to the rose garden.
 The wind had become very strong, and roses shook throughout the garden like ripples on water.
 This might be our last chance to see these beautiful roses.
-{n}Tonight\'s typhoon is sure to ruin them...
+Tonight\'s typhoon is sure to ruin them...
 "These roses might be done in by tonight\'s winds."
 "Yeah.
  I\'d say they were lucky, though.
@@ -459,7 +459,7 @@ This might be our last chance to see these beautiful roses.
 "Uu.
  Burned into eyes."
 Right then, Maria suddenly clapped her hands.
-{n}It looked like she had remembered something.
+It looked like she had remembered something.
 "......My rose...
  The typhoon will send it flying.
  ......Uu!"
@@ -509,7 +509,7 @@ For a while, we would have to stay with Maria,
  Not here!
  Uuu!!"
 Maybe she\'s saying that it should be here but isn\'t.
-{n}Maria became increasingly ill‐tempered...
+Maria became increasingly ill‐tempered...
 "...Oh man,
  Maria is really losing her temper."
 "Maria sometimes starts to really care about really pointless things.
@@ -524,7 +524,7 @@ In the direction she was waving her hand, Auntie Rosa\'s figure was visible.
 Maybe she wanted to look at the garden one more time before the typhoon came,
  or maybe she had some business at the guesthouse.
 Auntie Rosa was coming from the mansion.
-{n}She quickly noticed her daughter\'s voice and came over.
+She quickly noticed her daughter\'s voice and came over.
 "Oh my, what happened, everyone?
  Are you looking for something?"
 "Look for iiit!
@@ -572,9 +572,9 @@ Auntie Rosa began searching as well, so we went along with her for the time bein
 "How should I know!!
  Stop it, stop that whining!!"
 Auntie Rosa slapped Maria\'s left cheek with her palm.
-{n}For that instant, Maria was shocked into silence.
+For that instant, Maria was shocked into silence.
 Of course, it was only for an instant.
-{n}When Maria realized that her wish was being rejected before it could be fulfilled, she started yelling with an increasingly louder voice.
+When Maria realized that her wish was being rejected before it could be fulfilled, she started yelling with an increasingly louder voice.
 "Uu‐uu!!
  Uu‐uu‐uu!!
  My rose!
@@ -585,7 +585,7 @@ Of course, it was only for an instant.
  Cut it out!!"
 Once again, her palm slapped Maria\'s cheek.
 This time she didn\'t go silent.
-{n}She choked as she started crying, and began to bawl in an increasingly louder voice...
+She choked as she started crying, and began to bawl in an increasingly louder voice...
 Auntie Rosa was clearly irritated, and lifted her hand once more to try and shut her daughter up...
 "A‐Auntie Rosa...
  Now, now...she\'s just a little kid...there\'s no reason to get so serious...ihihi."
@@ -616,12 +616,12 @@ I attempted to intervene with a forced smile and my hands clasped together,
 "I don\'t know that!!
  So stop saying "uu‐uu"!!"
 Auntie Rosa once again raised her hand and, overrun by emotions, slapped Maria\'s cheek.
-{n}It was so strong, it knocked Maria over.
+It was so strong, it knocked Maria over.
 "H‐hey...Auntie Rosa,
  even if she is your daughter, you shouldn\'t be violent like that..."
 I stepped between them to protect Maria, who was still on the ground, crying "uu‐uu".
 ......I know that problems between parent and child are none of my business as an outsider.
-{n}But I wasn\'t brought up to just silently observe something like this...
+But I wasn\'t brought up to just silently observe something like this...
 "Don\'t you think it\'s weird, Battler‐kun?
  Do you have any girls at your school that mutter "uu‐uu"?"
 "Well, I am in high school...
@@ -630,7 +630,7 @@ I stepped between them to protect Maria, who was still on the ground, crying "uu
  Saying "uu‐uu" is cute?
  Cute?!"
 It seemed that my reckless words had brought Auntie Rosa\'s wrath down upon me.
-{n}She grabbed my collar with a terrifying expression...
+She grabbed my collar with a terrifying expression...
 "Don\'t say such nonsense!!
  Do you know how old Maria is?
  She\'s nine years old!
@@ -691,29 +691,29 @@ But from Rosa\'s perspective, that was not her intention.
 After Rosa left, only Maria was left in the rose garden, all alone.
 The wind began to blow stronger and stronger, and every once in a while, a raindrop would fall on her forehead.
 ...However, Maria couldn\'t leave that place.
-{n}Not until she found that poor, withering rose.
+Not until she found that poor, withering rose.
 It had definitely been there.
  ......And yet,
  it wasn\'t there.
-{n}Even though she knew the place, and even though this was it,
+Even though she knew the place, and even though this was it,
  it wasn\'t there.
 Maria, while bitterly staring at the place it was supposed to be, thought frantically.
 Maybe the angle I\'m looking from is wrong.
-{n}Maybe the height I\'m looking from is wrong.
+Maybe the height I\'m looking from is wrong.
 ......While gazing at a single point,
  Maria repeatedly changed her position and continued to stare.
 The wind was getting increasingly stronger......
 But Maria kept on looking for that rose in front of the flower bed...
 .........Kinzo noticed the sound of the raindrops beating on the window.
-{n}It had finally started to rain.
-{n}It had begun later than the weather report had predicted.
+It had finally started to rain.
+It had begun later than the weather report had predicted.
 Kinzo, as if being summoned by the sound of the rain, approached the window.
-{n}The sound of the rain is a sound of silence.
+The sound of the rain is a sound of silence.
 That sound feels quieter than any silence,
  and makes humans remember that, in the end, they are alone from when they are born to when they die.
 "......You\'re late, {f:5:Beatrice}."
 Were those words directed at the rainy sky...?
-{n}No one could be seen in the direction of Kinzo\'s gaze.
+No one could be seen in the direction of Kinzo\'s gaze.
 "......So, shall we begin?
  Our banquet of miracles.
  ......In this very moment, this island has been cut off from the world.

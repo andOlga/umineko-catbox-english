@@ -97,7 +97,7 @@ Even George onii‐chan, her son, is smart, so Auntie Eva must really be incredi
  But look, we got a medal, so please forgive me."
 We got another medal.
  Just how many have we gotten so far?
-{n}But we still have a lot left to get.
+But we still have a lot left to get.
  Next up is Shannon.
 "Mine isn\'t that hard, so you can relax."
 "...Since you only have to think on Nee‐san\'s level."
@@ -388,7 +388,7 @@ From her handbag,
 "Good idea. That\'ll definitely make it easier for you to sort out your thoughts."
 "*sigh*, ......sounds like this puzzle will be a handful."
 "There\'s no way you\'re getting my medal, Ange!
- Kihi{0}hi{0}hi{0}hi{0}hihi!!"
+ Kihihihihihihi!!"
 "I won\'t lose. I\'m not gonna lose!!"
 "W‐wait a second...
  Who ever heard of a puzzle with such complicated rules?!"
@@ -396,7 +396,7 @@ From her handbag,
  There\'s lots of complicated puzzles that you\'ve got to deal with in different ways!
  See?
  You don\'t get it either, right, Ange?!
- Kihi{0}hi{0}hi{0}hihi!"
+ Kihihihihihi!"
 "Please, give me a hint!"
 "You have to organize your thoughts carefully.
  Only the three humans can row the boat.
@@ -419,16 +419,16 @@ From her handbag,
 "Impossible, impossible! You\'ll never solve it!
  Why don\'t you just give up?
  Thinking is a waste of time for the incompetent!
- Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!"
+ Kihihihihihihihihi...!"
 "Can this really be solved?
  Don\'t tell me there\'s actually some contradiction that makes it unsolvable..."
 "Uuuuuu?
  Who knows?
- Kiiihi{0}hi{0}hi{0}hi{0}hihi!"
+ Kiiihihihihihihi!"
 "Kihihihihihihi!!
  Wrong!
  You can\'t even do this one?!
- You suck, Ange, kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi,
+ You suck, Ange, kihihihihihihihihihi,
  ouch!"
 "Maria!
  Show some manners!"
@@ -568,7 +568,7 @@ If you would just turn around, we would be able to smile at you so much more, an
 Have fun, Ange.
 So long.
 The time we spent together feels so long, yet so short.
-{n}Even so, for me, the memory is eternal......
+Even so, for me, the memory is eternal......
 "How\'s it going, Ange?
  Did you get a ton of medals?"
 "I wonder how many it is now!"
@@ -817,10 +817,10 @@ They placed three small, colorful, cubic boxes on the table.
  Which of these has a medal inside, do you think?
  Just say the first one that pops into your head."
 A red box, a blue box, and a green box.
-{n}There\'s no way to know which one it\'s in.
+There\'s no way to know which one it\'s in.
 ......This really is...a test of luck.
 In a way, this is even worse than a hard puzzle.
-{n}After all, you can always get a hard puzzle right—you just have to solve it.
+After all, you can always get a hard puzzle right—you just have to solve it.
 ......But in the very beginning, I picked the almond with a 1 in 15 chance.
 Compared to that, a 1 in 3 chance is five times easier to get.
 There\'s no point worrying about it.
@@ -1053,7 +1053,7 @@ With very serious expressions on their faces, they grasped my shoulders as they 
  considering how much we\'ve been running around."
 I rubbed my eyes.
 I must have gotten really excited.
-{n}But whenever I get excited, I\'m always tired afterwards.
+But whenever I get excited, I\'m always tired afterwards.
 Right now, I\'d rather have a sofa to lie on than medals.
 "I\'ve got a special puzzle just for you, ......but are you sure you want it?
  If you\'re sleepy, you can stop now."
@@ -1070,7 +1070,7 @@ Onii‐chan and Beato laughed at my yawn.
  ......I\'ve...come this far, and...
 ...I also want......Onii‐chan\'s medal........."
 I\'m just so......so sleepy......
-{n}..............................
+..............................
 Ange drifted over to a chair in the corner of the room and plopped down onto it.
 Then, she closed her eyes, looking like a doll sitting there.
 It didn\'t take long before the cute sound of her breathing in her sleep could be heard...
@@ -1078,7 +1078,7 @@ When she saw that Ange was finally asleep, Beato spoke softly.
 "Quiet please, everyone.
  ......Ange fell asleep."
 When she said those words, the pleasant noise that had filled the room softly returned to silence.
-{n}Everyone looked down upon Ange\'s sleeping face.
+Everyone looked down upon Ange\'s sleeping face.
 Each of them wore an affectionate gaze, as if they\'d just watched a baby finally drift to sleep.
 ".........Did Ange‐chan have a good time?"
 "Of course she did.
@@ -1173,7 +1173,7 @@ Then, finally, Battler and Beato walked forward......
 "Ange.
  .........Were you able to remember everyone, at least a little bit?"
 Of course, Ange didn\'t answer in her sleep.
-{n}But Battler continued.
+But Battler continued.
 "It\'s true that the Ushiromiyas are a strange family.
  We\'re super‐rich, and that\'s given rise to all sorts of rumors and stories.
  ......However, all of those are just speculation made up by people outside the island."
@@ -1271,7 +1271,7 @@ Shannon quietly laid a warm blanket on top of her.
 Kanon placed a message card by her pillow, along with that thing Kinzo had given them.
 The message card read as follows:
 {a:c:We\'ll all be with you, always.
-{n}{nobreak:{m:-5:—}—}From the whole Ushiromiya family}
+——From the whole Ushiromiya family}
 And there, right by her pillow, was the gift from Kinzo, ......a scrubbing brush.
 And there, right by her pillow, was the gift from Kinzo, ......a can of mackerel.
 And there, right by her pillow, was the gift from Kinzo, ......a memory foam pillow with the One-winged Crest.
@@ -1298,5 +1298,5 @@ Ange, mumbling in her sleep, held it tightly against her cheek.
  ..................?"
 Shannon thought she saw something glittering silver near Ange\'s eye......
 The servants left and closed the parlor door.
-{n}As Ange slept, she was wrapped up in the soft sound of the rain.
+As Ange slept, she was wrapped up in the soft sound of the rain.
 Surely, she was reliving that fun evening once more in her dreams......

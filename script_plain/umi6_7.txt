@@ -16,7 +16,7 @@ I want to get out.
 I could open it a crack, but only enough to peek out into the corridor at best.
 ......It would probably be hard even to get just a fist through it.
 The windows wouldn\'t budge either.
-{n}They were no better than barred prison windows...
+They were no better than barred prison windows...
 The bathroom didn\'t even have a window.
 ......The only thing that could get out through there was the water that flowed out if you turned on the tap.
 ......No matter how hard I tried, ......I couldn\'t think of any way out of here.
@@ -62,7 +62,7 @@ Even though just a second ago, it was a stiff chain that looked like it was used
 At some point, .........
 it had transformed into a normal chain lock.
 This changed everything.
-{n}Now I could just undo it from the inside...!
+Now I could just undo it from the inside...!
 I tried to undo the chain, but I couldn\'t pull it off, the chain not being long enough for that while the door was still open a crack.
  Of course.
 "......C‐calm down......
@@ -71,8 +71,8 @@ I swallowed, ......and calmly closed the door.
 Then, ......when I saw that the chain had slackened enough, ...I touched it with my finger to make sure.
 ......When I was little, ......I hated chains, because I could never get them undone right.
 However, ......that was a long time ago.
-{n}I could unfasten them normally now.
-{n}......Anyone could... It was easy...
+I could unfasten them normally now.
+......Anyone could... It was easy...
 Clink......
 At that moment, that terrible thought,
  that the demon who had locked me in this room might have been using this as a trap to give me hope and then make me despair even more,
@@ -101,8 +101,8 @@ As the door let out an annoying creak,
  ..................!!!"
 Ha...hahaha, I did it......I did it......!
 Even my cry of joy was strangled.
-{n}......But that didn\'t matter anymore.
-{n}All that mattered was that I could get out!
+......But that didn\'t matter anymore.
+All that mattered was that I could get out!
 I poked my head out and looked left and right down the corridor.
 The warm corridor.
  I can sense people having fun at the other end.
@@ -121,7 +121,7 @@ From the inner side of the door I had just opened,
  ......a thick chain extended...
 ...which was connected to my collar.
 I pulled on it, but it didn\'t even budge.
-{n}When I shook it, the whole door creaked.
+When I shook it, the whole door creaked.
 ......What...
 ...th‐...
 ......the hell.........
@@ -129,16 +129,16 @@ The chain that connected to my collar......was attached to the inner side of the
 Yes.
  The same heartless chain that had secured the door a short while back...had suddenly become a chain holding {i:me} in place...
 That\'s insane... That\'s insane...!!
-{n}Dammit, what\'s going on here?!!
+Dammit, what\'s going on here?!!
 I pulled with all my strength, trying to tear the whole door off,
  but I already knew from repeated experiments that it wouldn\'t even budge.
 ......I was sure this chain would disappear once I went back inside the room.
-{n}But it would never let me leave it.
+But it would never let me leave it.
 Though it had appeared to revert to being a normal chain lock, ......nothing had actually changed.
 The fact that a "chain lock" bound me to that room was just as true now as ever...
 "......Uuu......nnngh......aaaaaaaaahhhh......!!!"
 Tears flowing down my face, I pulled with all I had.
-{n}......It was completely useless.
+......It was completely useless.
  No matter what I did, I\'d never tear it loose.
 And I wasn\'t even permitted to call out for help.
 ......I felt a confused anger at how the demon had mercilessly made me think for just an instant that I\'d escaped.
@@ -156,7 +156,7 @@ The chain lock must be set.
 You may unset it, but it must then be reset.
 Unless it is set, this exit of yours will be unusable.
 I instantly understood the meaning of that unsettling message.
-{n}Then I tried it out, and understood completely.
+Then I tried it out, and understood completely.
 When I return to the room and reset the chain lock, ......the binding around my neck disappears.
 When I undo the chain lock again, ......that heavy feeling around my neck returns.
 In other words, I cannot escape this room while the chain lock is still unset.
@@ -170,7 +170,7 @@ I stuck my hand through that crack, grabbed the dangling chain, and tried to res
 ......so why...
 ...is it so hard to do from the outside...?
 The gap needed to be wide if I wanted to manipulate the chain well.
-{n}However, that made the chain too short to reach.
+However, that made the chain too short to reach.
 To bring the chain even close to reaching, I had to close the door as much as possible.
 But doing that meant that there wouldn\'t be enough of a gap to fit my hand in.
 ......Of course, that was perfectly natural.
@@ -200,15 +200,15 @@ My wrist could never pass through this.
 But with the door closed this far, the chain should have extra length to spare...!
 And this crack is large enough for me to stick the hanger through...!
 Now it\'s just a matter of technique...!
-{n}I\'ll definitely be able to do it if I try enough times... I\'m certain of it!!
+I\'ll definitely be able to do it if I try enough times... I\'m certain of it!!
 ".........Hah......haah.........haah.........haah...!"
 It\'s harder than it looks...
 .......But the chain {i:is} long enough.
-{n}......It isn\'t impossible...!
+......It isn\'t impossible...!
 I had finally gotten my hands on the one way to escape.
-{n}......It was hard, yes, but it was theoretically possible.
+......It was hard, yes, but it was theoretically possible.
 If it was possible, then I would be able to get out.
-{n}I would be able to escape from here...!!
+I would be able to escape from here...!!
 ""......Hihi......hihihihihihihihihi......""
 "......! ...?!?!"
 At that moment, ......I felt a heavy weight on the far side of the door.
@@ -220,7 +220,7 @@ And she...
 Then, I felt a powerful and strange force on the wire hanger.
 ......Is she trying to grab it away from me?!
 Yeah right, like hell I\'ll let go!!
-{n}Like hell I\'ll let my one key out of here get stolen while my guard\'s down!!
+Like hell I\'ll let my one key out of here get stolen while my guard\'s down!!
 Fortunately, I had stuck my wrist through it so that I wouldn\'t drop it if my hand got tired.
 You won\'t be able to snatch this out of my hands...!
 ""Hihihi, hihihihihihihihihi......""
@@ -244,7 +244,7 @@ No matter the method,
 All tricks done from the corridor......had been sealed by the red letters.
 "N‐.........no way..............."
 ""Hihihihihihihi.
- ......Hihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!!""
+ ......Hihihihihihihihihi...!!""
 There was suddenly a terrible sound, and the force that had been pulling on the hanger was suddenly released.
 And....when I looked at the hanger that was finally free, I lost all hope.
 As though it had been hit by the acid of the room\'s darkness,
@@ -262,29 +262,29 @@ I threw the remnants of the wire hanger against the floor,
  ......and called for help.
 However, I just choked, unable to speak at all.
 Everyone\'s just down the corridor.
-{n}And everything\'s peaceful there!
+And everything\'s peaceful there!
 I can\'t hear their voices, but I know!
-{n}I\'m sure they\'re all having a good time playing cards!
-{n}Please, someone notice me!!
+I\'m sure they\'re all having a good time playing cards!
+Please, someone notice me!!
  Someone...save me!!!
 ""Hi...hihihihihihihi...
 ...hi
 hi
-hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!!""
-Aaaaaaaahgggyaaaaaaaaaaaaaaaaaaahhh{0}hh...!!!
+hihihihihihihihihihihihihihihihi!!""
+Aaaaaaaahgggyaaaaaaaaaaaaaaaaaaahhhhh...!!!
 """......Ahahahaha, hahahahahahahaha."""
 This time, it wasn\'t the witch\'s voice.
  ......It was the happy voices of everyone else, which I could hear from the other end of the hallway...
 Someone, come over here...
-...and save mee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eee......
+...and save meeeeeeeeeeeee......
 "Sorry, but I\'m out!"
 George slammed his last card down, ending the game with his victory once again.
 Everyone gasped in unison.
 The cousins\' room was filled with laughter as they enjoyed their card game...
 "Whoooooooa, so you really did have it, George‐aniki!
- Damn you...damn you, six of spaa{-}a{-}a{-}a{-}a{-}ades!"
+ Damn you...damn you, six of spaaaaaaades!"
 "Your eight of diamonds was pretty nasty too.
- Aah, I was so close, aha{0}ha{0}ha{0}ha{0}ha!"
+ Aah, I was so close, ahahahahaha!"
 "Uu‐uu‐uu!!
  You\'re incredible, George onii‐chan! You won again!!"
 "Yep, looks like we\'ve won again.
@@ -322,13 +322,13 @@ As Kanon slumped his shoulders, Jessica slapped him on the back.
  ...I was a coward, so I could never learn anything.
  ...So even now, I am yet to mature."
 I am furniture, so it is useless to dream.
-{n}Because he had rigidly believed that, he had distanced himself from everything and shut himself away.
+Because he had rigidly believed that, he had distanced himself from everything and shut himself away.
 However, during that time, Shannon had undergone many life adventures.
 And now, her hand rested on the door separating furniture and {y:0:Human}{n:0:human}s......
 The old Kanon would only have seen this card game as a way to pass the time.
 However, ......the new Kanon was now capable of gaining something new from this experience.
 That could probably be called...growth.
-{n}Furniture does nothing but rot with the passage of time.
+Furniture does nothing but rot with the passage of time.
 Being able to grow......is a privilege given only to {y:0:Human}{n:0:human}s.
 "Thanks for playing with us.
  You probably had work to do, like filling in the log, right...?
@@ -531,7 +531,7 @@ If that were the case, it would be understandable if they wanted a magical mirac
  They\'ve already communicated their intentions to one another.
  ......So why do they need a miracle on top of that?"
 Both pieces of furniture are in relationships of mutual love.
-{n}There shouldn\'t be any need for a miracle any longer.
+There shouldn\'t be any need for a miracle any longer.
 So why...
 ...do they still desire a miracle of magic?
 And on top of that, the single brooch is portrayed as bestowing only a single miracle.
@@ -675,7 +675,7 @@ When the cup was lifted up,
 "Well, I am the Witch of Theatergoing.
  ......If you wish to laugh at my bad taste, please do not hold back, my miko."
 "‘Wa‐ha‐ha‐ha.’"
-"Pft, ......*giggle*giggle*, haha{0}ha{0}ha{0}ha{0}haha..."
+"Pft, ......*giggle*giggle*, hahahahahahaha..."
 I understand that a part of magic is created by a believing heart.
 And that magic probably permeates deep into the world of us {y:0:Human}{n:0:human}s as well.
 However, though it does permeate so far, the power that dwells within magic is small.
@@ -693,7 +693,7 @@ However, at this point,
 It feels much stronger, like {i:a whole different interpretation of magic}.
 If you believe in a sleight of hand, it becomes magic.
 ......But that\'s no more than a child\'s trick.
-{n}And that only explains one part of magic.
+And that only explains one part of magic.
 They...are hoping for something.
 They\'re hoping for something with much, much more power...
 ...for true magic, not a sleight of hand.
@@ -727,7 +727,7 @@ However, she couldn\'t understand it, and had to ask him to repeat it with a bit
  The key for that is this brooch.
  ......I stepped on it and crushed it, so we each have one part."
 The brooch had lost its power when it was split in half.
-{n}However, if it was ever joined together again, ......its magic would be revived.
+However, if it was ever joined together again, ......its magic would be revived.
 It would revive the miraculous power that could join furniture and a {y:0:Human}{n:0:human} together...
 "However, a single brooch can only grant one person\'s wish.
  ......Only one of us furniture can be joined by this single brooch."

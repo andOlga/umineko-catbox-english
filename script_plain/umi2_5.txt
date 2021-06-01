@@ -150,13 +150,13 @@ Rosa suddenly stole the candy that Maria had been holding in her hand.
 Then she threw it on the ground and stepped on it over and over.
 To Maria, it was supposed to be proof of her memory of that span of time, however brief, when she had enjoyed going shopping with her mother...
 But it was being trampled by that very same mother.
-{n}...It was as though a brand was being pushed against Maria\'s eyes, leaving a mark that couldn\'t be erased...
+...It was as though a brand was being pushed against Maria\'s eyes, leaving a mark that couldn\'t be erased...
 "Who cares about this disgusting candy,
  disgusting, disgusting...!!"
 "This is {i:why}, you see?! {i:This} is why!!
  Disgusting disgusting disgusting!!!"
 She struck Maria\'s head over and over again with her palm as she spoke.
-{n}...She didn\'t hit Maria\'s face. Because the red swelling would stand out.
+...She didn\'t hit Maria\'s face. Because the red swelling would stand out.
 Maria closed her eyes tightly, patiently bearing her mother\'s violence...
  ...No, that wasn\'t quite it.
 ".......Come back, Mama, come back, Mama...
@@ -225,8 +225,8 @@ Kanon got down on his knees and picked up the trampled candy.
 ......It was tragic just looking at it.
 He thought about dusting it off and returning it to her, but really couldn\'t do so with it in that condition.
 As he was at a loss at what to do, he met eyes with Maria.
-{n}......No, they didn\'t meet.
-{n}Maria was looking at the candy that Kanon had picked up.
+......No, they didn\'t meet.
+Maria was looking at the candy that Kanon had picked up.
 ...Right now, Maria\'s heart was surely the same as that trampled candy which had been crushed into a pulp...
 Kanon realized this, but he didn\'t know what he should do...
 "...I know...
@@ -239,12 +239,12 @@ Maria stuck out her hand.
 ......No matter how tragic it was, the trampled candy was Maria\'s.
 ...Her mother had bought it for her.
 No matter how tragic, it had to be this candy...
-{n}If only it could be made pretty again by dusting it off...
+If only it could be made pretty again by dusting it off...
 ...Kanon hung his head.
 ".........I can\'t do anything except dust it off.
  .........Sorry."
 Kanon held out the miserable candy she wanted.
-{n}Maria took it, and spoke.
+Maria took it, and spoke.
 "...Thank you.
  A {y:0:Human}{n:0:human} can\'t do anything except dust it off, but a witch can repair it to how it was.
  It would be easy for {f:5:Beatrice}.
@@ -254,15 +254,15 @@ Kanon held out the miserable candy she wanted.
 know about {f:5:Beatrice}‐sama?"
 There couldn\'t be anyone related to the Ushiromiya family who didn\'t know {f:5:Beatrice}\'s name, with Battler as an exception.
 ...But just now, Maria had told Battler about her proudly.
-{n}She had spoken almost as though she had been meeting with {f:5:Beatrice} regularly.
+She had spoken almost as though she had been meeting with {f:5:Beatrice} regularly.
 The inside of the fist Kanon made with his left hand hurt sharply.
-{n}......In the past, a witch called {f:5:Beatrice} had appeared, and had tempted him and Shannon.
+......In the past, a witch called {f:5:Beatrice} had appeared, and had tempted him and Shannon.
 He had always tried to make himself think it had been a bad dream.
  ......However, Shannon insisted that it had definitely been a real witch.
 And then, this summer.
 ......The shrine to the local Shinto god had been hit by lightning and had disappeared without a trace in the span of a single night.
 ...He had known that Shannon had broken the mirror.
-{n}......And he remembered too that upon the witch\'s departure, she had left him with the words that she would eventually be revived.
+......And he remembered too that upon the witch\'s departure, she had left him with the words that she would eventually be revived.
 And now, .........this girl who had no end of faith in {f:5:Beatrice} spoke as though she had met her.
 ...Kanon couldn\'t suppress a sense of something ominous welling up in his heart.
 For a while, Maria remained silent, as though she could see into Kanon\'s heart.
@@ -291,7 +291,7 @@ Then, she spoke matter‐of‐factly.
 "......Well, ......I wonder.
  There is not much I can say..."
 Nanjo glanced at Natsuhi.
-{n}As though he wasn\'t qualified to disregard Natsuhi when he spoke on this topic.
+As though he wasn\'t qualified to disregard Natsuhi when he spoke on this topic.
 "Father is healthier than ever.
  Calling him bedridden is the height of rudeness...!"
 "But he only has three months left to live, right?
@@ -374,7 +374,7 @@ She probably didn\'t want to pretend to be fellow conspirators at this stage.
  It\'s because she has such an affectionate mother.
  She\'ll grow into a girl who\'s rich in heart."
 Rosa was silent.
-{n}.........Maybe she was unsure as to how Kyrie meant that...
+.........Maybe she was unsure as to how Kyrie meant that...
 "...Me...?
  .........I\'m not fit to be a mother.
  ...............Children can\'t choose their parents.
@@ -426,10 +426,10 @@ After Hideyoshi and Rudolf watched her go with turned heads,
  Do I see the first signs of rain...?"
 "...Huh?"
 There really were small splashes of rain on the glass of the parlor window.
-{n}...It seemed that the weather had gotten worse faster than they had expected.
+...It seemed that the weather had gotten worse faster than they had expected.
 ......Just then, a silent thunderbolt struck inside Rosa\'s head, and she remembered that her beloved child was in the rose garden.
 A normal girl would think about going into the house if the weather got bad.
-{n}......But Maria was different.
+......But Maria was different.
  She would sometimes become stubborn, and wouldn\'t move no matter whether rain or even spears fell from the sky.
 ......That\'s right, I...
 ......told that kid "{i:just stay there doing that forever}", didn\'t I...?
@@ -453,7 +453,7 @@ Just as Kyrie had said, small droplets of rain were mixed in with the wind.
  There was also the low rumble of thunder.
 ......It could start raining anytime.
 Rosa headed for the rose garden.
-{n}She headed for the place where she had scolded Maria a short while ago.
+She headed for the place where she had scolded Maria a short while ago.
 ...It was almost lunchtime.
 The children had been told that they could just come to the mansion at lunchtime,
  so they were probably in the guesthouse, waiting to be called.
@@ -491,9 +491,9 @@ Rosa buried her face in Maria\'s small chest, crying and begging forgiveness.
 If only the brilliant sun had been shining on the two of them,
  all of their cares would have evaporated, and they would have felt like they could begin anew.
 ...However, what surrounded the two of them was the worsening weather.
-{n}The strong winds mixed in with the sound of thunder were saddening.
+The strong winds mixed in with the sound of thunder were saddening.
 Rosa noticed the sound of Maria sniffling.
-{n}...If she stood exposed to the wind for too long, she would probably catch a cold.
+...If she stood exposed to the wind for too long, she would probably catch a cold.
 "......So, Maria.
  It will be lunch very soon.
  Come back to the mansion with Mama."
@@ -510,7 +510,7 @@ Maria answered that question...
 ".........Maria..."
 Rosa started to say something, faltered, and then fell silent.
 ...They had just gone to great lengths to make up with each other.
-{n}She chose her words carefully, trying to get Maria to come with her to the mansion without denying the witch outright.
+She chose her words carefully, trying to get Maria to come with her to the mansion without denying the witch outright.
 "......{f:5:Beatrice} is...
 coming?"
 "Uu!"
@@ -571,14 +571,14 @@ The witch noticed the sweet that Maria was grasping.
  Stepped on and smashed.
  ......Can you return it to normal, Beato...?"
 Maria deliberately didn\'t say that it was her mother who had stepped on it.
-{n}However, when the witch saw the candy, for some reason, she looked at Rosa and grinned.
+However, when the witch saw the candy, for some reason, she looked at Rosa and grinned.
 ...A chill went down Rosa\'s spine, as though she felt that this gaze could see through every part of her.
 "It will be easy.
  Give it to me."
 "Uu!"
 Maria held out the candy gleefully.
 ......Rosa could do nothing but watch this unfold, stunned.
-{n}...How could this person gloss over the fact that the candy was pitifully trampled, in a way that could satisfy Maria...?
+...How could this person gloss over the fact that the candy was pitifully trampled, in a way that could satisfy Maria...?
 Maria looked as though she believed that it could be fixed as good as new.
 ...There was no way that could be done without real "magic"...!
 "My, my, it is quite crushed, isn\'t it.
@@ -587,10 +587,10 @@ Maria looked as though she believed that it could be fixed as good as new.
 "Because it really was that wonderful a candy.
  The candies in our memories are always full and fluffy.
  So you too must close your eyes and try to remember.
- What kind of candy was it really{p:0:♪}"
+ What kind of candy was it really♪"
 ...Along with those strange words, spoken as though singing an improvised folk song, the witch threw the sweet into the air.
 Maria had her eyes closed, just as the witch had told her, and was focused on remembering.
-{n}...The shape that the crushed candy had really been.
+...The shape that the crushed candy had really been.
 Therefore, only Rosa saw that scene.
 The sweet which had been thrown into the air......burst into a gold color―no,
  those were golden butterflies.
@@ -606,13 +606,13 @@ Unable to understand the event that was occurring right in front of her eyes, Ro
 "................................."
 There was a very bold contrast between Rosa\'s shocked appearance and Maria\'s innocently joyful one.
 ......Was that what the witch was laughing at?
-{n}A smile floated to {f:5:Beatrice}\'s face, different from the one that she had shown Maria.
+A smile floated to {f:5:Beatrice}\'s face, different from the one that she had shown Maria.
 "......Does my face look familiar?
  If you stare so fixedly, you might burn a hole through it."
 "Huh, ......ah, I, I\'m sorry...!"
 At those words, it hit Rosa strongly.
 ......Rosa knew her face.
-{n}......She knew it from the portrait of the witch.
+......She knew it from the portrait of the witch.
 But, no, wait, ......was this mystery woman really......?!
 "......Maria.
  I will give this to you in exchange for that sweet."
@@ -656,7 +656,7 @@ Today was the family conference, and the biggest object of discussion was the in
  ......So, she had joined together with Eva and Rudolf,
  and they had planned to force certain conditions upon Krauss to try to extort a prompt payment of several hundred million yen out of him.
 It was as if the witch could see through all of that.
-{n}......And when all of the siblings are gathered, ....what is she planning on announcing to us?
+......And when all of the siblings are gathered, ....what is she planning on announcing to us?
 With a personal envelope that no one but the Ushiromiya head can use...!
 "......Maria,
  the weather is getting worse.
@@ -665,13 +665,13 @@ With a personal envelope that no one but the Ushiromiya head can use...!
  Allow me to name myself there.
  ...*cackle*cackle*cackle*."
 The witch turned her back to her, laughing.
-{n}...And headed off towards the mansion with an air of composure.
+...And headed off towards the mansion with an air of composure.
 Maria saw her off with an energetic reply, and then dashed off towards the guesthouse, leaving Rosa where she was.
 ......As though she didn\'t want to waste a second in informing the other cousins of her good fortune at meeting the witch.
 Ultimately, Rosa was left alone in the rose garden as the winds grew stronger,
  ......unable to do anything except pray that what had happened was just a daydream...
 When the witch entered the entrance hall, ......Genji was there.
-{n}With a respectful bow, Genji welcomed the "guest" who approached from the entrance hall...
+With a respectful bow, Genji welcomed the "guest" who approached from the entrance hall...
 "We have been awaiting you.
  .........{f:5:Beatrice}‐sama."
 "...It\'s been a while, Genji.
@@ -690,16 +690,16 @@ The witch\'s laugh was probably because she knew that Kinzo\'s own doctor had to
 "Then let us greet him.
  It will be good to hurl curses at each other after thirty years."
 As the witch grinned, she started walking, leaving Genji behind.
-{n}......Her gait was like that of a family member who knew the inside of the mansion well.
+......Her gait was like that of a family member who knew the inside of the mansion well.
 Genji followed her, as though he served her.
 At that very moment, Kyrie came out of the parlor.
-{n}...She had probably come out to fix her makeup or something.
+...She had probably come out to fix her makeup or something.
 And when she saw Genji following the witch, she was surprised, although her expression did not change.
 There was a visitor for Kinzo, whose remaining life was not long, on the day of the family conference when the fate of the inheritance was to be decided,
  ...and furthermore, this person was well enough acquainted with the Ushiromiya family that Genji was following behind her.
 ......Kyrie immediately realized that this person who she had never met before was someone deeply important.
 Kyrie met eyes with the witch.
-{n}......Realizing that it would be rude to pretend not to notice, she greeted the witch.
+......Realizing that it would be rude to pretend not to notice, she greeted the witch.
 "............Pleased to meet you."
 "Rudolf\'s second wife?"
 "That is correct.
@@ -714,7 +714,7 @@ From this exchange, Kyrie realized that this woman was a guest of considerably h
 "...You already have a vague idea, yet you expect me to waste my breath?"
 "..........................."
 Kyrie had thought she had given her a sociable and humble greeting.
-{n}Her expression grew slightly cloudy at that openly oppressive response.
+Her expression grew slightly cloudy at that openly oppressive response.
 ......It didn\'t seem like this was a person she could grow to like.
 ...But if Kyrie\'s imagination was correct, ......this "witch" likely held a huge key to what her own husband was most interested in,
  and one that stood a great chance of influencing tonight\'s family conference...
@@ -730,7 +730,7 @@ It was Natsuhi...
  Something like—the revival of the Ushiromiya family to what it is today would never have been possible without the gold she gave...
  ......A fantastical story, very much like Father."
 Natsuhi spoke of her in her usual way.
-{n}...She spoke from the position that the idea of a witch was just foolish, and that in the end, it was nothing more than Kinzo\'s ramblings.
+...She spoke from the position that the idea of a witch was just foolish, and that in the end, it was nothing more than Kinzo\'s ramblings.
 ...However, for some reason, that no longer felt right to Kyrie.
 Just now, she herself had seen the Golden Witch come in from the entrance hall and climb up the stairs.
 So Natsuhi\'s choice of words seemed almost like a refusal to accept her existence,
@@ -743,7 +743,7 @@ So Natsuhi\'s choice of words seemed almost like a refusal to accept her existen
  Allow me to prepare it for you..."
 The hallway in front of Kinzo\'s study was filled with the scent of sweet poison particular to that green liquor...
 Genji, who was completely used to it, did not grimace.
-{n}...And the Golden Witch didn\'t grimace either.
+...And the Golden Witch didn\'t grimace either.
 "......When was the last time he left this room?"
 "I believe it has already been several years."
 "............He is that intent on making me a bird in a cage?

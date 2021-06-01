@@ -16,7 +16,7 @@ No, all five people who had been dropped here thought the same thing.
 Although they had felt a sensation of being dropped into a pit,
  ......there was no way there could be pitfalls in the dining hall, nor could this dungeon‐like place be directly underneath it.
 ......But, in point of fact, they {i:had} fallen into this place, and were locked in.
-{n}......And so, ...they were confused.
+......And so, ...they were confused.
 "......It is lucky that no one was hurt after falling from such a height..."
 ".........Shannon, Kanon.
  Did either of you two know about this room...?"
@@ -38,7 +38,7 @@ There was a long silence, as if evaluating their answer...
 Nanjo\'s words rang hollow.
 ...Obviously.
 Six people had been killed in the dining hall.
-{n}They had all witnessed the exact moments when the six had been killed.
+They had all witnessed the exact moments when the six had been killed.
 And what\'s more, it had been done by half‐destroying their heads—
 anyone could tell with just a single glance that they had been dealt a fatal injury.
 Everyone understood that calling for an ambulance now would be completely meaningless......
@@ -95,7 +95,7 @@ Shannon and Krauss smiled bitterly a little.
  .........We can\'t cling to the optimistic idea that they definitely got to the guesthouse and are protecting the children."
 Kyrie coldly analyzed the worst‐case scenario.
 Even for her, it was heartbreaking to have lost her beloved husband.
-{n}......But right now, the most important thing was protecting that husband\'s son,
+......But right now, the most important thing was protecting that husband\'s son,
  along with the other children, from becoming sacrifices to the insane family head.
 She overcame her sadness with the parental urge to protect the children.
 ......It seemed that both Kyrie and Krauss were strong enough to forget their grief, if only for the time being...
@@ -255,8 +255,8 @@ The cord was wound into a coil, one end of it being swallowed by the wall,
  and at a glance, it looked as if it could plausibly be connected.
 ......But, to think that it actually was...
 Kyrie took the receiver from Shannon and pressed it to her ear.
-{n}The electric hum was certainly the one with which she was familiar.
-{n}......This phone was indeed live.
+The electric hum was certainly the one with which she was familiar.
+......This phone was indeed live.
 "Wh‐...what good luck...!
  Let\'s contact the police...!"
 "Hold on...!
@@ -276,7 +276,7 @@ Kyrie instantly concluded that it was more likely to be a mistake on Kinzo\'s pa
  If you sense somebody coming, let me know."
 "Y‐yes......!"
 Kanon raced off towards the iron bars, silenced his breathing, and strained his ears......
-{n}As everyone present watched her, Kyrie dialed {ruby:the police:110}...
+As everyone present watched her, Kyrie dialed {ruby:the police:110}...
 However, she pushed the hook down repeatedly and redialed.
 ......It didn\'t seem to be working very well.
 ".........The outside line begins with 0?
@@ -297,7 +297,7 @@ As tough a girl as she was, for a brief moment, she might actually have had the 
 And then, ......she thought back upon just what was happening here.
 ......Honestly...despite having been shown such a thing right before her eyes, ......or rather, exactly because of that...
 ......she still could not think of that gruesome mass murder as something real...
-{n}It was less that she couldn\'t believe it, and more that she didn\'t want to.
+It was less that she couldn\'t believe it, and more that she didn\'t want to.
 Ushiromiya Kinzo had killed six members of his family.
 He had summoned strange, witch‐like, demon‐like people,
  ......right out of thin air, ......
@@ -314,7 +314,7 @@ But when those six had had their heads blown apart, a golden arrow had flown aro
 ......That had truly looked like...
 ...magic.
 Was that another thing we just saw wrong?
-{n}There\'s no way it was magic.
+There\'s no way it was magic.
  There must be some kind of trick to it.
 ......Since it was capable of smashing heads, there\'s no doubt it was some explosive.
 For example, a styrene toy plane like they sell at candy stores, painted gold,
@@ -330,7 +330,7 @@ A number of mysterious people had appeared suddenly out of thin air,
  ......six people had had their heads demolished by a mysterious golden flying object,
  ......and the five of us were locked away in a mysterious dungeon by a mysterious set of pitfalls, or else put to sleep by some fainting poison dart......
 The family conference started a bit after 10 p.m.
-{n}......It\'s only been about thirty minutes since then.
+......It\'s only been about thirty minutes since then.
 Probably,
  those events, which took place in such a short amount of time,
  ......none of us are able to understand, nor come to grips with, even though we witnessed them ourselves.
@@ -387,11 +387,11 @@ Eventually, he was going to have to tell that to Jessica.
  .........I\'m sorry for......asking."
 Jessica\'s voice was filled with tears...
  ......There was no doubt for Krauss anymore.
-{n}Jessica and the others had been told everything, start to finish, by Gohda and Kumasawa when they had met up at the guesthouse...
+Jessica and the others had been told everything, start to finish, by Gohda and Kumasawa when they had met up at the guesthouse...
 After they learned that six whole people had been killed,
  Jessica and the others must have been in a frenzy about wanting to go to the dining hall.
 .........Luckily he had been able to call before they stormed off towards the mansion.
-{n}Krauss was relieved at his good timing during such tragedy...
+Krauss was relieved at his good timing during such tragedy...
 "We have Kyrie‐san and Doctor Nanjo, as well as Shannon and Kanon here.
  We\'re locked in a place that\'s like a dungeon, but don\'t worry.
  We\'ll figure something out."
@@ -406,7 +406,7 @@ After they learned that six whole people had been killed,
 "Yeah......
  ......Grandfather,
  .........he...
-......{nobr:{m:-5:——}—ed} everyone......"
+......———ed everyone......"
 "Grandfather isn\'t in a sane state of mind right now.
  If you run into him, you\'ll be in danger.
  You might be killed...!
@@ -588,7 +588,7 @@ George had things like drinks, canned food, crackers, and other types of snacks 
 All consumables that would be indispensable while they were locked down.
 Gohda had a large folding ladder and carpentry tools.
 Those were so that, in the case of an emergency, they could nail over the door from the inside to seal it.
-{n}If it came to that, the ladder was for escaping out the window.
+If it came to that, the ladder was for escaping out the window.
 Battler had brought up objects which could be used as weapons, such as blades and poles.
 The kitchen knives went without saying; the disassembled table legs could be used as clubs;
  and the pole roughly the size of a person, which had been made by taking apart a hat stand,
@@ -599,10 +599,10 @@ Then, they placed beds and sofas from around the room up against the door, barri
 They didn\'t go so far as to seal it up with nails.
  ......There was still the chance that Krauss and the others would escape, and come to meet up.
 They had apparently set up a barricade at the top of the stairs as well.
-{n}It had been designed to create a racket, so it would work in place of a warning alarm as well.
+It had been designed to create a racket, so it would work in place of a warning alarm as well.
 It was apparently Battler\'s idea.
 For that reason, they turned the TV off.
-{n}.........So that if the first‐floor window were to be broken, they would know by the sound.
+.........So that if the first‐floor window were to be broken, they would know by the sound.
 Once the switch had been turned off, all that was left was an eerie silence.
 ......The sound of the violent wind and rain.
  Were they going to have to spend the whole night in such crushing suspense?
@@ -637,7 +637,7 @@ made him feel that there was something very eerie about Maria......
  I don\'t know when these were made, but their durability is certainly up to snuff.
  These are truly made rather well."
 Kyrie chuckled softly.
-{n}......They had no moves they could make, but the mood had calmed just a little.
+......They had no moves they could make, but the mood had calmed just a little.
 "......This place is just like where you place chess pieces once you\'ve captured them.
  ......There is nothing left we can do, then......?"
 "Not so fast.
@@ -817,10 +817,10 @@ Kanon shrugged his shoulders, then told Shannon to leave him alone because she w
 Realizing her thoughtlessness in bringing up such an inappropriate topic and instead hurting Kanon,
  Shannon bit her lower lip and stared at the ground...
 She wouldn\'t bother him any more.
-{n}She went off and squatted in a corner by herself.
+She went off and squatted in a corner by herself.
 ".....................nn—"
 At that moment, Kanon twitched.
-{n}It was like the ears of a cat when it reacts to a faint sound.
+It was like the ears of a cat when it reacts to a faint sound.
 "What\'s wrong?"
 "......Shh.
  .........Krauss‐sama, somebody is coming."
@@ -837,7 +837,7 @@ They ended their conversation and strained their ears.
 During the last phone call, Kyrie had asked what the time over at the guesthouse was.
 ......It had been the same as her watch, and by this she had learned that their watches hadn\'t been set back.
 It wasn\'t just the clocks on the walls in the guesthouse.
-{n}Several people\'s watches, including George\'s and Gohda\'s, had matched.
+Several people\'s watches, including George\'s and Gohda\'s, had matched.
 ......If that was the case,
  then after the massacre in the dining hall, they had been transported to the dungeon in only a few minutes.
 Not enough time had passed for them to be knocked out and carried away.
@@ -978,14 +978,14 @@ It was like she was saying that she wouldn\'t be captured,
 "*cackle*cackle*!
  Don\'t make such a worried face, Kraaauss...
  Believe in the daughter that you brag is worth ten billion yen.
- Hehheheh, heh{0}ha{0}ha{0}ha{0}hahaha...!!"
+ Hehheheh, hehhahahahahaha...!!"
 ".........Exactly.
  Children are the fruit of their parents.
  Worthy of entrusting with the parent\'s fate.
  And Father, that applies even to you."
 "......Heheh, hahhahahaha!
  This woman has guts, what a waste on Rudolf!
- Wahhaha{0}hahaha...!!"
+ Wahhahahahaha...!!"
 "...Kyrie‐san, ......it would be best not to aggravate him too much."
 "I agree.
  Let\'s bear with it for now......"

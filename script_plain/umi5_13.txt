@@ -1,4 +1,4 @@
-"Battler‐san returned to the guesthouse at {nobr:3 a.m.}
+"Battler‐san returned to the guesthouse at 3 a.m.
  Then, the rest of you split up about thirty minutes later, is that correct?"
 "Yes, that\'s right.
  We were getting pretty tired by that point.
@@ -45,7 +45,7 @@ No, perhaps it would be most appropriate to call this the captured pile, where p
  five corpses came into view, illuminated by a glow like a faint spotlight......
 The five pitiful corpses with their necks sliced open had been arranged neatly.
 Their eyelids were shut and their hands joined.
-{n}Apparently, even Gaap had respect for the dead...
+Apparently, even Gaap had respect for the dead...
 "Oh my.
  .........There are five sacrifices for the first twilight in this game?
  Not six?"
@@ -140,7 +140,7 @@ that the sacrifices of the first twilight were only playing dead."
 "A trap?"
 "Mm.
  Someone Lady {f:5:Lambdadelta} created, who calls himself a man from 19 years ago, has already threatened Natsuhi.
- She was ordered to go into a closet in a certain guest room at {nobr:1 p.m.}, which is only a few minutes away, and hide there.
+ She was ordered to go into a closet in a certain guest room at 1 p.m., which is only a few minutes away, and hide there.
  ......Krauss was taken as a hostage, so Natsuhi can\'t resist."
 ".........I see.
  How relentless.
@@ -181,7 +181,7 @@ Erika was still in the middle of confirming everything,
 Only Natsuhi, who claimed that just being suspected was an insult, was uncooperative with Erika,
  and her position began to grow more and more perilous......
 This parlor was no longer a place of comfort for Natsuhi.
-{n}And the sound of the cup smashing had made that decisive.
+And the sound of the cup smashing had made that decisive.
 "Th‐......this is ridiculous!
  Why must I be suspected when I\'ve lost a daughter...?!!
  You\'re maliciously trying to make me look like the culprit just because I went to bed early last night!
@@ -242,7 +242,7 @@ With everyone watching her, Natsuhi left the parlor.
 From their faces, she could tell that they were expecting the classic mystery pattern...
 that the first person to quarrel and leave the circle would become the next victim.
 ............Natsuhi......couldn\'t disobey because of the threat against Krauss, who had been taken as a hostage.
-Very soon, it would be {nobr:1 p.m.}, the time that had been arranged.
+Very soon, it would be 1 p.m., the time that had been arranged.
 She was to hide for an hour in the closet of a specific guest room.
 It was easy to suspect that this bizarre order was a trap to select her as the next sacrifice.
 She thought of various ways to resist,
@@ -264,7 +264,7 @@ Even if I am not permitted to bear the One‐winged Eagle on my clothes,
 ......I think dashing away in a rage got me here without raising too much suspicion.
 So far......everything has gone well.
 Before my eyes was the doorknob of the specified guest room.
-{n}......However, ...I wondered about the lock.
+......However, ...I wondered about the lock.
 The servants are under orders to always lock any unused rooms.
 ......What will I do if it\'s locked...?
 I dashed out of the parlor pretending that I was returning to my room.
@@ -338,7 +338,7 @@ That\'s right.
  This room was unlocked when I came here.
 If it were to suddenly become locked, it\'s conceivable that it might catch someone\'s attention.
 ......It\'s better if I don\'t do anything unnecessary...
-{n}That man only told me to hide......
+That man only told me to hide......
 "............So in the end, ...I have no choice...but to do what he says......"
 I hate doing it, ......but I can\'t disobey.
 I undid both of those two precious locks,
@@ -373,11 +373,11 @@ Will someone suddenly come to this room, open this closet,
  ......and do something horrible to me now that I\'ve come here in total secrecy as promised?
 ......That\'s what I should be worrying about.
 The culprit, ......or one of his accomplices, is very close by.
-{n}If they weren\'t, they wouldn\'t be able to observe me so thoroughly.
+If they weren\'t, they wouldn\'t be able to observe me so thoroughly.
 I don\'t want to think it, but it\'s highly likely that the culprit bought off one of the servants.
 The culprit was able to hide an eerie card with "autumn" written on it in my room.
 My personal room is always locked.
-{n}That trick wouldn\'t have been possible without a key.
+That trick wouldn\'t have been possible without a key.
 Instead of believing that they obtained the key when the servants weren\'t looking,
  it\'s much more realistic to assume that one of the servants lent the culprit a hand...
 "Still,
@@ -386,10 +386,10 @@ Instead of believing that they obtained the key when the servants weren\'t looki
  .........How ghastly........."
 The thought that this mystery man might be peeking into my heart sent goosebumps running across my whole body...
 It\'s true that I like autumn, but I\'ve never said that out loud.
-{n}I don\'t think anyone\'s ever asked me, either.
+I don\'t think anyone\'s ever asked me, either.
 ......I could even ask my husband what my favorite season is and he would probably be stuck for an answer.
 ............N‐no.
-{n}There was one time, one time I told it to a single person.........
+There was one time, one time I told it to a single person.........
 That\'s right.
  ...............Shannon...
 On an autumn day long ago, I happened to be in a good mood,
@@ -414,7 +414,7 @@ Shannon may not be reliable as a servant,
 She\'s a timid girl.
  If I threaten her, she\'ll probably spill the name of the mastermind in an instant.
 I\'ll tell the police about this in secret.
-{n}I\'m certain it will be a big clue that will help in arresting the culprit.
+I\'m certain it will be a big clue that will help in arresting the culprit.
 "......That card was probably meant to surprise me and control me,
  ......but he\'s actually dug his own grave."
 {a:c:
@@ -432,7 +432,7 @@ At that moment, I heard the sudden sound of someone trying to force a locked doo
  and my heart leapt.
 "......Oh, it was unlocked."
 The voice was Hideyoshi\'s.
-{n}I heard a quiet voice, as though he was talking to himself, coming from what was probably the hallway.
+I heard a quiet voice, as though he was talking to himself, coming from what was probably the hallway.
 Apparently, he had thought it was locked and tried to unlock it,
  but had ended up locking the unlocked door instead.
 Once again, there was the sound of the lock turning, and this time, the door opened with a faint sound......
@@ -443,7 +443,7 @@ Then came what seemed to be the sound of him setting the chain.
 .........Don\'t tell me...
 ...Hideyoshi‐san...
 ...is the mastermind...?!
-{n}Or else, an accomplice...?!
+Or else, an accomplice...?!
 Is he planning to do something to me in this room...?
 The door may only be locked from the inside, but it will still take some time to remove the chain.
 ......If Hideyoshi‐san doesn\'t intend to let me escape from here,
@@ -453,23 +453,23 @@ In that case.........
 ...and looks down upon me sitting here pathetically,
  ......just what kind of horrifying words will he say...?
 I don\'t want to be found, I don\'t want to be found...
-{n}I beg you, pass right on by the closet door...
-{n}Please keep going into the center of the room......!
+I beg you, pass right on by the closet door...
+Please keep going into the center of the room......!
 My head was filled almost to bursting with a throbbing sound so loud that I almost missed hearing his noisy footsteps.
 So when I heard a clunking sound coming from the center of the room,
  I finally realized that he\'d passed by the closet, and was deeply relieved.
 "......Just in case.
  Can\'t tell if it\'s day or night in this weather anyway."
 As he muttered, he did something that made a clunking sound.
-{n}......He was probably closing the shutters on the windows.
+......He was probably closing the shutters on the windows.
 Just in case?
-{n}In case I try to escape out the window...?
+In case I try to escape out the window...?
 No, ......that can\'t be it.
 That\'s right.
 When I left the parlor, everyone was talking about possibly taking a break.
 After all, several murders had occurred.
  And the weather was bad.
-{n}......There would be nothing abnormal about resting in a guest room here instead of returning to the guesthouse.
+......There would be nothing abnormal about resting in a guest room here instead of returning to the guesthouse.
 In that case, locking up and closing the shutters to guarantee safety was the proper course of action to take.
 When he finished closing the shutters,
  ......there was a thunk
@@ -483,7 +483,7 @@ Clearly he planned on me hiding here,
 Thinking about it that way, .........having him in the room...
 might help to secure my own safety in an odd sort of way.
 ......Unlike his wife, Hideyoshi‐san is the kind of person I can talk to.
-{n}If Eva‐san comes, things will probably get complicated.
+If Eva‐san comes, things will probably get complicated.
 Maybe I should slip out of this closet now while he\'s still alone,
  reveal everything just to him, and ask for help......
 But if I do that, my husband might be killed...
@@ -519,14 +519,14 @@ It\'s because............I am the final...head of the Ushiromiya family......
 It\'s been completely overshadowed by all of this,
  ......but last night, Battler‐kun found the hidden gold and even gained the Head\'s Ring from that mysterious envelope.
 .........At the very, very end, when it\'s all over...
-{n}I probably won\'t be able to prevent him from inheriting the family headship.
+I probably won\'t be able to prevent him from inheriting the family headship.
 And when everything regarding the distribution of the inheritance is revealed,
  ......the Ushiromiya family honor and glory passed down from Father.........will plummet to the earth.
 So, ......I am the final head.
 Battler‐kun will probably inherit the remaining wealth of the Ushiromiya family.
 However, its history and honor......will all end with my generation......
 Therefore, ......I am the final head.
-{n}I must not cry.
+I must not cry.
  .........Not yet.
 Until I get my husband back......and avenge my daughter, I will not be allowed to shed tears......
 As I listened to Hideyoshi‐san\'s sobs from the closet,
@@ -545,15 +545,15 @@ He was clearly in a struggle with someone.
  No, it doesn\'t matter who it is.
 It\'s probably the culprit, and they\'re probably trying to take Hideyoshi‐san\'s life at this very moment...!
 Shouldn\'t I jump out of here and help him...?
-{n}Even if I couldn\'t help him, I could at least call for help......
+Even if I couldn\'t help him, I could at least call for help......
 ...No, but...if I do something like that, I\'ll be questioned about why I was hiding here...!
 However, if Hideyoshi‐san goes on to get killed now......
 No, now isn\'t the time to be saying that...
-{n}At this rate, he\'ll definitely be killed...!
+At this rate, he\'ll definitely be killed...!
 I\'ll jump out of here and help him right now...!
 Aaah, but if I do that, even if I can save Hideyoshi‐san, ......I might be abandoning my husband\'s life.
 Hideyoshi‐san\'s life and my husband\'s life.
-{n}......How sinful it would be to try to weigh those against each other...!!
+......How sinful it would be to try to weigh those against each other...!!
 Just then, there was a loud sound of the door opening and the chain being pulled tight.
 Someone was trying to open the door despite the chain being set.
 "Honey, it\'s me.
@@ -586,14 +586,14 @@ waiting for me to shamelessly come out......?
 I don\'t even know what to be scared of anymore.
 If only I could just melt away into the darkness of this closet...!
 I mustn\'t remain in this room any longer.
-{n}I get the feeling I have more to worry about than just my personal safety...
+I get the feeling I have more to worry about than just my personal safety...
 But what should I do?!
 I don\'t even know if it\'s a good idea to leave this closet...!!
 Before long, the clamor of many rushing footsteps approached.
 I held my breath again and melted away into the darkness of the closet......
 Eva dashed back, bringing everyone with her.
 Gohda was gripping a bolt cutter.
-{n}It was to cut the chain with.
+It was to cut the chain with.
 After trying to open the door again and confirming that the chain was still set, she yelled through the crack in the door.
 "Honey!!
  We\'re going to open this up...!!
@@ -607,7 +607,7 @@ The others tried to follow her, .........but they bumped into Eva, who had falle
 So even though they couldn\'t tell much of what was going on inside the room,
  ...they could tell by Eva\'s moans that they were too late......
 "......What the hell......"
-"Honey...!! Honey{-}y{-}y{-}y{-}y{-}y{-}y{-}yyy!!
+"Honey...!! Honeyyyyyyyyyy!!
  Doctor Nanjo!!
  Look at my husband...! Quickly!!"
 "I, I\'ll do it right now......"
@@ -618,7 +618,7 @@ So even though they couldn\'t tell much of what was going on inside the room,
  There\'s no one here!"
 "What could have happened, ...aaaaaahhhh......"
 "Honey!!
- Honey{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}yyy...!!"
+ Honeyyyyyyyyyyyyyyyyyy...!!"
 ".........I\'m afraid to say...that there\'s nothing I can do......"
 Nanjo stood up, hanging his head sadly.
 It was only natural.
@@ -633,8 +633,8 @@ It had probably dug deep into the lungs.
 "Didn\'t I tell you to wait for me?!!
  Why did you go on alone...?!!
  Stupid, stupid,
- stupiii{-}i{-}i{-}i{-}iiid!!
- Uwaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!"
+ stupiiiiiiiiid!!
+ Uwaaaaaaaaaaaaahhhh!!"
 "......The culprit probably waited for us to get careless and split up......"
 "That bastard......
  So he still hasn\'t had enough blood...?!"
@@ -661,7 +661,7 @@ It had probably dug deep into the lungs.
  I just went and checked."
 "......Erika........."
 It was no wonder everything felt so quiet and relaxed.
-{n}At some point, Erika had split from the group.
+At some point, Erika had split from the group.
 Just now, she had finally arrived and poked her face in from the hallway.
 ......She had heard that a crime had occurred in this room,
  seen everyone rushing towards it, and taken the opposite approach by circling around to the outer wall.
@@ -699,7 +699,7 @@ Battler looked at her with an expression of clear disgust,
  Or am I in the way?"
 Erika backed away from the door to open a path.
 ......There was no trace of any sadness for the dead.
-{n}Her eyes simply blazed at the thought of this locked‐room murder that had appeared.
+Her eyes simply blazed at the thought of this locked‐room murder that had appeared.
 In any event, the great detective had given her permission.
 ......Eva and some others wrapped Hideyoshi\'s body up in the sheets, and Gohda and Rudolf started to carry him out...
 The sheets quickly turned red.
@@ -708,7 +708,7 @@ It was so painful to see that Shannon and Kumasawa stripped the blanket off the 
 "Yes, I am out of the way."
 "Let\'s carry him to the parlor."
 "Y‐yes...!"
-"Honey, honeyyy{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y, awaa{0}a{0}a{0}a{0}a{0}a{0}ahhhhh...!!"
+"Honey, honeyyyyyyyyyyyy, awaaaaaaaahhhhh...!!"
 "......Listen up, everyone.
  From now on, we\'ll always move as a group.
  You must not let yourself be isolated."
@@ -758,13 +758,13 @@ That time of terror,
  when I feared that even the dripping of the cold sweat that covered my cheeks might be noticed, was finally......over.
 I slowly opened the closet door with hands that still couldn\'t stop trembling and dashed out into the hallway.
 It\'s alright, no one\'s found me......
-{n}Still, it\'s a good thing they didn\'t lock the door...
+Still, it\'s a good thing they didn\'t lock the door...
 If they had, I wouldn\'t be able to lock behind me after I left, and they\'d find that suspicious...
 Anyway, I should leave this place.
 Then I\'ll return to my room and pretend that I was sleeping the whole time...
 That\'s right, I have to get back quickly...
 A new murder has occurred.
-{n}They\'ll probably try to tell me about it.
+They\'ll probably try to tell me about it.
 And they\'ll probably do it immediately after they carry Hideyoshi‐san\'s body back to the parlor.
 I can get around a phone call by saying I was asleep and didn\'t notice, but if they come knocking directly, that\'ll be bad...
 I have to get back quickly, before they try to force their way in......
@@ -787,7 +787,7 @@ Just as she was about to go up the large staircase, Natsuhi heard Erika call out
 going up the stairs...?
  Your room {i:is} upstairs, isn\'t it......?"
 Erika coldly pointed out this strange fact.
-{n}......Natsuhi cursed her bad luck.
+......Natsuhi cursed her bad luck.
 "I, ...I couldn\'t sleep, so I was going to return to the parlor,
  ......b‐but I wasn\'t sure whether I had locked my room or not, so I was about to head back.
  ......I\'m a worrier, so this sort of thing happens a lot.
@@ -805,7 +805,7 @@ However, right now,
  And investigating the scene of the crime is my right."
 ......Erika\'s probing gaze peered deep into Natsuhi\'s eyes.
 She could tell.
-{n}Erika was already suspicious of Natsuhi.
+Erika was already suspicious of Natsuhi.
 ......Judging by the subtle nuances of her words,
  this was almost certainly an attempt to make Natsuhi slip up and reveal that she knew about the Hideyoshi murder she hadn\'t yet been told about.
 Natsuhi played dumb and asked again what had happened.
@@ -839,7 +839,7 @@ When she opened the door to the parlor, Eva\'s sobs poured out.
 And everyone stared at Natsuhi with grave faces.
 Those gazes almost made it look......as though they suspected her.
 It was now painfully apparent to Natsuhi.
-{n}This must have been what that man was after.
+This must have been what that man was after.
 It was a trap to create a baffling locked‐room murder......and frame her for it.
 But I couldn\'t disobey.
  I couldn\'t sacrifice my husband\'s life...!
@@ -864,7 +864,7 @@ Even in a situation like this, if I talk about my husband being a hostage,
  Neither you nor anyone else has the right to refuse."
 "Wha............"
 Erika used her detective\'s authority to proclaim the start of an assembly.
-{n}None of the pieces could disobey.
+None of the pieces could disobey.
 Praying that she wouldn\'t become the topic of conversation, Natsuhi reluctantly sat on the sofa as she\'d been urged to.
 ".........Oh, sorry.
  Could you close that door for me?"
@@ -960,7 +960,7 @@ Did you know that the tribulations of Purgatory, which lies in the gap between h
 On the gates of hell, it is written that you must abandon all hope.
 ......A human without hope can accept their suffering and give up.
 However, the denizens of Purgatory have hope.
-{n}A hope of possibly reaching heaven, a hope that cannot be abandoned.
+A hope of possibly reaching heaven, a hope that cannot be abandoned.
 And that tortures them.
 Even in the depths of hell, ...no greater torture device exists than the single pin known as hope......
 "Leap.
@@ -978,7 +978,7 @@ Beato was silent,
  your cat box eternally desecrates the cat.
  .........Those two have brought you the key to the box that you were too afraid to open."
 {f:5:Beatrice}.
-{n}The time has come for you to die.
+The time has come for you to die.
 I hope...
 that your heart will be stopped...
 ...by the hand of the person you desire.

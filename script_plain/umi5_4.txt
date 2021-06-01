@@ -140,22 +140,22 @@ I have a general idea what these witches are talking about.
 On the contrary, I still can\'t even understand {i:why that riddle exists}.
 .........That\'s right.
  ...The reason it exists.
-{n}Why did Beato...
+Why did Beato...
 ...prepare a riddle like that in the first place......?
 We all discussed it together from time to time in past games.
 However, I\'ve been avoiding thinking about it under the assumption that there\'s no point in investigating the riddle unless we can solve it.
 ......This time, I should change my viewpoint.
 I shouldn\'t just focus on the obvious parts...
 like the truth of the riddle and how to solve it.
-{n}......What\'s more important is why that riddle was set up in the first place and displayed for us to see.
-{n}That\'s what I should be thinking about.
+......What\'s more important is why that riddle was set up in the first place and displayed for us to see.
+That\'s what I should be thinking about.
 And the one proposing that riddle......is {f:5:Beatrice}.
 Even if I can\'t solve it, I should be able to try and figure out what Beato was thinking when she showed it to us.
 ......Alright...this time, I\'m turning the chessboard over...
-{n}The witches keep calling me incompetent.
+The witches keep calling me incompetent.
 Let them laugh.
  ......My enemy isn\'t them.
-{n}......I\'m continuing our match,
+......I\'m continuing our match,
  Beato......
 "......Oh.
  Seems like it\'s finally started raining."
@@ -226,7 +226,7 @@ This was the first time they had ever heard of someone coming to this island uni
  Please tell this drifter that we want them to feel at home."
 "Certainly......"
 Genji bowed deeply and started to leave, but Natsuhi called him to a stop.
-{n}Genji stopped walking and Natsuhi jogged up to him...
+Genji stopped walking and Natsuhi jogged up to him...
 ".........Genji.
  ...Is this drifter.........a man?"
 "No.
@@ -341,7 +341,7 @@ showed that this girl possessed a dignity appropriate for a guest invited in by 
  Please, make yourself at home and relax however you please."
 "............Thank you very much.
  ...Allow me to introduce myself.
- ......I am called Furudo Erika ({p:0:古戸ヱリカ})."
+ ......I am called Furudo Erika (古戸ヱリカ)."
 "My deepest apologies for disturbing you members of the Ushiromiya family like this.
  ......I am truly grateful for the warm welcome I have received despite my status as an uninvited guest."
 ......There was a general sigh of acceptance.
@@ -364,9 +364,9 @@ She looked slightly younger than Battler and Jessica,
  And Beato\'s opinio~n?"
 "...................................."
 Beato was unable to answer.
-{n}......{f:5:Lambdadelta} grinned as though in triumph.
+......{f:5:Lambdadelta} grinned as though in triumph.
 "......Wanna try complaining about the rules and stepping down from the game?
- Isn\'t that the favorite move of you mystery people{p:0:♪}
+ Isn\'t that the favorite move of you mystery people♪
  If there\'s even a tiny element that goes against your expectations, you have a tantrum and totally stop thinking."
 ".........Ugh..."
 ".........Don\'t worry.
@@ -461,7 +461,7 @@ Erika was welcomed like a guest,
  and it was decided that she could borrow the bedroom next to the cousins\' room on the upper floor of the guesthouse.
 In front of all the relatives, she had seemed dignified and a bit stiff.
 However, as she talked with George and Jessica, her expression began to soften gradually......
-{m:-5:——}And so,
+——And so,
  the "detective", Furudo Erika, was placed on the game board......
 "I\'m surprised that Jessica\'s old clothes suit her so well."
 "......Kumasawa made the decision on her own to use Milady\'s old clothes.

@@ -1,7 +1,7 @@
 In the Golden Land, the quiet rain......just kept on falling.
 In the arbor......sat the sad witch whose eyes had lost their glint......and Battler.
 {f:5:Virgilia} could also be seen there.
-{n}......She sat next to Beato, knitting quietly.
+......She sat next to Beato, knitting quietly.
 {f:5:Lambdadelta}\'s game had passed the climax of the first twilight, and they were taking a short break.
 Gazing out at the golden rose garden soaked with rain,
  ......Battler thought back on the present, what was to come, and what had happened so far......
@@ -18,8 +18,8 @@ That silhouette, ......walking through the quietly falling rain without so much 
 "......That was a splendid garden {f:5:maze}.
  A very nice way to enjoy the {f:5:roses}."
 "Why.........are you here?"
-"It has been some time, {nobr:Mrs. {f:5:Beatrice}.}
- ...Excuse me, it is {nobr:Mrs. {f:5:Virgilia}} now, is it {f:5:not}?"
+"It has been some time, Mrs. {f:5:Beatrice.}
+ ...Excuse me, it is Mrs. {f:5:Virgilia} now, is it {f:5:not}?"
 "Long time no see, Dlanor.
  ......Come over here.
  We aren\'t ones to leave a guest out in the rain."
@@ -30,7 +30,7 @@ That silhouette, ......walking through the quietly falling rain without so much 
 "She\'s one of my old friends from heaven.
  ......This really takes me back."
 "Yes, it {f:5:does}.
- {nobr:Mrs. {f:5:Virgilia}} possesses a deep knowledge in Heavenly {f:5:Studies}.
+ Mrs. {f:5:Virgilia} possesses a deep knowledge in Heavenly {f:5:Studies}.
  I have often battled with her over {f:5:interpretations}."
 "Hoh‐hoh‐ho...
  My many intellectual adventures with you were quite enjoyable.
@@ -39,7 +39,7 @@ That silhouette, ......walking through the quietly falling rain without so much 
  Let\'s do it again {f:5:sometime}.
  I\'d love to fight with you {f:5:again}."
 They used the word "fight", but it didn\'t sound like they meant anything unpleasant by it.
-{n}It sounded like something old chess rivals would say to each other.
+It sounded like something old chess rivals would say to each other.
 Unlike Beato, it seemed that {f:5:Virgilia} had always acted properly and courteously,
  so she had many friends in various other worlds, including both heaven and the demon world.
 Surprisingly, Dlanor was one of them......
@@ -69,18 +69,18 @@ So Battler asked for a refill for Beato as well...
  That is why I have come to greet {f:5:you}."
 On the game board, Beato and I met Dlanor.
 But those were the game pieces of those witches.
-{n}They weren\'t Beato and me ourselves.
+They weren\'t Beato and me ourselves.
 "Is that why you went out of your way to greet Battler‐kun and Beato here...?
  ...I see you\'re as conscientious as always."
 "That is my way of doing {f:5:things}.
- .........Greetings, {nobr:Mr. Battler}.
- I am Dlanor {nobr:A. Knox}.
+ .........Greetings, Mr. Battler.
+ I am Dlanor A. Knox.
  ...We play opposing roles, but it is a pleasure to meet {f:5:you}."
 "......Sure.
  I\'m Ushiromiya Battler.
  Pleased to meet you."
 "Greetings, Miss {f:5:Beatrice}.
- I am Dlanor {nobr:A. Knox}."
+ I am Dlanor A. Knox."
 "...................................."
 "......Beato.
  She\'s saying hi.
@@ -101,7 +101,7 @@ She was a witch, so it wasn\'t a particularly unusual sight.
 "......Have no {f:5:fear}.
  I am not so rude as to quibble about the way my tea is {f:5:served}."
 "Even though the tea\'s being made with magic...?"
-"......There is a tea set hiding in the shadows, and {nobr:Mrs. {f:5:Virgilia}} is making the tea with it in {f:5:secret}.
+"......There is a tea set hiding in the shadows, and Mrs. {f:5:Virgilia} is making the tea with it in {f:5:secret}.
  We interpret and/or conclude that "it was made with magic", and it is written as such in the {f:5:tale}.
  ......It is an interpretation permitted even by Knox\'s 9th {f:5:commandment}."
 "Oh my...
@@ -188,14 +188,14 @@ After all, understanding the "heart" was the first step towards magic\'s true na
  ...the essence of Beato, the essence of witches,
  and the very first essence of all, ......the essence of magic.
 Whether you want to become a witch or vanquish them...
-{n}......The very first step is learning about magic.
+......The very first step is learning about magic.
 {f:5:Virgilia} was sure that she felt this faint change within Battler...
 "......As for that last fight, thank you very {f:5:much}.
  I am grateful for the mercy you showed me at the very {f:5:end}."
 "That "me" wasn\'t me.
  ......{f:5:Lambdadelta} was controlling him."
 I joined in on the fifth game partway through.
-{n}At "this point in the story", I still hadn\'t joined.
+At "this point in the story", I still hadn\'t joined.
 So up until the point when I did join,
  the piece "me" is probably being controlled by {f:5:Bernkastel} or {f:5:Lambdadelta}.
 "......Just what kind of mood\'s taken those two?
@@ -235,7 +235,7 @@ Dlanor suddenly murmured something.
  .........You\'re saying you threw the match, aren\'t you?"
 {f:5:Virgilia} spoke softly, without hesitating in her knitting.
 ".........{f:5:Yes}.
- ......{nobr:Mr. Battler}."
+ ......Mr. Battler."
 "That "Mr." is really getting to me.
  Just Battler is fine."
 "Battler.
@@ -323,7 +323,7 @@ Dlanor gulped down the last of her black tea and stood up.
  I also find Furudo Erika to be {f:5:obnoxious}."
 "Heh, hahahahaha."
 Dlanor\'s expression finally softened slightly.
-{n}......At the very last moment, it felt as though we finally understood each other.
+......At the very last moment, it felt as though we finally understood each other.
 "Furudo Erika is a very evil {f:5:creature}.
  ......After her recent defeat and loss of face, she is burning with a desire for {f:5:revenge}.
  Even I cannot tell what she is {f:5:plotting}.
@@ -335,7 +335,7 @@ Dlanor nodded as though satisfied, left the eaves of the arbor and walked out in
  .........Why was I called to this {f:5:world}?"
 Dlanor let out a small sigh.
 "Pieces" can do nothing except fulfill the function they have been given.
-{n}And that function is given to them by the one who controls them.
+And that function is given to them by the one who controls them.
 ......She probably can\'t disobey {f:5:Bernkastel}, the player in control of "her".
 "............Lady {f:5:Bernkastel} may be the one who called you here.
  However, the one who let you into this world is Beato.
@@ -374,7 +374,7 @@ Was that...
 Dlanor A. Knox.
 The natural enemy of witches.
  Inquisitor.
-{n}......A vanguard of mystery...who denies fantasy.
+......A vanguard of mystery...who denies fantasy.
 Is she here to help me...
 ...gouge out your heart...
 ...and arrest your breathing.........?
@@ -392,13 +392,13 @@ Cornelia landed on the floor face first with a thud.
  On one leg."
 "........................"
 Cornelia rose shakily.
-{n}Then, once again, she stood on one leg as she had been ordered.
+Then, once again, she stood on one leg as she had been ordered.
 She had been ordered not to try to keep her balance.
-{n}So she had fallen on her face over and over again.
+So she had fallen on her face over and over again.
 She had barely managed to protect her nose, but after smashing against the floor so many times, her face was bright red.
 She wasn\'t shedding any tears.
  No, she couldn\'t shed them.
-{n}Because she was forbidden to do even that......
+Because she was forbidden to do even that......
 "Please stand.
  On one leg."
 "........................"
@@ -462,7 +462,7 @@ Dlanor\'s neck tilted unnaturally backwards, creaking.
 ".........{f:5:No}."
 "{i:I} am being reprimanded by Lady {f:5:Bernkastel} because {i:you people} are useless...!!
  Never demonstrate such miserable incompetence again...!
- Are‐we‐{nobr:un‐der‐stood}...?!"
+ Are‐we‐un‐der‐stood...?!"
 She pulled back the hair she had grabbed even more strongly...
 This didn\'t cause Dlanor any physical pain,
  but she could clearly feel Erika\'s ill will.
@@ -550,7 +550,7 @@ Or they could have misheard some other random sound as a knock and misconstrued 
  What do you think of my reasoning...?!!"
 ".........Well, you heard her... How did she do?"
 "Well, it looks like your cute little piece gave it her all to think up these blue truths,
- so I guess I\'ll be nice and give out a few red truths myself{p:0:♪}"
+ so I guess I\'ll be nice and give out a few red truths myself♪"
 I guess I\'ll start with the letter.
 There was that knock when the large clock struck midnight.
 And when the door was opened, there lay a letter in an envelope bearing the One‐winged Eagle.
@@ -615,9 +615,9 @@ At 24:00, except for Krauss, Natsuhi, and Genji in the second floor corridor,
 In addition to Krauss, Natsuhi, and Genji, none of those in the dining hall knocked,
  where "knocking" includes all direct, indirect, intentional, unintentional, and coincidental events that could create a knocking sound}."
 {e:070:A direct knock refers to someone literally hitting a door to make a knocking sound.
-{n}An intentional knock refers to someone creating a fake knocking sound with intent to make it appear that someone knocked.
-{n}An unintentional knock refers to someone unintentionally creating a fake knocking sound.
-{n}A coincidental knock refers to some kind of coincidence creating a fake knocking sound.}
+An intentional knock refers to someone creating a fake knocking sound with intent to make it appear that someone knocked.
+An unintentional knock refers to someone unintentionally creating a fake knocking sound.
+A coincidental knock refers to some kind of coincidence creating a fake knocking sound.}
 "
 In other words, it is impossible for anyone who was in the mansion to have been the source of a knocking {f:5:sound}.
  ......In this case, "anyone" also includes any people who might have gone undetected or {f:5:unobserved}}."
@@ -676,7 +676,7 @@ With a bit of wordplay like that, it might be possible to get around the red tru
 ".........I\'ll give you a full‐body massage scrub in a bath with marshmallows and konpeitou sometime soon.
  Hard enough to rub your skin off."
 "Eheheheheh, now you\'ve gotta keep that promise. *slurp*!
- ......Alright, then, here\'s a freebie{p:0:♪}
+ ......Alright, then, here\'s a freebie♪
  I\'ll respond to your repetition request.
  "
 At midnight, only Erika, George, Jessica, Maria, Nanjo, Gohda, and Kumasawa existed outside the mansion}"!"
@@ -743,7 +743,7 @@ someone outside the mansion set things up with a cassette tape or something to m
  ......but if she\'s managed to solve one of the mysteries, maybe I\'ll let it slide for now......"
 "M‐......my master......"
 When {f:5:Bernkastel} said she\'d let it slide, Erika couldn\'t hide her relief.
-"{i:Then it\'s time to get punished}, Erika‐chan{p:0:♪}"
+"{i:Then it\'s time to get punished}, Erika‐chan♪"
 {a:c:
 
 None of the characters would misidentify a knocking sound}.}
@@ -773,7 +773,7 @@ There was some kind of device that could knock on the door.
  There was something like an automatic door knocker, and that made it possible for someone to knock without touching the door with their hands}."
 "
 ‘To knock’ means someone hitting a door with their hand}!
- I won\'t accept hitting it with some contraption, eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh!!"
+ I won\'t accept hitting it with some contraption, eheheheheheheheheheheh!!"
 "They heard a knock at the same time as the clock struck midnight.
  Everyone inside the dining hall definitely heard it at that time.
  
@@ -785,14 +785,14 @@ And none of them would misinterpret a knocking sound.
  What do you think of my red?
  Don\'t you think this is pretty uncomplicated and enjoyable for something before the first twilight?
  The Golden Witch descended quietly with a knocking sound.
- *giggle*giggle*, ehe{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}heheh...!"
+ *giggle*giggle*, eheheheheheheheheheheheheheheh...!"
 "..............................
  *giggle*giggle*.
- Ahhah{0}hah{0}ha{0}ha{0}hah{0}ha{0}haha!!
+ Ahhahhahhahahahhahaha!!
  This is interesting. This really is fascinating, Lambda...!
  Now we\'re talking.
  Ah, this is great!
- Aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!"
+ Ahahahahahahahahahahahahahahaha!!"
 The two witches doubled over laughing,
  as though this was the most fun thing in the world...
 "Gah, ............
@@ -826,7 +826,7 @@ If she resigned herself to that,
 Erika endured with a hideous expression, looking with shame at the back of the master who was ignoring her.
 And with both fists clenched, she thought frantically for some kind of breakthrough.
 I am the detective, I am Furudo Erika.
-{n}I am the piece and double and servant of the great Lady {f:5:Bernkastel}...!!
+I am the piece and double and servant of the great Lady {f:5:Bernkastel}...!!
 I\'ll definitely make her satisfied...
 satisfied...
 definitely, definitely,
@@ -916,7 +916,7 @@ Thank you very much, Great Lady {f:5:Bernkastel}......
  I am Furudo Erika.
  I am my master\'s piece and her double.
  ......I will most certainly present you with an incredible tale.
- Eheheh{0}eheh......
+ Eheheheheh......
 "Oh, yes, knives and forks are such primitive utensils, aren\'t they?
  Chopsticks are best.
  They\'re the easiest way to eat a salad, don\'t you agree?

@@ -3,7 +3,7 @@
 "Uu, *giggle*giggle*!
  Gonna faaall, gonna faaall, *giggle*giggle*!"
 In the lobby of the Niijima airport, Maria dashed around in excitement.
-{n}Battler\'s uproar in the plane must have been very funny to her.
+Battler\'s uproar in the plane must have been very funny to her.
 "Hey, Maria!
  That\'s enough!
  ...Sorry, Battler‐kun.
@@ -71,23 +71,23 @@ Voices, the wind, and even sound—
 absolutely everything ceased, and as if they had been frozen in the instant a photo was taken, everything moving or about to move...
 ...stopped.
 People, machines, clock hands, even the dust dancing in the wind—frozen.
-{n}People who were in the middle of walking—frozen, with one foot still raised.
-{n}Scraps of paper dancing in the wind—frozen, pinned in midair.
+People who were in the middle of walking—frozen, with one foot still raised.
+Scraps of paper dancing in the wind—frozen, pinned in midair.
 ......And among these stationary figures in this world that had come to a standstill, a single one...moved.
 It was a woman.
  The very woman that Battler had just bumped into...
 It was truly the slightest of movements.
 Her gaze dropped, her shoulders lowered a minuscule amount, and she sighed.
-{n}...That was all.
+...That was all.
 In a normal world, that probably wouldn\'t even count as movement,
  but in this still world, it looked very out of place.
 ...Then something else moved.
-{n}It was a black cat that had been dozing in the shadows near the taxi rank.
+It was a black cat that had been dozing in the shadows near the taxi rank.
 It came up right behind the woman,
  ......and leisurely...changed its form into that of a {y:0:Human}{n:0:human}.
 It wasn\'t a cat.
  It was a witch.
-{n}Of course, the woman was also a witch.
+Of course, the woman was also a witch.
 As the witch stood there, her gaze still downwards, she muttered...
 ".........I can\'t stop them...
 ...from going to Rokkenjima, can I..."
@@ -102,7 +102,7 @@ As the witch stood there, her gaze still downwards, she muttered...
 "......If I hadn\'t been sick,
  ...and they hadn\'t left me behind......"
 With her head facing downwards, the witch tightened her fists...
-{n}...They were trembling very slightly.
+...They were trembling very slightly.
 "You were sick in bed starting October 3rd, 1986.
  And Beato\'s game board is a snippet of time beginning on October 4th.
  ......You are not given the possibility of not getting sick.
@@ -134,9 +134,9 @@ no,
  ......the day {i:everyone\'s} fates changed...October 4th, 1986,
  ...on Rokkenjima........."
 ...What happened on that day?
-{n}I will expose that.
+I will expose that.
  Learn that.
  And I\'ll take them back...!
 As she stood there with her fists still clenched, she surely turned her face to the heavens.
-{n}A single teardrop from the depths of her eyes dripped down into the air.
+A single teardrop from the depths of her eyes dripped down into the air.
 And when time started moving again, the two witches\' figures were sucked into a blowing gale, and erased in an instant.

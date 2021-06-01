@@ -12,7 +12,7 @@ This room was the farthest down the hall, a long ways away from the cousins\' ro
  I have no desire to listen to those brats\' squeaky voices as they play cards."
 ".................."
 This whole time, Erika had been sitting at the desk working at something.
-{n}......She was preparing some of those duct tape seals from before.
+......She was preparing some of those duct tape seals from before.
 She had asked Kumasawa for the stickiest tape available.
 She drew a complicated, unforgeable signature on it with a permanent marker, then added slits through it.
 By sticking this over a place that she wanted to prove had remained closed,
@@ -25,7 +25,7 @@ Those menacing seals had cornered Natsuhi so thoroughly in the previous game...
  ......That Battler doesn\'t let anything get by him, does he?"
 Erika shrugged and showed the piece of duct tape she had cut off to Dlanor.
 By sight alone, Dlanor couldn\'t tell what had annoyed Erika.
-{n}However, as soon as she held the tape, she realized the difference right away.
+However, as soon as she held the tape, she realized the difference right away.
 "......This won\'t be any {f:5:good}."
 "Yes.
  It\'s barely sticky at all.
@@ -58,7 +58,7 @@ Erika tossed the duct tape aside and flopped spread‐eagled onto the bed...
 "......It seems...that you are not in high {f:5:spirits}."
 ".........Does it look that way?"
 Erika answered lazily, still looking up at the ceiling.
-{n}That in itself was half an answer...
+That in itself was half an answer...
 The silence between the two was filled by the sound of the wind and rain.
 It was so quiet...
 ...that it was hard not to listen to the ticking of the clock.
@@ -71,7 +71,7 @@ It was so quiet...
  Well, we\'re just killing time anyway.
  What is it?"
 Erika was probably bored as well.
-{n}......Or maybe the sound of the rain was making her sentimental.
+......Or maybe the sound of the rain was making her sentimental.
 She assented, which was very unlike her.
 "Why is it...
 ...that you hate {f:5:magic}?"
@@ -130,22 +130,22 @@ However, with her back still to Dlanor, ......Erika kept on saying disconnected 
  Work suddenly called him in.
  His buddy called him up and he couldn\'t get off the phone."
 {e:090:He made too much curry.
-{n}He started going to theater practice more often.
-{n}He started folding paper towels differently.
-{n}‘Thanks, I\'ve already eaten.’
-{n}He knew more than before about cosmetics.
-{n}‘Sorry, I was sleeping.’
-{n}The toilet seat was left down.
-{n}He spent the night over at his stage friends\' place.
-{n}‘Me and my acting friends had a party here.
+He started going to theater practice more often.
+He started folding paper towels differently.
+‘Thanks, I\'ve already eaten.’
+He knew more than before about cosmetics.
+‘Sorry, I was sleeping.’
+The toilet seat was left down.
+He spent the night over at his stage friends\' place.
+‘Me and my acting friends had a party here.
  Someone just left it behind.’
-{n}The drain and sink were cleaned out.
-{n}There were receipts and point cards from places he didn\'t usually go.}
+The drain and sink were cleaned out.
+There were receipts and point cards from places he didn\'t usually go.}
 {e:090:The muddy soles are evidence that you went out on Monday when it was raining.
-{n}It matches the strange symbol on the calendar.
-{n}None of your theater friends have hair this long.
-{n}Leading questions.
-{n}How do you know the plot of a movie you haven\'t seen yet?}
+It matches the strange symbol on the calendar.
+None of your theater friends have hair this long.
+Leading questions.
+How do you know the plot of a movie you haven\'t seen yet?}
 {e:090:Evidence,
  evidence,
  circumstantial evidence. Observation,
@@ -156,8 +156,8 @@ However, with her back still to Dlanor, ......Erika kept on saying disconnected 
  asking around,
  questioning.}
 {e:090:I found plenty of evidence that I loved you.
-{n}I found plenty of evidence that you loved me.
-{n}But I can\'t find any evidence that you haven\'t been cheating on me.}
+I found plenty of evidence that you loved me.
+But I can\'t find any evidence that you haven\'t been cheating on me.}
 {e:090:Give it a rest.
  If you love me, then trust me.
  If you can\'t do that, then you don\'t love me anymore.
@@ -244,9 +244,9 @@ Because of this, it is a splendid final move that the weaker player can pull off
 In this situation, Erika clearly had the advantage.
 ......It was natural that Dlanor, her opponent, would seek a stalemate to obtain a draw.
 However, that only worked in chess.
-{n}......In the game where witches fought over the truth, it was a forbidden move.
+......In the game where witches fought over the truth, it was a forbidden move.
 So, it was already checkmate from the very beginning.
-{n}Dlanor had no way to turn the game around...
+Dlanor had no way to turn the game around...
 But that meant that regardless of what the real truth had been,
  ............this game would...
 ...............
@@ -259,13 +259,13 @@ But that meant that regardless of what the real truth had been,
 Erika had succeeded in crushing her opponent with the truth she espoused...
 ...that her former boyfriend no longer loved her and was cheating on her.
 Her opponent had no way to argue back.
-.........After all, {y:0:Human}{n:0:human}s are not allowed to use {m:-5:――}{m:-5:――}.
+.........After all, {y:0:Human}{n:0:human}s are not allowed to use ――――.
 A splendid game, a splendid finish from a superior position.
-{n}Regardless of the truth of her opponent, Erika could win.
-{n}A splendid......victory.
+Regardless of the truth of her opponent, Erika could win.
+A splendid......victory.
 Dlanor could only respond with silence.
 And with that, Erika spoke no more.
-{n}......She was probably done talking and wanted Dlanor to leave.
+......She was probably done talking and wanted Dlanor to leave.
 Dlanor understood this, but even so,
  .........she wanted to tell Erika just one thing before leaving.
 "A splendid game, Lady {f:5:Erika}."
@@ -306,7 +306,7 @@ Erika glanced at the bedside clock and saw that it was almost exactly midnight.
  The curtain has finally risen on the second day, October 5th.
  ......I wonder if the first of this game\'s murders is happening somewhere about now.
  I hope our victims leave us some interesting dying messages this time.
- Ehheh{0}eh{0}eh{0}eh{0}eeh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh...!"
+ Ehheheheheheeheheheheheheheheheh...!"
 "Why didn\'t you discuss this with your mother?!!
  This is about the partner who\'s supposed to support you throughout the rest of your life!!"
 "That\'s right.
@@ -370,8 +370,8 @@ This had been no more than George had expected, so he had responded with an ice�
  How can you say that?!!
  Have I ever failed to think about what\'s best for you?!"
 "I haven\'t, have I?!
- How is the ‘parent’ ({p:0:親}) kanji written?!
- It\'s {nobr:‘stand’ ({p:0:立})} on top of a {nobr:‘tree’ ({p:0:木})} and {nobr:‘look’ ({p:0:見})!}"
+ How is the ‘parent’ (親) kanji written?!
+ It\'s ‘stand’ (立) on top of a ‘tree’ (木) and ‘look’ (見)!"
 "That\'s what we\'ve been doing, surveying your entire future from a height far greater than you have access to!!
  And from our vantage point, we can see that you\'re letting your momentary youthful emotions lead you down the wrong path!!
  That\'s why I\'m saying what I am even though I know you\'ll hate me for it!!"
@@ -449,9 +449,9 @@ I\'ve learned a lot from my parents, my friends, and Sayo...and I\'ve grown.
 "..................!!!"
 ".........What...?"
 Eva had disappeared.
-{n}The pouring rain landed evenly across the ground everywhere.
+The pouring rain landed evenly across the ground everywhere.
 No, ......it was blocked very slightly in one place.
-{n}However, there was no one there.
+However, there was no one there.
 ......Standing on the ground isn\'t the only way to block the path of the rain.
 Then,
  ...........could it be.........
@@ -459,7 +459,7 @@ Then,
 "Alright then... Sometimes it\'s good to be brutally honest!
  I\'ll speak my mind.
  So why don\'t you just lay it out there forever?!
- Ahha{0}ha{0}ha{0}ha{0}haa{0}ha{0}hah!!"
+ Ahhahahahahaahahah!!"
 In the rain‐filled sky, with the moon that shouldn\'t have been visible behind her,
  ......was the Golden Witch of the future who had finally obtained everything of the Ushiromiya family.
 Even the drastic change in his mother\'s appearance didn\'t faze George.
@@ -504,7 +504,7 @@ From Eva\'s perspective as she looked down from the sky,
  Let me make it so that you can understand.
  I\'ll show you.
  And then, you\'ll realize the truth forever!!
- Ahaha{0}ha{0}ha{0}ha{0}hyah{0}haaah!!!"
+ Ahahahahahahyahhaaah!!!"
 The vast, red spiderweb on the ground scooped up George as easily as scooping scum out of a pot.
 Then, it lifted him into the air like a deer caught in a net and swung him about.
 {f:5:Eva}\'s insane laugh was as innocent as a grade schooler happily swinging about a bag filled with her gym clothes...
@@ -536,7 +536,7 @@ Then, it lifted him into the air like a deer caught in a net and swung him about
 "‘You can lead a horse to water, but you can\'t make it drink.’"
 "That\'s a British proverb, isn\'t it?"
 "Making you motivated and keeping you that way...
-was the hardest thing to do{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oo!!!"
+was the hardest thing to doooooooooooooooooooooo!!!"
 "Gah,
  ............gwah,
  gghhh...!!"
@@ -560,7 +560,7 @@ She would innocently swing him around, then smash him about, all with an insane 
  No plants will bud, and no flowers will bloom without the sun!!"
 Still bound hand and foot, George was thrown, slammed, and smashed.
 He could do nothing...
-{n}He was still like Sun Wukong, unable to leave the palm of his mother\'s hand.
+He was still like Sun Wukong, unable to leave the palm of his mother\'s hand.
 However, since he wouldn\'t surrender, he could still show resistance at any time...
 "Then what about Saturday?! What about Saturday?!"
 "......That\'s when the tutor came."
@@ -593,7 +593,7 @@ Only now did George, who had always admired Sun Wukong, recognize this greatest 
 "A first step?
  Don\'t make me laugh. You still haven\'t even been born yet!!
  This isn\'t my web that you\'re caught in.
- ......You\'re inside my caring, nurturing wo{-}o{-}o{-}o{-}omb!!!"
+ ......You\'re inside my caring, nurturing wooooomb!!!"
 George was slammed against the ground over and over.
 ......It was heartless cruelty unlike anything one would expect a blood‐related son to receive.
 However, ......in Eva\'s eyes,
@@ -696,7 +696,7 @@ George weaved through them in that instant, and the next, he was right before he
 "...Ha, ......kyahhahahahaha!!
  I\'m glad, George, to hear you\'re grateful for at least one thing!!
  Your mother is happy!!
- Kyah{0}ha{0}ha{0}ha{0}a{0}aah!!!"
+ Kyahhahahaaaah!!!"
  {f:5:Eva}\'s swift feet flashed like lightning.
 Low,
  low,
@@ -760,7 +760,7 @@ Then, a pitch‐black hole opened in the air there, ......and Gaap jumped out.
 "Do I have some duty to listen?"
 "...............Will you not do this for me...?"
 With his back still facing her, ......George reset his glasses.
-{n}The threat in his voice held the solemn presence of a king who ruled over demons.
+The threat in his voice held the solemn presence of a king who ruled over demons.
 His majesty made Gaap gulp,
  and she licked her lips before bowing respectfully to his back.
 "I like studs,

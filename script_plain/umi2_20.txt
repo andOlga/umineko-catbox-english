@@ -159,7 +159,7 @@ If you\'re still hugging your knees, quickly stand back up.
 ...fight,
  yea~h.
  Mii,
- nipah~{p:0:☆}
+ nipah~☆
 ..................It\'s so embarrassing, doing this.
 ......I\'ve done this much for you, so hurry and stand back up.
 "...Ah, there you are.

@@ -23,10 +23,10 @@ Once I started to think that way, I didn\'t want to stay in this room a second l
 This room scares me.
  It\'s creepy.
  ......Where is everyone?
-{n}I want to get out of here right now...
+I want to get out of here right now...
 I opened the door, trying to leave the room.
 A pleasant glow snuck in through the crack of the door.
-{n}......As I\'d thought, the corridor was filled with a comforting light.
+......As I\'d thought, the corridor was filled with a comforting light.
 I couldn\'t actually hear them, but I could sense that far away, people were enjoying themselves.
 ......Everyone else must be gathered in the room across from this one.
 ......I\'ve been shut up in this lonely, creepy room......all alone...
@@ -68,7 +68,7 @@ When I thought this,
 I could mouth the words "someone, come here",
  but no voice left my lips.
 What\'s...going on...?!
-{n}Someone, come...
+Someone, come...
  Why can\'t I cry out...?!
 Help me help me help me.
 Not even being able to say "help me" out loud scared me more than anything.
@@ -120,7 +120,7 @@ Who am I?
 Who is the man standing behind me?
 Amakusa Juuza.
  The man who used to be my guard long ago.
-{n}He\'s now the bodyguard Okonogi assigned to me.
+He\'s now the bodyguard Okonogi assigned to me.
 ......In that case, ......after Aunt Eva died...
 ...I must have thrown off my pursuers...
 ......and gone on a journey to find out what happened on that day twelve years ago......
@@ -139,7 +139,7 @@ That\'s a relief.
  I was sure it was a "he"......
 "Excuse me, ...but are you...?"
 "Yes.
- ......I am Hachijo Tohya ({p:0:八城十八})."
+ ......I am Hachijo Tohya (八城十八)."
 "The magazines talked about your book signing event.
  Supposedly, a mysterious male author showed up wearing sunglasses and a mask...
  Never thought you\'d be a woman...... What\'s the deal?"
@@ -157,7 +157,7 @@ That\'s a relief.
 "......I see.
  Looks like......you really are the great Hachijo."
 This person really is eccentric...
-{n}There\'s no doubt about it... This is Hachijo Tohya herself...
+There\'s no doubt about it... This is Hachijo Tohya herself...
 Hachijo Tohya is a mystery novelist who\'s become the center of discussion lately.
 Although her actual books are also apparently highly praised, it\'s her mysterious debut that\'s attracted so much attention towards her lately.
 Last year, she somehow managed to win several different awards for exceptional mystery novels offered by multiple large publishing companies,
@@ -186,9 +186,9 @@ Given this person\'s radically unconventional track record,
  That\'s actually pretty impressive..."
 "Itouikukuro0576.
  It was a pretty strange username.
- However, if you match the Japanese syllables to numbers, you can read it as {nobr:{ruby:i:1}‐{ruby:tou:10}‐{ruby:i:1}‐{ruby:ku:9}‐{ruby:ku:9}‐{ruby:ro:6}‐0576}."
+ However, if you match the Japanese syllables to numbers, you can read it as {ruby:i:1‐{ruby:tou:10}‐{ruby:i:1}‐{ruby:ku:9}‐{ruby:ku:9}‐{ruby:ro:6}‐0576}."
 11,019,960,576.
-{n}This massive number is equal to 18⁸.
+This massive number is equal to 18⁸.
 Eighteen to the eighth power.
  In Japanese, "tohya no hachijo".
 ......That\'s how you reach Hachijo Tohya...
@@ -199,7 +199,7 @@ Eighteen to the eighth power.
 Her manner of speaking was extremely condescending,
  but, perhaps because of her elegant manner, it didn\'t feel particularly irritating.
 This person had a sort of majestic grandeur about her which made that style of speech seem almost natural.
-{n}......At least, that\'s how it felt to me.
+......At least, that\'s how it felt to me.
 .........In fact, it felt almost as though this was the manifestation of some noble being,
  who would have no need to show herself before mere {y:0:Human}{n:0:human}s under normal circumstances.
 Since I\'m not particularly a fan of hers,
@@ -291,16 +291,16 @@ Hachijo suddenly started talking about the geocentric model.
 "It\'s the same with this case.
  Your denying my truth amounts to the same thing."
 Several scholars before Galileo proposed the heliocentric model.
-{n}......However, it was hard to objectively prove it using the scientific techniques available at the time.
+......However, it was hard to objectively prove it using the scientific techniques available at the time.
 However, that didn\'t change the fact that it was the truth.
-{n}"And yet it moves".
+"And yet it moves".
 ".........So, you\'re saying the truth is still the truth whether you can prove it or not...?"
 "Correct.
  In the future,
  when the full truth finally becomes known,
  people will look back and realize that I had already discovered it."
 Apparently, Ange just couldn\'t stand Hachijo\'s attitude.
-{n}She kept getting irritated, and every time, Amakusa would joke around until she settled down again.
+She kept getting irritated, and every time, Amakusa would joke around until she settled down again.
 However, there could be no mistake that Hachijo was a genius...
 and had used her extraordinary intuition to form a most interesting perspective on the events that had occurred on that island...
 That was why Ange had wanted to contact Itouikukuro and hear about her viewpoint.
@@ -369,10 +369,10 @@ It appeared to be filled to bursting with pages of printed‐out text.
 And, the neat letters written with a fountain pen on the envelope...
 ...spelled out the word "Dawn".
 There is no forgery by the name of Dawn.
-{n}......Which...must mean......
+......Which...must mean......
 ......Ange could tell.
  This was a new one.
-{n}Hachijo\'s newest, unreleased forgery......
+Hachijo\'s newest, unreleased forgery......
 “Dawn of the Golden Witch”...
 "For one such as I, who knows everything, everything is boring.
  ......However, I don\'t dislike letting the ignorant read my works to see what kind of reaction they have.
@@ -385,7 +385,7 @@ There is no forgery by the name of Dawn.
  ...Who are you?
  ......I don\'t remember ever meeting you like this."
 Yes, I did try to contact Hachijo Tohya.
-{n}However, in the end, I never got a chance to meet her.
+However, in the end, I never got a chance to meet her.
 In other words, all of this is a falsehood.
 "Whose piece am I this time?
  ......Sorry, but if you think you can tame Ushiromiya Ange so easily,
@@ -393,7 +393,7 @@ In other words, all of this is a falsehood.
 ".........Pfft.
  ......*giggle*giggle*.........
  Yes, ...I hoped you\'d be this interesting.
- Eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheheh..."
+ Eheheheheheheheheheheh..."
 She finally couldn\'t hold it back and burst out laughing...
 Gradually, the space around them seemed to fill with a strange purple mist...
 The room itself seemed to twist and bend...
@@ -406,7 +406,7 @@ Her figure also twisted,
  .........All of you have that same condescending tone towards other people.
  I figured you were a witch right away."
 The novelist sitting on the sofa was nowhere to be seen.
-{n}Even Ange\'s bodyguard, who was supposed to be around at times like this, was gone.
+Even Ange\'s bodyguard, who was supposed to be around at times like this, was gone.
 There was only a nonhuman figure relaxing in a large, ornate rocking chair.
 "I find you to be truly interesting, child of man.
  ......Your charming nature is the perfect thing to alleviate my boredom."
@@ -512,7 +512,7 @@ Ange shrugged, but she also nodded to show her consent.
  As proof of my respect for you, I will acknowledge your name."
 For her, acknowledging a human\'s name was like acknowledging the names of all the leaves scattered across the ground.
 So, .........her acknowledging Ange\'s name was a miracle.
-{n}No, it was immensely good fortune.
+No, it was immensely good fortune.
 "...From this point forth, Ushiromiya Ange...
 will serve as Reader and miko to the Witch of Theatergoing, {f:5:Featherine Augustus Aurora}.
  Until you finish reading,
@@ -536,5 +536,5 @@ That didn\'t mean that Ange would gain some sort of special power,
 "......Heheh. Even conversations like this are nice every once in a while.
  ......Ange, my miko."
 Ange accepted her role.
-{n}She would observe this tale with the Witch of Theatergoing.
+She would observe this tale with the Witch of Theatergoing.
 The curtain was rising on the sixth tale......

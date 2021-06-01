@@ -99,7 +99,7 @@ When Genji spoke firmly, the two finally ceased their scuffle.
 It seemed that Genji, the one who had spoken for Kinzo since they were very young, still possessed an air of dignity strong enough to handle both Krauss and Eva...
 Eva put her argument aside for the time being.
 She could worry about that after seeing the gold with her own eyes.
-{n}After all, not even she had yet seen it for herself.
+After all, not even she had yet seen it for herself.
 Natsuhi and the others had managed to deal with this crisis somehow.
 ......However, the demons\' move which would sneer upon their efforts was already in motion...
 "Battler.........solved the riddle of the epitaph, you say......?!"
@@ -157,10 +157,10 @@ Everyone was stunned by the gold.
 The first one to break the silence and jump around in ecstasy was Hideyoshi.
 Letting out an excited laugh, he clung to the wall of gold,
  and he felt the cold, hard touch of it all over his cheek.
-"W‐waha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!
+"W‐wahahahahahahahahahahahaha...!!
  Th‐this is incredible!
  It\'s the real thing!!"
-"......Ha......ha{0}ha{0}ha{0}ha{0}ha{0}haha!!
+"......Ha......hahahahahahaha!!
  Damn you, old man, stockpiling all this gold in a crazy place like this!!"
 "If we have all this...
 ...there\'s...
@@ -319,10 +319,10 @@ She wore an unpleasant smile on her face, as though she understood all too well.
  Yes, it\'s not every day you get to see ten tons of gold."
 ......Getting to see the gold was the feast for the eyes?
  Of course not.
-{n}From Erika\'s dark nature, it was easy to guess what she was so happy about seeing.
+From Erika\'s dark nature, it was easy to guess what she was so happy about seeing.
 I thought about telling her to get the hell out of here already, but I wanted out myself...
 I tried to head back to the guesthouse along with Erika.
-{n}However, Kyrie‐san grabbed my shoulder.
+However, Kyrie‐san grabbed my shoulder.
 "Not you as well, Battler‐kun.
  You come with us, please."
 "Darn right.
@@ -351,7 +351,7 @@ But it didn\'t make any difference...
 "................................."
 .........Why did she want to make us solve the riddle of the epitaph?
 By solving it, we found a mountain of gold.
-{n}Yippee for us.
+Yippee for us.
 And what about Beato?
 ......Does she gain anything......by having us find the gold?
 Or does she lose something...?
@@ -376,7 +376,7 @@ She has absolutely no need to make anyone find it for her or to snatch it away h
 Of course.
  ......Beato is {f:5:Beatrice} the Golden.
 She\'s the master of the Golden Land and the Ushiromiya family alchemist.
-{n}...That makes total sense.
+...That makes total sense.
 However, if that\'s true, that makes me even more confused.
 ......Even if someone exposes the answer to the epitaph\'s riddle, Beato gains nothing.
 No, to the contrary, she might get her own gold stolen away.
@@ -417,9 +417,9 @@ In that case, how much are the epitaph murders, which lie on the other side of t
 The epitaph murders and solving the riddle of the epitaph have equal worth.
 As long as the epitaph murders, which are Beato\'s goal each time, have this single way that they can be stopped, a way that she decided on herself, both are worth the same thing to her.
 X=Y.
-{n}And whether the epitaph\'s riddle is solved or not, Beato gains nothing.
-{n}Y=0.
-{n}So, in this case, ......what is X......?
+And whether the epitaph\'s riddle is solved or not, Beato gains nothing.
+Y=0.
+So, in this case, ......what is X......?
 "................................."
 "......Wait a sec.
  ......That means the epitaph murders are also meaningless and immaterial."
@@ -428,7 +428,7 @@ X=Y.
  every time she performs that bizarre serial murder.
  So all of that is meaningless to her...?"
 I\'ve flipped over the chessboard many times exploring Beato\'s moves.
-{n}This was always the first place I stumbled.
+This was always the first place I stumbled.
 The significance of the epitaph murders.
 Why did she have to commit serial murders in a way that reproduced the witch\'s epitaph?
 If she wanted to kill the whole Ushiromiya family for revenge, it would be much simpler, safer, and more reliable if she just put poison into their dinner,
@@ -553,10 +553,10 @@ Even the riddle of the epitaph, which she made into a condition to suspend the s
  is meaningless, immaterial.
 And......she\'s thrusting this meaningless, immaterial thing in front of my face.
 ......What is it......that you want from me...?
-{n}......Or else, what is it that you want to give me......?
+......Or else, what is it that you want to give me......?
 My idea that Beato must have been taking revenge on me...has already been refuted in red by {f:5:Virgilia}.
 Both X and Y...
-{n}Both the epitaph murders and the epitaph\'s riddle...mean nothing to Beato.
+Both the epitaph murders and the epitaph\'s riddle...mean nothing to Beato.
 X=Y=0.
 However, since she\'s thrusting that in front of me,
  ...it must...
@@ -566,10 +566,10 @@ Neither the epitaph murders nor the epitaph\'s riddle have any significance by t
 However, it becomes meaningful when she puts both halves on the scales and thrusts it out before us.........no, before me.
 ......In other words, it should be like this:
 X=0.
-{n}Y=0.
-{n}X+Y>0.
+Y=0.
+X+Y>0.
 A scale with meaningless, weightless things on both sides.
-{n}However, it has weight itself...and gives the rest meaning.
+However, it has weight itself...and gives the rest meaning.
 "......It\'s almost like......playing.
  Like kids playing rock‐paper‐scissors."
 Rock‐paper‐scissors is the most immediate method of randomly determining a winner and a loser.
@@ -609,7 +609,7 @@ No.
  There\'s no way that\'s the case.
 I clearly remember the serious look in her eyes at that moment.
 Unfortunately, I didn\'t have a clue what she was talking about.
-{n}......And she was devastated.
+......And she was devastated.
 That\'s right.
 At that time, I\'m sure she even went so far as to say that the crime wouldn\'t have occurred if I hadn\'t come.
 "There is a meaning.

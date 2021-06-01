@@ -25,7 +25,7 @@ Lion, who had apparently been chatting with the adult siblings, spun around with
  Then, senior year? Immediately president of the student council!"
 "Dad was oh so proud!
  Mom kept saying "now you make sure you do your best as the little sister", over and over and over again!!
- Nngyaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}ahhhh!"
+ Nngyaaaaaaaaaaahhhh!"
 "But even so, you\'re still proud to be Lion\'s little sister, aren\'t you?"
 "I‐i‐it\'s not like I ever thought about that!
  Nope, never! Not even once...!"
@@ -95,7 +95,7 @@ Why would furniture want to become {y:0:Human}{n:0:human}?
 It feels like this was the theme of the previous game.
 Because they want to gain the right.
 Furniture cannot ____.
-{n}So, they try to become {y:0:Human}{n:0:human} for the right to ____.
+So, they try to become {y:0:Human}{n:0:human} for the right to ____.
 ...........................
 It really is quite simple.
 ......It\'s directly connected to the reason the chick Beato was born in the first place.
@@ -162,7 +162,7 @@ Of course, when that huge portrait was first hung, I was definitely creeped out.
 Even I tried not to meet her eyes after dark,
  so yeah, I don\'t blame the servants for finding it eerie.
 But that only lasted for a short while.
-{n}I mean, I walked by that portrait every day.
+I mean, I walked by that portrait every day.
 I gradually got used to it, and eventually bored of it.
 It was just a portrait that Grandfather blew a bunch of money on, showing the mistress from his delusions... I was past caring.
 "I get that.
@@ -262,7 +262,7 @@ However, Rosa happened to have gone to the bathroom.
  Of course, she will take me there, to the Golden Land!
  But not Jessica, not Jessica!!
  Not someone who makes fun of {f:5:Beatrice}, not an unenlightened, stupid, confused, filthy, toxin‐stained {y:0:Human}{n:0:human}!!
- Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hhi{0}hhi{0}hhi{0}hhi!!"
+ Kihihihihihihihihihihhihhihhihhi!!"
 ".........When someone makes fun of {f:5:Beatrice}, it\'s like Maria becomes a totally different person."
 "There was a theory about Maria having multiple personalities, wasn\'t there?"
 "Multiple personalities!
@@ -333,7 +333,7 @@ is an authority on the occult who is respected by everyone."
 Then, ......just what is...
 ...the "other self" in Maria\'s case?
 An authority on the occult who can out‐argue even adults?
-{n}Or else, ......someone who converses and mingles with witches?
+Or else, ......someone who converses and mingles with witches?
 ......Either way, denying {f:5:Beatrice} in front of Maria is clearly taboo.
 .........In her search for something more than her everyday life,
  Maria had found it in {f:5:Beatrice} and inside herself.
@@ -490,11 +490,11 @@ I couldn\'t just go to Shannon the next day, let her ask me how it went,
  and answer "well, I got scared so I gave up,
  tehehe......"
  That\'d just be pathetic.
-Normally, I go to sleep long before {nobr:2 a.m}.
+Normally, I go to sleep long before 2 a.m.
 If Mom found me wandering the corridors at that time of night, she\'d definitely yell at me.
-So, I waited in my room, staring at the hands of my clock as it ticked closer to {nobr:2 a.m}.
+So, I waited in my room, staring at the hands of my clock as it ticked closer to 2 a.m.
 Outside, the rain was incredible, and the wind strong.
-{n}The swaying, rustling trees were particularly creepy.
+The swaying, rustling trees were particularly creepy.
 I\'d complained to Shannon and Gohda about making up ghost stories for my house,
  ......but I was starting to feel as though they had a bit of a place after all.
 ......The Ushiromiya mansion is huge.
@@ -504,12 +504,12 @@ In other words, my own room is part of my home, ......but the hallways and the r
 So, while part of me felt that this VIP room ghost story was ridiculous,
  ......the other part of me was so creeped out that it kept trying to convince itself that the first part of me was right.
 Ten to two.
-If I want to greet {nobr:2 a.m.} inside the VIP room, I need to have already gone in there before then.
+If I want to greet 2 a.m. inside the VIP room, I need to have already gone in there before then.
 "......Guess it\'s time.
  ......Sorry, but I\'m not giving up that easy."
 Nothing\'s going to happen.
  I know that.
-{n}It\'ll just be a stupid waste of time for a few minutes.
+It\'ll just be a stupid waste of time for a few minutes.
 I touched the doorknob to the door of my room...
 ...and was startled by how unpleasantly cold it was.
 As long as I stayed in this room, I could laugh off anything.
@@ -529,7 +529,7 @@ So, even though I was inside my own house,
 ......If Mom found out that I was wandering around at a time like this to do a test of courage in the VIP room, which I\'m not supposed to go in,
  I\'d get in a lot of trouble.
 To make sure she didn\'t find out, I tried to hide my breathing and my footsteps.
-{n}......So, the silence felt unbelievably loud.
+......So, the silence felt unbelievably loud.
 Even though it was so quiet, ......the eerie sound of the wind was loud in my ears.
 The sound of twigs rustling.
  The sound of some pillar in this old mansion creaking.
@@ -538,7 +538,7 @@ Though it was so quiet, ......all of the little, suspicious sounds felt obnoxiou
 Damn, I\'m an idiot.
  Why couldn\'t I have brought a flashlight, at least?
 A flashlight to use inside my own home?
-{n}......Hah, that\'s even more idiotic...
+......Hah, that\'s even more idiotic...
 I mumbled this to myself, hoping it would drown out the sound of the wind just a little...
 .........Then, ......I saw it.
  The door to the VIP room.
@@ -546,13 +546,13 @@ I mumbled this to myself, hoping it would drown out the sound of the wind just a
 However, as far as I knew, it had never been used.
 None of the guests who came to this mansion......had ever been given the right to use this room.
 Though I\'d been clutching the key all this time, it didn\'t feel warm at all.
-{n}The icy metal tormented me ruthlessly.
+The icy metal tormented me ruthlessly.
 Maybe that was a warning.
  ......“If you go back to your comfortable room and hide in your bed, this night will pass like any other...”
 "......Like hell I\'m doing that.
  I can\'t give up after coming this far."
 The key had been freezing in my hand, urging me to turn back.
-{n}......But the keyhole made no further attempt to stop me.
+......But the keyhole made no further attempt to stop me.
 All that\'s left...
 ......is to turn the knob,
  open the door,
@@ -573,7 +573,7 @@ Even the dim light that seeped in from the corridor seemed bright in contrast.
 ......Swallowing hard,
  ......I stuck my head in, feeling about for the light switch next to the doorway.
 This was a horribly unnatural and awkward way to do it.
-{n}......All I really had to do was step inside and search for the switch from there.
+......All I really had to do was step inside and search for the switch from there.
 Unwilling to take even a single step into the room,
  ......I timidly stuck just my arm into the darkness and felt along the wall...
 "............There..."
@@ -586,7 +586,7 @@ And there,
  ...was the VIP room.
 ......The curtain and bed cover might have been slightly different, and maybe the chairs and the like had changed too.
 Still, .........if I had to put it in words, I\'d call it the feel.
-{n}......The stiff, lifeless feel of this room hadn\'t changed.
+......The stiff, lifeless feel of this room hadn\'t changed.
 If I hang around here, someone might find me.
  ......I\'d rather not have Mom find me here.
 I readied myself,
@@ -608,7 +608,7 @@ When I looked around again, searching for something to sit on, ......I found som
 It had been placed on the side table next to the bed.
 ......If this room had been used often by someone, I\'d have thought it was just one of their personal belongings.
 But there was no one living in this room.
-{n}So, ......it was impossible for this to belong to the room\'s owner.
+So, ......it was impossible for this to belong to the room\'s owner.
 "......What is this, an offering or something?
  ......Creepy..."
 It did look like an offering.
@@ -633,7 +633,7 @@ It looked like an offering...no, like some sort of worship,
  ......Am I supposed to clap my hands together and say "please don\'t curse me"?"
 Jessica forced herself to look away from the bizarre doll.
 ......She couldn\'t bring herself to sit on a bed that wasn\'t hers.
-{n}Then again, she didn\'t really feel like sitting down on a chair either.
+Then again, she didn\'t really feel like sitting down on a chair either.
 She had lost any desire to sit on anything in this room.
 Wandering about aimlessly,
  ......I peeked out the window through the gaps in the curtains to stare at the dark, rainy night.
@@ -694,7 +694,7 @@ Did I hear that wrong...?
  I just learned this one!
  Uu!’
 The voice, the intonation, the manner of speech—all of it clearly belonged to Maria.
-{n}But......what\'s she talking about, all by herself...?
+But......what\'s she talking about, all by herself...?
 Maria just kept on talking happily as I stood there, stunned and unable to interrupt.
 Eventually, Maria started singing an old, familiar kids\' song that even I knew.
 I don\'t...get it.
@@ -705,8 +705,8 @@ I don\'t...get it.
  Hello?!
  Ah—"
 The voice, the lights—everything disappeared.
-{n}In the pitch‐black, I couldn\'t see anything, couldn\'t tell what was happening.
-{n}I don\'t get it, what\'s going on?!
+In the pitch‐black, I couldn\'t see anything, couldn\'t tell what was happening.
+I don\'t get it, what\'s going on?!
 "What...
 .........the hell...
 .........was that......?"
@@ -719,7 +719,7 @@ I wouldn\'t say something as non‐committal as I "felt like" I heard it.
  I wouldn\'t say something as vague as I "sensed a presence".
  I definitely heard it, right next to me, clearly.
 However, there was no change to the bed.
-{n}No one had been sleeping there in the first place, and the sheets were still perfectly straight.
+No one had been sleeping there in the first place, and the sheets were still perfectly straight.
 Someone had crawled out of the bed,
  .........and had laughed in a creepy voice before leaving the room......
  ............That\'s...
@@ -756,7 +756,7 @@ supposed to have turned into a human...
 ......and then run cackling from the room...?
 "No......way....................."
 After that, nothing happened.
-{n}The doll alone disappeared, .........and nothing else changed.
+The doll alone disappeared, .........and nothing else changed.
 In a VIP room that had remained completely unchanged and was filled only with the sound of wind and rain,
  ......I stood there, too shocked to move......
 "Did you ever find that doll?"
@@ -768,7 +768,7 @@ In a VIP room that had remained completely unchanged and was filled only with th
  ......It might have been a prank done by the servants."
 "A prank?"
 "Maybe they recorded Maria\'s voice on a cassette tape or something ahead of time.
- They then called at exactly {nobr:2 a.m.} and pushed the play button.
+ They then called at exactly 2 a.m. and pushed the play button.
  They could\'ve cut the power at the breaker or something."
 "......Then, someone who had been hiding in the VIP room beforehand would make a creepy laugh, take the doll, and leave.
  .........If that was how it happened, everything does fit."

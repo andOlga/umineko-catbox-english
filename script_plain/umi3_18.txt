@@ -1,7 +1,7 @@
 ...Even though it was a pitch‐black world where nothing could be seen,
  ......for some reason, I felt Beato\'s presence right next to me.
 ......So I tried calling out to her.
-{n}...You can exchange words with someone whether they\'re a human or a witch.
+...You can exchange words with someone whether they\'re a human or a witch.
 ......So even in a world where witches have been denied......I should be allowed to talk to her...
 "...............Beato......"
 "......Battler, is it...
@@ -36,7 +36,7 @@ the Golden Witch’."
 .........When Battler said those words...
 In the world that had been dark, ...there was suddenly a single grain.
 ...A small grain of gold, like a wheat seed, shone brightly.
-{n}...Even though it was small, it had a strong, gold‐colored glow.
+...Even though it was small, it had a strong, gold‐colored glow.
 And......it illuminated the two of them, sitting with their backs together...
 So they each became aware of their own form.
 ...They did not exist only as consciousness.
@@ -60,7 +60,7 @@ In that fantastical hall where many gold butterflies beat their wings,
  ...many tables were set up with white tablecloths, like it was a party,
  and beautiful cooking and fruits were set out.
 ...And over there......were a great many figures.
-{n}Everyone was there, talking together and smiling.
+Everyone was there, talking together and smiling.
 "G‐............guys........."
 There was Dad and Kyrie‐san, Uncle Krauss, Aunt Natsuhi and Auntie Rosa, and of course, even Auntie Eva and Uncle Hideyoshi.
 ......George‐aniki, Jessica, Maria, ...wait, wait, even Shannon‐chan, Kanon‐kun, Gohda‐san and Kumasawa‐san are here.
@@ -126,7 +126,7 @@ And Kanon‐kun wanted to act humbly like a servant and bow,
  I forbid it, I couldn\'t possibly give away our Jessica to such a person...!!"
 "Why not allow it?
  Let her at least choose the person she likes."
-"I forbid it, I forbid it, aaa{0}a{0}a{0}a{0}a{0}aaahhh, Jessicaaaaaaaaa!"
+"I forbid it, I forbid it, aaaaaaaaaahhh, Jessicaaaaaaaaa!"
 "Mine has gone awry toooooo, ohhhhh, Geooooooooorge!"
 ...As Aunt Natsuhi and Auntie Eva hugged each other, they cried tears of regret for their darling children.
 ......Even though they had always been at odds.
@@ -142,7 +142,7 @@ And Kanon‐kun wanted to act humbly like a servant and bow,
  He\'ll elope right away."
 "............Battler.
  You finally came here.
- Kihhi{0}hi{0}hi{0}hi{0}hi{0}hihihi."
+ Kihhihihihihihihihi."
 "Maria...
  .........From the beginning,
  .........you knew that we would be coming here......?"
@@ -158,7 +158,7 @@ And Kanon‐kun wanted to act humbly like a servant and bow,
 "Forming firing curve, attack preparations ready.
  Lady {f:5:Maria}, we can attack at any time.
  Nihi!"
-"Kihhihihihihihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!
+"Kihhihihihihihihihihihihihihihihihihihihihihihi...!
  Ouch!"
 "...Quiet.
  You are in the presence of {f:5:Beatrice}‐sama."
@@ -186,7 +186,7 @@ Beato and I looked at each other quizzically, then climbed the stairs together.
 From the hall, it looked like a very high stage.
 A small table had been set up there, as well as a piece of parchment and an old‐fashioned quill pen.
 I saw that strange magical characters and Japanese were written side by side.
-{n}...And below it, many names were written.
+...And below it, many names were written.
 There were 17 of them.
  ......Grandfather was the first, and everyone else\'s names had been signed below in one long column.
 The people who arrived at the Golden Land probably signed this one after another.
@@ -283,9 +283,9 @@ When I did,
 ...A human who clearly hadn\'t been there a short while ago was in the very center of the hall, ...looking up at us.
 Who\'s that......?
  ......A woman?
-{n}She\'s probably about the same age as Jessica and me.
+She\'s probably about the same age as Jessica and me.
 ......But I didn\'t know that face.
-{n}None of the other people here knew that face either.
+None of the other people here knew that face either.
 "......Wh‐......who are you?!
  Who is this?!
  Where did you come from?!
@@ -305,7 +305,7 @@ But the woman didn\'t move at all.
 ............It couldn\'t be......me.........?
 Yes.
  ...The woman was staring straight into my eyes, ...glaring.
-{n}Then, after our eyes met perfectly, she yelled.
+Then, after our eyes met perfectly, she yelled.
 "You must not sign that!!!
  Are you going to accept your own defeat?!
  Don\'t be tricked by the witch!!!"
@@ -332,7 +332,7 @@ As the goat monsters constricted me with the power of a vise, they forced me to 
  Don\'t change your mind now, after all that, alriiiight?"
 "Didn\'t you think for an instant, ...that it might be alright to accept witches?
  You thought that, riiiiiight?
- Kukki{0}ki{0}ki{0}kka{0}kka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!"
+ Kukkikikikkakkakakakakakakakakaka!!"
 "............I,
  ......I was...
 ...tr‐
@@ -346,9 +346,9 @@ As the goat monsters constricted me with the power of a vise, they forced me to 
  Master, with all your strength, if you please!!
  That was such a plain role to play, and I got so bored!"
 "I don\'t know who you are, woman!!
- But I\'ll beat you to death, mash you and crush you until threads start trailing, got iii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiit?!
- I\'ll make you regret being born a womaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}aaan,
- hyahhaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahh!!"
+ But I\'ll beat you to death, mash you and crush you until threads start trailing, got iiiiiiiiiiiiiit?!
+ I\'ll make you regret being born a womaaaaaaaaaaaan,
+ hyahhaaaaaaaaaaaaaaaaaaahh!!"
 Beato raised her gold pipe high,
  and the massive chandelier hanging in the hall crackled with electricity, and from that fell an almighty purple thunderbolt...!
 It was a direct hit on the woman right below it, and should have turned her to ash.
@@ -367,7 +367,7 @@ Those words were aimed at me.
 ......This is all...
 ...the witch\'s trap, she says...?
 That can\'t be...
-{n}Beato reformed and swore to become a good witch......
+Beato reformed and swore to become a good witch......
 ".....................Beato...............
  ...Calling it a trap...
 ...is a lie, right......?
@@ -379,7 +379,7 @@ That can\'t be...
 "I\'ve heard that villains who go {ruby:dere:soft} and then {ruby:yan:crazy} are pretty popular these daaaays...!
  Despite how I loook, I\'ve studied a lot of manga, anime, and galge that have been popular recently, you seeee?"
 "And I tried it out, and just as expected, it was "tears please", and you\'re down!!"
-"Hihhyahhahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha, idioooot, what a truly simple person!!
+"Hihhyahhahhahahahahahahahahahahahaha, idioooot, what a truly simple person!!
  They call this the "North Wind and the Sun Strategy".
  *cackle*cackle*cackle*!!"
 "......How could............
@@ -392,7 +392,7 @@ That can\'t be...
  That caring expression of yours really doesn\'t match me after all.
  My back was itching, and I was frantically trying to withstand it.
  *cackle*cackle*cackle*cackle*cackle*!!"
-"Too baaad, wiiiitches...don\'t reforrrm{p:0:☆}"
+"Too baaad, wiiiitches...don\'t reforrrm☆"
 "Hyaahhahhahhahhaaaaaaaaaaaaaaahh!!!
  You take care of the signature, Master!
  This uninvited guest is my prey!!"
@@ -404,7 +404,7 @@ When {f:5:Virgilia} lifted her chin as a signal, the goat monsters, with an even
 Owowowow... These guys are trying to make me sign, even if it breaks my arm......
 At that moment, a bright red light burst open with me at the center, knocking the witches and the goat monsters away.
 Did that woman save me......?!
-{n}B‐but who in the world is that? I don\'t have a clue!
+B‐but who in the world is that? I don\'t have a clue!
 "How long do you plan to keep playing in a place like this...?
  Enough already.
  I\'m jealous of you."
@@ -454,7 +454,7 @@ Did that woman save me......?!
 "Why don\'t I formally invite you to my party?!!
  I\'ll welcome you fully...!!
  Along with Battler, I\'ll play with you nicely, break you, kill you, crush you, turn you to ash, mix you with bread dough and bake you until you\'re fluffy!!
- Fuhha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haaa{0}a{0}a{0}a{0}a{0}aaaahh!!"
+ Fuhhahahahahahahahahahahaaaaaaaaaaahh!!"
 ".........Ohhhh, that\'s no good, no good at all!
  You\'ll never be able to do that!
  Rokkenjima, in the year 1986.

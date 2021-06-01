@@ -69,18 +69,18 @@ I\'d have strings all over me.
 "What about things I can\'t keep tied to me,
  ......like pencils and erasers?"
 "Hoh‐hoh‐ho, for times like that, there\'s a different charm.
- All you have to do is make a house for {nobr:Mr. Pencil} and {nobr:Mr. Eraser}."
+ All you have to do is make a house for Mr. Pencil and Mr. Eraser."
 Make a house...?
  ......You mean, build a roof and a bed and stuff??
 "You aren\'t actually building a house, you\'re giving them one.
- ......For example, take {nobr:Mr. Knife} here, who I cut the string with.
+ ......For example, take Mr. Knife here, who I cut the string with.
  "{i:I wanna go ho~me!}" he says.
  Eheheheh, he gets lonely when he\'s left alone, so he always wants to go home right away.
  So, if you leave him anywhere else, he\'ll be lost and start crying."
-"......See, I left {nobr:Mr. Knife} lying around, and now he\'s gotten lonely and started to cry."
+"......See, I left Mr. Knife lying around, and now he\'s gotten lonely and started to cry."
 "......Poor thing.
- We need to get {nobr:Mr. Knife} home..."
-"Here is {nobr:Mr. Knife}\'s house.
+ We need to get Mr. Knife home..."
+"Here is Mr. Knife\'s house.
  See, his whole family of knives is waiting for him.
  "{i:Mama~, I\'m ho~me.}" "{i:Welcome ba~ck.}" See?"
 Kumasawa‐san returned the knife to the knife‐holder under the sink.
@@ -96,7 +96,7 @@ Then, Kumasawa‐san said we should give them their privacy,
 "Exactly.
  They\'re lonely, naughty kids, so they\'ll go with the witch if they get the chance.
  So, you must always take them home quickly."
-"......Look at {nobr:Master Key} there you just tied to a string.
+"......Look at Master Key there you just tied to a string.
  He\'s sitting there all alone, crying and asking you to put him in his home in your pocket."
 {i:*sob*sob*}......
  {i:I\'m lonely.}
@@ -104,7 +104,7 @@ The voice of the lonely master key finally reached my ears.
 I hurried to pick it up,
  took the other end of the string and tied it to my pocket button, and put the key in my pocket.
 "See, "{i:I\'m ho~me}".
- {nobr:Master Key} gets lonely so easily, so let\'s take him home right after we use him, okay?
+ Master Key gets lonely so easily, so let\'s take him home right after we use him, okay?
  If you keep making little friends like this, even {f:5:Beatrice}‐sama won\'t be able to prank you much longer..."
 Jangle, thud.
 When break time was over and I stood up to see what I should help with next,
@@ -186,7 +186,7 @@ If that happened, ......then surely, I wouldn\'t have been able to find the key,
 "Sure. Today is Sunday, and the weather is wonderful.
  I\'d better do my best."
 "Go do whatever you can.
- Oh, that\'s right, Reine ({p:0:玲音})\'s been in a bad mood all morning.
+ Oh, that\'s right, Reine (玲音)\'s been in a bad mood all morning.
  I suggest you avoid eye contact with her.
  Also, your fortune for the day is "water hazard".
  Make sure you take care when standing near buckets of water.
@@ -195,7 +195,7 @@ If that happened, ......then surely, I wouldn\'t have been able to find the key,
 "*giggle*.
  ......Thank you, {f:5:Beatrice}."
 Back when I could not yet {y:1:‘see’}{n:1:see} her...
-{n}I simply hated this prank‐loving witch.
+I simply hated this prank‐loving witch.
 But now that I could talk with her, ......it seemed to me that she was not all bad.
 Of course, I felt no need to be grateful to her.
 The witch {f:5:Beatrice} despises boredom, and subsists on mocking the misfortune of others.
@@ -208,7 +208,7 @@ However, not being careless is a very good thing.
 Using charms and tricks to pay attention, so that her pranks would no longer work on me, was not a bad thing by any means.
 Those techniques would be useful for my job and my life, even without the witch\'s pranks.
 Yes, this witch called {f:5:Beatrice} would go to any lengths to make a point.
-{n}I learned that it was possible to build up a friendship through verbal abuse...
+I learned that it was possible to build up a friendship through verbal abuse...
 "Ever since then, there was an incredible change in that kid."
 "Because of all the charms?!"
 "Hoh‐hohoho.
@@ -255,7 +255,7 @@ and was coming to teach her child to keep track of things.
  When I looked around, I found this.
  Whose is it?"
 Genji took a master key ring out of his pocket.
-{n}......Apparently, someone had dropped their master key.
+......Apparently, someone had dropped their master key.
 All of the servants swung around to look at me, the usual offender.
 "Come on. Yasu again?"
 "Y‐you shouldn\'t be so quick to judge."
@@ -392,7 +392,7 @@ Shannon picked up a change of clothes and smiled amusedly as she left the room.
 I probably won\'t be able to read the whole thing tonight.
 Even though I know that, I just keep turning the pages, unable to find a good place to stop.
 My new joy, the mystery genre.
-{n}The mental game of thinking and theorizing.
+The mental game of thinking and theorizing.
 And also talking about it with Kumasawa‐san.
 ......All of that left me enraptured.
 "You\'ve become a complete bookworm.
@@ -469,7 +469,7 @@ Since if you don\'t trust that, what can you trust, or it\'s just one of the ass
  Starting now, and until you finish reading,
  I am {f:5:Unknown}, the 495‐year‐old witch!
  Can you see through my deserted island murder tricks?
- Ahi{0}hhya{0}ha{0}ha{0}haha!"
+ Ahihhyahahahaha!"
 "......I have formed one theory.
  You want to play with me, don\'t you?
  I\'ve been reading books so much, you\'ve gotten lonely."
@@ -489,7 +489,7 @@ As the months passed by, I read through all of the mystery novels in the school 
  and started to read mystery novels for adults.
 I discussed them with Kumasawa.
  I discussed them with Shannon.
-{n}I played my game of theory chess, the fight between witches and the truth.
+I played my game of theory chess, the fight between witches and the truth.
 How enjoyable those days were......
  Oh, I am one yet many.
 Here\'s to the fun game of the mind that enraptured me......

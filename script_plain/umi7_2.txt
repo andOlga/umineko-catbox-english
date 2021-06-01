@@ -2,7 +2,7 @@ The Ushiromiya family members were relaxing here and there around the waiting ro
 A light buffet‐style meal had been set up, but it looked a bit stale and not particularly appetizing.
 Even so, those voracious kids seemed to find it intensely appealing.
 The cousins had set up camp around it, with Maria at the center.
-{n}The adult siblings had also formed a group in a different corner.
+The adult siblings had also formed a group in a different corner.
 Perhaps because of Kinzo\'s absence, everyone seemed to be a little more relaxed.
 "......Lion.
  Where did you go?
@@ -104,7 +104,7 @@ gghh—"
 "I do believe......that you said you met with Beatrice, Aunt Rosa."
 "........................"
 This whole time, Rosa had been hanging her head.
-{n}Lion\'s words made her shoulders quiver.
+Lion\'s words made her shoulders quiver.
 "She just suddenly came out with it today.
  It\'s a bit hard to believe."
 "It\'s the truth...!
@@ -365,7 +365,7 @@ If he wanted to learn something beyond the fragments given to him by {f:5:Bernka
 After giving an elegant bow, Lion made a face, tongue sticking out.
 Unless Will had eyes on the back of his head, he couldn\'t have seen this last bit......
 Will returned to the chapel by himself.
-{n}The cold air and the monotonous sound of the rain were comforting.
+The cold air and the monotonous sound of the rain were comforting.
 {a:c:
 "......So, how\'s the game?"}
 And he had come here for a little peace and quiet...
@@ -468,7 +468,7 @@ I see.
 After all, right when I entered the chapel, I spotted Kinzo.
 If Shannon has worked here for ten years, then this is 1986, the stage of Beato\'s game.
 In that case, Kinzo shouldn\'t exist.
-{n}However, he definitely was here a few minutes ago.
+However, he definitely was here a few minutes ago.
 {f:5:Bernkastel} promised that all of the information needed for reasoning was gathered here.
 She must have crammed all manner of stuff in here to make that true...
 I see, so it really is a special stage.
@@ -544,11 +544,11 @@ Will stood there, his left hand still in his pocket and his right palm glowing a
 Shannon just stood there, her hands still folded politely in front of her,
  ......her posture beautiful.
 And yet, ......it felt oddly as though raindrops were sparking and crackling in midair......
-"{o:0:{e:85:{f:0:{g:0:{m:6:I WI}{m:15:LLNO}{m:31:WCA}{m:0:LL KAN}{m:21:ON‐K}{m:22:UN.}}}}}"
-"{o:0:{e:85:{f:0:{g:0:{m:13:DO YO}{m:26:U WI}{m:4:SH T}{m:41:O PRO}{m:71:CEED?}}}}}"
+"{o:0:{e:85:{f:0:{g:0:LLNOWCAON‐KUN.}}}}"
+"{o:0:{e:85:{f:0:{g:0:DO YOU WIO PROCEED?}}}}"
 "................................."
 Will\'s expression had remained unchanged the whole time.
-{n}Shannon\'s face was still kind and gentle.
+Shannon\'s face was still kind and gentle.
 And yet, the tension was as icy as a frozen lake...
 ......Beginners in chess will sometimes move their king into check without noticing.
 One might mercilessly capture the king in such a situation, ......but high‐level players are supposed to calmly warn beginners about their mistake.

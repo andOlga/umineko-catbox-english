@@ -39,7 +39,7 @@ Battler looked at the plate on the study desk that was piled up with beautiful c
 "............My lord..."
 In not so many words, Genji prompted him to consider giving Beato\'s efforts some kind of acknowledgment...
 Battler understood.
-{n}......He had no reason to respond to this kindness with displeasure.
+......He had no reason to respond to this kindness with displeasure.
 However, even though he understood that logically,
  ......all he could do was give a small exasperated sigh.
 "......Thank you, I\'m very grateful.
@@ -221,7 +221,7 @@ If I ever fall in love with someone, I\'ll probably want to do things for them.
 But of course, I would want to do those things myself.
 After all, I would want him to notice {i:me}.
 This love is destined to go virtually unrewarded...... No matter how devoted she is, she will never get anything out of it.
-{n}And she\'s done this out of her own free will...
+And she\'s done this out of her own free will...
 Beato\'s behavior looks no different from that of an average girl in love.
 She\'s devotedly doing all she can for him, dreaming that her kindness will eventually be acknowledged.
 ......Why would Beato create a piece like this...?
@@ -230,7 +230,7 @@ Is putting it in terms of romance a bit too confusing?
 It\'s as pointless as creating "a piece to eat food for you".
 No matter how much food your piece eats on your behalf, you won\'t get any less hungry, right?
 You are the one who wants to eat.
-{n}There\'s no reason for having a piece do that in your place.
+There\'s no reason for having a piece do that in your place.
 For most jobs in the world, you can get someone else to do it for you.
  However, with love and food alone, there can never be any meaning in letting another person do it in your place.
 That\'s right.
@@ -261,8 +261,8 @@ It truly is the blindness of a girl in love......
 Beato once again immersed herself in the fragment book that told of her former self.
 ......She was trying to find something about the Beato that Battler desired.
 Ange shrugged, as though saying "well, I don\'t get it".
-{n}{f:5:Featherine} laughed when she saw this, and quipped that an "innocent young woman" could never understand.
-{n}Ange grumbled something back unhappily.
+{f:5:Featherine} laughed when she saw this, and quipped that an "innocent young woman" could never understand.
+Ange grumbled something back unhappily.
 Their interactions seemed to have no effect whatsoever on Beato as she sat in the shadows of the library......
 After chasing all the others out, ......only Battler remained in the study.
 There was no color in this dimly lit room.
@@ -280,7 +280,7 @@ It would only give the touch and taste that Battler desired.
 In a reception sofa facing Battler,
  ......a cloud of gold butterflies slowly gathered,
  ...and took the form of the old Beato.
-"‘Come o~n, have a bite{p:0:☆} It\'s not every day that I\'ll make these by hand...!
+"‘Come o~n, have a bite☆ It\'s not every day that I\'ll make these by hand...!
  Have no fear, I\'m confident in how well they\'ve turned out.’"
 "‘Pu ku ku ku!
  Hearing that from Milady makes them all the more dubious.’"
@@ -291,13 +291,13 @@ In a reception sofa facing Battler,
  Uhyahyahya!’"
 "‘It\'s because you do that sort of thing all the time that Battler‐kun will never agree to eat them.’"
 "‘Huh? Putting things in someone\'s food is pretty basic, isn\'t it?
- Fingernails, bits of hair, magic charms, fragments of love...ehe{0}he{0}he{0}he{0}he{0}he{0}heh!
+ Fingernails, bits of hair, magic charms, fragments of love...eheheheheheheheh!
  What would you people put in?’"
 "‘Yes, ma\'aaam!!
  I wouldn\'t put anything in them! I\'d just eat them all myself!’"
 "‘Obviously. Do you have to be so predictable?!!’"
-"‘Well, they say a girl\'s gotta grab by all three sacks{p:0:☆} The first step is the stomach, right?
- Next comes the wallet...so what could the third one be?! *giggle*{p:0:☆}’"
+"‘Well, they say a girl\'s gotta grab by all three sacks☆ The first step is the stomach, right?
+ Next comes the wallet...so what could the third one be?! *giggle*☆’"
 "‘If I could catch a guy\'s attention, I\'d want to make him sacrifice his body, heart, and soul to me!
  That\'s why I pour all my power and affection into my cooking.’"
 "‘Heheh, in any event, giving someone food that you\'ve cooked yourself is probably a frontal attack as old as time.’"
@@ -306,14 +306,14 @@ In a reception sofa facing Battler,
 "‘Ohh~?
  I\'d be very interested in hearing how much experience you have in grasping a man\'s heart, Onee‐sama!’"
 "‘Battler, there\'s nothing weird in it, so have a bi~te.
- Don\'t think you\'ll ever get a chance to eat my handmade cookies again{p:0:☆}’"
+ Don\'t think you\'ll ever get a chance to eat my handmade cookies again☆’"
 .........There probably won\'t...be another chance.
 I slowly stretched out my hand,
  ......out to the illusion of the cookie plate,
  ......and touched it.
 Just before I did, it became a cloud of gold butterflies, ......and vanished into the darkness of the study.
 The illusions of Ronove and {f:5:Virgilia} also disappeared.
-{n}...However, the illusion of Beato alone still remained on the sofa.
+...However, the illusion of Beato alone still remained on the sofa.
 "......Is there something that does not satisfy you?"
 "............Are you really going to make me say it?"
 "*cackle*cackle*cackle*.
@@ -345,7 +345,7 @@ Battler also turned his back and moved to the window. ......For a while, there w
 ".............................."
 "One day, the new "me" trips and lands on her head, and all her memories of the past are spectacularly restored!
  ......You\'re hoping for something like that, aren\'t you?
- Ahya{0}hya{0}hya{0}hya!
+ Ahyahyahyahya!
  A delusional plot like that wouldn\'t even pass in a light novel these days!"
 "......Shut up.
  ......Don\'t pretend you didn\'t do the same.
@@ -428,7 +428,7 @@ However, when I can\'t accept it that way, .........I can interpret her as being
 ......I could understand...
 ......how cruel I had been to her just now......
 My tears poured to the ground, ......and when I followed them with my eyes...
-{n}I noticed that a white card about the size of a business card had fallen onto the floor.
+I noticed that a white card about the size of a business card had fallen onto the floor.
 It was...
 ...the message card that had adorned those cookies.
 I had rushed her, telling her to clean up and leave right away, which was probably why it had fallen to the floor unnoticed.
@@ -453,7 +453,7 @@ Both Jessica...
 It was a strange room that they had never seen before.
 It looked like a Western tea room.
 ......Its furnishings were stylish and expensive.
-{n}It felt as though a dignified person must own this room.
+It felt as though a dignified person must own this room.
 Preparations for black tea were set on the table, ......and so was a chessboard, which seemed to be halfway through a game.
 However, there was something strangely out of place.
 The black and white checkerboard pattern made it feel like chess,
@@ -793,7 +793,7 @@ She wasn\'t about to let the cookie incident break her spirit.
 The more she tried to get close to Battler, the more she hurt him.
 However, she had been born in order to get close to Battler.
 ...She was like a hedgehog freezing in the cold and bunching together with others for warmth.
-{n}She had approached him because of love, and had been hurt for it......
+She had approached him because of love, and had been hurt for it......
 "If you understand that much, entrusting your fate to a miracle may prove to be of some interest.
  As they say, an unbought lottery ticket earns you nothing.
  Zepar, Furfur!

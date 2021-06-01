@@ -5,7 +5,7 @@
  image song is getting released on CD!"
 """Whaaaaaaaaaaat?!"""
 ""Just kidding~!
- Ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.""
+ Ahahahahahahahahahahahaha.""
 "We were just so bored of showing up the same way every time...!"
 "We thought we\'d change our style a bit!"
 "We\'re entertainers!
@@ -28,7 +28,7 @@ have probably already figured it out!"
 "........................"
 Five people were there.
  Only Battler was missing.
-{n}And Beato\'s expression was dark, her head hanging low.
+And Beato\'s expression was dark, her head hanging low.
 Everyone realized that something must have happened to Battler...
 "We\'d like to announce...
 that Battler‐kun has retired before the second trial."
@@ -141,7 +141,7 @@ It was as though they couldn\'t even see the four people glaring at each other a
 "............They\'ll realize.
  If they have love, they certainly will."
 They were the demons of love.
-{n}Love is the single element.
+Love is the single element.
  The source of all miracles.
 ......Could the miracle of love...provide an answer for a locked‐room trick......?
 "There it is again. "Without love, it cannot be {y:1:‘seen’}{n:1:seen}".
@@ -155,7 +155,7 @@ They were the demons of love.
  And you\'ll never let me hear any of it.
  ......Going by the rule of observers, until you tell me about it,
  it\'s possible that you\'re just lying and pretending that you know."
-"Pft, .........hha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.
+"Pft, .........hhahahahahahahahahahaha.
  ......Yes, I believe I do prefer a bad‐mouthed miko.
  You please me, child of man.
  To me, a miko\'s sarcasm and abuse is like a ceremonial dance in my honor......"
@@ -189,7 +189,7 @@ With a grin on her face, Hachijo waved the thick brown envelope about.
  ......“If you want to read more, do what I tell you”.
 "<Cool>......!
  Looks like she got you, missy!
- Haha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha, ah{0}hah{0}hah{0}hah{0}hah{0}hah{0}ha...!"
+ Hahahahahahahahaha, ahhahhahhahhahhahha...!"
 Letting you read only so far for free......and then stopping when it finally gets to the good part.
  Amakusa couldn\'t stop laughing at this underhanded approach.
 "I want to hear your own opinions.
@@ -317,8 +317,8 @@ Everything is left to luck.
  No."
 "It\'s easy.
  For just a short time, bully them horribly, ...then suddenly stop, and give them power instead.
- ......If you do that, then no matter who it is, they will be reborn as a {nobr:grade‐A} bully.
- And what\'s even more incredible is, even if that person was only bullied for about three days, they\'ll reign as a {nobr:grade‐A} bully for a billion times longer than that,
+ ......If you do that, then no matter who it is, they will be reborn as a grade‐A bully.
+ And what\'s even more incredible is, even if that person was only bullied for about three days, they\'ll reign as a grade‐A bully for a billion times longer than that,
  believing themselves the victim all the while."
 "............What does that have to do with my master?"
 "......You don\'t understand anything about Bern.
@@ -356,11 +356,11 @@ or my master\'s."
  Perhaps your inability to look that in the face...
 is the reason you two couldn\'t become Witches of Truth...?"
 "........................
- ......Heh......heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh.
+ ......Heh......heheheheheheheheheh.
  ......I\'ll forgive you for those impudent words.
  Letting them pass with a slight nod is my present to you for your recent victory."
 "*giggle*.
- ......Thank you very much, Great Lady {f:5:Lambdadelta}{p:0:☆}"
+ ......Thank you very much, Great Lady {f:5:Lambdadelta}☆"
 "Oh, that\'s unusual.
  ......It\'s rare to spot you two getting along."
 At some point, {f:5:Bernkastel} had appeared on the opposite balcony of the cathedral.
@@ -436,7 +436,7 @@ Of course, his eyes were blank.
  ......Any tale you wish will come true.
  ......The territory lord is a god.
  ...Congrats, you\'ll be the god of this small but wonderful world."
-"......Ha......ha{0}ha{0}ha{0}ha{0}ha...ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha...
+"......Ha......hahahahaha...hahahahahahahahahahahahahaha...
  Is that......true, ...my......master......?!!
  Will I......become this world\'s......god......?"
 "That is the final reward I will give to you.
@@ -459,7 +459,7 @@ Of course, his eyes were blank.
 "I\'m glad you like it.
  I knew it was the one present you\'d like most in the world."
 "Thank you so much, thank you so much!!
- My......masterr{-}r{-}r{-}r{-}r{-}r{-}r{-}r{-}rr...!!!"
+ My......masterrrrrrrrrrr...!!!"
 Erika leapt down from the balcony and walked briskly towards Battler.
 Then, she peered down at the reward she had been given...
 ".........Now isn\'t that a wonderful finale.
@@ -469,13 +469,13 @@ Then, she peered down at the reward she had been given...
  It\'s the perfect way to end Beato\'s game."
 "Of course, you\'ll send Beato an invitation too, right?"
 "I only hope she actually comes."
-""*giggle*giggle*, ehheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh!!""
+""*giggle*giggle*, ehheheheheheheheheheheheheh!!""
 "......Alright, things are going to get busy.
  We have to prepare for the ceremony, make programs, send invitations..."
 "Don\'t forget the wedding dress and a cake!!
  And you need to get things ready for the reception!"
 The two witches disappeared, cackling.
-{n}Only the two who were to be wed remained in the cathedral.
+Only the two who were to be wed remained in the cathedral.
 ".........Could you hear...?
  ......Battler‐san.
  .........Do you realize......what\'s about to happen to you......?"
@@ -504,13 +504,13 @@ In short,
  We can stick your beloved witch {f:5:Beatrice} in there.
  What do you think......?
  ......Wonderful, isn\'t it......?
- Eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}ehe{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh!!
+ Eheheheheheheheheeheheheheheheheh!!
  Aah, ......I can feel it.
  This is how sweet it is to be standing on the other side...
- ...Aha, aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha......"
+ ...Aha, ahahahahahahahahahahahahaha......"
 As he listened to this mad laugh, ......Battler couldn\'t even bring a distressed expression to his face.
 His heart was still trapped in the locked room he had created...
-{n}And his body and soul......would soon be trapped within a new locked room of Erika\'s.
+And his body and soul......would soon be trapped within a new locked room of Erika\'s.
 A locked room...
 ......called marriage.
 "Hey, did you hear, Furfur...?!"
@@ -570,7 +570,7 @@ She was so frustrated with her inability to think up any brilliant plan...that h
  ......These two are always like this.
  It staves off boredom, but they can become very irritating at times like this."
 Zepar and Furfur certainly were demons who possessed a great power.
-{n}The power of love that they bestowed had created several miracles in the past, miracles so great that they left a mark on human history.
+The power of love that they bestowed had created several miracles in the past, miracles so great that they left a mark on human history.
 However, those miracles were never given easily.
 They would give trials, tell riddles, ......and sometimes help the truth be realized,
  ......so that those who desired power could create that power themselves.
@@ -955,7 +955,7 @@ Dlanor looked up at her with a bold expression, and sparks flew between them....
  This ends our {f:5:chat}.
  .........We will meet again {f:5:later}."
 With an amused grin on her face, Dlanor turned around.
-{n}......But that had to have hit her where it hurt.
+......But that had to have hit her where it hurt.
 Gaap had no intention of letting her get away.
  She grabbed Dlanor\'s shoulder.
 "......Wait there.
@@ -967,7 +967,7 @@ Gaap had no intention of letting her get away.
  He seems agile, and hiding his presence is his specialty.
  He\'s the perfect person to follow after Erika and quickly change places with Battler‐kun!"
 "Kanon, you {f:5:say}...?
- Hehheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh......
+ Hehheheheheheheheheheh......
  That is {f:5:impossible}."
 "Impossible?
  Come now, we can\'t trust what you say with normal words.
@@ -1045,7 +1045,7 @@ Dlanor watched, shrugged, and turned away...
  Can you respond to my blue truth?! Or can\'t you?!"
 "......If you fill out the application on Monday, we should be able to have an answer for you by the end of next {f:5:month}.
  Multiple submissions are forbidden, so the blue truth you just spoke will be unusable during this wedding {f:5:ceremony}.
- ......This is in accordance with the official Great Court Regulations, Article {nobr:214‐15}, "Prohibition of Multiple {f:5:Submissions}"!"
+ ......This is in accordance with the official Great Court Regulations, Article 214‐15, "Prohibition of Multiple {f:5:Submissions}"!"
 "For your attention: I beg to inform you of the following.
  
 Know that it is forbidden for blue truth to be used if based on the argument that the window seals of the next room over were torn at the time of the logic error}."
@@ -1108,7 +1108,7 @@ It was now impossible......to claim that the five who could have saved Battler w
 "Precisely.
  .........If he uses that, ......there may be a chance......"
 {f:5:Featherine} sighed deeply.
-{n}......It was something she hadn\'t done at all before now.
+......It was something she hadn\'t done at all before now.
 .........I see.
 ......So it\'s finally time......for the curtain to close on this long, long tale...
 Revealing that mystery...
@@ -1168,14 +1168,14 @@ was actually being heavily guarded in places that the attendees wouldn\'t notice
 "That\'d be so cool, breaking in to steal the bride nyeh."
 "410, he\'s not the bride, he\'s the groom!"
 "I said what I meant nyeh.
- Nihi{0}hi{0}hi{0}hi{0}hi......"
+ Nihihihihihi......"
 The Chiester sniper teams on the chandeliers...
 were using extremely highly capable surveillance agents to track the movements of the several hundred attendees.
 If any one of them made any suspicious movements, ......the Chiesters would immediately be given permission to fire.
 ...The one on that chandelier is Chiester127.
-{n}That overworking monster sniper could pulverize a human target from two kilometers away.
+That overworking monster sniper could pulverize a human target from two kilometers away.
 ...The one on the chandelier across from that is Chiester20.
-{n}Her firing rate is 6000 shots per minute.
+Her firing rate is 6000 shots per minute.
  However, she\'s using a portable magazine this time, so she\'ll use up her shots in about two seconds.
  That lazy bum can barely do her job for just two seconds nyeh.
 Slowly, ......and making a show of it, the two walked down the red‐carpeted path.
@@ -1272,7 +1272,7 @@ I do not doubt that in the slightest......
 The bride and groom...slowly processed down the path to the grave.........and reached the altar.
 Though walking slowly was ceremonious and proper etiquette, it was also tiring.
 Erika glanced over at Battler.
-{n}......Of course, his eyes were blank.
+......Of course, his eyes were blank.
 His heart was still inside that locked room.
 Once more, the sound of the Chiester honor guard stamping their heels rang out loudly.
 Silence returned to the cathedral.
@@ -1300,7 +1300,7 @@ to support each other, both in sickness and in health."
 ""You have heard the couple\'s oath of love.
  Oh, let this oath be eternal...!!""
 Thunderous applause celebrated their marriage of servitude......
-{n}After the oath, ......they would physically signify the bond.
+After the oath, ......they would physically signify the bond.
 ......It was the exchanging of the rings.
 ......The territory lord\'s ring with the One‐winged Eagle engraved on it that sat on Battler\'s finger...would become Erika\'s.
 By this, she would become the ruler of this game board...
@@ -1335,7 +1335,7 @@ Then, slowly,
 "*giggle*.
  ......Yes, ......it\'s custom made."
 Even Battler\'s blank eyes could see the diamond ring Erika held.
-{n}It was like Erika herself.
+It was like Erika herself.
 On the outside, it shone beautifully, ......and possessed an absolute hardness that would bend to no one\'s will.
 And on the inside, ......to symbolize never letting go of the prey it had latched onto,
  ......it had eight sharp thorns pointing inwards.

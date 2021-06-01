@@ -1,6 +1,6 @@
 The boat gave a big shudder.
 Seems we\'ve docked at the harbor.
-{n}The boat driver came out and jumped to the pier with the mooring rope.
+The boat driver came out and jumped to the pier with the mooring rope.
 A large man in a tuxedo was waiting there for us with a warm, smiling face.
 ......I didn\'t know him, but judging by his clothes, I guessed that he was a servant of the Ushiromiya head house.
 "Welcome home, Milady.
@@ -14,7 +14,7 @@ At this rate, the word\'ll spread around the entire family, and I\'ll become the
 Even without this, everyone\'d be talking about me because of that six‐year gap...but now I\'ve provided them with an even juicier topic...!
 Dammit, why does the Ushiromiya main family have to live on this isolated island!
 In the meantime, the boat had finished its mooring.
-{n}A small plank was lowered so that we could get down.
+A small plank was lowered so that we could get down.
 One by one, our parents came out of the boat.
 "You must all be quite tired from your long trip.
  Madam, please, allow me to assist you."
@@ -33,7 +33,7 @@ One by one, our parents came out of the boat.
 "It\'s a pleasure.
  I\'m Battler."
 "Your return has been keenly anticipated, sir.
- I have been working for the Ushiromiya head house since the year before last; my name is Gohda ({p:0:郷田}), your servant."
+ I have been working for the Ushiromiya head house since the year before last; my name is Gohda (郷田), your servant."
 "It is a pleasure to make your acquaintance.
  If there is ever anything you need, please feel free to rely on me."
 "Gohda‐san, it\'s been some time."
@@ -52,7 +52,7 @@ He claimed to have served on the island for two years, but he had doubtless work
 After everybody disembarked, the mooring rope was untied, and the boat started to steer away from the harbor.
 It was probably returning to its home port of Niijima.
 The captain waved his hand in farewell.
-{n}Maria conscientiously waved back.
+Maria conscientiously waved back.
 "............Hmmm, I just realized why something\'s been feeling out of place to me.
  I can\'t hear the cries of the seagulls."
 "Seagulls?
@@ -91,7 +91,7 @@ Since those seagulls didn\'t come to greet us, I felt a bit lonely.
  *giggle*giggle*!"
 As I made fun of Jessica, Maria tagged along looking like she was having fun.
 Ooh, she really knows how to join in with things!
-{n}Alright then, starting today I\'ll make you my number one follower!
+Alright then, starting today I\'ll make you my number one follower!
 As I smiled at her, she beamed back overjoyed, I guess happy for this little bit of solidarity.
 "That\'s not it, Maria‐chan.
  I\'ve heard that wild birds are attuned to changes in the weather and atmospheric pressure.
@@ -116,8 +116,8 @@ As I smiled at her, she beamed back overjoyed, I guess happy for this little bit
 "......Battler lie?
  George onii‐chan true?"
 {i:I was having fun, but you were actually just tricking me...?}
-{n}Her pure eyes seemed to accuse me.
-{n}......Maybe I went a little overboard with her after all.
+Her pure eyes seemed to accuse me.
+......Maybe I went a little overboard with her after all.
 "Yeeaah, that\'s right, that\'s right.
  What George‐aniki said is true.
  The weather is bad so they probably went home for today.
@@ -153,20 +153,20 @@ A real mother, I thought to myself, who\'s happy that Maria looks like she\'s ha
  And you brats too, what the hell\'re you doing, get a move on!"
 "Alright, alright, we\'re coming."
 The old bastard was beckoning us to hurry up.
-{n}We\'d better get moving.
+We\'d better get moving.
 It\'s not like it\'d be too late to have the same discussion after we got our luggage in our rooms.
 "Well then, everyone, I shall lead you towards the guesthouse where you will be staying.
  Please, this way."
 Gohda‐san called to everyone and started leading us.
-{n}Kumasawa‐san brought up the rear.
+Kumasawa‐san brought up the rear.
 A serpentine, twisting path led through a dim forest.
-{n}It ran a bit uphill.
+It ran a bit uphill.
 I\'d guess the path was made twisting so that the slope wouldn\'t be felt too much,
  but personally, I\'d have been happier if they\'d been man enough to make some stairs in a straight line.
 ......No doubt they made the path twisting on purpose, to put on airs of distance and importance...
 Before long, we saw garden‐style stone steps.
 ...Ahhh, now, I remember how it goes from here.
-{n}Go up these, and...
+Go up these, and...
 At the top of the stone steps, a beautiful guesthouse came into view.
 Its façade was lovely, of course, but even more than that,
  ......we couldn\'t help but have our hearts stolen away by the splendor of that beautiful rose garden that spread before it.
@@ -179,7 +179,7 @@ As they reached the top of the stone steps, the people welcomed in by the rose g
 "I also believe that is so.
  When one compares with last year\'s blooming, it is a pity that this year\'s is somewhat inferior."
 Even so, it was a delightful rose garden.
-{n}I remember that huge amounts of roses used to greet me every year, even over six years ago.
+I remember that huge amounts of roses used to greet me every year, even over six years ago.
 ...This rose garden was the first thing that greeted the people who came to Rokkenjima.
  Even our parents, who came every year, couldn\'t help but let their wonder slip out.
 And moreover, it even looked like a "powered‐up" version of the garden from six years ago that was in my memories.
@@ -225,10 +225,10 @@ She yelled at me as I leaned in with an exaggerated gesture to smell the rose\'s
 "Strange?
  What\'s wrong?"
 Maria pointed to a single rose.
-{n}I immediately understood why she found it odd.
+I immediately understood why she found it odd.
 In the midst of all these magnificent roses, just one single rose was withering.
 There wasn\'t any particular reason.
-{n}Some roses flourish, and others wither.
+Some roses flourish, and others wither.
 That\'s all there was to it, but Maria seemed very concerned about there being only one unhealthy rose in a group of healthy ones.
 ...She must be feeling somehow like it\'s been left out.
 "So, you feel sad for this rose because it\'s the only one that isn\'t healthy...?"
@@ -246,7 +246,7 @@ Even though she understood the logic of it, it still felt lonely to her.
  why don\'t you look after this rose until we leave, then?"
 "Uu?"
 George‐aniki straightened up and felt around in his pocket.
-{n}He then took out the wrapping from the candy he had eaten on the plane.
+He then took out the wrapping from the candy he had eaten on the plane.
 He twisted it into a thin string, and gently tied it to the rose as a sort of marker.
 "Heeey, that\'s pretty cute!"
 "Let\'s mark it with this.
@@ -297,7 +297,7 @@ When he realized he was being called to stop, he set down the wheelbarrow, took 
 "..................
  .........Good afternoon."
 ...I figured he was probably younger than me.
-{n}I realized by the general atmosphere surrounding him that he was a servant too.
+I realized by the general atmosphere surrounding him that he was a servant too.
 Though he did greet Uncle Hideyoshi back, he himself seemed like he might be unsociable.
 It was a greeting that lacked feeling.
 When Gohda‐san noticed that our interest had shifted towards him, he went to the boy\'s side and introduced him to us.
@@ -306,7 +306,7 @@ When Gohda‐san noticed that our interest had shifted towards him, he went to t
  ...Kanon‐san, greet our guest."
 "..................I\'m pleased to meet you.
  I am the servant............
-Kanon ({p:0:嘉音})."
+Kanon (嘉音)."
 Yep, my first impression wasn\'t wrong—he gave the feeling that he was unsociable, or maybe a bit of a poor speaker.
 In contrast with Gohda‐san, who was extraordinarily polished as a servant,
  it was impossible not to feel the immaturity you\'d expect of someone his age.
@@ -330,7 +330,7 @@ Even though it\'s not like he made a super bad impression, Jessica hurriedly bac
  I\'m 18, how old are you?"
 "..........................."
 A silence, as if evaluating whether it was a question that must be answered or not.
-{n}...But here again, Jessica plowed ahead.
+...But here again, Jessica plowed ahead.
 "Um, uhh...!
  If I remember correctly, he\'s two years younger than us so...16, right?"
 "............Yes, ...that is correct."
@@ -338,15 +338,15 @@ It looked like if given a choice, he would have preferred not to tell us his age
 Him not wanting to tell his age was probably because he thought he would be looked down upon for it.
 ...I remember that when I was around his age, I hated being asked how old I was by adults.
 ...I see, 16, huh?
-{n}That\'s gotta be a delicate time.
-{n}...In that case, I asked something I shouldn\'t have.
+That\'s gotta be a delicate time.
+...In that case, I asked something I shouldn\'t have.
 "Heh heh~, I\'m glad you\'re about our age!
  Just be cool and call me Battler!
  And I\'ll call you Kanon!"
 ".........Thank you very much.
  But just the sentiment is sufficient, ...Battler‐sama."
 Jessica looked flustered for some reason.
-{n}She seemed to think that my impression of Kanon was worsening because of his rejection.
+She seemed to think that my impression of Kanon was worsening because of his rejection.
 Well, I doubt a girl like Jessica understands his fretful male heart.
 As his elder—even by just two years—who would lead him into adolescence, I took it upon myself to understand that.
 "Kanon‐san, could you perhaps be a little more courteous?
@@ -356,7 +356,7 @@ As his elder—even by just two years—who would lead him into adolescence, I t
 "Hoh‐hoh‐ho...
  Gohda‐san, Kanon‐kun is trying his best, isn\'t he?"
 It seemed as though he was often warned about his discourtesy.
-{n}And apparently he hadn\'t improved a bit.
+And apparently he hadn\'t improved a bit.
 Gohda‐san kept his business‐smile, but let a small sigh of resignation escape.
 "......Well then, I still have work to do.
  .........If you\'ll excuse me."
@@ -379,9 +379,9 @@ At his back was the figure of Kanon‐kun having trouble with the sacks of ferti
 "Don\'t worry, the ones I\'m wearing aren\'t that elegant."
 "Besides, I hate guys who make the waitress pick up the fork they dropped at a restaurant."
 I lifted up the other bags that had fallen.
-{n}Of course, they weren\'t light, but for me it was a piece of cake.
+Of course, they weren\'t light, but for me it was a piece of cake.
 Kanon‐kun turned his surprised eyes towards me.
-{n}It was the face of one who would never have expected to receive help from a guest.
+It was the face of one who would never have expected to receive help from a guest.
 "............B‐Battler‐sama...
  That\'s not necessary... I\'ll take care of everything, so..."
 "Don\'t you worry!
@@ -421,8 +421,8 @@ Without even a twitch in his smile, Gohda‐san apologized elegantly.
 "Hoh‐hoh‐hoh‐ho, Rudolf‐sama, you truly are harsh!
  There is no servant as silent as I, of course!"
 Everyone smiled wryly at that shameless lie.
-{n}Even she herself didn\'t believe that, not in her wildest dreams.
-{n}She said that to loosen us all up.
+Even she herself didn\'t believe that, not in her wildest dreams.
+She said that to loosen us all up.
 Yeah, that\'s the kind of character Kumasawa baa‐chan used to be.
 The mood that had stiffened a little was cleared up in a twinkling, thanks to Kumasawa‐san\'s cheerful smile.
 "I\'d like to put down the luggage soon.
@@ -431,16 +431,16 @@ The mood that had stiffened a little was cleared up in a twinkling, thanks to Ku
  I shall guide you.
  Please, this way."
 We headed towards the trim and elegant guesthouse.
-{n}This was going to be our temporary quarters for a night.
+This was going to be our temporary quarters for a night.
 ".........................................."
 Kanon watched over a hedge as the guests all entered the guesthouse.
 Then, he let his eyes fall on those heavy sacks of fertilizer, piled up in the wheelbarrow.
 In his mind, he kept going over his previous mistake.
-{n}Battler, big and strong, had picked up the sacks in front of him, the sacks he couldn\'t lift himself, as if they were feathers.
+Battler, big and strong, had picked up the sacks in front of him, the sacks he couldn\'t lift himself, as if they were feathers.
 It was extremely difficult for an outside observer to guess what emotions that favor had stirred up in Kanon.
 But as far as you could tell by watching him hang his head from behind, there was something that he just couldn\'t let go.
 ...Muttered words escaped his lips.
-{n}But those words he murmured were so soft that they didn\'t reach even his own ears.
+But those words he murmured were so soft that they didn\'t reach even his own ears.
 "...............Even I...
 ........................"
 Kanon hung his head, slightly biting his lower lip...
@@ -472,7 +472,7 @@ It showed a shocking display of wealth that they would build this kind of awesom
  Mine are so frosty.
  And yet they\'re right with each other when it comes to my grades."
 All the rooms seemed to be two‐person.
-{n}I was grateful, because now I wasn\'t gonna be forced to share the same room with the old bastard for some bullshit reason like "being family".
+I was grateful, because now I wasn\'t gonna be forced to share the same room with the old bastard for some bullshit reason like "being family".
 Besides, I figure those two wouldn\'t be able to enjoy themselves with someone like me around, ihihi.
 "What\'s that creepy smile all about?
  You\'re thinking about something dirty, aren\'t you."
@@ -536,7 +536,7 @@ What my dad said right now about me being the guest of honor now carries a littl
  ...Seriously, I could just turn the succession over to you, George nii‐san.
  It\'s a bit of a heavy burden for me to carry."
 I think I already said it before, but Jessica is the daughter who will inherit the head house.
-{n}The pressure on her shoulders must be different from us cousins of the branch families.
+The pressure on her shoulders must be different from us cousins of the branch families.
 ".........Uu?
  Jessica onee‐chan, heavy?
  If I hold it, will it get lighter?"
@@ -735,14 +735,14 @@ As if to brush away that mood, Kyrie brightly made a suggestion to all present.
 "Kyrie nee‐san, how knowledgeable of you.
  It really was worth buying."
 Kyrie and Rosa stood up from their seats and made as if to prepare the black tea.
-{n}Natsuhi forestalled them.
+Natsuhi forestalled them.
 "......Thank you both.
  Let us save that for later.
  One of our people will soon be coming to bring some tea, so please relax."
 "Leave it for later, you two.
  Let them treat us to a "welcome drink" at least."
 Rudolf gave a subtle signal with his eyes for them to sit down again.
-{n}...Kyrie and Rosa understood instantly and obediently returned to their seats.
+...Kyrie and Rosa understood instantly and obediently returned to their seats.
 The guests had already been greeted, so it was time for some tea to be prepared for them.
 ...That tea was late, and having the guests talk about making some themselves was an embarrassment for the host.
 Natsuhi bit her lower lip, frustrated with the ineptitude of the servants who were taking too long to bring the tea.
@@ -831,7 +831,7 @@ The pitiful air around her made it obvious that she had borne the brunt of some 
 Kanon glared hatefully in the opposite direction of the parlor.
 The preparations for the tea had been delayed by a little bit of trouble in the kitchen.
 That trouble had not been Shannon\'s fault.
-{n}The truth is that it had been Gohda\'s mistake.
+The truth is that it had been Gohda\'s mistake.
 In the first place, there was no way that a showoff like Gohda would ever hand over a flamboyant job like carting the tea to the guests.
 He had needed to make the tea all over again, which had made him late.
 So, realizing that he wouldn\'t be earning any brownie points, he had pushed the task of setting the table on Shannon, who happened to be passing by.
@@ -848,7 +848,7 @@ Kanon\'s silence vividly showed that Shannon\'s words weren\'t coming from her h
  ......Thanks."
 Suddenly, they both felt someone\'s presence and whirled around.
 An elderly man stood there.
-{n}It was Genji, the head servant.
+It was Genji, the head servant.
 "..................What are you doing here?
  ...Shannon, hurry back to the kitchen."
 "Y‐yes.

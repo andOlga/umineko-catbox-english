@@ -3,7 +3,7 @@
 "......Yes.
  ......We described everything as we saw it."
 George folded his arms and started humming again.
-{n}...And the kitchen was once again absorbed by a long silence.
+...And the kitchen was once again absorbed by a long silence.
 "George‐sama, I understand well why you aren\'t able to believe it so suddenly.
  ...After all, ...even though I\'m sure I saw it with my own eyes, I still don\'t know what it was I saw..."
 "I\'m sure I saw it.
@@ -48,7 +48,7 @@ While he did lend an ear to her tales, George had always thought that this was t
  but he had forgiven her, laughing it off as just a little prank she had done because she had seriously desired a relationship with him.
 ......Just breaking a mirror in some musty shrine wouldn\'t change the fate of our meeting.
 And that would never cause any curse.
-{n}I remembered cheering her up, saying it was only a musty mirror covered in dust.
+I remembered cheering her up, saying it was only a musty mirror covered in dust.
 "...After I started working on this island, many of my coworkers told me of the existence of a spirit called {f:5:Beatrice}‐sama."
 "In the beginning, I thought it was ridiculous,
  but since it appeared indiscreet to comment on that,
@@ -124,7 +124,7 @@ When George proposed this, the servants looked up.
  ...If we just sit around here, nothing will be resolved.
  It\'s worth trying, if only for some peace of mind."
 Of course, this didn\'t mean that George had accepted the witch.
-{n}......However, he thought it would be necessary to have some kind of purification ceremony to heal the wounds in Shannon\'s heart.
+......However, he thought it would be necessary to have some kind of purification ceremony to heal the wounds in Shannon\'s heart.
 ...So this story about Natsuhi\'s spirit mirror was just what the doctor ordered.
 "Let\'s go.
  ...I won\'t suggest going to finish off the witch or something so outrageous.
@@ -168,11 +168,11 @@ It seemed that George\'s claim that he would take responsibility had given the s
  Genji‐san, sorry, but could you get us some umbrellas?"
 """Yes!"""
 The servants, who had been rejected by Rosa, started to move once again, having gained a new master.
-{n}George, who was normally calm and gentle, was now exuding a commanding presence.
+George, who was normally calm and gentle, was now exuding a commanding presence.
 Shannon checked the emergency flashlight.
-{n}Just in case, she changed the batteries.
+Just in case, she changed the batteries.
 Gohda was examining several heavy‐looking cooking tools.
-{n}...Normally, a self‐respecting chef like himself wouldn\'t want to use them for anything other than their intended purpose.
+...Normally, a self‐respecting chef like himself wouldn\'t want to use them for anything other than their intended purpose.
 But now he was frantic to fulfill the orders of the one he accepted as his master.
 After some deliberation, he took a large, weighty frying pan.
 Genji removed several umbrellas from the umbrella stand set in the corner near the back door of the kitchen.
@@ -206,7 +206,7 @@ George took an umbrella and dashed out into the hallway, and Shannon and Gohda c
 ......After they flew out of the room, Genji quietly extended his hand to the side of the chessboard.
 .........He softly pulled something that was there towards himself, and hid it by covering it with his palm.
 Genji killed his breathing even more than before.
-{n}.........As he did, .........something flashed gold.
+.........As he did, .........something flashed gold.
 From inside an ice pail set on the counter, ...a small gold butterfly appeared, softly and silently.
 It was almost as though it had watched George and the rest leave, and was trying to secretly follow them......
 It happened in an instant.
@@ -218,7 +218,7 @@ But no matter what move he made, his opponent would not be able to respond for a
 Even though he knew that, Genji searched for a brilliant move.
 ......It must have been the perfect way to kill time, during the short period before some fate would be given to him...
 ......He didn\'t know what result the roulette would bring about.
-{n}But that decision would be made very soon.
+But that decision would be made very soon.
 .........No one could interfere with the tumbling roulette ball...
 The door to the parlor was not only locked, but blocked with a barricade made of sofas and the like.
 So Auntie Rosa seemed to suspect that if a suspicious person appeared, it would be by breaking the window.
@@ -230,24 +230,24 @@ In the beginning, I had been a little interested, and had tried to solve it, but
 ......I didn\'t doubt that there was some riddle hidden there, but I couldn\'t imagine that I would solve it by chance.
 In the middle part of the epitaph, there were lines saying to journey to the Golden Land, over the course of the first to the tenth twilight.
 On the first twilight, sacrifice the six chosen by the key.
-{n}On the second twilight, those who remain shall tear apart the two who are close.
+On the second twilight, those who remain shall tear apart the two who are close.
 It was obvious that this hinted at the first six murders that had already occurred in the chapel, and Jessica and Kanon‐kun\'s murders.
 If this was being followed, we would have to be prepared for yet five more people to be killed.
 On the fourth twilight, gouge the head and kill.
-{n}On the fifth twilight, gouge the chest and kill.
-{n}On the sixth twilight, gouge the stomach and kill.
-{n}On the seventh twilight, gouge the knee and kill.
-{n}On the eighth twilight, gouge the leg and kill.
+On the fifth twilight, gouge the chest and kill.
+On the sixth twilight, gouge the stomach and kill.
+On the seventh twilight, gouge the knee and kill.
+On the eighth twilight, gouge the leg and kill.
 The bodies of Doctor Nanjo and Kumasawa baa‐chan hadn\'t been found.
 ...However, if we reasonably assumed that they were the sacrifices of the fourth and fifth twilights,
  ......they would surely be found in a pitiful state, with their head and chest gouged.
 In which case, could we expect that three more would be gouged in the stomach, knee, and leg, and be killed?
 ......Who would that be?
-{n}...I looked around the room, noticing that there were three people here, but, how should I say it, my emotions seemed paralyzed.
+...I looked around the room, noticing that there were three people here, but, how should I say it, my emotions seemed paralyzed.
 ...Strangely, I didn\'t find it terrifying.
 Maria noticed me, with my upper body entrusted to the sofa, gazing lazily up at the ceiling.
 ...Apparently, she felt I was slacking off in my riddle‐solving.
-{n}She got mad at me, and told me I wasn\'t being serious enough.
+She got mad at me, and told me I wasn\'t being serious enough.
 "......Hey, Maria."
 "Uu...?"
 "What was it again, that {f:5:Beatrice} said she would do if we solved this?"
@@ -314,7 +314,7 @@ And yet, this person called {f:5:Beatrice} was carrying out such an outrageous c
  ...or maybe a ritual,
  ......while purposefully imposing conditions for her own loss and announcing them to us.
 In chess, you always play the best move.
-{n}So by standing in your opponent\'s position, you can predict their next move.
+So by standing in your opponent\'s position, you can predict their next move.
 ...However, you couldn\'t say for sure that {f:5:Beatrice}\'s moves were always the best moves.
 I thought she was probably making us focus on the epitaph as a smokescreen, to mislead us about something.
 ......But Maria said that of all things was impossible.
@@ -330,12 +330,12 @@ Isn\'t it almost as though {f:5:Beatrice}...doesn\'t care whether she wins or lo
 If she just wants to massacre us all, she could just do it secretly, without this whole crazy setup.
  There was no need for that scrupulous advance notice, dramatic suggestions of locked rooms, or anything.
 ...It\'s all over‐dramatized.
-{n}I don\'t get the point at all.
+I don\'t get the point at all.
 As long as I continue to think of {f:5:Beatrice} as a greedy human culprit, will I be unable to understand anything?
 ...If I don\'t accept her as a witch, will I be unable to even set the pieces on the chessboard at all......?
 ......If she really is a witch, and everything Maria has said is true...
 ...then there\'s only one thing we should have been doing.
-{n}...We shouldn\'t have bothered with any of the reasoning or the discord or the searching for the culprit.
+...We shouldn\'t have bothered with any of the reasoning or the discord or the searching for the culprit.
 We should have all gathered in the dining hall, and pooled our knowledge to solve the riddle.
  If we had pooled the knowledge of that many people, maybe we would have been able to at least grasp a thread of the answer...
 We greedy humans, desiring to gain something more than one another, ......never pooled our knowledge, and were being offered up as sacrifices one by one.
@@ -345,13 +345,13 @@ In the end, chessboard theory is a technique of thinking where you project yours
  ......So greedy people look inside their opponents and see their greedy selves...
 I looked vaguely at Auntie Rosa.
 She was probably tired from being under all this tension the whole time.
-{n}She wasn\'t sleeping, but she was continually staring vaguely at some point off in space.
+She wasn\'t sleeping, but she was continually staring vaguely at some point off in space.
 Auntie Rosa had proclaimed that she couldn\'t trust anyone who had not been killed.
 ......Auntie Rosa\'s chessboard thinking......saw herself inside her opponent.
 ...In other words, Auntie Rosa...
 ...might be an isolated woman, unable to trust anyone and unable to let her guard down.
 ...Long ago, I think I heard a bit about it from my dad.
-{n}Auntie Rosa had originally been a very obedient child.
+Auntie Rosa had originally been a very obedient child.
 ......But because her age was so far separated from her other siblings,
  and because her confrontational siblings had often made conflicting demands of her,
  she had been going through psychological hardship ever since she was young.
@@ -363,13 +363,13 @@ The many abusive words that she had spoken......were also the same abuse that Au
 ......I\'d just assumed the similarity came from being siblings, ...but maybe that wasn\'t the case...
 For the first time, I was able to sympathize from my heart with Auntie Rosa, who I had come to think of as being only gentle...
 Then, what about Maria...?
-{n}Maria had been claiming something for a while.
+Maria had been claiming something for a while.
 If we could solve the riddle that the witch had presented to us, the ritual would be halted and we would definitely be saved.
 And I think she also said that {f:5:Beatrice} would never break a promise she made.
 ......So that describes Maria herself.
-{n}She\'s the one with the most innocent heart, who would never break a promise...
+She\'s the one with the most innocent heart, who would never break a promise...
 So she believed that {f:5:Beatrice} wouldn\'t break a promise either.
-{n}She could believe that.
+She could believe that.
 But wasn\'t that just an image of {f:5:Beatrice} that Maria imagined...?
  There\'s no proof that the real {f:5:Beatrice} definitely keeps her promises, right...?
 "
@@ -456,7 +456,7 @@ I keep my promises}.
 ".........Yes."
 Shannon nodded sharply, her expression filled with a sense of duty.
 George, Gohda and Shannon had broken a suitable window, and were inside the chapel.
-{n}...Since they really hadn\'t wanted to break one, they had searched for another way in, just in case.
+...Since they really hadn\'t wanted to break one, they had searched for another way in, just in case.
 ...But, in the end, that only proved once again that there was nowhere that anyone could slip in through,
  and emphasized further how inscrutable was the chapel\'s locked room...
 Inside the chapel, time had stopped since they had left it earlier.
@@ -472,8 +472,8 @@ Despite Gohda\'s prodigious skill, he had gotten into trouble, lost his job, and
 ...Those around Gohda could see that he felt a special kind of loyalty to Natsuhi.
  ......So he probably didn\'t want to lose that feeling, even though she was dead.
 ......Now that half a day had passed, the bodies of Natsuhi and the rest had changed completely.
-{n}Small bugs that had sniffed out the smell of death had started to gather.
-{n}...It really wasn\'t something you could look at directly...
+Small bugs that had sniffed out the smell of death had started to gather.
+...It really wasn\'t something you could look at directly...
 "......Madam, ............excuse me......"
 Because of her long experience as a servant, Shannon had an idea of which pocket Natsuhi had kept the key to her room in.
 .........Probably, in this pocket...
@@ -483,14 +483,14 @@ Her guess didn\'t fail her.
  ......The key to Madam\'s room."
 Shannon held the key up high, showing the others that it had been found.
 As George and Gohda watched her, their eyes opened wide...
-{n}That wasn\'t the expression Shannon was expecting, so it startled her.
+That wasn\'t the expression Shannon was expecting, so it startled her.
 Because Shannon hadn\'t noticed.
-{n}George and Gohda, watching from afar, had been able to notice it first.
+George and Gohda, watching from afar, had been able to notice it first.
 Because when Shannon had held the key up high, ......a blizzard of gold leaf had billowed up from around the table.
 They were...countless gold butterflies.
 Because it was the first time George had seen them, to him, they might have looked fantastical.
 ......But Gohda already knew.
-{n}...He knew that those gold butterflies, far from being beautiful, held sway over something disastrous.
+...He knew that those gold butterflies, far from being beautiful, held sway over something disastrous.
 And that gold swelled, trying to suck Shannon in.........
 "Sh‐Shannon‐san!!
  Run!!"
@@ -498,8 +498,8 @@ And that gold swelled, trying to suck Shannon in.........
  Kyaa!!!"
 Shannon also realized that she was about to be swallowed up by gold butterflies.
 She ran unsteadily, her expression still shocked.
-{n}As she did, the gold butterflies danced around Shannon in unison.
-{n}They grouped together.
+As she did, the gold butterflies danced around Shannon in unison.
+They grouped together.
  They tried to swallow her up!
 "Shannonnnnn!!
  Damn it, what is this?!
@@ -508,7 +508,7 @@ She ran unsteadily, her expression still shocked.
  You bastards!
  Damn it, damn it!!"
 George and Gohda rushed up to Shannon, driving off the group of butterflies.
-{n}And while the butterflies were scattered, they ran towards the broken window!
+And while the butterflies were scattered, they ran towards the broken window!
 However, they needed good footing to get out of the window, which was surrounded with shards of broken glass.
 When they had entered, there had been enough time to prepare for that, but now there was none.
 "Let\'s go out through the door!!
@@ -522,10 +522,10 @@ nnnnnnnn!!"
 "George‐sama, quickly!!
  Damn it, you want a piece of me?! Uooooooooooooooohhh!!"
 Gohda took off his jacket, swinging it around and scattering the group of butterflies.
-{n}But he was vastly outnumbered.
-{n}It was doubtful that it even bought them a short amount of time.
+But he was vastly outnumbered.
+It was doubtful that it even bought them a short amount of time.
 George struggled with the virtually broken handle.
-{n}Its age showed, and it didn\'t turn well.
+Its age showed, and it didn\'t turn well.
 Brute force alone won\'t do it, it needs the right angle or some trick......
 "George‐sama!!
  Damn iiiiiiiiiiiit!!
@@ -540,7 +540,7 @@ He saw the figure of the witch, laughing in the center of the golden whirlwind, 
 B‐
 ......{f:5:Beatrice}........."
 It should have been Gohda\'s first meeting with her.
-{n}...But he knew her at a glance.
+...But he knew her at a glance.
 Just like the other servants had said, this was certainly, certainly...the witch of the portrait herself...!
 "*cackle*cackle*cackle*cackle*, hahahahahahahahahahahaha!!
  It is almost time for dinner, is it not?
@@ -565,11 +565,11 @@ The group of gold butterflies attacked with a "whoosh" sound.
 "Hurry!!
  We can\'t stand here!!"
 George\'s voice brought Shannon and Gohda back to themselves.
-{n}Standing here now would be the same as a frog being stared down by a snake.
+Standing here now would be the same as a frog being stared down by a snake.
 They had to resist.
-{n}......They had to fight this incarnation of the new, brutal, and frightening order that had enveloped Rokkenjima...!
+......They had to fight this incarnation of the new, brutal, and frightening order that had enveloped Rokkenjima...!
 There was no time to take out their umbrellas.
-{n}The three of them dashed out into the pouring rain.
+The three of them dashed out into the pouring rain.
 They never realized because they didn\'t turn around,
  but the gold butterflies apparently couldn\'t handle the rain too well, and this hampered their ability to chase after the three.
 The three people ran from their golden pursuers and flew into the mansion...
@@ -589,7 +589,7 @@ Shannon claimed that because of her woman\'s sense.
 But the dresser was elegant and had many drawers, and it would be understandable if she had kept some of her valuables there.
 "Auntie Natsuhi, I\'m sorry...!!"
 He began to violently open each one of the drawers.
-{n}He had to hurry.
+He had to hurry.
 He couldn\'t actually hear footsteps, ...but he had the feeling that the witch was approaching...
 He had the feeling that her laugh was approaching...!!
 He pulled out the drawers one by one and examined their contents.
@@ -598,8 +598,8 @@ He pulled out the drawers one by one and examined their contents.
 "May‐......maybe it\'s this box...
  It\'s locked, and I can\'t open it...!"
 At a glance, it looked slightly larger than a music box.
-{n}When shaken, it rustled, as though various small objects were inside.
-{n}But it was locked and wouldn\'t open!
+When shaken, it rustled, as though various small objects were inside.
+But it was locked and wouldn\'t open!
 "N‐normally, you\'d hide the key somewhere nearby.
  ...But maybe some people always take it with them......
  I don\'t know, ...I don\'t know...!!"
@@ -608,21 +608,21 @@ At a glance, it looked slightly larger than a music box.
  Isn\'t there some tool we could pry it open with...?!
  Damn it...!!"
 Gohda looked all over the room, trying to see if there was some tool that they could use.
-{n}And he noticed the door, which had been left open ever since they had entered.
+And he noticed the door, which had been left open ever since they had entered.
 He approached the door to close it, ......and noticed the abominable shadows of people approaching from beyond the darkness in the hall...
 No, the phrase "shadows of people" wasn\'t right.
-{n}Because that referred to {y:0:Human}{n:0:human} shadows.
+Because that referred to {y:0:Human}{n:0:human} shadows.
 ......You can\'t call the shadows of beings that aren\'t {y:0:Human}{n:0:human} "shadows of people"!!
 "...............G‐
 ......George‐sama!!!
  H‐
 ......hurry......"
 Gohda\'s voice trailed off...
-{n}It was the shock from seeing a procession of those not of this world.
+It was the shock from seeing a procession of those not of this world.
 He was a servant.
-{n}So he knew all of the servants that worked for the Ushiromiya family.
+So he knew all of the servants that worked for the Ushiromiya family.
 ...But he didn\'t know about these.
-{n}However, they were definitely servants...!!
+However, they were definitely servants...!!
 They weren\'t servants working for Ushiromiya Kinzo or Ushiromiya Krauss.
 ...They were new servants, who worked for the new master of the mansion, the Golden Witch {f:5:Beatrice},
  and who had goats\' heads and bright‐red, boiled eyes of lava!!
@@ -636,7 +636,7 @@ It almost gave the illusion that some prankster on the other side of the door wa
 Then who, how...?!
 It felt just like playing with a broken toy.
 Click, boing.
-{n}Click, boing!!
+Click, boing!!
 "U‐uwaaaaaaaaaaaaaaa!!
  I‐it won\'t close!!
  It opens even if I close it!
@@ -654,18 +654,18 @@ And when not just footsteps, but their breath too could be heard,
  That\'s better, let me have it!
  The fountain pen isn\'t working!"
 George took it, and once again dug into the crack under the lid of the treasure box.
-{n}...It looks like it\'s working...!
+...It looks like it\'s working...!
 "Quickly quickly!!
  HiiIIiii,
  UOOOOOOOOOAAAAAAAAAAAAAAHHH!!"
 The pressure from across the door grew even stronger.
 ......Gohda screamed.
  It wasn\'t a war cry for this test of strength.
-{n}......He was terrified.
+......He was terrified.
 He was simply terrified that, except for a single wooden door, he would be touching something not of this world.
 But he was still lucky.
-{n}He wasn\'t touching them directly.
-{n}Because they were on the other side of the door.
+He wasn\'t touching them directly.
+Because they were on the other side of the door.
 So it was natural that if he did touch them directly, ...Gohda\'s cry would turn from something brave into a shameful,
  ...and yet very real scream that would make glass shatter.
 Gohda couldn\'t believe what was right before his eyes.
@@ -680,7 +680,7 @@ traced slowly up his arm,
  ...and then...
 ......his chin.
 By now, Gohda\'s scream was not even vocalized.
-{n}He could hear a sweet whispering voice from across the door.
+He could hear a sweet whispering voice from across the door.
 ......It wasn\'t coming from the witch, but judging by the sound of the voice, it was a young woman.
 ...But there was no difference in the fact that it was a voice from one not of this world.
 "......*giggle*giggle*.
@@ -694,7 +694,7 @@ By now, Gohda\'s scream was not even vocalized.
 That obscene arm burst apart.
  And they heard the sound of something jumping around the room at an incredible speed.
 They didn\'t know what it was.
-{n}Incredibly fast, small, like steel or maybe a beetle...!
+Incredibly fast, small, like steel or maybe a beetle...!
 When it buried itself right in the center of Gohda\'s chest and stopped,
  .........for the first time,
  ...they realized that its true form...
@@ -715,11 +715,11 @@ The room was wrapped in a blizzard of gold leaf, which fell and piled up, turnin
 "None at all, riiight?
  Receiving an engagement ring from the man you fell for, and then being killed before spending a night together, that isn\'t a regret at all, riiiiiiiiiiiiight???
  You wanted him to teach you the happiness of being a woman, didn\'t yooouuu?
- Kuhihihyahya{0}hya{0}hya{0}hya{0}hya{0}hyahya!!"
+ Kuhihihyahyahyahyahyahyahyahya!!"
 "Ahh, no, no, Shannon, it\'s hanging! Your regret. From your mouth.
  I can see it dribbling from your moooooooouth, Shannonnnnnnnnnnnnnnnnn???
- Hiiihya{0}hya{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha
- kyaaa{0}kya{0}kkya{0}kkya{0}kkya{0}kkya{0}kkya!!!"
+ Hiiihyahyahahahahahahahahaha
+ kyaaakyakkyakkyakkyakkyakkya!!!"
 Crack.
  It was the sound of the lid to the treasure box breaking and opening.
 When George turned it over, out fell accessories, charms,
@@ -751,11 +751,11 @@ George, who was curled in a ball trying to protect himself from the group of but
  If you\'re lonely because you can\'t meet Kanon, just ask meee, I\'ll bring you together anytiiiiime!!"
 When the witch snapped her fingers, ......one of the six goat attendants......glittered gold and changed into Kanon.
 It was definitely a sight to make one doubt their eyes.
-{n}...It was definitely Kanon\'s face.
+...It was definitely Kanon\'s face.
 ......However, in those eyes, there was none of that sincere glint of Kanon\'s.
 ...They were only the clouded eyes of furniture that did nothing but obey the orders of the witch.
 ...George couldn\'t understand the scene right before his eyes.
-{n}......And he finally understood why Gohda and the rest had been unable to talk about what they had seen in the servant room.
+......And he finally understood why Gohda and the rest had been unable to talk about what they had seen in the servant room.
 ".........Is it fun?"
 "Oh yeah, it\'s fun.
  It\'s always fun to reunite two that have been torn apart by death.
@@ -764,7 +764,7 @@ It was definitely a sight to make one doubt their eyes.
  If she knocks you about, show her a face with as much anguish as you can manage.
  *cackle*cackle*cackle*cackle*cackle*cackle*!!"
 ......From the impostor Kanon\'s arm, ...a strangely shining trail extended.
-{n}.........It planned to tear Shannon apart with that.
+.........It planned to tear Shannon apart with that.
 ......Shannon, who still hadn\'t prepared her heart, apart with a single stroke...
 "......I won\'t forgive you.
  ......For dishonoring the dead not once, ...but twice, ...I won\'t forgive you."
@@ -819,10 +819,10 @@ But that radiance was no match for the witch\'s sinister nature...
  Don\'t speak as a poet like it\'s so neat and clean!!
  Love is lust it can\'t be talked about with only pretty words like in a shoujo manga.
  Men are flies and maggots that get caught in your scent and gather around you.
- Do you still not understand that at your aaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aage?"
+ Do you still not understand that at your aaaaaaaaaaaaage?"
 "You\'ll despair, when you get even one glimpse of the black‐as‐tar lust of that glasses man behind you,
- you\'ll be devastated speechless no words no reaction no expression no goddamn good at all Shannoo{-}o{-}o{-}o{-}o{-}oonnn{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}n{-}nnnnn???
- Hiiiihaaaaa{0}aa{0}ha{0}ha{0}ha{0}ha{0}haaa{0}haaa!!"
+ you\'ll be devastated speechless no words no reaction no expression no goddamn good at all Shannoooooooonnnnnnnnnnnnnnnnnnn???
+ Hiiiihaaaaaaahahahahahaaahaaa!!"
 "That\'s enough stop talking furniture you furniture furniture furniture,
  who the hell do you think you are talking like that, love is just a fraud how to pretty up something that\'s ultimately filthy as all hell,"
 "Don\'t people become adults when they realize thaaaaaaaaaat, die you trash, furniture furniture scrap,
@@ -850,7 +850,7 @@ The bright‐red ripples frantically drew a pattern of resistance, but the wall 
  ...and began to suck the two of them up instead.
 "George‐san, can I ask a favor?"
 Shannon grasped George\'s hand behind her.
-{n}So George hugged her shoulders just as strongly.
+So George hugged her shoulders just as strongly.
 "What is it?"
 "Before the end, ......please let me hear you say you love me."
 "Sure.

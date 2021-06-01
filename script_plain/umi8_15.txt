@@ -6,7 +6,7 @@ Kanon also raised his right hand, and a blade that trailed red appeared there.
  I forbid you to come any closer."
 "......If you do, ......I\'ll kill you."
 They could see a single dinghy leave the fleet and approach them.
-{n}They couldn\'t tell if it was a messenger or the first wave.
+They couldn\'t tell if it was a messenger or the first wave.
 Shannon and Kanon watched it cautiously...
 At the head of that dinghy rowed by goats......stood Erika.
 ...Where had she gotten that headgear from?
@@ -83,7 +83,7 @@ As though hinting that she was more than ready to go through with this farce, Be
  If not, allow me to give you my answer."
 "Go ahead."
 Erika tensed slightly.
-{n}After all, this was the great Lady {f:5:Beatrice} she was dealing with.
+After all, this was the great Lady {f:5:Beatrice} she was dealing with.
 She might shout "here is my answer" dramatically and do something crazy.
 They say a cornered rat is the most dangerous.
 Furthermore, Erika had intel telling her that the great Lady {f:5:Lambdadelta}, witch of the Senate, had been spending her time inside the Golden Land, though only as a theatergoer.
@@ -105,12 +105,12 @@ And then, ...............with a pathetic expression on her face, ......Beato let
  ......It doesn\'t matter whether I surrender or whether we\'re vanquished by you.
  I simply wish to have the curtain closed on this game board and tale, regardless of who does the deed."
 Of course, .........that was a lie.
-{n}She knew she couldn\'t win even if she fought.
+She knew she couldn\'t win even if she fought.
 For now, their best option......was to play for time.
 They would fix Erika\'s attention to this spot, ......and during that time, Battler and the others would steal the key from {f:5:Bernkastel} while she was completely off her guard.
 ......Once they had the key, they would return to the Golden Land, use that key to let Ange open the door to the future, and see her off.
 That was their goal.
-{n}Everything after that...would be inside the cat box.
+Everything after that...would be inside the cat box.
 Ange would live on into the future, with hope.
  No one would know whether Beato and the others were alive or dead.
  ......That was enough.
@@ -176,11 +176,11 @@ So, to make sure that {f:5:Lambdadelta}\'s and Battler\'s absences were not noti
  We might not be able to win, but if we can convince them that we plan on taking enough of them with us, that might force our opponents to show restraint."
 "Basically,
  if they\'re gonna pick a fight, we\'ll let them know we aren\'t going down without doing some damage first!!"
-"Kihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!!
+"Kihihihihihihihihi!!
  All of {f:5:Lambdadelta}\'s friends are incredible...!!
  She knows lots and lots of witches, beasts, demons, and gods, all of which have really, really huge legends and histories!
  Even if those ships outnumbered the stars in the sky, {f:5:Lambdadelta}\'s friends would wipe them out in a single blast!
- Kihi{0}hi{0}hi{0}hihi!!"
+ Kihihihihihi!!"
 ".........W‐will this really work?
  ......She hasn\'t seen through our act yet, has she......?"
 "It is working.
@@ -191,9 +191,9 @@ So, to make sure that {f:5:Lambdadelta}\'s and Battler\'s absences were not noti
 "H‐h‐h‐hold on...!
  Don\'t forget that some of us are opposed to fighting!
  I think we should surrender!!"
-"Whaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}at?!
- Goo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ohda, you defeatist foo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ool!!"
-"Ah, ow, ouch, my lord, it\'s j‐just an act, gyaa{0}a{0}r{0}r{0}r{0}r{0}gghhh!!"
+"Whaaaaaaaaaaaaaaaaat?!
+ Gooooooooooohda, you defeatist foooooooooooooool!!"
+"Ah, ow, ouch, my lord, it\'s j‐just an act, gyaaarrrrgghhh!!"
 "Well, it looks like the debate has gotten quite heated!!"
 "Will we surrender?!
  Or will we fight back?! Which will it be?!"
@@ -287,7 +287,7 @@ The goat would probably return and tell the rest of the fleet.
 The fleet would tell {f:5:Bernkastel},
  and {f:5:Bernkastel} might think of some plan to deal with this situation or give new orders.
 The conversation with the goat ended, and it spun around.
-{n}......It would return to the dinghy and report on this to the fleet.
+......It would return to the dinghy and report on this to the fleet.
 It left the rose bushes behind and passed through the garden maze, heading towards the door that led outside......
 .........Would it really be okay to let that goat reach the boats......?
 If it made it back, Erika\'s report would reach {f:5:Bernkastel}\'s ears......
@@ -355,7 +355,7 @@ Battler and Ange nodded to show their understanding.
  I hope it\'s good, for your sakes.
  ..................! Hide!!"
 {f:5:Lambdadelta} pulled her head back from around the corner of a bookshelf.
-{n}The others hurriedly followed suit.
+The others hurriedly followed suit.
 ......In the distance, they saw emerald‐green lights floating about and leaving trails.
 "Those are Bern\'s cat familiars.
  ......She\'s got them patrolling all over the place today."
@@ -380,7 +380,7 @@ Battler and Ange nodded to show their understanding.
 {f:5:Lambdadelta} wasn\'t laughing.
  Most likely, even this punishment she spoke of was pretty optimistic.
 Despite saying that she won\'t offer any more help...
-{n}She\'s already...
+She\'s already...
 risking everything.
 And for what?
 "......Isn\'t that obvious?"
@@ -403,7 +403,7 @@ Trying to count them would be almost as crazy as counting all the fish in the oc
 They formed schools that swam all over the place,
  ......on the lookout for any fools who might miraculously have managed to slip in and disturb their master\'s party.
 If Battler\'s group was found, the cats would report it instantly.
-{n}They would probably form a pack, open their large mouths and swallow them in a single gulp.
+They would probably form a pack, open their large mouths and swallow them in a single gulp.
 ......There would be no fight.
 In this place, Battler\'s party would be swallowed like tiny fishes if they were discovered.
 The warships surrounding the Golden Land were well more than a hundred strong.
@@ -476,7 +476,7 @@ However, at the same time, the red lines—the massive spiderwebs—on the floor
 Then, that ball‐shaped thing burst open, leaving nothing left.
 It all happened in an instant.
 "Why don\'t you just give up and die for{f:5:eva}aa??
- Ahha{0}ha{0}ha{0}haha!!!"
+ Ahhahahahaha!!!"
 The Witch Hunters were holding a convention in the event hall.
 After all, once Ushiromiya Eva\'s diary was opened, ......the endless cat box would be lost, along with the countless imagined stories that had entertained them for so long.
 So, this final convention was a time for them to air their best theories one last time.
@@ -619,7 +619,7 @@ And a few moments after that, the Erika sitting in that chair faded and vanished
 "......Afterimage!!"
 "She\'s fast!! Kill her!!!"
 In an instant, Erika had moved to a spot behind the chair.
-{n}Her expression remained as blank as it had been.
+Her expression remained as blank as it had been.
 However, there was now something in her hand that wasn\'t there before.
 As the seven lightning strikes of the Seven Sisters raced at her once more, she batted all of them away with her scythe.
 "That was one hell of a farce.
@@ -633,8 +633,8 @@ Erika lifted her left hand, the one that wasn\'t holding the scythe.
  In other words, to put it elegantly..."
 "............All cannons, prepare to fire.
  Target: the Golden Land."
-"GO WASH YOUR FACE IN MISO SOO{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}O{-}OOUP!!!"
-"SHOOT \'EM DEEE{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}E{-}EAD!!!"
+"GO WASH YOUR FACE IN MISO SOOOOOOOOOOOOOOOOOUP!!!"
+"SHOOT \'EM DEEEEEEEEEEEEEEEAD!!!"
 "......Yes, thank you.
  .........See you around.
  ......Meow."
@@ -647,14 +647,14 @@ Even {f:5:Bernkastel} was starting to suspect that something was fishy...
 Then, a black cat leapt in and meowed a frantic report.
 "Lambda and Battler aren\'t in the Golden Land...?!
  .......................................
- ......Hah, .........hahhhha{0}ha{0}haa{0}ha{0}ha{0}hah{0}ha{0}ha{0}hhhaah!!!"
+ ......Hah, .........hahhhhahahaahahahahhahahhhaah!!!"
 She tore the phone receiver from its stand.
 The number she dialed was short.
  It was probably an internal line.
 However, after listening to it ring several times, she slammed the receiver down again, finally managing to break the phone.
 "......Gather all the cats who aren\'t busy. This is an emergency!!!
  The cats I had guarding the key aren\'t responding!!!
- .........Lambdaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}awg!!"
+ .........Lambdaaaaaaaaaaaaaaaaaaaaaaaawg!!"
 Overwhelmed with emotion, {f:5:Bernkastel} kicked the table over.
 Then, ......the room finally grew bright.
 It was like green sunlight.
@@ -796,9 +796,9 @@ After staring stupidly at their fists and those scissors, ......they looked at h
  ......We were supposed to start with paper, so I figured I\'d use scissors and beat you both.
  ......I guess confetti‐head should\'ve stuck with paper."
 There had been no reason for {f:5:Lambdadelta} to join in on the game.
-{n}This wasn\'t the time for a joke like that.
+This wasn\'t the time for a joke like that.
 Battler and Ange, each trying to lose, ......chose rock.
-{n}{f:5:Lambdadelta} alone......chose scissors.
+{f:5:Lambdadelta} alone......chose scissors.
 "Don\'t tell me......you intentionally......"
 "If you die, we can\'t even get back to the Golden Land...!
  This doesn\'t count!"
@@ -832,7 +832,7 @@ That way, they should be able to reach the key without {f:5:Bernkastel} noticing
 Dang, what terrible luck.
 What were the odds of them both playing a rock against my scissors?
 .........Yeah, I know.
-{n}It wasn\'t nice of me to test you like that.
+It wasn\'t nice of me to test you like that.
  Sorry, you two.
 And then, ......{f:5:Lambdadelta}\'s body was lit up by an emerald‐green light...
 When she turned around, the cat\'s eyes and {f:5:Lambdadelta}\'s......met.
@@ -912,9 +912,9 @@ However, a windstorm of candy asteroids like an asteroid belt repeatedly slammed
  .........?!?!"
 The next thing to fly into {f:5:Bernkastel}\'s range of vision......
 ...was a comet hurtling straight for her, with a massive present box at its core and a cloud of candy surrounding it.
-"Lambdaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!
- Waaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!!
- Gyaaaa{0}a{0}a{0}a{0}aahh, my...body......gaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!"
+"Lambdaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!
+ Waaaaaaaaaaaaaaaaaaahhh!!!
+ Gyaaaaaaaaahh, my...body......gaaaaaaaaaaaaaaaaaaaaaaaaaahhhh!!"
 The candy comet wiped out {f:5:Bernkastel} along with her scream.
 It burst into little bits, then within a blink of an eye, it was sucked back into a hole of supergravity.
 Once it was all gathered into one place like a gem, it began to spin rapidly.
@@ -947,7 +947,7 @@ Then, ......she pressed the konpeitou to her pink lips,
 "Ahh, I do love you, {f:5:Bernkastel}.
  .........I\'ll turn you into candy and cuddle you with my tongue forever."
 "So no matter who wins, we can keep on loving each other.
- *giggle*giggle*, ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!
+ *giggle*giggle*, ahhahahahahahahahaha!!
  That\'s wonderful, just wonderful...!!"
 "Okay!!
  Let\'s show our love right now!!!"
@@ -966,10 +966,10 @@ The residents of the Golden Land who stood defiantly were like a forgotten sandc
 A fight between a wave and a sandcastle is not a fight.
 For the voracious, merciless goats now storming the food at a standing buffet, this......was a feast.
 "So be it!!
- Kill them aa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}all!!!"
+ Kill them aaaaaaaaaaaaall!!!"
 "<Good>!!
  Come, goats!! Bring destruction to all that has form, stillness to all that moves!
- Despair to all who li{-}i{-}i{-}i{-}i{-}i{-}i{-}ive!!!"
+ Despair to all who liiiiiiiive!!!"
 All those who could use magic fired it off at once.
 With a shout like a thunderclap, the goat tsunami rushed forward.
 Everything collided at once, and there was a brilliant and terrible explosion.
@@ -981,23 +981,23 @@ The mound of corpses piled up, and still more goats were shot down as they tried
  ......so that before long, it really was tall enough to be a tsunami.
 "Pitiful!!
  This Golden Land you\'ve built is nothing more than a sandcastle some kid left on a beach!!
- Now be swallowed by the wa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}ves!!"
+ Now be swallowed by the waaaaaaaaaaves!!"
 "Perhaps you would do better to think of ripples beating meaninglessly against a cliff.
  ......A sandcastle getting swallowed by a wave?
  Just you try swallowing my castleeee!!!"
 Beato lifted her hands, telling the pair of battle towers that had been hidden deep in the ground that the day of glory had come again.
 The goat tsunami looked up at it in shock.
 After all, this time the tsunami that towered over everything......wasn\'t them.
-"OPEN FIII{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}I{-}IIIRE!!!"
+"OPEN FIIIIIIIIIIIIIIIIIIRE!!!"
 A thunderstorm of rapid‐fire ballista rounds rained down from the battle tower gun ports.
-{n}The goats let out a confused scream at the furious tempest that was bearing down on them.
+The goats let out a confused scream at the furious tempest that was bearing down on them.
 However, they saw something else too. 
 ......In the sky high above the tower......was a reaper astride a divine horse and backdropped by the moon,
  ......with a massive spear the size of a tower in its hand.
 The next words came not from the reaper, but from the Great Witch seated behind it.
 "Return home.
  This world does not belong to you."
-"Do it, Mastee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eer!!"
+"Do it, Masteeeeeeeeeeeeeeeeeer!!"
 The heavenly spear pierced the ground.
 For an instant, it looked like some divine tower was sticking out of the ground.
 However, that was the very last thing those eyes ever saw.
@@ -1043,9 +1043,9 @@ So, from the sidelines, it looked as though a line of smoke had suddenly split t
 The golden arrows of the Chiester Sisters chased after Erika like golden threads in a sewing machine.
 "You monster...!!
  Get yourself sewed and embroidered nyeh!!"
-"Hahahaha, ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!
+"Hahahaha, ahhahahahahahahahahahaha!!
  <Good>!!
- <Good, good, goo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ood>, ah{0}ha{0}ha{0}ha{0}ha{0}haa{0}a{0}a{0}a{0}a{0}aah!!"
+ <Good, good, goooooooooood>, ahhahahahahaaaaaaaah!!"
 Even the golden arrows couldn\'t catch up with Erika.
 Finally, Erika reached the bottom of the battle tower, and the golden bows ejected empty cartridges.
 "Explode, useless tower!
@@ -1057,7 +1057,7 @@ Once again, the dark tsunami rumbled forward through the rubble and smoke.
  This moment marks the dismantling of the Golden Land by the truth!!
  Dust to dust, illusions to illusions!!
  I\'ll end your daydream for you!
- Come, try to remember, you specters of the past! Remember how you died so long agooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oo!!"
+ Come, try to remember, you specters of the past! Remember how you died so long agooooooooooooo!!"
 The goat tsunami swallowed everything up.
 When she saw them sink under the black sea of goats, ......Erika guffawed from atop the debris of the tower.
 "Come on now, kill them! Massacre them all!!!

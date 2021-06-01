@@ -126,7 +126,7 @@ In that case, they should be across the table from each other and separated by o
  ......Jessica and Ange will be sitting next to each other whether you\'re there or not.
  However, which side of the table they\'re sitting on changes."
 In the world where Lion exists, Ange\'s seat is on Jessica\'s left.
-{n}However, if Lion doesn\'t exist, then Ange\'s seat is on Jessica\'s right.
+However, if Lion doesn\'t exist, then Ange\'s seat is on Jessica\'s right.
 "Every time someone talked about the witch {f:5:Beatrice} of 1986, they were all talking about a world where you don\'t exist.
  And, in your world, there are no ghost stories about a witch.
  To you, "Beatrice" is either Kinzo\'s mistress or his benefactor, not a wandering ghost."
@@ -251,7 +251,7 @@ proves that the baby was somehow important to him."
 ".........There\'s no need to thank her.
  ......After all, it took a staggering amount of effort just to find a fragment with you in it."
 "Mathematically speaking,
- there\'s actually a {nobr:2,578,916/2,578,917} chance of her refusing to raise you.
+ there\'s actually a 2,578,916/2,578,917 chance of her refusing to raise you.
  You should probably be thanking me for creating this miracle, not Natsuhi.
  ......*giggle*giggle*."
 "Enough with your stupid probability games."

@@ -1,13 +1,13 @@
 ...............When I came to, all was silent.
-{n}The lights were dim.
+The lights were dim.
  And yet......the room felt large.
 ......Where on Earth............is this............?
 I was sitting in what seemed to be a very small single sofa.
-{n}It was very constricting, and there seemed to be several more of them off to each side of me...
+It was very constricting, and there seemed to be several more of them off to each side of me...
 Once I noticed that, I realized that I was in a theater.
 "............Where on Earth.........am I.........?"
 I don\'t know how long I\'ve been here.
-{n}And, more importantly, I don\'t know where this is.
+And, more importantly, I don\'t know where this is.
 ......Beatrice\'s funeral ended,
  everyone went back to the mansion, and......
 ........And after that, my memory gets fuzzy, and I can\'t recall anything else.
@@ -17,7 +17,7 @@ Apparently, I wasn\'t the only one sitting in the audience seating of this vast 
 When I looked, I saw a girl sitting several seats off to my left.
 It was a face I had never seen before.
  ......I wondered who she was.
-{n}She looked like a high‐schooler or a college student,
+She looked like a high‐schooler or a college student,
  about the same age as I was.
 "...............nnn......"
 She groaned.
@@ -26,7 +26,7 @@ I didn\'t want to scare her, so I decided to introduce myself first...
 ".........Hello."
 ".....................!!"
 Apparently, she was equally surprised to find someone other than herself here.
-{n}She jumped when she heard my greeting.
+She jumped when she heard my greeting.
 "......Who on Earth are you?"
 "I feel the same way.
  ......It seems that neither of us is here of our own accord."
@@ -40,7 +40,7 @@ Her stare, which was unmoving but not openly hostile, wasn\'t exactly pleasant f
 "Ushiromiya—huh?
  What?"
 "Lion.
- Written as "{p:0:理御}", but pronounced "Lee‐on".
+ Written as "理御", but pronounced "Lee‐on".
  ......Pretty strange name, don\'t you think?"
 "......No stranger than mine.
  But I\'ll have to apologize.
@@ -148,7 +148,7 @@ She must realize that no amount of struggling will break these chains,
  If that\'s it, then start it up.
  I\'m bored enough as it is!"
 Ange yelled this to the pitch‐black stage.
-{n}Her voice reverberated throughout the theater, but no one gave an answer......
+Her voice reverberated throughout the theater, but no one gave an answer......
 ......No, someone did.
  And that was also in a voice that rang out across the theater.
 However, that voice sounded theatrical, as though someone was announcing the start of a play.
@@ -173,7 +173,7 @@ The answer she seeks is inside the cat box.
 However, I doubt that explanation would satisfy her.
 Then, ......a pillar of bright light pierced the stage.
 There stood a figure in white.
-{n}.........That figure, clothed in a white dress, was obviously Clair.
+.........That figure, clothed in a white dress, was obviously Clair.
 Of course, Ange didn\'t recognize her.
  She looked suspicious, apparently wondering who in the world this was.
 However, even I felt as though something was wrong.
@@ -223,16 +223,16 @@ After enjoying the lovely welcome provided by the roses, the relatives followed 
 October 4th, 1986.
 Rokkenjima.
  A world without Lion.
-{n}......The day of the Ushiromiya family\'s family conference.
+......The day of the Ushiromiya family\'s family conference.
 The mysterious letter that Maria read aloud after dinner, just as she had been told to.
 The writer of the letter claimed to be the Golden Witch {f:5:Beatrice} and challenged the family.
 Solve the riddle of the epitaph.
  Otherwise, I will take everything.
 It was the letter that declared the start of {f:5:Beatrice}\'s game, just as it had appeared in so many games before.
 Had an unknown person appeared to complicate the inheritance problem?
-{n}Where was the 20 billion yen\'s worth of gold hidden?
-{n}What was the purpose of this letter? For what goal had it been written?
-{n}Who on Earth was this {f:5:Beatrice}?
+Where was the 20 billion yen\'s worth of gold hidden?
+What was the purpose of this letter? For what goal had it been written?
+Who on Earth was this {f:5:Beatrice}?
 It was that tangled web of suspicion and paranoia that had been a constant in every game: .........the dinner of October 4th.
 "George‐kun.
  I\'m sorry, but could you take the others and go back to the guesthouse?
@@ -257,7 +257,7 @@ It was that tangled web of suspicion and paranoia that had been a constant in ev
 "Come on, Maria...
  Let\'s go......"
 "Beato\'s ritual has begun......
- Kihi{0}hi{0}hi{0}hi{0}hihi......"
+ Kihihihihihihi......"
 "Okay, everyone, ...I shall guide you to the guesthouse......"
 ".........What\'s......all this about......?"
 "Probably a replay of one of the old games, ......or else an entirely new game.
@@ -286,7 +286,7 @@ There should be no need for her to make new riddles......
 Along with Will, I have at least touched the deepest depths of this tale...and understood the culprit\'s heart.
 So, even if an entirely new tale presents itself, I should be able to see through the riddles.
 .........Is that...what my role is......?
-{n}Is my role to teach Ange about the truth of this tale......?
+Is my role to teach Ange about the truth of this tale......?
 "......Do you know?
  ......Do you know the truth of this tale?"
 "I have several theories.
@@ -294,7 +294,7 @@ So, even if an entirely new tale presents itself, I should be able to see throug
  The truth is always inside the cat box.
  I can\'t say anything for sure."
 In this world, Ange is absent on this day.
-{n}So, it\'s only natural that she doesn\'t know what happened.
+So, it\'s only natural that she doesn\'t know what happened.
 However, at the very least, I do know who the culprit is...and what they were trying to do......
 ".........Yes.
  I think I\'ve finally understood my role in this."
@@ -393,7 +393,7 @@ Kyrie asked the room at large, and everyone wordlessly nodded back.
 "Some tea, snacks, and...
 ......oh, could you also ask him for a map of Taiwan?"
 Two figures could be seen in the rose garden arbor.
-{n}......It was George and Shannon\'s secret meeting.
+......It was George and Shannon\'s secret meeting.
 "I want you to take this ring."
 "G‐......George‐sama......"
 "I swear to love you all my life.
@@ -435,7 +435,7 @@ They played together often enough six years ago, but I didn\'t think they were t
 "Now that really hurts, ihihi~!"
 Talking together like this, it felt as though we\'d been transported six years into the past.
 Those six years were so long that I forgot almost everything.
-{n}And yet......it\'s coming back to me, bit by bit.
+And yet......it\'s coming back to me, bit by bit.
 .........Shannon‐chan...
 Six years ago, you were part of our group, and we played together a lot, didn\'t we...
 Back then, I think I might\'ve......liked Shannon‐chan.
@@ -519,11 +519,11 @@ Well, it\'s not like I have any right to be jealous, after forgetting the whole 
  How mysterious."
 "I, ......I\'ve got it."
 Eva suddenly muttered.
-{n}All of the others spun around to look at her.
+All of the others spun around to look at her.
 Eva flipped through the pages about Taiwan with incredible force,
  then found the page she was looking for and slammed the book open so hard that it almost tore.
 This whole time, they had been looking at pages with place names.
-{n}As far as the overall mass of information went, those had seemed the most useful pages to start from.
+As far as the overall mass of information went, those had seemed the most useful pages to start from.
 However, the page that Eva opened to was very limited in the scope of its information.
 It was.........a map of railway lines.
 "......As you travel down it, ......you will see a village......a village.
@@ -544,7 +544,7 @@ It was.........a map of railway lines.
 "Look!!
  If we follow the Tamsui Line down, there\'s a station that used to be known as Kirigan!
  Look at the characters it\'s written with!!
- There\'s a village ({p:0:里}), a mouth ({p:0:口}), and a shore ({p:0:岸})!!"
+ There\'s a village (里), a mouth (口), and a shore (岸)!!"
 "Sh‐she\'s right...!
  There\'s a village, mouth, and shore...!!"
 ".........As you travel down it, you will see a village.
@@ -669,7 +669,7 @@ Then, he straightened up his back and hugged Shannon without saying a word.
  Here we go!"
 "<Quadrillion>.
  ......This is the only place you\'ll find that number written on this island."
-"One tenth of a "{ruby:kei:{p:0:京}}"...
+"One tenth of a "{ruby:kei:京}"...
  Who\'d have thought it?"
 "If our idea is right, then the letters of that relief should be the mechanism."
 "We just need to check.
@@ -693,7 +693,7 @@ Rudolf climbed up the propped up ladder.
  Bingo.
  Take a look at this."
 Rudolf tossed the "Q" down.
-{n}It hit Krauss on the shoulder and landed in a puddle.
+It hit Krauss on the shoulder and landed in a puddle.
 "This is......a key!"
 "What does it mean?!
  Rudolf‐kun!
@@ -733,7 +733,7 @@ By trial and error, ......they finally reached the final stage.
 "It\'s guiding us, stupid!
  We have to go in the direction the lions face...!"
 Eva dashed ahead.
-{n}The others all chased after her.
+The others all chased after her.
 ......The gold was right in front of them.
 ".........Now this is a surprise.
  Who would have thought that a hidden stairway like this existed."
@@ -773,7 +773,7 @@ They only had an instant to admire the splendid furnishings of the underground V
 As soon as the mountain of gold next to the canopy bed came into sight, they all froze, stunned.
 After a second, the stunned silence faded and was replaced by cries of astonishment and wild joy......
 "............Incredible!!
- Haha, hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!"
+ Haha, hahhahahahahahaha!!"
 "I, I can\'t believe it... It\'s 20 billion yen in gold...!!
  It really...really exists!!"
 "What a shining mountain.
@@ -1066,12 +1066,12 @@ Most likely, no one in this room would have been capable of understanding her tr
 As long as the many selves inside of her understood, that was enough.
 .........I am one yet many.
 I entrusted myself to the magical roulette of endless possibilities.
-{n}The result, the answer, is this.
-{n}This is what the tarot cards known as the ritual of the epitaph have shown me.
+The result, the answer, is this.
+This is what the tarot cards known as the ritual of the epitaph have shown me.
 ......{f:5:Beatrice} is now dead.
 They did not kill her.
-{n}I killed her myself......in accordance with fate\'s command.
-{n}They will never understand, .........for all eternity.
+I killed her myself......in accordance with fate\'s command.
+They will never understand, .........for all eternity.
 ...........................
 The witch stared up at the ceiling without speaking for a while, then looked as though she\'d suddenly remembered something.
 She grabbed at the sleeves of her dress and took out some sort of card.
@@ -1172,7 +1172,7 @@ However, there were no marks in particular on either side to indicate which side
 The second hand of the clock......ticked past midnight.
 October 4th ended, ......and the curtain rose on October 5th, 1986......
 The switch was still pointing to the left.
-{n}......The witch\'s words had been proven correct.
+......The witch\'s words had been proven correct.
 "............Have I gained your trust now...?"
 "Y‐...............you bitch!"
 With a hideous, sweat‐covered expression, Eva snatched the cash card away from the witch\'s hand.
@@ -1193,14 +1193,14 @@ For a while, everyone watched the witch to see if she would remember something e
 However, she said nothing further.
 The witch who had called herself one of the dead was now little more than a large French doll wearing a black dress......
 Gold is the only physical embodiment of magic that can appear in the human world.
-{n}Since ancient times, even a small fragment of it could control men with its magic.
+Since ancient times, even a small fragment of it could control men with its magic.
 In that case, how much magic power would dwell in it...
 if it was piled up in a mountain so high you\'d have to look up to see the top?
 "Don\'t be stupid, we\'ll split it evenly!
  Isn\'t that the obvious solution?!"
 "Didn\'t we say that half of this pile would belong to me, and the other half would be split between the four of us?!"
 The yells of the people dancing around the gold reverberated throughout the underground room...
-{n}In front of the pile of gold, they were arguing about how it should be split.
+In front of the pile of gold, they were arguing about how it should be split.
 "Could you have solved the riddle all by yourself, Nii‐san?
  You couldn\'t have, could you?!
  The four of us siblings solved it together!
@@ -1251,7 +1251,7 @@ Ange\'s face was starting to contort with pain after being forced to watch this 
 It was only natural, after being shown this abusive argument between her parents and her other relatives.
 "......What on Earth........."
 It was painful for Lion too.
-{n}Lion would have tried to intervene and calm them, if that had been possible.
+Lion would have tried to intervene and calm them, if that had been possible.
 The gold wouldn\'t go anywhere.
  If they just took their time and thought about it calmly, they would be able to resolve this.
 Eva and the others had argued that they needed a lot of money before the end of the year, which was understandable.
@@ -1287,7 +1287,7 @@ Suddenly, a loud explosion rang out.
 ......It didn\'t feel like the sound of gunfire.
 After all, ......most people living a normal life never hear that sound.
 Drip, drip drip drip.
-{n}The sound of thick raindrops hitting the floor.
+The sound of thick raindrops hitting the floor.
 ......There was no rain in this underground room.
 ......It was the sound of blood dripping down......from Natsuhi\'s right eye.
 The bullet had gone in through her right eye...towards the back of her head......
@@ -1301,29 +1301,29 @@ Natsuhi flopped backwards.
 When the back of her head hit the floor, a red splash spread out beneath it, ......forming a single flower to adorn her dead face...
 "Natsuhi......nee‐san......"
 "Wh‐why did you shoot her?!
- Why did you shoot her, Eva?! Evaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aa!!"
+ Why did you shoot her, Eva?! Evaaaaaaaaaaaaaaaaaaaaa!!"
 Krauss howled, raised his gun, and ran at Eva.
 At the same time, Hideyoshi leapt between them.
  A scuffle broke out between the two men.
-"You killed Natsuhi, you killed Natsuhiii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iii, nngaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahhh!!"
+"You killed Natsuhi, you killed Natsuhiiiiiiiiiiiii, nngaaaaaaaaaaaahhh!!"
 "K‐Krauss nii‐san, you\'ve got it wrong... You\'ve got it all wrong... It was...just an accident......!!"
-"Evaa{-}a{-}a{-}a{-}a{-}a{-}aaa, how could you?!!
- I\'ll kill you! I\'ll kill yoo{-}o{-}o{-}o{-}o{-}o{-}o{-}ou!!"
+"Evaaaaaaaaaa, how could you?!!
+ I\'ll kill you! I\'ll kill yooooooooou!!"
 "I, .........I didn\'t shoot her... I didn\'t...
  I, ......I told her to stop, and she just jumped at me, and...!!"
 Krauss, who had just seen his wife killed before his eyes, had lost all traces of rationality in his expression.
 He was so furious that, if he had knocked Hideyoshi aside and jumped at Eva, he might have torn her throat out.
 "Why did you kill her?! Why did you kill her?!
- Evaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aa!!"
+ Evaaaaaaaaaaaa!!"
 "It was an accident, ...an accident...!!
  Calm down, Krauss nii‐san...!!
- ......Ow{0}ow{0}ow{0}ow{0}ow{0}ow, .........nngg{0}g{0}g{0}g{0}g{0}g{0}g{0}gghhhh......"
+ ......Owowowowowow, .........nngggggggggghhhh......"
 Another explosion rang out.
-{n}Hideyoshi\'s face was covered with blood.
+Hideyoshi\'s face was covered with blood.
 The two of them had been fighting over the gun Krauss held, trying to push it away from themselves.
 When the barrel had turned to point at Krauss\'s chin, .........the sneering, formless reaper, master of the room of gold, had swung its scythe once more.
 A line of blood......trickled from Krauss\'s mouth.
-"U‐......uwa{0}a{0}a{0}a{0}a{0}aahh, ...hyaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh...!!"
+"U‐......uwaaaaaaahh, ...hyaaaaaaaaaaahhh...!!"
 The two fell down, with Krauss\'s body on top of Hideyoshi.
 Letting out a cowardly cry, Hideyoshi backed away before Krauss\'s body could cover him...
 "H‐......honey...!!"
@@ -1407,7 +1407,7 @@ There wouldn\'t even be remnants of the corpses.
 Shaking, Hideyoshi frantically searched for a counterargument, hoping to repudiate Eva\'s mad idea.
 .........But he couldn\'t find one.
 If they blew everything up, the facts would all be muddled......
-{n}They could make it look as though Krauss and Natsuhi had died in an explosion accident......!
+They could make it look as though Krauss and Natsuhi had died in an explosion accident......!
 "It\'s perfect, just perfect...!!!
  After all, it was an accident that they died anyway!
  We\'re just changing the type of accident!!
@@ -1422,7 +1422,7 @@ If they blew everything up, the facts would all be muddled......
 "That\'s what we\'ve got to think up now, stupid Rosa!!!
  It doesn\'t matter what it is, as long as we all agree to it!!
  I\'ll think of something... I am thinking... You all think too!!
- Someone think of somethii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}ing!!!"
+ Someone think of somethiiiiiiiiiiiing!!!"
 "C‐calm down, Eva...
  I\'ll think about it, and so will everyone else!
  We\'ll definitely think of something, and it\'ll all work out!
@@ -1482,7 +1482,7 @@ Eva\'s face twisted in anguish, ......and was met by Rosa\'s look of cold unconc
  It\'s pouring rain now, so the police probably won\'t find any contradictions in the crime scene."
 "I\'ll let you think of an excuse for why you and Nii‐san started fighting while you were holding guns in the rainy rose garden.
  ......Don\'t try to get us and our shares involved just because you want to hide your crime."
-"R‐Rosaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!"
+"R‐Rosaaaaaaaaaaaaaaaaaaaaa!!!"
 "It\'s not so bad, right?
  It\'s not like they\'ll lock you up for decades.
  It was an accident, right? You\'ll be able to get out after just a few years.
@@ -1506,7 +1506,7 @@ What would happen if they were arrested?
 The life, the company, and the trust that Eva and her husband had worked so long to build...... Those were things that couldn\'t be bought back with money.
 So, she wanted to hide Krauss and Natsuhi\'s deaths, even if it meant blowing up all 4.7 billion yen worth of her gold...!
 But from Rosa\'s perspective, that was just irrational nonsense.
-"R‐Rosaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!"
+"R‐Rosaaaaaaaaaaaaa!!"
 "What do you think you\'re doing with that gun, Nee‐san?
  ......Are you going to "misfire" and kill me too?
  That\'ll make finding an excuse even harder.
@@ -1540,7 +1540,7 @@ no, that slight smile—was one that Eva had never seen before.
  I\'m not going to run off! I would never, ever run away with money!
  ...I, .......I would never do thaaaaat!!!"
 Rosa\'s once‐stony expression was filled with rage.
-{n}The two howling people pointed their guns at each other, shouting insults at each other......
+The two howling people pointed their guns at each other, shouting insults at each other......
 You could smell the gold room\'s reaper slinking closer.
 The smell of gunpowder, the explosive smell of death, ......filled the room......
 Blorp.
@@ -1616,7 +1616,7 @@ Eva fiddled with the lever action, trying to imitate something she vaguely remem
  It\'s pretty hard."
 "Y‐......you.........!!!"
 Kyrie finished reloading with a fluid motion.
-{n}The way she held it was as innocent and sure as a kid playing with a squirt gun.
+The way she held it was as innocent and sure as a kid playing with a squirt gun.
 With another heartless cry of gunfire, the puppet called Eva slumped down to the floor...
 as though all her strings had been cut......
 "......Rudolf‐san.
@@ -1901,10 +1901,10 @@ Rudolf reflexively averted his gaze from the cold glint in her eyes, but then he
 "And you aren\'t a villain in some old western, got it?
  Don\'t grant any last requests or ask for any last words, okay?"
 Kyrie lifted up her gun again and pulled on the lever.
-{n}......To eject the casing from the bullet she had killed Gohda with.
+......To eject the casing from the bullet she had killed Gohda with.
 ".........Honey......
  ......Honeyyyy...
- Uuuughhhuu{0}u{0}uuu......"
+ Uuuughhhuuuuuu......"
 Eva was holding Hideyoshi\'s body and crying.
 She hadn\'t been shot at all.
  The bullet had grazed the side of her head......and missed.
@@ -2015,7 +2015,7 @@ As the sound of gunfire thundered through the rain, George grabbed at his side a
 "S‐somebody......!!
  Help me, ...Uncle Rudolf is......!!"
 George started stumbling away, still clutching at his side.
-{n}His voice as he called for help was weak and thin.
+His voice as he called for help was weak and thin.
 Behind him, Rudolf looked perfectly calm as he fiddled with his gun and inspected the sights.
 "......It hurts...... ...It hurts......
  ......Gah, .........nngg...!"
@@ -2076,9 +2076,9 @@ Biting down the pain in his side,
  ......and summoning the last of his strength, George threw his whole body into a roundhouse kick.
 At the same time, fire spat from Rudolf\'s gun.
 ......The bullet pierced George\'s chest.
-{n}George twisted and fell as blood gushed from the wound.
+George twisted and fell as blood gushed from the wound.
 He moaned wordlessly, clenching blood‐stained teeth.
-{n}The frigid gun was pressed harshly against his temple.
+The frigid gun was pressed harshly against his temple.
 "So long.
  ......Go become a great man in the next world.
  Don\'t get blinded by money like me."
@@ -2092,7 +2092,7 @@ He moaned wordlessly, clenching blood‐stained teeth.
 The ruthless trigger forestalled any further questions.
 George\'s hands, which had been covering his wound, dropped lifelessly......
 After Rudolf saw the last glimmer of life leave him, he let out a deeply exhausted sigh he\'d been holding back for some time.
-"Hahh. ......Ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha.
+"Hahh. ......Hahahahahahahahahaha.
  .........I expected worse."
 Rudolf looked up into the dark, rainy sky, the rain drops hitting him full in the face,
  ......and laughed with an indescribable expression, his tongue hanging out.
@@ -2100,8 +2100,8 @@ Rudolf looked up into the dark, rainy sky, the rain drops hitting him full in th
  ......Now that it\'s over, ...I\'m surprised how little I feel."
 *chuckle*chuckle*,
  gahahahahahaha.
-{n}Rudolf started laughing.
-{n}This was probably just the thing Kyrie had hoped for.
+Rudolf started laughing.
+This was probably just the thing Kyrie had hoped for.
 It had taken some effort to kill George.
 ......Though he had been merciless, the last traces of conscience in Rudolf\'s heart had probably slowed him down.
 However, now that he had killed someone with his own hands, a turning point that few people ever reach, ......Rudolf had finally awakened.
@@ -2118,11 +2118,11 @@ The only difference now is that, for the first time,
  .........I\'ve dealt the final blow with my own hands.
 ".........Thanks, Kyrie.
  ......You\'re always the best at cutting away my naivety.
- ......Heheheh, ...heh{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}hah!
- Hyahh{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}haha!!!"
+ ......Heheheh, ...hehhahahahahahahaahah!
+ Hyahhhahahahahahahahahaahahahaha!!!"
 Rudolf\'s evil laugh rang out.
 The laugh was so purely evil, it was almost refreshing.
-{n}Evil that still has a conscience and thinks itself good is far more repulsive to behold.
+Evil that still has a conscience and thinks itself good is far more repulsive to behold.
 If a man commits himself to an evil act, how much more pleasant and graceful it is when he is honest about his intentions.
 In that sense, Rudolf\'s evil smile and laugh...
 .........truly were pleasant and graceful......
@@ -2135,7 +2135,7 @@ A clang.
 ......Each time, a red splash landed on the nearby dangling tablecloth.
 "Jessica‐chan, .........are you listening......?"
 Kyrie asked this with the sort of smile any aunt might make to her niece.
-{n}However, Jessica didn\'t answer.
+However, Jessica didn\'t answer.
 There was nothing particularly surprising about this.
 ......After all, by now,
  ......her nose was broken,
@@ -2264,11 +2264,11 @@ Her cheek......was still covered with Jessica\'s blood......
 Under the eaves, Kyrie folded up her umbrella, smiled, and spoke to no one.
 "How\'s it going, everyone?"
 Rudolf could be seen under the eaves of the chapel.
-{n}He had hidden his gun in the nearby shadows and was now smoking a cigarette...
+He had hidden his gun in the nearby shadows and was now smoking a cigarette...
 ".........Should be easy to trick that dimwit.
  ......And if it doesn\'t work, that\'s just too bad."
 He glanced over at the place he had stowed his gun.
-{n}The cigarette smoke began to pleasantly cloud his mind.
+The cigarette smoke began to pleasantly cloud his mind.
 ......Battler isn\'t a kid anymore.
  He\'s an adult, who can choose his path through life as he pleases.
 When animals grow up, it\'s normal for them to leave their group and go on a journey.
@@ -2323,7 +2323,7 @@ Gunfire.
 ".........Rudolf...
  I\'ve always been able to see through your tricks...!!"
 The bullet Eva fired had struck Rudolf square in the chest.
-{n}The bullet Rudolf fired had missed, landing near Eva\'s feet.
+The bullet Rudolf fired had missed, landing near Eva\'s feet.
 "Guess I was right...
  This gun...
 ......does shoot...
@@ -2346,19 +2346,19 @@ Eva dashed up to him, kicked away the gun that had fallen into a puddle, and gra
 ...you............"
 Eva, who said she had always been able to see through her little brother\'s tricks,
  ......also knew that Rudolf\'s final words, as his consciousness began to fade from having been shot, were not a lie.
-"How could you...... .........George... Geoo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}orge!!!"
+"How could you...... .........George... Geoooooooooooooooooorge!!!"
 An empty shell casing bounced off the cobblestone.
  The furious gun barrel was pressed against Rudolf\'s forehead.
 ".........Go ahead and shoot.
  ......I doubt that\'ll bring you much peace though."
 A bolt of lightning turned everything white.
-{n}However, the wall of the chapel......was stained blood red.
+However, the wall of the chapel......was stained blood red.
 A red splash like a crushed tomato covered the wall behind Rudolf\'s head......
 Then, leaving a red trail behind him,
  ......Rudolf slid down the wall,
  sat on the ground, and fell over.
-"George, Geooo{-}o{-}o{-}o{-}o{-}o{-}orge!!
- Geooo{-}o{-}o{-}o{-}o{-}o{-}orge, uwaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!"
+"George, Geooooooooorge!!
+ Geooooooooorge, uwaaaaaaaaaaaahhh!!"
 Eva dashed off towards the bushes.
  ......She found George\'s corpse almost immediately, screamed, and broke down sobbing.
 ......Rudolf\'s bloody corpse was exposed to the rain that ran down off the eaves.
@@ -2413,10 +2413,10 @@ Another shadow appeared in the next seat over, turned around, and scolded the pa
  ......*giggle*giggle*."
 "The tragedy is already reaching its climax.
  Who\'ll survive, I wonder?
- Eheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh......"
+ Eheheheheheheheheh......"
 {f:5:Bernkastel} isn\'t the Game Master...?
 Then who is?
-{n}Could Clair have created this cruel tale......?
+Could Clair have created this cruel tale......?
 Or are there even more witches playing around with this cat box......?
 The guesthouse......was wrapped in silence.
 There were no sounds.
@@ -2424,14 +2424,14 @@ No trace of anyone\'s presence.
  No breathing from anyone alive.
 There wasn\'t anything to be heard anymore......
 If there was a sound...
-{n}Then that would be only the sound of a murderer\'s feet stepping across the floor......
+Then that would be only the sound of a murderer\'s feet stepping across the floor......
 Kyrie slowly passed through the lounge.
 In her right hand...was a gun.
-{n}In her left hand...was a knife.
+In her left hand...was a knife.
 The knife was stained with blood, and some was still dripping from the tip,
  ......leaving behind red tracks like a demon\'s footprints......
 Her hands were filled with tools of murder.
-{n}So, she wasn\'t capable of doing anything but murder.
+So, she wasn\'t capable of doing anything but murder.
 In that sense, at this moment, she was nothing more than a pure and unadulterated murderer.
 ......The murderer reached the front door, and then, finally, she looked down at her blood‐stained hands.
 The hands that carried the tools of death with which she had performed her cruel massacre.
@@ -2459,7 +2459,7 @@ Did the murderer not want an umbrella to get in the way of her pointing her gun?
 "......................................."
 Kyrie stopped walking.
  As though something unexpected had caught her attention.
-{n}However, this time, it was no whim of hers......
+However, this time, it was no whim of hers......
 ".........How could you...
 ...kill my husband......?!!!"
 "Oh,
@@ -2521,7 +2521,7 @@ Back then, she probably had been saved by that coincidental misfire.
 If the argument had continued much longer, she would surely have grown a desire to kill Krauss and the others, and might even have carried it out.
 ......She simply could not deny the existence of that demon deep within her heart.
 Only the theatergoers knew.
-{n}They knew that she could become a killer in another world.
+They knew that she could become a killer in another world.
 And Kyrie, who did not have the theatergoing ability, knew this fact also.
  ......Apparently, she really was an extraordinary person.
 So, for some time, Eva could only grind her teeth in silence, still pointing her gun......
@@ -2565,7 +2565,7 @@ So, for some time, Eva could only grind her teeth in silence, still pointing her
 "No one would have children for a reason like that...!!"
 "Some people would have children for a reason like that."
 Kyrie kept on speaking emotionlessly, ignoring the falling rain......
-{n}Her relaxed smile did not falter for an instant.
+Her relaxed smile did not falter for an instant.
 "Ange was just a chain I used to tie Rudolf‐san to me.
  ......Or, you could call her a chess piece, someone to play the role of the kid in our family drama.
  ......To me, Ange was nothing more than a piece, necessary so that I could act the part of the good mother in front of Rudolf‐san."
@@ -2588,8 +2588,8 @@ Kyrie kept on speaking emotionlessly, ignoring the falling rain......
 "You\'ve been released from your family drama too, haven\'t you?
  Let\'s sing the praises of a woman\'s freedom.
  You should thank me for having George‐kun killed for you."
-"Y‐......you.........monstee{-}e{-}e{-}e{-}e{-}e{-}e{-}eer!!"
-"Ahhah{0}ha{0}ha{0}ha{0}hah{0}ha{0}a{0}ahh{0}hyah{0}ha{0}ha{0}ha{0}haa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhhh!!!"
+"Y‐......you.........monsteeeeeeeeeer!!"
+"Ahhahhahahahahhaaahhhyahhahahahaaaaaaaaaaaahhhhh!!!"
 The two yells...and the sound of gunfire......thundered across the dark rose garden.
 ......Slowly, Eva fell backwards.
 Then, she landed in a puddle, ......scattering countless drops of water.
@@ -2607,7 +2607,7 @@ However, when the thunder roared, it was only Eva who sat back up...
 Eva hadn\'t been shot.
 Kyrie\'s intensity had made her fall backwards, ......but the bullet had once again only grazed her......
 Eva cursed her good luck.
-{n}Why couldn\'t this luck have saved her husband or her son?
+Why couldn\'t this luck have saved her husband or her son?
 "............Die there......for Ange‐chan\'s sake.
  .........You\'ll be killed in the explosion accident.
  Until the moment of your death, you worried about the daughter you left behind.
@@ -2648,14 +2648,14 @@ There......was Clair, the one who had appeared for just a second right before th
 Clair didn\'t answer.
 ......In fact, ......it looked as though she hadn\'t even heard.
 Her eyes were blank, and you couldn\'t tell what she was looking at.
-{n}In fact, she was even forgetting to blink...
+In fact, she was even forgetting to blink...
 ......She looked......just like a doll......
 Then, another beam of light lit up the side of the stage.
 Under that light......stood {f:5:Bernkastel}.
 At the same time, though there appeared to be no one in the audience, a large applause rang out...
 "........................*giggle*."
 {f:5:Bernkastel} raised her right hand in response to the applause.
-{n}She kept doing so until the applause died down......
+She kept doing so until the applause died down......
 "{f:5:Bernkastel}‐san!!
  So, ......you were the Master of this game after all...!!"
 "......Lion.
@@ -2774,15 +2774,15 @@ Everyone rejected the explosion accident theory and started to think up conspira
 Some of those theories named Eva as the culprit, which tormented her even more.
 But Eva used even that to create the cat box.
 And until the moment of her death, she protected it.
-{n}She protected the lock that held the cat box shut.
+She protected the lock that held the cat box shut.
 So, no {y:0:Human}{n:0:human} would ever reach the truth inside the cat box.
-{n}Not unless the witches who crossed the sea of fragments opened the lock......
+Not unless the witches who crossed the sea of fragments opened the lock......
 "This is the truth."
 "...............You\'re lying......
  ......You\'re lying......lying...!!
  If this was actually true, you\'d be able to say it using the red truth!!
  But you can\'t, of course you can\'t!!
- Aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahh!!!"
+ Aaaaaaaaaaaaaaaaaaaaaahh!!!"
 "Ange...!!
  Ange, calm down...!!
  Ungh, ......ah...?!"
@@ -2801,7 +2801,7 @@ This is all truth}
 }
 Ange\'s scream covered up Bern\'s red truth.
 "*giggle*giggle*giggle*,
- ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!
+ ahhahahahahahahahahaha...!!
  Stupid kid.
  If only you hadn\'t made me say that, I could\'ve shut it up inside the cat box."
 "But you did tell me to, right?
@@ -2810,18 +2810,18 @@ Ange\'s scream covered up Bern\'s red truth.
 ".........What a lovely expression, one that\'ll keep me laughing for about a hundred years.
  ......*giggle*giggle*, *giggle*giggle*giggle*giggle*!!!
  Go back to being scrap meat.
- Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!!"
-"Uwaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahh, gyaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!"
+ Ahhahahahahahahahahahahahaha!!!"
+"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaahh, gyaaaaaaaaaaaaaaaaaaaaaahhhh!!"
 "Mom, Dad,
  ......it\'s a lie, right?!
  Lies,
  ......lies......
-...gyaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh........."
+...gyaaaaaaaaaaaaaaaaaaaaaaaahhhh........."
 "A‐Ange......!
  Ange......?!"
 As Ange held her head and screamed, the blood dripping from her finally grew so thick that it started scattering all over the place.
 Then, bit by bit, her body began to melt—no, to fall apart.
-{n}Then, bits of her began to pile up on the chair, ......until she was nothing but a pile of guts and scraps......
+Then, bits of her began to pile up on the chair, ......until she was nothing but a pile of guts and scraps......
 "Ahhahahahahahahahahahahah, aaaahhahahahahaaaaahhaahaha!!
  Is the truth really such a precious thing?
  How absurd, how foolish!!"
@@ -2837,10 +2837,10 @@ Then, bit by bit, her body began to melt—no, to fall apart.
 "You sealed everything in a cat box, and Eva provided the lock.
  *giggle*giggle*!!
  And I\'ve sliced that box open for you...!!"
-"Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha,
+"Ahhahahahahahahahahaha,
  all that effort you spent to hide it has gone to waste!!
  I\'ve exposed all of the truth you hid with your death!!
- Ahha{0}ha{0}ha{0}ha{0}hah{0}hah{0}hah{0}hah{0}hah{0}ha!!"
+ Ahhahahahahahhahhahhahhahha!!"
 "Is that......what you\'ve been after?!
  You......did all of this just to insult Clair\'s death?!!
  And then...you showed it to Ange to make her suffer...!
@@ -2874,7 +2874,7 @@ lives in happiness in another world."
 In the cruel tale they had just been shown, the parlor hadn\'t been particularly important.
 Jessica had been summoned to the parlor, but she was then immediately led to the dining hall and killed there.
 So, there had been nothing in the parlor.
-{n}And, right now, there was nothing in the parlor that appeared before Lion.
+And, right now, there was nothing in the parlor that appeared before Lion.
 "Just what is supposed to be here?"
 "*giggle*.
  ......As you can see, there\'s nothing here.
@@ -2899,7 +2899,7 @@ On the white, blank wall...
 by bit...
 ...a splash of blood seeped into view.
 Then, right there, .........a corpse appeared.
-{n}But, ......that couldn\'t be.........
+But, ......that couldn\'t be.........
 "Th‐
 ......this is......
 ......m‐
@@ -2982,7 +2982,7 @@ He was confident that no one would be able to solve this tough riddle, which he 
 and are killed by Kyrie tonight."
 ".........In other words, your fate—no, the fate the two of you share—traps you in an inescapable dead end, a hell of fate, with a 2,578,917 out of 2,578,917 probability.
  .........To put it another way, it\'s a certain fate, with absolutely no chance for a miracle!"
-"*giggle*, ehe{0}he{0}he{0}he{0}he{0}he{0}he{0}he{0}heh!!
+"*giggle*, eheheheheheheheheheh!!
  Too bad for you, Clair.
  No, {f:5:Beatrice}."
 A bright light seemed to turn the world white—then, the next moment, they were back in the theater.
@@ -3011,20 +3011,20 @@ However, the sky beyond the bars...
  Can you see this?!
  And do you remember?
  Remember when I promised you that there would be absolutely no miracles?!"
-"Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah, ahha{0}ha{0}ha{0}ha{0}haa{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!
+"Ahhahahahahahahah, ahhahahahahaahahahahahahahaha!!
  So, Lion!
  Allow me to return you to your world, right before Beato\'s eyes!!"
 "It looks like the Witches of Theatergoing are all sick and tired of those happy family get‐together scenes.
  So, I\'ll send you to the moment just before Kyrie shoots you!
  Then, I\'ll make sure Beato witnesses that moment!!"
-"Ahha{0}ha{0}ha{0}ha{0}hah{0}hah{0}hah{0}ha{0}haha!!
+"Ahhahahahahahhahhahhahaha!!
  Die, pukespittle Lion!
- The last hope of pukespittle Beato, uhyah{0}hah{0}hyaah{0}ha{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!!"
+ The last hope of pukespittle Beato, uhyahhahhyaahhaaaaaaaaahhh!!!"
 {f:5:Bernkastel} raised her reaper scythe,
  .........swung it down with gusto,
  ......and plunged it deep into Clair\'s stomach......
 "Did you think you\'d get an easy death?
- Hehihi{0}hi{0}hi{0}hi{0}hihi!!
+ Hehihihihihihihi!!
  But humiliating a corpse and tearing out its guts is what I\'m best at...!!"
 Heartlessly, ruthlessly, brutally, ......she swung the enormous blade buried in Clair\'s stomach back up towards the heavens.
 .........Along a vertical line from Clair\'s stomach to her chest,
@@ -3050,7 +3050,7 @@ Her red‐black innards...
 "That\'s right, I\'m...furniture......!!
  Furniture...!!
  Why, .........why didn\'t you let me die back then?!!
- Aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh......!!!"
+ Aaaaaaaaaaaaaaaahhhh......!!!"
 "..................Huh—"
 When I came to,
  ......I was in the parlor of the mansion.
@@ -3117,7 +3117,7 @@ The chains and shackles shattered into little bits like glass...then vanished.
  .........Lion\'s fate is decided by Lion.
  You can\'t use a human\'s fate like a toy."
 ".........*giggle*giggle*,
- hah{0}ha{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha...!!
+ hahhahahhahahahahahahahaha...!!
  You\'ve got guts, saying that to the great {f:5:Bernkastel}, witch of the Senate!
  I have no more use for you either, get it...?"
 "You\'ve shown that Beato\'s fantasy is a mystery and cut it to pieces.
@@ -3168,7 +3168,7 @@ Bit by bit, and yet unceasingly, it continued to pierce Lion\'s chest......
  I\'ll be the one pinching your ass...!"
 "............O‐.........okay......"
 "*giggle*giggle*.
- Ahha{0}ha{0}ha{0}hah{0}hah{0}hah{0}hah{0}hahha!!
+ Ahhahahahahhahhahhahhahha!!
  How very confident you are, telling this kid to be a miracle when you stand before the Witch of Miracles...!
  Miracles are no more than fantasy!
  Grovel in this world that has been convicted as a mystery, and die horribly like a worm!
@@ -3179,7 +3179,7 @@ Bit by bit, and yet unceasingly, it continued to pierce Lion\'s chest......
  ......Let the cat who wants to be made into a shamisen strike first."
 "Gah, what a pain.
  Let\'s have all of you at once!
- I\'m Willard {nobr:H. Wright}, SSVD\'s Chief Inquisitor.
+ I\'m Willard H. Wright, SSVD\'s Chief Inquisitor.
  This\'ll be the final time I draw my sword...!"
 "Trash him, kitties."
 At once, all of the cat eyes opened wide, undulated and spun in a spiral, then swallowed Will up.
@@ -3209,7 +3209,7 @@ On either side of Clair, who lay with her insides exposed,
  You\'re calling it that to try and let Lion escape fate?
  By all means, try.
  *cackle*cackle*, *giggle*giggle*giggle*!!
- Ahh{0}hah{0}hah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha, hiiyaa{0}a{0}a{0}a{0}aah{0}haa{0}a{0}a{0}a{0}a{0}aahhh!!!"
+ Ahhhahhahhahhahahahahahahahaha, hiiyaaaaaaahhaaaaaaaahhh!!!"
 "
 Rule #1. It is forbidden to have a crime without all clues presented}."
 ......Will\'s black sword had cut through {f:5:Bernkastel}\'s body at a diagonal angle.
@@ -3226,11 +3226,11 @@ However, it had no effect, ......like cutting the reflection of the moon on the 
 "......Huuh...?"
 It is impossible for an unprovable truth to become truth in the {y:0:Human}{n:0:human} world.
 In other words, even the truth cannot leave the cat box.
-"Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!
+"Ahhahahahahahahahahahaha!!
  Are you trying to shut the {i:truth} inside the cat box?
  *giggle*giggle*, is this how the mystery genre is supposed to fight?
- Ahhahhah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!
- Hiiyahhha{0}ha{0}ha{0}ha{0}haha{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhh!!"
+ Ahhahhahhahhahahahahahahahaha!
+ Hiiyahhhahahahahahaaaaaaaaahhh!!"
 With a laugh like the howl of a wild animal, {f:5:Bernkastel} carelessly tossed her scythe aside.
 "You\'re not even worth fighting.
  Get over here, pukespittle.
@@ -3241,7 +3241,7 @@ With a laugh like the howl of a wild animal, {f:5:Bernkastel} carelessly tossed 
 "And when you realize that you can\'t defeat me with those twenty wedges, .........you know what\'ll happen next, right?
  *giggle*, come on.
  I\'ll play with you, ......and these twenty wedges of yours!"
-"Haaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aahhhh!!!"
+"Haaaaaaaaaaaaaaaaaaaaaaaaaaaahhhh!!!"
 Trying to ignore an incredibly painful chest, ......Lion kept on running and running without stopping.
 I dashed out of the theater of the Witches of Theatergoing, then ran through an incomprehensible world of blackness.
 Before I knew it, I was running through a place that looked like a sea of stars,
@@ -3251,7 +3251,7 @@ No, if I get careless, I won\'t be able to tell whether I\'m running or just mak
  ......endlessly sinking deeper into the ocean of stars.
 I just kept on running, without any goal or target.
 I mustn\'t stop moving.
-{n}I mustn\'t fall here.
+I mustn\'t fall here.
 If I fall, ......I\'ll crush the hope of the "me"s in countless worlds...
 The happy world that the {f:5:Beatrice}s dreamed of.
 I\'m their last hope, the only one who can reach that world...
@@ -3292,7 +3292,7 @@ Though this place had once felt like a sea filled with stars, both above and bel
 That huge number of stars, grouped in even‐numbered clusters, all glared at the two of them...
 Will was holding Lion with one arm.
  He couldn\'t take his sword out.
-{n}However, he didn\'t let go.
+However, he didn\'t let go.
 ......He was determined to let Lion escape from here, and to lead Lion towards the happy tale that the {f:5:Beatrice}s had dreamed of.
 Through the cats whose eyes glowed in the empty darkness...the queen of cats who permitted no miracles appeared......
 ".........Willard.
@@ -3333,7 +3333,7 @@ As he said this, Will held Lion tight.
 "We won\'t give up on the chance of a miracle...!"
 "I\'m amazed you can say that when the Witch of Miracles has promised you that there will be absolutely no miracles.
  .........*giggle*giggle*,
- ehheh{0}eh{0}eheha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!
+ ehhehehehehahahahahahahahaha!!
  So long, you two.
  Go collect dust in the depths of oblivion, unable even to die, and disappear!!"
 "Come, my kitties.
