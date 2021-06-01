@@ -26,7 +26,7 @@ To confirm these, she went around the mansion with them,
  It\'s absolutely impossible for a {y:0:Human}{n:0:human}.
  .........Want to check?"
 "Just in case.
- And we also need to take this opportunity to reexamine what Lady {f:5:Bernkastel}\'s goals are likely to be from now on."
+ And we also need to take this opportunity to reexamine what Lady BERNKASTEL\'s goals are likely to be from now on."
 "As they say, if you know your enemy, you need not fear the outcome of a hundred battles."
 "If you know the truth, you can win a hundred battles without fighting."
 "Pukkukukukuku.
@@ -60,10 +60,10 @@ Apparently, even Gaap had respect for the dead...
  If you took away my high spirits, my bewitching <body>,
  and my pleasant disposition, I\'d have nothing left!
  Wahaha."
-For some reason, {f:5:Virgilia} praised Beato for her high spirits.
-Though Beato was taken aback at such granny‐like words coming out of {f:5:Virgilia}\'s mouth all of a sudden,
+For some reason, VIRGILIA praised Beato for her high spirits.
+Though Beato was taken aback at such granny‐like words coming out of VIRGILIA\'s mouth all of a sudden,
  she answered while bumping a fist against her chest.
-{f:5:Virgilia} had been absent often during this game.
+VIRGILIA had been absent often during this game.
 She might even have been away from her seat when Battler solved the epitaph and during the uproar that followed.
 Apparently, she had been absent for so many critical points...
 that she didn\'t have a very good grasp of what had happened so far in this game...
@@ -88,7 +88,7 @@ at a glance, anyone could confirm that these corpses are dead, so it is absolute
  She must have something in mind that will benefit Milady."
 "......Hmmm."
 But they had hidden the corpses here so that no one could use the red...
-Despite that, however, Ronove was right—{f:5:Virgilia} always thought of {f:5:Beatrice} first.
+Despite that, however, Ronove was right—VIRGILIA always thought of BEATRICE first.
 The way that these corpses, which Gaap had gone to all the trouble of erasing, had now been confirmed with the red made a slightly displeased expression rise to Gaap\'s face.
 However, in the end she remembered that she was only a guest and shrugged.
 "Why did you have Gaap hide the corpses?"
@@ -139,7 +139,7 @@ that the sacrifices of the first twilight were only playing dead."
  ......And we already know that Natsuhi is probably about to be lured into yet another trap."
 "A trap?"
 "Mm.
- Someone Lady {f:5:Lambdadelta} created, who calls himself a man from 19 years ago, has already threatened Natsuhi.
+ Someone Lady LAMBDADELTA created, who calls himself a man from 19 years ago, has already threatened Natsuhi.
  She was ordered to go into a closet in a certain guest room at 1 p.m., which is only a few minutes away, and hide there.
  ......Krauss was taken as a hostage, so Natsuhi can\'t resist."
 ".........I see.
@@ -718,8 +718,8 @@ It was so painful to see that Shannon and Kumasawa stripped the blanket off the 
 "......It\'s impossible...
  The shutters and the chain were firmly set.
  ......Even with a master key, it\'s impossible to force your way into that room......!"
-"It must have been {f:5:Beatrice}‐sama\'s doing.........oooohhhhh......"
-"......Th‐there\'s no way {f:5:Beatrice}‐sama did this...
+"It must have been BEATRICE‐sama\'s doing.........oooohhhhh......"
+"......Th‐there\'s no way BEATRICE‐sama did this...
  ......The epitaph has been solved, so there shouldn\'t be any more reason to hold the ritual..."
 "As if we could understand her reasons...
  This is impossible for anyone except a witch...!"
@@ -878,7 +878,7 @@ That ever since Erika had left into the corridor to go check the crime scene in 
 In short, from Erika\'s point of view, the sound of that lock was truly...
 "Checkmate."
 Erika said that suddenly.
-{f:5:Bernkastel} said that suddenly.
+BERNKASTEL said that suddenly.
 "Oh, fast!
  Wow, so you\'ve figured out the culprit already?
  We\'ve barely gotten to any of the crimes, you know?
@@ -890,7 +890,7 @@ Erika said that suddenly.
  Why don\'t you show me what you\'ve got?
  *giggle*giggle*...!!"
 "To think that she\'d lay down the challenge without waiting for the game to be over at midnight...!
- What a hasty person, that Lady {f:5:Bernkastel}...!"
+ What a hasty person, that Lady BERNKASTEL...!"
 "It is quite an early challenge.
  To think that she already feels she can win at this stage..."
 "......Claiming a witch exists is normally all you need to do to win,
@@ -898,19 +898,19 @@ Erika said that suddenly.
  ......Sounds like this fight\'ll be a pain."
 "I welcome a troublesome fight!
  I won\'t let them do as they please with my golden island any more...!!
- I shall meet your challenge, Lady {f:5:Bernkastel}!
+ I shall meet your challenge, Lady BERNKASTEL!
  Furudo Erika!"
 ......In the Golden Land, the endless rain continued to fall.
 Battler was nowhere to be seen.
 It would very soon reach the time when Battler had joined in on the fifth game,
  and control of his piece would be passed on to him.
-In other words, only now, in this final stage of the game when {f:5:Bernkastel} had pinpointed the culprit,
+In other words, only now, in this final stage of the game when BERNKASTEL had pinpointed the culprit,
  was Battler finally going to be allowed to participate.
 He had left the arbor a short while ago for that reason.
-Now, the only ones in sight were {f:5:Virgilia}, who continued to knit silently,
+Now, the only ones in sight were VIRGILIA, who continued to knit silently,
  ......and Beato, ...who just sat there blankly amidst the smell of her black tea,
  not even putting the cup to her lips......
-{f:5:Virgilia} stopped knitting for a moment...
+VIRGILIA stopped knitting for a moment...
 ...and looked out across the vast golden rose garden that extended as far as the eye could see.
 "......At least in terms of mere culprit‐guessing games,
  ......I think we can say that Battler‐kun has gained the strength to never again surrender."
@@ -922,12 +922,12 @@ Now, the only ones in sight were {f:5:Virgilia}, who continued to knit silently,
  even if the game goes on to repeat a hundred times,
  he will never solve it.
  He\'ll just wander forever like someone trying to find the blue bird."
-And that, ............{f:5:Beatrice},
+And that, ............BEATRICE,
  goes for you as well.
 Even if you play this game hundreds more times,
  you will never arrive at the answer you seek.
-{f:5:Bernkastel} will abuse this game without a doubt.
-{f:5:Lambdadelta} will also churn this game about with the utmost arrogance.
+BERNKASTEL will abuse this game without a doubt.
+LAMBDADELTA will also churn this game about with the utmost arrogance.
 At a glance, that may be humiliating and appear to you and Battler as though the game has been stolen from you.
 .........However.
 That is something the two of you need right now.
@@ -940,10 +940,10 @@ you called the two of them here.
 "Those two will bring you either victory or defeat.
  But either result will now be one filled with compassion.
  .........You should understand that as well by now."
-{f:5:Virgilia} faced Beato, whom she had come to adore like a daughter,
+VIRGILIA faced Beato, whom she had come to adore like a daughter,
  ......with cold eyes that she must not have shown often.
 It was like the gaze of a mother who, instead of scolding, silently urges their child to recognize their mistake.
-"{f:5:Beatrice}.
+"BEATRICE.
  .........How long do you intend to stay there...
 ...neither alive...
 nor dead,
@@ -951,9 +951,9 @@ nor dead,
 nor descending to hell,
  there in a daze on the peak of Mount Purgatory......?"
 "......................................."
-"I am {f:5:Virgilia}.
+"I am VIRGILIA.
  I have guided him through Purgatory and brought him to you at its peak.
- ......And you are {f:5:Beatrice}.
+ ......And you are BEATRICE.
  You must choose whether to take his hand and rise up to heaven, or embrace him and fall into hell."
 Did you know that the tribulations of Purgatory, which lies in the gap between heaven and hell,
  are sometimes more torturous than even hell itself...?
@@ -977,7 +977,7 @@ Beato was silent,
 "Whether it is alive or dead,
  your cat box eternally desecrates the cat.
  .........Those two have brought you the key to the box that you were too afraid to open."
-{f:5:Beatrice}.
+BEATRICE.
 The time has come for you to die.
 I hope...
 that your heart will be stopped...

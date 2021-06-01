@@ -348,7 +348,7 @@ In contrast to my visible annoyance with the witch\'s attitude, Gretel had a bla
  The point is, we can\'t tell the difference at the current time.
  .........Is that more or less it?"
 "*cackle*cackle*, *cackle*cackle*cackle*!
- Damn you, Lady {f:5:Bernkastel}, for throwing in such a troublesome piece.
+ Damn you, Lady BERNKASTEL, for throwing in such a troublesome piece.
  Thanks to that, I\'m losing all my lines!"
 "The witch has learned to respond to your repetition requests at a separate time.
  ......Maybe you could also call it a "delay"."
@@ -755,7 +755,7 @@ Krauss slid down the wall, rubbing his throat in pain...
 Natsuhi ran up to him and cared for him...
 But Kinzo showed no interest in the two of them,
  and he returned to the space near the window, as though he had been there the whole time, and looked up at the ominous thunderclouds.
-"............I thought that as long as I could meet {f:5:Beatrice}, I would have no regrets in my life,
+"............I thought that as long as I could meet BEATRICE, I would have no regrets in my life,
  but it seems that things won\'t go so smoothly."
 "......It was promised from the beginning that nothing received from the witch would remain.
  However, the Ushiromiya name is not the property of the witch."

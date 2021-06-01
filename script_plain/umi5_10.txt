@@ -218,15 +218,15 @@ Your Hebrew sure is crappy, Lambda.
 "......What the heck...
  What\'s going on?
  Why\'s there a magic circle?"
-"I\'ll bet someone wanted to try imitating {f:5:Beatrice}‐sama.
+"I\'ll bet someone wanted to try imitating BEATRICE‐sama.
  Aha, what a crappy magic circle...!"
 "This isn\'t some funny imitation!
- Some {y:0:Human}{n:0:human} deliberately drew this to make it look like {f:5:Beatrice}‐sama\'s own work...!
- Anyway, let\'s report to {f:5:Beatrice}‐sama about this!"
-"Even though we\'re already up to our eyeballs just protecting {f:5:Goldsmith}\'s secret... ...What a pain."
+ Some {y:0:Human}{n:0:human} deliberately drew this to make it look like BEATRICE‐sama\'s own work...!
+ Anyway, let\'s report to BEATRICE‐sama about this!"
+"Even though we\'re already up to our eyeballs just protecting GOLDSMITH\'s secret... ...What a pain."
 "These murders have no beauty to them at all.
  ......It isn\'t a locked room or anything, and there\'s nothing impossible about it.
- Sloppy murders like this aren\'t worthy of {f:5:Beatrice}‐sama at all."
+ Sloppy murders like this aren\'t worthy of BEATRICE‐sama at all."
 "...Furudo Erika...
  ......An unexpected woman for an unexpected crime.
  ......And there\'s that unexpected man from 19 years ago.
@@ -333,7 +333,7 @@ Kanon hesitantly peeled back Genji\'s blanket,
  Why are murders happening?!"
 "I don\'t know.
  ......In any event, this isn\'t good.
- We should report about this to {f:5:Beatrice}‐sama and Natsuhi‐sama."
+ We should report about this to BEATRICE‐sama and Natsuhi‐sama."
 "Belphe, hurry and report to Luci‐nee...!!"
 "Understood...!"
 After dashing out, Kumasawa called Gohda and Shannon over.
@@ -471,7 +471,7 @@ The voices coming through the door were Kanon\'s and Gohda\'s.
 "I\'ll be watching you all day today, Mother.
  *giggle*giggle*, ahahahaha, oh‐hoh‐hoh‐hoh‐ho!"
 Clack!
-{f:5:Lambdadelta} slammed the receiver down on the antique phone.
+LAMBDADELTA slammed the receiver down on the antique phone.
 Then the phone exploded into bits and changed into a spray of gold, which became a group of gold butterflies and disappeared.
 "*giggle*, dance for me, Natsuhi!
  Dance in fear of your sin 19 years ago!!
@@ -558,7 +558,7 @@ Watching this, Erika smiled condescendingly and shrugged.
 "W‐well, I don\'t have a clue either...!!"
 ".........Is that how it is...?
  ......That damn witch......"
-"So is this really.........{f:5:Beatrice}‐sama\'s doing......?"
+"So is this really.........BEATRICE‐sama\'s doing......?"
 "Why do you all keep talking as if you know something?!!
  I don\'t have a clue!!
  Someone, explain!!"
@@ -599,7 +599,7 @@ Weird.
  *giggle*giggle*!
 "......Even though the epitaph has already been solved...
  ...Who\'s behind this farce......?"
-"It might be the work of this man from 19 years ago, who is thought to be Lady {f:5:Lambdadelta}\'s piece.
+"It might be the work of this man from 19 years ago, who is thought to be Lady LAMBDADELTA\'s piece.
  ......Ah yes, that can\'t be true."
 "......Beato already stated in red in previous games...
 that with Kinzo\'s disappearance, no more than 17 people exist and no 18th person exists.
@@ -611,7 +611,7 @@ that with Kinzo\'s disappearance, no more than 17 people exist and no 18th perso
  Even if a 19th person isn\'t permitted by the red, slipping in a 19th person there...
 is no trouble for me, no trouble for witches...!
  Now it\'s getting interesting. Why don\'t we watch how things unfold for a little longer?"
-"Still, that Lady {f:5:Lambdadelta} and Lady {f:5:Bernkastel}...
+"Still, that Lady LAMBDADELTA and Lady BERNKASTEL...
  They\'ve finally started doing whatever they like with my game board...!"
 ".........Didn\'t you know that would happen when you invited them?"
 "Hmph.
@@ -651,7 +651,7 @@ Then, a hole opened in the ceiling and spat just the chair back out, dropping it
 "......Things are becoming troublesome."
 "Heh, ......heheheheheheheh.
  ......I see.
- So, against Lady {f:5:Lambdadelta}, even I am nothing more than a mere piece.
+ So, against Lady LAMBDADELTA, even I am nothing more than a mere piece.
  They say that in the opening, you should worry more about development than the capture of pieces."
 ".........*cackle*cackle*!
  I\'m just no match for that lady!
@@ -878,7 +878,7 @@ Then she stared at the deep wound in his neck...
  This isn\'t so great.
  ...I can\'t think of anyone who isn\'t bad news."
 It goes without saying, but witches are capable of summoning beings with a strength proportional to their own rank.
-The great Lady {f:5:Lambdadelta} called that being here as a trump card 19th person.
+The great Lady LAMBDADELTA called that being here as a trump card 19th person.
 ......Even optimistically speaking, this is on par with Ronove and me...
 A pitch‐black hole opened in the bed, and Genji disappeared as though the bed had swallowed him up.
 Just like the four in the guesthouse, Genji\'s corpse was hidden in some unknown place...
@@ -915,8 +915,8 @@ Satan went bright red and got angry all by herself, then turned into gold butter
  but their interest will most likely swing back to Kinzo\'s study after that."
 "......There are two keys to the study.
  ...It\'s fortunate that Natsuhi is in possession of both.
- If she had left one with Genji, it would probably have fallen into Lady {f:5:Lambdadelta}\'s hands by now."
-"It seems that Lady {f:5:Lambdadelta} has no intention of hiding Kinzo\'s death.
+ If she had left one with Genji, it would probably have fallen into Lady LAMBDADELTA\'s hands by now."
+"It seems that Lady LAMBDADELTA has no intention of hiding Kinzo\'s death.
  ......Apparently, she plans to fight while ignoring the moat, towers, and ramparts that you have created."
 "Heh, ......heheheh.
  This has become a strange triangular confrontation.
@@ -943,11 +943,11 @@ Satan went bright red and got angry all by herself, then turned into gold butter
 ".........So, they were invited in as advisors,
  ......and they seized control.
  .........*cackle*, ......very interesting.
- ......That Lady {f:5:Lambdadelta}......!
+ ......That Lady LAMBDADELTA......!
  *cackle*cackle*cackle*cackle*cackle*!!"
 "Excuse me!
  ......The {y:0:Human}{n:0:human}s have confirmed the disappearance of Genji\'s corpse in the servants\' quarters.
- ......They have started moving towards Lord {f:5:Goldsmith}\'s study!"
+ ......They have started moving towards Lord GOLDSMITH\'s study!"
 "Riiche.
  ......They\'re coming."
 "Hmph, ......let them come.

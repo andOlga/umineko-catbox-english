@@ -58,12 +58,12 @@ about the other harbor...please tell me about it."
  ......But it was a hidden mansion after all.
  Probably was built where you can\'t see it from the outside.
  ...Anyway, Kuwadorian was that island\'s biggest secret."
-"There\'s a theory that {f:5:Beatrice} was being made to live in Kuwadorian,
+"There\'s a theory that BEATRICE was being made to live in Kuwadorian,
  or else was being confined there... What do you think, Captain?"
 "......I carried over sundries meant for Kuwadorian, too.
  Oftentimes that included stuff only women would use, and fancy stuff at that.
  ......No doubt in my mind, that theory is true."
-"So does that mean you never saw this {f:5:Beatrice} woman directly, Captain?"
+"So does that mean you never saw this BEATRICE woman directly, Captain?"
 "Never.
  Came and went for close to twenty years, and never saw her once."
 "Twenty years...!
@@ -86,7 +86,7 @@ about the other harbor...please tell me about it."
  ......Thought I\'d been given the boot at first."
 "But it wasn\'t long before I realized.
  ......And I kind of got the picture from the reactions of the servants who knew of Kuwadorian, as well."
-".........{f:5:Beatrice} died, and there was no longer any need to take food or people to care for her?"
+".........BEATRICE died, and there was no longer any need to take food or people to care for her?"
 "That\'s what I think.
  I\'ve never been told to take another boat to the back since.
  But after that, Genji‐san came to see me face to face,
@@ -152,7 +152,7 @@ Still, that didn\'t change the fact that it was a bad road.
 At the time, I had been threatened into staying away from the forest because a witch lived there.
 Of course, that fear is gone now, .........but I feel it.
 Other people may not be able to,
- ......but I can feel the presence, like an aura, of the Golden Witch {f:5:Beatrice}...
+ ......but I can feel the presence, like an aura, of the Golden Witch BEATRICE...
 Massive, oddly shaped rocks scattered here and there. Overgrown trees and ivy.
  ......The voices of birds and bugs.
 Yeah, I can feel it.
@@ -566,7 +566,7 @@ She had needed someone to understand the difficulties and pain of her childhood 
  ......had needed someone\'s compassion.
 In order to let her forget her pain and sorrow for least a moment,
  ............the black witch, the very same that possessed Aunt Rosa, ......taught her magic.
-It was the same magic of anger and sadness that {f:5:Beatrice} had taught Maria onee‐chan,
+It was the same magic of anger and sadness that BEATRICE had taught Maria onee‐chan,
  when she was mourning for Sakutarou after he was torn apart.
 ......That same magic, that witch, had surely dwelled inside Aunt Rosa too.
 ............So I was wrong to hate Ushiromiya Eva.
@@ -836,7 +836,7 @@ She...sneered at those happy magics,
  ......ripped them out,
  ......and threw them away......
 "Stop it... Stop it......!!
- Don\'t......defile Lady {f:5:Maria}\'s magic...!!
+ Don\'t......defile Lady MARIA\'s magic...!!
  Don\'t defile it......with your filthy toxin...!!"
 Mammon cried and yelled, ......but she had no way of reaching Kasumi.
 "Who cares, why don\'t you just be defiled foreveeeer?!
@@ -1058,7 +1058,7 @@ Silently, slowly,
 "Quiet!!!
  ............Heh, isn\'t that interesting.
  ...You people have always declined to show this power of miracles because of the anti‐magic toxin.
- .........Disciple of the white witch {f:5:Maria}.
+ .........Disciple of the white witch MARIA.
  Try showing me magic...!!"
 "..........................."
 "......Do you have any clue how many humans have believed in that miracle and been betrayed?"
@@ -1083,7 +1083,7 @@ The instant I opened my eyes, a tremendous wind arose.
 ".........Whaaat......"
 There was a flash behind me, and in an instant, seven high‐level furniture were gathered there.
 It was a power that far surpassed the magical power I\'d had in my prime.
-It was a power that matched even Maria onee‐chan and {f:5:Beatrice}.
+It was a power that matched even Maria onee‐chan and BEATRICE.
 "The Seven Sisters of Purgatory, right here...!!"
 "......A‐Ange‐sama......!"
 "You said it once.
@@ -1104,7 +1104,7 @@ But Ange spoke very quietly.
 "......Huh?"
 "............Mariage Sorcière was created to make people happy.
  ...And also to fight the black witch."
-"The foolish black witch denies the world created by one of the founders, the Witch of Origins, Lady {f:5:Maria}.
+"The foolish black witch denies the world created by one of the founders, the Witch of Origins, Lady MARIA.
  ......In order to show her that miracle,
  ......and in order to protect that world,
  .........believe.
@@ -1383,7 +1383,7 @@ I no longer feel any anger or hatred towards you.
 I just want...
 to let your soul rest in peace.
 Kasumi\'s handgun spat fire.
-Slowly, that bullet continued through a world frozen to the utmost limit, ......making its way towards {f:5:Ange}\'s forehead.
+Slowly, that bullet continued through a world frozen to the utmost limit, ......making its way towards ANGE\'s forehead.
 "Mammon."
 "......Y‐......yes!!
  Mammon the Covetous, right here...!!"
@@ -1544,19 +1544,19 @@ I was in the sky of that nighttime scene, neither standing nor flying,
 a truly dull applause.
 I understood.
  ......It was the one who ordered me to go on this journey,
- ......{f:5:Bernkastel}.
+ ......BERNKASTEL.
 "...............Congratulations,
- Endless Witch, {f:5:Ange Beatrice}.
+ Endless Witch, ANGE BEATRICE.
  At the end of your travels, you understood everything about magic."
 "......Yes.
  .........I now...understand everything about magic.
  .........I am...a witch.
  ......The last witch who inherited the magical world created by Mariage Sorcière."
-".........No one besides you...can tear {f:5:Beatrice}\'s world to pieces."
+".........No one besides you...can tear BEATRICE\'s world to pieces."
 "And it was through coming to know magic.........that I learned also how to resist it."
 "................................."
 "......Magic is made of love and sadness and anger.
- ......No matter how cruel a witch {f:5:Beatrice} might have been,
+ ......No matter how cruel a witch BEATRICE might have been,
  the source of her magic is exactly the same."
 ".........And that\'s why, honestly, I wish I could leave that world of hers alone.
  ......After all, in her eyes at least, that world is complete as it is."
@@ -1566,7 +1566,7 @@ I understood.
  So, although I feel bad about it, I have to fight.
  .........Because the very reason I left on this journey to become a witch...
 ...was so that I could bet on the small probability that I could take my family back."
-"Unless you kill {f:5:Beatrice}, only worlds of isolation can exist for you.
+"Unless you kill BEATRICE, only worlds of isolation can exist for you.
  ......As one who has traveled through billions of fragments, I can guarantee it."
 "............I understand.
  ......I don\'t have room for compassion.
@@ -1575,7 +1575,7 @@ I understood.
 "......It is good that you are steady in your resolve.
  I was worried that, as another witch like her, you might grow attached and lose your will to continue."
 Coming from a person like her, whose face was almost always expressionless, those words felt a bit hollow.
-{f:5:Bernkastel}.
+BERNKASTEL.
  ......The enigmatic witch who invited me on this journey.
 ....................................
 "There were moments when I suspected that you might have been lying to me."
@@ -1603,7 +1603,7 @@ Coming from a person like her, whose face was almost always expressionless, thos
  That\'s exactly right.
  A game is where you each make the best possible move, right?
  If you allow your moves to get distorted by hesitation and indecision, your opponent will be confused as well."
-..................Sorry, {f:5:Beatrice}.
+..................Sorry, BEATRICE.
 But...don\'t hold it against me.
 ......“Ushiromiya Ange” still needs her family.
 So I have the right to fight you...so that I can take them back.
@@ -1614,5 +1614,5 @@ if you do win in this game,
  I\'ll give you my blessing as well.
 Now, let\'s go.
  .........As the piece I am, it\'s finally time for my true turn.
-Sorry, {f:5:Beatrice}.
+Sorry, BEATRICE.
 {e:120:I can\'t hand Onii‐chan over to you...!!!}

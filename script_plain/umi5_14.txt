@@ -18,17 +18,17 @@ But for some reason, no one wondered where this strange place was.
 "Making you acknowledge them is what my game\'s all about.
  *cackle*cackle*!"
 The three witches were seated on special thrones set upon a very high balcony.
-In the center sat the Game Master, {f:5:Lambdadelta},
- and on either side of the semicircular balcony sat {f:5:Bernkastel} and {f:5:Beatrice}, facing each other.
+In the center sat the Game Master, LAMBDADELTA,
+ and on either side of the semicircular balcony sat BERNKASTEL and BEATRICE, facing each other.
 Below them, Erika ran forward, lifted the corners of her skirt and bowed respectfully.
-"Great Lady {f:5:Lambdadelta}, I thank you for granting my request for an assembly.
- ......And Great Lady {f:5:Bernkastel}, my master.
+"Great Lady LAMBDADELTA, I thank you for granting my request for an assembly.
+ ......And Great Lady BERNKASTEL, my master.
  You can expect great things from this assembly.
  Though it may be only for a short while, I will most certainly make you forget about the poison that torments you."
 "Yes, great things are what I expect.
  .........Because you are my double,
  and my piece."
-Erika and {f:5:Bernkastel} exchanged nasty smiles that would make anyone want to avert their gaze.
+Erika and BERNKASTEL exchanged nasty smiles that would make anyone want to avert their gaze.
 "Hear me, witches, {y:0:Human}{n:0:human}s!!
  I hereby announce the assembly of a witches\' coven! The Court of Illusions is now in session!!"
 The ruler of the game spoke with words of power.
@@ -39,12 +39,12 @@ Though her words were spoken inside such a vast space,
  ......I\'d love to get started right away, but why don\'t we have everyone quickly introduce themselves first?
  Since there\'s so many of us here."
 "Eheheheheh!
- I am {f:5:Lambdadelta}!
+ I am LAMBDADELTA!
  The Witch of Certainty and the new ruler of this game!"
-".........{f:5:Bernkastel}.
+".........BERNKASTEL.
  Witch of Miracles.
- ......My goal is to penetrate {f:5:Beatrice}\'s witch illusions."
-"I am the Endless Witch, {f:5:Beatrice}.
+ ......My goal is to penetrate BEATRICE\'s witch illusions."
+"I am the Endless Witch, BEATRICE.
  My goals are to assert my own existence and to protect Natsuhi and Kinzo."
 "................................."
 "......Battler‐sama.
@@ -123,11 +123,11 @@ Urged by 45 to introduce himself, Kinzo stood up.
  Pleased to meet you......"
 "Now, on to the witches!
  Everyone, introduce yourselves!"
-{f:5:Virgilia}\'s group could also be seen.
+VIRGILIA\'s group could also be seen.
 There was a second balcony, different from the one Beato\'s group was on, which jutted out like raised audience seating.
  They sat there, looking down as though they were at a theater...
-".........My name is {f:5:Virgilia}.
- I am {f:5:Beatrice}\'s master in magic."
+".........My name is VIRGILIA.
+ I am BEATRICE\'s master in magic."
 "I\'m Gaap.
  Making corpses disappear is my job."
 "Ronove.
@@ -142,15 +142,15 @@ There was a second balcony, different from the one Beato\'s group was on, which 
 "Cornelia.
  I am an Assistant Inquisitor."
 The two of them could also be seen on the second‐floor balcony.
-They sat apart from {f:5:Virgilia}\'s group.
+They sat apart from VIRGILIA\'s group.
 Then, ......Dlanor, who was seated between the two, slowly stood up.
 She had a presence and dignity about her, as though she was overseeing everything from that place.
-"Dlanor A. Knox is my {f:5:name}.
- .........I am Lady Erika\'s primary {f:5:assistant}."
+"Dlanor A. Knox is my NAME.
+ .........I am Lady Erika\'s primary ASSISTANT."
 "........................"
 "Battler.
- I am expecting a lot of {f:5:you}.
- Please do not disappoint {f:5:me}."
+ I am expecting a lot of YOU.
+ Please do not disappoint ME."
 "......Let\'s just both give it all we\'ve got."
 "Most of the time, there will be no need for Dlanor to step forward.
  However, when the witch side plays around with ugly word games, I\'ll need to have Dlanor pass judgment on them.
@@ -209,11 +209,11 @@ She turned to the relatives for help, but they just remained silent like wax mod
 ".........Beato.
  Of course, you\'ll be defending her, right?"
 "Naturally.
- I am the Ushiromiya family alchemist, {f:5:Beatrice} the Golden.
+ I am the Ushiromiya family alchemist, BEATRICE the Golden.
  ......Furudo Erika, I accept your challenge.
  I shall take these false accusations you\'re trying to place on my master...
 and tear them apart!!"
-"B‐...{f:5:Beatrice}......!"
+"B‐...BEATRICE......!"
 "Fear not, Natsuhi.
  You are my master.
  And you are the true head, with the One‐winged Eagle engraved in your heart.
@@ -228,17 +228,17 @@ Her panic finally disappeared, and she stood up straight.
  ......You really are the bullied kid in every single fragment."
 "So, Bern.
  Make your claims."
-"I, {f:5:Bernkastel}, claim...
+"I, BERNKASTEL, claim...
 ...that a {y:0:Human}{n:0:human}, Ushiromiya Natsuhi, is the culprit of this game."
 "And you too Beato, okay?"
-"I, {f:5:Beatrice}, claim...
+"I, BEATRICE, claim...
 that the culprit in this game is not {y:0:Human}{n:0:human}!
  I am the culprit!"
-{f:5:Bernkastel}, who smiled daringly, and {f:5:Beatrice}, who smiled firmly, crossed gazes.
+BERNKASTEL, who smiled daringly, and BEATRICE, who smiled firmly, crossed gazes.
 "Do you hear this, witches, {y:0:Human}{n:0:human}s?!
  Two claims have appeared for a single truth!
  Is the culprit the {y:0:Human}{n:0:human} Ushiromiya Natsuhi?
- Or is the culprit the witch {f:5:Beatrice}?!"
+ Or is the culprit the witch BEATRICE?!"
 "If the witch wins, the truth of the fifth game will disappear into darkness.
  If Erika wins, the witch illusion will be wiped from the game board.
  ......In other words, for Beato alone, this is a battle where losing is not an option. Are you prepared?"
@@ -254,9 +254,9 @@ However, this wasn\'t the only time she had been fighting for her life.
 "......That\'s dirty.
  Erika\'s the only one with nothing to lose if she fails."
 "I wouldn\'t be so certain of that.
- ......Lady {f:5:Bernkastel} is not a compassionate person.
+ ......Lady BERNKASTEL is not a compassionate person.
  ......I can\'t imagine she\'d give any warm treatment to a piece that didn\'t perform as she had hoped..."
-It was inconceivable that the ruthless {f:5:Bernkastel} would place no blame at all on a piece who had suffered defeat.
+It was inconceivable that the ruthless BERNKASTEL would place no blame at all on a piece who had suffered defeat.
 ......Erika was probably fighting for her life just the same.
 The two claims would clash, and one would be weeded out.
 One would fall...and would not leave this place alive......
@@ -292,7 +292,7 @@ And because it was so simple, it was decisive......
  It\'s a fact that Natsuhi was hiding in the closet of Hideyoshi\'s room.
  ......If they use a repetition request to check her location, we\'ll be cornered."
 "......Probably.
- Lady {f:5:Lambdadelta} is the ruler of this game.
+ Lady LAMBDADELTA is the ruler of this game.
  ......If it suits her fancy, she\'ll set up Natsuhi as the culprit regardless of the facts."
 If the typhoon were to pass and the police were to come and perform a scientific investigation,
  perhaps the true culprit would be identified and the false accusations against Natsuhi lifted.
@@ -304,7 +304,7 @@ before moving on to the first twilight\'s reconstruction, which has more uncerta
 "It\'s not good at all to proceed while under the Game Master\'s suspicion.
  We should take the initiative."
 "Indeed.
- ............Lady {f:5:Lambdadelta}!
+ ............Lady LAMBDADELTA!
  As you are well aware, a fair number of murders were committed during the fifth game,
  and we are skipping the rather lengthy chunk of time from midnight until the early morning."
 "Skipping to Hideyoshi\'s murder...
@@ -321,7 +321,7 @@ and stepping backwards and forwards in time will only lead to confusion.
 I definitely saw Erika click her tongue.
 ......Now I understand.
  This is how the tales of Rokkenjima are created.
-After being guided by {f:5:Virgilia} and meeting {f:5:Beatrice},
+After being guided by VIRGILIA and meeting BEATRICE,
  ......now I stand here, at this peak from which I can see everything below me, and I finally understand the truth of this world.
 "This is......that thing you talked to me about before."
 ".........Yes, that\'s right.
@@ -330,8 +330,8 @@ After being guided by {f:5:Virgilia} and meeting {f:5:Beatrice},
 Yes.
  This really is a trial.
 Both sides put forth their own truths.
-This here truly is the Braun tube trial that {f:5:Virgilia} once used as an analogy......
-"Then I will follow Lady {f:5:Lambdadelta}\'s orders and start from the first crime at the first twilight.
+This here truly is the Braun tube trial that VIRGILIA once used as an analogy......
+"Then I will follow Lady LAMBDADELTA\'s orders and start from the first crime at the first twilight.
  As you know, at midnight on October 4th, the first day,
  following a short break in the family conference, Natsuhi‐san left on her own, saying that she was going to bed early.
  Therefore, her alibi is completely lost from that time until the next morning."
@@ -392,7 +392,7 @@ Beato glanced at where Dlanor sat on the second‐floor balcony.
  .........Why give a hint to an enemy?
  There\'s no way we\'d answer."
 "Hah!
- Did you hear that, Lady {f:5:Lambdadelta}?
+ Did you hear that, Lady LAMBDADELTA?
  They say they have no proof!
  Is it acceptable for them to claim that Gohda and Kumasawa have alibis without proof?!"
 "Good point.
@@ -418,18 +418,18 @@ Beato\'s blue truth struck out rapidly.
 The curtain had finally dropped, and the battle had begun......
 "......A {y:0:Human}{n:0:human} like Erika can\'t use any red.
  How could she turn this around without calling Dlanor?"
-"Though Erika cannot use it, her master, Lady {f:5:Bernkastel}, can.
+"Though Erika cannot use it, her master, Lady BERNKASTEL, can.
  ......We mustn\'t let our guards down."
 "Blue truth, valid.
  ......What\'ll you do, Bern?
  Will you or Dlanor step in instead?"
-"It is still not my {f:5:turn}.
- And it is not Lady {f:5:Bernkastel}\'s turn {f:5:either}."
+"It is still not my TURN.
+ And it is not Lady BERNKASTEL\'s turn EITHER."
 "......Yes, that\'s right.
  There\'s no need for us to show up for something like this.
  ......This is important precisely because a mere {y:0:Human}{n:0:human} like Furudo Erika will defeat you, Beato."
 "......Because you\'ll be defeated by a {y:0:Human}{n:0:human}, we\'ll know.
- We\'ll all know that the fake witch who calls herself "{f:5:Beatrice} the Golden" is nothing more than a sub‐{y:0:Human}{n:0:human} illusion."
+ We\'ll all know that the fake witch who calls herself "BEATRICE the Golden" is nothing more than a sub‐{y:0:Human}{n:0:human} illusion."
 "*giggle*giggle*...
  If you really can do that, it\'ll be seriously interesting...
  Okay, Erika.
@@ -468,7 +468,7 @@ Erika held a small, folded piece of brown paper high in the air.
  Kumasawa returned to the guesthouse with Erika, went to the servants\' quarters to sleep, and never left the room until morning.
  
 In other words, after Kumasawa returned to the guesthouse, she never went to the second floor until morning}."
-The proof Erika had shown was elevated by {f:5:Bernkastel} and became red truth.
+The proof Erika had shown was elevated by BERNKASTEL and became red truth.
 This truth, which had become red, could no longer be overturned, even by Beato...
 In other words, in that instant, Kumasawa\'s perfect alibi had been absolutely guaranteed.
 "Hohoh!
@@ -564,7 +564,7 @@ She\'s just a single piece on the game board.
 So you could say that Beato is now in the same position I once was.
 Also, though Erika may seem to be in the same position I once was,
  the situation for her is totally different.
-She\'s connected to the witch called {f:5:Bernkastel}.
+She\'s connected to the witch called BERNKASTEL.
 ......Even though she isn\'t the Game Master, she\'s capable of elevating Erika\'s statements to become red truth.
 Because of this, Erika can use the red truth even though she\'s neither a witch nor the Game Master.
 Beato, who\'s supposed to be the witch, possesses no truth or red she can use.
@@ -574,7 +574,7 @@ The advantage has completely flipped over to the other side.
 After I got used to the game, Beato stopped responding to my repetition requests,
  but in the beginning, she responded to almost all of them, giving me quite a few hints.
 That\'s why we were able to fight on par.
-However, {f:5:Bernkastel} is different.
+However, BERNKASTEL is different.
 She fully understands the rules of this game, and is prepared to corner Beato without even a hint of restraint.
 .........And all this made me realize.
 ......Beato was going easy on me so that we could fight on par with each other......
@@ -674,7 +674,7 @@ Both your seal and your red truth are perfect.
  Nanjo had the alibi of being with Erika until 3 a.m.
  And he didn\'t leave his room after 3 a.m. until morning}."
 Using the seals she had placed on the doors,
- Erika was granted red truths from {f:5:Bernkastel} one after another......
+ Erika was granted red truths from BERNKASTEL one after another......
 When I gave Beato a repetition request, it was about maneuvering and tactics,
  ......but it\'s totally different for Erika.
 For her, it\'s like having a trump card which can make red whenever she wants......
@@ -761,7 +761,7 @@ Just what would that have looked like......
 Until dawn, she had silenced her breathing in a pitch‐black room,
  clinging to the wall shared with the cousins\' room......
 Like some kind of creepy venomous spider clinging to the wall of a darkened room......
-{f:5:Bernkastel} alone was grinning in triumph.
+BERNKASTEL alone was grinning in triumph.
 "......Due to the progression of the game, I realized that Battler, the one who had received the Head\'s Ring, would be a key player.
  ......I was sure that Battler would be a victim of the first twilight."
 "Yes.
@@ -811,7 +811,7 @@ Ironically, the witch had to prove that a {y:0:Human}{n:0:human} could have comm
  we would probably be able to prove that the crime was possible for anyone."
 "It\'s probably possible for a {y:0:Human}{n:0:human} to climb up to the second‐story windows if they really wanted to."
 Of course, Beato had also thought of striking back that way.
-......And {f:5:Bernkastel} must have thought this as well.
+......And BERNKASTEL must have thought this as well.
 "Battler, Nanjo, Gohda, Kumasawa.
  We realize that the crime was impossible for all these people in the guesthouse.
  ......However, what about the {y:0:Human}{n:0:human}s in the mansion?!"
@@ -838,7 +838,7 @@ During that time, Beato\'s counterattacks with the blue truth had been few in nu
 It is impossible for someone to reach the second floor of the guesthouse without anyone in the lounge noticing it.
  ......Though of course, this only refers to reaching the second floor from inside the building}."
 "<Good>, my master!
- ......So, next is Lady {f:5:Beatrice}\'s theory that there might be a way to reach the second floor from the outside.
+ ......So, next is Lady BEATRICE\'s theory that there might be a way to reach the second floor from the outside.
  This really does pose a problem.
  After all, there are trees that could probably be climbed, and someone could have used a ladder.
  We also can\'t be certain that crawling up the rain gutter would be impossible.
@@ -906,8 +906,8 @@ A repulsive venomous spider crawling eerily over the outer walls of the guesthou
  
 It was impossible to reach the second floor of the guesthouse without passing through the lounge,
  and impossible to reach it at all without Erika, who was in the lounge, knowing about it}!"
-"Thank you very much, Lady {f:5:Lambdadelta}...!
- So, you know what\'s coming next, Great Lady {f:5:Beatrice}!
+"Thank you very much, Lady LAMBDADELTA...!
+ So, you know what\'s coming next, Great Lady BEATRICE!
  
 Therefore, the time of the crime is limited to the single hour between midnight, when they were confirmed to be alive,
  and 1 a.m., when our party in the lounge started}!"
@@ -938,7 +938,7 @@ And after the party in the lounge started at 1 a.m,
 "............All this from a mere {y:0:Human}{n:0:human}......"
 "This is quite bad...
  The night has been sealed up into an hour, ......and at this rate, there won\'t be many pieces left to suspect..."
-"......Damn you, Lady {f:5:Bernkastel}...
+"......Damn you, Lady BERNKASTEL...
  ...Not bad at all........."
 "Unlike Battler, I\'m not an idiot.
  ......After this game\'s repeated five times, I have more than enough cards in my hand.
@@ -1031,7 +1031,7 @@ During the short break at 1 a.m., the first two to leave the dining hall were Ro
  However, this isn\'t a science mystery, so I\'ll spare you the details."
 As Erika swaggered around the cathedral, she arrogantly touted her scientific knowledge.
 She had thorough knowledge of all the chemicals in Kinzo\'s study and had used them to conduct a scientific investigation,
- which had now been acknowledged and made into red truth by {f:5:Bernkastel}.
+ which had now been acknowledged and made into red truth by BERNKASTEL.
 ......Without going into too much detail, the results she had obtained would have been convincing even without the red truth.
 Fingerprint collection with aluminum powder.
 Composition analysis on the mud under people\'s shoes. Various chemical reactions from clinging rain water.
@@ -1077,12 +1077,12 @@ that you expect to be able to take advantage of the fact that Krauss is missing 
 ".........gah, ghh............"
 Beato realized that they were rapidly approaching the end of this battle.
 Normally, these alibis of Erika\'s would still have many places that Beato could argue against using the blue truth.
-However, all of those alibis had been accepted by {f:5:Bernkastel} and {f:5:Lambdadelta} as red truth,
+However, all of those alibis had been accepted by BERNKASTEL and LAMBDADELTA as red truth,
  and Beato no longer had any room to argue......
 "......It\'s like.........Erika\'s creating the plotline,
  and those witches are distorting things so that everything matches up with it..."
 "That\'s right.
- If the Game Master, Lady {f:5:Lambdadelta}, accepts a truth, its authenticity will not be questioned.
+ If the Game Master, Lady LAMBDADELTA, accepts a truth, its authenticity will not be questioned.
  The world that comes after will be formed based on the truth that remains in the end.
  ......This happens no matter how far this final truth is from the real truth."
 "There\'s no way Uncle Krauss is the culprit.
@@ -1130,10 +1130,10 @@ be dragged to the guillotine to the jeers of liars?
  You can\'t fight in this trial by simply resisting all of your opponent\'s claims.
  This is why Beato always cornered me in the past...!"
 "She isn\'t going to beat Erika by finding flaws in her reasoning!
- She has to find a different truth and show {f:5:Lambdadelta}, the ruler of this game...
+ She has to find a different truth and show LAMBDADELTA, the ruler of this game...
 ...
 that her truth is more correct than Erika\'s...!!"
-"Without violating any of the red truths that Lady {f:5:Bernkastel} has shown,
+"Without violating any of the red truths that Lady BERNKASTEL has shown,
  can you weave together a truth where Natsuhi isn\'t the culprit......?"
 "......I, ......I don\'t know...
  But, .......as long as I don\'t believe that Aunt Natsuhi is the culprit, there\'s got to be a different truth!"
@@ -1175,8 +1175,8 @@ There\'s no proof, but Erika\'s words sound reasonable, so they\'re probably the
  Then allow me to grant you a single red truth.
  This is the single bit of power I will give you, now that you hold the will to fight in the truest sense."
 "Power.........?"
-"By the name of the Finite Witch {f:5:Virgilia},
- .........no, as the former witch {f:5:Beatrice}, I grant you this red truth."
+"By the name of the Finite Witch VIRGILIA,
+ .........no, as the former witch BEATRICE, I grant you this red truth."
 {a:c:
 "
 Ushiromiya Natsuhi is not the culprit}!"}
@@ -1195,11 +1195,11 @@ Like Kinzo, he was no different than a "cat in a box" that had disappeared into 
 The cat in the box is a creature of infinite variation; no interpretation of it can be denied.
 It is the root of endless interpretations.
  The true source of the Endless Witch\'s power.
-In other words, no matter how much {f:5:Bernkastel} were to claim that Krauss was the culprit,
+In other words, no matter how much BERNKASTEL were to claim that Krauss was the culprit,
  ......she wouldn\'t be able to make that the sole truth.
 That is, the Krauss culprit theory and the witch theory could exist in almost perfect balance.
 ......Beato could make the game a draw.
-{f:5:Bernkastel} was......tempting her.
+BERNKASTEL was......tempting her.
  She was offering her a second chance if she would abandon the honor of the family she\'d sworn to protect...
 and consent to weaving a fragment that would trample all over that honor.
 There was no room for false confidence.
@@ -1224,7 +1224,7 @@ There was no room for false confidence.
  But none of you can damage my honor with fiction!!"
 With a dignified voice, ......Natsuhi stated her case openly before the witches above her.
 However, this response of hers...
-might have been exactly what {f:5:Bernkastel} had intended...
+might have been exactly what BERNKASTEL had intended...
 "......Natsuhi refuses the deal.
  .........And you, Beato?
  ...You understand, right?
@@ -1236,7 +1236,7 @@ might have been exactly what {f:5:Bernkastel} had intended...
  You fought well.
  ......Now\'s the time to withdraw.
  Convince Natsuhi and try to work out a compromise...!"
-"Both Lady {f:5:Lambdadelta} and Lady {f:5:Bernkastel} have boredom, not you, as their true enemy.
+"Both Lady LAMBDADELTA and Lady BERNKASTEL have boredom, not you, as their true enemy.
  ......I imagine they would like to play this game over again.
  If they see that you\'re willing to make a concession, they will most likely accept it gladly...
 and move on to the next game."
@@ -1246,9 +1246,9 @@ and move on to the next game."
  Natsuhi is just a piece!
  Even if she gets removed from this game, she\'ll show up again in the next one!"
 "But the same does not hold for you, Milady...
- Through this game, I believe you have learned the moves that Lady {f:5:Bernkastel} has up her sleeves.
+ Through this game, I believe you have learned the moves that Lady BERNKASTEL has up her sleeves.
  It\'s a more realistic goal to make use of that and aim for victory in the next game instead.
- ......Accepting Lady {f:5:Bernkastel}\'s deal might be your one and only good option right now...!"
+ ......Accepting Lady BERNKASTEL\'s deal might be your one and only good option right now...!"
 "Throw away that useless pride of yours!!
  Neither Kasparov nor Deep Blue won every game!
  The person that wins more games wins in the end, right?!
@@ -1274,14 +1274,14 @@ and move on to the next game."
 ".........Fool.
  There\'ll be no coming back from this, you know...
  Here\'s what you get for being a quick‐tempered moron.
- By the name of {f:5:Bernkastel}, Witch of Miracles, I speak with the red truth.
+ By the name of BERNKASTEL, Witch of Miracles, I speak with the red truth.
  
 Ushiromiya Krauss is not the culprit.
  And he was killed long ago.
  Shortly after you heard his voice over the phone, in fact}."
 "N‐.........no.........
  ...D‐.........darling...............aaah...aaagghhhaaaaaaaaahhhh........."
-{f:5:Bernkastel}\'s cruel and ruthless red blade gouged Natsuhi......
+BERNKASTEL\'s cruel and ruthless red blade gouged Natsuhi......
 ......It was......all too merciless.........
 The lack of knowledge of whether Krauss was alive or dead had almost crushed Natsuhi with anxiety, but she had at least been capable of believing that he was alive...
 And now, ......that hope...that expectation.......had been crushed......without any chance for a miracle......!!
@@ -1296,7 +1296,7 @@ with her last ounce of strength......
 "Nope, it\'s all over!
  It\'s been determined with the red truth that none of the remaining people in the dining hall left that room until one o\'clock.
  In other words, alibis have already been proven for everyone except Natsuhi!"
-"......Well done, Erika and {f:5:Bernkastel}!
+"......Well done, Erika and BERNKASTEL!
  You\'ve fully proven that the crime was impossible for everyone except Ushiromiya Natsuhi!
  Why don\'t I start reading aloud from the verdict."
 "......At midnight on October 4th, 1986, the defendant, Ushiromiya Natsuhi,
@@ -1313,7 +1313,7 @@ with her last ounce of strength......
  The only person without an alibi during this time was Ushiromiya Natsuhi...!
  From this point forward, the game will proceed treating the defendant as the true culprit."
 "Furthermore, because it has been fully proven that the crime was possible for {y:0:Human}{n:0:human}s...
- {f:5:Beatrice}, the Endless Witch...!!
+ BEATRICE, the Endless Witch...!!
  This Court of Illusions hereby denies your existence!!"
 "You have a chance to plead your case. Can you prove an alibi for Natsuhi?
  Or can you show the possibility of someone other than Natsuhi being responsible?
@@ -1326,7 +1326,7 @@ In fact, wasn\'t the whole point of that trap to make her lose her alibi......?
  I am the true culprit!
  Natsuhi is innocent!!
  Even without any proof!!"
-"......The truth is known only by the master of the night on this island, {f:5:Beatrice} the Golden.
+"......The truth is known only by the master of the night on this island, BEATRICE the Golden.
  I am Ushiromiya Natsuhi!
  Now that my husband has passed away, I am the head of the Ushiromiya family!!
  My spirit will not be broken no matter how you try and humiliate me!"
@@ -1335,11 +1335,11 @@ In fact, wasn\'t the whole point of that trap to make her lose her alibi......?
  How can your evidence and alibis negate the honor and the crest engraved into my heart?
  They cannot!!
  The Ushiromiya crest emblazoned on my heart is immortal!!"
-.........Now that Natsuhi and {f:5:Beatrice}...
+.........Now that Natsuhi and BEATRICE...
 had practically been placed on the guillotine,
  ......they cried out with all the strength of their determination...
-However, that did nothing except bring a cold smile to the game master {f:5:Lambdadelta}\'s face.
-Erika had constructed a truth that {f:5:Lambdadelta} could accept.
+However, that did nothing except bring a cold smile to the game master LAMBDADELTA\'s face.
+Erika had constructed a truth that LAMBDADELTA could accept.
 ......And no one could construct a more convincing truth to deny Erika\'s.
 In that case, the most convincing truth would swallow up everything else......and become the one and only "truth".
 Even if it happened to be different from the real truth.
@@ -1352,7 +1352,7 @@ As long as everyone acknowledges it to be true...!
  So I think I\'ll send you one final gift: a red truth to crush your bluster once and for all."
 "Wh‐.........what do you mean.........?"
 "......D‐
-.........don\'t, ...Lady {f:5:Bernkastel}...
+.........don\'t, ...Lady BERNKASTEL...
  ......Isn\'t it already going to be overwritten with the truth you desired......?
  Your truth and Natsuhi\'s should be able to coexist...
  Please don\'t defile it......
@@ -1436,7 +1436,7 @@ The days where she still gave everything she could for the family she\'d married
 All of these flitted through her mind, one after another...
 ......and disappeared.
 All of those once beautiful memories,
- ......now crushed by {f:5:Bernkastel}\'s red truth,
+ ......now crushed by BERNKASTEL\'s red truth,
  .........smashed into tiny shards that scattered everywhere,
  ...buried themselves deep into her hands,
  ......and soaked them red with the blood of sorrow...
@@ -1447,8 +1447,8 @@ and truth.
  ......All it takes is the presence of this crime,
  and a deduction like this becomes trivial for Furudo Erika.
  ......Your thoughts, ladies and gentlemen...?"
-{f:5:Lambdadelta}...clapped.
-Then, a little later than expected, {f:5:Bernkastel} began to clap as well, looking satisfied.
+LAMBDADELTA...clapped.
+Then, a little later than expected, BERNKASTEL began to clap as well, looking satisfied.
 The expressionless, wax‐figure‐like audience followed suit,
  and the unshakable verdict was welcomed with great applause.........
 And so, .........the "truth" of this tale...
@@ -1529,10 +1529,10 @@ Natsuhi, with her hair a mess and her face red and tear‐streaked,
  ......protested to everyone,
  .........but no one met her gaze.
 Because it had already been resolved that Natsuhi was the culprit.
-Because {f:5:Lambdadelta} had acknowledged that the culprit of the tale was Natsuhi and woven it that way,
+Because LAMBDADELTA had acknowledged that the culprit of the tale was Natsuhi and woven it that way,
  none of the pieces would pay any heed to Natsuhi\'s......to "the culprit\'s" words...
 "Natsuhi isn\'t the culprit!!
- I am the Golden Witch, {f:5:Beatrice}!!
+ I am the Golden Witch, BEATRICE!!
  I am the one who commands Rokkenjima\'s night and who has reigned since long before the time you were all still scared of the dark!"
 "Why can\'t you just call it my sin? Why must you suspect Natsuhi?!!
  Acknowledge me!!
@@ -1546,9 +1546,9 @@ The verdict had already been announced.
  Go back to being a simple portrait!
  You\'re a frail illusion of a witch, born when the relatives shared in Kinzo\'s fantasy!!
  That is the truth chosen by this world!!"
-"So, Great Lady {f:5:Lambdadelta}!!
+"So, Great Lady LAMBDADELTA!!
  Now is the time for you to bury this presumptuous and foolish illusion that calls itself a witch...!!"
-"Goodbye, {f:5:Beatrice}.
+"Goodbye, BEATRICE.
  .........I made you a witch hoping that you would either become my friend,
  or help distract me from my boredom.
  And you\'ve answered my expectations.
@@ -1556,7 +1556,7 @@ The verdict had already been announced.
  ...Eheheheheheheheheheheheheheh!!"
 "......I...
 ...am a witch......
- Even if you don\'t acknowledge it, Lady {f:5:Lambdadelta}...
+ Even if you don\'t acknowledge it, Lady LAMBDADELTA...
  ......I am a witch........."
 "You wouldn\'t even have been capable of believing that if I hadn\'t become your guardian in the first place...!!
  Okay, it\'s game over for you now.
@@ -1564,7 +1564,7 @@ The verdict had already been announced.
  ......What happens to the losers in your game, again...?"
 "Beato has already shown that clearly in a previous game.
  You get tossed into the goats\' dinner party as a lump of living flesh and are chewed to bits."
-"Now there\'s a fitting end for you, {f:5:Beatrice}.
+"Now there\'s a fitting end for you, BEATRICE.
  And I did come all the way here just to hear the death cries of one as haughty as you...!!"
 One by one, a massive number of unspeaking goat attendants
  slipped out from behind pillars and began to fill the cathedral.
@@ -1590,7 +1590,7 @@ Suddenly, there were goats standing right behind Beato.
  Uhihihahaaah!!
  The screams of those who gift me that line as their parting shot are the most gratifying of all!
  ......Now fall!
- {f:5:Beatriceeeeeeeeeeeeeeee}......!!!"
+ BEATRICEEEEEEEEEEEEEEEE......!!!"
 The goats carrying Beato no longer viewed her as their master.
 After holding her above the pot of clambering goats,
  which were snorting heavily in anticipation......
@@ -1600,7 +1600,7 @@ It was almost as though...
 devouring her flesh would allow them to forget their pain for just a short while.
 As she flew through the air, Beato tried to smile boldly,
  ......but it was so forced that it seemed even more pathetic,
- greatly pleasing {f:5:Bernkastel}.
+ greatly pleasing BERNKASTEL.
 When Beato fell into the pot, the goats caught her.
 Of course, they didn\'t do it gently.
 The arms of countless goats pulled at her flesh to keep it for themselves.
@@ -1619,17 +1619,17 @@ Then, the sea of goats parted.
 Dlanor leapt forward, slicing all the goats in her path with a single flash of her longsword.
 ......It was a thin slice, like cutting through butter.
 The goats were surprised by Dlanor\'s sudden appearance and stepped back.
-In the center, {f:5:Beatrice} cowered in tatters,
+In the center, BEATRICE cowered in tatters,
  ......sobbing......
 "What\'s the meaning of this?
  Inquisitor Dlanor."
-"My apologies, but I have something to {f:5:say}.
- There is someone who has an objection to this {f:5:verdict}.
+"My apologies, but I have something to SAY.
+ There is someone who has an objection to this VERDICT.
  His name is...
 Ushiromiya Battler."
 All of the goats stared at Battler.
-"What do you find unsatisfactory about the court\'s {f:5:decision}...?
- ......I assume you possess new evidence or truth sufficient to request a {f:5:retrial}...?"
+"What do you find unsatisfactory about the court\'s DECISION...?
+ ......I assume you possess new evidence or truth sufficient to request a RETRIAL...?"
 "........................gah......"
 I get it.
  ......Dlanor is offering me a helping hand.
@@ -1639,10 +1639,10 @@ But it\'s that very understanding......that makes me unable to fight.
 Because I know I can\'t win by simply countering Erika\'s truth.
 If I want to deny her truth, I\'ll need to present a different one.
 ...And I still don\'t have a clue what that truth is......!
-"There is nothing that time cannot {f:5:heal}.
- And there is no truth that cannot be reached if you spend enough time {f:5:searching}.
- ......However, all courts place time limits upon determining the {f:5:truth}.
- And a truth that cannot be reached within that time limit cannot become {f:5:truth}."
+"There is nothing that time cannot HEAL.
+ And there is no truth that cannot be reached if you spend enough time SEARCHING.
+ ......However, all courts place time limits upon determining the TRUTH.
+ And a truth that cannot be reached within that time limit cannot become TRUTH."
 ......Yeah, ...I know that......!!
 By now, everyone is certain that Aunt Natsuhi is the culprit.
 It might be too late now, ......even for the real truth...!
@@ -1663,8 +1663,8 @@ I slowly stood up,
 ......However, ......if I don\'t jump in now, I won\'t get another chance to fight...
 The red used by Erika\'s group is mercilessly strict.
 I seriously doubt that I can put together a truth where Aunt Natsuhi isn\'t the culprit without violating that red......
-"......Why the uncertain {f:5:face}?
- How {f:5:pathetic}."
+"......Why the uncertain FACE?
+ How PATHETIC."
 "D‐.........dammit........."
 "......B‐......Battler......"
 "I\'ll be the one to kill you.
@@ -1682,19 +1682,19 @@ I seriously doubt that I can put together a truth where Aunt Natsuhi isn\'t the 
  Yes, the execution of a princess would be no fun at all without a knight appearing to rescue her.
  ......And there could be nothing better than having him beheaded before her very eyes!
  Bury the old piece and the unneeded player together!!"
-"As you {f:5:wish}.
- Glory be to the great Lady {f:5:Bernkastel}!
- I am the Chief {f:5:Inquisitor}, Dlanor A. Knox...!!
- Step {f:5:forward}, Ushiromiya Battler!!"
+"As you WISH.
+ Glory be to the great Lady BERNKASTEL!
+ I am the Chief INQUISITOR, Dlanor A. Knox...!!
+ Step FORWARD, Ushiromiya Battler!!"
 "D‐......dammit, I\'ve got nothing more to lose...
  If you wanna see me struggle, here you goooooooooooo!!"
 The only reason Erika\'s theory is so strong is because of those seals.
-She was given red so quickly just because {f:5:Lambdadelta} easily bought the alibis created by those seals.
+She was given red so quickly just because LAMBDADELTA easily bought the alibis created by those seals.
 But the seals aren\'t red truth!
 Just sticking paper in a door crack is far from perfect.
 There\'s no way something like that can prove anything with "certainty"...!
 "Begin, Battler!!
- Ready to let those goats turn you into a pile of meat along with your beloved {f:5:Beatrice}?!"
+ Ready to let those goats turn you into a pile of meat along with your beloved BEATRICE?!"
 "Oh, and I\'ll mix the leftovers from your precious sister into that pile.
  Wouldn\'t that make for a wonderful stack of meat?
  ......Then we can wrap it up in a dumpling, steam it and maybe add some soy sauce!!"
@@ -1718,17 +1718,17 @@ Erika once again held up the thing that looked like brown paper.
 "Furthermore, across the center seam and the edges affixed to the door and the frame...
 I wrote my signature, which is impossible to reproduce.
  Therefore, it\'s impossible to tear it off without leaving a mark, and it\'s impossible to reattach too...!"
-"Applying to unsheathe the Red {f:5:Key}."
+"Applying to unsheathe the Red KEY."
 "Granted."
 "
-Due to the above, the seals are guaranteed to be {f:5:perfect}.
- Miss Erika\'s seals were not broken by anyone, and deception is {f:5:impossible}}!!"
+Due to the above, the seals are guaranteed to be PERFECT.
+ Miss Erika\'s seals were not broken by anyone, and deception is IMPOSSIBLE}!!"
 "
 I\'ll acknowledge Erika\'s seals...!
  However, Auntie Eva\'s seal on Genji‐san\'s room should be different}!!"
 "
 Eva\'s seal was of the same type as Miss Erika\'s.
- That is because this method of sealing was one that Miss Erika and Eva conceived of together after {f:5:dinner}}."
+ That is because this method of sealing was one that Miss Erika and Eva conceived of together after DINNER}."
 "
 Erika fished through the chemicals in Grandfather\'s room saying she\'d use them for forensic testing, right?!
  There might have been some kind of solvent among them!!
@@ -1749,14 +1749,14 @@ were not tampered with in any way that hindered their ability to act as seals, s
  damn you, sticking duct tape all over the place that leaves marks on whatever it touches......!"
 Dlanor isn\'t my only enemy.
 There\'s also her subordinates, Gertrude and Cornelia.
-And also Erika and her master {f:5:Bernkastel}.
-And even {f:5:Lambdadelta}, the one who hijacked Beato\'s game!
+And also Erika and her master BERNKASTEL.
+And even LAMBDADELTA, the one who hijacked Beato\'s game!
 Everyone in this cathedral is an enemy.
 That fierce rush of red immediately repelled my feeble truth.
 ......It\'s obvious why. I don\'t have any alternate truth.
 Even at this final stage, ......I have nothing...
-"Were the seals all that you had to {f:5:discuss}?
- You promised to give me everything you {f:5:have}."
+"Were the seals all that you had to DISCUSS?
+ You promised to give me everything you HAVE."
 "..................kh........."
 If I only knew a truth that could prove Aunt Natsuhi\'s innocence...
 If I could only make a theory that weaves its way through Erika\'s red......
@@ -1776,15 +1776,15 @@ If I could only make a theory that weaves its way through Erika\'s red......
 "............Heheheh, ...*cackle*cackle*cackle*.
  ......After hearing you say that, hell might not be so bad.
  ......Ehahahahahahaha, gahahahahahaha...!!
- Kill us! {f:5:Bernkastel}, {f:5:Lambdadelta}...!!
+ Kill us! BERNKASTEL, LAMBDADELTA...!!
  Hyahhahahahahahahahahahaahahahaha!!"
 Beato let out a shrill cry, overcome with laughter.
 ......It was a broken laugh, and tears streamed down her cheeks.
 Battler\'s words would no longer reach her ears.
 She kept on laughing insanely, like a broken record......
-"Is it {f:5:over}?
- {f:5:Pitiful}.
- I truly am {f:5:disappointed}, Ushiromiya Battler...!!"
+"Is it OVER?
+ PITIFUL.
+ I truly am DISAPPOINTED, Ushiromiya Battler...!!"
 "Hyahhahahahahahahahaha, hiihhahahahahahahaahahahahhyahahahahahaaaaaahh!!
  Kill me, Dlanor!! Slice me in half with your red longsword!!
  Hyahhahahahahahahahahaahhaaaaaaahhh!!"
@@ -1795,10 +1795,10 @@ I postulate a method X that could lead someone to the upper floor of the guestho
  There\'s a possibility that Erika was unable to seal entrance X because she couldn\'t find it}!"
 "
 Knox\'s 3rd:
- It is forbidden for hidden passages to {f:5:exist}!
- As the detective, Miss Erika sealed all {f:5:entrances}.
- Passages that the detective cannot find are hidden {f:5:passages}.
- Therefore, there are no entrances that Miss Erika cannot {f:5:find}}!!"
+ It is forbidden for hidden passages to EXIST!
+ As the detective, Miss Erika sealed all ENTRANCES.
+ Passages that the detective cannot find are hidden PASSAGES.
+ Therefore, there are no entrances that Miss Erika cannot FIND}!!"
 "
 I present the possibility that Erika\'s lookout in the lounge wasn\'t perfect!!
  During the two hours Erika spent there, did she really observe everything without looking away for a second?!
@@ -1815,9 +1815,9 @@ But was that really Auntie Rosa herself?!
  There\'s a possibility that someone disguised themselves as Auntie Rosa!!
  Or maybe she was actually holding a large suitcase with someone hiding inside it}!"
 "
-Knox\'s 10th: It is forbidden for a character to disguise themselves as another without any {f:5:clues}!
+Knox\'s 10th: It is forbidden for a character to disguise themselves as another without any CLUES!
  There was no foreshadowing suggesting that someone might be disguised as Rosa!
- Furthermore, Erika verified that Rosa was not carrying any luggage large enough to hide a human {f:5:being}}!"
+ Furthermore, Erika verified that Rosa was not carrying any luggage large enough to hide a human BEING}!"
 "
 Aunt Natsuhi was being threatened by someone!!
  The uninvited, unknown guest X is the true culprit!!
@@ -1825,53 +1825,53 @@ Aunt Natsuhi was being threatened by someone!!
  The true culprit is someone else}!"
 "
 Knox\'s 1st:
- It is forbidden for the culprit to be anyone not mentioned in the early part of the {f:5:story}}!!"
+ It is forbidden for the culprit to be anyone not mentioned in the early part of the STORY}!!"
 "
 Maybe they were killed with poison in a remote murder!!
  Umm, ......with a strange drug that can make a cut appear in the victim\'s neck when they die...!!
  The poison used has a delayed effect, so even with an alibi—}"
 "
 Knox\'s 4th:
- It is forbidden for unknown drugs or obscure scientific devices to be {f:5:used}}!!"
+ It is forbidden for unknown drugs or obscure scientific devices to be USED}!!"
 "
 There\'s a chance that there existed a murder device X in the cousins\' room and Genji‐san\'s quarters that made a remote murder possible...!!
  It used a secret mechanism that still hasn\'t been discovered to—}"
 "
 Knox\'s 8th:
- It is forbidden for the case to be resolved with clues that are not {f:5:presented}}!!"
+ It is forbidden for the case to be resolved with clues that are not PRESENTED}!!"
 "
 I just know there exists a true culprit other than Aunt Natsuhi!!
  If you deny that, then for each character, repeat in red that they aren\'t the culprit}!!"
 "
 Knox\'s 6th:
- It is forbidden for accident or unaccountable intuition to be employed as a detective {f:5:technique}}!!"
+ It is forbidden for accident or unaccountable intuition to be employed as a detective TECHNIQUE}!!"
 "
 You say that everyone except Aunt Natsuhi has an alibi?!
  You\'re forgetting one!!
  Who\'s gonna prove that Erika herself has an alibi}?!!"
 "
 Knox\'s 7th:
- It is forbidden for the detective to be the {f:5:culprit}}!!"
+ It is forbidden for the detective to be the CULPRIT}!!"
 "
 Unless she\'s caught red‐handed, you should never be able to deny the possibility that Aunt Natsuhi is innocent!!
  Can you even deny future possibilities, like if a piece of evidence X that Erika hasn\'t discovered proves Natsuhi\'s innocence}?!"
 "
 Knox\'s 8th:
- It is forbidden for the case to be resolved with clues that are not {f:5:presented}}!!"
+ It is forbidden for the case to be resolved with clues that are not PRESENTED}!!"
 "
 Th‐this story is full of malicious fiction!!
  The story itself is a trap designed to frame Aunt Natsuhi!
  We should reconstruct the story from impartial truths alone}!!"
 "
 Knox\'s 9th:
- Observers are permitted to put forward their own conclusions and {f:5:interpretations}}!"
+ Observers are permitted to put forward their own conclusions and INTERPRETATIONS}!"
 "
 Maybe I was the culprit, and I gave George‐aniki and the others a slow‐acting poison to make them die after midnight,
  then silently slit their throats when I returned at 3 a.m.!!
  I could have done it so quietly that Erika wouldn\'t hear}...!!"
 "
 Knox\'s 8th:
- It is forbidden for the case to be resolved with clues that are not {f:5:presented}}!!"
+ It is forbidden for the case to be resolved with clues that are not PRESENTED}!!"
 "
 Everyone committed suicide...!!
  So there is no culprit}!!"
@@ -1924,11 +1924,11 @@ Her majesty as the ruler of the Golden Land...
 ...are completely gone.
 She\'s just a pitiful woman who\'s been trampled over and who has lost all hope,
  with tears streaming down her face and a tragic smile that I can\'t bear to look at......
-"Does your truth no longer {f:5:exist}?"
+"Does your truth no longer EXIST?"
 No,
  ......I have one...
 ...last thing.
-"......And that is a different truth, where Natsuhi is not the {f:5:culprit}?"
+"......And that is a different truth, where Natsuhi is not the CULPRIT?"
 ......No.
  All I can do is prove that Aunt Natsuhi isn\'t the culprit.
 I can\'t show...
@@ -1942,7 +1942,7 @@ I can\'t show...
 "Assuming you can pull it off.
  .........But if you can\'t present a new truth, that means you\'re incompetent and useless as a player.
  I\'ll have you vanish from this game board for all eternity."
-At this point, the Game Master is {f:5:Lambdadelta},
+At this point, the Game Master is LAMBDADELTA,
  ......and she\'s there too.
 This probably doesn\'t mean defeat in a single game,
  but being banished from this game for all eternity as the loser.
@@ -1967,12 +1967,12 @@ I understood that this...
  I\'ll disappear with you.
  Let that be your final tribute to me.
  ......I beg you, if you just grant this one wish, I won\'t need anything else......"
-".........Have you said your last {f:5:goodbyes}?
- ......I really am disappointed in {f:5:you}, Ushiromiya Battler."
+".........Have you said your last GOODBYES?
+ ......I really am disappointed in YOU, Ushiromiya Battler."
 "Hurry up and put him out of his misery.
  We still have to get to my monologue exposing Natsuhi‐san\'s crimes."
 "You guys really are interesting.
- {f:5:Beatrice}.
+ BEATRICE.
  Ushiromiya Battler."
 "......But I\'ve gotten tired of you.
  You aren\'t needed in our game.
@@ -1980,13 +1980,13 @@ I understood that this...
 *giggle*giggle*giggle*,
  ehehehehahahahahahahahahahah!!
  Do it, Dlanor!!"
-"This is the {f:5:end}.
+"This is the END.
  ......If you still have one last bit of power,
- let me see you muster it now, in your last {f:5:moments}...!"
+ let me see you muster it now, in your last MOMENTS...!"
 "Nn.........
 ......nnnggaaaaaaaaaaaaaaaaaagghhhhh!!!"
 It\'s a small but brilliant red truth.
-My last trump card, courtesy of {f:5:Virgilia}...!!
+My last trump card, courtesy of VIRGILIA...!!
 Erika......this takes your theory back to square one...!!
 "Go for it...if you think you can."
 {a:c:
@@ -1999,7 +1999,7 @@ Even if that\'s all it does,
  ......it\'s the first and last strike I can make...!!
 "
 Knox\'s 2nd:
- It is forbidden for supernatural agencies to be employed as a detective {f:5:technique}}."
+ It is forbidden for supernatural agencies to be employed as a detective TECHNIQUE}."
 ...............Huh......?
  My...
 ...red truth...
@@ -2008,18 +2008,18 @@ Knox\'s 2nd:
  they\'ll have to construct an appropriate proof for it.
  Erika has been following this protocol, why can\'t you...?"
 True, Erika herself hasn\'t used the red even once so far.
-......She\'s always had the witch {f:5:Bernkastel} make those statements by using repetition requests......
+......She\'s always had the witch BERNKASTEL make those statements by using repetition requests......
 "Your red truth isn\'t something you obtained for yourself.
  ......It\'s a supernatural truth gifted to you by a paranormal entity.
  In other words, it isn\'t reasoning.
  It\'s no better than a random thought......"
 I‐
 ......in that case,
- ......if I have {f:5:Virgilia}...
+ ......if I have VIRGILIA...
 ...say the same red truth......
-Where is......{f:5:Virgilia}.........?
-"If you are to present that red truth, you must construct an appropriate {f:5:argument}.
- ............Can you do {f:5:that}......?"
+Where is......VIRGILIA.........?
+"If you are to present that red truth, you must construct an appropriate ARGUMENT.
+ ............Can you do THAT......?"
 No, .........it\'s impossible............
 I just have the truth that Aunt Natsuhi isn\'t the culprit...
 .........without any basis or evidence.
@@ -2030,8 +2030,8 @@ I just have the truth that Aunt Natsuhi isn\'t the culprit...
  ......Even without it, ......the story goes on......
  ......Battleeer........."
 "Now, Battler.
- ......Prove the red you have {f:5:shown}.
- ......If you cannot, this is {f:5:goodbye}."
+ ......Prove the red you have SHOWN.
+ ......If you cannot, this is GOODBYE."
 "............Then...
 ...this is goodbye.
  ......Sorry,
@@ -2041,19 +2041,19 @@ I just have the truth that Aunt Natsuhi isn\'t the culprit...
  ......It was such a blood‐stained tale...
 ......but it was fun..."
 "
-This court is now {f:5:disbanded}.
- {f:5:Dead}.
- {f:5:Death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐}
-{f:5:death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐}
-{f:5:death‐death‐death‐death‐death‐death‐}
-{f:5:death‐death‐death‐death‐}
-{f:5:death‐death‐death‐death‐death‐death‐}
-{f:5:death‐death‐death‐death‐death‐death‐}
-{f:5:death‐death‐death‐death‐death‐death‐death‐death‐death‐death‐}
-{f:5:death‐death‐death‐death‐death‐death‐death‐death‐}
-{f:5:death‐death‐death‐}
-{f:5:death‐death‐death‐}
-{f:5:death‐death‐death‐death‐death‐death}}!"
+This court is now DISBANDED.
+ DEAD.
+ DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐
+DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐
+DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐
+DEATH‐DEATH‐DEATH‐DEATH‐
+DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐
+DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐
+DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐
+DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐
+DEATH‐DEATH‐DEATH‐
+DEATH‐DEATH‐DEATH‐
+DEATH‐DEATH‐DEATH‐DEATH‐DEATH‐DEATH}!"
 "
 <Die the DEATH>!
  <Sentence to DEATH>!!
@@ -2073,15 +2073,15 @@ It is only possible for the crime to have taken place during that hour,
  and for that one hour, alibis have been proven for all characters except Natsuhi.
 From the sky, a massive, red longsword, even greater in size than the one Dlanor held, came crashing down like a thunderbolt,
  and pierced through Battler\'s heart, pinning him in place while he still stood......
-In that instant, {f:5:Beatrice} vanished in a spray of gold,
+In that instant, BEATRICE vanished in a spray of gold,
  ......and her former minions disappeared as well.
 As the heartless witches looked down at the cathedral\'s center, laughing coldly,
  ......all that remained was Battler, with the red longsword sticking through him, and Dlanor.
 "Agh.........nng...
 ...............gghh........."
-"......Rest in {f:5:peace}, Ushiromiya Battler.
- It is a {f:5:shame}.
- I thought you were a more capable person than {f:5:this}."
+"......Rest in PEACE, Ushiromiya Battler.
+ It is a SHAME.
+ I thought you were a more capable person than THIS."
 "...............guh........................"
 Battler blew bubbles of blood,
  ......closed his eyes slowly,
@@ -2426,7 +2426,7 @@ Kinzo does not exist anywhere outside the mansion}.
 Because of the detective\'s authority, Erika could "find all clues".
 Therefore, if Erika was unable to find "a hint that Kinzo existed outside the mansion",
  it was the same as proving that Kinzo didn\'t exist outside the mansion.
-Therefore, {f:5:Bernkastel} repeated that truth of Erika\'s...
+Therefore, BERNKASTEL repeated that truth of Erika\'s...
 "
 Kinzo does not exist outside the mansion}.
  ............So, Natsuhi.
@@ -2525,8 +2525,8 @@ Because it had been established that a "living Kinzo" didn\'t exist anywhere exc
 ......And that room at the end of the corridor was......
 "Oh, ............ah.................."
 "Which room was at the end of the corridor, again?"
-{f:5:Lambdadelta} was munching on another refill of popcorn.
-"That\'s Natsuhi\'s room, Lady {f:5:Lambdadelta}...!!"
+LAMBDADELTA was munching on another refill of popcorn.
+"That\'s Natsuhi\'s room, Lady LAMBDADELTA...!!"
 "......In other words, Kinzo had no place to hide except inside Natsuhi\'s room.
  ......*giggle*giggle*giggle*!
  Do I need to say it in red?"
@@ -2550,7 +2550,7 @@ If Kinzo wasn\'t in this last room, ......it meant that he didn\'t exist anywher
 Therefore, “no living Kinzo exists”.
 However, Erika didn\'t make that argument.
 She had brought things to this point, but she didn\'t make it checkmate...
-It was because {f:5:Bernkastel} didn\'t want to win by cornering Natsuhi with the red truth,
+It was because BERNKASTEL didn\'t want to win by cornering Natsuhi with the red truth,
  but by forcing Natsuhi to admit to a humiliating resignation......
 "I have not only been searching for Kinzo‐san himself all this time.
  I have been looking for any sign at all that Kinzo‐san hid in these places between midnight and the morning.
@@ -2672,9 +2672,9 @@ to do anything like protect his honor}."
 As Natsuhi screamed, she fell down to her hands and knees......
 She no longer...
 ...had any way to reject the fake truth...
-...that {f:5:Bernkastel} and Erika had weaved......
-".........By my name as the Game Master, {f:5:Lambdadelta}!
- ......I acknowledge that Lady {f:5:Bernkastel} is the victor of this game.
+...that BERNKASTEL and Erika had weaved......
+".........By my name as the Game Master, LAMBDADELTA!
+ ......I acknowledge that Lady BERNKASTEL is the victor of this game.
  ......If anyone has any objections, state your name now!!"
 .................................
 Of course, there were none.

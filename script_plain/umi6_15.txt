@@ -1,8 +1,8 @@
 The entrance to the mansion was locked, but Erika had a master key, so she opened it without any trouble.
 She had gotten Krauss and the others to take the master keys from the servants,
  and at that time, she had used a little sleight of hand to pilfer one of them...
-"Well {f:5:then}.
- Where shall we go {f:5:first}?"
+"Well THEN.
+ Where shall we go FIRST?"
 "Why ask?
  ......Let\'s go and hear Battler‐san\'s answer."
 Grinning, Erika cut across the entrance hall, passed by the dining hall, and headed deeper and deeper into the mansion.
@@ -10,7 +10,7 @@ Grinning, Erika cut across the entrance hall, passed by the dining hall, and hea
 Battler could put off deciding whether the seals would remain intact or not until the moment right before Erika witnessed them.
 However, once she did witness them, ......the Game Master would have to show what had happened to them.
 In the witch\'s game they were in now, ......the simple act of going to check the seals around the guest room was an attack.
-".........Are you ready, Lord {f:5:Battler}?"
+".........Are you ready, Lord BATTLER?"
 "Yeah.
  ......Or as you would say it,
  ............come, step forward."
@@ -46,8 +46,8 @@ Then, she closely examined the seals she had placed retroactively.
  .........It\'ll be fine... I can do this...! I can do it!!
  Do your worst, Erikaaaaaaaaaaaa!!!"
 "
-We have confirmed that the seals to the guest room are {f:5:undamaged}.
- Since the time Lady {f:5:Erika} confirmed Battler\'s presence, this locked room has been {f:5:preserved}}."
+We have confirmed that the seals to the guest room are UNDAMAGED.
+ Since the time Lady ERIKA confirmed Battler\'s presence, this locked room has been PRESERVED}."
 "<Good>!!
  I\'m breaking the seals!!
  Rip, tear!!
@@ -77,7 +77,7 @@ Uwaaaaaaaaaaaaaaaaaaahhhhh!!
 It was pitch black, and nothing could be seen.
  ......However, there was a light switch just off to the side of the entrance.
 If that was pressed, the room would be lit up, and everyone would see whether or not there was a corpse on the bed.
-".........Should I turn on the {f:5:lights}?"
+".........Should I turn on the LIGHTS?"
 "No, ......wait a second, please.
  .........Battler‐san, I have a proposal."
 "............Let me hear it."
@@ -89,8 +89,8 @@ If that was pressed, the room would be lit up, and everyone would see whether or
 "Heheh......"
 "......I\'m seriously regretting it now.
  ......You were acting so miserable that I fell for it completely, ......and I gave you a ridiculous privilege."
-".........It was your {f:5:arrogance}.
- ......It will cost you {f:5:dearly}."
+".........It was your ARROGANCE.
+ ......It will cost you DEARLY."
 "..................Damn......it......"
 "......So, ...what is your proposal?"
 With a firm voice, Beato urged her to continue.
@@ -135,9 +135,9 @@ He could escape from the room,
 "......Th‐that seems reasonable."
 "There\'s nothing special about this.
  ......Back when the old you was the Game Master,
- you were under the observation of your guardian, Lady {f:5:Lambdadelta}.
+ you were under the observation of your guardian, Lady LAMBDADELTA.
  She judged all your red truths to be valid."
-".........So, you\'re telling us to show {f:5:Lambdadelta} our cards?"
+".........So, you\'re telling us to show LAMBDADELTA our cards?"
 "I\'ve been looking at them since the beginning.
  ......It\'s okay, don\'t worry.
  I\'m impartial in my judgments."
@@ -158,7 +158,7 @@ I swear that I am impartial in my judgments}.
 "Then I\'ll come around to your side.
  ......Let me take a look at your hand.
  ...............Hmmmmm......?"
-{f:5:Lambdadelta} understood what Battler had up his sleeve.
+LAMBDADELTA understood what Battler had up his sleeve.
 ......And she confirmed that Erika\'s first move had indeed gone straight through his heart.
 Just as Erika had guessed,
  Battler was alive, and after Erika had examined his "corpse", he had slipped out of the room,
@@ -260,7 +260,7 @@ With a click,
 ...was......
 ".........Dlanor.
  Confirm it with the red."
-"{f:5:Yes}.
+"YES.
  ......Ushiromiya Battler—"
 "No, it\'s my move.
  ......I\'ll say it.
@@ -274,7 +274,7 @@ Ushiromiya Battler is not on the bed}."
 "*giggle* No one would raise the stakes unless they felt confident in their advantage."
 "......Dlanor.
  Keep a record."
-"As you {f:5:wish}."
+"As you WISH."
 At Dlanor\'s nod, Cornelia, who was hanging back, started taking a record.
 She wrote down that Battler\'s corpse, which should have been on the bed, was not,
  ......and also that Battler hadn\'t backed down from this locked‐room game...
@@ -300,7 +300,7 @@ Knox\'s 3rd:
 "......
 
 No hidden places that are impossible for Erika‐san to find exist inside the guest room}."
-"Knox\'s 3rd, ......{f:5:valid}."
+"Knox\'s 3rd, ......VALID."
 "<Good>.
  ......Then let\'s get started with the search."
 ......Erika slowly began to walk around the room......
@@ -312,14 +312,14 @@ However,
 .........where each breath made her tense...
 Even the quiet sound of the rain......was distracting......
 "Now that I\'ve searched the room, I request a description of its layout."
-"......The guest room is divided into two rooms, the bedroom and the {f:5:bathroom}.
- Currently, you have searched the entire bedroom {f:5:section}.
- There is only one {f:5:exception}."
+"......The guest room is divided into two rooms, the bedroom and the BATHROOM.
+ Currently, you have searched the entire bedroom SECTION.
+ There is only one EXCEPTION."
 "............I\'ll leave that one place be for the time being.
  So, were there any irregularities discovered in the bedroom?"
-"There were {f:5:none}.
+"There were NONE.
  
-Except for one location, there is no one to be seen in the {f:5:bedroom}}."
+Except for one location, there is no one to be seen in the BEDROOM}."
 "......What\'s this "except for one location" business?
  Stop being annoying and make it public."
 "There\'s a reason a face‐down card remains face down.
@@ -330,9 +330,9 @@ And, since the guest room was made up of two rooms, if Battler wasn\'t in the ba
  ......it would mean that he had managed to vanish from the locked room.
 .........Except for that single location which Erika had intentionally left unchecked......
 "I\'m checking the bathroom."
-"......Lady {f:5:Erika}.
- ......The sound of water can be heard from {f:5:inside}.
- Also, there is a faint {f:5:heat}."
+"......Lady ERIKA.
+ ......The sound of water can be heard from INSIDE.
+ Also, there is a faint HEAT."
 "Ooh......?
  ......Don\'t tell me he\'s taking a shower...
  Is it locked or anything...?"
@@ -387,11 +387,11 @@ Making sure not to touch the hot metal parts, she carefully took the nippers...
  Haah......haah!!"
 She finally closed the faucet and the heat from the hot water storm died down.
 ......For a while, Erika was forced to cool her almost burnt arms under running water...
-"......What a {f:5:calamity}."
+"......What a CALAMITY."
 "Would you like a bath?
  I can wash your face with this brush."
-"Allow me to {f:5:pass}."
-"Oh. ......That\'s a {f:5:shame}."
+"Allow me to PASS."
+"Oh. ......That\'s a SHAME."
 Erika had finally regained enough of her composure to be abusive......
 She closed the faucet completely, ......and silence returned to the bathroom.
 After that, all that remained was Erika\'s heavy breathing.
@@ -402,12 +402,12 @@ She left the bathroom for a moment until that was finished.
  ...However, that wasn\'t here at the time I examined Battler\'s "corpse".
  Therefore, the appearance of this trap proves that Ushiromiya Battler was alive.
  ......Well, I never thought he was dead anyway."
-"......He merely decided to openly reveal a card that had already been {f:5:exposed}."
+"......He merely decided to openly reveal a card that had already been EXPOSED."
 "Let\'s check the inside of the bathroom.
  Was Battler seen?"
-"{f:5:No}.
+"NO.
  
-No one was seen in the {f:5:bathroom}}."
+No one was seen in the BATHROOM}."
 "<Good>.
  With this, we...
 
@@ -416,7 +416,7 @@ have confirmed that except for one location, Battler does not exist in any place
  Just where is this one exception?"
 "A coffin.
  .........Ushiromiya Battler\'s coffin, that is."
-"......Ashes to ashes, the dead to their {f:5:coffins}."
+"......Ashes to ashes, the dead to their COFFINS."
 ".........This room is where you plan to finish me off, right?
  ......Fine.
  Let\'s have it."
@@ -442,7 +442,7 @@ Bang!!
  ......the white piece...
 ...homed in on a weak spot in Battler\'s territory,
  ......and slammed onto the board......!
-"Yes, it is {f:5:here}...!!!"
+"Yes, it is HERE...!!!"
 With a crash, the door of the closet, which was just off to the side of the guest room\'s entrance, was impaled by a spear that represented the blue truth.
  Dlanor had spun around and thrown it.
 The door was completely pierced,
@@ -450,8 +450,8 @@ The door was completely pierced,
  ......Its still quivering handle was a testament to the force with which it had been thrown.
 "......................................."
 "
-There are no places in which to hide other than {f:5:this}.
- You are currently hiding in {f:5:here}}."
+There are no places in which to hide other than THIS.
+ You are currently hiding in HERE}."
 ".........What do you say, Battler‐san...?
  Have you been struck through the heart in a single blow,
  for a literal smothered mate...?"
@@ -476,8 +476,8 @@ There are no places in which to hide other than {f:5:this}.
  .........Who will be the liar, I wonder......?"
 The air crackled and sparked.
  ......The silence would hurt one\'s skin.
-"Then go {f:5:ahead}.
- ......It is your {f:5:turn}."
+"Then go AHEAD.
+ ......It is your TURN."
 ".........It\'s useless.
  Your lowly coffin won\'t be able to trap Battler‐san."
 "Here\'s my response."
@@ -542,8 +542,8 @@ The use of the duct tape wasn\'t limited by the number of strips, right?
 ".........ng......gah........."
 "......That\'s right.
  ......I......gave her permission to do that."
-"This is the price you pay for your {f:5:arrogance}.
- .........Pity is the evil liquor that the arrogant most {f:5:prefer}."
+"This is the price you pay for your ARROGANCE.
+ .........Pity is the evil liquor that the arrogant most PREFER."
 "So,
  with this retroactive move,
  
@@ -679,8 +679,8 @@ and slipping like smoke out of the crack in the chain‐locked door...
  ......share it with me now......!
 "......So, Battler‐san?
  Let\'s have that second move that you predicted you would checkmate me on."
-"Please provide your answer to Lady {f:5:Erika}\'s repetition {f:5:request}.
- ......Will you {f:5:respond}, ......or will you {f:5:decline}...?!"
+"Please provide your answer to Lady ERIKA\'s repetition REQUEST.
+ ......Will you RESPOND, ......or will you DECLINE...?!"
 Slowly......
 ...Battler\'s hand.........stretched out to his king piece on the board.
 He......lifted it up...
@@ -729,9 +729,9 @@ that he jumps into the path of death just because it\'s cool......?"
  I file a motion for a logic error!!"
 "With that last red truth, you have just cut off your own logic!!
  May the impartial judge issue a judgment on this matter immediately, please!!
- Great Lady {f:5:Lambdadeltaaaaaaaaaaaaaaaa}!!!"
+ Great Lady LAMBDADELTAAAAAAAAAAAAAAAA!!!"
 "Motion received.
- ......{f:5:Lambdadelta}.
+ ......LAMBDADELTA.
  Does this make logical sense? Your inspection, please."
 "Motion received.
  ............Battler.
@@ -775,7 +775,7 @@ However, ......that is like being imprisoned in an endless living hell of the mi
 ...and finally reached the miracle that I so wanted you to find.
  ......So, ......I\'d like to believe.........that you\'ll accomplish a miracle...
 ......once again...!"
-".........The woman called {f:5:Beatrice}...
+".........The woman called BEATRICE...
  ...She fought on that same border between reason and madness...
 ......the whole time.
  ......She fought with a mixture of anger, sadness, and several other emotions towards me that can\'t be described with words.
@@ -793,13 +793,13 @@ was Beato......
 "She entrusted me with this game board.
  ......That\'s why...I\'m going to win.
  .........So, I need you alone to believe in me.
- ......{f:5:Beatrice}..."
+ ......BEATRICE..."
 "If believing......will bring about a miracle..."
 "........................Please."
 "I\'ll believe in you......!!
  Battler‐san...!!!"
 "Aaaaaaaaaaaaaaahh, this is pissing me ooooooooooooff!!!
- Please just check it already, Lady {f:5:Lambdadelta}!!
+ Please just check it already, Lady LAMBDADELTA!!
  There is no valid logic!
  There doesn\'t exist any way to get out of this locked room!!
  You were overeager, Battler‐san!
@@ -811,14 +811,14 @@ was Beato......
  If you could do that, you really would be a witch!
  If you could vanish your way out of this locked room like a puff of smoke, I\'d have to acknowledge it!
  It\'d be the work of a wiiiiiiiitch!!!"
-"Quiet, Lady {f:5:Erika}!
- ......Lady {f:5:Lambdadelta} is conducting her {f:5:inspection}."
+"Quiet, Lady ERIKA!
+ ......Lady LAMBDADELTA is conducting her INSPECTION."
 ".................................
  ...............Pass through, one move.
  ...Go back,
  ......corner."
-With sweat gathering on her forehead, ......{f:5:Lambdadelta} inspected the movements of the pieces from Battler\'s side.
-She was as accurate and meticulous as an archeologist, ......just as {f:5:Bernkastel} had told her to be.
+With sweat gathering on her forehead, ......LAMBDADELTA inspected the movements of the pieces from Battler\'s side.
+She was as accurate and meticulous as an archeologist, ......just as BERNKASTEL had told her to be.
 "................................."
 After gulping stiffly,
  ......Lambda looked between the formation of the pieces on the board...
@@ -856,20 +856,20 @@ which remained tense but steady.
  If only I had believed more strongly, ......you wouldn\'t have been cornered like this......!! Waaaaaaaahh!!"
 Beato flew onto Battler\'s chest, sobbing...
 Erika staggered backwards, ......shaking her head back and forth dizzily.
-And {f:5:Bernkastel}...?
+And BERNKASTEL...?
 ............Her face was like an expressionless mask.
 Then, ......slowly...
 ......it became a smile...
 And for some reason,
  ......it seemed the sign of some horrible emotion......
-"Well......{f:5:done}......
+"Well......DONE......
  ......To think...
 ...that you escaped the room...
 ...without removing the chain...
- ......Simply {f:5:splendid}......"
+ ......Simply SPLENDID......"
 With her small hands, .........Dlanor slowly started to applaud quietly.
 ......She was followed by Gertrude, and then Cornelia.
-......And then by Beato and {f:5:Lambdadelta} too.
+......And then by Beato and LAMBDADELTA too.
 .........Applause......filled the room.........
 "O‐......Onii‐chan......
  ......H‐......how did you........."
@@ -880,7 +880,7 @@ With her small hands, .........Dlanor slowly started to applaud quietly.
 ...possible......
  ......Eee...
 eeeeeeeeeeek.........!"
-As {f:5:Lambdadelta} watched Erika, who was stunned and moaning in shock from despair she couldn\'t accept,
+As LAMBDADELTA watched Erika, who was stunned and moaning in shock from despair she couldn\'t accept,
  ...she had to take her hat off to the strength of Battler\'s heart and intelligence at this critical moment...
 ...and to the power of his miracles.
 ......Incredible, ......Ushiromiya Battler.
@@ -928,7 +928,7 @@ Kyrie...
 
 
 Ushiromiya Kyrie
- {f:5:cannot save} Battler
+ CANNOT SAVE Battler
 }.}
 ............Huh.........?
 "Wh‐......what do you mean......?"
@@ -940,7 +940,7 @@ Ushiromiya Kyrie......cannot save Battler}."
  Wait a second, ......how are you using the red truth?!"
 "It\'s valid.
  .........Dlanor\'s red truth is valid."
-"Applying for authorization to unsheathe the Red {f:5:Key}."
+"Applying for authorization to unsheathe the Red KEY."
 ".........Granted.
  Dlanor, do it, please."
 "H‐............how......?
@@ -968,7 +968,7 @@ Reconstruct the logic.
 "Then let\'s switch it to Natsuhi.
  ......Ushiromiya Natsuhi switched places with Battler...!"
 "Dlanor. ......Do it."
-"As you {f:5:wish}."
+"As you WISH."
 Dlanor\'s red longsword......smashed Natsuhi\'s piece into little bits...
 How...?!
 How...
@@ -983,10 +983,10 @@ Ushiromiya Eva cannot save Battler}."
 "Then Rosa!
  Maria!!"
 "
-Save your br{f:5:eath}.
- Neither Rosa nor Maria can come to his ai{f:5:d}.
- ......{f:5:Death‐death‐death‐death‐}
-{f:5:death‐death‐death‐death}!
+Save your brEATH.
+ Neither Rosa nor Maria can come to his aiD.
+ ......DEATH‐DEATH‐DEATH‐DEATH‐
+DEATH‐DEATH‐DEATH‐DEATH!
  <Die the DEATH>!
  <Sentence to DEATH>!
  <Great equalizer is the DEATH>}!!"
@@ -1001,10 +1001,10 @@ Save your br{f:5:eath}.
  There are......a few exceptional red truths......that even {y:0:Human}{n:0:human}s without the detective\'s authority can use."
 "......That\'s crazy...
  ......There\'s no way something like that exists!"
-"Yes, such a thing cannot {f:5:exist}.
+"Yes, such a thing cannot EXIST.
  ......However, ......there is a certain action permissible only to {y:0:Human}{n:0:human}s without the detective\'s authority,
  ......and it can become a truth of such overwhelming credibility...
-......that witches can easily raise it to the level of red {f:5:truth}."
+......that witches can easily raise it to the level of red TRUTH."
 "A certain action permissible only to {y:0:Human}{n:0:human}s who...
 ...aren\'t the detective.........?"
 ".....................Y‐......you don\'t mean...
@@ -1027,7 +1027,7 @@ Save your br{f:5:eath}.
 "
 Knox\'s 7th.
  .........It is forbidden for the detective to be...
-the {f:5:culprit}}."
+the CULPRIT}."
 "B‐but that\'s...
 ......wh‐.........whaaat?!"
 ......Finally, Beato realized everything.
@@ -1166,8 +1166,8 @@ This was the story of a prank, where no one was dead in the first place...
 And then...
 ......this......devil...
 ............turned it into a genuine murder case......!
-"......You do have the right to speak ill of Lady {f:5:Erika}.
- ......However, ......at this moment, you have the obligation to present new logic that does not lead to any {f:5:contradictions}."
+"......You do have the right to speak ill of Lady ERIKA.
+ ......However, ......at this moment, you have the obligation to present new logic that does not lead to any CONTRADICTIONS."
 "Ashes to ashes, dust to dust.
  Corpses to corpses...!
  So, Battler‐san? Let\'s continue the game!!
@@ -1220,9 +1220,9 @@ For your attention: I beg to inform you of the following.
 Know that an unbroken seal is proof that all have hitherto been denied passage}."
 "
 It needs no second telling, but be advised that passing through without breaking the seal is impossible}!!"
-"{f:5:Good}.
- ...Battler, it is as you {f:5:see}.
- ......There no longer exists anyone who can come to your {f:5:aid}."
+"GOOD.
+ ...Battler, it is as you SEE.
+ ......There no longer exists anyone who can come to your AID."
 The victims of the first twilight have all been killed!
 And the guesthouse is still sealed!!
 No one can come to the rescue...!!
@@ -1312,7 +1312,7 @@ this room is a locked room created from the inside.
  ......That one\'s in the bathroom."
 "My merciful master has arranged for a last way out if you fail to think of any trick to escape.
  ......Please listen up!!"
-{f:5:Bernkastel} guided Battler to the bathroom.
+BERNKASTEL guided Battler to the bathroom.
 It was just a normal bathroom.
 The setup intended to surprise Erika and buy Battler time was no longer working.
 However, the bundle of wire and the nippers that had been used to prepare that trap...
@@ -1412,7 +1412,7 @@ Giving up has a completely different meaning here, okay...?
 ".........And so, I need to constantly feel...truly feel that this isn\'t a dream...
  ......Hey, ......are you guys......really.........real......?
  ...You aren\'t just an insane delusion I\'m having inside that hell, ......right......? Right? .........Right......?"
-There was something in {f:5:Lambdadelta}\'s pleading expression that sent shivers down the spine.
+There was something in LAMBDADELTA\'s pleading expression that sent shivers down the spine.
 It was probably more terrifying than any threatening words she could have used with even the most vile expression on her face......
 It was time for Battler to realize.
 ......A logic error isn\'t so sympathetic that you can just stick out your tongue,
@@ -1493,7 +1493,7 @@ Why......have I always been so clumsy...
 .........ggh......kk........."
 Beato called out to Battler repeatedly, shaking his shoulders hard, ......but by now, Battler\'s eyes were blank.
 ......The words didn\'t reach him......
-{f:5:Bernkastel} and Erika had already left.
+BERNKASTEL and Erika had already left.
 The game was officially suspended until Battler could think of a new trick,
  ......but it was doubtful that it would be resumed even after a thousand years...or more...
 ".........Okay, I\'m heading off too.
@@ -1521,7 +1521,7 @@ The game was officially suspended until Battler could think of a new trick,
 "......If you two managed to get out of it, then he can as well!
  I will save him...!! For certain......!!!"
 "For certain......?
- ......You stand before the Witch of Certainty, {f:5:Lambdadelta},
+ ......You stand before the Witch of Certainty, LAMBDADELTA,
  and swear a certain outcome...?"
 "Yes! For certain...!!"
 ".................................
@@ -1535,7 +1535,7 @@ The game was officially suspended until Battler could think of a new trick,
  .........The hope that as long as you hold on to your "certainty", your wish will definitely come true."
 "........................"
 "Listen.
- The old you was the Endless Witch {f:5:Beatrice}.
+ The old you was the Endless Witch BEATRICE.
  ......You used to love detective novels that depicted impossible crimes,
  and you used those to make the claim that a witch existed, to make many people believe in magic...
 as one stage on your path to becoming a witch."
@@ -1548,7 +1548,7 @@ as one stage on your path to becoming a witch."
 "......Battler told you, right?
  ......He told you that the old you would definitely have thought of a way out of this predicament.
  .........I\'ll acknowledge that.
- I guarantee it by the name of the Witch of Certainty, {f:5:Lambdadelta}.
+ I guarantee it by the name of the Witch of Certainty, LAMBDADELTA.
  ......The old you would definitely have solved this locked room trick......!"
 "........................!"
 "......That\'s my parting gift to you.
@@ -1558,7 +1558,7 @@ as one stage on your path to becoming a witch."
  .........‘I\'ll see you again soon’."
 "Y‐......yes.
  .........We\'ll see you again...soon......!"
-{f:5:Lambdadelta} vanished into thin air......
+LAMBDADELTA vanished into thin air......
 And left behind in the witch\'s tea room...
  ...were the two who had held the title of Endless Witch.
 One had empty eyes.

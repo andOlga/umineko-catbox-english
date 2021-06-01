@@ -525,7 +525,7 @@ Right next to her, Ronove also appeared.
  There is not even a trace of compassion there.
  .........I want to at least save Jessica from that kind of cruel fate."
 "......Certainly, by carrying that out, you would probably be praised as a good witch."
-"......However, the new {f:5:Beatrice}‐sama already views you as hostile, Milady.
+"......However, the new BEATRICE‐sama already views you as hostile, Milady.
  ...If you were to be seen by her again, ......you are aware, you would have no way to escape this time?"
 ".......................................
  ......When I reunited George with Shannon,
@@ -545,7 +545,7 @@ Right next to her, Ronove also appeared.
  ......If I can borrow the power of that emotion, I may be able to knock on the doors of Hades once again with my magical power."
 "I am sure you would be able.
  However, you would use up all of your magical power.
- ......If you were to be spotted by the new {f:5:Beatrice}‐sama, you would truly be without a method of escape."
+ ......If you were to be spotted by the new BEATRICE‐sama, you would truly be without a method of escape."
 "...I am no longer your butler, Milady.
  ......Understand that I cannot assist you if the situation worsens."
 "...I know.
@@ -778,7 +778,7 @@ Even though she would have been able to make it this far in no time if she had b
 "Inside the curtains...
  Not bad.
  I used to hide in there a lot, long ago."
-".........{f:5:Beatrice}‐sama..."
+".........BEATRICE‐sama..."
 "...Huh?"
 Kanon called the witch\'s name.
  Jessica looked around in surprise, but being unable to see, she obviously couldn\'t find the witch...
@@ -792,23 +792,23 @@ Kanon squared off against the evil witch, but Beato\'s expression was soft, ...a
 "Wh‐......who?!
  Who\'s there...?!"
 "...Milady, be quiet.
- ......She is the witch, ...{f:5:Beatrice}...
+ ......She is the witch, ...BEATRICE...
  .........I am in her debt, ......because she let me be with you one more time."
-"............The witch.........{f:5:Beatrice}......"
+"............The witch.........BEATRICE......"
 "...I am unimportant.
  I suggest you instead make haste in hiding that girl in the shadows of the curtains.
  .........You probably do not have much time left.
  You should spend it in a final conversation with Jessica."
 "...A secret meeting inside a bundle of curtains... You two have quite the sense of style.
  *cackle*cackle*..."
-"Uh, umm, ............thank you, {f:5:Beatrice}...!!
+"Uh, umm, ............thank you, BEATRICE...!!
  Thank you for letting me be with Kanon‐kun......!!"
 Jessica didn\'t know where Beato was, so she said that while facing in the wrong direction.
 Perhaps because she found that funny, Beato snickered.
 "I will now leave this room to the pair of lovers.
  Evil witches have no need for tales of love, you see.
  Allow me to retreat."
-"......{f:5:Beatrice}‐sama...
+"......BEATRICE‐sama...
  ...Thank you very much."
 "Hmph...
  .........No need to thank me.
@@ -834,14 +834,14 @@ Just then, ...Beato perceived something.
  To think that she doesn\'t even intend to allow the two young ones to speak to each other of their love...
  ......*cackle*cackle*cackle*cackle*...!!"
 "45, data received.
- Comparing target, confirmed as the Predecessor Lady {f:5:Beatrice}.
+ Comparing target, confirmed as the Predecessor Lady BEATRICE.
  Analyzing parlor defensive wall.
  Multilayered defensive wall, 72 layers, attack barrier and magic reactive armor.
  Sniping into the parlor is impossible.
  Data link to 410."
 "410, data received. Nihi!
  Then we\'ve just gotta———the Predecessor first nyeh.
- Great Lady {f:5:Beatrice}, permission to fire, please!"
+ Great Lady BEATRICE, permission to fire, please!"
 "Go ahead and shoot.
  ...Oh, and avoid her vital areas.
  There\'s something I want to ask that old hag."
@@ -869,7 +869,7 @@ The gold snake that had shot through Beato grew even longer, drawing a helix lik
 ...It was ready to pierce a vital spot as soon as the merciless witch told it to.
 ".........For what reason would someone like you, who is even more brutal than me,
  make them avoid my vital areas?
- New {f:5:Beatrice}...!!"
+ New BEATRICE...!!"
 "I wanted to ask you.
  ...I don\'t know what trick you used to escape, but we were under the impression we had taken you out, you know?"
 "Why is it that even though you could have escaped by hiding, you took the risk of appearing again?
@@ -961,7 +961,7 @@ But, .........she couldn\'t die.
 If she died, the two in the parlor would be handed over to the brutal witch.
 So she definitely couldn\'t die.
 She resolutely...refused to die...!
-".........New {f:5:Beatrice}...
+".........New BEATRICE...
  ...I have a request.
  .........The lover\'s meeting between the two in the parlor is to be short.
  .........In the amount of time an hourglass can measure, Kanon will probably disappear to Hades.
@@ -1054,16 +1054,16 @@ cannot leave a single scratch on {f:7:Beatrice‐sama\'s} endless nature."
 "......Just what...do you mean by that......"
 "In the same way that there is no light without knowledge of shadows,
  ......there is also no endless without knowledge of the limited.
- .........Before Milady {f:5:Beatrice}\'s true endless power, your flimsy magical power is very, very lacking."
+ .........Before Milady BEATRICE\'s true endless power, your flimsy magical power is very, very lacking."
 "What is.........that supposed to mean......"
 "...aah—"
 The cruel witch stepped back in surprise.
 It was more transparent than a lace curtain...
 ......but Beato\'s form—no, {f:7:Beatrice\'s} form—was still standing there.
 Even after taking on this wretched appearance, ......she would not allow evil through that door.
-At that time, ......a shadow just as faint as {f:5:Beatrice} stood behind her.
+At that time, ......a shadow just as faint as BEATRICE stood behind her.
 It was Kanon.
-".........{f:5:Beatrice}‐sama.
+".........BEATRICE‐sama.
  ...Thank you very much.
  ...I will not forget this favor you have done for me."
 "......Hmph.
@@ -1071,7 +1071,7 @@ It was Kanon.
  ......Are you done?"
 "Yes.
  .........Truly, thank you very much.
- ......And {f:5:Beatrice}‐sama,
+ ......And BEATRICE‐sama,
  ......you have also...done enough.
  ......Please,
  ......be at peace..."
@@ -1079,23 +1079,23 @@ It was Kanon.
  ......So this...is enough......
  .........ku......*cackle*cackle*cackle*..."
 "What\'s going on...?
- ......Why are you guys calling that predecessor hag {f:5:Beatrice}?!
- {f:5:Beatrice} is my name, right?!
+ ......Why are you guys calling that predecessor hag BEATRICE?!
+ BEATRICE is my name, right?!
  It should be my name, as the new Golden Witch and Endless Witch, right?!"
 "............What gall.
- How dare you assume {f:5:Beatrice}‐sama\'s name."
+ How dare you assume BEATRICE‐sama\'s name."
 "I am afraid to say...
-...that the name of {f:5:Beatrice}‐sama should be taken by the person who can be crowned as the Endless Witch.
+...that the name of BEATRICE‐sama should be taken by the person who can be crowned as the Endless Witch.
  By now, the term "predecessor" refers to you.
  ...Pukkukukukuku."
 "What......did you say......?"
 ".........Farewell, Kanon.
  ......I\'ll meet you soon anyway.
  In a new nightmare."
-".........In the nightmare of a new night, I will once again be your companion, {f:5:Beatrice}‐sama...
+".........In the nightmare of a new night, I will once again be your companion, BEATRICE‐sama...
  ......With that, ...if you would excuse me......"
 Kanon\'s form grew faint, ......and he disappeared into thin air.
-After watching him go, ...{f:5:Beatrice}\'s form also grew faint, ......and before disappearing, it slumped over onto the floor.
+After watching him go, ...BEATRICE\'s form also grew faint, ......and before disappearing, it slumped over onto the floor.
 Then, ......there was a splat.
 The golden heart which had been floating in midair...had lost its sparkle, become blood‐stained flesh, and fallen to the ground.
 ...How frail it was.
@@ -1103,7 +1103,7 @@ It was ragged and full of holes.
 ...But until just now, it had sparkled so much, and had continued to beat forcefully.
 That heart still barely managed to beat.
 ......However, it was only a matter of time before it stopped.
-{f:5:Beatrice}, whose form had become fragile and faint like incense smoke, lay on the floor,
+BEATRICE, whose form had become fragile and faint like incense smoke, lay on the floor,
  ......steadily watching her own heart...
 There, the cruel witch could be seen...
 "...H‐...how are you "endless"...?
@@ -1112,15 +1112,15 @@ There, the cruel witch could be seen...
  This is the limit of your magic!
  The limited is inferior to the infinite!!"
 "...................................."
-{f:5:Beatrice} no longer had the energy even to respond.
+BEATRICE no longer had the energy even to respond.
 ...No, in fact, it was doubtful whether the words of the cruel witch even reached her ears...
 "If you\'re a real Endless Witch, try standing up!!
  Well?
  You can\'t, can you?!
  Why do you think you can\'t stand?!
  It\'s because you aren\'t an Endless Witch!!"
-The merciless witch poked {f:5:Beatrice}\'s heart with her fingernail.
-{f:5:Beatrice} had no words with which to respond to that provocation.
+The merciless witch poked BEATRICE\'s heart with her fingernail.
+BEATRICE had no words with which to respond to that provocation.
 ......However, ...instead of words, she returned a single expression.
 ......It looked insulting only to the cruel witch.
 Because she had gently curved her mouth, ......and smiled.
@@ -1144,7 +1144,7 @@ There was no way she could mistake them.
 ...your opponent......?"
 "No good."
 Battler said that unbelievably bluntly.
-Taking a painful breath, {f:5:Beatrice} saw that, and sneered at herself as though she should have expected it.
+Taking a painful breath, BEATRICE saw that, and sneered at herself as though she should have expected it.
 "............ku, ...*cackle*...
  ...Is that so.
  ......It seems I still have an uphill struggle ahead of me on the road to becoming a true witch..."
@@ -1156,11 +1156,11 @@ Taking a painful breath, {f:5:Beatrice} saw that, and sneered at herself as thou
  It\'s no goddamn good at all.
  You aren\'t my opponent."
 The brutal witch raised her foot high...
-...Below it was {f:5:Beatrice}\'s frail heart.
+...Below it was BEATRICE\'s frail heart.
 "Die, you old hag!!
  See if you can show how endless you are after you\'ve been mushed to bits!!
  I am the witch!
- I am the Golden Witch, {f:5:Beatrice}!!!
+ I am the Golden Witch, BEATRICE!!!
  Diiiiiiiiiiiiiiiiiiiiiiiieee!!"
 {e:170:"Yeeeeeahhhh, it\'s no good, it\'s no goddamn good at aaaaaaaaaaaaaaaall!!!"}
 "Wha‐.........what...
@@ -1206,7 +1206,7 @@ The Chiester Sisters dropped their golden bows in shock...
  I\'ll tear that mask of yours off!!!"
 ""H‐...hiiiiiiiiiiiii!!""
 The Chiester Sisters couldn\'t hide their fear at Battler\'s ferocity, and they backed up as though they had been struck.
-{f:5:Beatrice} watched this scene in shock......
+BEATRICE watched this scene in shock......
 "B‐......Battler,
  ......what......is this supposed to be......?"
 "Just what you\'re seeing.
@@ -1222,10 +1222,10 @@ Then, Battler\'s eyes grew as sharp as blades as he fixed his eyes on the cruel 
  Witches, my ass!
  You aren\'t a witch!!
  I\'ll rip that mask off and tear it to shreds!!
- {f:5:Virgilia}, get ready to fight!!"
+ VIRGILIA, get ready to fight!!"
 "Understood.
  Preparations are complete, so go whenever you\'re ready.
- ......{f:5:Beatrice}.
+ ......BEATRICE.
  You stay back and rest."
 "M‐mm......"
 Beato looked at Battler timidly.
@@ -1254,7 +1254,7 @@ Was she qualified to watch the game board from the sidelines...?
  I am a true witch, born inside of her...!!"
 "Don\'t try to trick me! Your true form isn\'t a witch or anything like it, but a flesh‐and‐blood human.
  The human culprit, Ushiromiya Eva!!!
- {f:5:Virgilia}, reconstruct the second twilight!!"
+ VIRGILIA, reconstruct the second twilight!!"
 "Understood."
 "On the second twilight, Rosa and Maria were killed in the rose garden.
  We make our first move by applying the Eva culprit theory."
@@ -1324,7 +1324,7 @@ It seemed that the witch still didn\'t understand how to approach things, and wa
 She was probably also angry that a shot had been taken at her while she still didn\'t get what was going on.
 ...But I won\'t go easy on her at all.
 Just like she didn\'t go easy on the victims at all, I won\'t go the slightest bit easy on her...!!
-"{f:5:Virgilia}, next crime!
+"VIRGILIA, next crime!
  Let\'s reconstruct the incident with Dad and the rest!!"
 "Understood."
 "Rudolf, Kyrie, and Hideyoshi: these three people went to the mansion, and were killed there."
@@ -1485,7 +1485,7 @@ no reason for her changing her mind was ever told to anyone, nor was one ever wr
  I have the feeling that it was Milady\'s specialty, but I cannot remember."
 "..................kh...
  Quit being stingy and tell me...!"
-"{f:5:Beatrice}.
+"BEATRICE.
  There is no answer that will be given to those who stop thinking themselves.
  ...Think.
  Think in your own way!"
@@ -1539,7 +1539,7 @@ Until the last instant before she died, Kyrie maintained her pattern of behavior
  I mean, look at me, I exist."
 "I am the Golden Witch!!
  I stole that name from that former witch over there!!
- You can\'t deny that I am {f:5:Beatrice}!!!"
+ You can\'t deny that I am BEATRICE!!!"
 "Damn iiiiiiiiiiiiiiiiiiiiiiit...!!!
  You have no right to say that name...!
  ......And yet, ......I can\'t think of a move to deny that.........!!!"
@@ -1557,7 +1557,7 @@ He ground his teeth, making fists with both hands.
 "Wh‐......what did you say...?"
 "Huh?!
  What kind of move can you possibly have, Predecessor‐sama?!
- Care to tell me what kind of move can deny my magic, the magic of {f:5:Beatrice}?
+ Care to tell me what kind of move can deny my magic, the magic of BEATRICE?
  You can\'t, it\'s impossible!!"
 "......If the proposition "I won\'t go to the mansion to get food" cannot be explained by itself,
  ......I will explain it with the contrapositive.
@@ -1592,7 +1592,7 @@ Beato landed on her feet in the reconstructed hall,
 "I, I don\'t quite understand the process of how the {y:0:Human}{n:0:human} side fights...
  .........Evidence was required, was it...?
  ......Then what should I search for?"
-"The purported Great Lady {f:5:Beatrice} is getting down on her knees and crawling around!
+"The purported Great Lady BEATRICE is getting down on her knees and crawling around!
  And she\'s even disgracefully searching a corpse?
  *cackle*cackle*cackle*, how that look suits you...!!"
 "...Say what you wish...
@@ -1633,7 +1633,7 @@ The witch fell over laughing, taunting Beato.
  I am a witch.
  You can\'t break through my magic!!"
 "You\'re no longer anything but a former witch.
- Just a loser who isn\'t even allowed to take the name {f:5:Beatrice} anymore!!
+ Just a loser who isn\'t even allowed to take the name BEATRICE anymore!!
  Go on, pile up as much trash and rubbish as you like, and try to break my magic with it!!"
 "...You can\'t, right?
  You can\'t, can you?
@@ -1718,7 +1718,7 @@ Beato found a cigarette box in Hideyoshi\'s pocket, took a single one out, and h
  No, ......this cigarette butt itself is the reason that Kyrie‐san left the guesthouse."
 "Beato, thank you.
  ......If you hadn\'t found this, I would have given up here."
-"............{f:5:Virgilia}!!
+"............VIRGILIA!!
  Reconstruct the situation!
  The guesthouse after it came to light that Auntie Rosa and Maria had been killed on the second twilight!!"
 "Understood."
@@ -1995,7 +1995,7 @@ The red only tells the truth}!!!
  ......The one who appeared in front of Nanjo was me.
  A witch.
  ......The Golden Witch, who can\'t be explained by the 18 humans!!"
-"{f:5:V‐Virgilia}!
+"V‐VIRGILIA!
  Ronove...!!
  Isn\'t the situation contradicting itself?!
  Is she really telling the truth with red?!"
@@ -2003,7 +2003,7 @@ The red only tells the truth}!!!
  "Red truth", valid."
 "............What an......elaborate and precise cornering......"
 "H‐......how should I make a move against this...?
- {f:5:Virgilia}...!
+ VIRGILIA...!
  Isn\'t there any move......?!"
 "..................I...cannot think of anything..."
 "...And you, Ronove?!"
@@ -2047,7 +2047,7 @@ Right before his eyes}!
  However, the human may have been able to use magic.
  ......Which means, it was a witch."
 "......That is, in other words, me.
- The Golden Witch, {f:5:Beatrice}!!"
+ The Golden Witch, BEATRICE!!"
 ......Even as Battler...
 ground his teeth...
 ......his knees hit the floor with a thunk.
@@ -2058,10 +2058,10 @@ His soul still refused to submit...
  Oh, did you kneel...?"
 "That\'s right, you\'re already starting to understand.
  ......The Golden Witch does exist.
- .........And that Golden Witch, {f:5:Beatrice}, is me...!!"
+ .........And that Golden Witch, BEATRICE, is me...!!"
 "Come on, praise me.
  Now is the time to praise the resurrection of a true witch.
- Now is the time to praise the resurrection of the Golden Witch, {f:5:Beatrice}!!
+ Now is the time to praise the resurrection of the Golden Witch, BEATRICE!!
  On the ninth twilight, the witch revives, and none shall be left alive......!!!"
 "Daaamn iiiiiiiitt.........
  ......I don\'t......understand......!
@@ -2124,7 +2124,7 @@ Then she stood up, and spoke to the witch.
  How can you possibly cut up this perfect checkmate?"
 "How can this checkmate, which is completely impossible for {y:0:Human}{n:0:human}s to break,
  possibly be broken by the likes of you?!"
-".........{f:5:B‐Beatrice}, you couldn\'t be..."
+".........B‐BEATRICE, you couldn\'t be..."
 "Mm.
  ...What about a move that a {y:0:Human}{n:0:human} cannot make.
  ......I will counterattack you with a move I can use because I am a witch..."
@@ -2132,7 +2132,7 @@ Then she stood up, and spoke to the witch.
  ......Wh‐...what are you planning to do...?"
 "I will use the red...
 to deny witches."
-"{f:5:Beatrice}...!!"
+"BEATRICE...!!"
 "M‐Milady...!!"
 The master and the butler were both startled.
 ......I also immediately understood what it meant.
@@ -2180,7 +2180,7 @@ Denying witches was the same thing as denying magic.
 ......That included demons such as Ronove.
 However, instead of running away, Ronove chose to act as the facilitator for the game,
  ...and to carry out that duty for his master\'s sake.
-"......{f:5:Beatrice}.
+"......BEATRICE.
  .........You have...no regrets, I hope."
 "The same to you."
 "......Sorry.
@@ -2241,7 +2241,7 @@ However, instead of running away, Ronove chose to act as the facilitator for the
  ...even so, I want you alone to cover your ears.
  ..................I at least want to be a witch...in your eyes.
  ......Please."
-"......{f:5:Beatrice}‐sama.
+"......BEATRICE‐sama.
  ...There is no problem on the witch side.
  Please, your move."
 "Let gooooooooooooooooooo!!
@@ -2283,7 +2283,7 @@ If Battler had broken his promise, and sneakily listened in...
  ...and the entire tale of anger and sadness.
 However, ......Battler would only learn what that was when he reached the truth by himself.
 Yes.
- ...From the beginning, ......{f:5:Beatrice} had wished that Battler would reach that truth by himself.
+ ...From the beginning, ......BEATRICE had wished that Battler would reach that truth by himself.
 It was something that shouldn\'t be reached by being told.
 It was a truth that Battler would have to drag himself to with his own power.
 A brilliant light gathered with Beato and the evil witch at the center, and grew gradually stronger...

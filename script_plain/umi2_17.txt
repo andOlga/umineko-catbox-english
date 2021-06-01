@@ -18,7 +18,7 @@ Battler realized that he was about to meet his maker...
  Come in, whoever you are.
  And please introduce yourself.
  If you\'re human, gimme your name.
- And if you\'re {f:5:Beatrice}, gimme your three sizes."
+ And if you\'re BEATRICE, gimme your three sizes."
 "You might not believe this, but I\'m a pretty well‐known breast‐sommelier, y\'sheee?"
 ".........It is Genji, Battler‐sama."
 "...Genji‐san, huh.
@@ -49,7 +49,7 @@ Those words...stung...
  ......after a number of sad incidents,
  ......was completely reduced to atonement."
 "...What do you know?"
-"............{f:5:Beatrice}‐sama\'s ritual has been entirely completed up to the eighth twilight.
+"............BEATRICE‐sama\'s ritual has been entirely completed up to the eighth twilight.
  ...I believe...that I can now tell you everything."
 "Wha‐......what did you say...?"
 My drunkenness was completely blown away.
@@ -84,7 +84,7 @@ He then turned back and spoke.
 Genji‐san checked one last time to see whether I was prepared to learn the truth.
 The eighth twilight had already ended.
  And on the ninth twilight, the witch revives, ......and none shall be left alive.
-It meant that {f:5:Beatrice} had already revived.
+It meant that BEATRICE had already revived.
 ...And probably, none of us would be allowed to return alive.
 If I was going lose my life anyway, ......I wanted to know the truth in the end.
 ...It didn\'t matter how hard it might be to accept.

@@ -117,7 +117,7 @@ Nanjo hurriedly whispered into Kumasawa\'s ear.
  Me too.
  .........Regardless of whether the culprit was that mystery guest or not."
 "That\'s right.
- ......We are naturally suspecting the mysterious guest who calls herself {f:5:Beatrice},
+ ......We are naturally suspecting the mysterious guest who calls herself BEATRICE,
  but we still cannot be sure that she is the culprit.
  ...There is still the possibility she\'s a victim whose corpse still hasn\'t been found."
 "......When I think of it that way, there\'s something I just can\'t understand."
@@ -139,7 +139,7 @@ Nanjo hurriedly whispered into Kumasawa\'s ear.
  ......And yet, they acted as though they wanted to make us find the corpses in the middle of this typhoon."
 "......What...does this mean?
  ...If I was the culprit, I definitely wouldn\'t play around and make us find the corpses."
-"............{f:5:Beatrice}‐sama was not in her room.
+"............BEATRICE‐sama was not in her room.
  ...The room did not seem particularly disturbed.
  ......Ah, no, Milady did disturb it quite a lot though..."
 "...Come to think of it, what happened to Jessica?"
@@ -241,22 +241,22 @@ Kumasawa could no longer hide her shaking.
 Maria suddenly laughed in a creepy voice.
 ...I\'d thought she\'d been concentrating on the TV, but she\'d been listening in too, apparently.
 As she remained facing the TV, ...she very simply told us what we were forgetting.
-"{f:5:Beatrice} hasn\'t said one word about wanting the gold.
+"BEATRICE hasn\'t said one word about wanting the gold.
  ......She\'s not asked anything except whether you can solve the epitaph\'s riddle or not."
 "...Although I bet she thinks it\'ll be impossible for you anyway.
  ......Kihihihihihihihihihihihihihihihihi."
 "......So you\'re saying you can solve it, Maria?"
 "...Don\'t caaare.
  She\'s going to take me to the Golden Land, so.
- Won\'t get in {f:5:Beatrice}\'s way.
+ Won\'t get in BEATRICE\'s way.
  Kihihihihihihihihihihi,
  ouch."
 "Looks like if we wanna understand further, we\'re gonna have to ask Maria.
  ...Maria, tell us.
- ...............Who is this {f:5:Beatrice}?
+ ...............Who is this BEATRICE?
  What is she planning?"
 "Kihihihihihihihihihihihihihihihihi!
- Well, you see, {f:5:Beatrice} is a witch!
+ Well, you see, BEATRICE is a witch!
  She can do anything with her wondrous powers."
 "Anything can be done with the power of magic.
  You can create gold, you can create bread.
@@ -665,9 +665,9 @@ Auntie Rosa closed in on Shannon‐chan and George‐aniki, laughing unpleasantl
 ...Of course, they couldn\'t say anything back.
 They wanted to believe in Kanon‐kun.
  ...But if they did, they would have to suspect the other servants.
-The simplest culprit was the mystery guest {f:5:Beatrice}.
+The simplest culprit was the mystery guest BEATRICE.
 ......But she was nothing more than a guest, and didn\'t have a master key.
-.........Then if {f:5:Beatrice} was the culprit without a master key...
+.........Then if BEATRICE was the culprit without a master key...
 ...Do we have to accept the argument that she really is a witch, and locked the door with the power of magic......?
 "............That\'s a filthy argument...
  ......Filthy...... Filthy......"
@@ -677,7 +677,7 @@ The simplest culprit was the mystery guest {f:5:Beatrice}.
  If you do, you won\'t have to watch this ugly battle of humans pressing each other...
  *cackle*cackle*cackle*cackle*!"
 "So then what.
- The culprit is the 19th person, the guest {f:5:Beatrice}.
+ The culprit is the 19th person, the guest BEATRICE.
  ...She\'s a witch, so she could lock the door without a key using magic."
 "Are you telling me to accept that?
  No goddamn way...!
@@ -723,7 +723,7 @@ We didn\'t want to be suspected.
  ...It may be possible that they would massacre us for this reason."
 ".............................."
 "For the simple reason that our guest wasn\'t holding a master key, for the murder of Jessica‐chan, and this murder alone,
- we removed our 19th person—{f:5:Beatrice}—from suspicion.
+ we removed our 19th person—BEATRICE—from suspicion.
  But we can\'t say that she is unrelated to the crime."
 "......After all, it\'s a vast amount of gold we\'re talking about.
  We can\'t deny the possibility that there are multiple culprits.
@@ -864,7 +864,7 @@ At the time everyone made to leave the room,
 "...I\'ve gotta take responsibility for my own actions.
  Ihihihihi...!
  ...............I\'m empty‐handed with zero weapons to argue with.
- ...But you know, I won\'t stand here twiddling my thumbs anymore!! {f:5:Beatrice}!!"
+ ...But you know, I won\'t stand here twiddling my thumbs anymore!! BEATRICE!!"
 "B‐......Battler‐sama......"
 "......I‐is there some proof that Kanon‐kun isn\'t the culprit......?"
 The expression that rose to those two faces was definitely expectant.
@@ -1066,7 +1066,7 @@ No trick could have the effect of locking the door from the outside without usin
 I\'ll lay out everything I know.
 First, there are two victims.
 Jessica and Kanon‐kun.
-...Kanon‐kun\'s corpse isn\'t here, but {f:5:Beatrice} admitted in red that Kanon‐kun was killed.
+...Kanon‐kun\'s corpse isn\'t here, but BEATRICE admitted in red that Kanon‐kun was killed.
 So even without a corpse, he\'s included as a victim.
 There are a few questionable points.
  And depending on which I focus on, my line of thought changes a lot.
@@ -1077,7 +1077,7 @@ Because I would have to suspect Gohda‐san or Kumasawa‐san—no, in the worst
 At this point, I noticed something.
 ......I\'m contradicting myself.
 I\'m cutting my own throat.
-I want to deny {f:5:Beatrice} no matter what.
+I want to deny BEATRICE no matter what.
 I want to erase the existence of that brutal, fickle, ridiculous witch!
 In order to do that, I have to explain everything with humans, not magic.
 ......But that also means suspecting some human.
@@ -1128,7 +1128,7 @@ We had lamented, mourned, and shed tears in the chapel.
 "And what that entails is suspecting one of you 18...!!"
 "Tha‐......thanks for the lovely explanation.
  ...I\'ve been able to sort things out a bit."
-"......My goal is to pursue how the 19th person, the {y:0:Human}{n:0:human} guest {f:5:Beatrice}, committed the crimes.
+"......My goal is to pursue how the 19th person, the {y:0:Human}{n:0:human} guest BEATRICE, committed the crimes.
  If I do that, I won\'t have to suspect anyone!!"
 "*cackle*cackle*!
  If you can do that, yes...!

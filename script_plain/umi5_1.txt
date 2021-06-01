@@ -502,7 +502,7 @@ It was said that as Kinzo listened to Death\'s approaching footsteps day in and 
 And then, on that day when he had freed himself from all his attachments to life, and reached a state of enlightenment......
 ...he had a mystical experience.
 ......And he met her.
-The Golden Witch, {f:5:Beatrice}......
+The Golden Witch, BEATRICE......
 "I made a contract with the witch and was given gold and the power of madness.
  ......On that day, the old me died, and a new me possessing the insane power of magic was born."
 "...I know.
@@ -516,9 +516,9 @@ Whether the story about Kinzo meeting a witch was true or not,
 Natsuhi must surely have felt that if Kinzo had decided to describe that resulting mystical experience as a meeting with a witch, that wasn\'t something she could flatly dispute...
 "......That\'s right.
  ...You returned from the war,
- conquered the witch {f:5:Beatrice}, and became the head of the Ushiromiya family in the truest sense..."
+ conquered the witch BEATRICE, and became the head of the Ushiromiya family in the truest sense..."
 "Correct.
- Before I met {f:5:Beatrice}, I was nothing more than a puppet and only the head in name.
+ Before I met BEATRICE, I was nothing more than a puppet and only the head in name.
  ......I only became the head after conquering the Golden Witch."
 "......Father......
  Will this...Golden Witch...aid my husband Krauss now that he\'s the new head...?"
@@ -531,15 +531,15 @@ Natsuhi must surely have felt that if Kinzo had decided to describe that resulti
  It is inherited through spirit and conviction.
  ......Even though Krauss is my eldest son, he cannot be called the true head if he does not possess these things!"
 "And even someone other than Krauss would make a splendid new head so long as that spirit dwelled in their heart.
- The Golden Witch {f:5:Beatrice} will lend her power to that true head.
- .........Isn\'t that right, {f:5:Beatrice}?!!"
+ The Golden Witch BEATRICE will lend her power to that true head.
+ .........Isn\'t that right, BEATRICE?!!"
 When Kinzo called the witch\'s name, ......gold butterflies seethed out of every corner of the room.
 This fantastical scene had an otherworldly beauty to it.
 It was like standing in the midst of a blizzard of golden flower petals being blown about a rose garden of gold.
 As Natsuhi stared at this scene in shock, the gold butterflies gathered and formed a human shape...
 Then, ......the witch of the portrait appeared...
 "Indeed.
- I am the Ushiromiya family alchemist, the Golden Witch {f:5:Beatrice}.
+ I am the Ushiromiya family alchemist, the Golden Witch BEATRICE.
  ......I am free to run rampant!
  I do not listen to anyone\'s orders."
 "And there\'s only one person in the world who can control her.
@@ -581,11 +581,11 @@ They had to believe that they could overcome any hardship...
  And now that we have inherited the Ushiromiya family from you, Father, we must protect its honor no matter what."
 "Hoh.
  ......Even though you can\'t even draw a blueprint on how to repay Krauss\'s debts?"
-As {f:5:Beatrice} laughed unpleasantly,
+As BEATRICE laughed unpleasantly,
  ......no, that wasn\'t it.
 She was testing Natsuhi, to see whether she possessed the mental readiness to be a true monarch.
 Natsuhi didn\'t hesitate anymore.
-She answered clearly, gazing into {f:5:Beatrice}\'s eyes.
+She answered clearly, gazing into BEATRICE\'s eyes.
 "Yes.
  At this moment, I have not yet discovered the method that we should pursue.
  However, my husband is the new head of the Ushiromiya family, and I am his supporting wife.
@@ -600,7 +600,7 @@ She answered clearly, gazing into {f:5:Beatrice}\'s eyes.
 "However, there is no need to worry.
  We will repay all of the debts before then and restore our honor."
 As she stood at attention with a resolute attitude,
- Natsuhi proclaimed this clearly with Ushiromiya Kinzo and {f:5:Beatrice} as witnesses.
+ Natsuhi proclaimed this clearly with Ushiromiya Kinzo and BEATRICE as witnesses.
 For a while,
  they remained silent, as though weighing Natsuhi\'s resolve.
 Then Kinzo chuckled and turned away...
@@ -608,7 +608,7 @@ Then Kinzo chuckled and turned away...
  ...Why couldn\'t this person have been my son..."
 "The very fact that a woman with such a disposition married your son is another sign of your great luck."
 "............
- {f:5:Beatrice}.
+ BEATRICE.
  This is my final order."
 "Now that you are no longer the head, I am not obligated to obey your orders."
 "Hoh.
@@ -635,10 +635,10 @@ Then Kinzo chuckled and turned away...
 "Go and overcome your hardship."
 "...Y‐.........yes."
 To Natsuhi, that might have been nothing more than a simple response,
- but to Kinzo and {f:5:Beatrice}, it seemed to carry much greater significance.
-{f:5:Beatrice} nodded deeply,
+ but to Kinzo and BEATRICE, it seemed to carry much greater significance.
+BEATRICE nodded deeply,
  and with a motion as elegant as her dress, she bowed deeply before Natsuhi...
-"The Ushiromiya family alchemist, the Golden Witch {f:5:Beatrice}, right here.
+"The Ushiromiya family alchemist, the Golden Witch BEATRICE, right here.
  I will give you my aid so that the Ushiromiya family can overcome crisis once again..."
 "......Thank you.
  I will need your power.
@@ -648,7 +648,7 @@ To Natsuhi, that might have been nothing more than a simple response,
  However, that is something I cannot do."
 ".........I see."
 "Sorry, Natsuhi.
- The contract for {f:5:Beatrice}\'s gold stated that it cannot be inherited.
+ The contract for BEATRICE\'s gold stated that it cannot be inherited.
  It was agreed that it could only be passed on to another if that person solves the witch\'s epitaph."
 "The gold is sealed away by the epitaph.
  As long as that is not solved, I cannot give you the magic of gold."
@@ -770,9 +770,9 @@ Then, after the butterflies exploded into fine gold powder and disappeared,
  Kinzo has revived.
  That means a funeral is unnecessary.
  Your hardship has been resolved!"
-"......B‐{f:5:Beatrice}..."
+"......B‐BEATRICE..."
 As Natsuhi tried to find words of gratitude,
- {f:5:Beatrice} waggled her index finger and spoke.
+ BEATRICE waggled her index finger and spoke.
 "There is no need for thanks.
  A ruler should be proud.
  I do not pay heed to requests, but I do follow orders."
@@ -794,7 +794,7 @@ As Natsuhi tried to find words of gratitude,
  I like it.
  I shall serve you."
 "Ushiromiya Natsuhi!
- I am the Ushiromiya family alchemist, the Golden Witch {f:5:Beatrice}...!!
+ I am the Ushiromiya family alchemist, the Golden Witch BEATRICE...!!
  Call my name whenever you wish. I shall then appear and grant you a miracle."
 "Thank you.
  I am Ushiromiya Natsuhi.

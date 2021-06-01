@@ -36,10 +36,10 @@ There were tears in George‐aniki\'s eyes again.
  .........You\'ll be able to meet Kanon again soon."
 "...Stop it!
  You aren\'t helping...!"
-"{f:5:Beatrice} will revive the dead, and even the love they possessed.
+"BEATRICE will revive the dead, and even the love they possessed.
  ......So, you\'ll definitely be able to meet him soon.
  Then everyone will be able to live in peace."
-"This {f:5:Beatrice}, who you say gave you that letter yesterday, is she the one who killed Kanon‐kun?!
+"This BEATRICE, who you say gave you that letter yesterday, is she the one who killed Kanon‐kun?!
  Where is she?!
  Where is she hiding?!"
 "I\'ll find her and tear her limb from limb!!!
@@ -49,7 +49,7 @@ There were tears in George‐aniki\'s eyes again.
 "Mi‐......Milady, please stop...!"
 "Uu!
  Uu!
- {f:5:Beatrice} exiiists!
+ BEATRICE exiiists!
  "Exiiists"!!
  Uu‐uu‐uu!!"
 "Dammit, let go of me, Genji‐san!!
@@ -65,7 +65,7 @@ After that, only Jessica\'s sorrowful sobbing voice resounded throughout the hal
  ...I know that there\'s no way you\'re one of the culprits.
  ...You have been with us since the beginning, and there was no time for you to communicate with any killer."
 "............So, I want you to tell me something.
- ......This "{f:5:Beatrice}" who handed you the letter yesterday, ...who was she?"
+ ......This "BEATRICE" who handed you the letter yesterday, ...who was she?"
 ......Although those words seemed kind, ...they clearly showed that George still had some doubts about Maria.
 ......He hadn\'t tackled Maria.
 However, he felt exactly the same way Jessica did.
@@ -73,18 +73,18 @@ However, he felt exactly the same way Jessica did.
  I asked her the same thing only just now.
  ...The answer won\'t be any different."
 "I want to hear it from Maria‐chan\'s mouth.
- ......Who is {f:5:Beatrice}?"
+ ......Who is BEATRICE?"
 "........................
  Even if I tell you, you won\'t......believe me anyway."
 "What do you mean by that?!
  ...Is it possible that the killer is someone we know well,
  ...and that, for some reason, you\'re covering for them by remaining silent?!
  Who gave you that letter?!"
-"............I got it from {f:5:Beatrice}.
+"............I got it from BEATRICE.
  I\'ll say it no matter how many times you ask.
- I got the letter from {f:5:Beatrice}.
+ I got the letter from BEATRICE.
  ......Kihihihihihihihihi.
- George onii‐chan, do you refuse to believe in {f:5:Beatrice} because she\'s not an opponent you can hit?"
+ George onii‐chan, do you refuse to believe in BEATRICE because she\'s not an opponent you can hit?"
 "You want to turn your feelings of helplessness into violence and beat someone up.
  So you won\'t be satisfied unless your opponent is a {y:0:Human}{n:0:human} you can hit."
 ".........So even if I tell you the truth, you won\'t be able to accept it.
@@ -92,17 +92,17 @@ However, he felt exactly the same way Jessica did.
  You won\'t believe."
 "............But I will keep on saying it.
  I\'ll say it because it\'s true.
- ......{f:5:Beatrice} "exists"!
+ ......BEATRICE "exists"!
  Kihihihihihihihihihihihihihihi...!
  The door to the Golden Land will soon be opened.
  And that\'s where I\'m going.
- {f:5:Beatrice} promised!"
+ BEATRICE promised!"
 "In that world, Mama is nice, and Papa is with us and is also nice.
  I want to go there right away.
- ......Everyone is afraid of {f:5:Beatrice}.
+ ......Everyone is afraid of BEATRICE.
  And that is only natural.
  ......But calm yourselves.
- ...{f:5:Beatrice} told me herself."
+ ...BEATRICE told me herself."
 "By the time the typhoon has passed, she will have ended everything.
  Kihihihi
 ...ouch."
@@ -240,7 +240,7 @@ Jessica spat the words out.
  ...In the end, we can\'t do anything but wait."
 "Then it doesn\'t matter where we wait, does it?!
  I won\'t run away or hide.
- Why don\'t we just take it easy in the parlor, watching TV or something and waiting for the great {f:5:Beatrice}‐sama to appear?!"
+ Why don\'t we just take it easy in the parlor, watching TV or something and waiting for the great BEATRICE‐sama to appear?!"
 "......It will be perfectly satisfactory for her not to appear.
  There is no need for us to expose the culprit."
 "Well said......
@@ -269,8 +269,8 @@ What if leaving that room and moving to an unexplored location is actually more 
 ...Aah, no good, no good, no goddamn good at all...
 .........My flimsy head is about to break out in a fever.
 ...As I keep flipping over the chessboard, the real and the inverse keep switching with each other over and over, and I lose my ability to believe anything...
-When it seems like the culprit is one of the 18, I want to believe in {f:5:Beatrice},
- and once I start believing in {f:5:Beatrice}, I start wanting to find the culprit amid the 18.
+When it seems like the culprit is one of the 18, I want to believe in BEATRICE,
+ and once I start believing in BEATRICE, I start wanting to find the culprit amid the 18.
 ...That keeps spinning around forever, and in the end, my thoughts haven\'t taken one step from where they started...
 ......How far back in the past was it that Kyrie‐san taught me this chessboard way of thinking...?
 That concept of examining the situation by flipping it over and thinking from the enemy\'s side...
@@ -365,7 +365,7 @@ While Genji‐san was unlocking the door, Maria was staring at the door and the 
  ...What a door."
 "It looks old and strict and like it\'d stop any jokes cold—sure is a fitting door for Grandfather\'s study."
 "......It contains a really strong power to ward off any spiritual menace.
- .........{f:5:Beatrice} probably couldn\'t open this door."
+ .........BEATRICE probably couldn\'t open this door."
 "Oh...?
  What does that mean?"
 Maria pointed at the doorknob.
@@ -375,13 +375,13 @@ no, a design like a magic circle arranged around a scorpion, was inscribed there
 Isn\'t this just like those keyholder charms that Maria gave Jessica and me yesterday...?
 ".........The fifth magic circle of Mars is a strong magic repellent.
  Additionally, this magic circle was very diligently constructed, and is full of power.
- ............To beings of magic like {f:5:Beatrice}, this magic circle is quite troublesome."
+ ............To beings of magic like BEATRICE, this magic circle is quite troublesome."
 "Isn\'t that comforting.
- Are you saying that we can even escape the grip of {f:5:Beatrice}\'s evil hand in this room?
+ Are you saying that we can even escape the grip of BEATRICE\'s evil hand in this room?
  Our little witch here sure is reliable."
-"......Then how did {f:5:Beatrice} take Grandfather out...?"
+"......Then how did BEATRICE take Grandfather out...?"
 "............Just as Battler reasoned.
- ...{f:5:Beatrice} can\'t go inside.
+ ...BEATRICE can\'t go inside.
  But she has magic, and she also has familiars.
  Using those, she might have been able to force Grandfather to leave the study."
 "Aah, I read that in a manga.
@@ -402,14 +402,14 @@ on her doorknob?"
 "Yes.
  ...Last night, after hearing about it from Jessica, I hung it from the doorknob on the inside of my door."
 "Then, Aunt Natsuhi, you\'re really fortunate.
- .........If you did that, {f:5:Beatrice} probably couldn\'t even lay one finger on you yesterday."
-"...I think {f:5:Beatrice} must have been really annoyed.
+ .........If you did that, BEATRICE probably couldn\'t even lay one finger on you yesterday."
+"...I think BEATRICE must have been really annoyed.
  ......Kihihihihihihihihihihihi..."
-...{f:5:Beatrice}, annoyed...?
+...BEATRICE, annoyed...?
 Couldn\'t lay one finger...?
 Natsuhi thought back on that eerie graffiti she had seen that morning, like someone had been tearing at the outside of her door with blood‐soaked hands, ......and gasped in surprise.
 Could it be,
- .........that this witch who called herself {f:5:Beatrice},
+ .........that this witch who called herself BEATRICE,
  ......had tried to enter through the door to her very own room...?
 But the magic‐repelling charm had been hanging from the inside.
 ...So she couldn\'t break through the door.
@@ -462,15 +462,15 @@ Even though checkmate had almost been reached,
 "...I was Kinzo‐san\'s friend for a long time, ......but I never knew about more than half of him.
  ...I believe that two Kinzos existed, a wise one...and one trapped by some madness..."
 "............I never understood anything about him..."
-"...Especially when it came to {f:5:Beatrice}‐sama, it would seem like his personality changed..."
-In the direction of Kumasawa‐san\'s upward gaze, a portrait of {f:5:Beatrice} could be seen.
+"...Especially when it came to BEATRICE‐sama, it would seem like his personality changed..."
+In the direction of Kumasawa‐san\'s upward gaze, a portrait of BEATRICE could be seen.
 It wasn\'t massive like the one hanging in the entrance hall, but small, made for this room.
 Grandfather probably spent every day in this room, and so much of his time...
 talking to the witch in that portrait.
-......Who was {f:5:Beatrice} to Grandfather in the first place?
+......Who was BEATRICE to Grandfather in the first place?
 ...By now, you couldn\'t just explain her away by saying she was a story made by the parents to frighten children away from wandering into the forest...
-While eating the canned food we had brought from the kitchen, we talked together about who {f:5:Beatrice} was.
-......Whether the culprit was {f:5:Beatrice} herself or someone pretending to be her,
+While eating the canned food we had brought from the kitchen, we talked together about who BEATRICE was.
+......Whether the culprit was BEATRICE herself or someone pretending to be her,
  whether they were a witch or a human—the lady in this portrait was strongly related to the basis and background of these crimes.
 .........You couldn\'t talk about them without talking about her.
 "......Oh yeah.
@@ -494,7 +494,7 @@ Aunt Natsuhi, after deciding that the contents could be shown to the children, s
 "‘Praise my name’.
  .........The hell?
  ......So frickin\' smug..."
-".........It\'s probably {f:5:Beatrice} declaring herself the victor.
+".........It\'s probably BEATRICE declaring herself the victor.
  ............Damn it..."
 ".............................."
 "I expect you were hoping for another weird magic circle to show up."
@@ -510,7 +510,7 @@ Aunt Natsuhi, after deciding that the contents could be shown to the children, s
 "...Ooooohh...
  I don\'t know what\'s going on anymore......
  This is the first time I\'ve seen anything like this since I started working for the Ushiromiya family..."
-"If we\'re to believe the letter last night, ......then {f:5:Beatrice} claims to be Grandfather\'s oldest confidante.
+"If we\'re to believe the letter last night, ......then BEATRICE claims to be Grandfather\'s oldest confidante.
  ......Grandfather often said the same thing in the past, right?"
 I directed the question to Genji‐san and Kumasawa‐san, who nodded together.
 "...So, the two of you knew more about this than anyone except Grandfather.
@@ -522,7 +522,7 @@ I directed the question to Genji‐san and Kumasawa‐san, who nodded together.
 Genji‐san didn\'t answer.
  ...Did he remain silent despite his knowledge, or did he know nothing at all?
 ...Still, I had a good guess.
- ...The ghost story of the witch {f:5:Beatrice} had long been deified among the servants.
+ ...The ghost story of the witch BEATRICE had long been deified among the servants.
 ......He had probably been very close to Grandfather, too, and his occult hobbies.
 So there was a good chance that he\'d been indoctrinated with even weirder things, and had increasingly come to deify the witch.
 As Grandfather\'s most trusted servant, who had sworn loyalty to him,
@@ -548,9 +548,9 @@ It\'s possible for them to have another lover in addition to their real wife.
  ......I\'d always thought she was just referring to the witch in Grandfather\'s head, but..."
 "...This is getting really interesting.
  ......You told me, didn\'t you, Genji‐san?
- You said {f:5:Beatrice} has been working for Grandfather since before the mansion was finished."
+ You said BEATRICE has been working for Grandfather since before the mansion was finished."
 "I have heard that the construction of the mansion was completed in 1952."
-"That would mean that this person called {f:5:Beatrice} had been in a relationship with Grandfather for over thirty years..."
+"That would mean that this person called BEATRICE had been in a relationship with Grandfather for over thirty years..."
 "Could that mistress of thirty years ago...or maybe a relative or hidden child of that person...hold some kind of grudge and be planning revenge?
  ...Ihihi, I see, this is starting to sound just like your standard Western mansion mystery."
 "............It\'s a filthy topic, but the easiest line of reasoning to accept.
@@ -558,15 +558,15 @@ It\'s possible for them to have another lover in addition to their real wife.
 "..............................
  ...............The Master surely had feelings of deep love for her.
  There can be no mistake that he cared for her more than his late wife."
-"......Who is this person called {f:5:Beatrice}?!
+"......Who is this person called BEATRICE?!
  And what is she doing now?!"
 "..................
  ......I have heard that she passed away before the mansion was completed."
 "She\'s already dead...?"
 "......Yes.
  ......The Master mourned for her most grievously,
- .........and he devoted himself to the art of black magic as a means to revive {f:5:Beatrice}‐sama."
-"......The Master loved {f:5:Beatrice}‐sama from the bottom of his heart.
+ .........and he devoted himself to the art of black magic as a means to revive BEATRICE‐sama."
+"......The Master loved BEATRICE‐sama from the bottom of his heart.
  ...It was that madness which drove him to do all that you see here."
 As Genji‐san said this, he spread his arms, ......as though asking us to look at this room, filled with the signs of Grandfather\'s madness.
 ...We were all at a loss for words.
@@ -581,7 +581,7 @@ The creepy books,
  the medicine,
  ...all of it.
 ......All just because he wanted to revive once more the visage of a single woman, who had left this world thirty long years ago...
-"............The Master only told me about {f:5:Beatrice}‐sama\'s story once, when he was very drunk.
+"............The Master only told me about BEATRICE‐sama\'s story once, when he was very drunk.
  .........Although I have forgotten the details.
  ......It was...
 a deep, deep love, enough to make a woman like me jealous."
@@ -591,26 +591,26 @@ a deep, deep love, enough to make a woman like me jealous."
  ......because he was forced to?"
 "......That is correct.
  ......Kinzo‐san was installed as the head who would revive the family, and had to bear all of that heavy responsibility.
- .........I...do not pretend to know the details of when or where Kinzo‐san first met {f:5:Beatrice}."
+ .........I...do not pretend to know the details of when or where Kinzo‐san first met BEATRICE."
 "............It\'d be rude to say any more than that."
 That was when Grandfather truly fell in love for the first time...
 How deep that affection must have been.
 ...It was easy to tell just by looking around us.
 ......This room was covered with piles upon piles of things having to do with black magic.
 And Grandfather had spent day after long day shut in here, immersed in his research and isolated from the outside world, never taking a single day off.
-......You couldn\'t help but realize how deep Grandfather\'s love for {f:5:Beatrice} was...
+......You couldn\'t help but realize how deep Grandfather\'s love for BEATRICE was...
 ".....................
  ......I......had it all wrong, Genji‐san."
 "...............What might that be?"
 "I, ......I\'ve always thought that...maybe you servants believed blindly in the witch because you were influenced by Grandfather\'s creepy black magic hobby.
  ......But that\'s not how it was..."
-Perhaps they had been acting as though at least {f:5:Beatrice}\'s soul had been restored,
+Perhaps they had been acting as though at least BEATRICE\'s soul had been restored,
  ......and existed inside this mansion,
  ......in order to soothe Grandfather\'s heart...
 With closed eyes, and an expression as though he was remembering something from the distant past,
  ......Genji maintained his silence.
 ............He probably felt that to confess that would be to betray his one and only master in the most serious way, even though that person was already dead.
-......{f:5:Beatrice} has revived as a witch, and she is in the mansion even now.
+......BEATRICE has revived as a witch, and she is in the mansion even now.
 ......That was his mantra,
  what he had believed,
  ...what he had made others believe.
@@ -629,19 +629,19 @@ The legend of the witch, the mysterious tale of Rokkenjima that was still whispe
 "..............................Aniki."
 Another strand of tears dripped from George\'s eyes.
 ......Maybe it was infectious; tears rose to Jessica\'s eyes too, and she sniffled...
-"............{f:5:Beatrice} told me.
+"............BEATRICE told me.
  .........Very soon, she\'ll be able to revive.
  We\'ll be able to meet up."
 ― Very soon, the door to the Golden Land will be opened.
 In that promised land that glitters gold, she\'ll resurrect all the dead people\'s souls, and revive the love they possessed as well.
 ......And I will sleep, in a world of peacefulness, for evermore.
 "......Did she say that?
- The {f:5:Beatrice} who gave you the letter?"
+ The BEATRICE who gave you the letter?"
 "...............You don\'t believe, do you?
  ......Kihihihi."
 "......If only Grandfather were here.
  I\'m sure he\'d be happy.
- I\'m sure he\'d be jumping for joy now that {f:5:Beatrice} is about to be revived..."
+ I\'m sure he\'d be jumping for joy now that BEATRICE is about to be revived..."
 "...In that case, I\'ll believe.
  ...If spending half of his life on research is what brought life back to Grandfather, and if believing that the soul of the woman he loved had been resurrected is what enabled him to live to a ripe old age, ...I\'ll believe too."
 ".........Battler........................"
@@ -653,7 +653,7 @@ In that promised land that glitters gold, she\'ll resurrect all the dead people\
  .........It really is...magic.
  ...She\'s a witch.
  ......Kihihihihihi.
- It looks like nobody can see {f:5:Beatrice} after all..."
+ It looks like nobody can see BEATRICE after all..."
 Some time passed.
  As we listened to the sound of the rain,
  ......we considered what kind of love and madness must have possessed the owner of this room as he spent half of his life here...
@@ -664,9 +664,9 @@ Some time passed.
  No way to make it pretty..."
 "......That\'s also true.
  Poor Grandmother."
-"So, ......is there any story about a child between {f:5:Beatrice} and Grandfather...?"
-The keyword "{f:5:Beatrice}" has been hidden in every corner of this case.
-So it\'s natural to suspect any relative of {f:5:Beatrice}.
+"So, ......is there any story about a child between BEATRICE and Grandfather...?"
+The keyword "BEATRICE" has been hidden in every corner of this case.
+So it\'s natural to suspect any relative of BEATRICE.
 "No.
  .........I have not heard of anything like that."
 "......If there had been one, I\'m sure he would have given them all of his affection, in memory of his beloved.
@@ -685,7 +685,7 @@ So it\'s natural to suspect any relative of {f:5:Beatrice}.
  And since he was actually doing weird experiments and rituals in this room all the time, I half believed it myself..."
 "......And who are these servants who came from the Gospel House?"
 "............There are several, but during the family conference, only Shannon and Kanon were scheduled to be here."
-To resurrect {f:5:Beatrice}, he had summoned servants from a welfare institute......as sacrifices...?
+To resurrect BEATRICE, he had summoned servants from a welfare institute......as sacrifices...?
 "After all, everyone that Grandfather selected as a servant was young, always about the same age as Shannon or Kanon‐kun.
  ...I was sure that Grandfather had some weird inclinations."
 "Jessica!
@@ -699,9 +699,9 @@ Sacrifices...
  Freaky words like "sacrifices" don\'t pop up often.
 ...Yet I\'ve seen or heard that word somewhere recently.
 .........Some part of my memory is tugging at me.
-......Come on, {f:5:Beatrice}.
+......Come on, BEATRICE.
 What do you know...?
-I had arrived in front of the portrait of {f:5:Beatrice}.
+I had arrived in front of the portrait of BEATRICE.
 It wasn\'t as vast as the one in the entrance hall,
  but that portrait, which he must have had drawn by some famous painter, was still just as intimidating in this smaller size.
 ...Below it, just like in the entrance hall, was the epitaph said to point out the place where the gold was hidden......
@@ -813,7 +813,7 @@ Gouge the head and kill.
  .........After those three die, it reaches the ninth twilight.
  Take a look..."
 "On the ninth twilight, the witch revives, and none shall be left alive."
-"We are...all going to be killed by {f:5:Beatrice}......"
+"We are...all going to be killed by BEATRICE......"
 ".........I don\'t get it.
  Doesn\'t that mean that everyone will die no matter how many people there are?
  ......What was Grandfather\'s goal?
@@ -860,25 +860,25 @@ Grandfather, whose remaining life is slim and who is insane because of love, is 
 "...The letter in the beginning that we didn\'t think deeply about...
  What was it that was written there?"
 We thought back to the recitation of the letter last night...
-{f:5:Beatrice} had proclaimed something inside the letter.
+BEATRICE had proclaimed something inside the letter.
 She had proclaimed that, in accordance with her contract with Kinzo, she would collect everything of the Ushiromiya family as interest.
 But then she had also revealed a special clause.
 If someone discovered the location of the gold Grandfather had hidden, that right would be lost.
 At the time that the letter had been read, Grandfather was still alive.
 ...But at that time, it had already been sealed with wax by the Head\'s Ring.
-...Which meant that Grandfather had handed the ring over to {f:5:Beatrice} while he was still alive.
+...Which meant that Grandfather had handed the ring over to BEATRICE while he was still alive.
 .........If you think about that straightforwardly,
- we should probably take that to mean that {f:5:Beatrice} is carrying out that strange contract, and Grandfather is securing her that right.
+ we should probably take that to mean that BEATRICE is carrying out that strange contract, and Grandfather is securing her that right.
 ......Simply put, it was the same as saying that Grandfather knew of and approved of the contents of that letter.
-In other words, it\'s as though it was a joint message from {f:5:Beatrice} and Grandfather...
-telling us that {f:5:Beatrice} will start collecting interest if we don\'t solve the riddle.
-......In short, Grandfather and {f:5:Beatrice} were telling us to solve the epitaph\'s riddle.
+In other words, it\'s as though it was a joint message from BEATRICE and Grandfather...
+telling us that BEATRICE will start collecting interest if we don\'t solve the riddle.
+......In short, Grandfather and BEATRICE were telling us to solve the epitaph\'s riddle.
  And if we couldn\'t, they were saying they would kill us all, following the procedure in the epitaph.
 What meaning is there to that?
  What do they want?!
 I don\'t have a clue what it means!
 ".....................
- .........Look, another letter from {f:5:Beatrice}."
+ .........Look, another letter from BEATRICE."
 "......Huh?
  What did you say?"
 Maria was pointing at the top of the table, where the canned food that everyone had been eating just now still lay.
@@ -929,10 +929,10 @@ Make sure that you do not misunderstand your current situation.}
 "And at that time, Jessica, George‐kun and Battler‐kun were already in front of the portrait!!
  And they didn\'t leave the spot in front of the portrait until the letter appeared!
  So the person who set that letter down is one of you four!!!
- {f:5:Beatrice} is one of you!!!"
+ BEATRICE is one of you!!!"
 ".........Uu.
- We aren\'t {f:5:Beatrice}.
- ...{f:5:Beatrice} "exists"!"
+ We aren\'t BEATRICE.
+ ...BEATRICE "exists"!"
 "Silence!!!
  I don\'t know whether I should suspect one of you or all of you.
  ...But without a doubt, at least one among you is the culprit!!!"
@@ -961,7 +961,7 @@ We can\'t tell who put it there, but it\'s obvious that one of the four did it..
  I understand the condition your heart is in right now...!"
 "Doctor Nanjo, it truly pains me to call you suspicious...!
  However, as Father\'s personal doctor—and his closest friend!—you have been by his side for many years."
-"You might know about {f:5:Beatrice} as well.
+"You might know about BEATRICE as well.
  Could you be hiding some kind of old personal connection of his?!"
 "Of course not...!!
  Calm yourself...!"
@@ -973,7 +973,7 @@ That was why Genji\'s still‐calm appearance looked so bold.
 Aunt Natsuhi pointed the barrel of the gun.
 "............Genji.
  You were Father\'s number one subordinate.
- ...Was {f:5:Beatrice} a fantasy you showed to Father, with you as the performer?!"
+ ...Was BEATRICE a fantasy you showed to Father, with you as the performer?!"
 ".........If by suspecting me, you recognize me as the Master\'s greatest servant,
  ......then it is a great honor to me, regardless of the circumstances.
  .........However, I am not the one who put the letter there."
@@ -987,18 +987,18 @@ But Maria acted as though nothing had happened.
 "Maria‐chan.
  ...By this point, we can no longer remove someone from suspicion just because they are young.
  So for the last time, let me ask the question that everyone\'s brought to you since last night!"
-"...Yesterday, who was the {f:5:Beatrice} that handed you the letter?!!"
+"...Yesterday, who was the BEATRICE that handed you the letter?!!"
 "..................Uu."
 "......Maria, don\'t try to fool us!!
  Make it clear!
  Who the hell gave you that letter?!!"
 "...Kihihihihihi.
  ...How many times do I have to tell you?
- It\'s {f:5:Beatrice}.
+ It\'s BEATRICE.
  The thousand‐year‐old Golden Witch."
 "............If you want to know what she looks like, just turn around.
  ...See, she\'s right there.
- {f:5:Beatrice} is.
+ BEATRICE is.
  ......Kihhihihihihihihihihihihihihihihihihihihihihihihihihihihi!"
 "You, you think this is a game, you little bitch?!?!!!!!!!!!!!!"
 "Stop it, Jessica!
@@ -1008,10 +1008,10 @@ But Maria acted as though nothing had happened.
  Stop stirring each other up pointlessly!"
 "......I don\'t understand.
  ...Who do you people want to be the culprit?"
-"You only believe in {f:5:Beatrice} when you don\'t want to doubt one of your own,
- ......and when you\'re trying to settle a grudge because someone who\'s close to you has been killed, only then do you want to believe in a {y:0:Human}{n:0:human} culprit who you can attack with violence, and deny {f:5:Beatrice}."
+"You only believe in BEATRICE when you don\'t want to doubt one of your own,
+ ......and when you\'re trying to settle a grudge because someone who\'s close to you has been killed, only then do you want to believe in a {y:0:Human}{n:0:human} culprit who you can attack with violence, and deny Beatrice."
 "............That\'s why you can\'t {y:1:‘see’}{n:1:see} her.
- ......{f:5:Beatrice} "exists".
+ ......BEATRICE "exists".
  You all can\'t {y:1:‘see’}{n:1:see} her!"
 "Silence!!!
  I don\'t want to label you as the culprit, but there is no longer any doubt that you enjoy making this situation unpleasant, serving the interests of the enemy!!"
@@ -1052,7 +1052,7 @@ But Maria acted as though nothing had happened.
  Not on Rokkenjima, not in the Ushiromiya mansion!"
 "I declare it as Ushiromiya Natsuhi, representative of the Ushiromiya family!!
  There\'s no witch here!
- I won\'t accept {f:5:Beatrice}!!
+ I won\'t accept BEATRICE!!
  No matter what you\'re planning, I won\'t let you lay one finger on my daughter or the rest of them!!!
  That\'s my duty as a mother and as representative to the family!!"
 Those words, ......were the final words of farewell that settled everything.
@@ -1063,7 +1063,7 @@ If I hadn\'t approached the portrait,
 ......But even though part of me thought that,
  ...part of me was thinking that chasing all of the suspicious people from this room would finally guarantee our safety...
 Genji‐san, Kumasawa‐san, and Doctor Nanjo—all of them were on Grandfather\'s side.
-You could even say that Maria was on Grandfather\'s side, since she had a blind belief in {f:5:Beatrice}.
+You could even say that Maria was on Grandfather\'s side, since she had a blind belief in BEATRICE.
  ......That\'s right, they\'re all suspicious.
 But is this really alright...?!
 Is it really alright for us to fight back against the lawlessness of the witch by throwing out all the suspicious ones without due process...?!
@@ -1096,8 +1096,8 @@ So we didn\'t say anything to stop Aunt Natsuhi from trying to oppressively chas
  ......We had stopped her from shooting, but when it came to exiling them from the room, we were passively agreeing...!
 Maria spoke to the still‐fretful Kumasawa‐san.
 "............You\'ll be alright.
- ......{f:5:Beatrice} is kind to those who respect her.
- ...You believe that {f:5:Beatrice} "exists"."
+ ......BEATRICE is kind to those who respect her.
+ ...You believe that BEATRICE "exists"."
 "...So I\'m sure you\'ll be fine.
  ......I\'m going to watch TV in the parlor.
  Let\'s watch it together.
@@ -1164,7 +1164,7 @@ Maria silently took the charm.
 Unable to respond, ......we watched them leave, our expressions completely tired out.
 ......And until the door closed and we heard the auto‐lock, we were unable to even draw our next breath...
 Then, when I was finally allowed to take a breath.
-...I noticed that {f:5:Beatrice}\'s letter, which I had been gripping the whole time and which was soaked with my sweat, actually had two sheets.
+...I noticed that BEATRICE\'s letter, which I had been gripping the whole time and which was soaked with my sweat, actually had two sheets.
 ...The paper had been tightly stuck together, so I had mistakenly thought that there was only one.
 There was nothing written on the second sheet.
 ......The thing drawn there was a magic circle, written with a red ink like blood.
@@ -1172,7 +1172,7 @@ There was nothing written on the second sheet.
 Inside the circle, a large triangle and a small triangle were fit together in a simple design.
 But just as before, there was writing in Hebrew, and it seemed clear that it held some kind of meaning.
 I wanted to know what that could be, ...but we had just chased Maria, the only person who could understand the meaning of magic circles, out of the room...
-............I thought of the magic circles as a second set of messages from {f:5:Beatrice}.
+............I thought of the magic circles as a second set of messages from BEATRICE.
 ...What does this one mean?
  ..................Damn it...!
 We\'ve chased out all the suspicious people; now all we have to do is stay barricaded here until morning, and...then will everything be over?

@@ -381,12 +381,12 @@ In both chess and shogi, you can\'t take back a move once you\'ve made it.
  ......Shall we continue the game?"
 "Yes, we shall.
  Dlanooooooooooor!!"
-"Yes, Lady {f:5:Erika}."
+"Yes, Lady ERIKA."
 "Let\'s get started right away.
  Let\'s use the privilege our merciful Game Master has given us...!"
-"Yes, {f:5:understood}.
+"Yes, UNDERSTOOD.
  ......Gertrude, Cornelia.
- We will use two rooms\' worth of the three sets of seals we were {f:5:given}...!"
+ We will use two rooms\' worth of the three sets of seals we were GIVEN...!"
 "For your attention—"
 "We hear and obey...!"
 "Seal the cousins\' room and the next room over.
@@ -394,7 +394,7 @@ In both chess and shogi, you can\'t take back a move once you\'ve made it.
  No matter what happens after this, the humans within the seals won\'t be a problem!"
 "By the seals on the doors and windows,
  
-the complete sealing of both the cousins\' room and the next room over has been {f:5:guaranteed}}."
+the complete sealing of both the cousins\' room and the next room over has been GUARANTEED}."
 For just an instant, that red longsword had returned to Dlanor\'s hand.
 She had been given permission to draw it,
  thanks to the red truth that she had finally gained.
@@ -408,7 +408,7 @@ For a while, Erika and Dlanor grinned at each other,
 "What is it......?"
 "It is my understanding that the players on the human side are to interpret the problems posed by the witch as the work of humans."
 "......You are not mistaken."
-"Then why are Lady {f:5:Erika} and Supervisor Dlanor...
+"Then why are Lady ERIKA and Supervisor Dlanor...
 fighting to lower the number of "humans who can commit crimes"...?"
 ......Cornelia\'s question was very simple.
 Those two had made this move boldly and treated it like a powerful one,
@@ -495,12 +495,12 @@ Battler raised his new black piece high.
 "Haah.
  Now I can finally stretch my wings.
  First off, let\'s take a midnight stroll to the mansion."
-"You would take a stroll in the middle of the night to an eerie mansion where a killer might be {f:5:hiding}?
- ......You must be very {f:5:eccentric}."
+"You would take a stroll in the middle of the night to an eerie mansion where a killer might be HIDING?
+ ......You must be very ECCENTRIC."
 "By no means.
  I had to wait a long time to be free like this.
  I feel like it\'s free time after a swimming lesson."
-......Now that {f:5:Bernkastel} was nowhere in sight, Erika was regaining her high spirits.
+......Now that BERNKASTEL was nowhere in sight, Erika was regaining her high spirits.
 She wasn\'t exaggerating when she said she could spread her wings.
 Dlanor knew that she was staking her own destruction on this game.
 ......And she was not in a favorable position by any means.
@@ -511,18 +511,18 @@ Dlanor could do nothing but assist Erika so that she could fight to the best of 
 Before leaving the guesthouse, Erika did a check of the first floor,
  making sure that nothing was out of place.
 Then she found a flashlight and umbrella in the servant room next to the entrance.
-"Then let us {f:5:go}."
+"Then let us GO."
 "Yes.
  We at least have to check the cause of death for all six."
 She unset the chain, unlocked the door, and opened it.
 The freezing outside air poured in......
-"......It appears to be quite windy {f:5:still}."
+"......It appears to be quite windy STILL."
 "Well, this body is just a cage of flesh to me.
  I don\'t care if it gets wet or cold.
  ......Let\'s go."
 When Erika dropped her gaze to open her umbrella, ......she noticed something lying at her feet.
 "...............!"
-"It\'s............one of the usual {f:5:letters}."
+"It\'s............one of the usual LETTERS."
 It was one of those letters sent by the witch......with the seal of the One‐winged Eagle on it.
 It had been wedged under the outside mat in front of the entrance,
  ......as though someone had predicted that Erika would eventually come this way while heading for the mansion.
@@ -535,12 +535,12 @@ A message had been written in neat handwriting...
 "Welcome, Furudo Erika‐sama......it says.
  ......Oh, so it\'s calling me by name?
  They totally saw this coming."
-"What does it {f:5:say}......?"
+"What does it SAY......?"
 "It\'s an advance notice of a crime.
  Well, a post‐factum notice, technically.
  ......Apparently, they have taken Ushiromiya Battler\'s corpse.
  They\'re asking me to try looking for it."
-"......So this isn\'t the "tear apart the two who are close" of the second {f:5:twilight}?"
+"......So this isn\'t the "tear apart the two who are close" of the second TWILIGHT?"
 "Well, disappearing corpses happened a few times in Beato\'s games too.
  There\'s nothing really new about this."
 Erika shrugged and scorned the letter.
@@ -554,8 +554,8 @@ So, this was an attack saying that someone who shouldn\'t exist had placed the l
  If the way you show it is the same, please tell me that the actual trick isn\'t the same too.
  .........Dlanor.
  Please call Battler here."
-"{f:5:Understood}.
- ......Lord {f:5:Battler}, we wish to take our {f:5:turn}...!"
+"UNDERSTOOD.
+ ......Lord BATTLER, we wish to take our TURN...!"
 "Got it.
  Let\'s have it."
 "I\'m ever so sorry.
@@ -582,8 +582,8 @@ However, though Erika said that she wanted to apologize,
  ......So?
  Where and when did you place the seals?"
 "Dlanor."
-"Allow me to {f:5:report}.
- ......Battler\'s guest room was sealed at the time of Lady {f:5:Erika}\'s inspection of the {f:5:corpse}."
+"Allow me to REPORT.
+ ......Battler\'s guest room was sealed at the time of Lady ERIKA\'s inspection of the CORPSE."
 ".....................!"
 Beato tried not to let it show on her face,
  but Erika didn\'t miss her eyebrows twitching slightly and her gaze flicking over to Battler.
@@ -598,10 +598,10 @@ Beato tried not to let it show on her face,
  .........after all, Battler‐san has been playing this game not knowing that his corpse was sealed in the guest room.
  ......Because of that, .........I thought, possibly......
 that it might......change things regarding the appearance of this letter."
-".........The cousins\' room and the next room over are currently {f:5:sealed}.
- Sorry for the late report, but the guest room with your corpse in it is also {f:5:sealed}.
- And there are 17 people on the island excluding Lady {f:5:Erika}.
- The existence of an 18th person has already been denied in a previous {f:5:game}."
+".........The cousins\' room and the next room over are currently SEALED.
+ Sorry for the late report, but the guest room with your corpse in it is also SEALED.
+ And there are 17 people on the island excluding Lady ERIKA.
+ The existence of an 18th person has already been denied in a previous GAME."
 "So when I thought about......the person who could have placed the letter.........and erased your corpse,
  .........I thought that maybe, .........heheheheheheheheheh,
  ......just maybe, ......things might be......different......"
@@ -650,7 +650,7 @@ That sort of contradiction is called a logic error.
  she accepted the "magical fantasy"—that the candy had appeared by magic inside the cup—and magic was established..."
 "............Okay, so a logic error would be...
 ...‘a trick that has become impossible’."
-Thinking back, the time when Erika and {f:5:Maria} fought fiercely about this magic with the red and blue truth...
+Thinking back, the time when Erika and MARIA fought fiercely about this magic with the red and blue truth...
 was really the opening battle of this tale.
 Let\'s try to remember that exchange.
 ......The heartless conclusion was...that it had all been a trick.
@@ -758,8 +758,8 @@ And that means......the destruction of the witch\'s game.
  In which case, this letter shouldn\'t have appeared here."
 "Correct.
  So, I thought you should have the chance to revise that small contradiction."
-"......We have discovered this letter {f:5:here}.
- ......We are saying that we do not mind if you want to undo that, or if you want to use a revised {f:5:scenario}."
+"......We have discovered this letter HERE.
+ ......We are saying that we do not mind if you want to undo that, or if you want to use a revised SCENARIO."
 "All it takes is the presence of a letter and some duct tape,
  ......and a move like this becomes trivial for Furudo Erika.
  ............Your thoughts, ladies and gentlemen...?"

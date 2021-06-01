@@ -711,7 +711,7 @@ If someone could have seen this from both sides of the door, it would have looke
 "Way to go, Kyrie...!!!"
 "See? This room is a locked room.
  At most, Jessica‐chan can knock on the door, but she can\'t lay a finger on us inside!"
-"Ah, {f:5:Beatrice}\'s definition of a locked room."
+"Ah, BEATRICE\'s definition of a locked room."
 ".........What the hell...?"
 "Then this locked room will be somewhat troublesome.
  It is impossible for a {y:0:Human}{n:0:human} to carry out a locked‐room murder.
@@ -817,7 +817,7 @@ In that instant, Jessica had "constructed" a locked‐room murder,
  had it acknowledged by the demons, and raised it to the level of magic...
 "The trials for the two of you have been completed!!"
 "So then, who will take the next challenge?!"
-"Will it be {f:5:Beatrice}‐sama?!"
+"Will it be BEATRICE‐sama?!"
 "No, no, it might be Shannon!"
 "No, this has to be Kanon\'s time to shine!"
 ""Come, speak up!!

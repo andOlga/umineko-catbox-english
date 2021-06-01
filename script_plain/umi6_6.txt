@@ -114,9 +114,9 @@ Shannon understood this, ......so she listened quietly.
 "......Stories of love are truly timeless.
  I never tire of them.
  ......However, I do find that maidenly expression of disgust on your face even more charming..."
-{f:5:Featherine} laughed quietly.
+FEATHERINE laughed quietly.
 Ange huffed and looked away,
- but she quickly realized that this would only entertain {f:5:Featherine} even more, so she tried to act unconcerned...
+ but she quickly realized that this would only entertain FEATHERINE even more, so she tried to act unconcerned...
 "Both Battler‐kun and Jessica‐chan have always been spirited.
  ......No, phrasing it that way is just dodging the point.
  ......Let me be frank."
@@ -340,9 +340,9 @@ Battler watched her quietly.
  Weren\'t you and Beato always insulting and trying to kill each other?"
 "......What kind of truth could you have reached to make you change your emotions regarding her?
  ......Please don\'t tell me that feelings of true love have sprouted from your murderous rivalry or something ridiculous like that."
-"......Lady {f:5:Erika}.
- Let us have him continue the game\'s {f:5:progression}.
- Boring love scenes such as this are best finished {f:5:quickly}."
+"......Lady ERIKA.
+ Let us have him continue the game\'s PROGRESSION.
+ Boring love scenes such as this are best finished QUICKLY."
 "Ah, you\'ve got a point there.
  Sorry for butting in.
  Come on, let\'s move on."
@@ -394,7 +394,7 @@ They looked like......the left and right wings of a gold butterfly.
 "......To think that her brooch would prove useful."
 "It\'s the only magic within our reach."
 It was the golden butterfly brooch,
- which {f:5:Beatrice} had once given to Shannon in the hopes of creating love between her and George.
+ which BEATRICE had once given to Shannon in the hopes of creating love between her and George.
 Shannon had given it to Kanon, but he had let his emotions get ahold of him and had crushed it into pieces.
 So, when the two wings they held were brought together, ......it would regain the form of a beautiful butterfly.
 "......Then I\'ll be back soon.
@@ -413,13 +413,13 @@ The fragment of the brooch and the engagement ring let off a gold and silver gli
  That\'s something I gave Shannon, if I recall.
  ......I always wondered where that disappeared to after Kanon stepped on it, but it seems they still had it all the time."
 "......That\'s the golden butterfly brooch, isn\'t it?
- ......I read about the magical brooch that can save a love relationship in {f:5:Featherine}‐san\'s book."
-And that had been the first moment that {f:5:Beatrice}, witch of the forest,
+ ......I read about the magical brooch that can save a love relationship in FEATHERINE‐san\'s book."
+And that had been the first moment that BEATRICE, witch of the forest,
  had met with a human and given them her power.
 Bit by bit, she had ascended from a mere ghost to the ruler of the mansion at night,
  ......and by making the servants believe in her, she had wiped away the anti‐magic power.
 And then, ......it eventually became possible for her to appear openly in front of Shannon,
- whose magic resistance had grown particularly low and who had begun to believe in the existence of {f:5:Beatrice}...
+ whose magic resistance had grown particularly low and who had begun to believe in the existence of BEATRICE...
 To Beato, who had been unable to interact with anyone for many years, this conversation with Shannon must have been especially fun...
 "That\'s why I generously gave her the butterfly brooch.
  ......*cackle*cackle*, I was in quite a good mood.
@@ -431,10 +431,10 @@ To Beato, who had been unable to interact with anyone for many years, this conve
  Thanks to that, I was able to regain much of my power all in one go."
 "But then, one night, purple lightning smashed the shrine.
  Those of the surrounding islands called it an evil omen.
- Oooh, now that I think of it, that must have been a prelude to {f:5:Beatrice}‐sama\'s resurrection."
+ Oooh, now that I think of it, that must have been a prelude to BEATRICE‐sama\'s resurrection."
 Kumasawa had the rest of the night off.
 So, she had let Erika talk her into drinking a bit,
- and was chatting about the legend of Akujikijima and {f:5:Beatrice} in a happy, tipsy mood.
+ and was chatting about the legend of Akujikijima and BEATRICE in a happy, tipsy mood.
 Erika would nod from time to time, but she listened very closely.
 She wasn\'t actually taking notes, but she was gathering the information on the whiteboard inside her head.
 ......Then, she frowned as though noticing something out of place and held up her hand.
@@ -446,14 +446,14 @@ She wasn\'t actually taking notes, but she was gathering the information on the 
  It was one who possessed a vast supernatural power, and who placed that power within the mirror—"
 "And placed it within the shrine as a sacred mirror to seal the evil spirits.
  ......Something feels off about that.
- ......Why would a shrine to seal the evil spirits of Akujikijima also seal {f:5:Beatrice}?"
+ ......Why would a shrine to seal the evil spirits of Akujikijima also seal BEATRICE?"
 "W‐......well...
  That\'s, uh, because the power of the sacred mirror..."
 "......I see.
  So it\'s this really convenient sacred mirror that works on both evil spirits from the East and witches from the West.
  ......Got it.
  I\'m still not satisfied, but I\'ll back off there for now.
- What I don\'t understand is why {f:5:Beatrice} can\'t stand spiderwebs."
+ What I don\'t understand is why BEATRICE can\'t stand spiderwebs."
 According to the legend, the evil spirits of Akujikijima despised spiderwebs,
  so they were apparently used as wards against evil on the islands around here.
 Actually, spiders are a useful bug.
@@ -461,24 +461,24 @@ The farmers of the islands may well have treasured them.
 It\'s very possible that the farmers called them wards against evil, tying them to the stories about evil spirits,
  in order to create a tradition of people treating this useful bug with care through the generations...
 "But that\'s just the legend of Akujikijima.
- The origins for the legend of the witch {f:5:Beatrice} came after Ushiromiya Kinzo moved to this island,
+ The origins for the legend of the witch BEATRICE came after Ushiromiya Kinzo moved to this island,
  when rumors sprouted about the mysterious legend of the gold and his mistress who gave it to him as a witch."
-"In other words, the evil spirits of Akujikijima and the Golden Witch {f:5:Beatrice} are completely different things.
+"In other words, the evil spirits of Akujikijima and the Golden Witch BEATRICE are completely different things.
  And yet, the same things are said about them."
 "W‐......well now......"
 The evil spirits of Akujikijima couldn\'t stand spiderwebs.
- So neither could {f:5:Beatrice}.
+ So neither could BEATRICE.
 That sort of reasoning has been applied all over the place.
 ......When it was pointed out that this was strange, Kumasawa was lost for an answer...
 "The doorknob to Kinzo‐san\'s study has a scorpion magic circle drawn on it, which represents a charm against magic in Western sorcery.
- That\'s why the Western witch {f:5:Beatrice} can\'t touch it.
+ That\'s why the Western witch BEATRICE can\'t touch it.
  ......I can understand that part."
-"But there\'s no reason for {f:5:Beatrice} to dislike spiderwebs.
+"But there\'s no reason for BEATRICE to dislike spiderwebs.
  I don\'t remember spiderwebs ever being included among things Western witches can\'t stand.
  On the contrary, wouldn\'t spiders be the friends and minions of a witch?"
 "W‐......well......"
 "In my opinion,
- ......these two legends about the evil spirits of Akujikijima and the witch {f:5:Beatrice}...
+ ......these two legends about the evil spirits of Akujikijima and the witch BEATRICE...
 have become a little mixed together.
  In fact, maybe they\'ve been fully joined together as one."
 "......The legend of Akujikijima is a fairy tale created by fishermen fearful of reefs in the Rokkenjima area.
@@ -486,9 +486,9 @@ have become a little mixed together.
  Were they people, or monsters, or ghosts without legs?
  There\'s no mental picture of them.
  People are bad at imagining things without visuals.
- ......And then the legend of the witch called {f:5:Beatrice} came in."
+ ......And then the legend of the witch called BEATRICE came in."
 "A witch is a lot easier to picture than evil spirits.
- And on top of that, Kinzo‐san had a portrait of {f:5:Beatrice} drawn and displayed.
+ And on top of that, Kinzo‐san had a portrait of BEATRICE drawn and displayed.
  In other words, the lack of a visual image, which was the one weak point in the legend of Akujikijima, was finally completed.
  Perhaps the two legends became mixed together at some point after that."
 "W‐well, I wonder......
@@ -500,11 +500,11 @@ She might have seemed confused, but she actually did understand what Erika was s
  and the legend of the Golden Witch, the story of the woman who had given Kinzo a vast quantity of gold,
  ......had changed over time.
 She didn\'t want to admit it, ......but she knew.
-{f:5:Beatrice}\'s "backstory", that she hated the spirit mirror and spiderwebs...
+BEATRICE\'s "backstory", that she hated the spirit mirror and spiderwebs...
 ...had actually been based on the ancient legend of Akujikijima.
 The "evil spirits" part of that legend had just been replaced by the witch of the portrait......
 "......So,
- if there really was someone claiming to be the Golden Witch {f:5:Beatrice},
+ if there really was someone claiming to be the Golden Witch BEATRICE,
  I\'d really like to ask her...
 whether she actually does hate spiderwebs or not.
  ......What happens when she touches them?"
@@ -558,7 +558,7 @@ Beato hesitated.
 ......However, her question was clear.
 "No.
  I am not one of the evil spirits of Akujikijima.
- I am {f:5:Beatrice}, ruler of Rokkenjima\'s night.
+ I am BEATRICE, ruler of Rokkenjima\'s night.
  ......Even I do not know why I have the same weakness as this island\'s evil spirits of old..."
 "Are spiderwebs the only things you can\'t handle...?"
 "As this Erika said, I can\'t touch the doorknob to Kinzo\'s study.
@@ -602,10 +602,10 @@ Slowly, ......she touched it with her entire palm, but she felt nothing but a pl
 ...but...
 ...I cannot believe that......"
 "......Who are you?"
-"I, I am {f:5:Beatrice}.
+"I, I am BEATRICE.
  ......I was born for Father\'s sake.
  ......And you, Onee‐sama?"
-"I am also {f:5:Beatrice}.
+"I am also BEATRICE.
  I used magic to give Kinzo gold, and later became a soul and the formless witch that haunts this island."
 "..................Just who on Earth...
 ...are we......?"
@@ -616,11 +616,11 @@ Slowly, ......she touched it with her entire palm, but she felt nothing but a pl
  ......It occurred to me while listening to that Erika person.
  ......I am a witch who can use magic but has no body,
  ......and you are a witch who has a body but can use no magic.
- .........Eventually, perhaps we will become one, each filling in what the other lacks, and become the true, complete {f:5:Beatrice}."
+ .........Eventually, perhaps we will become one, each filling in what the other lacks, and become the true, complete BEATRICE."
 "................................."
 It did seem plausible.
-Both of the {f:5:Beatrice}s were missing something.
-If they were to become one, then surely they would be very close to the {f:5:Beatrice} that Battler desired...
+Both of the BEATRICEs were missing something.
+If they were to become one, then surely they would be very close to the BEATRICE that Battler desired...
 "......Do you want...to try?"
 "............Huh...?"
 "Hold out your hand."
@@ -645,8 +645,8 @@ Perhaps this meant that, while they were fated to become one eventually, that ti
  ......Surely, we must learn more about each other."
 "Y‐yeah, you\'re right...
  ......I get the feeling that learning about each other......will lead us to something very important."
-"On the other side lies the single future {f:5:Beatrice}.
+"On the other side lies the single future BEATRICE.
  ......No, it may be more correct to say that it is the true form we are supposed to possess."
-With their hands still joined, the two {f:5:Beatrice}s swore to fill in the parts the other lacked...
+With their hands still joined, the two BEATRICEs swore to fill in the parts the other lacked...
 and regain their single form.
-......Bit by bit, .........Beato was walking down the path that led to the former {f:5:Beatrice}...
+......Bit by bit, .........Beato was walking down the path that led to the former BEATRICE...

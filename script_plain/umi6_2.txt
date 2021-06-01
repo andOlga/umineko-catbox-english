@@ -15,7 +15,7 @@ as long as it\'s fun enough to relieve my boredom as I crush it."
 "Eheheheh!
  It\'s rare to see Bern in such high spirits.
  Beato\'s game board really is something else."
-"......How sad it is that the master of this game board is no longer with {f:5:us}."
+"......How sad it is that the master of this game board is no longer with US."
 "A tiger dies and leaves behind its hide.
  Looks like Beato has died and left behind her game."
 "Even though chess still exists, no one knows the name of the person who invented it."
@@ -24,7 +24,7 @@ as long as it\'s fun enough to relieve my boredom as I crush it."
 "Come to think of it, Battler‐san is really keeping us waiting, isn\'t he?
  Is he still setting up the sixth game?"
 "......Gertrude.
- How are Lord {f:5:Battler}\'s preparations {f:5:progressing}?"
+ How are Lord BATTLER\'s preparations PROGRESSING?"
 "For your attention: I beg to inform you of the following.
  ......Know that he will be finished very soon."
 "He must have a lot of confidence in what he\'s creating to keep us waiting this long.
@@ -32,7 +32,7 @@ as long as it\'s fun enough to relieve my boredom as I crush it."
  I\'ll defeat him no matter what it takes...!
  And you in particular! Make sure you don\'t screw up again...!"
 "......I will meet the challenge with all of my strength."
-The previous Game Master, {f:5:Lambdadelta},
+The previous Game Master, LAMBDADELTA,
  had confirmed that Battler understood everything about Beato\'s game.
 However, in order to prove it,
  Battler would have to run this game by himself and carry it through to completion.
@@ -42,12 +42,12 @@ Though Erika was chomping at the bit to get started,
  it was taking Battler quite some time to show himself.
 Then, a swarm of gold butterflies swelled out of nothing and formed a human shape.
 From the shape of that familiar dress, everyone immediately realized who it was.
-"Ah, look, it\'s {f:5:Beatrice}‐san.
+"Ah, look, it\'s BEATRICE‐san.
  And I thought you\'d died and disappeared last time."
 "......Beato the player is the one who disappeared.
  This is probably just a piece...Battler\'s piece."
-"Even if she is a piece, it does not change the fact that it is {f:5:her}."
-{f:5:Beatrice} gave an elegant curtsy as she appeared.
+"Even if she is a piece, it does not change the fact that it is HER."
+BEATRICE gave an elegant curtsy as she appeared.
 This humble entrance was so vastly different from her usual high‐pitched laugh...
 that it created a sense of tension as they waited for the start of the sixth game to be announced at last...
 "Father will be here very soon.
@@ -79,31 +79,31 @@ to reach the truth of your game."
  ......I, um, look forward to having a good, clean fight."
 "...........................???"
 By this point, everyone realized that something weird was going on.
-There was no doubt that the face, the dress, and the hair were all {f:5:Beatrice}\'s.
+There was no doubt that the face, the dress, and the hair were all BEATRICE\'s.
 ......However, ......her expression was different.
 Even though she had Beato\'s face, Beato would never show anyone an expression like that.
 "....................."
 "......Just who...are you?"
 There was a heavy silence.
-......{f:5:Lambdadelta} spoke for everyone there.
+......LAMBDADELTA spoke for everyone there.
 At first, Beato wore a smiling yet confused expression.
  ......However, when she realized that the mood had gone suddenly stiff, her expression finally darkened, and she hung her head.
 "Who......are you?"
-"......You appear to be Lady {f:5:Beatrice}...
-...but is that {f:5:true}...?"
+"......You appear to be Lady BEATRICE...
+...but is that TRUE...?"
 Even Dlanor was forced to ask despite the rudeness of the question.
 That was how much...
 this woman...
 who appeared to be Beato...
 was not.
-".........Am I somehow different from the {f:5:Beatrice}...
+".........Am I somehow different from the BEATRICE...
 ...that all of you were expecting?"
 "What......are you talking about?"
 "Wait a second,
  don\'t tell me you have amnesia or something...?"
 "I, ...I was only born recently, so I have no memories at all.
  ......B‐but I...!
- I\'m studying hard...in order to become the {f:5:Beatrice} you all expect—"
+ I\'m studying hard...in order to become the BEATRICE you all expect—"
 {a:c:
 "Beato.
  ......I thought I told you to stay in your room."}
@@ -137,7 +137,7 @@ The witches had all expected him to come forward with some flashy, big developme
  ......Please forget what you saw just now."
 "Hmph, so, are you trying to trick us with this?
  You\'re scheming to give us the wrong impression, like another North Wind and the Sun strategy, aren\'t you?"
-"......Is there something {f:5:wrong}?"
+"......Is there something WRONG?"
 "Don\'t worry about it.
  It has nothing to do with you people."
 "I see.
@@ -146,9 +146,9 @@ The witches had all expected him to come forward with some flashy, big developme
  You\'ve kept us waiting so long, it\'s gotten totally boring!"
 "......Sure.
  Let\'s start the sixth game.
- ......Erika, and you too, {f:5:Bernkastel}.
+ ......Erika, and you too, BERNKASTEL.
  This will be my tale, proof that I\'ve reached the truth about Beato.
- ...{f:5:Lambdadelta}.
+ ...LAMBDADELTA.
  Please oversee this game, as a former Game Master."
 "Sure, looking forward to it. What\'s the title?"
 "......‘Dawn’.
@@ -239,30 +239,30 @@ was only unable to revive him because she had lost the stuffed animal that was h
  Therefore,
  ......
 
-that {f:5:Beatrice} will never revive again}."
+that BEATRICE will never revive again}."
 That Beato, who just sat around the whole time with empty eyes in the fifth game...
 ...must have been her corpse.
 She had managed to remain on the game board despite it all,
  ......but then even that corpse was wiped away...
-If Beato had been the Game Master at that time instead of {f:5:Lambdadelta},
+If Beato had been the Game Master at that time instead of LAMBDADELTA,
  the game board itself would have vanished at that moment, and everything would have ended.
 Come to think of it, Beato started to lose the will to fight back near the end of the fourth game.
 When Beato loses her will to fight, ......the world of this game disappears.
 However, the witches wanted to keep playing in this game board world,
- so {f:5:Lambdadelta} bound Beato in place with the curse of that shackle.
+ so LAMBDADELTA bound Beato in place with the curse of that shackle.
 She used that shackle to make sure that the game board wouldn\'t disappear,
  even if Beato did lose the will to fight.
 In chess, this would be the equivalent of removing the set time limit for each turn,
  making it endless.
 However, simply having the game endlessly paused on Beato\'s turn would cause the witches to die from their illness of boredom.
-That\'s why {f:5:Lambdadelta} took the position of Game Master.
+That\'s why LAMBDADELTA took the position of Game Master.
 ......Starting then, Beato\'s existence was no longer one of the conditions necessary for the game to exist.
 That\'s probably why the shackles binding her to the game board were released.
 And that explains why she disappeared in the fifth game...
 "......So,
  when Onii‐chan managed to reach the truth,
  ...it was one game too late for him to tell Beato about it."
-"The fifth game was a form of charity on {f:5:Lambdadelta}\'s part.
+"The fifth game was a form of charity on LAMBDADELTA\'s part.
  ......She merely showed Battler some mercy as the Witch of Certainty, acknowledging his strong desire to reach the truth no matter what..."
 ".........How can you call that charity?
  It\'s just those fickle witches killing time.
@@ -297,13 +297,13 @@ would probably move exactly according to Battler\'s wishes."
 "......That Beato has no chance of reviving.
  However, that doesn\'t mean that it is impossible to create "Beato" again...
  Have you forgotten?
- I believe that {f:5:Bernkastel} herself revealed Beato\'s true form at the end of the first game..."
+ I believe that BERNKASTEL herself revealed Beato\'s true form at the end of the first game..."
 "........................
  ......Now I remember.
  ...She said something about how Beato exists as the incarnation of the rules."
 "Rules and information, brought together,
- ultimately took the form of the witch known as {f:5:Beatrice}.
- If that pattern is followed once more, the same {f:5:Beatrice} will be born again,
+ ultimately took the form of the witch known as BEATRICE.
+ If that pattern is followed once more, the same BEATRICE will be born again,
  and perhaps one could call that a resurrection..."
 ".........In other words, that weird Beato...
 ...is like an egg of Beato, ...or else a chick."
@@ -338,7 +338,7 @@ And that way she acts...would make anyone feel as though something\'s out of pla
 "Heh......
  Far from boring.
  ...You really do make an excellent miko."
-{f:5:Featherine} rocked back in her rocking chair and looked up at the ceiling,
+FEATHERINE rocked back in her rocking chair and looked up at the ceiling,
  laughing as though the conversation itself was pleasant for her.
 Ange was slowly figuring out how to deal with this strange witch.
 ......This person was also...bored.
@@ -388,7 +388,7 @@ As Battler wiped his forehead and finally relaxed,
  ......Still, ...I\'ve got to honestly respect Beato now.
  ...I can hardly believe that she managed to create such complicated stories so easily."
 "......It was not easy.
- ......{f:5:Beatrice}‐sama spent a long, long time deliberating, and each time she created a tale, she would worry over various contradictions.
+ ......BEATRICE‐sama spent a long, long time deliberating, and each time she created a tale, she would worry over various contradictions.
  She was constantly battling with logic errors."
 "Logic errors?"
 "That is when the two sides of the tale do not meet, creating a contradiction.
@@ -429,28 +429,28 @@ There was no trace in his expression of the hatred he had once felt towards Beat
 However, Battler suspected this in the fourth game and asked Beato about it.
 And within the story,
  this was denied by the red truth:
- "Six years ago, no person called {f:5:Beatrice} existed for Battler"...
+ "Six years ago, no person called BEATRICE existed for Battler"...
 "......We can read this as saying that Beato did not exist six years before,
  or it could simply mean that she had no connection to Battler at that time.
  However, either way, Battler did not visit Rokkenjima at all for the next six years..."
-"October 4th, 1986 should have been the first time {f:5:Beatrice} and Onii‐chan met.
+"October 4th, 1986 should have been the first time BEATRICE and Onii‐chan met.
  ......If so, why was there already some kind of bad blood between them?
  I don\'t have a clue what it means."
 "......That "Ushiromiya Battler\'s sin", which Beato questioned Battler about in the fourth game,
  might give us a clue.
- ...The result of that might have been {f:5:Beatrice} herself."
+ ...The result of that might have been BEATRICE herself."
 "The result?
  The result of Onii‐chan\'s sin was...Beato...?"
 That almost sounds as though...
-Onii‐chan created the witch called {f:5:Beatrice} himself...
+Onii‐chan created the witch called BEATRICE himself...
 "Almost as though...
-...{f:5:Beatrice} was Battler\'s piece."
+...BEATRICE was Battler\'s piece."
 "......Huh...?"
 "Six years earlier, Battler committed a sin.
  Because of that sin, people died.
- The killer was {f:5:Beatrice}.
+ The killer was BEATRICE.
  ......If you consider the possibility that everything is connected to Battler\'s sin six years before,
- ......then the one who created {f:5:Beatrice} was Battler himself.
+ ......then the one who created BEATRICE was Battler himself.
  I thought it sounded almost as though she was Battler\'s piece..."
 "I don\'t get it.
  If Onii‐chan sinned in some way, it must have been something much lighter than murder, at the very least.
@@ -465,7 +465,7 @@ could have been so serious to Beato that she hated him enough to massacre his wh
 "......Well, even I think that a bit excessive, and more importantly, if she were a person like that,
  I would find it hard to accept that Battler would act so friendly towards her after discovering the truth..."
 ".............................."
-{f:5:Featherine}\'s observation was extremely interesting.
+FEATHERINE\'s observation was extremely interesting.
 In a past game,
  Beato said clearly that Onii‐chan\'s sin six years before was the cause of this two‐day tragedy.
 I still don\'t know what kind of sin that was.
@@ -491,16 +491,16 @@ that made him feel like apologizing...
  ......Once I\'m certain of it, I\'ll tell you."
 "Okay, okay, my master.
  I actually do want to hear what comes next, after all."
-Onii‐chan and {f:5:Beatrice}...
+Onii‐chan and BEATRICE...
  Just what kind of connection is there between them?
 ......Learning that will probably be the ultimate key to the truth of this world.
 After all, remembering that...
 was what enabled him to reach the truth.
-"{f:5:Beatrice}...!!"
+"BEATRICE...!!"
 "Welcome, my lord...
- {f:5:Beatrice}‐sama is waiting for you.
+ BEATRICE‐sama is waiting for you.
  This way, please......"
-This place was a villa set aside for {f:5:Beatrice}\'s use.
+This place was a villa set aside for BEATRICE\'s use.
 It was a sacred site for her only, built so that she could spend her days without being affected by the outside world.
 My heart began to race.
  ......I\'m so glad that she was able to revive...and that everything\'s okay...
@@ -515,7 +515,7 @@ The dining hall had been set up for his and Beato\'s use.
 I want to tell her.
 I want to tell Beato that I\'ve found the truth.
 Battler couldn\'t hold back his excitement over this miracle he had been granted, that Beato was waiting for him in the dining hall to hear what he had to say...
-"How is {f:5:Beatrice}?
+"How is BEATRICE?
  Same as usual?
  Is she in high spirits?"
 "Oh yes, she is in very high spirits now.
@@ -523,13 +523,13 @@ Battler couldn\'t hold back his excitement over this miracle he had been granted
 "Is she in the dining hall? Is she eating or something?
  Ah, that\'s alright, it doesn\'t matter either way...!"
 "Hoh‐hoh‐ho, you\'ll be surprised..."
-"{f:5:Beatrice}...!!"
+"BEATRICE...!!"
 When he swung open the doors to the dining hall,
  ......Battler was greeted by a wonderful sight.
 Though the food laid out on the table wasn\'t particularly sensational,
  it was arranged beautifully, and a champagne bottle stood there waiting.
 ......Then, ......the person clad in that familiar dress with the beautiful golden hair bowed deeply in greeting.
-"......B‐......{f:5:Beatrice}..."
+"......B‐......BEATRICE..."
 "You have my sincerest gratitude for giving me this form."
 "Ha...hahahaha...
  Come on, don\'t worry about that......
@@ -570,18 +570,18 @@ To Battler, it probably looked as though they were both smiling over the same jo
 After all...she didn\'t know how she was supposed to talk...
 "Anyway, Beato.
  Just what kind of joke is this?
- Don\'t tell me that the great {f:5:Beatrice}‐sama decided to cook for me...?"
+ Don\'t tell me that the great BEATRICE‐sama decided to cook for me...?"
 "When I heard that you had completed the sixth game,
  I wanted to see if I could prepare a modest reward to congratulate you......"
 "...Hoh‐hoh‐ho.
- {f:5:Beatrice}‐sama really worked hard to make this.
+ BEATRICE‐sama really worked hard to make this.
  I didn\'t even need to lend a hand at all, no I didn\'t!"
 The food set on the table really was modest and inexpertly made.
 You could tell by looking at it that Beato, who wasn\'t particularly skilled with cooking, had given it her all when making it...
 However, signs of discomfort and irritation were beginning to appear on Battler\'s face......
 "......What...
 ......is this all about...?"
-"Well, as she said, {f:5:Beatrice}‐sama decided that she would like to congratulate......"
+"Well, as she said, BEATRICE‐sama decided that she would like to congratulate......"
 Sweat was starting to show up on Kumasawa\'s forehead...
 ......She was also feeling uneasy.
 When he noticed, Battler realized that it wasn\'t just his imagination.
@@ -599,7 +599,7 @@ Then, the same sound repeated several more times.
 ......Father,
  ......did you find the food displeasing...?"
 "Who......are you...?"
-"...I, ......I am {f:5:Beatrice}.
+"...I, ......I am BEATRICE.
  ...I was born for your sake, Father..."
 "No..."
 "Huh...?"
@@ -611,34 +611,34 @@ Then, the same sound repeated several more times.
  Didn\'t I revive Beato?!
  Genji, what\'s this all about?!!"
 "......My apologies,
- but that is indeed {f:5:Beatrice}‐sama."
+ but that is indeed BEATRICE‐sama."
 "Like hell it is!
  How is this supposed to be Beato?!
  She\'s totally wrong, a fake!!"
-"No, that is {f:5:Beatrice}‐sama.
- It is, without a doubt, {f:5:Beatrice}‐sama, who was born in accordance with the rules of the game board."
+"No, that is BEATRICE‐sama.
+ It is, without a doubt, BEATRICE‐sama, who was born in accordance with the rules of the game board."
 "No, this isn\'t anything like Beato...!!
  Beato would always talk in this weird way, she\'d laugh rudely, and more, and more...!!"
-"No, this is unquestionably {f:5:Beatrice}‐sama herself."
+"No, this is unquestionably BEATRICE‐sama herself."
 "Then why is she talking like that?
  Why is she calling me Father?!"
-"B‐{f:5:Beatrice}‐sama was only born a short while ago...
+"B‐BEATRICE‐sama was only born a short while ago...
  It would be far too cruel to expect her to act as she once did so soon..."
 "Are you saying that her memory hasn\'t returned yet?"
 ".........My lord.
- This person is most certainly {f:5:Beatrice}‐sama herself.
- However, she is not the {f:5:Beatrice}‐sama you know so well."
+ This person is most certainly BEATRICE‐sama herself.
+ However, she is not the BEATRICE‐sama you know so well."
 "What are you talking about...?!
  I\'m the Game Master, right?!
  Why can\'t I revive Beato...?!"
 "Oh yes, she most certainly has revived.
- However, the old {f:5:Beatrice}‐sama had lived for a thousand years.
- ......This {f:5:Beatrice}‐sama, on the other hand, was only born a short while ago...!
+ However, the old BEATRICE‐sama had lived for a thousand years.
+ ......This BEATRICE‐sama, on the other hand, was only born a short while ago...!
  If she appears to be a different person, well, that just can\'t be helped...!"
 "Then, ...how can I revive that Beato?!
  Her body is right here!
  How can I revive her soul?!"
-"......If she lives the same thousand‐year life again, she should become the same {f:5:Beatrice}‐sama she was before."
+"......If she lives the same thousand‐year life again, she should become the same BEATRICE‐sama she was before."
 "So I\'m supposed to wait a thousand years...?!"
 "A, a person\'s personality isn\'t decided solely by their birth.
  It can change drastically based on how they live and what they experience..."
@@ -664,7 +664,7 @@ Even the same human can become different people.
 In fact, depending on their upbringing and endless possibilities, they can become an endless number of different people.
 ......So, just because this is the same Beato,
  ......that\'s no guarantee at all that she\'ll be the Beato that Onii‐chan knows so well.
-"And on top of that, {f:5:Beatrice} is a witch who lived a thousand years.
+"And on top of that, BEATRICE is a witch who lived a thousand years.
  ......A person can die and be reborn in the span of just three days.
  A thousand years.........is just too long."
 ".........It seems you\'re quite a skilled reader.
@@ -685,7 +685,7 @@ It was hard to actually like this Hachijo Tohya person.
  ......it definitely felt as though it had something very similar to the tales in those message bottles.
 Speaking metaphorically, ......one might call it a scent.
 An indescribable stern atmosphere, ......like a stuffy library.
-The "{f:5:Beatrice}" who wrote the message bottles and Hachijo Tohya are different people.
+The "BEATRICE" who wrote the message bottles and Hachijo Tohya are different people.
 ......And yet, this has the same scent as that tale...
 ......I see.
  This is why some of those curious Witch Hunters are so intensely devoted to her...
@@ -707,7 +707,7 @@ Only about three minutes had gone by since the time she had entered the room...
 "................................."
 "Next page, missy, next page."
 Amakusa badgered me to turn the page, ......so I returned to the world of the tale once more.
-......Why does her tale have the same scent as {f:5:Beatrice}\'s, I wonder...
+......Why does her tale have the same scent as BEATRICE\'s, I wonder...
 Is it because......she actually has reached the truth, as she claims?
 Does this mean that anyone who knows the truth could create an endless number of message bottles?
 ......Is that what the cat box world is like...?

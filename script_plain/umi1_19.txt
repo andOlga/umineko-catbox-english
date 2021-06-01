@@ -10,16 +10,16 @@
  ...I am just a wandering witch.
  I didn\'t come with the intention of violating the rules of your territory."
 "...*cackle*cackle*, there is not even a sliver of hostility.
- ...I am just terribly concerned about seeing that the legendary witch, Lady {f:5:Bernkastel}, is well attended to."
+ ...I am just terribly concerned about seeing that the legendary witch, Lady BERNKASTEL, is well attended to."
 ".........You misunderstand.
  I am powerless.
  Before a witch such as you, with the dreadful power to kill a person a hundred times over, I am completely powerless."
 "That a "powerless" witch like you possesses a power that none can approach is what is truly terrifying.
- After all, you fended off that Great Witch, Lady {f:5:Lambdadelta}, as a lone piece."
+ After all, you fended off that Great Witch, Lady LAMBDADELTA, as a lone piece."
 "......I only won an endurance contest.
  She simply got tired."
-"That is not what Lady {f:5:Lambdadelta} said, though.
- ...*cackle*cackle*cackle*, too much humility can be unseemly, Lady {f:5:Bernkastel}."
+"That is not what Lady LAMBDADELTA said, though.
+ ...*cackle*cackle*cackle*, too much humility can be unseemly, Lady BERNKASTEL."
 "......That girl has a dreadful power.
  ............The power to kill a person "without fail".
  However, there is no such thing as "without fail" in this world.
@@ -39,16 +39,16 @@
  ......I simply came around because I\'d heard that you\'d started something interesting.
  Rest assured, I will leave of my own accord as soon as you start to bore me."
 "*cackle*cackle*...!
- I am deeply and humbly delighted to have the great Lady {f:5:Bernkastel} as an observer.
+ I am deeply and humbly delighted to have the great Lady BERNKASTEL as an observer.
  *cackle*cackle*!
  And so, your impression?"
-"............{f:5:Lambdadelta} is terrifying because of her cruelty; however, she was a girl I could understand.
+"............LAMBDADELTA is terrifying because of her cruelty; however, she was a girl I could understand.
  ...You do seem to possess affection, but I can\'t understand you at all.
  That\'s why you\'re much more terrifying than her."
 "*cackle*cackle*cackle*...!
  I am fickle by nature.
  Do forgive me.
- ...Besides, I believe you also enjoy trusting your fate to the roll of fickle dice—is that not so, Lady {f:5:Bernkastel}?"
+ ...Besides, I believe you also enjoy trusting your fate to the roll of fickle dice—is that not so, Lady BERNKASTEL?"
 "......When I roll the dice, I have a roll I clearly want to get.
  Unlike you.
  You, on the other hand, anticipate all outcomes."
@@ -59,7 +59,7 @@
  Inside of you, there\'s nothing but zero.
  That\'s why I can\'t win against you with my power.
  ...The worst matchup.
- ......Perhaps {f:5:Lambdadelta}, on the other hand, has a good matchup against you.
+ ......Perhaps LAMBDADELTA, on the other hand, has a good matchup against you.
  Since she would likely be able to kill your "endlessness"."
 "*cackle*cackle*, *cackle*cackle*cackle*!
  ......Truly, tea is best drunk in the company of a witch.
@@ -68,7 +68,7 @@
 "......Good to hear.
  Boredom is the sole poison that can kill me.
  ......So, don\'t kill me, alright?
- Lady {f:5:Beatrice}, Endless Witch."
+ Lady BEATRICE, Endless Witch."
 "If such is your wish, I shall show you an even better time."
 "......In that case, wouldn\'t it be best if I brought the next chessboard in right away?
  It seems that the next tale would do more for you than a refill of tea."
@@ -80,7 +80,7 @@ I\'d really like to lend you my power, but as you just heard, that girl\'s power
  Unfortunately for you.
 But you really are pitiful, so I\'ll help you out just a bit.
 First of all, about that girl.
-She does have an existence that goes by the name of {f:5:Beatrice}, but that doesn\'t necessarily mean that she is "a woman with an individual body".
+She does have an existence that goes by the name of BEATRICE, but that doesn\'t necessarily mean that she is "a woman with an individual body".
 Do you understand what I mean?
  In other words, she\'s not some {y:0:Human}{n:0:human}.
  Her existence is a personification of the rules of this world.
@@ -108,7 +108,7 @@ I intend to enjoy the endless tales that Beato is going to weave until I tire of
  It\'s all so that I don\'t get tired of this.
 I am the cruelest witch in the world.
 No matter who the opponent may be, I\'ll absolutely make them surrender.
-...Even if that\'s {f:5:Beatrice}, the Endless Witch...
+...Even if that\'s BEATRICE, the Endless Witch...
 You are my game piece.
  Give it your best shot.
 I\'ll give you advice sometimes, out of her sight.

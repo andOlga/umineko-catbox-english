@@ -108,7 +108,7 @@ This was the first time I\'d ever seen a buffet‐style party set up in the main
  I have some candy for you, but now is not the time.
  After all, it\'s just before a meal."
 "*giggle*.
- Thank you, {f:5:Beatrice}‐san.
+ Thank you, BEATRICE‐san.
  I see you\'re looking as beautiful as ever."
 "You too, Rosa!
  One would never guess you to be a mother.
@@ -121,7 +121,7 @@ This was the first time I\'d ever seen a buffet‐style party set up in the main
  Wahahahahaha!"
 "And this coming from a person who tells little kids not to eat candy before a meal..."
 "Pardon me.
- {f:5:Beatrice}‐sama, the Master is calling for you."
+ BEATRICE‐sama, the Master is calling for you."
 I saw Kinzo beckoning from over by the portrait.
 "Good grief.
  When it comes to ceremony, that man is always so obsessed with form."
@@ -174,20 +174,20 @@ The chatter gradually subsided, and the rain outside once again became apparent.
 Silence filled the room.
 All of the relatives seemed vaguely aware that tonight\'s festivities consisted of more than a Halloween party.
 Battler already knew.
-This was a ceremony to mark the return of the gold, from Kinzo to {f:5:Beatrice}, which had been borrowed for so many years.
+This was a ceremony to mark the return of the gold, from Kinzo to BEATRICE, which had been borrowed for so many years.
 First off, that fact was announced by Kinzo himself.
 He spoke of how this gold had not only restored the Ushiromiya family, but brought it to a level of wealth it had never before experienced.
- He spoke of how he would finally return this gold to {f:5:Beatrice}, the one who had saved the Ushiromiya family.
+ He spoke of how he would finally return this gold to BEATRICE, the one who had saved the Ushiromiya family.
 A weighty ingot decorated with a bright red ribbon passed from his hands to hers.
-".........The debt that the Ushiromiya family owes to the three generations of {f:5:Beatrice}, the Golden Witch,
+".........The debt that the Ushiromiya family owes to the three generations of BEATRICE, the Golden Witch,
  is one that we shall never forget."
 "Dear me.
  I\'ve nowhere to put it, but I suppose I can take it off your hands."
-".........{f:5:Beatrice}‐sama."
+".........BEATRICE‐sama."
 "N‐nnn, *cough*cough*."
 Despite her status, Beato\'s remark earned her a surprising warning from Genji.
  I couldn\'t help but laugh.
-"I am {f:5:Beatrice}, the Ushiromiya family alchemist.
+"I am BEATRICE, the Ushiromiya family alchemist.
  Tonight, I acknowledge the end of the loan contract for the ten tons of gold.
  ......Many decades have passed since my grandmother\'s generation.
  The time has come for the eagle that lost one wing to fly once more.
@@ -195,18 +195,18 @@ Despite her status, Beato\'s remark earned her a surprising warning from Genji.
 Applause filled the hall.
 Though she\'d just managed to make such a dignified speech, as soon as it was over, she stuck her tongue out and leered at us.
 I guess that\'s about the limit to how long Beato can stay serious.
-"By passing her name on through the generations, {f:5:Beatrice}, the Golden Witch, may live for thousands of years.
- Therefore, even her descendants shall be {f:5:Beatrice}, and all shall be alchemists to this family."
-"The descendants of the Ushiromiya family will praise {f:5:Beatrice} for her gratitude forevermore, and this will be passed on through the generations.
- .........This family will always be indebted to {f:5:Beatrice}, and she will always be our family, tied by a noble bond."
+"By passing her name on through the generations, BEATRICE, the Golden Witch, may live for thousands of years.
+ Therefore, even her descendants shall be BEATRICE, and all shall be alchemists to this family."
+"The descendants of the Ushiromiya family will praise BEATRICE for her gratitude forevermore, and this will be passed on through the generations.
+ .........This family will always be indebted to BEATRICE, and she will always be our family, tied by a noble bond."
 ".........Let those who agree show their recognition with their applause."
 After Genji\'s words, the relatives all looked at each other, then started applauding at once.
 "Thank you, ladies and gentlemen.
- .........{f:5:Beatrice}.
+ .........BEATRICE.
  You are a member of the Ushiromiya family.
  And your bond to us is more sacred than one of blood."
 "Wahaha, the relationship between debtor and creditor is indeed more important than blood."
-"......{f:5:Beatrice}‐sama."
+"......BEATRICE‐sama."
 "Nngyhh, nnn...!"
 After that, Kinzo\'s longwinded speech continued.
 Tonight, Kinzo would retire as the Ushiromiya family head.

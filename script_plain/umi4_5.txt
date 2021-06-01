@@ -105,7 +105,7 @@ When she made to bend over and pick up the pieces of the cup, Ronove appeared ou
 ".........I\'m getting bored, so I\'ll go out for a bit."
 "Bored?
  Wait a sec, but things are just about to get started.
- At this point, Maria\'s probably going to say that she got an umbrella and a letter from {f:5:Beatrice} again, you know?
+ At this point, Maria\'s probably going to say that she got an umbrella and a letter from BEATRICE again, you know?
  This is the critical part—"
 "You\'ll have to excuse me.
  Sorry, someone clean up this mess."
@@ -467,7 +467,7 @@ And when she heard that, Maria onee‐chan\'s mood definitely darkened.
  Why are you pitying me?!"
 ".........Even though a "fact" about a really fun pajama party is written in my diary,
  .........when it\'s observed by a different person, it looks like that same "fact" takes a different form, huh."
-I remembered talking about this with {f:5:Bernkastel}.
+I remembered talking about this with BERNKASTEL.
 Truth is indeterminate and changes its form every time it\'s observed.
 By the way it is perceived, ...in other words, depending on the person who perceives it, a single truth becomes different truths.
 And truths of the past are painted over by truths of the future......
@@ -748,10 +748,10 @@ And when Maria asked why,
 "............She......?
  Who\'s that?"
 {a:c:
-"I shall teach you in {f:5:Maria}\'s place."}
+"I shall teach you in MARIA\'s place."}
 ".........B‐
-............{f:5:Beatrice}..............."
-"The "power" that {f:5:Maria} has, but you do not."
+............BEATRICE..............."
+"The "power" that MARIA has, but you do not."
 "Yep.
  The "power" I have, but you do not."
 ――That...is magic.
@@ -766,11 +766,11 @@ Black tea was arranged on a table in a peaceful garden,
 ‘Uryu...
  It\'s nice to meet you, my name is Sakutarou...’
 "Uu, Sakutaro is shy so he\'s nervous right now.
- It\'s okay, {f:5:Beatrice} is my wonderful friend too...!"
+ It\'s okay, BEATRICE is my wonderful friend too...!"
 ‘Uryu.
  Are your friends my friends...?’
 "Yeah!"
-‘Uryu. ......Then I\'m {f:5:Beatrice}\'s friend too?’
+‘Uryu. ......Then I\'m BEATRICE\'s friend too?’
 "Yeah!"
 ‘Uryuu!’
 "......Maria, do things like this happen frequently for you in your everyday life?"
@@ -784,7 +784,7 @@ a commonplace practice for you?"
 "Hmm......
  ......A stuffed animal makes for an excellent vessel.
  Therefore, when it is spoken to by an innocent child without toxin, it is not uncommon for a spirit to take up residence within, in an attempt to respond to them."
-According to {f:5:Beatrice}, when a child "plays with dolls",
+According to BEATRICE, when a child "plays with dolls",
  the dolls sometimes gain an actual will and converse with them, in rare cases even moving on their own.
 However, the power that they can imbue into such a vessel is very weak due to their innocence.
 If even a tiny bit of the toxin from a {y:0:Human}{n:0:human}\'s common sense gets involved, and tells them that there\'s no way a doll can talk or move,
@@ -798,7 +798,7 @@ If even a tiny bit of the toxin from a {y:0:Human}{n:0:human}\'s common sense ge
 "Sakutaro is a lion cub, but he\'s still a kid, so he can\'t say {ruby:roar:gaooo} sometimes.
  Uryu‐uryu‐uryu♪"
 ‘Uryu‐uryu‐uryuu!’
-{f:5:Beatrice} let out a sigh of admiration as she gazed at Maria, playing around with Sakutaro at the table loaded with tea.
+BEATRICE let out a sigh of admiration as she gazed at Maria, playing around with Sakutaro at the table loaded with tea.
 ".........How incredible.
  This "Sakutarou", with a core of a cloth‐and‐cotton vessel, has completely manifested into the human world.
  He has his own character, talks with his summoner freely,
@@ -809,7 +809,7 @@ After that, Maria boasted to Beato that Sakutarou wasn\'t her only friend, and t
 She claimed that there were other similar stuffed animals and dolls who, like Sakutarou, could talk and move of their own will.
 It was something natural to Maria.
  It was natural for stuffed animals to talk, move, and become her friends of their own free will.
-......When she heard Maria speak of this in that way, {f:5:Beatrice}, as a witch, felt a respect bordering on awe.
+......When she heard Maria speak of this in that way, BEATRICE, as a witch, felt a respect bordering on awe.
 "............Maria.
  Without a doubt, that power of yours is magic."
 "It\'s magic......?
@@ -871,7 +871,7 @@ However, creating a being with a soul is very difficult.
  Is it something scary......?’
 "Don\'t worry.
  Beato won\'t do anything scary.
- Right, {f:5:Beatriceee}?!"
+ Right, BEATRICEEE?!"
 "Mm.
  I am certain that he will like it.
  .........Let us see then...yes, in order to achieve a stronger manifestation, a stronger image will be necessary.
@@ -880,8 +880,8 @@ However, creating a being with a soul is very difficult.
 Beato folded her arms and thought about what she could do to please them the most.
 And at that moment, there appeared...
 ......the form of yet another witch.
-It was Beato\'s master, {f:5:Virgilia}.
-{f:5:Virgilia} truly was a Great Witch.
+It was Beato\'s master, VIRGILIA.
+VIRGILIA truly was a Great Witch.
 ...Since Maria already thought of Beato as a Great Witch, this person Beato called a Great Witch must have been a Great Great Witch.
 According to Beato, not even she could hold a candle to this witch when it came to magical power.
 "My, my.
@@ -897,12 +897,12 @@ According to Beato, not even she could hold a candle to this witch when it came 
  Hello, nice to meet you...?"
 ‘U‐uryuu!
  I, I\'m Sakutarou.’
-Sakutaro got back down onto Maria\'s lap, and greeted {f:5:Virgilia} with half of his face poking out over the edge of the table.
+Sakutaro got back down onto Maria\'s lap, and greeted VIRGILIA with half of his face poking out over the edge of the table.
 ...He seemed to be very nervous since this was a witch that even Beato called Master.
 "Hoh‐hoh‐ho.
  What a lovely name.
  ......As a reward for giving such a good greeting, here\'s a sweet for you."
-After waving her hands about, {f:5:Virgilia} held the palm of her hand upwards, and made a movement as though lightly grasping some of the air.
+After waving her hands about, VIRGILIA held the palm of her hand upwards, and made a movement as though lightly grasping some of the air.
 Then, she held that closed fist out in front of Sakutaro.
 ............And when she opened it, there lay one of those individually wrapped cough drops.
 ‘Uryuu?!
@@ -913,7 +913,7 @@ Then, she held that closed fist out in front of Sakutaro.
 ‘Uryu.
  Thank you very much for the candy.
  ...*bow*.’
-Even though {f:5:Virgilia} was a Great Great Witch, she still treated a stuffed animal like Sakutarou to an elegant greeting.
+Even though VIRGILIA was a Great Great Witch, she still treated a stuffed animal like Sakutarou to an elegant greeting.
 "Still, Master, cough drops? Are you someone\'s granny or something...?!
  Can\'t you at least pull out some strawberry‐milk candy~?"
 "How mean.
@@ -948,7 +948,7 @@ Beato borrowed the grimoire from Maria\'s handbag and majestically riffled throu
 ......Then, finding an empty page among those with magic circles drawn on them, she flattened the book out.
 And after staring at Sakutarou with a smirk, she suddenly started darting her pen across the page.
 ......It was something like a written proclamation made by witches to a higher‐order world.
-Magic, which would take effect by {f:5:Beatrice} writing it and {f:5:Virgilia} giving her signature as a witness.
+Magic, which would take effect by BEATRICE writing it and VIRGILIA giving her signature as a witness.
 Maria didn\'t understand what Beato was doing at first, but partway through, she figured out the wonderful magic power of this document, and her eyes began to sparkle...
 ‘Uryu?!
  Uryu?!
@@ -969,19 +969,19 @@ And Maria, upon also peeking in at it, let out a cry of wonder.
 "......It\'s amazing, Beato!!
  So cuuute!!
  Uu‐uu‐uu!!"
-"By the name of the Golden Witch {f:5:Beatrice}, I hereby acknowledge Sakutarou, {f:5:Maria}\'s child.
+"By the name of the Golden Witch BEATRICE, I hereby acknowledge Sakutarou, MARIA\'s child.
  .........Master, if you would sign as a witness!"
 "Yes, yes.
  ......By my name, I stand witness to and acknowledge this oath.
  .........It is done."
-{f:5:Virgilia} signed, completing the proclamation.
+VIRGILIA signed, completing the proclamation.
 It was a powerful document that proclaimed to the beings of a higher world that Sakutarou had most certainly manifested in the human world.
-Sakutarou, created by Maria, had received the recommendation of the two witches {f:5:Beatrice} and {f:5:Virgilia},
+Sakutarou, created by Maria, had received the recommendation of the two witches BEATRICE and VIRGILIA,
  and in this very moment, the higher world had accepted his existence.
 ......That was the great magic of manifestation.
-According to Beato, it was apparently an incredible stroke of luck that {f:5:Virgilia} had been here.
+According to Beato, it was apparently an incredible stroke of luck that VIRGILIA had been here.
 Because the power residing in the proclamation would change drastically depending on the number and the ranks of the witches signing it.
-{f:5:Virgilia} in particular had many friends in the higher world,
+VIRGILIA in particular had many friends in the higher world,
  so her signature gave the proclamation a power with which Beato\'s couldn\'t even compare.
 "By this proclamation, I accept thee, Sakutarou, as an individual with thine own sense of self.
  And I welcome thee as a friend in accordance with the treaty of Mariage Sorcière.
@@ -1013,13 +1013,13 @@ And when that light disappeared...
  Animal ears are nice indeed, truly cute!
  Allow me to nibble at them later.
  *cackle*!"
-"Thank you, {f:5:Beatriceee}!!
+"Thank you, BEATRICEEE!!
  Thank you so much for the wonderful present!!"
 "There is no need for thanks.
  This is merely an expression of my respect for your wonderful magic and your friend."
 ".........And now that you have reached this level, it would not be odd for you to graduate from an apprentice at any time.
  Starting today, I shall initiate you in even newer and more fun forms of magic."
-"......From this point forward, you may call yourself {f:5:Maria}, the Apprentice Witch of Origins."
+"......From this point forward, you may call yourself MARIA, the Apprentice Witch of Origins."
 "What\'s the Witch of Origins...?"
 "Mm.
  It is the title of a witch who seeks to become a Creator.
@@ -1034,7 +1034,7 @@ And when that light disappeared...
  I\'m the Apprentice Witch of Origiiins!"
 ‘Maria, that\'s so cool...!
  The Witch of Origins, wow, awesome, uryuu!’
-"Eventually, you will probably be able to call yourself by the title of a full witch—Lady {f:5:Maria}, the Witch of Origins.
+"Eventually, you will probably be able to call yourself by the title of a full witch—Lady MARIA, the Witch of Origins.
  ......It may be a good time now to give not only Sakutarou, but you as well, an appearance fitting for your rank."
 ".........There.
  I shall give a proper outfit for one who, while an apprentice, is worthy of calling herself a witch."

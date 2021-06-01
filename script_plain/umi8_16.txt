@@ -1,4 +1,4 @@
-{f:5:Eva} had indeed broken the magic circle around the key beforehand.
+EVA had indeed broken the magic circle around the key beforehand.
 By the time Battler and Ange reached it, it was crumbling like the sand in an hourglass.
 They tried punching and kicking it to make it break faster, but nothing they did hastened the process.
 "......It looks like she broke it a while ago,
@@ -10,9 +10,9 @@ However, as things stood, even if it was just five more minutes, would that be s
 They turned around.
 ......Beyond the bookshelf ravine.........was a universe.
 Even for Battler, who had seen Beato\'s fights many times over,
- the battle between {f:5:Lambdadelta} and {f:5:Bernkastel} was so mind‐defying that he couldn\'t think of a single word to describe it.
+ the battle between LAMBDADELTA and BERNKASTEL was so mind‐defying that he couldn\'t think of a single word to describe it.
 When he finally managed to find a word, it was "a universe".
-With each development in the battle between {f:5:Lambdadelta} and {f:5:Bernkastel}, a universe was created between the pair of them.
+With each development in the battle between LAMBDADELTA and BERNKASTEL, a universe was created between the pair of them.
 A Big Bang took place, a universe was created, galaxies beyond number were born and erased, born and erased.
 Then, just when it seemed that a Big Crunch had occurred and the universe had met its demise, there was another Big Bang, and another universe was created.
 It was like watching gods playing.
@@ -20,9 +20,9 @@ The two witches created and destroyed worlds over and over again,
  almost as though two Creators were fighting to prove that their universe was the right one.
 If you let your guard down in the slightest, ......then just watching this would steal your soul. That\'s how it felt.
 "......We\'ll be able to get the key back any second now.
- ......Then, we\'ll be able to go back to the Golden Land with the fragment {f:5:Lambdadelta} gave us, right...?"
+ ......Then, we\'ll be able to go back to the Golden Land with the fragment LAMBDADELTA gave us, right...?"
 "Go back as soon as you get the key.
- I can\'t leave {f:5:Lambdadelta} on her own."
+ I can\'t leave LAMBDADELTA on her own."
 "You\'re going to jump into that fight?!"
 "I can\'t leave her on her own."
 "..........................."
@@ -69,7 +69,7 @@ She had sworn......to live in the future, without turning back to look at everyo
  So, to give us a miraculous victory, you must not turn back once you go through that door!
  Got it?!!"
 "Y‐......yeah........."
-"So, I\'ll go and help {f:5:Lambdadelta}.
+"So, I\'ll go and help LAMBDADELTA.
  If you go back to the Golden Land after seeing me walk off like a hero, that\'s how my story will end for you."
 "......The result of your battle will be sealed in the cat box.
  ......So, you can never "lose"."
@@ -85,20 +85,20 @@ She had sworn......to live in the future, without turning back to look at everyo
  ......If you just believe, we can even speak to you!
  You hear me? Believe!
  If one thing is certain, it\'s that miracles happen when you believe!"
-At that moment, a massive explosion engulfed {f:5:Lambdadelta} and {f:5:Bernkastel}.
+At that moment, a massive explosion engulfed LAMBDADELTA and BERNKASTEL.
 Surely, one of them had landed a powerful blow.
 There were no further explosions, ......so surely, that strike had decided the match...
 When the smoke cleared, ......who would be left standing...?
 The magic circle sealing the key still needed several minutes to dissolve...
 "..................Are you...still there...?
- My beloved......{f:5:Lambdadelta}......?"
-All that came into sight.........was {f:5:Bernkastel}.
-There was no answering voice from {f:5:Lambdadelta}.
-If this was a sign of {f:5:Bernkastel}\'s victory, it didn\'t cause her expression to grow any brighter.
+ My beloved......LAMBDADELTA......?"
+All that came into sight.........was BERNKASTEL.
+There was no answering voice from LAMBDADELTA.
+If this was a sign of BERNKASTEL\'s victory, it didn\'t cause her expression to grow any brighter.
 "............Too bad, Lambda.
  ......And I thought we\'d be able to build a universe together.
  ...It\'s too bad, really too bad."
-......{f:5:Bernkastel} was still focusing all her nerves on the battle.
+......BERNKASTEL was still focusing all her nerves on the battle.
 So, she took no notice of Battler and Ange by the key.
 ......However, she would probably notice soon.
 And then, there would be nowhere to run.
@@ -116,27 +116,27 @@ With tears still pouring down her face, ......Ange lovingly rubbed her cheek aga
 "............I\'ve got to gather the kitties again.
  ......I thought Battler would be with her, but I don\'t see him for some reason.
  ......After all, one guy like him would be about as annoying as a pebble in my shoe."
-The smoke cleared completely, ......and they saw a huge cloud of candy bits floating around, ......like it was {f:5:Lambdadelta}\'s corpse.
-A star‐shaped cookie bounced off of {f:5:Bernkastel}\'s head.
+The smoke cleared completely, ......and they saw a huge cloud of candy bits floating around, ......like it was LAMBDADELTA\'s corpse.
+A star‐shaped cookie bounced off of BERNKASTEL\'s head.
 It was missing one of its points, giving it a lonely feeling.
-".........{f:5:Lambdadelta}.
+".........LAMBDADELTA.
  ......Live with me.
  ......We\'ll become a single universe, with you inside me."
-{f:5:Bernkastel} chewed the cookie...and swallowed it.
+BERNKASTEL chewed the cookie...and swallowed it.
 "This way, we\'ll always be together........
  I love you, Lambda."
 {a:c:
 "Me too, Bern."}
-{f:5:Bernkastel}\'s stomach suddenly swelled like a balloon.
+BERNKASTEL\'s stomach suddenly swelled like a balloon.
 The bulge rose from her stomach to her throat, then exploded like a firework from her mouth.
-{f:5:Bernkastel} coughed up fireworks, sparks, and fragments of candy.
+BERNKASTEL coughed up fireworks, sparks, and fragments of candy.
 "You still haven\'t gotten out of your old cat habits?
  .........You know you shouldn\'t eat snacks you find lying on the ground."
 "La...mgu...ghkahhkhhhkhhk...dah...aaaaaaaaaaaaaahhhh!!"
-{f:5:Bernkastel} kept coughing and spitting up exploding fireworks.
+BERNKASTEL kept coughing and spitting up exploding fireworks.
 The birth of a small universe from that sweet had hit her directly from the inside of her stomach.
- Even {f:5:Bernkastel} couldn\'t withstand that.
-As she repeatedly vomited fireworks so violently that it seemed her guts would spill out, her body flickered in and out of existence, and she glared at {f:5:Lambdadelta} with a terrifying expression.
+ Even BERNKASTEL couldn\'t withstand that.
+As she repeatedly vomited fireworks so violently that it seemed her guts would spill out, her body flickered in and out of existence, and she glared at LAMBDADELTA with a terrifying expression.
 Her body was flickering because she had taken so much damage that even maintaining her form was now difficult.
 "How unbecoming, Bern.
  Your form is in disarray."
@@ -351,20 +351,20 @@ Dlanor was serious.
  She had seriously intended to smash Erika to bits.
 "What\'s with the scary face?!!
  Can\'t you try and act a bit, I don\'t know, cuter?!"
-".........Do you find this {f:5:enjoyable}?
- Destroying people\'s dreams and {f:5:illusions}?"
+".........Do you find this ENJOYABLE?
+ Destroying people\'s dreams and ILLUSIONS?"
 "Of course it\'s enjoyable!
  What do you expect an intellectual rapist to do?!"
-"You are an {f:5:evildoer}.
- ......And yet, I used to believe you were the sort of evil that could be sympathized {f:5:with}."
+"You are an EVILDOER.
+ ......And yet, I used to believe you were the sort of evil that could be sympathized WITH."
 "I never asked for your sympathy."
-"......Not cutting you down immediately upon our {f:5:meeting}...
- That sin of mine is what helped bring this day to {f:5:pass}!!"
+"......Not cutting you down immediately upon our MEETING...
+ That sin of mine is what helped bring this day to PASS!!"
 Dlanor\'s hair bristled with rage.
 Seeing this expression on the one she had once called a friend......pinned Erika to the spot.
-"My {f:5:friend}.
- ......Allow me to free you before you can {f:5:suffer}.
- I will not allow you to bear any further {f:5:sins}!!!"
+"My FRIEND.
+ ......Allow me to free you before you can SUFFER.
+ I will not allow you to bear any further SINS!!!"
 "Whoa, ......wai— ...............!!!"
 The force of anger that welled from Dlanor\'s whole body struck Erika.
 Or rather, the swirl of blasting wind from Dlanor\'s massive longsword sent her flying.
@@ -372,7 +372,7 @@ As Erika took leap after leap backwards to escape the bladed cannonball, it smas
 So, it almost looked as though Erika herself was smashing the earth beneath her with each backwards jump.
 "Dlanor............"
 "......Friend of mine,
- rest in {f:5:peace}!!!"
+ rest in PEACE!!!"
 Once more, the great longsword split the air and pulverized the ground.
 However, this time, Erika was nowhere to be seen.
  ......Where had she escaped to?
@@ -405,10 +405,10 @@ As seen from atop the boats, ......this was, without a doubt, hell.
 When Erika yelled, the goats on the boats ran around frantically, and one by one, massive anchors hanging by chains were thrown from the ships\' bows down into the earth below.
 Those anchors smashed through not only the ground, but the bottom of the Golden Land itself, digging in with their wedge‐shaped tips.
 "Erikaaaaaaaaaaaaaaaaaaaaaa!!!"
-"Oh, {f:5:Beatrice}‐san!!
+"Oh, BEATRICE‐san!!
  What a huge battle this is!
  I was worried that I wouldn\'t be able to find you!"
-{f:5:Beatrice} landed on the front tip of the warship, facing off against Erika, who stood on the bow.
+BEATRICE landed on the front tip of the warship, facing off against Erika, who stood on the bow.
 "You will not be forgiven! I\'ll finish you myself right here!!!"
 Beato jabbed with her pipe.
 It transformed into a beautifully intricate, long, and golden sword.
@@ -472,31 +472,31 @@ They prayed that the master of the Golden Land would leave proof that the Golden
 However, Beato didn\'t look down at them.
  They wouldn\'t have wanted her to.
 "This is our Golden Land!!
- I am the Endless and Golden Witch {f:5:Beatrice}, and I am here!!
+ I am the Endless and Golden Witch BEATRICE, and I am here!!
  Though we may fall, we will not suffer defeat!!
  You will become living evidence!
  I\'ll carve the proof of our existence into your chest!!"
-"So long, {f:5:Beatrice}!!
+"So long, BEATRICE!!
  This marks the end of your execrable endless game!!
  Fall into the depths of hell, you illusion!!!!"
-{f:5:Lambdadelta} and {f:5:Bernkastel}\'s fight to the death had passed through its phase as a dynamic clash of fireworks, and was now a clash that was quiet and motionless.
+LAMBDADELTA and BERNKASTEL\'s fight to the death had passed through its phase as a dynamic clash of fireworks, and was now a clash that was quiet and motionless.
 ......These two witches, who possessed power on an entirely different level, may have been truly equal in strength.
 The battle could only be resolved by mutual consent, if one of them lost interest or found some reason for wanting to lose.
 Since both were putting their all into the fight without yielding a bit, they were absolutely and completely equal......
-"......{f:5:Lambdadelta}......
+"......LAMBDADELTA......
  ......I\'m glad...to have you as a friend..."
 "Dammit, just a bit longer...!
  Just fall apart already, stupid magic circle...!"
 Battler got irritated and punched the magic circle, but there was nothing he could do except continue to watch over it.
 After all, the only way to dissolve it was by waiting.
 However, the pair of them still felt relief, if only a little.
-{f:5:Lambdadelta} really was strong.
+LAMBDADELTA really was strong.
 Even in a battle this spectacular, she fought on an even footing.
 No, ......if you also took confidence into account, she seemed to have a slight advantage to Battler\'s eyes.
 She would probably manage to buy them enough time.
 Ange would take the key and be able to return to the Golden Land.
 They just had to endure a bit longer...
-.........However, they had no way of knowing what {f:5:Lambdadelta}\'s fate would be after this.
+.........However, they had no way of knowing what LAMBDADELTA\'s fate would be after this.
 She had disobeyed the Senate, the highest‐level witches in existence.
  ......A brutal fate probably awaited her.
 However, even knowing this, Ange had to step forward into the future, without looking back.
@@ -505,11 +505,11 @@ However, even knowing this, Ange had to step forward into the future, without lo
  Something\'s coming towards us from a long way away."
 "......?!
  Crap, ......are they enemy reinforcements...?!"
-{f:5:Lambdadelta} and {f:5:Bernkastel} were glaring at each other, so they didn\'t notice.
+LAMBDADELTA and BERNKASTEL were glaring at each other, so they didn\'t notice.
 Heading towards them from the distance......were several emerald‐green glints.
 That light showed that they were enemies.
 "But there\'s only a few of them.
- ......They won\'t be a match for {f:5:Lambdadelta}."
+ ......They won\'t be a match for LAMBDADELTA."
 ".............................."
 All of the cats so far seemed like fish in a school,
  giving the impression that they\'d be terrifying as a group, but not much of a problem by themselves.
@@ -524,24 +524,24 @@ were all wearing large capes with elegant designs.
 ......It looked as though great overlords from many worlds had been transformed into cats, leaving only their capes untouched.
 What Battler imagined was quite true.
  That was exactly what had happened.
-These were the overlords from many worlds that formed {f:5:Featherine}\'s personal guard.
+These were the overlords from many worlds that formed FEATHERINE\'s personal guard.
 Their bodies took the form of cats merely as a sign of respect to their master, who took the form of a human.
-These were entirely different from the pack of wild cats that served {f:5:Bernkastel}.
+These were entirely different from the pack of wild cats that served BERNKASTEL.
 "......Auaurora...
  ......Oh, is it that time already...?"
 "Keeping the guests waiting in anticipation is an important factor when holding a party.
  ......It is, however, not something I am particularly fond of."
-As she said this, her eyes flicked to {f:5:Lambdadelta}.
+As she said this, her eyes flicked to LAMBDADELTA.
 The latter bowed hurriedly.
-Though {f:5:Lambdadelta} grinned, she was also sweating with a brow furrowed with tension.
-"............How long it has been, Lady {f:5:Lambdadelta}."
+Though LAMBDADELTA grinned, she was also sweating with a brow furrowed with tension.
+"............How long it has been, Lady LAMBDADELTA."
 "A pleasure to see you...
- Great Lady {f:5:Aurora}......"
+ Great Lady AURORA......"
 "......This is no place to entertain one such as yourself.
  ......Did you get lost on the way to the party...?
  If so, allow me to guide you there myself."
-"Th‐......that would be an honor, Great Lady {f:5:Aurora}......"
-{f:5:Featherine Augustus Aurora}.
+"Th‐......that would be an honor, Great Lady AURORA......"
+FEATHERINE AUGUSTUS AURORA.
  ......The legendary Great Witch.
 It is said that she transgressed the limits of a witch, becoming a Creator,
  .........and that, upon reaching this forbidden plane, she was cursed with a deadly ailment.
@@ -555,28 +555,28 @@ Just as witches look down from a higher world and sneer at {y:0:Human}{n:0:human
 ...then she was like a witch come back from the realm of the gods, the one who had touched the highest, forbidden heights and survived.
 Was there any chance of winning against her?
 No.
-Not only could {f:5:Lambdadelta} not choose to win, she couldn\'t choose to lose either.
+Not only could LAMBDADELTA not choose to win, she couldn\'t choose to lose either.
 "My miko.
  Would you mind playing with your friend some other time, and getting back to work now?
  .........Prepare the key."
 ".........Okay..."
 "*cackle*cackle*.
  The simple, naive way cats forget their errand partway through doing it is their true charm.
- ......Don\'t you think so, Lady {f:5:Lambdadelta}......?"
-{f:5:Lambdadelta} didn\'t say anything, but hung her head low.
+ ......Don\'t you think so, Lady LAMBDADELTA......?"
+LAMBDADELTA didn\'t say anything, but hung her head low.
 ......From this position, it seemed that the key\'s seal would dissolve at any second.
-However, {f:5:Bernkastel} would probably find Battler and Ange before that.
+However, BERNKASTEL would probably find Battler and Ange before that.
 Once those two got their hands on the key, they could leave this place immediately.
- ......But that was only if {f:5:Bernkastel} and {f:5:Featherine} didn\'t find them first.
-.........{f:5:Bernkastel}......couldn\'t be allowed to move from this spot.
+ ......But that was only if BERNKASTEL and FEATHERINE didn\'t find them first.
+.........BERNKASTEL......couldn\'t be allowed to move from this spot.
 "......Looks like that\'s game, Lambda."
 ".............................."
-"I am the miko of the Great Witch {f:5:Aurora}, remember...?
+"I am the miko of the Great Witch AURORA, remember...?
  You haven\'t forgotten that the Witch of Theatergoing bestows her protection upon her Reader mikos, have you......?"
-Still keeping her head lowered, {f:5:Lambdadelta} gave no answer.
+Still keeping her head lowered, LAMBDADELTA gave no answer.
 The Witch of Theatergoing gave protection to her Reader mikos.
-If {f:5:Lambdadelta} attacked {f:5:Bernkastel}, who was a miko,
- .........then the great {f:5:Aurora}, in accordance with her contract, would take that as an attack against herself, and "respond accordingly".
+If LAMBDADELTA attacked BERNKASTEL, who was a miko,
+ .........then the great AURORA, in accordance with her contract, would take that as an attack against herself, and "respond accordingly".
 "......Let\'s make a deal."
 "......For what...?"
 "Where is Battler hiding?
@@ -589,32 +589,32 @@ If {f:5:Lambdadelta} attacked {f:5:Bernkastel}, who was a miko,
 "......................................."
 "......Too bad, Lambda.
  It looks like that\'s your answer."
-{f:5:Bernkastel} turned her back on {f:5:Lambdadelta}.
+BERNKASTEL turned her back on LAMBDADELTA.
 Then, she told her master that she was leaving to prepare the key, ......and she started swimming towards the key room.
 ............If I let her go...any further, ............she\'ll find Battler and Ange......
 Battler readied himself.
  This time, it was his turn to become a sacrifice.........
 Even though he was nothing more than a single pebble, ......he could still put out an eye.
-A candy firework exploded right in front of {f:5:Bernkastel}.
+A candy firework exploded right in front of BERNKASTEL.
 ".........Lambda.
  ......You really are a moron."
-"L‐......{f:5:Lambdadelta}........."
+"L‐......LAMBDADELTA........."
 "..................I\'ve done it now......
  ......Battler, Ange.
  ......The rest is up to you...!"
-The cat overlords changed their formation, becoming a ferocious constellation that surrounded {f:5:Featherine}.
+The cat overlords changed their formation, becoming a ferocious constellation that surrounded FEATHERINE.
 Then, each drew the most terrifying of magic circles from their respective worlds...and began to chant.
 ".................................
  ......I am slightly confused.
- ......My miko, and you too, Lady {f:5:Lambdadelta}.
+ ......My miko, and you too, Lady LAMBDADELTA.
  ......What sort of sideshow is this...?"
 ".........It looks like Lambda wants to stop me from going to get the key."
 "Hoh.
  ......And what would the point of that be, I wonder?"
 "If you\'re having trouble understanding that,
- ......then you must be getting a bit tipsy, {f:5:Featherine}.
+ ......then you must be getting a bit tipsy, FEATHERINE.
  Looks like you need a pick‐me‐up."
-{f:5:Lambdadelta} acted as tough as she could.
+LAMBDADELTA acted as tough as she could.
  Her fingertips were shaking slightly.
 "............An attack against a miko is considered to be an attack against her master.
  ......You should know this as well as anyone, correct...?"
@@ -630,7 +630,7 @@ Then, each drew the most terrifying of magic circles from their respective world
  I\'ve got a ton of them...!!
  Thirty or forty, I think.
  Maybe even more!"
-"I, {f:5:Lambdadelta}, will handle any fight picked against one of my mikos, no matter who the opponent is...!!
+"I, LAMBDADELTA, will handle any fight picked against one of my mikos, no matter who the opponent is...!!
  All of them are certain that a happy ending will come!!
  As the Witch of Certainty, I can\'t abandon people who put their faith in certainty and work hard to achieve their goals!!!"
 ".........Your tale would not be a disagreeable one.
@@ -647,27 +647,27 @@ Then, each drew the most terrifying of magic circles from their respective world
  You\'d better vote for me in the last character popularity contest, okay?!
  At least in the top 5! Got it?!"
 "............Who are you talking to?"
-As {f:5:Lambdadelta} pretended to joke around, ......she calmly glared at the one weak point.
+As LAMBDADELTA pretended to joke around, ......she calmly glared at the one weak point.
 If she had a chance for a single attack, .........then a one‐in‐a‐billion shot at victory existed.
-That horseshoe‐shaped memory device floating around {f:5:Featherine}\'s head.
+That horseshoe‐shaped memory device floating around FEATHERINE\'s head.
 Without that, she couldn\'t preserve her own being.
 Destroying it would be impossible,
- ......but if {f:5:Lambdadelta} could just jar it a little, ......she might be able to make it bug out.
-At least once in the past, {f:5:Featherine}\'s memory device had been damaged, and her personality and appearance had changed.
+ ......but if LAMBDADELTA could just jar it a little, ......she might be able to make it bug out.
+At least once in the past, FEATHERINE\'s memory device had been damaged, and her personality and appearance had changed.
 ......However, she was aware of that herself, ......and probably wouldn\'t let that happen again no matter what.
-"......Very well, Lady {f:5:Lambdadelta}.
+"......Very well, Lady LAMBDADELTA.
  When you\'ve finished your script, feel free to send it in whenever you wish."
 "The script is simple.
  ......Just one line.
- "The fantastic, cute {f:5:Lambdadelta}‐sama...
+ "The fantastic, cute LAMBDADELTA‐sama...
 took out the evil mastermind Auaurora in a single shot!""
 "Foolish Lambda.
  ......I never realized how stupid you were."
 "......The cats need not interfere.
- ......I will personally reward Lady {f:5:Lambdadelta} for the courageous tale she has submitted.
+ ......I will personally reward Lady LAMBDADELTA for the courageous tale she has submitted.
  ......You will be granted a fitting tale and a fitting ending for your bravery."
-"{f:5:Featherine Augustus}......Auauroraaaaaaaaaaaaaaaa!!!"
-{f:5:Lambdadelta} summoned magical power from her whole body and raised it in a mass above her head.
+"FEATHERINE AUGUSTUS......Auauroraaaaaaaaaaaaaaaa!!!"
+LAMBDADELTA summoned magical power from her whole body and raised it in a mass above her head.
 "Forgive me, but—"
 And then, the world\'s time stopped.
 "Your script will not be used.
@@ -679,7 +679,7 @@ They were the tale that had been written up to this very moment.
 {e:85:{f:0:"FEATHERINE AUGUSTUS......Auauroraaaaaaaaaaaaaaaa!!!"}}
 {e:85:{f:0:LAMBDADELTA summoned magical power from her whole body and raised it in a mass above her head.}}
 That was where the paragraph ended.
-In this frozen world, {f:5:Featherine} sat with her arms crossed.
+In this frozen world, FEATHERINE sat with her arms crossed.
 "......How troublesome.
  ......It\'s been so long since I\'ve written a fight scene.
  ......After such a development, how vexing it is to be suddenly handed the pen......"
@@ -689,9 +689,9 @@ That way, it\'s easier to set up foreshadowing, and I can write the story with m
 ......The only downside is that it is surprisingly difficult to write the climax without having set up the story first.
 ".........For lack of a better idea,
  I\'ll start at the end of the fight and go back from there.
- ......Lady {f:5:Lambdadelta},
+ ......Lady LAMBDADELTA,
  having suffered defeat at my hands, you draw your last breath."
-As {f:5:Featherine} said this, words were added to the massive group of letters that filled the frozen world.
+As FEATHERINE said this, words were added to the massive group of letters that filled the frozen world.
 However, she was starting from the end, so there was a large gap between the new words and the old ones.
 "......So, what will your defeat look like?
  ......You should probably have a heroic end to suit your bravery."
@@ -701,32 +701,32 @@ However, she was starting from the end, so there was a large gap between the new
  ......Yes.
  Quite a flashy way to go.
  ..........Good. For now, that\'s how your final moments will be."
-The blanks were being filled up with the outline {f:5:Featherine} spoke of.
-At the same time, {f:5:Lambdadelta}\'s figure was wiped out.
-After crossing her arms and thinking again, {f:5:Featherine} pointed in a suitable direction.
-Spreadeagled against the bookshelf {f:5:Featherine} had pointed at, reappeared {f:5:Lambdadelta}, who had slammed into it after "something or other" blasted her there.
+The blanks were being filled up with the outline FEATHERINE spoke of.
+At the same time, LAMBDADELTA\'s figure was wiped out.
+After crossing her arms and thinking again, FEATHERINE pointed in a suitable direction.
+Spreadeagled against the bookshelf FEATHERINE had pointed at, reappeared LAMBDADELTA, who had slammed into it after "something or other" blasted her there.
 ".........Well now, I must write up the fierce battle that leads to this end,
  ......but as you correctly surmise, I\'m a little tipsy at the moment.
  ......I\'ll fill that part in later, when I have some time to go over it nice and slowly."
 "......For now, let this be enough.
  I promise to add in a heroic fight to your liking later on......"
-{f:5:Featherine} snapped her fingers.
-......{f:5:Lambdadelta}......had no idea what was going on.
+FEATHERINE snapped her fingers.
+......LAMBDADELTA......had no idea what was going on.
 Before she could even blink, ......she was suddenly here, slammed against a bookshelf.
 "......W...h......a...t.........i...s......t...h...i...s............"
-She couldn\'t comprehend what it was that {f:5:Featherine} had killed her with.
+She couldn\'t comprehend what it was that FEATHERINE had killed her with.
 However, that was only natural.
-After all, even {f:5:Featherine} herself hadn\'t decided.
-However, {f:5:Lambdadelta} did understand one thing.
+After all, even FEATHERINE herself hadn\'t decided.
+However, LAMBDADELTA did understand one thing.
 She was already dead.
 Streams of blood dripped from the corners of her mouth.
 Then, lines of blood appeared on her wrists and ankles, her elbows and knees.
 She looked like a marionette doll of herself.
 ".........W...h......a...t.........k...i...l......l...e...d.........m......e......"
-"Precisely, Lady {f:5:Lambdadelta}.
+"Precisely, Lady LAMBDADELTA.
  Let me know if you have any good ideas."
 "......Y...o......u.........m...o...n...s...t...e......r........."
-Still pinned against the bookshelf, ......{f:5:Lambdadelta} let her head slump.
+Still pinned against the bookshelf, ......LAMBDADELTA let her head slump.
 Her wrists, ankles, legs, arms, ......and neck.
 Each of those broke off as separate parts, ......and the marionette shaped like her lost its strings, falling in pieces into the depths below.
 Nothing remained.
@@ -734,15 +734,15 @@ It was all swallowed up by the darkness beneath them......
 "A monster, she says.
  ......Quite a compliment, for one such as I.
  ......*cackle*cackle*cackle*, ahhahahahahahahahahaha."
-"......L‐......{f:5:Lambdadelta}......"
+"......L‐......LAMBDADELTA......"
 "Ange, ......don\'t look. You can\'t look......!!"
 Ange closed her eyes tight, shedding bitter tears.
 She must not look.
-The Witch of the Future......must not accept {f:5:Lambdadelta}\'s defeat...
+The Witch of the Future......must not accept LAMBDADELTA\'s defeat...
 "She hasn\'t kicked it!
  She was brave, and that\'s all there is to it...!!"
 "I know...!!
- That {f:5:Lambdadelta}......would never lose...!!"
+ That LAMBDADELTA......would never lose...!!"
 Pop.
 At that moment, there was a slight sound, ......and the golden key that hung in the air...shook.
 ......The seal on the key had finally broken.
@@ -750,21 +750,21 @@ Battler grabbed it immediately.
 However, at exactly the same moment, a magical impulse shook the entire vast space of the key room.
 "Wh‐what?!"
 That impulse...seemed to have shaken something inside my pocket.
-I stuck my hand in......and found that the fragment {f:5:Lambdadelta} had given us to return to the Golden Land......had shattered.
+I stuck my hand in......and found that the fragment LAMBDADELTA had given us to return to the Golden Land......had shattered.
 "......D‐dammit, ......Lambda\'s fragment...!"
 "......You were so close too.
  Now, there\'s nowhere to run."
-"{f:5:Bernkastel}......"
+"BERNKASTEL......"
 "If Lambda had been a little cleverer, she probably could\'ve bought you five more seconds.
  ......Then, you would\'ve taken that key and escaped to the Golden Land.
  ......Looks like the miko suffers too when the master\'s a fool.
  Ahhahahahahaha."
 "............Hoh."
-{f:5:Featherine} quietly showed her surprise.
+FEATHERINE quietly showed her surprise.
 ......To truly surprise her was no easy task.
 The Witch of Miracles, who boasted that no one could even step on her shadow unless she wished it, ......fell.
 After taking Battler\'s right fist to her face, she fell.
-{f:5:Bernkastel}\'s body immediately split into dust and reconstructed itself in front of Battler.
+BERNKASTEL\'s body immediately split into dust and reconstructed itself in front of Battler.
  As though nothing had happened.
 However, she was holding her cheek.
 She couldn\'t undo the fact that she had been hit.
@@ -778,7 +778,7 @@ His outstretched right arm was blocking it, so his expression couldn\'t be seen.
 "...............Take it back."
 "T‐.........take what back.........?"
 She didn\'t let the next strike hit her.
-{f:5:Bernkastel} vanished like mist, then reformed a short distance away.
+BERNKASTEL vanished like mist, then reformed a short distance away.
 However, Battler had only missed by a hair\'s breadth.
 Not because she had intentionally made it so, ......but for real.
 ".........Ow... .........Ouch, ouch........."
@@ -786,21 +786,21 @@ Finally, she truly began to feel the pain of being punched in the face.
 Too many years had caused her to forget the very concept of pain.
 Very slowly, ......it was coming back to her.
 "Ow! ......Owowow! ......Owwwww!!"
-{f:5:Bernkastel} writhed in anguish, holding her cheek.
+BERNKASTEL writhed in anguish, holding her cheek.
 The feeling forgotten for centuries seemed to be hitting home hard.
 Battler looked at her.
  Their eyes met.
- ......Once again, {f:5:Bernkastel} remembered an emotion she had forgotten for hundreds of years.
+ ......Once again, BERNKASTEL remembered an emotion she had forgotten for hundreds of years.
 ".........Does it hurt?"
 "...............!!!"
 "The pain of your words ridiculing my friend.........is greater than that."
 And then, a shudder.
-What Battler saw before his eyes......was {f:5:Bernkastel} trembling with fear for the first time in centuries.
-To {f:5:Bernkastel}, it didn\'t even look like Battler was rushing at her to deliver another punch.
+What Battler saw before his eyes......was BERNKASTEL trembling with fear for the first time in centuries.
+To BERNKASTEL, it didn\'t even look like Battler was rushing at her to deliver another punch.
 It was as though......she was being sucked towards where he stood with his furious fist raised.
 As her eyes opened wide in terror, ......Battler\'s massive fist filled her vision.
 Of course, he wasn\'t capable of hitting her.
- {f:5:Bernkastel} was just like a shadow.
+ BERNKASTEL was just like a shadow.
 It was true that trying to grasp her form was meaningless, akin to growing envious of the moon reflected on the water and trying to hit it with a stone.
 You cannot smash the moon on the water\'s surface simply by throwing stones at it.
 However, Battler threw. And threw.
@@ -810,7 +810,7 @@ Fiercely thrown pebbles tore the water\'s surface.
  They smashed the moon\'s reflection, splitting apart the water\'s surface itself, ......leaving even the bottom of the pond bare, ......breaking through everything.
 And that certain and absolute willpower...broke through to a miracle.
 A backwards kick that Battler shot out without even looking behind him...drove into empty space.
-In that space......{f:5:Bernkastel} reappeared with a foot in her gut.
+In that space......BERNKASTEL reappeared with a foot in her gut.
 "Geh.........hagh....................."
 "......Take back your ridicule of our brave friend."
 "Uuh, ............ghh......ggggghh..........."
@@ -818,7 +818,7 @@ The Witch of Miracles fell.
  For the second time, she fell.
 Once would have been a miracle.
  Things that happen more than once......aren\'t miracles anymore.
-{f:5:Bernkastel} understood.
+BERNKASTEL understood.
  Battler...had her fully grasped......
 Then, she fell, ......slammed against the floor, .........struggled up onto her hands and knees, and vomited.
 She threw up violently over and over.
@@ -828,14 +828,14 @@ Then, she looked up at Battler with a furious expression.........and howled.
 "A‐Auaurora...!!
  Y‐your miko is getting beaten up!
  What are you standing around watching for?! Take him out!!!"
-"Forgive me, but I am busy writing Lady {f:5:Lambdadelta}\'s final moments right now.
+"Forgive me, but I am busy writing Lady LAMBDADELTA\'s final moments right now.
  ......I cannot come to your aid.
  ............Why don\'t you all give her a hand?"
-{f:5:Featherine}\'s guard, the cat overlords, now formed a different constellation.
+FEATHERINE\'s guard, the cat overlords, now formed a different constellation.
 Then, each drew a magic circle and began chanting.
 "Ahah, ahhahahahahahahahaha!!
  You know what these are?! Each one of these cats is the final form of a main character, each from a game like yours!!
- Every one acted the main part in their heroic tale, and the story of their bravery was given honor, allowing them to become {f:5:Aurora}\'s guards!!
+ Every one acted the main part in their heroic tale, and the story of their bravery was given honor, allowing them to become AURORA\'s guards!!
  Each one fought for the very existence of their country, their planet, their universe!!"
 "What about you?!
  Ahhahaha, at best, you\'ve just been playing around with your little sister and some imaginary witch!!
@@ -883,12 +883,12 @@ If this man before them was the main character of this board, ......they wouldn\
  It is rare to have two Masters for a single game, but this miracle pleases me.
  ......After all, I can rest assured that this will make for a proper final game for you both."
 ".........Stand up,
- {f:5:Bernkastel}."
+ BERNKASTEL."
 "............I see...
  ......So, you\'re saying that if two Game Masters are going to fight, ......they should do it by the rules of the game...
  .........*giggle*, ......*giggle*giggle*.
  ......Why didn\'t you just say that in the first place......?"
-{f:5:Bernkastel} slowly got to her feet and made her body melt away like mist.
+BERNKASTEL slowly got to her feet and made her body melt away like mist.
 Then, she appeared in the air once again, facing Battler.
 "Very well.
  ......I\'ll fight by the rules of your game board.
@@ -901,7 +901,7 @@ Then, she appeared in the air once again, facing Battler.
 "Watch from there.
  And this time, ......understand what I wanted to teach you."
 ".........Onii‐chan......"
-"How\'s that?! {f:5:Aurora}!"
+"How\'s that?! AURORA!"
 "......I will be your witness.
  If you defeat my miko, I promise to return you all to the Golden Land."
 "*giggle*giggle*.
@@ -913,7 +913,7 @@ Then, she appeared in the air once again, facing Battler.
  In that case, it\'s better that we start with the bad news.
  .........Erika, you can make your report now.
  Come!"
-When {f:5:Bernkastel} snapped her fingers, Erika appeared with a bow.
+When BERNKASTEL snapped her fingers, Erika appeared with a bow.
 "Pardon me for the interruption, my master."
 "......Sorry, Erika.
  I shouldn\'t have kept you waiting when you came bearing good news."
@@ -932,12 +932,12 @@ Erika humbly presented an object wrapped in cloth.
 It shone with a golden light.
 "......What\'s this?
  A golden apple?"
-"This is the heart of {f:5:Beatrice}, master of the Golden Land...!"
+"This is the heart of BEATRICE, master of the Golden Land...!"
 "B‐......Beato.........!!"
 ".............................."
-{f:5:Bernkastel} grabbed hold of it, held it aloft, and gazed at it.
+BERNKASTEL grabbed hold of it, held it aloft, and gazed at it.
 "......Even like this, it\'s still beating.
- ......You\'re so cute, {f:5:Beatrice}.
+ ......You\'re so cute, BEATRICE.
  ......The game board that you are might be opened again by someone.
  ......You still believe that, don\'t you......?"
 "I‐it\'s okay, Onii‐chan...
@@ -946,16 +946,16 @@ It shone with a golden light.
  A tactic to make us lose our morale...!
  Or maybe it\'s a tactic of Beato\'s!
  She changed herself to pretend that she\'s been defeated.
- There\'s no way that {f:5:Beatrice}...that everyone...that the Golden Land......could be destroyed......!!"
+ There\'s no way that BEATRICE...that everyone...that the Golden Land......could be destroyed......!!"
 "*giggle*.
  .........*giggle*giggle*giggle*, ahhahahahahahhhahahahaha!!
  True, if the Witch of the Future believes that, she might be able to make it so...
  .........So, let me show you.
  Watch closely, Witch of the Future from 1998."
-{f:5:Bernkastel}......threw the golden heart into the air like an apple.
+BERNKASTEL......threw the golden heart into the air like an apple.
 Then, with the blood‐red blade of a scythe that appeared in her hand, ......she split it......
 "
-{f:5:Beatrice} died in October of 1986.
+BEATRICE died in October of 1986.
  Therefore, the Golden Land she created was completely destroyed.
  Your relatives, kept alive in the Golden Land, were destroyed along with it.
  Your father, mother, and of course Battler...will never return to you again, and will never speak your name again}."
@@ -1006,7 +1006,7 @@ At Battler\'s shout, Ange bit back her tears.
  You can cross over life and death, remember?!!"
 Ange didn\'t understand what he was telling her.
 So, stunned into silence, she frantically considered what her brother was trying to tell her.
-Battler slowly lifted his face......and stared at {f:5:Bernkastel}.
+Battler slowly lifted his face......and stared at BERNKASTEL.
 "............And you...aren\'t a witch.
  .........You\'re a reaper."
 "That\'s right.
@@ -1023,15 +1023,15 @@ The one who teased Ange with truths of the past, stealing the future from her ey
  ......She\'ll step into the future beyond 1998, a place where she will live strongly!!"
 "{y:0:Human}{n:0:Human}s are wretched creatures, who walk into the future while staring back at the past!!
  That\'s why they fail to notice even the most obvious pitfalls, and plummet headfirst into them like comical fools!!"
-"Come, {f:5:Bernkastel}!!!
+"Come, BERNKASTEL!!!
  A witch of the past like you can\'t block the radiance of the future!!"
 "Aha, ahhahahahahahahahaha!!!
  Then I\'ll get started, by the rules of your game!!
  I\'ll give you some locked‐room riddles.
  But since I\'m short‐tempered, overpowering, and easily bored, I\'ll give you all of them at once!!!"
-{f:5:Bernkastel} spread her hands, and it seemed as though a halo or angel wings were spreading out behind her.
+BERNKASTEL spread her hands, and it seemed as though a halo or angel wings were spreading out behind her.
 Each of the countless rays that spread out from her......was the blue‐trailing blade of a locked‐room mystery.
-They were the countless, endless number of locked‐room mysteries that {f:5:Bernkastel} had amassed, the souvenirs she had brought back from the many places she had visited during her long travels through the sea of fragments.
+They were the countless, endless number of locked‐room mysteries that Bernkastel had amassed, the souvenirs she had brought back from the many places she had visited during her long travels through the sea of fragments.
 All of those rays twisted at once...and aimed towards Battler.
 It was as though infinite giant snakes had turned their heads to stare at him.
 ".........If you fail to shoot down even a single puzzle,
@@ -1075,7 +1075,7 @@ It now looked like a great dragon with seven heads.
 "......Onii‐chan!!
  This isn\'t possible anymore!!!
  Please, just run away!!
- You can\'t beat {f:5:Bernkastel}!!"
+ You can\'t beat BERNKASTEL!!"
 Battler\'s expression remained calm.
  However, his whole body was covered with sweat, and he was breathing hard.
 It was clear that he couldn\'t overcome this onslaught, though he himself refused to admit it.
@@ -1105,11 +1105,11 @@ He wouldn\'t be able to dodge any longer.
  In other words, you no longer have any friends who can conveniently show up and save you from this pinch."
 Beato had been destroyed, and that had been confirmed in red.
  ......Therefore, no one else would come to rescue them.
-......Even {f:5:Eva} was a resident of the Golden Land.
+......Even EVA was a resident of the Golden Land.
 After helpfully breaking the key\'s seal ahead of their arrival, she had probably hidden away somewhere.
 However, now that Beato had been destroyed, ......all of the residents of the Golden Land had met the same fate as ice under the sun...
-Any faint hopes that {f:5:Eva} was hiding in the shadows, ready to save them from this final pinch...
-had been completely crushed from the moment that {f:5:Bernkastel} had smashed the golden heart......
+Any faint hopes that EVA was hiding in the shadows, ready to save them from this final pinch...
+had been completely crushed from the moment that BERNKASTEL had smashed the golden heart......
 No longer was there anyone who could save them.
 There was no hope at all of her brother being saved by any factor not already present.
 What about herself?
@@ -1190,7 +1190,7 @@ Though blood still dribbled from his mouth, his expression was fearless.
 However, Ange didn\'t stand up.
 She kept sitting, her head lowered.
 ".........Well, that was a nice warm‐up.
- ......Shall we get started, {f:5:Bernkastel}?!
+ ......Shall we get started, BERNKASTEL?!
  Round two...!!"
 "Wh‐what in the...... Why, my master?!
  The dead can\'t revive!!"
@@ -1248,14 +1248,14 @@ They were......Ange\'s family, her relatives.
  Everyone from Rokkenjima.
 That wasn\'t all.
  Everyone from the Golden Land, all of the fantasy creatures appeared, and following Ange\'s lead, they rose to their feet.
-Then, all of them glared at {f:5:Bernkastel}.
+Then, all of them glared at BERNKASTEL.
 "Even if the whole world denies my hope, I won\'t abandon it.
  I won\'t abandon my unshakable hope that everyone\'s alive.
  ......And now, I\'ve finally gotten there.
  .........This is it. My attitude as a witch."
 ".........Y‐you...... Weren\'t you just a Witch of the Future...?
  Just a powerless witch who could only shed tears of regret for the past...?!"
-"I am the Golden Witch, {f:5:Ange Beatrice}.
+"I am the Golden Witch, ANGE BEATRICE.
  ......My titles are the Golden, the Endless,
  .........and the Witch of Resurrection."
 ".........You\'ve reached it, haven\'t you, Ange?"
@@ -1273,22 +1273,22 @@ Then, all of them glared at {f:5:Bernkastel}.
  No matter how many times people try to kill them with the red truth,
  ......I\'ll reject it.
  Everyone will come back to me, again and again.
- .........I am {f:5:Ange}, Witch of Resurrection!!
+ .........I am ANGE, Witch of Resurrection!!
  In my world, your red truth can\'t touch me!!!"
 "Uuurrrggggaaaaaaaaaaaaaaaaaggghhh!!!"
 From Ange.........no, from Ange and her family and her friends, several golden streaks shot out at once.
-They were the same as the marks left by {f:5:Bernkastel}\'s great snakes.
+They were the same as the marks left by BERNKASTEL\'s great snakes.
 However, the glow inside these...was gold.
 Then, they wriggled, combined into one single mass, and transformed into an eagle with two wings.
 It wasn\'t one‐winged anymore.
 Thanks to Ange\'s absolute willpower, the golden eagle had gained the wing it needed to fly into the future.
-Those spread wings............made {f:5:Bernkastel} and the whale shrink back.
+Those spread wings............made BERNKASTEL and the whale shrink back.
 "The Ushiromiya eagle never looks back."
 "And it never gives up...!!"
 The golden eagle easily swallowed the blue whale with its wings, grinding it to bits.
 And it didn\'t let the whale\'s master escape either.
-It was now {f:5:Bernkastel}\'s turn to run.
-{f:5:Bernkastel} didn\'t fight the golden eagle.
+It was now BERNKASTEL\'s turn to run.
+BERNKASTEL didn\'t fight the golden eagle.
  She couldn\'t.
 In this world of Ange\'s, where even the red truth couldn\'t hurt anyone, just what sort of attack could have any effect?
 She frantically ran this way and that, throwing one wedge of red truth after another at the Ushiromiya family.
@@ -1309,11 +1309,11 @@ Ange wouldn\'t accept it, so they couldn\'t pierce anyone.
 "A believing heart.
  ......This is our consensus.
  ......Compared to the truth that we all acknowledge and share, your red truth can\'t hurt anything."
-".........So long, {f:5:Bernkastel}!
+".........So long, BERNKASTEL!
  ......This time, it\'s really checkmate."
 "I, ......I............won\'t accept this,
  I wooooooooooooooooooooooooooooooooooooooooooon\'t!!!"
-The massive golden eagle......finally swallowed {f:5:Bernkastel} whole.
+The massive golden eagle......finally swallowed BERNKASTEL whole.
 It then slammed into the vast ceiling......and there was an incredible explosion accompanied by an earthquake.
 From the cracked ceiling, along with many falling chips, ......a single black cat plummeted...and slammed against the floor.
 Erika ran up to it, repeatedly calling out to her master, hugging it.
@@ -1353,30 +1353,30 @@ Everyone surged forward, squishing Ange.
 They tried tossing her into the air, but dropped her onto her butt, and everyone laughed.
 Ange looked a bit resentful, but when her brother lent her a hand, she got up and joined the circle of smiles......
 A quiet applause greeted them.
-{f:5:Featherine}, their witness, had acknowledged their victory and was clapping for them.
+FEATHERINE, their witness, had acknowledged their victory and was clapping for them.
 "......Splendidly done,
- Lady {f:5:Ange Beatrice}.
+ Lady ANGE BEATRICE.
  ......In celebration of this miracle, I bestow upon you the title of Lady.
  The tale you weaved was quite entertaining."
 "................................."
 "There is no need to be so hostile.
  I am congratulating you."
-{f:5:Featherine} smiled serenely.
+FEATHERINE smiled serenely.
 Then, the cat overlords broke their positions in their constellation and lined up behind her.
 It was clear that this was not only a peaceful action, but part of a solemn ceremony.
 "You have defeated my miko.
  And I thank you for sparing her life.
  .........As you can see, she is my cute pet cat, which I keep to stave off boredom.
  If she died, boredom would overcome me as well."
-The true strength of this being, who referred to {f:5:Bernkastel} as a pet cat, had already been made clear during her fight with {f:5:Lambdadelta}.
+The true strength of this being, who referred to BERNKASTEL as a pet cat, had already been made clear during her fight with LAMBDADELTA.
 Even so, Ange spoke.
-"......I......won\'t forgive you for killing {f:5:Lambdadelta}."
+"......I......won\'t forgive you for killing LAMBDADELTA."
 "My, that doesn\'t sound like the words of a Witch of Resurrection.
  Can you not revive her whenever you wish?"
 "Huh?
  I can revive her...?!"
 "It\'s okay!
- I\'m sure that Lady {f:5:Lambdadelta} has been revived somewhere, thanks to your power. There is no need to worry."
+ I\'m sure that Lady LAMBDADELTA has been revived somewhere, thanks to your power. There is no need to worry."
 "Indeed.
  She has already been moved to the audience seating I prepared for her.
  Do not fear.
@@ -1432,7 +1432,7 @@ They had a stately design, ......making it clear that this was a very important 
  ............Do you remember what your brother told you at the very beginning, ...about how to choose the best possible option...?"
 "................................."
 "Battler, you\'re giving too many hints.
- This is the triumphant return of Lady {f:5:Ange}, Witch of the Future.
+ This is the triumphant return of Lady ANGE, Witch of the Future.
  All you have to do is watch over her."
 "......True.
  Then I\'ll hand it over to Beato.
@@ -1528,9 +1528,9 @@ A gold butterfly flew over my shoulder, landed on my palm, and turned into a mus
 A gold butterfly flew over my shoulder, landed on my palm, and turned into a mass‐produced Sakutarou doll.
 A gold butterfly flew over my shoulder, landed on my palm, and turned into a tea set bearing the family crest.
 A gold butterfly flew over my shoulder, landed on my palm, and turned into a pocket watch bearing the family crest.
-A gold butterfly flew over my shoulder, landed on my palm, and turned into a {f:5:Beatrice} corsage.
+A gold butterfly flew over my shoulder, landed on my palm, and turned into a BEATRICE corsage.
 A gold butterfly flew over my shoulder, landed on my palm, and turned into a Battler doll.
-A gold butterfly flew over my shoulder, landed on my palm, and turned into a {f:5:Beatrice} doll.
+A gold butterfly flew over my shoulder, landed on my palm, and turned into a BEATRICE doll.
 "......This was lying next to me when I woke up on the sofa, wasn\'t it?
  ......This was...my prize."
 "Take it back to the future with you, and treasure it."
@@ -1550,7 +1550,7 @@ The wind was cold.
  ......However, it told me that I had returned to reality.
 I was standing with one foot outstretched.........over the sea of light below me.
 How long have I been here?
-......Since the moment I was lured by {f:5:Bernkastel}, just about to take a step off the edge,
+......Since the moment I was lured by BERNKASTEL, just about to take a step off the edge,
  ......time has probably been stopped for me.
 "...................................."
 I slowly.........pulled my foot back in.
@@ -1602,9 +1602,9 @@ She spoke of how she would live from now on.
 strange and mysterious adventure......ends here.
 But my life will continue.
 After all, I now have a job to do.
-I am {f:5:Ange Beatrice}, witch of Mariage Sorcière.
+I am ANGE BEATRICE, witch of Mariage Sorcière.
 "Ushiromiya Ange just fell from here and died.
- ......I am {f:5:Ange}, the witch.
+ ......I am ANGE, the witch.
  ......I\'ll live.
  As a witch."
 "And so, your game ends."
@@ -1615,7 +1615,7 @@ He had now finished doing everything he could for Ange......
  ......I believe there was some rule about closing this door?"
 "Yes, that\'s right.
  ......The rule said that you needed two people to close it."
-"Hey, Auntie {f:5:Eva}."
+"Hey, Auntie EVA."
 "Don\'t call me that, it makes me feel old!"
 The two of them stood to the left and right of the door that Ange had vanished through.
 "Ange.
@@ -1632,14 +1632,14 @@ Then, the door itself faded away......
 Slowly......the world began to crumble.
 At a glance, it looked as though the City of Books was starting to fall apart.
 But that wasn\'t it.
-Battler and {f:5:Eva}\'s world...was being cut off from the City of Books.
+Battler and EVA\'s world...was being cut off from the City of Books.
 The world broke apart bit by bit, and the ceiling would probably fall in soon.
 "This is goodbye,
  Battler‐kun."
 "Yeah.
  ......See you later. And count on it.
  Take care of Ange, Auntie Eva."
-"At least at the end, try calling me {f:5:Eva} onee‐san, will you?"
+"At least at the end, try calling me EVA onee‐san, will you?"
 "................................."
 "See you later, Erika.
  Somewhere, someday."
@@ -1670,11 +1670,11 @@ Those...were the final words the two spoke to each other.
 A mighty roar and a cloud of dust blew by, covering everything.
 ......And then, everything vanished.
 Nothing remained.
-Battler and {f:5:Eva} were both gone.
+Battler and EVA were both gone.
 The City of Books was shrouded in silence.
 ".........It\'s all...over."
 "Yes,
- Great Lady {f:5:Aurora}."
+ Great Lady AURORA."
 "......You will take care of my pet cat.
  .........Now, I shall go too.
  There are some things that must be cleaned up in this world as well."
@@ -1713,7 +1713,7 @@ And so, Rokkenjima will probably never find peace.
 However, .........even so, compared to how it was before, .........life will surely be easier.
 .........Because, as the years pass, ......the dust will slowly pile up on it where it lies in the depths of oblivion.
 At the bottom of the deep sea known as the depths of oblivion, ......the witches\' cat box will probably get slowly buried as the years pass.
-{f:5:Featherine}...threw a single golden rose into that sea.
+FEATHERINE...threw a single golden rose into that sea.
 An offering to let the cat box rest in peace.
 Let us mark the end of this long story......with the tale of that golden rose.
 In the darkness, there was a massive roar and an earthquake.
@@ -1772,7 +1772,7 @@ When Beato turned around to see what was going on, her body was suddenly lifted 
 "L‐let go...!
  Th‐this isn\'t safe...!!"
 "Enough screaming.
- Listen carefully, {f:5:Beatrice}."
+ Listen carefully, BEATRICE."
 "Wh‐what...?"
 "I\'m going to steal you away."
 "........................Ba......"
@@ -1999,9 +1999,9 @@ By now, no one could tell which of those points was the car she rode in.
 Starting today, Ushiromiya Ange would change her name and live in a new climate.
 Changing her name didn\'t mean that she had given up on being Ange.
 This was Ange\'s...
-...no, {f:5:Ange Beatrice}\'s mission.
+...no, ANGE BEATRICE\'s mission.
 {a:c:
- I am {f:5:Ange Beatrice}.}
+ I am ANGE BEATRICE.}
 {a:c:
  The Golden and Endless Witch of Resurrection.
  A witch of Mariage Sorcière.}
@@ -2048,9 +2048,9 @@ I threw the music box that had been passed down through the generations into the
 I threw the mass‐produced Sakutarou doll into the ocean.
 I threw the tea set bearing the family crest into the ocean.
 I threw the pocket watch bearing the family crest into the ocean.
-I threw the {f:5:Beatrice} corsage into the ocean.
+I threw the BEATRICE corsage into the ocean.
 I threw the Battler doll into the ocean.
-I threw the {f:5:Beatrice} doll into the ocean.
+I threw the BEATRICE doll into the ocean.
 "......What was that?"
 "My attachment to the past.
  .........I was...shedding my old shell."
@@ -2203,7 +2203,7 @@ The sound of clapping, on a boat where Amakusa and the captain were no more.
 However, Ange didn\'t look surprised.
 She calmly and slowly turned around.
 "Splendid reasoning, comrade Ange.
- My fellow Witch of Truth, {f:5:Ange Beatrice}."
+ My fellow Witch of Truth, ANGE BEATRICE."
 "......Oh, you\'re here, Erika."
 "Anytime there\'s someone who wants to expose the truth, I am there.
  *giggle*giggle*."

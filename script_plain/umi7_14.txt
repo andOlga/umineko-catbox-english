@@ -8,9 +8,9 @@
 "........................
  ...You have my gratitude.
  This way, I won\'t have to expose my pitiful form."
-{f:5:Bernkastel} had given this person a fake form.
-It was a temporary form for the person acting the part of {f:5:Beatrice}.
-A false appearance intended for those yet to reach the truth of {f:5:Beatrice}\'s identity......
+BERNKASTEL had given this person a fake form.
+It was a temporary form for the person acting the part of BEATRICE.
+A false appearance intended for those yet to reach the truth of BEATRICE\'s identity......
 "......Is that...
 ...a story about...
 ...me in another world?"
@@ -28,8 +28,8 @@ I can imagine..."
  That doesn\'t mean I can accept it easily."
 Lion suddenly yelled and looked at the floor.
 Lion already knew.
-Because of the fragments provided by {f:5:Bernkastel}, Lion knew.
-This was a different world, where the same person lived as the Golden Witch {f:5:Beatrice}.
+Because of the fragments provided by BERNKASTEL, Lion knew.
+This was a different world, where the same person lived as the Golden Witch BEATRICE.
 And, in this world, .........eventually,
  ............on the day of the October 1986 family conference,
  .........this person would be the ringleader of a terrible crime.
@@ -46,7 +46,7 @@ And, in this world, .........eventually,
  ......I doubt anyone could understand.
  ......This person here\'s long past expecting anyone to understand.
  That\'s why you are here.
- ......That\'s why {f:5:Bernkastel} brought you two, two people who never could have met, together like this."
+ ......That\'s why BERNKASTEL brought you two, two people who never could have met, together like this."
 "............It\'s not like I had any deep reason for it.
  It was just a whim."
 "It\'s a motive that no one else can understand, Lion, so you need to be the one to understand it.
@@ -62,7 +62,7 @@ for explaining why I\'d kill my entire family...?!"
  Even if I say it\'s satisfying, that doesn\'t mean it\'ll satisfy you.
  ......You have to decide that for yourself."
 "I really don\'t have a clue what\'s going on...!
- I\'ve seen several crimes called game boards that {f:5:Beatrice} supposedly carried out.
+ I\'ve seen several crimes called game boards that BEATRICE supposedly carried out.
  And now, I\'m hearing another me talk about a different life from mine.
  But none of that fits with the crime!
  I don\'t understand!!"

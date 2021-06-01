@@ -682,7 +682,7 @@ He described their breathing as noisy, but Krauss and the rest couldn\'t even pi
 ".....................
  ......It\'s unusual.
  For us to be captured without being killed."
-"This time, {f:5:Beatrice}‐sama didn\'t make her appearance.
+"This time, BEATRICE‐sama didn\'t make her appearance.
  And the Master left his study.
  ......I don\'t have a clue what\'s going on..."
 "I do.
@@ -720,7 +720,7 @@ Shannon laughed softly, and apologetically leaned towards his shoulder.
  ......If I was foolish enough to wish to reach the Golden Land with Milady,
  .........that witch would find that very fun to toy with, and would certainly never let us reach there."
 "......You\'re right.
- .........{f:5:Beatrice}‐sama is thinking about which order of sacrifices will be the most interesting."
+ .........BEATRICE‐sama is thinking about which order of sacrifices will be the most interesting."
 "The whole thing about them being chosen at random is just a blatant lie.
  That swindling witch...
  ......All that about having any wish you want granted in the Golden Land is probably just a lie."
@@ -728,7 +728,7 @@ Shannon laughed softly, and apologetically leaned towards his shoulder.
  The Golden Land is......a wonderful place."
 "Have you been there?"
 ".........Only for a little bit.
- Though, even that was probably just {f:5:Beatrice}‐sama\'s joke."
+ Though, even that was probably just BEATRICE‐sama\'s joke."
 "...............What\'s it like there?"
 "Well.
  .........It\'s a wonderful place.
@@ -771,7 +771,7 @@ Shannon laughed softly, and apologetically leaned towards his shoulder.
  There was no longer any need to feel ashamed of myself because I was furniture."
 ".........It was honestly a happy world where I was equal to all {y:0:Human}{n:0:human}s, and even witches.
  I can\'t really remember it well,
- but I have the feeling that when I was there, I was equal even to {f:5:Beatrice}‐sama, and we were good friends."
+ but I have the feeling that when I was there, I was equal even to BEATRICE‐sama, and we were good friends."
 "............If that witch is there, then it\'s not a much of a paradise."
 ".........So, you want to go to that blissful Golden Land with George‐sama.
  That\'s strange.
@@ -798,14 +798,14 @@ Shannon laughed softly, and apologetically leaned towards his shoulder.
  I imagined something more...worldly.
  A world where we would be given magic medicine, and that would make us be born again as {y:0:Human}{n:0:human}s, or something more like that."
 ".........If you go, you\'ll understand.
- If {f:5:Beatrice}‐sama really is a fickle person, then surely some day, she\'ll let you get a glimpse of it too.
+ If BEATRICE‐sama really is a fickle person, then surely some day, she\'ll let you get a glimpse of it too.
  ......Then you\'ll be able to understand my example."
 "....................................
  Well, I\'m not holding my breath.
  ......At any rate, it seems like game over for us this time already.
  Maybe we can do better some other time."
 "......You\'re right.
- If we have some strange hope, {f:5:Beatrice}‐sama will take advantage of us again.
+ If we have some strange hope, BEATRICE‐sama will take advantage of us again.
  .........It might be best for us just to stop thinking, and entrust ourselves to fate."
 ".........We just need to be simple chess pieces.
  ......No matter what we think or don\'t think, we can\'t escape from the witch\'s chessboard.
@@ -857,14 +857,14 @@ The light they were apparently carrying illuminated the dimly lit corridor, stro
 And then, the light from the lantern they held lit up the prisoners through the bars.
 ......The bars\' sharp shadows divided them up lengthwise.
 There were four figures there.
- .........It was Kinzo, ............Ronove, {f:5:Virgilia}, and Gaap.
-"The head of the Ushiromiya family, Lord {f:5:Goldsmith}.
+ .........It was Kinzo, ............Ronove, VIRGILIA, and Gaap.
+"The head of the Ushiromiya family, Lord GOLDSMITH.
  Everyone, your silence, please."
-"...............{f:5:Goldsmith}?"
+"...............GOLDSMITH?"
 "It\'s Father\'s pen name.
  It seems he always signs with it when writing those bizarre grimoires."
 "‘Kinzo’ made English‐style?
- Shouldn\'t that be {f:5:Goldwarehouse}?"
+ Shouldn\'t that be GOLDWAREHOUSE?"
 ".........Hahhahahahahahahahahaha.
  A warehouse is a place to keep things in and nothing more.
  Whereas I create gold, and use my craftsmanship to further increase its worth.
@@ -900,7 +900,7 @@ There were four figures there.
 "Kuwadorian......
  ......You don\'t mean...Father\'s rumored hidden mansion......?
  It really exists......?"
-"This mansion was constructed for the sole use of my beloved witch, {f:5:Beatrice}.
+"This mansion was constructed for the sole use of my beloved witch, BEATRICE.
  It is truly a shame that I cannot show you around the above‐ground section, as it is such a beautiful and elegant mansion."
 ".........How lovely, just the two of you alone in a mansion with this kind of room.
  It seems that you and I are differently inclined."
@@ -928,7 +928,7 @@ There were four figures there.
  Are you telling me you\'d like to be locked up in the same cell?"
 "I, I apologize, my lord...
  This old body of mine would not be able to stand such a cold prison..."
-{f:5:Virgilia} quickly apologized, but Gaap merely laughed together with Ronove.
+VIRGILIA quickly apologized, but Gaap merely laughed together with Ronove.
 It was like she was saying that she wouldn\'t be captured,
  or else, that even if she were to be captured, it would be meaningless......
 "A prison is a place where the captured cannot escape from.
@@ -939,7 +939,7 @@ It was like she was saying that she wouldn\'t be captured,
  .........I will not ask you to understand."
 ".........I cannot be bound by anyone, and will not be bound.
  I don\'t want to be loved, I want to love.
- I feel the same as you, {f:5:Goldsmith}.
+ I feel the same as you, GOLDSMITH.
  That\'s why I understand the madness of your love."
 "Love and madness are two sides of the same coin, or so they say.
  How bothersome."
@@ -994,7 +994,7 @@ It was like she was saying that she wouldn\'t be captured,
  There\'s nothing we can do now."
 "Except insult me with such vigor.
  I don\'t dislike that kind of woman, you know?
- {f:5:Beatrice} was that kind of woman too, in the beginning.
+ BEATRICE was that kind of woman too, in the beginning.
  *cackle*cackle*cackle*!!"
 "............My lord.
  Let us get to the main topic.

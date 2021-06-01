@@ -61,7 +61,7 @@ hensively}
 Beato had tried to joke about it, but it seemed that the situation was quite serious, and after picking up on this, she hid her laughter.
 "......Is it really that serious...?
  Sh‐should we wait just a little longer before beginning the fourth game...?"
-"Because Lady {f:5:Bernkastel}\'s guest will be coming,
+"Because Lady BERNKASTEL\'s guest will be coming,
  it may be more appropriate to open the fourth game quickly.
  However, it might be useful if you were to show him a little consideration, Milady."
 "Consideration!
@@ -108,7 +108,7 @@ Like a marathon runner drawn on a certain caramel box,
 For some reason, countless country flags and confetti scattered everywhere, creating what was clearly intended to be the perfect party atmosphere.
 ......Battler and Beelzebub, who had been grappling on the floor over the croissant, completely forgot about their argument and stared at her speechless.
 "Kya‐...kyahahahaha!
- Good morning, {f:5:Beatrice}‐sama!
+ Good morning, BEATRICE‐sama!
  Well, that\'s all for me!
  Here, Battler‐kun, say aa~h!"
 "Mggmffff!!"
@@ -328,7 +328,7 @@ Battler was struck by how strongly they resembled the eyes of a girl who definit
 "*cackle*cackle*!
  Oh, those? Those things that run around and around in a wheel night after night?"
 "At a glance, you might think that running around in a wheel is endless.
- ......Endless Witch, {f:5:Beatrice}.
+ ......Endless Witch, BEATRICE.
  You are just like that wheel.
  And he is the one running around in the wheel forever, thinking he\'s fighting, but actually just making a fool of himself."
 "......This isn\'t a game.
@@ -369,8 +369,8 @@ Battler grimaced as he remembered his many painful losses.
 "I will advise you in a way that will be to your advantage.
  Of course, you shouldn\'t just swallow the things I say.
  Because no one can provide absolute proof that I\'m on your side."
-In the last game, {f:5:Virgilia}, who I\'d thought was an ally, turned out to be on the witch\'s side after all.
-......Battler couldn\'t get that eerie smile worn by {f:5:Virgilia}, who he had even thought of as dependable, out of his head.
+In the last game, VIRGILIA, who I\'d thought was an ally, turned out to be on the witch\'s side after all.
+......Battler couldn\'t get that eerie smile worn by VIRGILIA, who he had even thought of as dependable, out of his head.
 "So you don\'t have to unconditionally trust me.
  Therefore, taking my advice as nothing more than an opinion to be considered is absolutely fine.
  After all, ......the player who\'s fighting in a game against the witch is you."
@@ -382,7 +382,7 @@ In the last game, {f:5:Virgilia}, who I\'d thought was an ally, turned out to be
  It is good that you understand that.
  *cackle*!"
 "No, I\'m not an outsider.
- {f:5:Beatrice}, Ushiromiya Battler,
+ BEATRICE, Ushiromiya Battler,
  ...and me with my bird\'s‐eye perspective over you...will fight in a formation almost like a triangle.
  At a glance it might not seem to be a united front, but fighting together is not the only way to form a united front."
 "Hoh.

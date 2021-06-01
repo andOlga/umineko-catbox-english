@@ -363,7 +363,7 @@ However, the two demons were smiling quietly.
  Don\'t disappear!!
  If you disappear, who will save Battler?!
  Little sister, Beato!
- {f:5:Beatriceeeeeeeeeee}!!"
+ BEATRICEEEEEEEEEEE!!"
 ............Why...
 ...is it...
 ...that I like Battler‐san...?
@@ -386,7 +386,7 @@ However, the two demons were smiling quietly.
  ihhihihihihihi, that\'d be awesome.
  I\'d love to rub those boobs!
  Wahahahahahaha...!"
-{a:c:――{f:5:Beatrice}.
+{a:c:――BEATRICE.
 Listen to me.
 I am giving you my love for Ushiromiya Battler.
 You are to become the kind of woman Ushiromiya Battler desires.}
@@ -405,7 +405,7 @@ Please, take these desires I couldn\'t bring to fruition,
 So, from this day forward, you will no longer be me.}
 {a:c:Please forgive me for pushing all of my troubles onto you,...while I alone try to find happiness.}
 {a:c:From this day forward, you have the right to hate everything.
-From this day forward, you are the Golden Witch, {f:5:Beatrice}.}
+From this day forward, you are the Golden Witch, BEATRICE.}
 {a:c:And, one day,
 you will destroy everything, revive everything,
 ......and bring blessings to all lovers.}
@@ -417,7 +417,7 @@ The two of us will split a single soul and share it.
 And though, of course, that won\'t amount to a complete soul...
 I\'m sure our dreams will be more numerous than most.}
 {a:c:Let us be blessed.........
-My darling...{f:5:Beatrice}.........}
+My darling...BEATRICE.........}
 {a:c:No one else can see your form.
 But I can.
 And if you\'re loved by a lot of people,
@@ -513,11 +513,11 @@ Not only did he have no way to save Battler, but he couldn\'t even escape himsel
  Use your magic on me."
 "W‐wait......
  I don\'t even know how......"
-"Aren\'t you {f:5:Beatrice}, the Golden Witch...?"
+"Aren\'t you BEATRICE, the Golden Witch...?"
 "I am a witch, but.........ummm...
  I don\'t even know about locked room tricks, much less magic......"
 "Good grief......
- Okay, listen up, {f:5:Beatrice}.
+ Okay, listen up, BEATRICE.
  .........I\'ll only tell you this once.
  This is what a witch is."
 "What a witch is.........?"
@@ -543,7 +543,7 @@ and make it so that they\'re the ones agonizing.
 "I\'m......not the one who agonizes......"
 "That\'s for them to do.
  It\'s about time they recalled the true terror...
-...of {f:5:Beatrice} the Endless Witch, the one who can create endless locked‐room tricks of the most horrific kind,
+...of BEATRICE the Endless Witch, the one who can create endless locked‐room tricks of the most horrific kind,
  tricks that can make even the demons of hell prostrate themselves in shock...!"
 ".........A locked room.........even more horrific than Battler‐san\'s..."
 "We\'ve already gotten our hands on one, haven\'t we?"

@@ -69,7 +69,7 @@ Everyone, everyone was at the party, clapping their hands and celebrating our re
  Everyone was dead...!
  Why are they alive...?!"
 "......In the Golden Land, all the dead people\'s souls can be revived.
- ......Welcome back, {f:5:Beatrice}.
+ ......Welcome back, BEATRICE.
  And welcome, Battler‐kun.
  Welcome to the Golden Land."
 "............I...made it?
@@ -83,7 +83,7 @@ to the door of the Golden Land?"
 "G‐Grandfather...
  .........Where in the world...am I..."
 "...My blood, which is...incompatible with magic, runs more deeply in your veins than any other.
- ...Therefore, you were the only one who could not reach the Golden Land, and {f:5:Beatrice} has been searching for you ever since.
+ ...Therefore, you were the only one who could not reach the Golden Land, and BEATRICE has been searching for you ever since.
  ...She tried everything to bring you here."
 "............What did you say......?"
 "It seems that we are all here at last."
@@ -154,14 +154,14 @@ And Kanon‐kun wanted to act humbly like a servant and bow,
  ...Even though I thought you were the most screwed up,
  ...you actually knew the truth from the beginning."
 "H‐how rude...!
- It is absolutely unforgivable to speak of Lady {f:5:Maria} in that way!"
+ It is absolutely unforgivable to speak of Lady MARIA in that way!"
 "Forming firing curve, attack preparations ready.
- Lady {f:5:Maria}, we can attack at any time.
+ Lady MARIA, we can attack at any time.
  Nihi!"
 "Kihhihihihihihihihihihihihihihihihihihihihihihi...!
  Ouch!"
 "...Quiet.
- You are in the presence of {f:5:Beatrice}‐sama."
+ You are in the presence of BEATRICE‐sama."
 "Well, there\'s no need to be quite so strict.
  For now, let us take their desire to fool around and play together into consideration.
  More importantly, why don\'t we begin preparing for the toast?"
@@ -178,10 +178,10 @@ And Kanon‐kun wanted to act humbly like a servant and bow,
  Don\'t let the guests do anything.
  Make them lazy, make them slothful, fatten them like pigs.
  Ahhahaha!"
-"......{f:5:Beatrice}.
+"......BEATRICE.
  Battler‐kun.
  This way."
-Grandfather and {f:5:Virgilia} were standing on the landing at the top of the staircase, beckoning us.
+Grandfather and VIRGILIA were standing on the landing at the top of the staircase, beckoning us.
 Beato and I looked at each other quizzically, then climbed the stairs together.
 From the hall, it looked like a very high stage.
 A small table had been set up there, as well as a piece of parchment and an old‐fashioned quill pen.
@@ -212,7 +212,7 @@ Beato laughed amiably.
 "..................It looks like I\'ve been a real pain.
  ...So, what should I do...?"
 "First, sign here.
- Then, {f:5:Beatrice}, sign here."
+ Then, BEATRICE, sign here."
 "......It\'s hard to use a quill pen.
  ...Whoa, it shot."
 "You klutz.
@@ -222,20 +222,20 @@ Beato laughed amiably.
  *cackle*cackle*cackle*cackle*...!"
 "And what about you...!
  Don\'t write it in {ruby:katakana:capitals} like that!
- {f:5:Beatrice} is a stylish name, so write it in cursive!
+ BEATRICE is a stylish name, so write it in cursive!
  You\'re making the quill and your name cry!"
 "Sh‐shut up, in school, didn\'t they tell you not to use cursive on tests?"
 "This is a solemn ceremony. Be silent."
 "Very good.
  We have gathered the two signatures, as well as the form for the covenant.
  ......Both of you, your oath please.
- We\'ll start with {f:5:Beatrice}.
+ We\'ll start with BEATRICE.
  Put your hand on the covenant, and take the oath."
-"......‘I, {f:5:Beatrice}, as a good witch, swear to continue with my training for the sake of bringing happiness to the people’.
+"......‘I, BEATRICE, as a good witch, swear to continue with my training for the sake of bringing happiness to the people’.
  ...Say it."
 "......M‐......mm...
  ......I‐it\'s a little embarrassing."
-"......I, B‐{f:5:Beatrice}, as a good witch,
+"......I, B‐BEATRICE, as a good witch,
  swear to continue with my training for the sake of bringing happiness to the people.
  ......Is that alright?"
 "Good.
@@ -252,11 +252,11 @@ Beato laughed amiably.
 When Kinzo proclaimed that, everyone applauded at once, praising us.
 ......Since I\'d been the only stubborn one and had just been a nuisance, I felt a little bad about being the most celebrated one.
 "And with that, in accordance with the ancient rites, we ask Battler‐kun, the last to make the oath, to sign the invitation to the Golden Land.
- ......This is something that invites the Golden Witch, {f:5:Beatrice}, to the Golden Land.
+ ......This is something that invites the Golden Witch, BEATRICE, to the Golden Land.
  The Golden Land invites the Golden Witch through a consensus of those who have accepted it, and becomes complete."
 "Battler, I will read it out loud.
  Listen carefully.
- ............‘The 18 of us acknowledge the Golden Witch to be {f:5:Beatrice}, and welcome her to the Golden Land’."
+ ............‘The 18 of us acknowledge the Golden Witch to be BEATRICE, and welcome her to the Golden Land’."
 "What\'s going on with you? You won\'t be invited unless I send an invitation?"
 "It seems that is the ceremony.
  It makes me uncomfortable also.
@@ -315,7 +315,7 @@ Then, after our eyes met perfectly, she yelled.
 Just then, something incredibly strong lifted me by the nape of my neck.
 ...Wh‐what\'s going on...?!
 And after I was forced to turn around,
- ......I saw {f:5:Virgilia} with an eerie smile on her face, and the muscular forms of goat monsters...
+ ......I saw VIRGILIA with an eerie smile on her face, and the muscular forms of goat monsters...
 A goat monster that looked like it was two meters tall was holding me up with an arm as thick as a log...!
 "Hohhohohohohohohohohohoho...
  There is no need to listen to an uninvited guest.
@@ -399,7 +399,7 @@ Beato reformed and swore to become a good witch......
 "Come, you can no longer refuse to sign.
  ......Now, come on.
  Sign it and offer your body, your mind, and your soul...!!"
-When {f:5:Virgilia} lifted her chin as a signal, the goat monsters, with an even more vise‐like power,
+When VIRGILIA lifted her chin as a signal, the goat monsters, with an even more vise‐like power,
  forced my arm to approach the parchment......!
 Owowowow... These guys are trying to make me sign, even if it breaks my arm......
 At that moment, a bright red light burst open with me at the center, knocking the witches and the goat monsters away.
@@ -449,7 +449,7 @@ B‐but who in the world is that? I don\'t have a clue!
 "......I see, so that\'s it...
  .........Yes, I get it, I know who you are!
  ...I see,
- so you are the piece Lady {f:5:Bernkastel} threw in.
+ so you are the piece Lady BERNKASTEL threw in.
  I like it!!"
 "Why don\'t I formally invite you to my party?!!
  I\'ll welcome you fully...!!
@@ -461,4 +461,4 @@ B‐but who in the world is that? I don\'t have a clue!
  ...I will expose everything that happened then to the light of day!"
 "I\'ll teach you that you\'re no more than needle ice, scared of the spring of truth!
  Prepare yourself, Golden Witch!
- {f:5:Beatrice}!!!"
+ BEATRICE!!!"

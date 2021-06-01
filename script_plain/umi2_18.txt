@@ -1,6 +1,6 @@
-"Where are you, {f:5:Beatrice}!!
+"Where are you, BEATRICE!!
  Show yourself!!
- {f:5:Beatriceee}!!"
+ BEATRICEEE!!"
 Rosa finally arrived at the chapel.
  She pointed her gun around her, screaming the witch\'s name, but there was no way there would be an answer.
 After grimacing slightly, she noisily approached the table where her siblings\' corpses were still exposed, and stretched out her arm towards the gold ingots.
@@ -14,7 +14,7 @@ Rosa did not part with her gun either, carrying the gold in addition to it.
  It will happen very soon.
  ......Very soon, the door to the Golden Land...will open."
 "Stop laughing with that creepy voice!!
- Where is {f:5:Beatrice}?!
+ Where is BEATRICE?!
  Yes, I know it, she\'s around here somewhere, isn\'t she?!
  You know, right?!
  Where?!"
@@ -31,7 +31,7 @@ Rosa did not part with her gun either, carrying the gold in addition to it.
  I won\'t be fooled by a thing like that!!
  You\'re there, aren\'t you?!
  Come out, show yourself!!
- {f:5:Beatriceeeeeeeeeeeeee}!!!"
+ BEATRICEEEEEEEEEEEEEE!!!"
 "I told you, she\'ll appear very soon.
  The door to the Golden Land will be opened.
  ......Kihihihihihihihihihihihi..."
@@ -39,7 +39,7 @@ Rosa did not part with her gun either, carrying the gold in addition to it.
  That\'s what I should have done!
  I don\'t care, I shall throw away the rook!
  You, woman, are the king, who can\'t even be reached without the resolve to lose everything one has.
- I\'ll corner you, {f:5:Beatriceeee}.
+ I\'ll corner you, BEATRICEEEE.
  Hihahahahahahahahahaha!"
 "At least call me a queen.
  Hoh, what a brilliant move.
@@ -47,7 +47,7 @@ Rosa did not part with her gun either, carrying the gold in addition to it.
 "......How pleasant!
  Truly an elegant night.
  Ku‐hah‐hah‐hah‐hah‐hah‐hah‐ha...!!"
-".........My lord; {f:5:Beatrice}‐sama.
+".........My lord; BEATRICE‐sama.
  It will soon be time for the banquet."
 "Already?
  ......That\'s fast.
@@ -61,7 +61,7 @@ Rosa did not part with her gun either, carrying the gold in addition to it.
 The witch was relaxing elegantly, her feet thrown out from the sofa and sitting on top of a footrest.
 ...However, the footrest wasn\'t a part of the sofa, ......it was a {y:0:Human}{n:0:human}.
  Which was down on all fours......
-"......{f:5:Beatrice}‐sama, your silk dress."
+"......BEATRICE‐sama, your silk dress."
 "You are the guest of honor, but I am the host.
  I will go out first.
  It would have been nice if Shannon were here to help dress you, but, unfortunately, it seems that she no longer remains."
@@ -76,7 +76,7 @@ The witch was relaxing elegantly, her feet thrown out from the sofa and sitting 
 "......Certainly.
  .........Well then, my lord."
 "We will go first.
- ...{f:5:Beatrice}, I will see you later."
+ ...BEATRICE, I will see you later."
 "Indeed."
 Kinzo and Genji left the study.
 After that, only the witch and the dress and the furniture remained.
@@ -122,7 +122,7 @@ At that time, Genji\'s voice rang out through the hall.
 It was a voice calling for silence.
 That voice stopped the voices of idle chatter, and everyone turned to face Genji.
 ".........Tonight marks the entrance of our Golden Witch, who has achieved her revival,
- the Lady {f:5:Beatrice}.
+ the Lady BEATRICE.
  I ask you all to join me in welcoming her with your applause."
 When Genji began to applaud, it quickly spread through the guests, and became thunderous applause.
 And.........the Golden Witch appeared at the top of the large staircase...
@@ -139,11 +139,11 @@ One of the young woman goats, mixed in with the goat nobles,
  softly removed her goat mask as the furniture passed in front of her, and spoke with eyes that had no light in them.
 That face...looked like it belonged to a long‐haired young girl...
 "...............How pitiful."
-"Ohh, Lady {f:5:Bernkastel}.
+"Ohh, Lady BERNKASTEL.
  Welcome.
  Do you like my furniture?"
 ".........Good taste."
-After saying only that, the witch called {f:5:Bernkastel} once again put on her goat mask,
+After saying only that, the witch called BERNKASTEL once again put on her goat mask,
  and was swallowed up in the shadows of the other tall goats...
 "Ahahahahahahaha...
  Sore loser.
@@ -175,7 +175,7 @@ Throw open the wine cellar,
  throw cows and chickens into the furnace alive,
  drink and eat and sing and dance,
  sneer and kill and desecrate and degrade!!
-"Aaaaaahh, {f:5:Beatrice}!!
+"Aaaaaahh, BEATRICE!!
  Take me to the Golden Land now!
  To the Golden Laaaaaaaaaaaaaand!!!
  Oooooooooohhhhhhhhh, aaaaaaaaaaaaaaaaaaaaaaaaaaahhh!!!"

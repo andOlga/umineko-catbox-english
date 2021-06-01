@@ -10,7 +10,7 @@ It wasn\'t a refreshing morning.
 ".........Is it already six o\'clock?
  Fuaaaaaa...
  Isn\'t this enough?
- Can\'t do much else until the mystery 19th person, {f:5:Beatrice}, takes action."
+ Can\'t do much else until the mystery 19th person, BEATRICE, takes action."
 "That is correct.
  ......However, I believe we have thought of almost every trick they could use against us."
 "Yes.
@@ -64,7 +64,7 @@ Eva\'s group, who had thought the smell had been coming from the kitchen,
  There was also one on the door to the boiler room."
 "What\'s that?!
  This creepy graffiti isn\'t just here, it\'s in other places as well?!
- Haha, you don\'t think that this is the witch of the forest {f:5:Beatrice}\'s declaration of war, right?"
+ Haha, you don\'t think that this is the witch of the forest BEATRICE\'s declaration of war, right?"
 Hideyoshi tried to make fun of it, but staring at this creepy magic circle while listening to the wind and rain really made it seem like it was a message from a witch.
 ...The dripping bright‐red paint made one think of blood, and it made things even more eerie.
 Hideyoshi tried to open the door, but it was locked.
@@ -255,7 +255,7 @@ Shannon was lying on the floor, her chest stained bright‐red with blood......
 ".............................."
 Battler had his head pressed to the table, and was clutching it with his hands...
  His pitiful figure made it plainly clear that he didn\'t want to see anything, didn\'t want to hear anything...
-Had he heard {f:5:Beatrice}\'s sneering voice?
+Had he heard BEATRICE\'s sneering voice?
 ...Could he not hear, or was he pretending that he couldn\'t hear?
  In any event, it was clear that he had closed up his heart like a shell...
 "Pu ku ku ku...
@@ -279,7 +279,7 @@ Had he heard {f:5:Beatrice}\'s sneering voice?
 "Don\'t talk to me, don\'t show me anything, go away, go away, go the hell away!!
  Get your goddamned annoying face AWAY FROM MEEEEEEEEEEEEEEEEEE!!!"
 "........................!!!"
-{f:5:Beatrice} instinctively winced at Battler\'s sudden rage.
+BEATRICE instinctively winced at Battler\'s sudden rage.
 "......E‐even if you say that, um...
  If you don\'t finish your turn, then my turn won\'t come.
  I feel like saying, don\'t make me too bored—"
@@ -323,7 +323,7 @@ But, because of that, I couldn\'t explain it with anything other than magic anym
  .........It\'s you..."
 I was suddenly spoken to, so I turned around,
  ...and in the rose garden arbor,
- ......was the Predecessor {f:5:Beatrice}, who {f:5:Beatrice} had supposedly defeated a short while ago.
+ ......was the Predecessor BEATRICE, who BEATRICE had supposedly defeated a short while ago.
 ".........I was sure you\'d died.
  So, you were alive."
 "No, I died.
@@ -477,7 +477,7 @@ So at a glance, it appears to you as though the world is tilted towards the magi
  Hasn\'t everything been going really bad for me the whole time...?!"
 "Then perhaps you could think of it this way.
  This is a trial.
- Think of it as a court where you and {f:5:Beatrice} are laying out opposing claims.
+ Think of it as a court where you and BEATRICE are laying out opposing claims.
  We could describe it as a Braun tube trial."
 "That child claims that there are tiny people inside the Braun tubes.
  And she explains about the lives of the tiny people, what they look like,
@@ -548,16 +548,16 @@ collapse by the judgment, and become one."
 "Hoh‐hoh‐ho, thank you.
  I am looking forward to it."
 "What\'s your name?"
-"...{f:5:Beatrice} used to be my name, but now that I have surrendered it, I do not have a name."
+"...BEATRICE used to be my name, but now that I have surrendered it, I do not have a name."
 ".........So, I shall take a temporary name.
- ......{f:5:Virgilius}.
+ ......VIRGILIUS.
  ...No,
- what about {f:5:Virgilia}?"
-"{f:5:Virgilia}.
+ what about VIRGILIA?"
+"VIRGILIA.
  Valkyria?
  Wasn\'t that the name of a legendary goddess?"
 "No.
- It means the one who is a guide to {f:5:Beatrice}.
+ It means the one who is a guide to BEATRICE.
  ......I will guide you to that child who waits at the summit of Mount Purgatory.
  It should be a fitting name for that kind of guide."
 "To think that I\'d accept help from a witch when I\'m trying to deny witches.
@@ -643,6 +643,6 @@ collapse by the judgment, and become one."
  Let me check the scene.
  I\'ve been trudging along wasting time.
  From now on, I\'ll speed things up, okay?"
-"Take a seat, {f:5:Beatrice}!!
+"Take a seat, BEATRICE!!
  It\'s finally the first twilight, isn\'t it? Let\'s start the real thing.
  Show me what you\'ve got!!!"

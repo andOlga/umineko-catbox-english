@@ -23,7 +23,7 @@ When she muttered as though to herself, gold butterflies appeared and formed int
 "What do you mean by something else...?
  Do you mean to change our plan...?"
 "That is correct.
- ......{f:5:Virgilia}‐sama and I will reconstruct a barrier similar to last year\'s."
+ ......VIRGILIA‐sama and I will reconstruct a barrier similar to last year\'s."
 "In other words, we\'ll take Kinzo out of the study and have him tightrope walk from shadow to shadow where the toxin can\'t reach, just like last year.
  It will be dangerous, but I would like to propose the same thing."
 "What did you say...?
@@ -61,7 +61,7 @@ When she muttered as though to herself, gold butterflies appeared and formed int
 "...Well, that is true......
  However, {y:0:Human}{n:0:human}s are unreasonable.
  It\'s possible for them to eat into an airtight cat box and go inside like black ants swarming a box of cake.
- ............And Lady {f:5:Bernkastel}\'s piece also concerns me."
+ ............And Lady BERNKASTEL\'s piece also concerns me."
 ".........It was fortunate that Erika‐sama stole the show at tonight\'s dinner.
  By doing that, she created an atmosphere where it was possible for tonight\'s family conference to come to a close.
  ......If you had gone straight back to the family conference afterwards like usual, the barrier might have broken tonight."
@@ -69,12 +69,12 @@ When she muttered as though to herself, gold butterflies appeared and formed int
  ......After thickening all night, the toxin may be able to corrode the locked‐room barrier easily.
  Whether we continue holding the fort or give up that plan,
  we will not be able to make it through tomorrow unless we prepare a new strategy and a new barrier."
-"......Lady {f:5:Bernkastel} may have some plan for breaking the locked‐room barrier.........
+"......Lady BERNKASTEL may have some plan for breaking the locked‐room barrier.........
  We can\'t take that piece called Erika lightly..."
-"............Come to think of it, that man who said something about taking revenge for the events of 19 years ago might also be Lady {f:5:Bernkastel}\'s piece.
+"............Come to think of it, that man who said something about taking revenge for the events of 19 years ago might also be Lady BERNKASTEL\'s piece.
  ......This board, which achieved equilibrium with 18 pieces, has had two undesired pieces added to it.
  ...There are too many irregularities this year."
-"Lady {f:5:Bernkastel} is a fan of Eastern things.
+"Lady BERNKASTEL is a fan of Eastern things.
  ......They say that in shogi, Japanese chess, you are allowed to drop pieces onto the board in the middle of a game, do they not?"
 "Yes, that is possible.
  ......In shogi, even dropping a queen from the captured pile right in front of the enemy king is a permissible move that can serve as a trump card."
@@ -88,7 +88,7 @@ When she muttered as though to herself, gold butterflies appeared and formed int
  Why must there be so many irregularities?!!
  How can you explain this miracle of nightmares and coincidences?!!"
 Natsuhi slammed the desk hard, held her head, and cringed at the pain from her overwhelming headache...
-".........Lady {f:5:Bernkastel} controls miracles.
+".........Lady BERNKASTEL controls miracles.
  ...There\'s no point being surprised at irregularities or miracles when that person is around."
 "It may be true that shogi is a game where an enemy piece can suddenly appear right in front of a king.
  However, that is why you build up a perfect formation that doesn\'t allow for that kind of weakness, artistically constructing a castle to protect your king."
@@ -161,9 +161,9 @@ Beato searched for him, but Kinzo had been nowhere to be seen in the study for s
 Perhaps Natsuhi had noticed this as well...
 Though she took pride in fighting alone and supporting from behind, thinking of those as the responsibilities of a good wife,
  ......without anyone to validate what she was doing and say it was needed, .........she was now so frail that she couldn\'t even stop her own tears.
-Just as Beato was thinking of words she could use to console Natsuhi, {f:5:Virgilia} tapped her lightly on the shoulder.
+Just as Beato was thinking of words she could use to console Natsuhi, VIRGILIA tapped her lightly on the shoulder.
 ......If words of consolation don\'t come from the mouth of the right person, they can sometimes do more harm than good.
-Therefore, {f:5:Virgilia} silently urged Beato that saying nothing was the best course of action for now...
+Therefore, VIRGILIA silently urged Beato that saying nothing was the best course of action for now...
 "...............Hi, sorry to interrupt.
  ...I know I\'m an outsider, but I wonder if you\'d let me speak."
 "Gaap.
@@ -183,7 +183,7 @@ Therefore, {f:5:Virgilia} silently urged Beato that saying nothing was the best 
  Has that time already come?"
 "What do you mean?
  ......Are you saying we have some sort of move?"
-"............It\'s the first thing you suggested to conceal {f:5:Goldsmith}\'s death.
+"............It\'s the first thing you suggested to conceal GOLDSMITH\'s death.
  ......I\'m trying to say that the time has come for us to use it..."
 "You mean...having him go missing......?!
  You mean to make that move right now, during the family conference?!
@@ -194,7 +194,7 @@ One day, Kinzo would go out into the forest and never return.
 They wouldn\'t be able to find him no matter how much they searched, so he would be declared "missing"......
 ".........You said it yourself a second ago, Riiche.
  You can\'t catch a mouse that\'s escaped to a field.
- And you can\'t catch a {f:5:Goldsmith} who\'s disappeared into the forest."
+ And you can\'t catch a GOLDSMITH who\'s disappeared into the forest."
 "Do you honestly think that we could talk our way out of this using that?!
  Using such a move now, when the suspicion against us is greatest, would be no better than committing suicide!!"
 "They will suspect, yes.
@@ -214,7 +214,7 @@ They wouldn\'t be able to find him no matter how much they searched, so he would
 .......yes,
  ......that may be true, but......"
 ".........The Ushiromiya family should have collapsed after the Great Kanto Earthquake.
- But the mad genius {f:5:Goldsmith} revived it,
+ But the mad genius GOLDSMITH revived it,
  and he rebuilt it into something so magnificent that you want to protect it.
  ......So this time, it is up to you and your husband, the new head and his wife, to do the same."
 "......Hoh...
@@ -246,7 +246,7 @@ She was the kind of person who just couldn\'t leave someone in trouble alone.
  Give back my Phantom Silver Crystal and Moon Stick!
  I still haven\'t played around by sticking them together yet!"
 "............This is the sort of magic or plan that I can give you.
- I can hide {f:5:Goldsmith} away in a world where no one will be able to find him.
+ I can hide GOLDSMITH away in a world where no one will be able to find him.
  .........Let me know the instant you need this magic.
  Until then, you may think of another, safer plan."
 "True.
@@ -267,7 +267,7 @@ That was truly a last resort.
 Hiding this final trump card in her heart, ......Natsuhi decided that she would grope around for a different plan until the last second.
 After all, this long, long night had only just begun......
 ......And it was long not only for her.
- {f:5:Bernkastel} and her pieces had just as much time.........
+ BERNKASTEL and her pieces had just as much time.........
 "......Gouge the leg......and kill.
  ......Now it\'s complete..."
 "I see, ......so that was what "gouge" meant after all.
@@ -434,7 +434,7 @@ The entrance to the Golden Land was right there.........
 When I think about it, I was also a head that no one saw coming.
 How interesting that the one who will succeed me as head is also a person no one saw coming.
 "I now have no regrets remaining in my life!!
- {f:5:Beatrice}, I am coming to join you.
+ BEATRICE, I am coming to join you.
  Along with a present, the miracle chosen by my epitaph...!"
 {a:c:
 Battler, of all people.
@@ -442,7 +442,7 @@ Battler, of all people.
 "Wahahahahahahahaha...!!
  Wahahahahahahahahahahahahahaha!!
  At the very, very end of my life, I have witnessed a true miracle!!"
-"{f:5:Beatriceeeeeeeee}!
+"BEATRICEEEEEEEEE!
  I\'ve won this beeeeeeettt, waaahhhahahahahahahahahahahahahahahahahahahahaaaahhh!!!"
 "Ha, hahahahaha...!!
  Yahoo!!

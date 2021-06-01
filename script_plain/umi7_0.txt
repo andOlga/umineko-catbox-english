@@ -23,7 +23,7 @@ as though that light would never dim again.}
 After all, it is such a wonderful thing......}
 {a:c:
 ——Witness to your final dream,
-{e:080:{f:5:Publius Virgilia Maro}}}
+{e:080:PUBLIUS VIRGILIA MARO}}
 The suspects were gathered in a room, and several Inquisitors were reporting on the results of their investigation.
 Their uniforms closely resembled those of Eiserne Jungfrau, but they were slightly different.
  Also different were the badges signifying their department.
@@ -48,7 +48,7 @@ Shaking, the maid tried to continue her illogical pleading, but all her argument
  For your attention: I beg to inform you of the following.
  Know that motives are unnecessary in mysteries."
 The Inquisitor spoke coldly.
-After finishing her witch\'s prayer, {f:5:Virgilia} stepped back from the casket, which lay on an altar bedecked with many beautiful roses.
+After finishing her witch\'s prayer, VIRGILIA stepped back from the casket, which lay on an altar bedecked with many beautiful roses.
 In her place, Battler moved to the front of the casket, wearing his territory lord\'s cape......
 Though the cape was supposed to represent dignity and majesty,
  it somehow made Battler look smaller.
@@ -112,7 +112,7 @@ It doesn\'t make it okay to ignore the heart.
 "......You\'re right.
  What else should you do with a sleeping kid except put a blanket on them,
  ......turn off the lights, and walk away quietly..."
-After looking at the casket one last time, {f:5:Virgilia} turned around quietly.
+After looking at the casket one last time, VIRGILIA turned around quietly.
 Battler did the same, .........but he then stopped and turned to face the rose‐covered altar...
 ".............................."
 Battler said his final words with his heart.
@@ -134,9 +134,9 @@ Battler understood this, and stopped himself from speaking once more with a resi
 "......Thank you."
 "Oh, I have done nothing deserving of your gratitude..."
 "......I\'ll leave the rest to you."
-After seeing {f:5:Virgilia} nod back at him, Battler turned away from the altar one more time...
+After seeing VIRGILIA nod back at him, Battler turned away from the altar one more time...
 ......and left the chapel.
-{f:5:Virgilia} also disappeared,
+VIRGILIA also disappeared,
  ......and all disturbances that might have interrupted her blissful sleep were gone...
 The Inquisitors listened with calm—no, scornful gazes.
 They listened to the frantic babbling of the maid accused of murdering her master.

@@ -2,14 +2,14 @@ The marriage ceremony ended without any problems, and the reception was held ins
 As the goat demons partied raucously,
  Dlanor could be seen leaning against a pillar, trying to escape from the noise.
 Then, Gertrude appeared and whispered some kind of report to her.
-".........Is that {f:5:true}?"
+".........Is that TRUE?"
 "For your attention:
  Assistant Inquisitor Cornelia is currently heading towards the scene.
- ......I suggest that Lady {f:5:Erika} be contacted as well."
-"{f:5:Understood}.
- I will tell {f:5:her}.
- ......Gertrude, contact the head of ceremony {f:5:security}.
- ......Prepare for {f:5:battle}."
+ ......I suggest that Lady ERIKA be contacted as well."
+"UNDERSTOOD.
+ I will tell HER.
+ ......Gertrude, contact the head of ceremony SECURITY.
+ ......Prepare for BATTLE."
 "As you wish."
 "I apologize for interrupting your chat.
  I am in charge of security for this ceremony."
@@ -21,7 +21,7 @@ Then, Gertrude appeared and whispered some kind of report to her.
  *giggle*giggle*......"
 "Hey, Beeeeeeern!!
  Fine, what is it, did I do something wrong?!"
-"The reception desk has received an envelope from an unknown sender addressed to "Lady {f:5:Lambdadelta}"."
+"The reception desk has received an envelope from an unknown sender addressed to "Lady LAMBDADELTA"."
 "I always ignore anonymous calls and letters.
  Just throw it away."
 "Well, you see, ......this one is a little different..."
@@ -30,15 +30,15 @@ Then, Gertrude appeared and whispered some kind of report to her.
 "No, only the two Sisters at the reception desk and I know.
  I have already issued a gag order."
 The instant she saw the envelope,
- {f:5:Lambdadelta} snatched it away and lowered her voice.
-......{f:5:Bernkastel} had walked away and was apparently making fun of Erika.
+ LAMBDADELTA snatched it away and lowered her voice.
+......BERNKASTEL had walked away and was apparently making fun of Erika.
 Erika was drunk, of course, and Bern was getting that way too.
 If they were left alone, they\'d probably forget about this.
 It was true that the envelope had no sender written on it.
 ......However, the seal done on it in gold leaf...
 fulfilled the same purpose.
 ......That seal was......
-{f:5:Lambdadelta} hid behind a pillar, ripped the envelope open,
+LAMBDADELTA hid behind a pillar, ripped the envelope open,
  took out the letter inside, and read.
 Her eyes instantly started to glint,
  .........and she grinned like a kid who\'d just gotten a naughty idea...
@@ -80,16 +80,16 @@ Her eyes instantly started to glint,
 ".........What did you say...?!
  You\'re kidding, right?
  That\'s impossible...!"
-"Cornelia is heading there {f:5:now}.
- ......The odds of {f:5:Beatrice} attacking here are extremely {f:5:high}.
- I recommend suspending the reception and {f:5:evacuating}."
+"Cornelia is heading there NOW.
+ ......The odds of BEATRICE attacking here are extremely HIGH.
+ I recommend suspending the reception and EVACUATING."
 "What\'s going on, Erika......?
  Something go wrong with the entertainment...?"
 "N‐no, my master...! Please continue to enjoy the reception.
  ......Hey, someone?
- Let\'s get Lady {f:5:Bernkastel} some more dried plum wine...!"
+ Let\'s get Lady BERNKASTEL some more dried plum wine...!"
 The question had come too fast for Erika to hide her agitation.
-When {f:5:Bernkastel} saw this, ......she knew that their final, late guest would soon be arriving.
+When BERNKASTEL saw this, ......she knew that their final, late guest would soon be arriving.
 "Luci‐nee.
  I hear there\'s been some movement in the guesthouse."
 "......The guesthouse?
@@ -106,7 +106,7 @@ When {f:5:Bernkastel} saw this, ......she knew that their final, late guest woul
 "......He\'s probably hiding somewhere in the cousins\' room.
  Or else, he\'s managed to trick everyone since the beginning...and was never in that room to begin with."
 "That\'s impossible.
- It\'s been guaranteed that "everyone" is in the cousins\' room except the specific names Lady {f:5:Erika} read aloud back then.
+ It\'s been guaranteed that "everyone" is in the cousins\' room except the specific names Lady ERIKA read aloud back then.
  It\'s impossible for him to trick his way out of there."
 "......How did he get past the Jungfrau seal barrier...?
  No, first off, where on earth is Kanon?
@@ -127,13 +127,13 @@ The surprised commotion of the guests filled the cathedral...
 "U‐understood. Ah! I mean copy!"
 The sniper teams in the chandeliers all released their safeties at once.
 The entire security team down in the hall loaded their ammunition.
-"......Lady {f:5:Erika}, let us evacuate to the waiting {f:5:room}.
- It is dangerous {f:5:here}."
+"......Lady ERIKA, let us evacuate to the waiting ROOM.
+ It is dangerous HERE."
 "What\'s dangerous?!
  I\'m the territory lord of this world!
  Why should I have to run away in fear?!"
-"Gertrude, set up a VIP guard {f:5:barrier}.
- Call Cornelia back here at {f:5:once}."
+"Gertrude, set up a VIP guard BARRIER.
+ Call Cornelia back here at ONCE."
 "For your attention: this is underway."
 "A barrier?!
  I need to be wrapped in one of your pitiful, pathetic barriers while I\'m wearing a wedding dress?!
@@ -149,10 +149,10 @@ Even with his soul sealed, Battler probably realized that something strange was 
  A love letter from someone...?"
 "A fan letter.
  From the Lambda‐chan Fan Club."
-{f:5:Lambdadelta} played dumb and munched some popcorn.
+LAMBDADELTA played dumb and munched some popcorn.
 Then, the lights finally turned on...
 It was clear that during that blackout,
- ......{f:5:Beatrice} had snuck in somewhere nearby, possibly even inside the cathedral itself.
+ ......BEATRICE had snuck in somewhere nearby, possibly even inside the cathedral itself.
 The whispering goat attendees all realized it as well.
 Whose scheme was this...and what were they doing?
 ......Though it may have been imprudent, they were looking forward to this, and an excited chatter filled the cathedral...
@@ -168,7 +168,7 @@ Whose scheme was this...and what were they doing?
 "Let us suppose...
 that Milady has found some trick X.
  If so,
- she would inevitably have to march in here to thrust that in Lady {f:5:Erika}\'s face..."
+ she would inevitably have to march in here to thrust that in Lady ERIKA\'s face..."
 "But...against all of these Chiester troops...
  ......I can\'t believe this many of them were hiding here...!
  It\'s impossible... She\'ll be sewn to death...!"
@@ -181,19 +181,19 @@ Rabbit ears could be seen poking out all around the hall.
  .........Dear me.
  She remains a troublesome one to the end."
 Amid the crowd, Ronove took something out and showed it.
-......When {f:5:Virgilia} saw the object in his hand, she understood its meaning...
+......When VIRGILIA saw the object in his hand, she understood its meaning...
 True, with that, ......it should be possible to stop the attacks from the Chiester troops......
 "Well, if it doesn\'t work on Erika, we\'re through.
  The problem is getting her right in front of Erika, if only for a second.
  ......The Chiesters will probably prevent that with all they have.
  ......Lia,
  ......I\'ll bet you could give her the time to do that..."
-{f:5:Virgilia} gave a small nod.
+VIRGILIA gave a small nod.
 However, the problem was the two Chiester troops standing at her back.
 ......Since that time she had tried to jump out in front of the procession, she had been marked constantly...
-It was possible, with {f:5:Virgilia}\'s vast magical power, to momentarily take out all of the Chiester troops in the cathedral.
+It was possible, with VIRGILIA\'s vast magical power, to momentarily take out all of the Chiester troops in the cathedral.
 That would only gain a short bit of time, but it would be enough to confront Erika.
-......The Chiester troops knew this, so they kept a close eye on {f:5:Virgilia} with tense faces.
+......The Chiester troops knew this, so they kept a close eye on VIRGILIA with tense faces.
 At that moment,
  ......the great cathedral door was blasted to bits.
 The fragments became bright gold butterflies...
@@ -204,10 +204,10 @@ Then,
  ......at the entrance to that red‐carpeted path to the grave,
  .........stood a calm,
  majestic figure......
-"Guards, shoot to {f:5:kill}...!!"
+"Guards, shoot to KILL...!!"
 "Negative, conducting identity comparison."
 Dlanor ordered the guards to shoot the intruder right away, but Chiester00 didn\'t comply.
-Was it because she had been warned about shooting these guests...and was afraid of the consequences if she accidentally shot a drunk guest who had disguised themselves as {f:5:Beatrice} as some sort of prank?
+Was it because she had been warned about shooting these guests...and was afraid of the consequences if she accidentally shot a drunk guest who had disguised themselves as Beatrice as some sort of prank?
 No. 00 was just coolly and calmly carrying out her duties.
 "......Oh, what a surprise... You know, I thought you weren\'t going to make it."
 "...................................."
@@ -234,17 +234,17 @@ Who could possibly mistake this overwhelming presence?
 ceeeeeeeeee}!!!"
 "‘See you in hell’ is a favorite parting line of mine, but—"
 "Identity confirmed.
- It is the great Lady {f:5:Beatrice}!!"
+ It is the great Lady BEATRICE!!"
 "It seems we are here already,
  Furudo Erikaaaaaaaaaaaaaaaaa!!!"
-At that moment, the two Chiester troops standing behind {f:5:Virgilia} slumped over and fell to the floor.
+At that moment, the two Chiester troops standing behind VIRGILIA slumped over and fell to the floor.
 ......Ronove had touched the bases of their big ears from behind.
 It was clear that he had applied some sort of magic.
 "Someone find a doctor.
  These girls seem to be ill."
 "All Chiesters, open fiiiiiiiiiiire!!"
 "Beato, now!!"
-Just an instant before the Chiester troops could fire, {f:5:Virgilia} raised her arms to the heavens.
+Just an instant before the Chiester troops could fire, VIRGILIA raised her arms to the heavens.
 Her magical power, which was more than enough to remind all present what her name had been at the height of her strength,
  became a spirit wave and exploded throughout the cathedral.
 The impact made the stained glass windows shatter, and colorful glass shards poured down everywhere.
@@ -271,7 +271,7 @@ However, that instant, a golden thread came from in front of her and rapidly sew
 "Firing radar targeted.
  Data link to 410!!"
 410 was clever.
-She had predicted that {f:5:Virgilia} would go for a spirit particle attack...and had folded over her ears and 45\'s beforehand.
+She had predicted that VIRGILIA would go for a spirit particle attack...and had folded over her ears and 45\'s beforehand.
 So, they were the only ones that weren\'t taken out.
 "Firing!!"
 Once again, the golden sewing thread chased after Beato, weaving like a sewing machine.
@@ -287,7 +287,7 @@ The goat attendees ran about wildly, trying to escape.
  With them in that position, ......there\'s nothing we can do...!"
 The pair of snipers, attacking from high above on the chandelier, were much further away than Erika was—too far for Beato to reach.
 Furthermore, their position couldn\'t have been worse for Beato, with the entire cathedral inside their range of fire!
-"......Too bad nyeh, {f:5:Beatrice}‐samaaa.
+"......Too bad nyeh, BEATRICE‐samaaa.
  The trials of love are harsh nyeh!
  45, new magazine!!"
 "This?"
@@ -320,7 +320,7 @@ It was the VIP‐guarding barrier that Gertrude had set up.
 She stepped forward and laid out a last line of defense to block Beato\'s way.
 "For your attention: Know that you will not be allowed any closer."
 "You think a wall like that can stop meeeeeeeeeeeeee?!!"
-"How long until the Chiesters {f:5:reactivate}?"
+"How long until the Chiesters REACTIVATE?"
 "W‐within 30 seconds..."
 As the eldest of the Seven Sisters of Purgatory, Lucifer stood in waiting behind the bride and groom.
 She wanted to save Beato.
@@ -330,7 +330,7 @@ However, the Seven Sisters were furniture.
 So, they couldn\'t move to help Beato...
 Dlanor glanced over at Lucifer.
 There was a coercive tint to her eyes.
-"..................You are not allowed to move except by the orders of your {f:5:master}."
+"..................You are not allowed to move except by the orders of your MASTER."
 "............khh............"
 "Who\'s our master...?!"
 "It\'s Erika now, idiot...!"
@@ -343,7 +343,7 @@ Beelzebub\'s stake had pierced Gertrude\'s shoulder, and her concentration had w
 ......But it didn\'t break.
 Slowly and expressionlessly, Gertrude turned to look at Lucifer.
 "......By whose orders?
- Know that Lady {f:5:Erika} has made no such order."
+ Know that Lady ERIKA has made no such order."
 "We do have orders.
  ...Th‐...the orders of our master!!"
 "................................."
@@ -360,8 +360,8 @@ Beato shot through the scattered, red fragments of the barrier,
  ......and she was finally right in front of the bride, her rival, Erika......
 However, there stood the final shield protecting Erika.
 ......Death Sentence Dlanor!!
-".........You are {f:5:late}.
- ......Time is already up, Lady {f:5:Beatrice}!!"
+".........You are LATE.
+ ......Time is already up, Lady BEATRICE!!"
 "Chiester17, data link to all Chiesters.
  Incoming data from Archangel Satellites. Homing format: verdict‐model conceptual guidance."
 "Chiester20, reactivation complete."
@@ -378,17 +378,17 @@ However, there stood the final shield protecting Erika.
 "......Keh, ......D‐Dlanor...!!"
 "Back off, Dlanor A. Knox.
  This is not your fight."
-"......I have received a red truth denying you from Lady {f:5:Bernkastel}.
- ......I am afraid that this will become your {f:5:grave}...!"
-I don\'t know what {f:5:Bernkastel} has allowed her to say.
+"......I have received a red truth denying you from Lady BERNKASTEL.
+ ......I am afraid that this will become your GRAVE...!"
+I don\'t know what BERNKASTEL has allowed her to say.
 However, I don\'t need to sit around and let that longsword tell me.
 "I\'ll play with you all you want later.
  But for now, back off!"
 There\'s no time.
  The Chiesters have already finished reactivating.
 I\'m only living on a bit of borrowed time.
-"You will be the one to {f:5:retreat}...!!
- You are the pitiable actor who has chosen the wrong time to appear on {f:5:stage}!!"
+"You will be the one to RETREAT...!!
+ You are the pitiable actor who has chosen the wrong time to appear on STAGE!!"
 Dlanor\'s red longsword cut a large arc of absolute denial,
  ......which headed right for the crown of Beato\'s head.
 However, in that instant, there was a thunk, and the sword was knocked slightly off course.
@@ -399,8 +399,8 @@ She slipped past the longsword,
 This time, not a single person stood in her way!
 "Uuu...guh...
  ......This is......
-{f:5:popcorn}???
- Wh‐where did this come {f:5:from}......?"
+POPCORN???
+ Wh‐where did this come FROM......?"
 "For your attention: Urgent request from the bride\'s security detail!!
  Chiester Sisters Imperial Guards, fire at the intruder immediately!!"
 The commotion...quieted......
@@ -415,8 +415,8 @@ Of course, all of them had finished reactivating.
  ......they hesitated to pull the trigger.
 "Wh‐why are you not firing?!
  Ceremony guards, immediately—"
-"......W‐......{f:5:wait}.
- ......L‐......look at {f:5:that}......"
+"......W‐......WAIT.
+ ......L‐......look at THAT......"
 Dlanor\'s expression grew grim.
 ......Then, she quietly...put her red longsword away...
 After all, ......Erika would have to make a decision.
@@ -426,7 +426,7 @@ So, they couldn\'t pull the trigger until Erika decided...
 "......Why won\'t anyone shoot...?"
 "Look closely.
  ......See what Beato just threw at Erika?"
-{f:5:Lambdadelta} pointed, still chomping down popcorn.
+LAMBDADELTA pointed, still chomping down popcorn.
 ......It was hard to see from the balcony.
 Beato had thrown something like a white handkerchief at Erika.
 It had fallen to Erika\'s feet.
@@ -451,7 +451,7 @@ That was.........
 "She can choose not to.
  ......However, I imagine that we and all the demons present would spread the word far and wide that she dishonorably ran away from a duel...!!"
 ""She would be known for eternity as a coward who ran away from a duel of love!!!""
-{f:5:Beatrice} waited firmly and composedly.
+BEATRICE waited firmly and composedly.
 If Erika just kicked it away...
 ......then, that very instant,
  ...the Chiesters would probably all fire at once, turning her into golden embroidery.
@@ -625,7 +625,7 @@ The traces could be seen throughout the room, and even in the bathroom.
  ......and the nippers lay there on the bottom.
 To protect this tale,
  ......he had nearly been prepared...
-......to accept {f:5:Bernkastel}\'s brutal method of escape...
+......to accept BERNKASTEL\'s brutal method of escape...
 and cut himself into pieces...
 ...while washing himself down the drain.
 He was even willing to tear apart his own body.
@@ -751,7 +751,7 @@ So, for all eternity,
 would come to save him from this place.
 "That\'s okay.
  .........This way, ......I\'ve paid back my debt.
- {f:5:Beatrice}."
+ BEATRICE."
 The power of the gold butterfly brooch taught me about love.
 In the third game, it gave me some quiet time alone with Jessica.
 ......I get the feeling it did many other small things for me.
@@ -797,24 +797,24 @@ This wasn\'t a gun that would propel a lead bullet with an explosion caused by g
  This is no time to be standing around laughing!"
 "Why is Riiche relaxed and Lia tense? You two..."
 "All together...!"
-"""{f:5:Beatrice}‐sama, you can do it!!"""
-"......{f:5:Beatrice}‐sama is at a disadvantage in this duel."
+"""BEATRICE‐sama, you can do it!!"""
+"......BEATRICE‐sama is at a disadvantage in this duel."
 "Why...?!"
 "......Normally, a witch can put up a fight by piling mystery upon mystery.
  However, since the game has been suspended, she has nothing on her side except the mystery of Battler‐sama\'s guest room."
 "If Erika can just strike a blue wedge through that one mystery, it\'ll mean that she\'s solved everything!!"
 "We can win.
- ......I believe in {f:5:Beatrice}‐sama...
+ ......I believe in BEATRICE‐sama...
 ...and Battler‐sama,
  ......our two masters...!"
-"......Did you call {f:5:me}?"
+"......Did you call ME?"
 "Thanks."
 "......?"
 "For once,
  ......it feels as though our chances for winning are fifty‐fifty.
  So I\'d like to thank you beforehand."
-"It is simply my {f:5:job}.
- There is no need to thank {f:5:me}."
+"It is simply my JOB.
+ There is no need to thank ME."
 "...........................
  ......In the last game,
  ......when you protected me after my pathetic defeat,
@@ -824,20 +824,20 @@ This wasn\'t a gun that would propel a lead bullet with an explosion caused by g
  All she gave me was a way to negate the pain of naked truth by laying bare the truths of others...
 and causing them just as much pain."
 ".....................
- ......Please, forgive my {f:5:arrogance}.
- ......I felt that I needed to protect {f:5:you}.
+ ......Please, forgive my ARROGANCE.
+ ......I felt that I needed to protect YOU.
  ......As soon as I realized what fragile truth you live by,
  and how much it has been violently abused by fiction that sounds more plausible,
- ......I wanted to protect {f:5:you}."
+ ......I wanted to protect YOU."
 "Thank you.
  .........Our time together was short, but you were a wonderful partner."
-"And I will remain {f:5:so}."
+"And I will remain SO."
 "......You\'re right.
  Once we\'ve defeated her, let\'s make tons of mysteries on this island together.
  I\'ll have you solve them, and tease you as we play.
  ......How does that sound?"
-"......It sounds {f:5:interesting}.
- I am looking forward to your {f:5:challenge}."
+"......It sounds INTERESTING.
+ I am looking forward to your CHALLENGE."
 "Ah, no, sorry.
  I take that back.
  ......That\'d be one of those loser flags, wouldn\'t it?"
@@ -852,15 +852,15 @@ When the two demons clapped their hands, the duelists instantly returned to thei
 ""Are you both prepared?!""
 "Naturally."
 "Of course."
-""Lady {f:5:Lambdadelta}, the great and powerful Witch of Certainty and member of the glorious Senate!!
+""Lady LAMBDADELTA, the great and powerful Witch of Certainty and member of the glorious Senate!!
  Please come forward!!
  Will you swear to oversee this duel?!!""
 "Of course.
  I swear it."
-The crowd split, and {f:5:Lambdadelta} walked forward with {f:5:Bernkastel} by her side.
+The crowd split, and LAMBDADELTA walked forward with BERNKASTEL by her side.
 She looked between the faces of the two duelists.
 Then, ......she took out an envelope with the seal of the One‐winged Eagle...and lifted it high.
-"{f:5:Beatrice} has sent me her revisions to the tale inside a sealed envelope.
+"BEATRICE has sent me her revisions to the tale inside a sealed envelope.
  I have inspected it and find its contents to be valid.
  I declare the logic error averted!!
  The chain lock is still set!
@@ -870,13 +870,13 @@ Then, ......she took out an envelope with the seal of the One‐winged Eagle...a
 They realized how difficult it was.
 And, though fiery debates had swept across the crowd during the reception,
  no one had been able to find an answer.
-And now......it was clear that {f:5:Beatrice} had already reached one.
+And now......it was clear that BEATRICE had already reached one.
 "Therefore, this duel is legitimate.
  It will center around one, single point.
  The locked room of Battler\'s guest room!
  Ushiromiya Battler disappeared from within a locked room sealed by a chain lock!"
 "Erika will load her weapon with blue truth regarding this matter.
- {f:5:Beatrice} will load hers with red truth to counter back.
+ BEATRICE will load hers with red truth to counter back.
  ......The duel will continue until one side is victorious!!"
 "Splendid."
 "Perfect."
@@ -1014,7 +1014,7 @@ I told her to "ban any blue truth arguing about the windows of the next room ove
  *cackle*cackle*, that seal is now your shackle."
 Beato has figured out everything I\'ve been thinking.
 And she\'s acting so confident, telling me to go ahead and use that argument...!
-"......Lady {f:5:Erika}."
+"......Lady ERIKA."
 "P‐......please remove it.
  ......That fool,
  ...I\'ll make her regret this...!!"
@@ -1070,7 +1070,7 @@ Beato had missed on purpose.
 There was a confident smile on her face.
 It was as though she was offering to play with Erika a little longer.
 ......In fact, that was Beato through and through.
-{f:5:Beatrice}, the witch who mocks others with unsolvable locked room tricks...!
+BEATRICE, the witch who mocks others with unsolvable locked room tricks...!
 "
 At the time the next room over was sealed,
  Hideyoshi, George, Kumasawa, Shannon, and Nanjo were in it.
@@ -1363,7 +1363,7 @@ If I just broaden my perspective, I can see a completely different truth.
 of the world......
 "......Because of our arrogance in thinking that only one truth exists,
  ......whenever we find one truth, we are blinded to all others.
- ............Thank you, {f:5:Beatrice}‐san.
+ ............Thank you, BEATRICE‐san.
  .........I never thought...
 ...that a witch...
 ...would be the one to teach me the true nature of this world."
@@ -1471,21 +1471,21 @@ Kanon does not exist in the guest room.
  .........And then, he used magic to disappear.
  ............This is the witch\'s truth.
  .........That is all."
-"Th‐the duel is {f:5:decided}...!! Cease—"
+"Th‐the duel is DECIDED...!! Cease—"
 ""And the winner is...
-......{f:5:Beatrice}!!!""
+......BEATRICE!!!""
 Oh, ......ooooooooooooooooooooohhhhhh!!
 The attendees let out a cheer.
-{f:5:Virgilia}\'s group couldn\'t help but scream and shout in joy.
+VIRGILIA\'s group couldn\'t help but scream and shout in joy.
 The Seven Sisters jumped about in celebration...!
-Then, at the same moment the two demons proclaimed {f:5:Beatrice}\'s victory,
+Then, at the same moment the two demons proclaimed BEATRICE\'s victory,
  the head\'s ring worn by Erika, who was slowly crumpling to the ground, and the cursed ring on Battler\'s finger...both burst.
 At the same time, Battler coughed violently.
 Battler...was starting to regain consciousness...!
 "Battleeeerrrrr!!
  Battler‐saaaaaaan!!!"
 Beato latched onto the coughing Battler in joy.
-{f:5:Virgilia}, Gaap, and Ronove did the same.
+VIRGILIA, Gaap, and Ronove did the same.
 All of the Seven Sisters also crowded about him in delight.
 "......Heh,
  ......heheh,
@@ -1497,15 +1497,15 @@ All of the Seven Sisters also crowded about him in delight.
  ......Battler‐san,
  ........Battler‐san,
  ......waaaaaaaaaaaaaahhh...!!!"
-"Lady {f:5:Erika}, Lady {f:5:Erika}!!
- Someone, help her, {f:5:quickly}!!"
+"Lady ERIKA, Lady ERIKA!!
+ Someone, help her, QUICKLY!!"
 ......The rose of blood in Erika\'s chest wouldn\'t stop opening its petals......
 "......Third degree conceptual denial syndrome.
  ......Use of continuous neutralizer impossible...neutralization only possible by an emergency approval for resurrection.
  ......The piece\'s master must provide approval for resurrection..."
-"L‐Lady {f:5:Bernkastel}, give your approval for her {f:5:resurrection}!!
- ......Lady {f:5:Bernkastel}...?! Wh‐where did she {f:5:go}...?!"
-"Search request to ceremony guards: find Lady {f:5:Bernkastel}...!!"
+"L‐Lady BERNKASTEL, give your approval for her RESURRECTION!!
+ ......Lady BERNKASTEL...?! Wh‐where did she GO...?!"
+"Search request to ceremony guards: find Lady BERNKASTEL...!!"
 "Understood, ma\'am.
  All Chiesters, data link. Search formation...!"
 "......H‐how despicable...
@@ -1524,14 +1524,14 @@ On the contrary, ......she was relieved that she wouldn\'t need to be brutally s
  .........ha...haha..."
 I\'m not anyone\'s piece anymore.
 ......I can finally...control my own role...!!
-"L‐Lady {f:5:Erika}...!!
- Y‐you mustn\'t {f:5:move}...!!"
+"L‐Lady ERIKA...!!
+ Y‐you mustn\'t MOVE...!!"
 "......Stand back...
  ......BACK OFF!!"
 When Erika yelled with all her soul,
  ......those who surrounded her flinched back and fell on their butts...
 "I am...
-...the Witch of Truth, Furudo {f:5:Erika}......
+...the Witch of Truth, Furudo ERIKA......
  ......A Witch of Truth......is a witch......who can withstand the truth.
  ......Now,
  ......I can finally......accept the real truth about myself........."
@@ -1543,7 +1543,7 @@ Their expressions are firm.
 ......That\'s okay.
 Pity and sympathy would only make me look more pathetic.
 ......That sort of expression......is a loser\'s greatest salvation...
-"Lady {f:5:Erika}...!! The duel is already {f:5:over}...!!"
+"Lady ERIKA...!! The duel is already OVER...!!"
 "It is not over."
 "Until death do them part."
 ""We won\'t let anyone disgrace her final moments.""
@@ -1583,7 +1583,7 @@ Then, Battler placed his hand on hers......
 "Why...
 ...am I...
 ...powerless to help you...
-...{f:5:now}......?"
+...NOW......?"
 "......Watch until the end.
  That\'s your job as her friend, isn\'t it...?"
 Both sides silently loaded their bullets of truth without saying a word.

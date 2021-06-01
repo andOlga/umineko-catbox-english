@@ -81,7 +81,7 @@ So it\'s weird to suddenly get sad just because Ange\'s gone when she was the la
 ‘Uryuu!
  Loooove you, Maria...!’
 "I won\'t let any more {y:0:Human}{n:0:human}s come into my world.
- ......Mariage Sorcière is an alliance only between me and {f:5:Beatrice}."
+ ......Mariage Sorcière is an alliance only between me and BEATRICE."
 "......Even Beato opposed letting Ange join in the beginning.
  .........It\'s alright this way.
  Ange was still too young."
@@ -684,9 +684,9 @@ waaaaaaaaaaaaauuuuuuuuuuuu......
 gudaro......
 sagudaro......
 ......waaaaaaaaaaaaaaauuuuuuuuu............
-"{f:5:Maria}...... ......{f:5:Maria}.........
+"MARIA...... ......MARIA.........
  ...Do not cry......"
-"{f:5:Beatrice}, {f:5:Beatrice}...!!
+"BEATRICE, BEATRICE...!!
  Waaaaaaaaaaaaaaaaaahhh!!
  Waaaaaaaaaaaaaaahhh!!"
 "Sakutarou was a good friend...
@@ -707,14 +707,14 @@ sagudaro......
  Sakutarou\'s vessel was a stuffed animal Rosa made herself, correct...?
  That Rosa has denied Sakutarou.
  ......A life that is not permitted by its own mother cannot exist..."
-{f:5:Beatrice}\'s words were feeble.
+BEATRICE\'s words were feeble.
 ...Because she knew that, no matter what the excuse,
  it wouldn\'t be enough to calm Maria and make her accept it.
 But she had to communicate the painful truth to her disciple and close friend.
 .........She had to tell her the fact...
 ...that even with all of her own magic, even she could not revive Sakutarou.
 "As long as you continue to strongly believe in Sakutarou\'s existence, his soul will not disappear......
- So, {f:5:Maria}, ...please, do not be sad...
+ So, MARIA, ...please, do not be sad...
  Even now, look, ...you must believe that Sakutarou is smiling right over there......"
 "No!!!
  No
@@ -741,7 +741,7 @@ But she had to communicate the painful truth to her disciple and close friend.
  Want to twist Mama up like she did to Sakutaro...!
  Want to stick my fingernails in and tear her, turn her into cloth and cotton!!"
 "Waaaaaaaaaaaaaaahhh!!
- Can\'t stand it, I can\'t stand it, {f:5:Beatriceeee}!!
+ Can\'t stand it, I can\'t stand it, BEATRICEEEE!!
  Waaaaaaaaaaaaaaahhh, Sakutaroooooooo!!!!"
 From the darkness behind Maria\'s back, two massive jet‐black arms crept out,
  coiling around Maria as she sobbed in anger.
@@ -762,7 +762,7 @@ Drowning in a sea of her own tears, ......she couldn\'t notice that her own arms
  If Sakutaro can\'t be brought back to life no matter what, ......I want revenge!!
  Want to make the same thing happen to Mama!!
  Want to make her suffer the same thing as Sakutaro...!"
-"{f:5:Beatrice}!!
+"BEATRICE!!
  Teach me magic for that!!
  Teach me magic to get back at Mama...!!"
 ".................................

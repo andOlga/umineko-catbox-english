@@ -88,15 +88,15 @@ However, Shannon obviously didn\'t remember this strange gold rose garden, and s
 "There is no need to apologize.
  I made you that way, so it is no sin of yours.
  ......Allow me to introduce myself.
- I am the Golden Witch, {f:5:Beatrice}."
+ I am the Golden Witch, BEATRICE."
 "......B‐Beatrice...sama......?
  Th‐the benefactor of the Ushiromiya family, whom the Master always speaks of......?"
 "Not that Beatrice.
- I am {f:5:Beatrice} the Golden Witch, the one who controls Rokkenjima\'s night.
+ I am BEATRICE the Golden Witch, the one who controls Rokkenjima\'s night.
  ......I am the other master of the mansion, the one you always pay homage to."
 "Y‐
 ......you are...
-...{f:5:Beatrice}...
+...BEATRICE...
 sama........."
 "Hahaha...
  You need not fear.
@@ -116,7 +116,7 @@ sama........."
 "You may think of it that way.
  Strictly speaking, I beckoned your soul to my garden while you were sleeping.
  To invite you to be a resident of this world."
-{f:5:Beatrice} snapped her fingers,
+BEATRICE snapped her fingers,
  and a storm of gold butterflies all rose up around the rose garden.
 As the cloud of butterflies danced over the table, a gorgeous tea set appeared.
 There were tea cups and a tea pot, more elegant even than those used by the Ushiromiya family.
@@ -148,7 +148,7 @@ That was all Shannon could manage to say.
  But I recommend you try your tea straight first.
  With nothing more than a single rose petal floating on the top,
  it will surely be so delicious that you\'ll be unable to drink the black tea of the human world ever again...!"
-Laughing happily, {f:5:Beatrice} opened, not a sugar pot, but a rose petal pot,
+Laughing happily, BEATRICE opened, not a sugar pot, but a rose petal pot,
  picked up a single crimson petal, and floated it on her tea after relishing its scent.
 Shannon did the same, picking up a single petal and smelling its aroma.
 "...............It smells so wonderful......
@@ -205,7 +205,7 @@ So, the time passed like a Sunday morning, when you can wrap yourself in your bl
  So, there is no need for thanks either."
 "*giggle*.
  But I am grateful.
- Thank you so much, {f:5:Beatrice}‐sama, for this wonderful tea party.
+ Thank you so much, BEATRICE‐sama, for this wonderful tea party.
  .........But all dreams must end, and so must this one."
 "Hoh.
  And why must they end?"
@@ -241,7 +241,7 @@ So, the time passed like a Sunday morning, when you can wrap yourself in your bl
  ......Then, I became fascinated by witches...
 and became one myself, learning all the pleasures of magic.
  ......And now, I have come to take you home."
-{f:5:Beatrice} spoke quietly and slowly rose from her seat.
+BEATRICE spoke quietly and slowly rose from her seat.
 "Shannon.
  ......The world of witches truly is more fun than being a servant.
  This tea party is nothing more than a mere welcoming party for an old friend.
@@ -274,13 +274,13 @@ and became one myself, learning all the pleasures of magic.
 True, the world of {y:0:Human}{n:0:human}s, or the world of servants, is busy all the time.
 Madam is strict, high‐strung, and has a short temper.
 It\'d be a lie if I said the everyday chores weren\'t a pain, and having to balance work with school makes it even harder.
-{f:5:Beatrice} had watched over those painful days the whole time.
+BEATRICE had watched over those painful days the whole time.
 She had seen those constantly tired shoulders heave in a sigh many times.
 That was why she had invited Shannon here.
  To this Golden Paradise.
 She had tried to give Shannon a perfect welcome, to truly make her happy.
 ......So why had Shannon selected her original world over this one?
-{f:5:Beatrice} was overcome with shock, and completely unable to understand.
+BEATRICE was overcome with shock, and completely unable to understand.
 "I have given you the perfect welcome to this paradise.
  And the days to follow will be even more fun."
 "......So, if you still choose the {y:0:Human}{n:0:human} world after all of that, does it mean that you find something there that is even more fun than the pleasures of witches?"
@@ -296,8 +296,8 @@ And that something was apparently not in this paradise, which was supposed to ha
 "..................Absurd...
  ......I don\'t understand,
  ......I don\'t understand......"
-As {f:5:Beatrice} muttered, she shifted restlessly several times.
-However, no matter how often she said it, Shannon\'s smile didn\'t falter, and {f:5:Beatrice} couldn\'t think of an answer...
+As BEATRICE muttered, she shifted restlessly several times.
+However, no matter how often she said it, Shannon\'s smile didn\'t falter, and BEATRICE couldn\'t think of an answer...
 "In that case, .........it\'s time for me to leave.
  Your tea really was delicious."
 "............I don\'t understand, I don\'t understand!
@@ -314,7 +314,7 @@ However, no matter how often she said it, Shannon\'s smile didn\'t falter, and {
  I can\'t live here, but I would be glad to come over whenever you invite me for tea."
 "I won\'t call for you again...
  Have no fear of that."
-{f:5:Beatrice} snapped her fingers and Shannon popped out of existence.
+BEATRICE snapped her fingers and Shannon popped out of existence.
 She had returned Shannon\'s soul to the dream of her original self.
 Although people have many dreams in a night, they can remember none of them.
 The tea party in this paradise would mix in with many other dreams and vanish.
@@ -343,7 +343,7 @@ Above Shannon\'s empty seat, a black hole opened, and the owner of that voice fe
 "......Aw, she\'s cranky."
 The witch shrugged and laughed, then took a bite out of a scone.
 She then blew into it, and it swelled up like a balloon before finally popping.
-Golden ribbons and butterflies flew out, but {f:5:Beatrice} didn\'t appear to notice......
+Golden ribbons and butterflies flew out, but BEATRICE didn\'t appear to notice......
 ".........Just what is it that I do not possess?
  ......What......?"
 "Watch your step there."
@@ -534,7 +534,7 @@ Is this incomprehensible messing around the thing that you found?
  But even so, ......I choose this world."
 "............I don\'t understand.
  .........I don\'t understand......"
-{f:5:Beatrice} held her head as though she was having a headache.
+BEATRICE held her head as though she was having a headache.
 But no matter how much she grimaced, she couldn\'t think of an answer.
 "......Tell me.
  .........What is it you found within this vulgar playing?"

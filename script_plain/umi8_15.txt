@@ -30,7 +30,7 @@ After all, in this life‐or‐death situation, they didn\'t have many options t
 In the direction Erika was being led—with her goat guards alongside her—Beato stood waiting, accompanied by the Chiester Sisters troops.
 Noticing Beato, Erika gave a bow that at least appeared graceful.
 Beato followed suit and gave the sort of graceful bow that was rarely seen from her.
-"......I am {f:5:Beatrice}, the Golden and Endless Witch, and master of the Golden Land.
+"......I am BEATRICE, the Golden and Endless Witch, and master of the Golden Land.
  ......Announce yourself."
 As though hinting that she was more than ready to go through with this farce, Beato introduced herself boldly and requested that Erika do the same.
 "We have been dispatched from the Great Witch of Theatergoing, Drama, and Spectating\'s Noble City of Carefully Selected Books.
@@ -41,7 +41,7 @@ As though hinting that she was more than ready to go through with this farce, Be
 "You ought to celebrate.
  We of the Library Fleet, dedicated to offering honor and protection to books, have come to bring good news to you all.
  First,
- I would like to announce that, after careful selection, the City of Books has acknowledged and accepted the game board created by the Endless Witch {f:5:Beatrice} as a great and honorable book."
+ I would like to announce that, after careful selection, the City of Books has acknowledged and accepted the game board created by the Endless Witch BEATRICE as a great and honorable book."
 "Hoh.
  That is indeed a great honor."
 "This game board is a profoundly entertaining and original masterpiece, worthy of close study.
@@ -83,10 +83,10 @@ As though hinting that she was more than ready to go through with this farce, Be
  If not, allow me to give you my answer."
 "Go ahead."
 Erika tensed slightly.
-After all, this was the great Lady {f:5:Beatrice} she was dealing with.
+After all, this was the great Lady BEATRICE she was dealing with.
 She might shout "here is my answer" dramatically and do something crazy.
 They say a cornered rat is the most dangerous.
-Furthermore, Erika had intel telling her that the great Lady {f:5:Lambdadelta}, witch of the Senate, had been spending her time inside the Golden Land, though only as a theatergoer.
+Furthermore, Erika had intel telling her that the great Lady LAMBDADELTA, witch of the Senate, had been spending her time inside the Golden Land, though only as a theatergoer.
 Erika needed to carry out this noble task that her master had assigned her, and she had to carry it out perfectly.
 If she was honest, .........she wanted to make Beato raise a white flag, even by trickery if necessary.
 So, even though this was a farce, she held back from giving any unneeded provocation.
@@ -107,7 +107,7 @@ And then, ...............with a pathetic expression on her face, ......Beato let
 Of course, .........that was a lie.
 She knew she couldn\'t win even if she fought.
 For now, their best option......was to play for time.
-They would fix Erika\'s attention to this spot, ......and during that time, Battler and the others would steal the key from {f:5:Bernkastel} while she was completely off her guard.
+They would fix Erika\'s attention to this spot, ......and during that time, Battler and the others would steal the key from BERNKASTEL while she was completely off her guard.
 ......Once they had the key, they would return to the Golden Land, use that key to let Ange open the door to the future, and see her off.
 That was their goal.
 Everything after that...would be inside the cat box.
@@ -118,7 +118,7 @@ The only strategy Beato and the others could use to achieve this...was to buy ti
 "......If you do surrender, it may be a bit of an anti‐climax, but it will save me a lot of trouble."
 "But, well, ......it is not so simple.
  You see, and this is just between you and me,
- ......as you may know, the great Lady {f:5:Lambdadelta} is staying here.
+ ......as you may know, the great Lady LAMBDADELTA is staying here.
  She is, you see, pushing us to show her a dramatic climax."
 "......That\'s a pretty cruel whim to force on someone.
  How are a few wimpy people like you, the dregs of an already‐solved puzzle, supposed to fight against our fleet,
@@ -126,16 +126,16 @@ The only strategy Beato and the others could use to achieve this...was to buy ti
 "Very true, very true...
  The gap in strength is overwhelming.
  We told her that it wouldn\'t even be a fight, but......
- Well, ......Lady {f:5:Lambdadelta} didn\'t listen, and just said she would bring some of her friends to support us, so we should fight with everything we had."
-"......Lady {f:5:Lambdadelta}\'s.........friends......?"
-Unlike {f:5:Bernkastel}, who kept to herself, {f:5:Lambdadelta} had many friends.
+ Well, ......Lady LAMBDADELTA didn\'t listen, and just said she would bring some of her friends to support us, so we should fight with everything we had."
+"......Lady LAMBDADELTA\'s.........friends......?"
+Unlike BERNKASTEL, who kept to herself, LAMBDADELTA had many friends.
 Her friends and patrons were all formidable, including monsters that had become legends in their own lifetimes and territory lords commanding vast influence over their respective domains.
 In all seriousness, her "fan club", as she so called it, had enough size and influence that no one would have been overly surprised if it had suddenly declared itself an independent nation right in the middle of the sea of fragments.
-"......To our dismay, Lady {f:5:Lambdadelta} is very much ready for action.
+"......To our dismay, Lady LAMBDADELTA is very much ready for action.
  Without any regard for us, she keeps calling up friends and acquaintances on the phone from all over the place, telling them to come over..."
 .........Of course, this was all a lie.
-{f:5:Lambdadelta} had turned into a small candy comet and was now shooting towards the City of Books with Battler and Ange in tow.
-So, to make sure that {f:5:Lambdadelta}\'s and Battler\'s absences were not noticed,
+LAMBDADELTA had turned into a small candy comet and was now shooting towards the City of Books with Battler and Ange in tow.
+So, to make sure that LAMBDADELTA\'s and Battler\'s absences were not noticed,
  everyone was crowded around the arbor, pretending to argue furiously with each other...
 "Battler‐sama, give us your decision!!
  We, the Seven Sisters of Purgatory, are prepared for death at any time!!"
@@ -147,7 +147,7 @@ So, to make sure that {f:5:Lambdadelta}\'s and Battler\'s absences were not noti
 "......Yes, indeed.
  A short temper makes a bad leader..."
 "Battler, if you call yourself a man, now\'s the time to act like one!
- The great {f:5:Lambdadelta}‐sama is even willing to help out, right?!"
+ The great LAMBDADELTA‐sama is even willing to help out, right?!"
 "I agree!
  These are the times when a man has to make a tough decision...!"
 "......In many cases, the timing of a decision is more valuable than the decision itself."
@@ -158,14 +158,14 @@ So, to make sure that {f:5:Lambdadelta}\'s and Battler\'s absences were not noti
 "If death awaits us regardless, I would rather die as a wolf than as a pig."
 "Are you stupid?!
  Are you saying you want to die like a dog?!"
-".........It all depends on the strength of the support {f:5:Lambdadelta}‐san can provide..."
-"{f:5:Lambdadelta}‐san.
+".........It all depends on the strength of the support LAMBDADELTA‐san can provide..."
+"LAMBDADELTA‐san.
  Are your friends really strong enough to win against them...?"
 ".........It\'s a gamble.
  Do we surrender and die, or do we take the gamble and die by losing?"
 "Interesting.
  In that case, our chances for survival must be higher if we gamble on it."
-"......An honorable surrender will surely cause the Great Court to show {f:5:mercy}."
+"......An honorable surrender will surely cause the Great Court to show MERCY."
 "They\'re backed by the Senate, aren\'t they?
  Sure, they\'ll hem and haw, but we\'ll all see the guillotine in the end."
 "A‐anyway, let\'s all calm down...!
@@ -177,9 +177,9 @@ So, to make sure that {f:5:Lambdadelta}\'s and Battler\'s absences were not noti
 "Basically,
  if they\'re gonna pick a fight, we\'ll let them know we aren\'t going down without doing some damage first!!"
 "Kihihihihihihihihi!!
- All of {f:5:Lambdadelta}\'s friends are incredible...!!
+ All of LAMBDADELTA\'s friends are incredible...!!
  She knows lots and lots of witches, beasts, demons, and gods, all of which have really, really huge legends and histories!
- Even if those ships outnumbered the stars in the sky, {f:5:Lambdadelta}\'s friends would wipe them out in a single blast!
+ Even if those ships outnumbered the stars in the sky, LAMBDADELTA\'s friends would wipe them out in a single blast!
  Kihihihihihi!!"
 ".........W‐will this really work?
  ......She hasn\'t seen through our act yet, has she......?"
@@ -200,13 +200,13 @@ So, to make sure that {f:5:Lambdadelta}\'s and Battler\'s absences were not noti
 ""Nobody knows!!""
 "Personally speaking, I would like to surrender.
  ......If my purpose is to come to an end in any event, I would prefer that my game board be preserved the way I made it.
- ......I could not bear to have Lady {f:5:Lambdadelta} continue to use it however she pleases."
+ ......I could not bear to have Lady LAMBDADELTA continue to use it however she pleases."
 "............We don\'t want that either.
- I came here to fight you, but I\'m no match for Lady {f:5:Lambdadelta}\'s friends."
+ I came here to fight you, but I\'m no match for Lady LAMBDADELTA\'s friends."
 Secretly, Erika was getting worried at these complicated developments.
 And, she was relieved that she hadn\'t pushed too hard earlier on.
 She wanted to curry favor with Beato and end this with a bloodless takeover.
-Even the great Lady {f:5:Lambdadelta} probably wouldn\'t seriously think of picking a fight with the Senate.
+Even the great Lady LAMBDADELTA probably wouldn\'t seriously think of picking a fight with the Senate.
 Her motive was probably something much more trivial, a simple desire to watch the game board\'s final fireworks from a front row seat.
 However, ......if she really did have some fireworks of her own prepared,
  ......it was at least possible that this could turn into a ruckus that Erika would have no chance of quelling.
@@ -221,14 +221,14 @@ Even among witches, her acting ability was top‐notch.
  I\'d like to end this quietly too, if I can.
  So, how can we work together?"
 "For some time now, we have been arguing over whether we should surrender or resist.
- I intend to return to the debate myself to propose that we surrender and ask Lady {f:5:Lambdadelta} not to do anything that might destroy the game board."
+ I intend to return to the debate myself to propose that we surrender and ask Lady LAMBDADELTA not to do anything that might destroy the game board."
 "That would please me very much.
  So, what should I do?"
 "I would like you to guarantee that we have the necessary time to debate the matter.
  ......After all, your ships are surrounding and pressuring us at the moment.
  Everyone is so tense at the thought that we may be attacked at any time that they\'re falling apart."
 "So, if you guarantee that we will have enough time to discuss this amongst ourselves, everyone will surely be able to keep their composure during that time.
- ......Furthermore, I will have enough time to convince Lady {f:5:Lambdadelta}."
+ ......Furthermore, I will have enough time to convince Lady LAMBDADELTA."
 ".............................................
 ......Very well.
  About how long do you need?"
@@ -247,7 +247,7 @@ Even among witches, her acting ability was top‐notch.
  Isn\'t it your turn now?"
 "...................................."
 They were some distance away from the arbor, but still just about close enough that one could get a general idea of what was going on.
-It might just barely be possible to hide the fact that Battler and {f:5:Lambdadelta} were missing,
+It might just barely be possible to hide the fact that Battler and LAMBDADELTA were missing,
  to convincingly pretend to be engaged in a white‐hot argument in gridlock.
  ......But absolutely nothing was safe at this distance.
 If it were possible, they would rather have kept Erika waiting much further away.
@@ -271,7 +271,7 @@ Beato drew a line in the ground with her foot.
 "Milady, have there been any developments in our negotiations...?"
 "Wahahahahaha...
  If anything\'s certain, it\'s that I\'ll be winning this year\'s prize for best actress...!"
-"That\'s our {f:5:Beatrice}‐sama!"
+"That\'s our BEATRICE‐sama!"
 "All we can do is argue fiercely, squabble amongst ourselves,
  and make it look like things will turn for the worse if negotiations break down."
 "Indeed.
@@ -284,19 +284,19 @@ The sight of Gohda, his cheek red and swollen from being pinched, made everyone 
 Then, everyone nodded at each other, and the fake argument resumed.
 Erika was sitting in the chair that the Chiester Sisters had brought her, filling a goat in on the details of the negotiation.
 The goat would probably return and tell the rest of the fleet.
-The fleet would tell {f:5:Bernkastel},
- and {f:5:Bernkastel} might think of some plan to deal with this situation or give new orders.
+The fleet would tell BERNKASTEL,
+ and BERNKASTEL might think of some plan to deal with this situation or give new orders.
 The conversation with the goat ended, and it spun around.
 ......It would return to the dinghy and report on this to the fleet.
 It left the rose bushes behind and passed through the garden maze, heading towards the door that led outside......
 .........Would it really be okay to let that goat reach the boats......?
-If it made it back, Erika\'s report would reach {f:5:Bernkastel}\'s ears......
+If it made it back, Erika\'s report would reach BERNKASTEL\'s ears......
 The Chiester Sisters spoke through a secret channel that only they could use.
 "............Two seconds nyeh.
  Won\'t even be a sound nyeh..."
 "......It\'s just about to leave Erika\'s sphere of awareness.
  ......Can assassinate until it\'s in range of the goat boatman. ETA ten seconds."
-"Lady {f:5:Beatrice},
+"Lady BEATRICE,
  permission to assassinate.
  .........We can do it. Erika will sense nothing."
 "You do not have permission.
@@ -308,7 +308,7 @@ The goat passed through the door.
 Then, after receiving a silent bow from Shannon and Kanon, it got on the dinghy and returned to the fleet.
 The fleet would probably follow Erika\'s orders and stand by until an attack order was given.
 ......That gave the residents of the Golden Land a chance to assassinate Erika, .........but of course, that wasn\'t going to be possible, practically speaking.
-She was {f:5:Bernkastel}\'s greatest underling, and a witch who controlled truth.
+She was BERNKASTEL\'s greatest underling, and a witch who controlled truth.
 Tricking her was all they could hope for.
  Anything else would be wishful thinking...
 "Why don\'t you all have a seat too?"
@@ -334,7 +334,7 @@ For some time, they were overcome by the countless otherworldly sights before th
  but that doesn\'t mean walking up to her and attacking her directly, okay?"
 "............We know."
 "In the first place,
- you were only able to fight the great {f:5:Beatrice} on an even footing because the game board protected you with rules that made it that way.
+ you were only able to fight the great BEATRICE on an even footing because the game board protected you with rules that made it that way.
  If you leave the game board,
  ......you\'re more like something that\'ll leave a small stain on her palm when she swats you.
  Don\'t forget that, got it?"
@@ -354,7 +354,7 @@ Battler and Ange nodded to show their understanding.
 "After that, it\'s all up to your luck.
  I hope it\'s good, for your sakes.
  ..................! Hide!!"
-{f:5:Lambdadelta} pulled her head back from around the corner of a bookshelf.
+LAMBDADELTA pulled her head back from around the corner of a bookshelf.
 The others hurriedly followed suit.
 ......In the distance, they saw emerald‐green lights floating about and leaving trails.
 "Those are Bern\'s cat familiars.
@@ -377,16 +377,16 @@ The others hurriedly followed suit.
 "......As for me, if I surrender,
  ......I might get off the hook with being stripped naked and put through a hundred years of all the worst kinds of pukespittle fragments.
  ......How wonderful. I think I can sympathize with Bern\'s feelings a bit now."
-{f:5:Lambdadelta} wasn\'t laughing.
+LAMBDADELTA wasn\'t laughing.
  Most likely, even this punishment she spoke of was pretty optimistic.
 Despite saying that she won\'t offer any more help...
 She\'s already...
 risking everything.
 And for what?
 "......Isn\'t that obvious?"
-{f:5:Lambdadelta} brushed her hair back and grinned.
+LAMBDADELTA brushed her hair back and grinned.
 "It\'s because you\'re gonna show me the perfect happy ending!"
-{f:5:Lambdadelta} hugged their heads at the same time, making their foreheads bonk together.
+LAMBDADELTA hugged their heads at the same time, making their foreheads bonk together.
 "You\'d better show me, for certain...!"
 "......Yeah.
  ......We\'ll show you. A certain...happy ending!"
@@ -398,7 +398,7 @@ In that massive, vast trench of bookshelves, they vanished into the darkness alm
 The library defied the common sense of the human world.
 ......The City of Books.
 The word "city" was no exaggeration.
-And, it was filled with the green, glowing eyes of {f:5:Bernkastel}\'s countless cat familiars.
+And, it was filled with the green, glowing eyes of BERNKASTEL\'s countless cat familiars.
 Trying to count them would be almost as crazy as counting all the fish in the ocean.
 They formed schools that swam all over the place,
  ......on the lookout for any fools who might miraculously have managed to slip in and disturb their master\'s party.
@@ -412,7 +412,7 @@ The goats that packed the decks of the ships numbered in the tens of thousands.
 Each one of them carried anti‐magic toxin in their fangs, potent enough to completely deny each of the game board pieces one by one.
 This time, they would chew apart and eat away everything.
  ......The crowd of goats unleashed their rotten breath and dangling drool.
-At that time, Erika, who wanted to avoid trouble and hoped Beato would be able to convince {f:5:Lambdadelta} to surrender peacefully,
+At that time, Erika, who wanted to avoid trouble and hoped Beato would be able to convince LAMBDADELTA to surrender peacefully,
  was sitting alone, calmly enjoying the tea Ronove had poured for her.
 Of course, even Erika wasn\'t planning to give them unlimited time.
  In her mind, she had already decided to allow them three yawns before stepping in.
@@ -430,13 +430,13 @@ Of course, even Erika wasn\'t planning to give them unlimited time.
 The messenger cat shook its head, then continued to dispassionately meow its report.
 "......Even Lambda isn\'t that stupid.
  She should know what it means to have Auau as her enemy..."
-Even as she said this, {f:5:Bernkastel} was chewing away at her thumbnail...
+Even as she said this, BERNKASTEL was chewing away at her thumbnail...
 "Despite how she looks, that kid has a lot of strange friends...
  Absolute monsters who just love to meddle......
  .........But even so, to take up arms against the Senate........."
 ...............It was possible...
-She could think of many monsters among {f:5:Lambdadelta}\'s friends who would love to see a losing side get support and make a comeback victory......
-Before she realized it, the finger {f:5:Bernkastel} was biting was covered with sweat.
+She could think of many monsters among LAMBDADELTA\'s friends who would love to see a losing side get support and make a comeback victory......
+Before she realized it, the finger BERNKASTEL was biting was covered with sweat.
 "......She might do it.
  ......She really is a moron sometimes, after all!
  Get me a phone, quickly!!"
@@ -458,24 +458,24 @@ Surrounding this were countless emerald‐green stars, which looked like a slowl
 Those eyes as numerous as the stars......were all glaring in the same direction.
 "............Come on, don\'t look at me like that.
  I\'m on your side. Did you forget?"
-One of the cats kitty‐paddled towards {f:5:Eva},
+One of the cats kitty‐paddled towards EVA,
  meowing that no one was allowed to enter this room.
-"Lady {f:5:Bernkastel} has ordered me to guard that key.
+"Lady BERNKASTEL has ordered me to guard that key.
  So, why don\'t you leave this to me and get lost?"
-After looking at each other with suspicious eyes, the cats glared at {f:5:Eva} again, as though saying that they hadn\'t heard any such order.
+After looking at each other with suspicious eyes, the cats glared at EVA again, as though saying that they hadn\'t heard any such order.
 "By the way,
  ......cats have pretty soft bodies, don\'t they?"
 ".........??"
 "Much easier to chew that way."
-{f:5:Eva} lifted up her golden staff...and a circular pattern of red lines covered the floor and ceiling of the vast room.
+EVA lifted up her golden staff...and a circular pattern of red lines covered the floor and ceiling of the vast room.
 The reaction from the cats was lightning fast.
  They realized instantly that this was hostile behavior.
-The entire emerald‐green constellation writhed and became a single, massive, deep‐sea fish, which charged at {f:5:Eva} with its massive mouth open wide.
+The entire emerald‐green constellation writhed and became a single, massive, deep‐sea fish, which charged at EVA with its massive mouth open wide.
 However, at the same time, the red lines—the massive spiderwebs—on the floor and ceiling came crashing together and crushed the fish,
  twisted it, spun it around and around, .........and compressed it to the size of a small ball.
 Then, that ball‐shaped thing burst open, leaving nothing left.
 It all happened in an instant.
-"Why don\'t you just give up and die for{f:5:eva}aa??
+"Why don\'t you just give up and die forEVAaa??
  Ahhahahahaha!!!"
 The Witch Hunters were holding a convention in the event hall.
 After all, once Ushiromiya Eva\'s diary was opened, ......the endless cat box would be lost, along with the countless imagined stories that had entertained them for so long.
@@ -484,16 +484,16 @@ The cat box was soon to be opened, and while that did give them a slightly lonel
  they couldn\'t contain their excitement as intellectual rapists, not when they knew that the Rokkenjima mystery was finally going to be solved once and for all.
 ......There was a girl out there......who was going to be hurt by the opening of that box.
 However, their jaws and fangs couldn\'t care less.
-The witch‐hunting goat nobles kept licking their lips, ......wanting to chew apart the guts of {f:5:Beatrice}\'s cat box as soon as they could...
+The witch‐hunting goat nobles kept licking their lips, ......wanting to chew apart the guts of BEATRICE\'s cat box as soon as they could...
 Seated upon a grand throne the size of a pillar,
- {f:5:Featherine} listened in on the nonsense being spewed from the mouths of the goat nobles.
-A black cat wearing a cape silently appeared and whispered something into {f:5:Featherine}\'s ear.
+ FEATHERINE listened in on the nonsense being spewed from the mouths of the goat nobles.
+A black cat wearing a cape silently appeared and whispered something into FEATHERINE\'s ear.
 "........................
  No, it is fine.
  ......Everything is going according to my script.
  ......You need not inform my miko."
 The cat bowed humbly and vanished.
-{f:5:Featherine} raised her wine glass high, ......and laughed as she looked through it to the light of the chandelier, which was as beautiful and majestic as the moon.
+FEATHERINE raised her wine glass high, ......and laughed as she looked through it to the light of the chandelier, which was as beautiful and majestic as the moon.
 "This should be enough to thank you for your excellent reading, child of man.
  ......Well now.
  ......Just who is weaving this tale?
@@ -595,13 +595,13 @@ In that silence, Erika continued with a blank expression.
  I hardly think it strange that some people would act abnormally under such pressure..."
 "If you have some reason for prolonging a meaningless argument, that can only be to buy time.
  .........Do you have anything to gain by buying time?
- ......Is it because Lady {f:5:Lambdadelta}\'s reinforcements will come?
+ ......Is it because Lady LAMBDADELTA\'s reinforcements will come?
  .........That can\'t be true either."
 "After all, for some time now,
- I have heard all of you speak to Lady {f:5:Lambdadelta} and Battler occasionally, but not once have I heard them reply.
+ I have heard all of you speak to Lady LAMBDADELTA and Battler occasionally, but not once have I heard them reply.
  ............Taking all of this into account, we are left with only one conclusion."
-That Lady {f:5:Lambdadelta} and Battler are not here now.
-And that these people have won Lady {f:5:Lambdadelta}\'s assistance, ......with Lady {f:5:Lambdadelta} and Battler probably planning to sneak into the City of Books.
+That Lady LAMBDADELTA and Battler are not here now.
+And that these people have won Lady LAMBDADELTA\'s assistance, ......with Lady LAMBDADELTA and Battler probably planning to sneak into the City of Books.
 In which case, their goal is probably to steal back the golden key...and Ange.
 And your plan was to act as bait and buy time until their mission was complete.
 ".........All it takes is a single poorly‐chosen line from Gohda‐san,
@@ -638,12 +638,12 @@ Erika lifted her left hand, the one that wasn\'t holding the scythe.
 "......Yes, thank you.
  .........See you around.
  ......Meow."
-{f:5:Bernkastel} set down the receiver and crossed out yet another name on a list of {f:5:Lambdadelta}\'s notable friends.
+BERNKASTEL set down the receiver and crossed out yet another name on a list of LAMBDADELTA\'s notable friends.
 Something was wrong.
- No one she called had heard anything from {f:5:Lambdadelta}.
+ No one she called had heard anything from LAMBDADELTA.
 They weren\'t just playing dumb.
- They really knew nothing about the strange ruckus {f:5:Lambdadelta} was trying to stir up.
-Even {f:5:Bernkastel} was starting to suspect that something was fishy...
+ They really knew nothing about the strange ruckus LAMBDADELTA was trying to stir up.
+Even BERNKASTEL was starting to suspect that something was fishy...
 Then, a black cat leapt in and meowed a frantic report.
 "Lambda and Battler aren\'t in the Golden Land...?!
  .......................................
@@ -655,11 +655,11 @@ However, after listening to it ring several times, she slammed the receiver down
 "......Gather all the cats who aren\'t busy. This is an emergency!!!
  The cats I had guarding the key aren\'t responding!!!
  .........Lambdaaaaaaaaaaaaaaaaaaaaaaaawg!!"
-Overwhelmed with emotion, {f:5:Bernkastel} kicked the table over.
+Overwhelmed with emotion, BERNKASTEL kicked the table over.
 Then, ......the room finally grew bright.
 It was like green sunlight.
 A bright green light waved about, giving the illusion that a green sun was rising and lighting the room up.
-It was a sign that {f:5:Bernkastel}\'s army had been given an emergency summons......
+It was a sign that BERNKASTEL\'s army had been given an emergency summons......
 "Come, my kitties!!!
  It\'s time for a witch hunt!!
  That kid always smells like candy, so you\'ll find her pretty fast!!
@@ -676,7 +676,7 @@ They could see something glowing faintly in the darkness of that room.
 It was a glow different from anything else they had seen so far in this city.
 The color it glowed...was gold.
 They had almost reached the golden key.
-However, if they went towards it, {f:5:Bernkastel} would be right behind them, along with her vast swarm of familiars.
+However, if they went towards it, BERNKASTEL would be right behind them, along with her vast swarm of familiars.
 In other words, they were trapped in a dead end.
 They already knew that the emerald‐green color came from the eyes of the familiars.
 However, ......it was almost beyond comprehension that this undulating green sun could be the same thing, ......and they could do nothing except stare in wide‐eyed shock...
@@ -688,7 +688,7 @@ That would have been as foolish as trying to hide from water on a sinking ship.
 "......Will we be able to hide until they pass us...?!"
 "No...
  We\'ll be found no matter where we hide...!"
-Battler was just about to leap out from the shadows, but {f:5:Lambdadelta} grabbed him by the collar an instant before.
+Battler was just about to leap out from the shadows, but LAMBDADELTA grabbed him by the collar an instant before.
 "Are you thinking of fighting?!"
 "No, but we\'ll be found if we just stand here...!
  So we have to move forward!
@@ -707,7 +707,7 @@ Battler was just about to leap out from the shadows, but {f:5:Lambdadelta} grabb
  There\'ll be nowhere to run, don\'t you realize that?!"
 "We know that, but......!!"
 "The key will be our trump card.
- ......It\'s vitally important for {f:5:Bernkastel} too.
+ ......It\'s vitally important for BERNKASTEL too.
  ......If worst comes to worst, we might be able to use the key as a bargaining chip..."
 "Bargain with Bern?!
  ......You\'re insane!!"
@@ -737,8 +737,8 @@ Battler was just about to leap out from the shadows, but {f:5:Lambdadelta} grabb
  You really think you\'ll get the luxury of a game of tag out of Bern and all her cats?!"
 "If there\'s even a 1% chance!"
 "You can be certain that we\'ll grab it...!!"
-There was an immense difference in enthusiasm between {f:5:Lambdadelta} and the siblings, who had nothing left to lose.
-However, this was by no means cowardice on {f:5:Lambdadelta}\'s part.
+There was an immense difference in enthusiasm between LAMBDADELTA and the siblings, who had nothing left to lose.
+However, this was by no means cowardice on LAMBDADELTA\'s part.
 She was a Great Witch of the Senate.
  ......If she surrendered, she wouldn\'t be able to escape severe punishment, but she would be forgiven after a few hundred years.
 She had been thrown into a stormy sea while clutching a buoy that could save only her—how could she possibly decide to throw that buoy away?
@@ -765,7 +765,7 @@ However, they both thought that any plan would be worth listening to, even if it
 "No way, Onii‐chan...!!
  I\'ll do it.
  This is all my responsibility.
- ......I was the one who listened to {f:5:Bernkastel} and trusted her.
+ ......I was the one who listened to BERNKASTEL and trusted her.
  ......So, I\'ve got a thing or two to say to her!"
 Both Battler and Ange decided to be the sacrifice and wouldn\'t listen to the other.
 "See?
@@ -774,7 +774,7 @@ Both Battler and Ange decided to be the sacrifice and wouldn\'t listen to the ot
  ......They\'ll be here any moment."
 ".........Okay.
  ......Either Ange or I will be the sacrifice.
- ......{f:5:Lambdadelta}, you\'ll take whoever\'s left, steal the key, and take them back to the Golden Land."
+ ......LAMBDADELTA, you\'ll take whoever\'s left, steal the key, and take them back to the Golden Land."
 "I won\'t let you do it.
  Onii‐chan."
 "Quit joking around.
@@ -795,15 +795,15 @@ After staring stupidly at their fists and those scissors, ......they looked at h
 "............Ah, dang...
  ......We were supposed to start with paper, so I figured I\'d use scissors and beat you both.
  ......I guess confetti‐head should\'ve stuck with paper."
-There had been no reason for {f:5:Lambdadelta} to join in on the game.
+There had been no reason for LAMBDADELTA to join in on the game.
 This wasn\'t the time for a joke like that.
 Battler and Ange, each trying to lose, ......chose rock.
-{f:5:Lambdadelta} alone......chose scissors.
+LAMBDADELTA alone......chose scissors.
 "Don\'t tell me......you intentionally......"
 "If you die, we can\'t even get back to the Golden Land...!
  This doesn\'t count!"
 "Well then, you can just use this, can\'t you?"
-{f:5:Lambdadelta} made a clenched fist, a fragment glowing pale blue appeared there, and she gave it to the pair of them.
+LAMBDADELTA made a clenched fist, a fragment glowing pale blue appeared there, and she gave it to the pair of them.
 Battler had seen one of these before.
  ......It was a magic fragment, like the one Erika had used before disappearing, which would allow one to cross the sea of fragments.
 "With that, you\'ll both be able to return to the Golden Land.
@@ -813,7 +813,7 @@ Battler had seen one of these before.
 "And I owe her one.
  I\'ve got to make this my victory and even the score.
  ......Still, away games are such a pain."
-{f:5:Lambdadelta} pretended to complain as she stood up straight.
+LAMBDADELTA pretended to complain as she stood up straight.
 "Anyway, see you in a bit.
  ......I guess a show‐off like me couldn\'t stick to being a spectator after all.
  Sorry for stealing your time to shine.
@@ -826,21 +826,21 @@ Then, with her broadest smile and a wink...
  I\'ll see the two of you again.
  In the credit roll of your happy ending, that is!"
 "W‐......wait...!!"
-{f:5:Lambdadelta} snapped her fingers, and the two of them turned into konpeitou candies.
+LAMBDADELTA snapped her fingers, and the two of them turned into konpeitou candies.
 She picked them up, .........took aim at the glint of the golden key, ......and flicked them away.
-That way, they should be able to reach the key without {f:5:Bernkastel} noticing......
+That way, they should be able to reach the key without BERNKASTEL noticing......
 Dang, what terrible luck.
 What were the odds of them both playing a rock against my scissors?
 .........Yeah, I know.
 It wasn\'t nice of me to test you like that.
  Sorry, you two.
-And then, ......{f:5:Lambdadelta}\'s body was lit up by an emerald‐green light...
-When she turned around, the cat\'s eyes and {f:5:Lambdadelta}\'s......met.
-{f:5:Lambdadelta} grinned and waved......
+And then, ......LAMBDADELTA\'s body was lit up by an emerald‐green light...
+When she turned around, the cat\'s eyes and LAMBDADELTA\'s......met.
+LAMBDADELTA grinned and waved......
 There was a thunderous boom and several bright flashes.
 "What in the...?
  .........?!?!"
-A chain of explosions flashed by one after another, enveloping {f:5:Bernkastel} and her pack of familiars in an instant.
+A chain of explosions flashed by one after another, enveloping BERNKASTEL and her pack of familiars in an instant.
 They were multicolored fireworks.
  ......Or rather, multicolored candy that burst with a flash and scattered everywhere.
 Countless stick candies, sugar sculptures, cookies, and tarts flew in every direction,
@@ -851,7 +851,7 @@ The konpeitou was heavier than lead, harder than steel, and sharper than any bla
 As the colorful cloud exploded outward, it blasted the entire pack of cats into little bits.
 The emerald‐green glints that were scattered everywhere sparkled like the night sky,
  and among them danced the cloud of pretty candies that looked like they\'d go well on a Christmas tree.
-It was flashy, and beautiful, and cute, and perfectly fitting for the grand entrance of the Great Witch...Lady {f:5:Lambdadelta}.
+It was flashy, and beautiful, and cute, and perfectly fitting for the grand entrance of the Great Witch...Lady LAMBDADELTA.
 "......Oh, if it isn\'t Lambda.
  .........I was hoping to meet you in the party hall."
 "I love you, Bern.
@@ -874,14 +874,14 @@ She probably couldn\'t see anything except an immense mouth about to swallow up 
  Every morning, I\'ll give you a good morning kiss, and every evening, I\'ll kiss you goodnight."
 "Sounds great!
  Then I\'d better wrap you up in my love too!!!"
-However, {f:5:Lambdadelta}\'s war cry was swallowed up by the glowing, writhing leviathan in a single bite.
+However, LAMBDADELTA\'s war cry was swallowed up by the glowing, writhing leviathan in a single bite.
 ".........*giggle*.
  Yes, you are wonderful, Lambda.
  I love your gentle cluelessness, the way you just recklessly do things without looking ahead.
  .....................?
  ......Wind...?"
-The same instant that {f:5:Lambdadelta} was swallowed and {f:5:Bernkastel} was sure of her victory, the latter felt a slight breeze playing with her hair.
-The countless sweets that {f:5:Lambdadelta} had sent flying like fireworks, and which drifted about like the decorations at a Christmas party, ......were flowing.
+The same instant that LAMBDADELTA was swallowed and BERNKASTEL was sure of her victory, the latter felt a slight breeze playing with her hair.
+The countless sweets that LAMBDADELTA had sent flying like fireworks, and which drifted about like the decorations at a Christmas party, ......were flowing.
  No, ......they were converging on a single point.
 It was like watching a firework run backwards.
 Countless sweets rapidly contracting to somewhere within the vast, closed mouth of the leviathan.
@@ -889,51 +889,51 @@ A gigantic reverse explosion gathering at a single inner point.
 Or perhaps it was more like countless candies showering the leviathan from all directions like bullets.
 ......Inside that mass of green......was a black swirl.
 That swirl was on a palm.
-On the palm of {f:5:Lambdadelta}, who wore a defiant smile.
+On the palm of LAMBDADELTA, who wore a defiant smile.
 It was...a mass of super‐concentrated gravity.
 All of the sweets, the cats, the whale, and everything else was being sucked into that one point and crunched.
 "I\'ll hold you tight. ......Get over here, Bern!!!"
 "......You\'re trying......to suck me in......?!"
-All of the candies {f:5:Lambdadelta} had scattered were getting sucked back into the black hole on her palm at unbelievable speeds.
+All of the candies LAMBDADELTA had scattered were getting sucked back into the black hole on her palm at unbelievable speeds.
 The pressure of the reverse candy explosion whittled away at the leviathan, crushing it inwards.
 ".........La......mb...daa......aaaa......aaaaa...!!!"
 "Come on. ......Let me give you a hug."
-With all her strength, {f:5:Bernkastel} held her ground in midair, trying to resist this supergravity.
+With all her strength, BERNKASTEL held her ground in midair, trying to resist this supergravity.
 For the first time, all trace of condescension had left her face.
-Even {f:5:Lambdadelta}\'s cocky expression was marred by the sweat trailing from her forehead.
+Even LAMBDADELTA\'s cocky expression was marred by the sweat trailing from her forehead.
 ......Because their power was so overwhelming, any victory would have to be instantaneous.
 If either relaxed in the slightest, they would match each other\'s strengths and get dragged into another dizzyingly long fight that could last for centuries.
 Neither of them had any desire to go through that again.
  .........So, neither of them showed the slightest mercy for their most beloved friend.
 By now, the leviathan had been completely crushed and compressed inside the black hole.
-{f:5:Bernkastel} was the only one still holding her ground.
-However, a windstorm of candy asteroids like an asteroid belt repeatedly slammed into {f:5:Bernkastel}, wearing away her girl form bit by bit.
+BERNKASTEL was the only one still holding her ground.
+However, a windstorm of candy asteroids like an asteroid belt repeatedly slammed into BERNKASTEL, wearing away her girl form bit by bit.
 ".........I\'ve got to get away...... .........I\'ll......really............
  .........?!?!"
-The next thing to fly into {f:5:Bernkastel}\'s range of vision......
+The next thing to fly into BERNKASTEL\'s range of vision......
 ...was a comet hurtling straight for her, with a massive present box at its core and a cloud of candy surrounding it.
 "Lambdaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!
  Waaaaaaaaaaaaaaaaaaahhh!!!
  Gyaaaaaaaaahh, my...body......gaaaaaaaaaaaaaaaaaaaaaaaaaahhhh!!"
-The candy comet wiped out {f:5:Bernkastel} along with her scream.
+The candy comet wiped out BERNKASTEL along with her scream.
 It burst into little bits, then within a blink of an eye, it was sucked back into a hole of supergravity.
 Once it was all gathered into one place like a gem, it began to spin rapidly.
 It was flattened by the centrifugal force, turning into something whose shape resembled a galaxy.
 After swallowing all of the cats and their master,
- it now looked like a winding, flickering, emerald‐green galaxy that floated just above {f:5:Lambdadelta}\'s palm.
+ it now looked like a winding, flickering, emerald‐green galaxy that floated just above LAMBDADELTA\'s palm.
 The pocket of supergravity kept compressing it further and further,
  .........until, at the end, it had become a single, green, shining konpeitou.
 Then, it fell...
 down onto her outstretched palm.
 "Sorry, Bern.
  ......I wanted to play with you always, so I\'ve always taken it easy and pretended to be in a pinch."
-{f:5:Lambdadelta} held the konpeitou above her head and peered at it.
+LAMBDADELTA held the konpeitou above her head and peered at it.
 "But the truth is, I\'m just impossibly strong.
  .........Sorry."
 Then, ......she pressed the konpeitou to her pink lips,
  ......gave it a light kiss, ......and bit down.
 "............This...doesn\'t taste like Bern."
-{f:5:Lambdadelta} licked her fingertips, ......then turned to face the empty air behind her.
+LAMBDADELTA licked her fingertips, ......then turned to face the empty air behind her.
 ".........I already knew,
  my beloved Lambda."
 "Ahh, I love you too, Bern......"
@@ -942,9 +942,9 @@ Then, ......she pressed the konpeitou to her pink lips,
 "In that case,
  ......let\'s show our love for real.
  .........With both of us......serious."
-"Ahh, I do love you, {f:5:Lambdadelta}.
+"Ahh, I do love you, LAMBDADELTA.
  ......I\'m happy......so happy......"
-"Ahh, I do love you, {f:5:Bernkastel}.
+"Ahh, I do love you, BERNKASTEL.
  .........I\'ll turn you into candy and cuddle you with my tongue forever."
 "So no matter who wins, we can keep on loving each other.
  *giggle*giggle*, ahhahahahahahahahaha!!
@@ -974,7 +974,7 @@ All those who could use magic fired it off at once.
 With a shout like a thunderclap, the goat tsunami rushed forward.
 Everything collided at once, and there was a brilliant and terrible explosion.
 Sparks and smoke, flying splinters and screams.
-For just an instant, the fierce magical cannonballs fired by Beato, {f:5:Virgilia}, and the Chiester Sisters seemed to halt the goat tsunami in its tracks.
+For just an instant, the fierce magical cannonballs fired by Beato, VIRGILIA, and the Chiester Sisters seemed to halt the goat tsunami in its tracks.
 However, their numbers were so great that they didn\'t even flinch.
 The goat wave pressed forward, over the corpses of those who had been blasted away or fallen to their knees in weariness.
 The mound of corpses piled up, and still more goats were shot down as they tried to cross it,
@@ -1053,7 +1053,7 @@ Finally, Erika reached the bottom of the battle tower, and the golden bows eject
 Erika, who had now landed on the ground, slowly stood up and tapped the tower behind her with the handle of the scythe.
 That tiny tap cut the final string that held the tower together, and the whole thing fell in on itself with an earth‐shattering crash......
 Once again, the dark tsunami rumbled forward through the rubble and smoke.
-"I am Furudo {f:5:Erika}, Witch of Truth!!
+"I am Furudo ERIKA, Witch of Truth!!
  This moment marks the dismantling of the Golden Land by the truth!!
  Dust to dust, illusions to illusions!!
  I\'ll end your daydream for you!

@@ -1,4 +1,4 @@
-"......{f:5:Beatrice}.
+"......BEATRICE.
  I have been calling to you for a while.
  Did you not hear me...?"
 "......Hmm.
@@ -32,7 +32,7 @@ For a while, we sat, appreciating the silence...
  ...Who I am."
 "..................
  ............Why do you worry about something like that?
- You are {f:5:Beatrice}.
+ You are BEATRICE.
  The master of this mansion, is that not so?
  ......What more could you want to know?"
 "............I do not know."
@@ -47,7 +47,7 @@ Kinzo laughed as though it was a trivial matter.
  ...Hmph.
  ......So not even you will tell me that...after all."
 "There is nothing to tell.
- You are {f:5:Beatrice}.
+ You are BEATRICE.
  Isn\'t that more than enough?"
 "......No, that\'s not it.
  ............What I wish to know is not my name.
@@ -120,7 +120,7 @@ I am."
  ...Such an overbearing man."
 "Isn\'t that awesome.
  Everyone knows Grandfather\'s obsessed with the occult, but...
-...who knew he had the power to root down the Great Witch {f:5:Beatrice}‐sama."
+...who knew he had the power to root down the Great Witch BEATRICE‐sama."
 "......Heh, ridiculous.
  You think I\'d believe such a weird story?"
 "...As I thought, you don\'t believe."
@@ -328,7 +328,7 @@ Beato, who was sitting in the garden chair, looking up at the sky, asked that sa
 She asked who she was.
 ...The meaning of those words was finally starting to click.
  She couldn\'t understand why she was living here, all locked up.
-Grandfather had seized {f:5:Beatrice}\'s soul, shut it up in a body of flesh,
+Grandfather had seized BEATRICE\'s soul, shut it up in a body of flesh,
  and then shut that up in a hidden mansion.
 However, since she had lived here since the time she was born, she couldn\'t even understand who she was,
  or why she lived shut up in there...
@@ -336,13 +336,13 @@ However, since she had lived here since the time she was born, she couldn\'t eve
 Who would take such a stupid story seriously?
 Why don\'t I change my interpretation?
 ...Essentially, couldn\'t it be something like this?
-Grandfather met {f:5:Beatrice}.
+Grandfather met BEATRICE.
 He then fell in love with her and courted her, but she didn\'t nod her head in agreement.
 And so he got angry, and shut her up inside this hidden mansion.
-{f:5:Beatrice} tried to escape, but no matter what she did, she couldn\'t succeed,
+BEATRICE tried to escape, but no matter what she did, she couldn\'t succeed,
  ......so she finally chose her own death.
 ......And then, .........hmm.
-...Maybe there was a girl that looked just like {f:5:Beatrice}, ...no, a baby.
+...Maybe there was a girl that looked just like BEATRICE, ...no, a baby.
 And Grandfather raised this child with care.
 But maybe Grandfather didn\'t view this child as his daughter.
 "Shut my soul up once more into a cage of flesh".
@@ -438,7 +438,7 @@ This is the world of 1967}.
 "............Hmmmmm..."
 Let\'s go through the story one more time.
 I wonder if it couldn\'t be something like this.
-Grandfather had a person with whom he fell in unrequited love, called {f:5:Beatrice}.
+Grandfather had a person with whom he fell in unrequited love, called BEATRICE.
 And he confined her in this hidden mansion and continually courted her.
 But she was stubborn and didn\'t say yes.
 Eventually, she grew pessimistic about being unable to escape from here...
@@ -449,17 +449,17 @@ No, no, if I accept that, it\'s the same as accepting the witch.
 I can interpret that part like this.
 She probably......left a daughter behind when she died.
 That talk about the soul being put in a new body...probably meant...
-that Grandfather raised that child believing it to be the reincarnation of {f:5:Beatrice}...
+that Grandfather raised that child believing it to be the reincarnation of BEATRICE...
 ...In that case, Beato must have existed on this island for at least the last 19 years as the 19th person, and then...
 ...umm......
 "......I\'m starting to get confused.
  ...In any event, none of this leaves the realm of guesswork.
  The only thing that I can definitely say in red,
- is that in 1967, in a hidden mansion on Rokkenjima, {f:5:Beatrice} existed as a human.
+ is that in 1967, in a hidden mansion on Rokkenjima, BEATRICE existed as a human.
  That\'s all."
 "That is correct.
  
-In 1967, in a hidden mansion on Rokkenjima, {f:5:Beatrice}‐sama existed as a human}."
+In 1967, in a hidden mansion on Rokkenjima, BEATRICE‐sama existed as a human}."
 "Oh, thank you.
  That really helps."
 "Congratulations.
@@ -472,7 +472,7 @@ Ronove laughed indiscreetly.
 Somehow, I didn\'t like his phrasing, so I didn\'t feel like laughing along with him.
 "......That\'s right.
  Auntie Rosa said it.
- ......‘{f:5:Beatrice} is dead’?
+ ......‘BEATRICE is dead’?
  "I killed her"?
  What does that mean...?"
 "As for that, it may be faster to see the actual circumstances rather than listen to me tell you.
@@ -486,7 +486,7 @@ It was her.
 ......If I don\'t think myself lucky to see that sexy ass, I won\'t be able to play along with their torture game...
 "Ronove‐sama.
  So, you were still here.
- This is an urgent call from {f:5:Beatrice}‐sama."
+ This is an urgent call from BEATRICE‐sama."
 "My, my,
  what kind of urgent business could it be?
  ......It appears as though I have spent slightly too long chatting with you, Battler‐sama.
@@ -507,7 +507,7 @@ It was her.
 "Pu ku kuku."
 Seeing me and Ronove incomprehensibly hitting it off, that Seven Stakes chick cocked her head slightly.
 "Ronove‐sama.
- We are keeping {f:5:Beatrice}‐sama waiting.
+ We are keeping BEATRICE‐sama waiting.
  Let us hurry."
 "Yes, I will come immediately.
  Well then, Battler‐sama, I shall see you later.
@@ -521,7 +521,7 @@ Maybe it was because she really didn\'t like seeing him act friendly with me, or
 The Seven Stakes babe bellowed sharply at Ronove, and he laughed foolishly and disappeared, as if running away...
 "......Hmph.
  How could I, the eldest sister of the Seven Stakes of Purgatory, be called on for this level of work!
- ...{f:5:Beatrice}‐sama could easily have told one of the younger sisters, who look like they have so much free time, for something like this. Sheesh...!"
+ ...BEATRICE‐sama could easily have told one of the younger sisters, who look like they have so much free time, for something like this. Sheesh...!"
 "Why so grumpy, girl?
  If you\'re hungry, eat a cookie or something.
  Why don\'t I give you the last one?
@@ -543,7 +543,7 @@ By those three blades, my carelessly outstretched right hand was not even permit
  ...Isn\'t it about time you cut your nails, babe?"
 "Lucifer.
  ......That is my noble name.
- Honored furniture serving {f:5:Beatrice}‐sama, and the eldest sister of the Seven Stakes of Purgatory."
+ Honored furniture serving BEATRICE‐sama, and the eldest sister of the Seven Stakes of Purgatory."
 ".........I\'m not like my disgraceful and cretinous younger sisters.
  If you don\'t show the proper respect, you will regret it."
 "...How would I regret it?
@@ -577,7 +577,7 @@ After taking several deep breaths with her hand over her chest, it seemed that s
  You say that even though you were always talking behind her back."
 "Would you give it a rest, Eva.
  So?
- Where did you meet {f:5:Beatrice}, Rosa‐san?!"
+ Where did you meet BEATRICE, Rosa‐san?!"
 "Hideyoshi‐san, you mustn\'t rush her now.
  ......It\'s alright, Rosa‐san.
  Tell us at your leisure."
@@ -627,7 +627,7 @@ Literally this could be taken as him covering for Rosa,
 "Quit it.
  Now isn\'t the time for sarcasm.
  ......And then you arrived there by coincidence...?
- ...{f:5:Beatrice}\'s...
+ ...BEATRICE\'s...
 hidden mansion."
 Rosa nodded weakly......
 "About how far did you walk.
@@ -671,14 +671,14 @@ Of course, there were fences around the mansion to stop us from entering the for
  But this fence was decorated differently, ......and most of all, it was very tall.
 It probably reached a full two stories up.
 It was covered with ivy, and created a mysterious, solemn atmosphere...
-At the time, ......I believed the legend of the witch of the forest, {f:5:Beatrice}.
+At the time, ......I believed the legend of the witch of the forest, BEATRICE.
 I had been told that she was frightening,
  but some of the servants told me that she would sometimes help you if you respected her.
 ......Since I had started to lose confidence in how my life was going,
  I believed that the only way I could be saved was by receiving her help.
 So that\'s what made me think it.
- ......I believed that this was the fence of the mansion of {f:5:Beatrice}, the witch of the forest.
-I thought that if I could meet with {f:5:Beatrice}, she would definitely save me.
+ ......I believed that this was the fence of the mansion of BEATRICE, the witch of the forest.
+I thought that if I could meet with BEATRICE, she would definitely save me.
 So I thought I would try to go in.
 But that fence was very, very tall, and it didn\'t look like I could go over it.
 So I decided to walk around it.
@@ -763,11 +763,11 @@ As she said that, she showed an unhappy smile for just an instant.
 Because I was full of a strange mix of tension and excitement, I rudely asked her a question suddenly.
 "...Umm,
  ............are you the witch of the forest,
- ...{f:5:Beatrice}......?"
+ ...BEATRICE......?"
 "Indeed.
- I am {f:5:Beatrice}."
+ I am BEATRICE."
 "As I thought.
- {f:5:Beatrice} actually existed..."
+ BEATRICE actually existed..."
 "...Did she look just like the portrait?"
 "......Yes.
  Exactly like the portrait."
@@ -809,7 +809,7 @@ Because I was full of a strange mix of tension and excitement, I rudely asked he
 "Oh, put a lid on it.
  I was just a kid."
 "......Well, anyway.
- If Father was the one who shut {f:5:Beatrice} up in there, it makes sense that he would use the same wolf story.
+ If Father was the one who shut BEATRICE up in there, it makes sense that he would use the same wolf story.
  To him, the vast forest of Rokkenjima was a wall that shouldn\'t be crossed,
  dividing his two incompatible worlds: the Ushiromiya family and his mistress\'s mansion."
 "If you think about the height of that fence, it does seem that Father had turned the whole area, garden and all, into a giant jail cell.
@@ -818,7 +818,7 @@ Because I was full of a strange mix of tension and excitement, I rudely asked he
  It could have been a fence to protect against those."
 "There are no wolves or stray dogs on Rokkenjima.
  Just as Nii‐san and Kyrie‐san are saying,
- that fence was probably a border between us and {f:5:Beatrice}."
+ that fence was probably a border between us and BEATRICE."
 "However, if she innocently believed the story about the wolves, that\'s pretty...naive.
  That\'s nothin\' like the way I\'d imagine a witch."
 "......That\'s right.
@@ -887,7 +887,7 @@ Quite the opposite, as I explained it to her, her expression grew increasingly d
 It seemed that, although this mansion surrounded by a high fence appeared at a glance to afford her a completely provided‐for life of comfort,
  she couldn\'t see how she was different from the animals shut up in cages...
 "Who am I?
- ......Everyone calls me {f:5:Beatrice}.
+ ......Everyone calls me BEATRICE.
  ...And that does certainly seem to be the name of a great witch, as you say."
 "......But that is not me.
  I cannot use any magic.
@@ -976,9 +976,9 @@ She was pure and genuine.
  No, ......maybe it should be said that she hadn\'t been taught how to doubt.
 Her face was somewhat radiant, and yet pathetic.
 ...I wanted to somehow grant her modest wish.
-"I...have had enough of {f:5:Beatrice}.
+"I...have had enough of BEATRICE.
  I want to know who I am.
- I want to start out as a new human, not {f:5:Beatrice}."
+ I want to start out as a new human, not BEATRICE."
 "So, I want you to take me from here.
  .........I don\'t need tea anymore.
  I don\'t need this dress.
@@ -1053,7 +1053,7 @@ I was tired from walking around the forest for so long,
  so I thought that even though it was a rocky beach, an open area would probably be much easier to walk in.
 So I planned to somehow go down the rocky cliff.
 ...It did look pretty dangerous, and I wondered if there was some other way.
-However, {f:5:Beatrice} agreed with my plan without any doubts.
+However, BEATRICE agreed with my plan without any doubts.
 ......Even though she was probably older than me,
  ...she obeyed me truly obediently, almost as though she were some kind of chick who believed I was a mother bird.
 I searched to see if there wasn\'t some place where I could go down the cliff.
@@ -1078,7 +1078,7 @@ I cautiously examined the place where we could go down.
 I think it might have been about ten meters down.
 If you looked at it from the bottom up, it would probably have looked shorter than the roof of the mansion.
  But looking from the top, it felt almost like staring down from the Tokyo Tower\'s observation room.
-But {f:5:Beatrice} still appeared to be completely without fear.
+But BEATRICE still appeared to be completely without fear.
  ...It felt as though she had never even been taught that high places were dangerous.
 ......No, maybe she truly believed that she was a witch,
  and that she could fly, so there wasn\'t anything dangerous.
@@ -1168,12 +1168,12 @@ And when she was hit with them, ......she screamed in resignation.
 It can\'t be.
  She\'s obviously alive.
 Otherwise, she wouldn\'t be here in front of me, right...?!
-...The kid‐aged Auntie Rosa was shaking {f:5:Beatrice}\'s body, crying.
+...The kid‐aged Auntie Rosa was shaking BEATRICE\'s body, crying.
 I too stared into that face,
  ...............but her eyes were still open, and it really was a corpse.
 ...I wanted to brush it off with something vague like a state of apparent death,
  ......but from any angle, there was nothing "apparent" about it; ...she really didn\'t look anything but dead...
-{f:5:Beatrice} had fallen upside‐down from a cliff of that height,
+BEATRICE had fallen upside‐down from a cliff of that height,
  ......and her head had smashed against the pointed tip of those sharp rocks.
 ............You would die, wouldn\'t you,
  ......from that height,
@@ -1198,7 +1198,7 @@ Otherwise, the facts don\'t fit together!!
  
 She\'s definitely dead}!"
 ".................................mgghhhh..."
-My theory that the 19th person was Grandfather\'s mistress, who was a human {f:5:Beatrice}, broke down.
+My theory that the 19th person was Grandfather\'s mistress, who was a human BEATRICE, broke down.
 ...I thought I had managed to segue from a defensive position into a counterattack, but......
 "......Then, ......who are you?
  You just died, this very minute!
@@ -1228,7 +1228,7 @@ When Beato clapped her hands, Ronove appeared.
 Even though just enough to wet my throat would have been fine, he filled it to the top with tea.
 I turned my back to Beato, sipping it in silence...
 "Wait... Open your eyes...!!
- {f:5:Beatrice}...!!"
+ BEATRICE...!!"
 Rosa shook me,
  ............no, shook the corpse that had once been me.
 I watched over her from a short distance away.

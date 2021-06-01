@@ -37,7 +37,7 @@ Picking up that Natsuhi was in a bad mood and didn\'t want to talk about this an
  And you\'ll conduct all of your conversations through me.
  I must ask that you follow those two rules."
 "I\'ll work on that."
-"......The actions of this "{f:5:Bernkastel}" witch have caused us all a great deal of inconvenience.
+"......The actions of this "BERNKASTEL" witch have caused us all a great deal of inconvenience.
  Because of that, I am willing to help you.
  However, both of us stand on an even footing, so make sure you don\'t forget it."
 "And I thought you were just some pampered rich kid.
@@ -353,7 +353,7 @@ To Will, Rosa\'s memories gave only information that was already known.
 This was the first time he\'d heard all that about her running back to the mansion after Beatrice fell to her death,
  but none of it was particularly surprising.
 Apparently, Rosa really didn\'t know any more than this......
-If he wanted to learn something beyond the fragments given to him by {f:5:Bernkastel}, he would need to find new testimony.
+If he wanted to learn something beyond the fragments given to him by BERNKASTEL, he would need to find new testimony.
 "Lion.
  Tell Kinzo that I want to talk to him.
  It looks like we won\'t get anywhere without asking the man himself."
@@ -372,7 +372,7 @@ And he had come here for a little peace and quiet...
 No sooner had he let out a sigh of relief than that voice rang out.
 "That\'s one for you to answer."
 It was as though she had been sitting there all along.
- ......{f:5:Bernkastel} appeared on top of the altar once more.
+ ......BERNKASTEL appeared on top of the altar once more.
 Apparently, she found this particular altar extremely comfortable.
 "......Battler annoyed me over and over with his incompetence.
  You\'re very competent compared to him, so it\'s a lot easier to relax."
@@ -385,7 +385,7 @@ Apparently, she found this particular altar extremely comfortable.
  ......*giggle*giggle*."
 "Tch. You think I\'m a butcher?"
 "Well?
- Do you think you know who killed {f:5:Beatrice}...?"
+ Do you think you know who killed BEATRICE...?"
 "Rosa\'s confession is something I already know from a previous fragment.
  There was no brand new information.
  ......We\'re still at square one."
@@ -401,7 +401,7 @@ is all part and parcel of this game."
 "I know that.
  As the Game Master, I will grant you power.
  So that you can get the truth from Kinzo, of course."
-Still wearing shoes, {f:5:Bernkastel} stepped into the casket, picked up one of the flowers that had been set as offerings,
+Still wearing shoes, BERNKASTEL stepped into the casket, picked up one of the flowers that had been set as offerings,
  ......and blew hard, as though scattering fluff from a dandelion.
 When she did, a single petal broke off and drifted down towards Will,
  no longer gold, but with the shine of a transparent crystal......
@@ -419,10 +419,10 @@ Will remembered how useless it was to argue with witches, and he snatched it up.
 When he did, the petal flashed brightly for an instant, melted into Will\'s palm, and disappeared...
 "Entertain me if you can.
  And try and enjoy yourself.
- ......You must also be interested in seeing what the guts of {f:5:Beatrice}\'s game board look like, right?"
+ ......You must also be interested in seeing what the guts of BEATRICE\'s game board look like, right?"
 "Not really."
 After Will\'s rude answer,
- {f:5:Bernkastel} vanished into thin air, leaving behind an obnoxious laugh......
+ BERNKASTEL vanished into thin air, leaving behind an obnoxious laugh......
 ".........Tch."
 After clicking his tongue, Will turned around, visibly annoyed.
 ......When he did, it felt as though his gaze crossed that of a shadowy figure standing by the door in front of him that led outside.
@@ -456,7 +456,7 @@ Apparently, she was a bit relieved to find that she wasn\'t going crazy by herse
 "Also, I never knew that someone named L‐......Lion‐sama existed.
  ......And yet, Madam, Krauss‐sama, ......the Master, Milady, and all the relatives all talk as though it\'s perfectly natural......
  I just......don\'t understand what\'s happening......"
-"......Lion is a piece placed by {f:5:Bernkastel}.
+"......Lion is a piece placed by BERNKASTEL.
  She also said that she\'d switched to a larger cat box to place that piece.
  ......On top of that, it seems this world isn\'t a proper world, but one made out of several different fragments sewn together."
 It\'s as though......this is a special stage set up specifically for this game.
@@ -469,7 +469,7 @@ After all, right when I entered the chapel, I spotted Kinzo.
 If Shannon has worked here for ten years, then this is 1986, the stage of Beato\'s game.
 In that case, Kinzo shouldn\'t exist.
 However, he definitely was here a few minutes ago.
-{f:5:Bernkastel} promised that all of the information needed for reasoning was gathered here.
+BERNKASTEL promised that all of the information needed for reasoning was gathered here.
 She must have crammed all manner of stuff in here to make that true...
 I see, so it really is a special stage.
 "You have served the Ushiromiya family for many years.
@@ -480,17 +480,17 @@ I see, so it really is a special stage.
  .........they say that she\'s the master of Rokkenjima\'s night...
 ...umm..."
 "That\'s right.
- The name of the ghost rumored to wander the mansion night after night is also {f:5:Beatrice}."
+ The name of the ghost rumored to wander the mansion night after night is also BEATRICE."
 That brings the number of Beatrices to three.
 The first is the "Beatrice" from more than thirty years ago, who is said to have given Kinzo the gold.
 The second is the "Beatrice" from twenty years ago, who met Rosa.
-The third is the "{f:5:Beatrice}" of the ghost stories, who is rumored to be the master of the night on Rokkenjima.
+The third is the "BEATRICE" of the ghost stories, who is rumored to be the master of the night on Rokkenjima.
 "......Furudo Erika\'s reasoning was probably correct.
  It started out as the legend of the evil spirits on Rokkenjima.
  Later on, elements such as Kinzo\'s occult hobbies, the name and portrait of the mysterious woman "Beatrice",
  and the epitaph got mixed in, and it all fused into the legend of the Golden Witch."
 "......And so the darkness of the night gained the personality of a witch.
- That\'s the third {f:5:Beatrice}.
+ That\'s the third BEATRICE.
  This is the veil the serial killer hides behind."
 "......Uh, umm..............."
 Apparently, she didn\'t understand a word of Will\'s sudden monologue.
@@ -520,23 +520,23 @@ When Will said these words, Shannon\'s face went blank and her eyes went wide.
  Or was it Lion?
  I will ask about it."
 "It was...the one who orders me.
- I cannot disobey or{f:5:ders}."
+ I cannot disobey orDERS."
 "Who is this person?
  I\'ll negotiate with them."
-"You cannot {f:5:negotiate}.
- It i{f:5:s} the o{f:5:ne} who or{f:5:ders us}."
+"You cannot NEGOTIATE.
+ It iS the oNE who orDERS US."
 "Call Kanon over here.
  ......I hate theatergoing just as much as I hate torture."
 Slowly, ......Will pulled his right hand out of his pocket.
 When he slowly opened his fist,
  .........a small, bright glow emanated from it.
-The flower petal {f:5:Bernkastel} had given him had become a glowing birthmark, which sparkled......
+The flower petal BERNKASTEL had given him had become a glowing birthmark, which sparkled......
 He held that hand out towards Shannon......and slowly approached her.
 "Call Kanon.
  I want to check something with you two."
-"{f:5:I ca  nnot call him. Do you sti  ll wish for me to do so}......?"
+"I CA  NNOT CALL HIM. DO YOU STI  LL WISH FOR ME TO DO SO......?"
 "If you don\'t call him, I\'m going to "watch your play"."
-"{f:5:If you insi  st, ......I can c al   l him especi ally}..."
+"IF YOU INSI  ST, ......I CAN C AL   L HIM ESPECI ALLY..."
 ".............................."
 "                                                            ."
 There was some kind of incomprehensible tension between the two.

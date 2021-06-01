@@ -164,7 +164,7 @@ The group sealed the room at the same time they left.
 "Heheheheheh.
  In other words, you can\'t use that trick where they hide under the bed and slip out later."
 "......Interesting.
- Nice going, {f:5:Bernkastel}."
+ Nice going, BERNKASTEL."
 "Thanks."
 This was the crime of the second twilight.
 The scene was Natsuhi\'s fully locked room.
@@ -316,7 +316,7 @@ The curtain is lowered on this tale, for now......
 "......I see.
  To turn it around, anyone who isn\'t a culprit can\'t tell lies."
 "Purple statements.
- ......These seem to be the key to Lady {f:5:Bernkastel}\'s game."
+ ......These seem to be the key to Lady BERNKASTEL\'s game."
 "Yeah, that\'s right.
  ......I\'ll explain the rules for my game."
 {e:100:
@@ -435,7 +435,7 @@ Enjoy this game that I\'ve created...just for you......
  Battler, it\'s the narration!
  We\'ve been told that there are no lies in the narrative text outside the dialogue!"
 "Ah, I just realized that too.
- {f:5:Bernkastel} announced with the red truth that there are no lies in the narration."
+ BERNKASTEL announced with the red truth that there are no lies in the narration."
 "Oh, looks like they figured it out..."
 "......They wouldn\'t get anywhere if they didn\'t."
 "Are there any deaths confirmed by the narration?!
@@ -486,7 +486,7 @@ They had discovered some purple statements they could trust.
 "The number of innocent people has skyrocketed!
  In addition to Nanjo and Jessica, we now know that Krauss, Natsuhi, Shannon, Gohda, and Kumasawa cannot be the culprit...!"
 "That\'s not all.
- On the fourth twilight, {f:5:Bernkastel} announced Kanon‐kun\'s death with the red truth.
+ On the fourth twilight, BERNKASTEL announced Kanon‐kun\'s death with the red truth.
  The culprit can\'t die, so Kanon‐kun isn\'t the culprit either!"
 "Nanjo, Jessica, Krauss,
  Natsuhi, Shannon, Kanon,
@@ -577,7 +577,7 @@ Since it\'s been guaranteed that all five servants are innocent,
  That leaves us with a problem though."
 "What problem?"
 "Remember?
- When we were talking about the second twilight, {f:5:Bernkastel} said this with the red truth:
+ When we were talking about the second twilight, BERNKASTEL said this with the red truth:
  "The culprit of the first twilight has definitely killed six people.""
 "Yes, now that you mention it...
  .........Mgh......"
@@ -650,7 +650,7 @@ However, if we add on the victims of the second twilight, they would definitely 
 "Well, ......you\'d think so, but that reminds me of something else.
  ......Aunt Natsuhi\'s room was sealed immediately afterwards..."
 "Yes, come to think of it...
- Lady {f:5:Bernkastel} used the red truth to say this: ‘The group sealed the room at the same time they left.
+ Lady BERNKASTEL used the red truth to say this: ‘The group sealed the room at the same time they left.
  No culprit joined the group as they left.’"
 "And she also said this:
  ‘All of the seals will never be broken.’"

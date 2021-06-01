@@ -6,8 +6,8 @@ Even with hearing power boosted by the detective\'s authority, it would probably
 This room was the farthest down the hall, a long ways away from the cousins\' room......
 "Last time, my room was right next to theirs.
  ......I see...so he\'s placed my room farther away this time."
-"The powers of authority given to the Game Master permit this level of modification to the initial {f:5:arrangement}.
- It is, perhaps, a quite reasonable first {f:5:move}."
+"The powers of authority given to the Game Master permit this level of modification to the initial ARRANGEMENT.
+ It is, perhaps, a quite reasonable first MOVE."
 "Well, that suits me too.
  I have no desire to listen to those brats\' squeaky voices as they play cards."
 ".................."
@@ -20,28 +20,28 @@ By sticking this over a place that she wanted to prove had remained closed,
 Those menacing seals had cornered Natsuhi so thoroughly in the previous game...
 ".........nn......
  ......Great..."
-"Is something {f:5:wrong}?"
+"Is something WRONG?"
 "......He got me.
  ......That Battler doesn\'t let anything get by him, does he?"
 Erika shrugged and showed the piece of duct tape she had cut off to Dlanor.
 By sight alone, Dlanor couldn\'t tell what had annoyed Erika.
 However, as soon as she held the tape, she realized the difference right away.
-"......This won\'t be any {f:5:good}."
+"......This won\'t be any GOOD."
 "Yes.
  It\'s barely sticky at all.
  This won\'t reach even close to the red truth."
 Even duct tape can be of low quality, and it sometimes gets weaker with age.
 The tape Kumasawa had found was a bit too weak even for normal use.
  It wasn\'t nearly sticky enough to be used as a detective\'s seal.
-"It is possible to tear it off {f:5:cleanly}.
- This cannot serve as proof of a {f:5:seal}."
+"It is possible to tear it off CLEANLY.
+ This cannot serve as proof of a SEAL."
 "......I guess Battler isn\'t as totally incompetent as I thought.
  He probably tampered with all the duct tape on the island using the authority of the Game Master."
 Letting Erika get her hands on duct tape gave her a fatal weapon to use against witches.
  The previous game had proven this fact.
 And so, Battler had removed that weapon from the entire mansion......
 "Most likely,
- all possible substitutes for duct tape have also been tampered {f:5:with}."
+ all possible substitutes for duct tape have also been tampered WITH."
 "......Probably.
  Well, it isn\'t really so bad.
  At least this way, I won\'t have to look like a fool crawling all over the outer wall in the cold rain."
@@ -50,20 +50,20 @@ Erika tossed the duct tape aside and flopped spread‐eagled onto the bed...
  ......I doubt there\'ll be any part for you to play until the first twilight begins,
  so why not vanish off somewhere and take a smoking break?
  .........I imagine that looking at my face will do nothing more than tire you out."
-"......I do not {f:5:smoke}.
- I am just a {f:5:kid}."
+"......I do not SMOKE.
+ I am just a KID."
 "Oh, really?
  ......I wish I could.
  ...Well, only if it really is as refreshing as smokers claim."
-"......It seems...that you are not in high {f:5:spirits}."
+"......It seems...that you are not in high SPIRITS."
 ".........Does it look that way?"
 Erika answered lazily, still looking up at the ceiling.
 That in itself was half an answer...
 The silence between the two was filled by the sound of the wind and rain.
 It was so quiet...
 ...that it was hard not to listen to the ticking of the clock.
-".........Lady {f:5:Erika}.
- May I ask a {f:5:question}?"
+".........Lady ERIKA.
+ May I ask a QUESTION?"
 "Depends on what it is.
  Answer\'s probably <no> though."
 "..........................."
@@ -74,27 +74,27 @@ Erika was probably bored as well.
 ......Or maybe the sound of the rain was making her sentimental.
 She assented, which was very unlike her.
 "Why is it...
-...that you hate {f:5:magic}?"
+...that you hate MAGIC?"
 "......Oh,
  ......you mean that thing downstairs with Maria?"
-"That was nothing more than a foolish trick to deceive {f:5:children}.
- Everyone knew {f:5:that}.
- ......Was it really necessary to go so far to destroy that {f:5:illusion}?
- ...I cannot {f:5:understand}."
+"That was nothing more than a foolish trick to deceive CHILDREN.
+ Everyone knew THAT.
+ ......Was it really necessary to go so far to destroy that ILLUSION?
+ ...I cannot UNDERSTAND."
 It had been a childish fight.
  ......Erika didn\'t need Dlanor to tell her that.
 "......Well, I am a self‐proclaimed intellectual rapist.
  I can\'t stand having magic confuse the truth."
-"And so, you feel pleasure from exposing {f:5:that}?
- ......I sense a different {f:5:emotion}."
+"And so, you feel pleasure from exposing THAT?
+ ......I sense a different EMOTION."
 "A different emotion?
  .........What\'s that?"
 "To me, it feels less like pleasure,
- ......and more like a different, negative {f:5:emotion}."
+ ......and more like a different, negative EMOTION."
 "Hah, ......you really are a murder doll, aren\'t you?
  Even your eyes are like knotholes."
-".........My {f:5:apologies}.
- Please forgive {f:5:me}."
+".........My APOLOGIES.
+ Please forgive ME."
 Erika rolled over grumpily, turning her back to Dlanor.
 Because of this, Dlanor couldn\'t see her expression.
 ......Even so...
@@ -104,12 +104,12 @@ Interpreting this to mean that Erika wanted her to go away,
 Then, Erika suddenly spoke.
 The words came so far out of the blue that Dlanor doubted her ears,
  and she had to ask Erika to say it again.
-"......What did you just {f:5:say}?"
+"......What did you just SAY?"
 "I love you."
 It really was......out of the blue.
 Dlanor wanted to ascertain what Erika really meant,
  but the latter still had her back turned, and her face was out of sight...
-"............Thank you very {f:5:much}."
+"............Thank you very MUCH."
 "I was going out with another girl before, but I\'ve completely broken up with her.
  Others are gonna be jealous of us and say things that aren\'t true, but don\'t pay them any attention."
 "................................."
@@ -199,7 +199,7 @@ Because we can {y:1:‘see’}{n:1:see} it, ......we doubt.
 "..........................."
 "..............................
  ......What about you? How would you have countered my endgame?"
-"How would...{f:5:I}?"
+"How would...I?"
 "That useless man wasn\'t fit to be my opponent.
  ......I was wondering how you would have countered it?"
 "...................................."
@@ -211,13 +211,13 @@ Erika\'s side had constructed a blue truth based on countless bits of circumstan
  and was already cornering the opponent.
 For some time, Dlanor thought in silence...
 ...and announced her by‐the‐book response.
-"First {f:5:move}.
+"First MOVE.
  ......
-I request that you submit evidence that I have been {f:5:cheating}."
+I request that you submit evidence that I have been CHEATING."
 "Counter with the blue truth.
  I present eighty‐four points of circumstantial and physical evidence."
-"Counter with the blue {f:5:truth}.
- I present six points of circumstantial and physical evidence that I still love {f:5:you}."
+"Counter with the blue TRUTH.
+ I present six points of circumstantial and physical evidence that I still love YOU."
 "<Good>.
  Blue and blue cancel each other out, but the number of pieces used to construct each is overwhelmingly unbalanced."
 When both opponents meet with the blue truth,
@@ -226,11 +226,11 @@ When both opponents meet with the blue truth,
 So, by the standard rules, Erika would win...
 "First point to me.
  Your next move?"
-"............I will attempt to switch offense and {f:5:defense}.
- I ask that you, Lady {f:5:Erika}, provide proof that you are not {f:5:cheating}."
+"............I will attempt to switch offense and DEFENSE.
+ I ask that you, Lady ERIKA, provide proof that you are not CHEATING."
 "Perpetual check.
  That\'s a forbidden move, since it\'d result in an endless repetition of the same question going both ways."
-"Then I frankly declare that, despite a lack of proof, I still love you even {f:5:now}."
+"Then I frankly declare that, despite a lack of proof, I still love you even NOW."
 "Not red truth and therefore invalid.
  Even if it was red, that\'d be a stalemate.
  After all, I\'d have no move to counter with."
@@ -252,8 +252,8 @@ But that meant that regardless of what the real truth had been,
 ...............
 "......Any other moves?
  O witch‐hunting archbishop, protector of the truth?"
-".........{f:5:No}.
- ......I {f:5:resign}."
+".........NO.
+ ......I RESIGN."
 "See? There you go.
  ..................Hmph..."
 Erika had succeeded in crushing her opponent with the truth she espoused...
@@ -268,36 +268,36 @@ And with that, Erika spoke no more.
 ......She was probably done talking and wanted Dlanor to leave.
 Dlanor understood this, but even so,
  .........she wanted to tell Erika just one thing before leaving.
-"A splendid game, Lady {f:5:Erika}."
+"A splendid game, Lady ERIKA."
 "It\'s only natural that the detective wins."
-"Even before you became Lady {f:5:Bernkastel}\'s piece, you truly were a splendid wielder of the blue {f:5:truth}.
- .........However, Lady {f:5:Erika}.
- {y:0:Human}{n:0:Human}s are only allowed to use the blue {f:5:truth}.
- And the only thing that can counter blue truth is red {f:5:truth}.
- And {y:0:Human}{n:0:human}s are not allowed to use the red {f:5:truth}."
+"Even before you became Lady BERNKASTEL\'s piece, you truly were a splendid wielder of the blue TRUTH.
+ .........However, Lady ERIKA.
+ {y:0:Human}{n:0:Human}s are only allowed to use the blue TRUTH.
+ And the only thing that can counter blue truth is red TRUTH.
+ And {y:0:Human}{n:0:human}s are not allowed to use the red TRUTH."
 "............In that case,
- ...how should your opponent have shown his {f:5:truth}?"
+ ...how should your opponent have shown his TRUTH?"
 ".........Who knows.
  ......Maybe he should have used that gold truth or whatever, which is supposed to be stronger than the red truth at times."
 "...........................
- ......You certainly were the victor in that {f:5:game}.
- However, allow me to say this as a protector of the {f:5:truth}."
+ ......You certainly were the victor in that GAME.
+ However, allow me to say this as a protector of the TRUTH."
 "What?
  ......I imagine it\'s something unpleasant, so say it and go away."
-"......{f:5:Yes}.
- .........Our game did end with your {f:5:victory}.
+"......YES.
+ .........Our game did end with your VICTORY.
  However,
- ......you still have not denied the six points of blue truth evidence that I showed to claim that I still loved {f:5:you}.
- ......Even you are {f:5:{y:0:Human}{n:0:human}}.
- You are unable to use the red truth that would disprove those {f:5:points}."
+ ......you still have not denied the six points of blue truth evidence that I showed to claim that I still loved YOU.
+ ......Even you are {Y:0:HUMAN{n:0:human}}.
+ You are unable to use the red truth that would disprove those POINTS."
 "Later on, I used the detective\'s authority to have all eighty‐four points transformed into red truth.
  By the power of my master...!
  I am {y:0:Human}{n:0:human}, yet superior to {y:0:Human}{n:0:human}s.
  A detective and a witch.
- I am the Witch of Truth, Furudo {f:5:Erika}.
+ I am the Witch of Truth, Furudo ERIKA.
  Any other questions? Parting remarks?"
-".........I have {f:5:none}.
- ......In that case, please excuse {f:5:me}."
+".........I have NONE.
+ ......In that case, please excuse ME."
 Dlanor bowed and disappeared.
 ......After that, all that remained was a single Witch of Truth laughing off a bitter past...
 with an equally bitter smile...
@@ -507,7 +507,7 @@ From Eva\'s perspective as she looked down from the sky,
  Ahahahahahahyahhaaah!!!"
 The vast, red spiderweb on the ground scooped up George as easily as scooping scum out of a pot.
 Then, it lifted him into the air like a deer caught in a net and swung him about.
-{f:5:Eva}\'s insane laugh was as innocent as a grade schooler happily swinging about a bag filled with her gym clothes...
+EVA\'s insane laugh was as innocent as a grade schooler happily swinging about a bag filled with her gym clothes...
 ...and cruel in equal measure.
 "...Gah...............gwooh.........kkhh...!!"
 "*giggle*giggle*!!
@@ -665,7 +665,7 @@ courage and chivalry, how to be ambitious and witty and humorous, and just a lit
 ...going on about...?!!
  Time to get back in Mother\'s womb!!
  I\'ll nurture you in a sea of warmth once more!!!"
-As {f:5:Eva} howled, another bright red spiderweb appeared at George\'s feet and tried to scoop him up into the air again.
+As EVA howled, another bright red spiderweb appeared at George\'s feet and tried to scoop him up into the air again.
 However, that instant...
 ...a powerful magic circle could be seen in the area surrounding George for just a moment.
 Faster than he could be scooped up by the spiderweb, George jumped,
@@ -685,10 +685,10 @@ who needs to let go, Mother.
 "R‐ready for what?!"
 "‘If you\'re ready...
 may I fight back?’"
-The curtain of spiderwebs that {f:5:Eva} shot out in defense were all too slow.
+The curtain of spiderwebs that EVA shot out in defense were all too slow.
 George weaved through them in that instant, and the next, he was right before her eyes...
 ".........Ahh, aaaaaaaarrggghhh!!"
-{f:5:Eva} jumped out of the way of a kick that would have knocked her feet out from under her,
+EVA jumped out of the way of a kick that would have knocked her feet out from under her,
  ......then blocked the second half of George\'s double roundhouse with a high kick of her own.
 "I guess there is one extracurricular activity I can thank you for."
 "O‐...oh, and what day of the week was that......?!"
@@ -697,13 +697,13 @@ George weaved through them in that instant, and the next, he was right before he
  I\'m glad, George, to hear you\'re grateful for at least one thing!!
  Your mother is happy!!
  Kyahhahahaaaah!!!"
- {f:5:Eva}\'s swift feet flashed like lightning.
+ EVA\'s swift feet flashed like lightning.
 Low,
  low,
  low,
  mid‐level attack.
 As George\'s head fell forward, she caught it in both hands as though she was about to smash it against the ground.
-It was then met with {f:5:Eva}\'s knee as it rose like a bolt of lightning from the earth.
+It was then met with EVA\'s knee as it rose like a bolt of lightning from the earth.
 "You should have learned Muay Thai too!
  It would have been more fun to have learned it with you!!"
 "......You\'re right.
@@ -717,14 +717,14 @@ It was then met with {f:5:Eva}\'s knee as it rose like a bolt of lightning from 
  I even love the way you kick inside me!!"
 "Got it.
  But this kick\'s coming from the outside of your belly."
-George buried his knee sharply into {f:5:Eva}\'s abdomen.
-An instant before she felt the pain of that fierce attack, {f:5:Eva} watched her son\'s kick with a proud smile......and then she vomited.
+George buried his knee sharply into EVA\'s abdomen.
+An instant before she felt the pain of that fierce attack, EVA watched her son\'s kick with a proud smile......and then she vomited.
 "Ghuurk!!!
  Gghh, ............gguurk!!"
 "You\'re getting on in years, Mother.
  ......Maybe it\'s about time you held back on wearing childish clothes like that."
 "G‐.........Geeeeeoooooooorge......!!!"
-Her chin still covered in vomit, {f:5:Eva} looked up at George in twisted anguish.
+Her chin still covered in vomit, EVA looked up at George in twisted anguish.
 She could see how pathetic her face was by her reflection in his glasses.
 "Both you and I...
 ...need to leave our childhood days behind.
@@ -734,12 +734,12 @@ The violent lightning and rain...
 George\'s beautiful kick...
 ......had stopped an inch from Eva\'s chest.
 However, the power of the red magic circle surrounding George...
-...had already pierced {f:5:Eva}\'s body.
+...had already pierced EVA\'s body.
 Though he had stopped without hitting her,
- .........blood poured out of {f:5:Eva}\'s back.
+ .........blood poured out of EVA\'s back.
 No wound had been left on her chest,
  ......but the heart inside it had been struck through......
-{f:5:Eva} slumped backwards...
+EVA slumped backwards...
 ......and landed in a puddle with a splash.
 There were no convulsions.
 ......Her life had been ended without leaving her even an instant to writhe about in pain...
@@ -748,7 +748,7 @@ There were no convulsions.
 As he straightened his glasses, ......George spoke to the rose thicket behind him.
 Then, a pitch‐black hole opened in the air there, ......and Gaap jumped out.
 ".........Impressive.
- ......Even considering that it was before her ascension, you managed to defeat {f:5:Eva Beatrice}."
+ ......Even considering that it was before her ascension, you managed to defeat EVA BEATRICE."
 "I thought you were there.
  ......Thanks for not interfering.
  I\'m glad we were able to keep it between mother and son."
@@ -773,10 +773,10 @@ His majesty made Gaap gulp,
  That never‐opened VIP room on the second floor of the mansion."
 "............Ah, that room.
  As you wish, Your Majesty."
-Gaap approached {f:5:Eva}\'s corpse and lightly tapped the ground with her right heel.
+Gaap approached EVA\'s corpse and lightly tapped the ground with her right heel.
 When she did, a large hole opened up, swallowed both Gaap and the corpse, and closed.
 After a while, a small hole opened in the air,
- and the staff {f:5:Eva} always carried, which was marked with the One‐winged Eagle that symbolized the head of the Ushiromiya family, was spat out into a puddle...
+ and the staff EVA always carried, which was marked with the One‐winged Eagle that symbolized the head of the Ushiromiya family, was spat out into a puddle...
 Because the corpse would no longer have any use for it.
 "...................................."
 George slowly approached that staff,
@@ -836,7 +836,7 @@ George appeared to have distanced himself from the events on the demons\' game b
 "................................."
 "......Heheh, are you getting cold feet?"
 "N‐......no......
- ......Th‐the {f:5:Beatrice} that Battler‐san desires......would not be shaken by the likes of this..."
+ ......Th‐the BEATRICE that Battler‐san desires......would not be shaken by the likes of this..."
 ""Well then, who will take the next trial?!""
 "It can be anyone! Please choose the next victim!!"
 "It can be anyone! Let the next challenger step forward!!"

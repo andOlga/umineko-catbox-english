@@ -775,7 +775,7 @@ Kinzo, your enterprises are truly interesting!
 Furniture, try and see if you can hunt me...!
 Tonight, two seeds of love have been sown.
 ...Including the one already sown, that makes three!
-"{f:5:Beatrice}...
+"BEATRICE...
  Why...did you leave me alone in this painful world...?
  ......I detest you.
  You are yearned after this much, and yet make no attempt to answer... I will detest you for all eternity!"
@@ -785,7 +785,7 @@ Tonight, two seeds of love have been sown.
  You do not understand, you do not understand my grief and sadness!
  Even though I believed that as my oldest friend, at least you would understand my pain!!
  Why is it so incomprehensible to you?!"
-"Oooooohhh, {f:5:Beatriceeee},
+"Oooooohhh, BEATRICEEEE,
  why did you leave me alooooone......?!!"
 "..........................."
 "Uuuuughhu!

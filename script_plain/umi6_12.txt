@@ -257,18 +257,18 @@ So, she was forced to quickly check all of the crime scenes now,
 In the servant room, there had been a clear folder containing a plan of the mansion\'s interior.
 Because she had borrowed that, she knew the location of every room in the mansion...
 Erika efficiently made her way through the mansion, dashing into each crime scene in turn...
-"Lady {f:5:Erika}, ......I believe you know, but allow me to warn you just in {f:5:case}."
+"Lady ERIKA, ......I believe you know, but allow me to warn you just in CASE."
 "Yes? What is it?"
-"It is true that you have an incredible photographic {f:5:memory}.
- ......When you combine that with the detective\'s proclamation, it becomes impossible for you to be fooled by {f:5:anything}."
+"It is true that you have an incredible photographic MEMORY.
+ ......When you combine that with the detective\'s proclamation, it becomes impossible for you to be fooled by ANYTHING."
 "Oh, I know what you\'re going to say.
  ......Since I haven\'t made the detective proclamation, even my photographic memory could potentially be fooled.
  Of course, I understand that.
  ......Still, that doesn\'t mean I can afford to go without viewing the crime scenes directly."
 "......After all, in the last game, my pride in that regard led me to commit a truly agonizing blunder."
 "To take an extreme case, no matter how well you examine a person\'s corpse right now,
- the possibility will always remain that they were faking their {f:5:death}.
- It will probably be necessary to give Battler repetition requests to confirm the details of each situation {f:5:individually}."
+ the possibility will always remain that they were faking their DEATH.
+ It will probably be necessary to give Battler repetition requests to confirm the details of each situation INDIVIDUALLY."
 "And I\'ll need to use the blue truth liberally in order to draw those out of him.
  ......I know that.
  Let\'s start with the basics.
@@ -301,20 +301,20 @@ I haven\'t yet used a repetition request to get confirmation that it\'s impossib
 I won\'t fail like that again......
 If I let that happen even once more,
  ......I won\'t be able to face the master I\'m so indebted to......
-"We have checked all of the crime scenes and finished gathering {f:5:information}.
- Here is our {f:5:report}."
+"We have checked all of the crime scenes and finished gathering INFORMATION.
+ Here is our REPORT."
 "Go ahead."
 "First, all of the rooms employ window locks and chain locks...
-to form locked rooms in a way that would be "difficult to interfere with from the {f:5:outside}".
- The only exception is the parlor, where Rosa and Maria lay {f:5:dead}."
+to form locked rooms in a way that would be "difficult to interfere with from the OUTSIDE".
+ The only exception is the parlor, where Rosa and Maria lay DEAD."
 "For your attention: I beg to inform you of the following.
  Let it be known that the door was barred with a hat stand."
 "It is thought to be substantially the same as a chain lock, in that it can only be set from the inside."
-"It is probably his goal to construct locked rooms where explanations using master keys are made completely {f:5:ineffective}.
- The parlor has no chain lock due to its very nature, so it is natural that something else would be used in place of a {f:5:chain}."
+"It is probably his goal to construct locked rooms where explanations using master keys are made completely INEFFECTIVE.
+ The parlor has no chain lock due to its very nature, so it is natural that something else would be used in place of a CHAIN."
 "......In that case, the interesting question becomes why he didn\'t choose one of the other rooms that do have a chain lock.
  There are several other guest rooms besides the one Battler lay dead in, all with a similar construction, correct?"
-"Yes, that is {f:5:correct}."
+"Yes, that is CORRECT."
 "In that case, it would have been more aesthetically pleasing to lock them in there, so that everyone would be inside a room locked by a chain, yet he did not do that.
  ......This hat stand door bar in the parlor seems very suspicious.
  I should probably investigate it thoroughly with repetition requests.
@@ -402,10 +402,10 @@ It was the same for Erika......
  ......Go find me another interesting game board.
  If you do, I\'ll play with you again..."
 "Ahhhh..................you really don\'t ever let me get bored.
- ......Be like this forever, {f:5:Bernkastel}.
+ ......Be like this forever, BERNKASTEL.
  Seeing your face twist with anguish is the one forbidden honey I\'ve found for myself."
-{f:5:Lambdadelta} had guaranteed that it was a perfect locked room.
-{f:5:Bernkastel} had guaranteed that it was a perfect murder.
+LAMBDADELTA had guaranteed that it was a perfect locked room.
+BERNKASTEL had guaranteed that it was a perfect murder.
 A perfect
  "locked‐room"
  "murder".
@@ -428,18 +428,18 @@ The witches hated to be a killjoy, so they wouldn\'t yet say anything with the r
  ......Then let\'s start simple and confirm the definition of a locked room.
  Dlanor!
  Please read it aloud."
-"{f:5:Understood}.
- ......We request that the following be {f:5:repeated}."
+"UNDERSTOOD.
+ ......We request that the following be REPEATED."
 Dlanor unfurled the kind of scroll often depicted in Western fairy tales when an official reads a royal decree,
  and she read the contents aloud.
 "First.
- "The rooms with the six people in them are all locked {f:5:rooms}"."
+ "The rooms with the six people in them are all locked ROOMS"."
 "
 Acknowledged}.
  Of course, that\'s only until Gohda and the others severed the chains and destroyed the locked rooms."
 At a nod from Dlanor, Cornelia, who stood behind her, started taking notes.
 "Second.
- "The definition of locked room implies that it is impossible to construct from the {f:5:outside}"."
+ "The definition of locked room implies that it is impossible to construct from the OUTSIDE"."
 "
 Acknowledged}."
 "......In other words, no trickery done from the outside can construct a locked room.
@@ -447,12 +447,12 @@ Acknowledged}."
 "I didn\'t need you to tell me that.
  Dlanor, please continue."
 "Third.
- "The definition of a locked room implies that all forms of interference between the inside and outside of the room are {f:5:prevented}"."
+ "The definition of a locked room implies that all forms of interference between the inside and outside of the room are PREVENTED"."
 "
 Acknowledged}.
  However, I won\'t rule out the kinds of interference that you\'d expect from a normal room, such as knocks, voices, and the extension telephone line."
 "Fourth.
- "At the time of the breaking of the locked rooms, none existed within the rooms except the {f:5:victims} (Natsuhi, Eva, Kyrie, Rosa, Maria, Battler)"."
+ "At the time of the breaking of the locked rooms, none existed within the rooms except the VICTIMS (Natsuhi, Eva, Kyrie, Rosa, Maria, Battler)"."
 "
 Acknowledged}."
 This was to check that the murderer hadn\'t been hiding inside a locked room.
@@ -462,7 +462,7 @@ Because Battler had acknowledged their statement with the red truth,
  this possibility—that the culprit and the victim had both been inside the locked room at the time of the crime, following which the culprit had hid under the bed and snuck out after the discovery of the crime—
 had now been eliminated.
 "Fifth.
- "No murder was committed after the breaking of the locked {f:5:rooms}"."
+ "No murder was committed after the breaking of the locked ROOMS"."
 "I decline."
 "......Why?
  Because the victims really were alive at the point when the locked rooms were destroyed?
@@ -475,8 +475,8 @@ had now been eliminated.
  
 Krauss\'s group cut the chains and destroyed the locked rooms, then killed the people inside}.
  I just want you to argue against this."
-"Lady {f:5:Erika}, ......the undefined plurality of "Krauss\'s group" is {f:5:insufficient}.
- You should first check to see which humans entered the rooms after the locked rooms were {f:5:broken}."
+"Lady ERIKA, ......the undefined plurality of "Krauss\'s group" is INSUFFICIENT.
+ You should first check to see which humans entered the rooms after the locked rooms were BROKEN."
 "For your attention:
  ......excepting the victims, the only ones to enter the locked rooms were these four: Krauss, Rudolf, Hideyoshi, and Gohda."
 "For your attention:
@@ -534,14 +534,14 @@ Therefore, they have neither a technical nor a moral obligation to respond to re
 "......Not bad. ......Looks like you can handle being a player on the witch side pretty well too."
 "Your experience is no match for mine."
 "Tch...! Dlanor!"
-"Let us {f:5:continue}.
- Sixth, "the victims did not die by any method other than {f:5:homicide}"."
+"Let us CONTINUE.
+ Sixth, "the victims did not die by any method other than HOMICIDE"."
 "
 Acknowledged}."
 "Of course, there were no suicides or accidental deaths."
 "Seventh, ‘the victims—"
 "That\'s enough, Dlanor."
-"......Are you {f:5:sure}?
+"......Are you SURE?
  There are still items..."
 "Yes, that will do fine.
  I\'ve confirmed the status of the crime scenes.
@@ -551,7 +551,7 @@ Acknowledged}."
 Though Battler and Erika were enemies,
  ......it looked to Beato as though they were having a little fun doing it.
 ......She was probably slightly jealous of Erika.
-Beato thought back on the books she had read in {f:5:Featherine}\'s archives, in which the old her and Battler had fought.
+Beato thought back on the books she had read in FEATHERINE\'s archives, in which the old her and Battler had fought.
  ......That must have been fun as well.
 During a short break in the family conference, a horrible, brutal mass murder had occurred...
 Excluding Battler, the six people killed had all been women......

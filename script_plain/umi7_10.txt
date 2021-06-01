@@ -40,8 +40,8 @@ This isn\'t the first time this has happened.
 It happens all the time.
 Every time I set something down, it always disappears.
 It goes somewhere else. Vanishes.
-I\'ve come to think that these might be pranks by the witch {f:5:Beatrice}.
-The ghost of the witch {f:5:Beatrice} borrowed the power of Rokkenjima\'s evil spirits to become reborn.
+I\'ve come to think that these might be pranks by the witch BEATRICE.
+The ghost of the witch BEATRICE borrowed the power of Rokkenjima\'s evil spirits to become reborn.
 Until Kumasawa‐san told me, I never knew the meaning of the shrine on the rocks by the sea.........
 "Kumasawa told an old, old tale, passed down among the local fishermen.
  Rokkenjima used to be known as Akujikijima,
@@ -78,8 +78,8 @@ Until Kumasawa‐san told me, I never knew the meaning of the shrine on the rock
 "I heard that, long ago, one kid went into the study and never came out!"
 "She must have been a victim of an experiment to give Beatrice\'s ghost a new body!"
 "Hoh‐hoh‐ho.
- Yes, {f:5:Beatrice}‐sama has become a ghost, and wanders around searching for a body.
- The VIP room on the second floor is where {f:5:Beatrice}‐sama dwells...
+ Yes, BEATRICE‐sama has become a ghost, and wanders around searching for a body.
+ The VIP room on the second floor is where BEATRICE‐sama dwells...
  You must always be respectful when cleaning that room...
  Otherwise...
 .........uhihihihihhihhi~!"
@@ -139,7 +139,7 @@ The darkness grew and grew.
 I dashed around and around the chapel, tears streaming down my face...
 As I stumbled about pathetically,
  I could feel the presence of a prankster witch, giggling at me from under the door and up by the ceiling.
-The ghost of {f:5:Beatrice}, the Master\'s mistress, wanders about in search of a body to this very day.
+The ghost of BEATRICE, the Master\'s mistress, wanders about in search of a body to this very day.
 As she gains the power of Rokkenjima\'s evil spirits, her strength steadily grows, and she waits for the day of her resurrection.
 And, ......for some reason, she\'s singled me out,
  and if I ever take my eyes off something for a second, she snatches it away and hides it.
@@ -182,7 +182,7 @@ I can tell.
 No, that\'s not quite it.
  Until the very moment I walked up to this window, I\'m sure it was right by this window frame.
 That\'s right, I\'m sure I put it right here by this window.
-But the prankster witch {f:5:Beatrice} uses her magic,
+But the prankster witch BEATRICE uses her magic,
  and just before I reach this spot, she instantly teleports the small broom to the next window over.
 The instant I approach the next window,
  a hole appears beneath the small broom, swallowing it up.
@@ -197,7 +197,7 @@ But if I stop searching, it\'ll be just sitting there by one window or another.
 So, this isn\'t a search.
  It\'s a test of endurance.
 I keep chasing after the small broom,
- and {f:5:Beatrice} keeps making it escape to the next window over, trying to make me give up.
+ and BEATRICE keeps making it escape to the next window over, trying to make me give up.
 This is an eternal chase...that\'ll end only when one of us gives up...!
 So, I keep going around in circles searching the windows, even when I know I\'ve already searched them.
 If it\'s not by this one, then the next one, and the next one.
@@ -276,7 +276,7 @@ And when I looked down from there...
 She turned around...
 ......and raised her eyes to look at my mind\'s eye, floating by the ceiling...
 ......At last,
- I could {y:1:‘see’}{n:1:see} the witch {f:5:Beatrice}...
+ I could {y:1:‘see’}{n:1:see} the witch BEATRICE...
 ...with my mind\'s eye......
 "A mere {y:0:Human}{n:0:human}...
 ...grasped my form......?"
@@ -408,9 +408,9 @@ Oh, I am one yet many.
 "The first friend I made after coming to the island was apparently not a {y:0:Human}{n:0:human} at all.
  However, when I think back on it, it was only natural.
  What other sort of friend would you expect to make on a witch\'s island?
- This was the first meeting between me and {f:5:Beatrice}."
-"......However, as the more perceptive among you may have noticed, this was not a meeting with the real {f:5:Beatrice}.
- The witch I then called {f:5:Beatrice} would later be known by another name."
+ This was the first meeting between me and BEATRICE."
+"......However, as the more perceptive among you may have noticed, this was not a meeting with the real BEATRICE.
+ The witch I then called BEATRICE would later be known by another name."
 "......However, the fact remains that she was clearly not human.
  And being bonded with one who is not human means being bonded with their world.
  I still had no means of knowing the strange fate that awaited me on Rokkenjima......"

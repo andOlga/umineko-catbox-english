@@ -32,8 +32,8 @@ Hideyoshi looked around at everyone to see who wanted to sleep first, but no one
  Well, don\'t overdo it, everyone."
 "If we get tired, we can think about it then.
  ......I certainly am tired, but I\'m not in the mood now."
-Eva spoke sharply, and then read once more over the second letter from {f:5:Beatrice}, which had been found in the boiler room.
-{f:5:Beatrice} had sent them two letters, and had repeatedly told them to solve the riddle of the epitaph.
+Eva spoke sharply, and then read once more over the second letter from BEATRICE, which had been found in the boiler room.
+BEATRICE had sent them two letters, and had repeatedly told them to solve the riddle of the epitaph.
 And she had even provoked them by saying she would give up the inheritance, both assets and headship, if it could be solved...
 Eva took out a notebook and opened it to a page with the epitaph copied onto it.
 "............Is that the epitaph?"
@@ -404,8 +404,8 @@ Rosa hung her head, troubled over how she should answer.
  Was I a little too friendly with Battler‐kun?
  Maybe it would be better if the old people went away and left everything to the young kids."
 "Pu ku ku ku ku..."
-When {f:5:Virgilia} and Ronove giggled and cackled,
- {f:5:Beatrice}\'s irritation meter finally reached its limit.
+When VIRGILIA and Ronove giggled and cackled,
+ BEATRICE\'s irritation meter finally reached its limit.
 "Ahhhh, the both of you joining forces and laughing at me!
  Ronove, hide yourself for a while!
  Go away, go awaaaay!"
@@ -413,8 +413,8 @@ When {f:5:Virgilia} and Ronove giggled and cackled,
  Then, I will rest for a while.
  Pukkukukuku..."
 Ronove bowed his head, still laughing, and hid himself.
-After that, all that remained was the figure of {f:5:Beatrice}, who was grumpy and irritated,
- and {f:5:Virgilia}, who was coolly enjoying her tea.
+After that, all that remained was the figure of BEATRICE, who was grumpy and irritated,
+ and VIRGILIA, who was coolly enjoying her tea.
 "...............When you said "
 There are no more than 18 people on this island}", you actually cornered yourself."
 ".........I thought so...
@@ -426,7 +426,7 @@ There are no more than 18 people on this island}", you actually cornered yoursel
 In addition to his victory condition of denying the witch,
  Battler had held onto a different victory condition, since he had wanted to explain things without suspecting any of the 18.
 Hadn\'t he been at his weakest when he was being tossed about by these two opposing goals?
-However, {f:5:Beatrice} had used the red carelessly, and had proclaimed that there were no more than 18 people.
+However, BEATRICE had used the red carelessly, and had proclaimed that there were no more than 18 people.
 ...Because of that, Battler had been forced to suspect one of the 18,
  .........and he had finally begun to build up the readiness that he needed to accept that.
 Battler was stubborn,
@@ -447,7 +447,7 @@ this game will prove a difficult one for you."
  You and Battler and even Ronove keep treating me like a snack.
  ...Even though I\'m not sweet at allll."
 With a shameful, childlike face that she would never have shown in front of Battler,
- {f:5:Beatrice} rolled her head around on top of the table.
+ BEATRICE rolled her head around on top of the table.
 "............Masteeer.
  .........At least a hiiint."
 "Oh?
@@ -478,7 +478,7 @@ With a shameful, childlike face that she would never have shown in front of Batt
  I\'ll think about it myself, so please!
  Please, give me one that\'ll leave Battler down in the dumps, Masterrrr."
 It was truly shameful how she behaved when Battler wasn\'t around, even though she acted utterly like a Great Witch in front of him.
-{f:5:Virgilia} sighed, lamenting under her breath that Beato never seemed to grow up.
+VIRGILIA sighed, lamenting under her breath that Beato never seemed to grow up.
 "Then just a hint.
  ......Do you know of Aesop\'s fable, The North Wind and the Sun?"
 "Of course.
@@ -503,7 +503,7 @@ It was truly shameful how she behaved when Battler wasn\'t around, even though s
  How foolish!
  I will not sink so low!"
 Grrrrrrrrrrr..., Beato growled, like a dog in a bad mood.
-{f:5:Virgilia} shrugged her shoulders, snickering at her disciple, who was as short‐tempered as always...
+VIRGILIA shrugged her shoulders, snickering at her disciple, who was as short‐tempered as always...
 "That is my hint.
  Now you should think deeply.
  .........In any event, your moves up until now will not work on Battler‐kun.

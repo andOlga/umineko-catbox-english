@@ -443,13 +443,13 @@ However,
  ......that probably doesn\'t mean Father would be happy to hear me call him by his name.
 After all,
  .........I am me...
-......and not the {f:5:Beatrice} my Father knows well.
+......and not the BEATRICE my Father knows well.
 ......What can I do...
 ...to help Father......?
 How can I be useful to him?
 That\'s the only reason I was born......
 Hanging her head,
- {f:5:Beatrice} sat all alone in the Golden Land\'s arbor that was next to the rose garden...
+ BEATRICE sat all alone in the Golden Land\'s arbor that was next to the rose garden...
 This scene was watched by the Witch of Theatergoing and her miko as they sat across from each other...
 ".........Poor kid."
 "I never thought I\'d see you feel compassion for Beato..."
@@ -468,7 +468,7 @@ The witch knew that she was an illusion created in the image of the person she o
 And she also knew that it would only hurt Battler to try and pretend to be that person.
 ".........And even so, this Beato wants to be useful to Battler.
  ...How admirable."
-"Is that the purpose of the witch known as {f:5:Beatrice}?"
+"Is that the purpose of the witch known as BEATRICE?"
 "......That is what she claims.
  She says that she was created to be of service to Battler."
 "So, the Beato who was born for Onii‐chan\'s sake eventually commits a serial murder...
@@ -476,7 +476,7 @@ and drags Onii‐chan into a bizarre game that she calls eternal torture?
  I don\'t get it."
 "I believe you also understand that one can become a different person over a thousand years..."
 ......At the very least,
- {f:5:Beatrice} was once a pure creature who was born for Battler\'s sake.
+ BEATRICE was once a pure creature who was born for Battler\'s sake.
 It is also very clear that, in her current feeble state,
  she does not possess any of the courage or the motivation needed to bring about those horrifying serial murders.
 If so, ......that means the sinister witch we all know...
@@ -500,19 +500,19 @@ So, does that mean something bad happened during those six years that made her h
  ......There\'s something I\'d like to know."
 "Hoh‐hoh‐ho...
  Very well, what is it?"
-".........My name is {f:5:Beatrice}...
+".........My name is BEATRICE...
 ...isn\'t it?"
 "Yes, that is correct.
- You are {f:5:Beatrice}‐sama, Milady."
-"However, ......the {f:5:Beatrice} that Father talks about...isn\'t me."
+ You are BEATRICE‐sama, Milady."
+"However, ......the BEATRICE that Father talks about...isn\'t me."
 "......Well........."
 "I think Father wanted me to be that person.
  But no matter how much I look like her...I\'m a different person.
  ......I think that might be why he\'s disappointed in me..."
 "That isn\'t true...
- You are you, {f:5:Beatrice}‐sama herself."
+ You are you, BEATRICE‐sama herself."
 "......You have merely lost your memory of the past after being newly reborn...
- Even without your memory, you are still {f:5:Beatrice}‐sama.
+ Even without your memory, you are still BEATRICE‐sama.
  You are the same person whom the Master loves."
 "......So then,
  ......how can I regain those memories...?"
@@ -520,12 +520,12 @@ So, does that mean something bad happened during those six years that made her h
 Beato looked at Kumasawa with hopeful eyes, as though praying that she would tell her the way.
 ......Kumasawa averted her gaze unhelpfully, as though trying to say that she would if only such a way existed...
 "If I can\'t regain them,
- ......can\'t you at least tell me what kind of person the {f:5:Beatrice} Father loved was?"
+ ......can\'t you at least tell me what kind of person the BEATRICE Father loved was?"
 "Th‐......that is something I can tell you, but......"
 "
 I was born for Father\'s sake}.
- So, I want to become the Golden Witch {f:5:Beatrice} that Father desires."
-"......B‐......{f:5:Beatrice}‐sama......"
+ So, I want to become the Golden Witch BEATRICE that Father desires."
+"......B‐......BEATRICE‐sama......"
 "I can\'t use magic.
  ......But if the witch Father desires could use it, then I will learn.
  I want to become the witch he desires.
@@ -538,7 +538,7 @@ I was born for Father\'s sake}.
  Let us open the door which leads back to the world of witches."
 "......So, you\'re going to make her read aloud the stories about her previous self.
  ...Yes, I want to know too.
- The tale of how the Golden Witch {f:5:Beatrice} was created."
+ The tale of how the Golden Witch BEATRICE was created."
 "........................
  ...Very well.
  If you wish it,
@@ -557,17 +557,17 @@ With a golden flash, the form of the old lady transformed into that of a witch i
  If you wish, you may even return back the way you came."
 "I\'ll move on forward.
  ......I don\'t want to spend a thousand years in this garden drinking tea.
- ......I, {f:5:Beatrice}, was born for Father\'s sake.
+ ......I, BEATRICE, was born for Father\'s sake.
  So I want to live for Father\'s sake.
  Please tell me...about the Golden Witch."
 ......The great witch spread her arms,
- communicating {f:5:Beatrice}\'s unbending determination to the brilliant heavens.
+ communicating BEATRICE\'s unbending determination to the brilliant heavens.
 At that moment, a brilliant light covered the two of them,
  and before they knew it, they were in a strange study.
 There sat the great old witch who was the master of these archives, along with her miko.
-...{f:5:Virgilia} gave a deep and elegant bow.
+...VIRGILIA gave a deep and elegant bow.
 "......It is the greatest of honors to be in your presence.
- Lady {f:5:Featherine Augustus Aurora}, the majestic Witch of Theatergoing, Drama, and Spectating."
+ Lady FEATHERINE AUGUSTUS AURORA, the majestic Witch of Theatergoing, Drama, and Spectating."
 "Raise your head, child of man.
  ......I shall give that child the privilege of browsing my archives as she pleases for a time.
  ......Ange, my miko.
@@ -575,24 +575,24 @@ There sat the great old witch who was the master of these archives, along with h
 "Sure, sure, as you wish, my master.
  You could just say that you want to see her story, you know."
 "Miko of the Witch of Theatergoing.
- ......I leave {f:5:Beatrice} in your care."
+ ......I leave BEATRICE in your care."
 "......Pleased...
 ...to meet you......"
 ".....................
- ......The {f:5:Beatrice} you\'re trying to become......was suffering from something.
+ ......The BEATRICE you\'re trying to become......was suffering from something.
  ...At the very least, you\'ve been released from that for now.
  ......Will you really go on a journey to regain those shackles...?"
 "Y‐......yes.
  ......I want to become the Golden Witch.
  ......That is the reason I was born."
 "In order that her journey through Purgatory may be a pleasant one,
- and that she may be granted protection as she travels, I ask your assistance by the name of the Endless and Finite Witch, {f:5:Publius Virgilia Maro}."
+ and that she may be granted protection as she travels, I ask your assistance by the name of the Endless and Finite Witch, PUBLIUS VIRGILIA MARO."
 "Huh? Oh, uh...
  ......Let it be known that as the miko of the Witch of Theatergoing and as the Endless Witch and Apprentice Witch of Resurrection,
- I, {f:5:Ange Beatrice}, do accede to your request and all that stuff..."
-{f:5:Featherine} snorted.
+ I, ANGE BEATRICE, do accede to your request and all that stuff..."
+FEATHERINE snorted.
 "......So,
- ......your name is also {f:5:Beatrice}......?"
+ ......your name is also BEATRICE......?"
 ".........Yes.
  I know a lot about you."
 "Please teach me.
@@ -604,7 +604,7 @@ There sat the great old witch who was the master of these archives, along with h
  By reading them, you should be able to learn everything that has happened before now..."
 "By reading them, can I become the Golden Witch......?"
 "......To become the Golden Witch, one must solve the epitaph of the gold.
- ......And this trial cannot be skipped, not even by {f:5:Beatrice} herself......"
+ ......And this trial cannot be skipped, not even by BEATRICE herself......"
 "I, I\'ll do my best.
  So please, let me read the books in this archive...!"
 "......As worthy of admiration as ever.
@@ -619,16 +619,16 @@ She could do nothing except watch over the stage.
 Yes—they weren\'t actually interfering with the play.
 This was just a bit of directing...to shine the spotlight onto the tale of Beato\'s past.
 Even this was nothing more than the Witch of Theatergoing watching a play.
-"If you read, you will learn what kind of a person the old {f:5:Beatrice} was.
+"If you read, you will learn what kind of a person the old BEATRICE was.
  ......However, you must decide what you will take from that experience...
  ......You are free to stay in the archive or leave the archive or even return to the archive again later.
  ......In compensation, I will watch your play."
 "Watch my play...?"
 "......It means you can do whatever you want."
 "Th‐thank you very much, Augusauau......umm—"
-"She likes it when you call her {f:5:Featherine}."
-"Thank you very much, {f:5:Featherine}‐sama......"
-After being welcomed in by {f:5:Featherine}, ......Beato set out on a journey to discover herself.
+"She likes it when you call her FEATHERINE."
+"Thank you very much, FEATHERINE‐sama......"
+After being welcomed in by FEATHERINE, ......Beato set out on a journey to discover herself.
 That tale connected the old tale with the new one.
  It wove them together.
 ......The thousand‐year‐old tale about her returned to its starting point, becoming a snake eating its own tail.
@@ -637,7 +637,7 @@ That island......was Rokkenjima.
 The thousand years of the witch born on this island...were tied to the island.
 Was it a thousand years, or just six?
 ......Or did this tale start even further back into the past?
-{f:5:Beatrice} went out on a journey to find herself......
+BEATRICE went out on a journey to find herself......
 The wind had been strengthening since a while back.
 The breaking waves had grown fierce.
 The ferryboats probably wouldn\'t be coming for a while now.

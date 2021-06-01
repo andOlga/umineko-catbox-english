@@ -243,9 +243,9 @@ However, the woman in the portrait had beautiful golden hair, and didn\'t look J
 As though trying to show off her knowledge, Maria answered that simple question with authority.
 "Uu!
  I know.
- {f:5:Beatrice}!"
+ BEATRICE!"
 "Bea......what?"
-"......{f:5:Beatrice}.
+"......BEATRICE.
  She\'s the witch.
  Didn\'t you ever hear about her, long ago?"
 "The witch?
@@ -276,11 +276,11 @@ That is the legend of the witch of Rokkenjima.
 So, when we say "witch" on this island, we\'re referring to the master of the vast and savage forest.
 Which reminds me, when I was little and stayed at this mansion, during the eerie nights where the wind and rain struck the windows,
  stories like "the witch of the forest is roaming around in search of a sacrifice" would scare the heck out of me...
-{f:5:Beatrice},
+BEATRICE,
  ...huh.
 .........As I searched my memory prompted by Aniki, I did vaguely remember being told that was her name, when I was very small.
 "...Riiight.
- Still, I completely forgot that the witch of that legend had an elegant name like {f:5:Beatrice}.
+ Still, I completely forgot that the witch of that legend had an elegant name like BEATRICE.
  ......Goddamn, don\'t tell me Grandfather went out of his way to have her depicted in this painting just because us grandchildren refused to believe him?"
 "......It\'s the witch from Grandfather\'s delusions.
  ...Ever since he had this picture hung up, he\'s been losing the distinction between fantasy and reality."
@@ -299,14 +299,14 @@ Jessica turned away, after glaring a second at the portrait.
 "Uu!
  Hungry!"
 ......Only a small portion of this island is controlled by the Ushiromiya family.
-If all of the wild remainder...was the witch {f:5:Beatrice}\'s domain...
+If all of the wild remainder...was the witch BEATRICE\'s domain...
 ......then one could say that she was the being who actually ruled over Rokkenjima.
 That unsettling ominous feeling I had felt on the boat trip, when I learned that the shrine had been struck by lightning, revived within me a bit.
 At that time, Kumasawa‐san had tried to tell an ominous story about Rokkenjima and had been stopped by Jessica.
 .........I didn\'t know what she had tried to tell us about this island.
 But, there was one thing I did know.
 ...Rokkenjima\'s ruler was not the Ushiromiya family.
-It was the witch, {f:5:Beatrice}.
+It was the witch, BEATRICE.
 Yes.
  ......Because this was the witch\'s island.
 "Battlerrr!
@@ -455,7 +455,7 @@ He spread his arms wide open, as if to sing to a packed opera house, as if appea
 "Why?!
  Why is there always something in my way?!
  I would throw it all away, I would offer up everything, and there is only one thing I ask in repayment!!"
-"Ohh, {f:5:Beatrice}, if I could see your smile but one more time, I would plunder the smiles of the Earth and offer them all up to you!!
+"Ohh, BEATRICE, if I could see your smile but one more time, I would plunder the smiles of the Earth and offer them all up to you!!
  Oooh, commanders of the locust legions, reap the smiles of the Earth, *coughcough*, *haaack* *kofkof*!!!
  Ahh, all is filthy, all is irksome!!"
 "Why must I suffer this impediment on this most precious of days?!?!
@@ -600,7 +600,7 @@ Kinzo gave a thin smile, as if to say he didn\'t need compliments.
  And Maria is obscene to the eye!!"
 "Why, why is the Ushiromiya blood so incompetent?!!
  Is there anyone worthy to inherit the glory I built?!
- Ahh, of course, I know, this is {f:5:Beatrice}\'s curse, I know it!!
+ Ahh, of course, I know, this is BEATRICE\'s curse, I know it!!
  ...Aah, Golden Witch, is this supposed to be your revenge against me?"
 "Hate me if you wish!
  Run away if you wish!!
@@ -609,10 +609,10 @@ Kinzo gave a thin smile, as if to say he didn\'t need compliments.
  You cannot be anywhere but in my arms!
  You are my entire life!"
 "You\'ll continue to whisper for all eternity in my bird cage to me, only to me!!
- {f:5:Beatrice}......
+ BEATRICE......
  Why...won\'t you give me back your smile...
  OOOoooooh, OOOooOOOoooh...!!
- {f:5:BeatriceeEeEEeeEee}!!
+ BEATRICEEEEEEEEEEE!!
  OOOoooOOOOoohh......"
 After howling, Kinzo choked once again.
 Genji set the tray and the glass down and patted his master\'s back...
@@ -649,8 +649,8 @@ He spread his arms as if appealing to someone up in the skies.
 "And if...!!!
  If I were to have what it takes to obtain that miracle...!!
  .........Oooh...
-{f:5:Beatrice}...
-{f:5:Beatrice}...
+BEATRICE...
+BEATRICE...
  Show me your lovely smile once more..."
 "No matter how much time passes, your face does not vanish...
  I just want to see your smile...that is all...!
@@ -659,7 +659,7 @@ He spread his arms as if appealing to someone up in the skies.
  I don\'t need fortune, prestige, gold!!
  I\'ll return everything you granted me!!"
 "I just want to see your smile!!
- I beg of you, {f:5:Beatrice}!!
+ I beg of you, BEATRICE!!
  OOOoooooOooh...oOoOOoh...ooh...!!"
 ......His nonsensical yells segued into a scream, ...and then into a wail.
 Kinzo crumpled onto the floor, and clawed at it with both hands.

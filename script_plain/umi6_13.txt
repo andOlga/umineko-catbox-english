@@ -126,8 +126,8 @@ It was the old, familiar kind of fight, reminiscent of the time when the red tex
 "First, in all cases, it was the victims themselves that constructed the locked rooms.
  Also, those locked rooms were perfectly preserved until Krauss\'s group broke them open.
  Also, I confirmed that during that period, all forms of interference from the outside were impossible."
-Erika reported this proudly as though it had been a great battle, but {f:5:Bernkastel} looked bored as she listened.
-After looking at her blankly for a second, {f:5:Lambdadelta} spoke her opinions frankly.
+Erika reported this proudly as though it had been a great battle, but BERNKASTEL looked bored as she listened.
+After looking at her blankly for a second, LAMBDADELTA spoke her opinions frankly.
 ".........Wait a second.
  Doesn\'t that mean this locked‐room murder was perfect?"
 "Wha......uh......"
@@ -184,8 +184,8 @@ If she had performed it with the detective\'s authority, she could have said wit
 However, without the detective proclamation, it was 99%.
  ......There was a 1% chance that she made a mistake, and that overturned the foundation of the examination.
 The reason Erika had gained the detective\'s authority and become the Witch of Truth...
-...was that {f:5:Bernkastel} had supplemented her talent of 99 with an additional 1...
-Just because {f:5:Bernkastel} wouldn\'t give her that 1,
+...was that BERNKASTEL had supplemented her talent of 99 with an additional 1...
+Just because BERNKASTEL wouldn\'t give her that 1,
  ......in the world of witches, Erika\'s 99 was treated exactly the same as zero...
 Even her talented assistant Dlanor couldn\'t be put to proper use without a power of 100.
 When working under an Erika who had lost the detective\'s authority, Dlanor\'s red longsword lost its power.
@@ -224,7 +224,7 @@ By now, it was clear that Erika hadn\'t abandoned the detective proclamation by 
 "And now............what kind of an ending is this...?
  Have I won?
  Of course not! ......Battler\'s gotten his hands on a victory that neither you nor I can stand."
-"...I came all the way out here to see {f:5:Beatrice} lamely and pathetically torn to bits,
+"...I came all the way out here to see BEATRICE lamely and pathetically torn to bits,
  and I endured a staggering period of boredom just for that one purpose.
  I didn\'t come here to sip from a.........rotten yogurt fragment like this!"
 "Ahh, your angry face is wonderful too, Bern.
@@ -279,7 +279,7 @@ Though he had just arrived, he seemed to realize immediately that the mood was d
 "To settle the score with Erika, since our previous duel ended in an even tie."
 ".........Battler......"
 "Ev...en......tie...?"
-{f:5:Bernkastel} noticeably grimaced.
+BERNKASTEL noticeably grimaced.
 Erika averted her eyes and hung her head, timidly...
 "I know what you\'re thinking.
  That wasn\'t a draw,
@@ -292,7 +292,7 @@ Erika averted her eyes and hung her head, timidly...
  Where?!
  Hey, what\'s going on?!
  If you tell me it\'s written in ink only morons can\'t see, then death, death, super death for you!!"
-{f:5:Lambdadelta} pulled a mirror out of thin air, peered into it, and made a comical fuss.
+LAMBDADELTA pulled a mirror out of thin air, peered into it, and made a comical fuss.
  She was apparently playing the fool in her own, special way.
 ".........Erika."
 "Wh‐......what is it?"
@@ -300,20 +300,20 @@ Erika averted her eyes and hung her head, timidly...
 "......Th‐.........thanks."
 "What happened to Dlanor this time?
  Are you by yourself?"
-".........{f:5:No}.
- ......I have been waiting {f:5:here}."
+".........NO.
+ ......I have been waiting HERE."
 Dlanor had been just standing around in reserve,
  hiding her presence in the dark shadows...
 "Well, when she can\'t use her red longsword, Dlanor is just useless pukespittle.
  There\'s no point having her around, so I\'ve dropped her from the action."
-"............All I can do now is keep records of Lady {f:5:Erika}\'s {f:5:reasoning}."
+"............All I can do now is keep records of Lady ERIKA\'s REASONING."
 "Why won\'t you fight with her?
  Why can\'t you use that red longsword?
  ......Erika\'s reasoning...and your longsword.
  They were strong because they worked together."
 ".............................."
 Dlanor didn\'t answer.
- She just glanced slightly at {f:5:Bernkastel}\'s expression.
+ She just glanced slightly at BERNKASTEL\'s expression.
 ......However, that glance was the same as a clear answer for Battler now.
 Battler fully realized the situation......
 "You.
@@ -358,12 +358,12 @@ and cast you into the depths of oblivion with the empty popcorn buckets!!"
  This kid can\'t control her emotions sometimes."
 "Shut up...
  Who can\'t control her emotions...?!"
-{f:5:Bernkastel}, who, at one point in time, had never showed any expressions at all,
+BERNKASTEL, who, at one point in time, had never showed any expressions at all,
  was now twisting her face into all kinds of displeased and ugly shapes.
-When {f:5:Lambdadelta} made fun of that,
- {f:5:Bernkastel} clicked her tongue and looked away.
+When LAMBDADELTA made fun of that,
+ BERNKASTEL clicked her tongue and looked away.
 As they say, nothing can stop poison but poison.
- ......Apparently, {f:5:Lambdadelta} was the only one who could rein {f:5:Bernkastel} in.
+ ......Apparently, LAMBDADELTA was the only one who could rein BERNKASTEL in.
 "......Erika, you want to fight Battler, clear your name, and get Bern back into a good mood, right?"
 "Y‐......yes..."
 "Battler, you want this "final game" that\'ll prove you\'ve found the truth...
@@ -385,8 +385,8 @@ to have a proper, tidy conclusion, right?"
 ".........Hmph."
 "Dlanor can\'t use her red longsword because the detective proclamation hasn\'t been made.
  If Erika makes that, she\'ll regain her power right away. Right?"
-"......{f:5:Yes}.
- When that time comes, forgive {f:5:me}."
+"......YES.
+ When that time comes, forgive ME."
 "Erika."
 "What...?"
 "Make the detective proclamation."
@@ -394,13 +394,13 @@ to have a proper, tidy conclusion, right?"
  ......No."
 "Do you really think you can beat me as I am now without the detective\'s authority?"
 ".........I...I can win......"
-"......Lord {f:5:Battler}.
- ...Lady {f:5:Erika} is herself a {f:5:piece}.
- She cannot disobey her master\'s {f:5:orders}.
- All she can do is gather the power permitted to her......and fight for {f:5:survival}."
+"......Lord BATTLER.
+ ...Lady ERIKA is herself a PIECE.
+ She cannot disobey her master\'s ORDERS.
+ All she can do is gather the power permitted to her......and fight for SURVIVAL."
 "And Dlanor, your power can\'t be used at all without the detective proclamation?"
-".........In order to unsheathe the Red Key, authorization is {f:5:required}.
- One of the preconditions for applying for that authorization is the detective {f:5:proclamation}."
+".........In order to unsheathe the Red Key, authorization is REQUIRED.
+ One of the preconditions for applying for that authorization is the detective PROCLAMATION."
 "Is there any other way to obtain that authorization besides the detective proclamation?"
 "Wh‐......what are you saying...?!
  I‐if you\'re doing this out of pity for me, I don\'t need your help!"
@@ -408,22 +408,22 @@ to have a proper, tidy conclusion, right?"
  You\'re no challenge on your own and it\'s boring me stiff.
  So zip it, you non‐detective detective."
 "......Ghh.................."
-"The Red Key has an extremely close relationship with the red {f:5:truth}.
- ......If and only if a "truth" is provided, I am permitted to draw the Red Key for items that pertain to {f:5:it}."
+"The Red Key has an extremely close relationship with the red TRUTH.
+ ......If and only if a "truth" is provided, I am permitted to draw the Red Key for items that pertain to IT."
 "What do you mean by a "truth"...?"
 "...........................
- ......For example, ......there are Lady {f:5:Erika}\'s duct tape {f:5:seals}."
+ ......For example, ......there are Lady ERIKA\'s duct tape SEALS."
 "Ah, ......those."
-"Lady {f:5:Bernkastel} has already acknowledged that those seals are equivalent in value to the red {f:5:truth}.
- Therefore, I am authorized to draw the Red Key for truths pertaining to those {f:5:seals}."
+"Lady BERNKASTEL has already acknowledged that those seals are equivalent in value to the red TRUTH.
+ Therefore, I am authorized to draw the Red Key for truths pertaining to those SEALS."
 "Those caused me a lot of trouble last time,
  so I had all the sticky duct tape removed from the game board this time around."
-"......A splendid {f:5:move}."
+"......A splendid MOVE."
 "............Erika was proud to be able to call herself the detective, wasn\'t she?"
-"{f:5:Yes}...
- ......Though her only goal was to irresponsibly reveal mysteries, ......it was a matter of pride for {f:5:her}."
+"YES...
+ ......Though her only goal was to irresponsibly reveal mysteries, ......it was a matter of pride for HER."
 "Then, she must really be suffering now that she can\'t make that proclamation."
-"...............Only she could tell you {f:5:that}."
+"...............Only she could tell you THAT."
 "................................."
 Battler took a deep breath, then hung his head in thought for a time.
 ......Erika was his enemy,
@@ -445,10 +445,10 @@ However, that doesn\'t mean I need to hate Furudo Erika herself.
  You have allies."
 "Except that they\'re unreliable, powerless, and useless pukespittle."
 "Dlanor.
- ......Just like I was supported by {f:5:Virgilia} and Ronove in the past, Erika needs support as well.
+ ......Just like I was supported by VIRGILIA and Ronove in the past, Erika needs support as well.
  I know from repeated experience that playing for the {y:0:Human}{n:0:human} side is tough."
-"......{f:5:Yes}.
- I will assist her with all the power I {f:5:possess}."
+"......YES.
+ I will assist her with all the power I POSSESS."
 "For your attention: we are in agreement."
 "For your attention: know that it is our job."
 "Hmph.
@@ -464,12 +464,12 @@ However, that doesn\'t mean I need to hate Furudo Erika herself.
 To fully seal one room, multiple seals are needed to cover all the doors and windows.
 If he had just said "three seals", she would only be able to fully seal up one room at best.
 So, Battler was generous and measured them by room instead of by seal...
-"......Lord {f:5:Battler}......"
+"......Lord BATTLER......"
 "As the Game Master, I will also acknowledge that these seals have the same effect as the red truth.
  ......This way, you\'ll also be able to wield that red longsword in battles based around those seals.
  Right...?"
-".........{f:5:Yes}...
- .........But...are you {f:5:certain}?"
+".........YES...
+ .........But...are you CERTAIN?"
 "Winning against Erika when she\'s less than a detective is hardly a victory.
  If Erika\'s upping the stakes, then I should have the right to do the same."
 "Whew, what a man!
@@ -483,9 +483,9 @@ So, Battler was generous and measured them by room instead of by seal...
 Though it was only for three rooms, it was the red truth that Erika had been dying to use.
 Now, she finally had enough leeway to fight as she pleased.
 ......She ground her teeth at being pitied by Battler, but her tears were not those of shame.
-"......{f:5:Understood}.
- Three rooms\' worth of duct tape seals, {f:5:accepted}.
- ......Regarding this matter, should we consider them as being accepted retroactively, back when Lady {f:5:Erika} received the non‐sticky duct tape from Mrs. Kumasawa?"
+"......UNDERSTOOD.
+ Three rooms\' worth of duct tape seals, ACCEPTED.
+ ......Regarding this matter, should we consider them as being accepted retroactively, back when Lady ERIKA received the non‐sticky duct tape from Mrs. Kumasawa?"
 Erika had borrowed duct tape from Kumasawa to make seals with.
 However, Battler had made it so that those were not sticky...
 If he made it so that there never was any problem with the stickiness of that duct tape, the transition could be made smoothly.
@@ -494,9 +494,9 @@ If he made it so that there never was any problem with the stickiness of that du
  ......The duct tape that Erika received from Kumasawa‐san late at night on the first day was sticky enough to work as a seal,
  but there was only enough left to use on three rooms.
  ......I\'ll apply that from here on out."
-"{f:5:Understood}.
- ......Lady {f:5:Erika} will also retroactively adjust her movements, starting before the discovery of the first twilight and taking into account that the application of this privilege is now {f:5:possible}.
- ......As soon as these changes affect the progression of the game, they will be reported to the Game {f:5:Master}."
+"UNDERSTOOD.
+ ......Lady Erika will also retroactively adjust her movements, starting before the discovery of the first twilight and taking into account that the application of this privilege is now possible.
+ ......As soon as these changes affect the progression of the game, they will be reported to the Game MASTER."
 ".........Letting you do it retroactively, even though you know which rooms the crime will occur in...
  ...That gives you a pretty big advantage.
  You won\'t have to waste tape on other rooms."
@@ -584,13 +584,13 @@ The illusion that Erika was at an overwhelming disadvantage was just an act.
  Dumbaaaaaaaaaaaaass!!"
 "I\'ll show you a real perfect locked room!
  And I could cry for joy at the fact that you gave me the weapon that will finish you...!
- My master! And Lady {f:5:Lambdadelta}...!
+ My master! And Lady LAMBDADELTA...!
  Thank you so much for assisting with my performance!"
 "It was fun.
  No need to thank me."
 "......Plus I wasn\'t acting.
  *giggle*giggle*."
-Despite getting the feeling that {f:5:Bernkastel} had just said something a little curious, Erika was in too high spirits to care.
+Despite getting the feeling that BERNKASTEL had just said something a little curious, Erika was in too high spirits to care.
 That pudding‐for‐brains moron, thinking he\'s done something so noble!
 I\'ll make you regret it, kuhihihi!!
 "Alright!
@@ -600,13 +600,13 @@ I\'ll make you regret it, kuhihihi!!
 "..........................."
 "Don\'t tell me your conscience is hurting.
  You little murder doll."
-"............{f:5:No}."
+"............NO."
 Dlanor looked at Erika in a slightly lonely way.
 ......Then, after shaking her head slightly, her gaze turned hard, and she looked at the darkness Battler had disappeared into.
-".........You knew that this was a no‐holds‐barred {f:5:fight}...
- .........Foolish, Lord {f:5:Battler}.
- This is, without a doubt, the result of your {f:5:arrogance}."
-............Mr. Battler, ...this will prove {f:5:fatal}......
+".........You knew that this was a no‐holds‐barred FIGHT...
+ .........Foolish, Lord BATTLER.
+ This is, without a doubt, the result of your ARROGANCE."
+............Mr. Battler, ...this will prove FATAL......
 "First of all, congratulations are in order, wouldn\'t you say, Furfur?!"
 "Yes, because we have learned that each and every one of the lovers possesses a strong will!"
 ""This is a victory for love...!
@@ -689,11 +689,11 @@ It is said to be a place where love and lives are all whole and can be revived..
 "Like hell we\'re gonna choose by drawing lots.
  Let\'s have a duel, fair and square."
 "......Though if we do that, I imagine that Battler‐kun, who is the Game Master,
- and {f:5:Beatrice}, who is still the Golden Witch despite having no memory, ......will have a substantial advantage."
+ and BEATRICE, who is still the Golden Witch despite having no memory, ......will have a substantial advantage."
 "Ah, ......w‐......well, I wonder about that..."
 "Don\'t worry!
  For this trial, we have made everyone\'s powers completely equal."
-"Even the Game Master, Lord {f:5:Battler}, is taking this trial on an even footing with everyone else."
+"Even the Game Master, Lord BATTLER, is taking this trial on an even footing with everyone else."
 "In that case, ......it\'s fair......"
 "Is it completely and purely even?"
 ""Yes, perfectly even!

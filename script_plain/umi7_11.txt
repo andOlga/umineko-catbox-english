@@ -45,7 +45,7 @@ And this is the third time it\'s happened.
 The first two times, I realized that it wasn\'t in my pocket, and managed to find it before anyone found out.
 But the third time, Madam found it.
 I was really mad and frustrated with that witch in the red dress.
-"Hoh‐hoh‐ho, {f:5:Beatrice}‐sama\'s pranks can be quite troublesome.
+"Hoh‐hoh‐ho, BEATRICE‐sama\'s pranks can be quite troublesome.
  But if you\'re dealing with a witch, shouldn\'t you be able to use some sort of charm?"
 "A charm...?"
 Kumasawa‐san started fishing through the kitchen cupboards, saying "now where did that get to".
@@ -59,7 +59,7 @@ She stretched it out for me to see, then used a knife to cut off a 50 cm piece.
 "Good, I\'m glad you remember.
  It is said that the spiderwebs on this island are imbued with magical power, and that they are very effective at repelling evil.
  See? If you stretch it out like this, it looks like a spiderweb, doesn\'t it?
- Hoh‐hoh‐ho, this way, that spiderweb‐hating {f:5:Beatrice} won\'t be able to prank you anymore."
+ Hoh‐hoh‐ho, this way, that spiderweb‐hating BEATRICE won\'t be able to prank you anymore."
 That......does make sense.
 It really does look like a spiderweb when pulled tight.
  .........Since Kumasawa‐san says so, it must have some pretty strong evil‐repelling power.
@@ -105,7 +105,7 @@ I hurried to pick it up,
  took the other end of the string and tied it to my pocket button, and put the key in my pocket.
 "See, "I\'m ho~me".
  Master Key gets lonely so easily, so let\'s take him home right after we use him, okay?
- If you keep making little friends like this, even {f:5:Beatrice}‐sama won\'t be able to prank you much longer..."
+ If you keep making little friends like this, even BEATRICE‐sama won\'t be able to prank you much longer..."
 Jangle, thud.
 When break time was over and I stood up to see what I should help with next,
  I felt a tug, and the key ring with the master key fell to the floor.
@@ -129,7 +129,7 @@ Yay, I\'m home!
 All of a sudden, I heard a wild, shocked voice from over my shoulder.
 It was a voiceless voice.
  A witch\'s voice, the kind you can\'t hear unless you try.
-".........{f:5:Beatrice}...?"
+".........BEATRICE...?"
 "That\'s me, my friend.
  You forgot about your key again, so I was just about to use it to toy with you...!"
 "It\'s a spiderweb charm that Kumasawa‐san showed me.
@@ -150,7 +150,7 @@ It was a voiceless voice.
  Wahahahaha, it is only natural that I be thanked, don\'t you agree?"
 "Nn, ......nnnnn......"
 I really don\'t like it, but she does have a point.
-Because of all the trouble {f:5:Beatrice} caused me, I told Kumasawa‐san and learned the charm from her.
+Because of all the trouble BEATRICE caused me, I told Kumasawa‐san and learned the charm from her.
 Even without the witch\'s pranking,
  ......if I didn\'t have the charm, I would have gone to my next job and left the master key here.
 If that happened, ......then surely, I wouldn\'t have been able to find the key, and it would\'ve been a big mess.
@@ -193,12 +193,12 @@ If that happened, ......then surely, I wouldn\'t have been able to find the key,
  ......I am well aware of your weaknesses.
  I will be waiting for you to knock over a bucket and get scolded just like usual."
 "*giggle*.
- ......Thank you, {f:5:Beatrice}."
+ ......Thank you, BEATRICE."
 Back when I could not yet {y:1:‘see’}{n:1:see} her...
 I simply hated this prank‐loving witch.
 But now that I could talk with her, ......it seemed to me that she was not all bad.
 Of course, I felt no need to be grateful to her.
-The witch {f:5:Beatrice} despises boredom, and subsists on mocking the misfortune of others.
+The witch BEATRICE despises boredom, and subsists on mocking the misfortune of others.
 {y:0:Human}{n:0:Human}s and witches are different.
  Incompatible beings.
 And yet, ......it felt as though we could become friends.
@@ -207,7 +207,7 @@ Of course, she was still a witch.
 However, not being careless is a very good thing.
 Using charms and tricks to pay attention, so that her pranks would no longer work on me, was not a bad thing by any means.
 Those techniques would be useful for my job and my life, even without the witch\'s pranks.
-Yes, this witch called {f:5:Beatrice} would go to any lengths to make a point.
+Yes, this witch called BEATRICE would go to any lengths to make a point.
 I learned that it was possible to build up a friendship through verbal abuse...
 "Ever since then, there was an incredible change in that kid."
 "Because of all the charms?!"
@@ -232,7 +232,7 @@ I learned that it was possible to build up a friendship through verbal abuse...
 "Still, doesn\'t that sound like fate?!"
 "After all, you knew this kid was Beatrice\'s child, didn\'t you?"
 "Yes, I did know."
-"So you told Beatrice\'s child that "the witch {f:5:Beatrice} will play pranks on you unless you put your stuff away neatly"...
+"So you told Beatrice\'s child that "the witch BEATRICE will play pranks on you unless you put your stuff away neatly"...
  ......That\'s kind of funny, isn\'t it?"
 "Hoh‐hoh‐hoh‐ho......
  I just thought of it after the child came and told me that a witch was stealing things and pulling pranks."
@@ -437,7 +437,7 @@ Since if you don\'t trust that, what can you trust, or it\'s just one of the ass
 "If a trick exists, it is a human novel.
  If not, it is a witch novel.
  If you just tear out the last few pages of that book you\'re reading,
- you might think of that person as {f:5:Unknown}, a witch on the same level as me...!"
+ you might think of that person as UNKNOWN, a witch on the same level as me...!"
 "......That might be surprisingly wise, coming from you.
  ......So, the culprit of detective novels without an answer is a witch."
 "All of the dark places in this world belong to us witches.
@@ -467,7 +467,7 @@ Since if you don\'t trust that, what can you trust, or it\'s just one of the ass
  I really like thinking of it that way."
 "*cackle*!
  Starting now, and until you finish reading,
- I am {f:5:Unknown}, the 495‐year‐old witch!
+ I am UNKNOWN, the 495‐year‐old witch!
  Can you see through my deserted island murder tricks?
  Ahihhyahahahaha!"
 "......I have formed one theory.

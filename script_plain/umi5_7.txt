@@ -118,11 +118,11 @@ Natsuhi and the others had managed to deal with this crisis somehow.
 "Apparently, Battler‐sama does not intend to become the master of the Golden Land.
  ......It now seems that no one will become our master."
 "That is also fate.
- It has been several decades since we first manifested in the {y:0:Human}{n:0:human} world through our bond with Lord {f:5:Goldsmith}.
+ It has been several decades since we first manifested in the {y:0:Human}{n:0:human} world through our bond with Lord GOLDSMITH.
  ......It was all very fun."
 ".........Come on, Lia, you sound like an old lady.
  ......So, what\'re we going to do?
- According to Riiche and {f:5:Goldsmith}\'s rules, now that Battler\'s solved the epitaph and decided not to become our master,
+ According to Riiche and GOLDSMITH\'s rules, now that Battler\'s solved the epitaph and decided not to become our master,
  we\'ve been relieved from duty, right?"
 "That\'s true.
  ......I have no regrets at all.
@@ -134,7 +134,7 @@ Natsuhi and the others had managed to deal with this crisis somehow.
  ......Witches aren\'t allowed to break contracts, but they also must not fail to show gratitude."
 "......True.
  We should serve her until the family conference ends."
-"In that case, you won\'t be relieved from duty for a while either, Lord {f:5:Goldsmith}.
+"In that case, you won\'t be relieved from duty for a while either, Lord GOLDSMITH.
  ......Perhaps you should wait until you\'ve overcome this family conference safely, said goodbye to Natsuhi‐sama at the very least,
  ......and if possible, rewarded her for all her efforts."
 "...............Hmm.
@@ -363,7 +363,7 @@ This child has nothing to gain from having someone solve the epitaph}."
 "............Are you sure that\'s alright?
  Using the red truth like that without her permission."
 "......It is what she would want."
-{f:5:Virgilia}, who had suddenly appeared there, gave me an immediate answer to my question with the red truth...
+VIRGILIA, who had suddenly appeared there, gave me an immediate answer to my question with the red truth...
 "In the past, I sometimes guessed that the reason Beato was trying to make us solve the epitaph...
 was that she wanted to make us find the gold\'s hiding place for her so that she could snatch it away.
  .........Is that wrong too?"
@@ -374,7 +374,7 @@ the gold of the Golden Land belongs to her from the start}.
  
 She has absolutely no need to make anyone find it for her or to snatch it away herself}."
 Of course.
- ......Beato is {f:5:Beatrice} the Golden.
+ ......Beato is BEATRICE the Golden.
 She\'s the master of the Golden Land and the Ushiromiya family alchemist.
 ...That makes total sense.
 However, if that\'s true, that makes me even more confused.
@@ -407,7 +407,7 @@ Because she\'s saying that she\'ll stop the epitaph murders if the epitaph is so
 Like two sides on a balanced scale.
 That means that the epitaph\'s riddle and massacring the entire family...
 have equal significance from Beato\'s point of view......
-But {f:5:Virgilia} responded with the red text.
+But VIRGILIA responded with the red text.
 
 Regardless of whether the epitaph is solved or not, Beato has nothing to gain}.
 If she has nothing to gain, then this epitaph\'s riddle...is meaningless and immaterial to Beato.
@@ -490,7 +490,7 @@ Everything about the epitaph murders......is full of useless ornament and empty 
 "Huh?
  ......Like I said, us.
  .............................."
-After hearing that one line {f:5:Virgilia} spoke so casually, ......my thoughts clouded over once again...
+After hearing that one line VIRGILIA spoke so casually, ......my thoughts clouded over once again...
 Is it really enough...
 to just use the vague word "us"......?
 There are a lot of people in the Ushiromiya family.
@@ -547,14 +547,14 @@ And it isn\'t to have revenge on someone either}."
  ......I don\'t get it!!
  The more I think about it, the less I understand what she\'s thinking!"
 "...................................."
-{f:5:Beatrice},
+BEATRICE,
  the fickle witch who committed a meaningless, worthless serial murder.
 Even the riddle of the epitaph, which she made into a condition to suspend the serial murders,
  is meaningless, immaterial.
 And......she\'s thrusting this meaningless, immaterial thing in front of my face.
 ......What is it......that you want from me...?
 ......Or else, what is it that you want to give me......?
-My idea that Beato must have been taking revenge on me...has already been refuted in red by {f:5:Virgilia}.
+My idea that Beato must have been taking revenge on me...has already been refuted in red by VIRGILIA.
 Both X and Y...
 Both the epitaph murders and the epitaph\'s riddle...mean nothing to Beato.
 X=Y=0.

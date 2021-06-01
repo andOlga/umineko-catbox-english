@@ -3,13 +3,13 @@
  Our game just now."
 "......A game that one‐sided goes beyond captivating and becomes boring."
 "*cackle*cackle*. My, my, a harsh critic as always.
- ......And I was so certain that even Lady {f:5:Bernkastel}, who has no love for boredom,
+ ......And I was so certain that even Lady BERNKASTEL, who has no love for boredom,
  would surely be satisfied by this compelling development... How remorseless."
 "...Well, I\'ll accept that it was compelling.
  ...However, it was horrible as a fair game.
  You need the conditions to be a little more even, or—"
 "......Am I about to be told there\'s no way to win?
- By Lady {f:5:Bernkastel}?
+ By Lady BERNKASTEL?
  ......*cackle*cackle*."
 "..................I wonder what you mean by that, Beato."
 "There\'s no need to play ignorant.
@@ -24,32 +24,32 @@
  And if so?"
 "......*cackle*cackle*!
  Truly interesting!"
-"That I should be granted a chance to fight against Lady {f:5:Bernkastel}, the strongest of witches who defeated Lady {f:5:Lambdadelta}, is truly a pleasure!!"
+"That I should be granted a chance to fight against Lady BERNKASTEL, the strongest of witches who defeated Lady LAMBDADELTA, is truly a pleasure!!"
 "......Yes.
  It is pleasing me too.
  After all, I came all this way just because I wanted to see you brimming with that confidence, only to fall apart and lose."
 "What an honest person.
  *cackle*cackle*!!"
-"Incidentally, if the contest between me and the great Lady {f:5:Bernkastel}...
+"Incidentally, if the contest between me and the great Lady BERNKASTEL...
 were not to have at least one observer, what a tremendous shame that would be."
 ".................................
  ...You called her, didn\'t you.
  That child."
 "Hoh‐hoh‐hoh‐hoh‐ho!
- I found you, I finally found you, {f:5:Bernkastel}!!"
+ I found you, I finally found you, BERNKASTEL!!"
 "............How are you, Lambda?
  Looks like you also have time to kill.
  ...I wonder if it\'s fate that we who share no love for boredom should run into each other again...?"
 "Such a dumb kid.
  Why can\'t you realize that the only reason you won against me was because of a little luck and a not‐so‐great matchup?
- That made you so snobby, and now you\'re even picking a fight with {f:5:Beatrice}? Shouldn\'t you learn your place?"
-"*giggle*, {f:5:Beatrice} is strong, you know.
+ That made you so snobby, and now you\'re even picking a fight with BEATRICE? Shouldn\'t you learn your place?"
+"*giggle*, BEATRICE is strong, you know.
  And she\'s more brutal than I am.
  Just a teensy bit!"
 "Oh and also, don\'t just shorten someone\'s name to Lambda!"
 ".........You\'re a fool too, Beato.
  This kid won\'t make exceptions for your game, she\'ll turn everything into a preposterous farce."
-"I didn\'t bring Lady {f:5:Lambdadelta} here solely to watch from the sidelines."
+"I didn\'t bring Lady LAMBDADELTA here solely to watch from the sidelines."
 "After I informed her that you were betting against me, she said that she would bet against you."
 "..............................You\'re still holding a grudge, aren\'t you."
 "Hoh‐hoh‐hoh‐ho!!
@@ -58,14 +58,14 @@ were not to have at least one observer, what a tremendous shame that would be."
 "So I\'m taking the side of anyone who\'s against youuuu!!"
 "*cackle*cackle*!
  There you have it.
- With the great Lady {f:5:Bernkastel} as our opponent, this may not even count as a handicap, but it will be suitable for entertainment."
+ With the great Lady BERNKASTEL as our opponent, this may not even count as a handicap, but it will be suitable for entertainment."
 "...............Do as you like.
  ...Now that the cat\'s out of the bag, I\'m going to get serious."
 "That would be suitable.
  "Leniency" has never featured in my dictionary.
  *cackle*cackle*cackle*cackle*cackle*!
- Lady {f:5:Lambdadelta}, let us enjoy our valuable new relationship."
-"Yes, I\'ll be counting on you, Lady {f:5:Beatrice}!
+ Lady LAMBDADELTA, let us enjoy our valuable new relationship."
+"Yes, I\'ll be counting on you, Lady BEATRICE!
  This girl really put me through the wringer.
  I\'m not gonna be happy until the two of us have smushed her up and paid her back double!!"
 "............I look forward to it, Lambda.
@@ -79,22 +79,22 @@ The three witches giggled, cackled, and guffawed.
  I should thank you, Beato.
  It looks like I can finally escape boredom.
  Do your best to entertain me.
- Together with {f:5:Lambdadelta}."
+ Together with LAMBDADELTA."
 "I shall do just that.
  *cackle*cackle*...!!"
 "That\'s that, Beato, so let\'s start a strategy meeting right now!
  I know all of this girl\'s weak points, and I\'m gonna teach you all of them!"
-"And yet, Lady {f:5:Lambdadelta}, you were defeated by her, I note... *cackle*cackle*...!"
+"And yet, Lady LAMBDADELTA, you were defeated by her, I note... *cackle*cackle*...!"
 "Urrrrrrrrgggh, I won\'t tell you, I won\'t tell you!
  Tsuun!"
 "*cackle*cackle* hahhahahahahahaha!
- ...She never bores, that Lady {f:5:Lambdadelta}."
+ ...She never bores, that Lady LAMBDADELTA."
 "............She doesn\'t, does she?
  Take care of her.
  She might not look it, but she gets lonely."
 "I see.
  So she\'s one of those newfangled whatchamacallits.
- *cackle*, as expected from Lady {f:5:Lambdadelta}.
+ *cackle*, as expected from Lady LAMBDADELTA.
  Quite cutting edge.
  *cackle*cackle*cackle*cackle*."
 "Go already.
@@ -125,7 +125,7 @@ But please, don\'t lose heart.
 Please don\'t submit to Beato, no matter what.
 Certainly, that child\'s game is quite unfair.
 I took a glimpse of the game board, and the tricks are so mean and cunning,
- and the scenic tricks are filthy to a degree that probably far surpasses that of {f:5:Lambdadelta}\'s game board.
+ and the scenic tricks are filthy to a degree that probably far surpasses that of LAMBDADELTA\'s game board.
 And what\'s even more frightening is that when that child moves a piece, it\'s not like she always makes the best possible move.
 This is where she is very different from Lambda.
 Lambda always uses an overpowering number of pieces and makes the best possible move, in order to win.
@@ -149,7 +149,7 @@ Defense is crucial during a witch\'s battle, you know?
 Rather than trying to win, try not to lose.
 ...If you lose when you accept her, then you definitely must not accept her.
 ......Making you accept witches.
-There is no longer any doubt that this is one of {f:5:Beatrice}\'s victory conditions.
+There is no longer any doubt that this is one of BEATRICE\'s victory conditions.
 Now that I have announced that I am your ally, I too will make an effort to lend you as much of my power as I can.
 Make an effort yourself as well.
 If you\'re still hugging your knees, quickly stand back up.
@@ -185,10 +185,10 @@ Are you still hugging your knees?
 You\'re already like this just because Beato got a little serious?
 Could you be any more pathetic?
 You\'re so pathetic, I\'ll help you just a little bit.
-I, the great Lady {f:5:Lambdadelta}, the Witch of Certainty and the strongest in the universe,
+I, the great Lady LAMBDADELTA, the Witch of Certainty and the strongest in the universe,
  will bring your hopeless chances of winning just a teensy bit closer to certainty.
  You better thank me.
-You know, {f:5:Beatrice} may really be a cruel and powerful witch, but she\'s no match for me.
+You know, BEATRICE may really be a cruel and powerful witch, but she\'s no match for me.
 Why?
  \'Cause she\'s soft.
 That kid will make the board so she can win with just a few more moves, but she deliberately won\'t finish you off.
@@ -209,14 +209,14 @@ That\'s why the type of witch like Bern who reads her opponent and dodges their 
  \'Cause reading her doesn\'t work.
 ...It\'s probably really easy for Bern to read and handle an obedient and honest type like me.
  That makes me so mad!
-...Well, still, a super‐firepower type like me can easily go head‐on against a light, wide‐range barrage type like {f:5:Beatrice},
+...Well, still, a super‐firepower type like me can easily go head‐on against a light, wide‐range barrage type like BEATRICE,
  so I guess it\'s kinda like rock‐paper‐scissors.
 If I\'m paper, Beato\'s rock.
 I guess Bern would be scissors.
 Weeelll, maybe none of that matters anyway.
 Sure, my paper loses to Bern\'s scissors,
  but if it was the way more awesome super‐paper, which is as thick as wood, it could even beat scissors, right?!
-In other words, I, Lady {f:5:Lambdadelta},
+In other words, I, Lady LAMBDADELTA,
  am super‐paper, and super‐thick!
  Hoh‐hoh‐hoh‐ho!
 It looks like the color\'s come back to your face a little.

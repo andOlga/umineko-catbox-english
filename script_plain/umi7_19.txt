@@ -92,8 +92,8 @@ By this point, I was starting to figure out the situation this Ange had come fro
  In your world, a different fate leads me to walk a different path through life, so that I do not live as an Ushiromiya family member."
 "...............Are you...a witch......?"
 "Sorry to disappoint you, but I\'m just an ordinary human.
- ......What I just told you is something I heard from the witch called {f:5:Bernkastel}‐san."
-".........{f:5:Bernkastel}?
+ ......What I just told you is something I heard from the witch called BERNKASTEL‐san."
+".........BERNKASTEL?
  That one with the long, blue hair and the gloomy face...?"
 "Y‐......yes.
  That probably describes her, I think......"
@@ -225,14 +225,14 @@ Rokkenjima.
  A world without Lion.
 ......The day of the Ushiromiya family\'s family conference.
 The mysterious letter that Maria read aloud after dinner, just as she had been told to.
-The writer of the letter claimed to be the Golden Witch {f:5:Beatrice} and challenged the family.
+The writer of the letter claimed to be the Golden Witch BEATRICE and challenged the family.
 Solve the riddle of the epitaph.
  Otherwise, I will take everything.
-It was the letter that declared the start of {f:5:Beatrice}\'s game, just as it had appeared in so many games before.
+It was the letter that declared the start of BEATRICE\'s game, just as it had appeared in so many games before.
 Had an unknown person appeared to complicate the inheritance problem?
 Where was the 20 billion yen\'s worth of gold hidden?
 What was the purpose of this letter? For what goal had it been written?
-Who on Earth was this {f:5:Beatrice}?
+Who on Earth was this BEATRICE?
 It was that tangled web of suspicion and paranoia that had been a constant in every game: .........the dinner of October 4th.
 "George‐kun.
  I\'m sorry, but could you take the others and go back to the guesthouse?
@@ -242,7 +242,7 @@ It was that tangled web of suspicion and paranoia that had been a constant in ev
  We will move straight on to the family conference."
 "Y‐yes.
  As you wish..."
-"{f:5:Beatrice}, the Golden Witch......
+"BEATRICE, the Golden Witch......
  What a fascinating letter you\'ve sent us..."
 "She\'s telling us to solve the epitaph...?
  Ridiculous.
@@ -269,7 +269,7 @@ It was that tangled web of suspicion and paranoia that had been a constant in ev
  That means there should be a Game Master.
  ......Who is it?
  .........That witch?
- {f:5:Bernkastel}......?"
+ BERNKASTEL......?"
 "I......can\'t imagine so.
  ......Clair should have vanished already.
  There should be no need to spin up a new tale..."
@@ -279,10 +279,10 @@ It was that tangled web of suspicion and paranoia that had been a constant in ev
  What do they want to show us......?"
 Before this tale began,
  Clair definitely appeared on the stage.
- She is "me" from a world of a different fate......and the teller of the tale that is {f:5:Beatrice}\'s game.
+ She is "me" from a world of a different fate......and the teller of the tale that is BEATRICE\'s game.
 However, didn\'t she entrust everything to Will and have all of her riddles solved?
 There should be no need for her to make new riddles......
-.........In that case, is {f:5:Bernkastel} using this tale to test me...?
+.........In that case, is BERNKASTEL using this tale to test me...?
 Along with Will, I have at least touched the deepest depths of this tale...and understood the culprit\'s heart.
 So, even if an entirely new tale presents itself, I should be able to see through the riddles.
 .........Is that...what my role is......?
@@ -320,7 +320,7 @@ However, at the very least, I do know who the culprit is...and what they were tr
  Isn\'t this the time for us all to stick together?"
 "That\'s right.
  The aim of this strange letter is probably to disrupt our unity.
- The more we let it affect us, the more things go the way of this "{f:5:Beatrice}" who sent it."
+ The more we let it affect us, the more things go the way of this "BEATRICE" who sent it."
 "Kyrie‐san\'s right.
  Wouldn\'t it be best to simply ignore a letter like that from the start?"
 "That is what I have been saying the whole time.
@@ -804,7 +804,7 @@ For some time, they forgot their age,
  What\'s it supposed to mean?"
 "The epitaph has been solved before the crime occurred.........and by all of the siblings together..."
 "That hasn\'t happened in any of the games before now."
-"......Supposedly, {f:5:Beatrice} decided not to commit the crime if the epitaph was solved..."
+"......Supposedly, BEATRICE decided not to commit the crime if the epitaph was solved..."
 "Yeah, supposedly.
  ......Hmph.
  I wonder."
@@ -853,7 +853,7 @@ This person......was the owner of this room.
 Her face and her voice were expressionless, blank.
 The others all looked at each other, wondering who should respond.
  Rudolf was the first to speak.
-"......So, you are {f:5:Beatrice}."
+"......So, you are BEATRICE."
 "Indeed."
 "A‐and you\'re the one who gave Maria that letter...?!"
 "Indeed."
@@ -1057,10 +1057,10 @@ And now, this piece perfectly fit into the hole left by that strange feeling....
  .........We haven\'t decided how you will be dealt with, but I hope to do all I can to reach a gentlemanly agreement."
 ".........Do not concern yourself with me any longer.
  As someone who was already prepared to kill you all and die in the process, I am already one of the dead."
-The Golden Witch {f:5:Beatrice} solved the epitaph, reached this room, and revived.
+The Golden Witch BEATRICE solved the epitaph, reached this room, and revived.
 And now.
  ......New people had solved the riddle and reached this room, ......so her role was finished.
-When the epitaph\'s riddle was solved, ......{f:5:Beatrice}\'s witch illusion ended.
+When the epitaph\'s riddle was solved, ......BEATRICE\'s witch illusion ended.
 Most likely, no one in this room would have been capable of understanding her tragic resolve.
 ......She herself was probably the only one who could.
 As long as the many selves inside of her understood, that was enough.
@@ -1068,7 +1068,7 @@ As long as the many selves inside of her understood, that was enough.
 I entrusted myself to the magical roulette of endless possibilities.
 The result, the answer, is this.
 This is what the tarot cards known as the ritual of the epitaph have shown me.
-......{f:5:Beatrice} is now dead.
+......BEATRICE is now dead.
 They did not kill her.
 I killed her myself......in accordance with fate\'s command.
 They will never understand, .........for all eternity.
@@ -1163,7 +1163,7 @@ However, there were no marks in particular on either side to indicate which side
  It\'s "off" now.
  If she wanted to kill us with a bomb, she wouldn\'t have told us about it."
 "...............!!!
- B‐......{f:5:Beatriceeeeeee}...!!
+ B‐......BEATRICEEEEEEE...!!
  Don\'t think you can trick me......!!!"
 "....................................
  ...Five,
@@ -1967,8 +1967,8 @@ They had been lucky enough to solve the epitaph, which was the only miracle that
 Does this mean that we aren\'t allowed to have a future where we all happily return from this island alive,
  ......even if the epitaph is miraculously solved before the crime occurs...?
 There will be...absolutely...no miracles.
-......I recalled those words, which I had heard in one of the fragments {f:5:Bernkastel} had shown me......
-"{f:5:Bernkastel}‐san......
+......I recalled those words, which I had heard in one of the fragments BERNKASTEL had shown me......
+"BERNKASTEL‐san......
  You showed me how wonderful my world was...
  ......I don\'t want to believe that you created this tale just to hurt Ange......"
 "......By now, even I realize that you\'re the Game Master here.
@@ -2372,15 +2372,15 @@ Ange clutched at her head, sobbing and moaning.
 Her father had dirtied his hands with murder over money, and on top of that, he had faced such a cruel end, and Ange had been forced to see his corpse.
  It was hard to imagine a more painful experience for a daughter to go through.
 ......I\'m totally fed up with this. It\'s completely meaningless.
-"{f:5:Bernkastel}‐san...!
+"BERNKASTEL‐san...!
  I know you\'re here somewhere!
  Please, make this game stop...!!
  There\'s no point to it!"
 As if in answer to that yell, ......a black shadow appeared a few seats in front of them.
 Or perhaps she had been sitting there the whole time.
 Maybe we just couldn\'t see her until we realized she was there.
-It was, without a doubt, the back of {f:5:Bernkastel}\'s head.
-"{f:5:Bernkastel}‐san......!!"
+It was, without a doubt, the back of BERNKASTEL\'s head.
+"BERNKASTEL‐san......!!"
 "......Pipe down back there.
  Can\'t you watch the show quietly?"
 The witch turned around with bored eyes.
@@ -2414,7 +2414,7 @@ Another shadow appeared in the next seat over, turned around, and scolded the pa
 "The tragedy is already reaching its climax.
  Who\'ll survive, I wonder?
  Eheheheheheheheheh......"
-{f:5:Bernkastel} isn\'t the Game Master...?
+BERNKASTEL isn\'t the Game Master...?
 Then who is?
 Could Clair have created this cruel tale......?
 Or are there even more witches playing around with this cat box......?
@@ -2633,13 +2633,13 @@ I don\'t blame her.
  Even if she knows it\'s just a game, ......she\'s been forced to see not only her mother\'s death,
  ......but also her mother announcing that she was the culprit of a mass murder, who didn\'t even love her daughter.
  Anyone would sob after hearing that...
-"{f:5:Bernkastel}‐san!!
+"BERNKASTEL‐san!!
  Enough of this!!
  I don\'t care who the Game Master is!!
  Stop this pointless game right now!!"
 When Lion yelled this, the theater suddenly went pitch‐black, swallowed in darkness.
 However, that wasn\'t enough to shock Lion.
-Lion continued to yell {f:5:Bernkastel}\'s name into the darkness, telling the witch to stop this game.
+Lion continued to yell BERNKASTEL\'s name into the darkness, telling the witch to stop this game.
 Then, a single beam of light shone down upon the stage.
 There......was Clair, the one who had appeared for just a second right before this cruel game began.
 "Clair...!!
@@ -2651,12 +2651,12 @@ Her eyes were blank, and you couldn\'t tell what she was looking at.
 In fact, she was even forgetting to blink...
 ......She looked......just like a doll......
 Then, another beam of light lit up the side of the stage.
-Under that light......stood {f:5:Bernkastel}.
+Under that light......stood BERNKASTEL.
 At the same time, though there appeared to be no one in the audience, a large applause rang out...
 "........................*giggle*."
-{f:5:Bernkastel} raised her right hand in response to the applause.
+BERNKASTEL raised her right hand in response to the applause.
 She kept doing so until the applause died down......
-"{f:5:Bernkastel}‐san!!
+"BERNKASTEL‐san!!
  So, ......you were the Master of this game after all...!!"
 "......Lion.
  How many times do I have to tell you that I\'m not the Game Master?"
@@ -2673,14 +2673,14 @@ She kept doing so until the applause died down......
  It\'s not taxidermy.
  So, of course, she still has her insides.
  ......She\'s hiding it under a beautiful exterior, but she\'s actually packed full of guts."
-When {f:5:Bernkastel} raised her right hand, ......a light fell on it, and a black, shining scythe appeared there.
+When BERNKASTEL raised her right hand, ......a light fell on it, and a black, shining scythe appeared there.
 It was a cold, merciless, and cruel object, like something a classic grim reaper might hold.
 "Wh‐......what are you planning to do.........?"
 ".........When they\'re alive, you can enjoy watching them struggle.
  When they\'re dead, you can enjoy tearing out their guts.
  Tales are things you get to enjoy twice.
  ......That\'s what it means to be a Witch of Theatergoing."
-{f:5:Bernkastel} pressed the blade of her reaper scythe against Clair\'s stomach,
+BERNKASTEL pressed the blade of her reaper scythe against Clair\'s stomach,
  then slowly slid it across.
 Then, along the line she traced, Clair\'s dress was sliced open.
 It was now clear that the scythe she held was not a fake one for theatrical use.
@@ -2743,9 +2743,9 @@ Didn\'t Ange leave on her journey with Amakusa because she longed to answer that
 "That\'s right......
  So what\'s your point?!"
 "......You don\'t............mean......"
-Lion realized what {f:5:Bernkastel} was getting at.
+Lion realized what BERNKASTEL was getting at.
 And because of that, ......Lion was too shocked to speak......
-The Game Master isn\'t {f:5:Bernkastel} or Clair.
+The Game Master isn\'t BERNKASTEL or Clair.
 Then who is it......?
 That\'s the wrong question.
  There is.........no Game Master.
@@ -2870,7 +2870,7 @@ lives in happiness in another world."
  Let me invite you to the parlor at that point in time."
 "The parlor......?
  The one in the mansion?"
-{f:5:Bernkastel} snapped her fingers, and the scene of the mansion\'s parlor unfolded before them.
+BERNKASTEL snapped her fingers, and the scene of the mansion\'s parlor unfolded before them.
 In the cruel tale they had just been shown, the parlor hadn\'t been particularly important.
 Jessica had been summoned to the parlor, but she was then immediately led to the dining hall and killed there.
 So, there had been nothing in the parlor.
@@ -2885,7 +2885,7 @@ And, right now, there was nothing in the parlor that appeared before Lion.
  ......Go on, take a look.
  ......It\'s right there.
  Right in that corner."
-{f:5:Bernkastel} was pointing.........at nothing more than a corner of the room.
+BERNKASTEL was pointing.........at nothing more than a corner of the room.
 There was nothing there.
 She had told Lion to look there, so Lion was expecting something terrible to be there,
  ......but there really was nothing there at all.
@@ -2984,11 +2984,11 @@ and are killed by Kyrie tonight."
  .........To put it another way, it\'s a certain fate, with absolutely no chance for a miracle!"
 "*giggle*, eheheheheheheheheheh!!
  Too bad for you, Clair.
- No, {f:5:Beatrice}."
+ No, BEATRICE."
 A bright light seemed to turn the world white—then, the next moment, they were back in the theater.
-As Clair stood absolutely still on the stage, the tip of {f:5:Bernkastel}\'s reaper scythe traced a line across her stomach.
+As Clair stood absolutely still on the stage, the tip of BERNKASTEL\'s reaper scythe traced a line across her stomach.
 A red line was drawn across her white skin, exposed now that the dress had been cut, and black blood began to seep out......
-"{f:5:Beatrice}.
+"BEATRICE.
  Trapped in that inescapable, certain, locked‐away pair of days, you became a witch who could give birth to endless possibilities within that two‐day cat box.
  ......In exchange, it was absolutely certain that you would not be saved or rewarded."
 "However, you had a dream.
@@ -2999,7 +2999,7 @@ A red line was drawn across her white skin, exposed now that the dress had been 
  And, at the end of your funeral, I wanted to show you.
  .........That even with that miracle, you couldn\'t have escaped this tragedy!!"
 Faced with the little bit of sky that she could see through the bars of the jail that imprisoned her,
- the witch called {f:5:Beatrice} dreamed of a world where she might have been happy...
+ the witch called BEATRICE dreamed of a world where she might have been happy...
 However, the sky beyond the bars...
 .........was also part of a larger jail......
 "The more I hear......the less I understand about you......!
@@ -3020,7 +3020,7 @@ However, the sky beyond the bars...
 "Ahhahahahahahhahhahhahaha!!
  Die, pukespittle Lion!
  The last hope of pukespittle Beato, uhyahhahhyaahhaaaaaaaaahhh!!!"
-{f:5:Bernkastel} raised her reaper scythe,
+BERNKASTEL raised her reaper scythe,
  .........swung it down with gusto,
  ......and plunged it deep into Clair\'s stomach......
 "Did you think you\'d get an easy death?
@@ -3076,12 +3076,12 @@ Fissures seemed to appear across the world, and before I had any time to process
 "..................?!
  ......Y‐......you......!"
 "......When you own a cat, you tend to pick up their habits."
-He pointed at {f:5:Bernkastel} with the tip of the pitch‐black sword that had sliced the world, glaring at her.
+He pointed at BERNKASTEL with the tip of the pitch‐black sword that had sliced the world, glaring at her.
 "*giggle*giggle*......
  ......What\'s this?
  Are you saying you came back here on a whim...?"
 "......There was no way you\'d end things on a happy note.
- Do you really hate {f:5:Beatrice} so much?"
+ Do you really hate BEATRICE so much?"
 "You think I\'d let her win and get away...?
  I have to pay her back in full for the humiliation she caused me.
  When I hold a grudge, I don\'t forget about it for a hundred years."
@@ -3118,7 +3118,7 @@ The chains and shackles shattered into little bits like glass...then vanished.
  You can\'t use a human\'s fate like a toy."
 ".........*giggle*giggle*,
  hahhahahhahahahahahahahaha...!!
- You\'ve got guts, saying that to the great {f:5:Bernkastel}, witch of the Senate!
+ You\'ve got guts, saying that to the great BERNKASTEL, witch of the Senate!
  I have no more use for you either, get it...?"
 "You\'ve shown that Beato\'s fantasy is a mystery and cut it to pieces.
  You\'ve fulfilled your role.
@@ -3127,7 +3127,7 @@ The chains and shackles shattered into little bits like glass...then vanished.
 "Come to me, my sweet little kitties.
  ......Scratch them up and tear off their skin.
  Peel them like grapes...!"
-When {f:5:Bernkastel} clapped her hands twice, countless pairs of glaring jewels appeared all around Will and Lion.
+When BERNKASTEL clapped her hands twice, countless pairs of glaring jewels appeared all around Will and Lion.
 They were clearly cat eyes, but their breathing sounded far more terrifying than any cat...
 "......Will......
  ......Nnnghh......"
@@ -3140,7 +3140,7 @@ Will pointed his sword in one direction after another, warding off the surroundi
  Don\'t accept that you\'ve been—no, don\'t accept that you\'re going to be shot...!"
 "...........................nngggghhh......"
 Lion tried to fight an incredible tearing pain.
-No, ......it was a fight against the promised future that {f:5:Bernkastel} had shown.
+No, ......it was a fight against the promised future that BERNKASTEL had shown.
 However, the gouging stake representing that future, which the Witch of Miracles had guaranteed would hold absolutely no miracle, was firm and merciless......
 Bit by bit, and yet unceasingly, it continued to pierce Lion\'s chest......
 "......Listen up.
@@ -3188,7 +3188,7 @@ As though a balloon had expanded around the two of them and burst, the cats that
 "......Oh, not bad."
 "I don\'t give a damn about your kitties.
  It\'s just the mama cat I care about.
- .........{f:5:Bernkastel}, Witch of Miracles!!
+ .........BERNKASTEL, Witch of Miracles!!
  It\'s about time someone trimmed your claws!!"
 Another flash of the black blade spun in a black tornado and scattered the cats once more.
 Lion, realizing that this was the opening Will had planned to make, ran all out, hand on chest.
@@ -3196,11 +3196,11 @@ Lion, realizing that this was the opening Will had planned to make, ran all out,
 "Diana has a weak stomach.
  Make sure you only give her warm milk."
 "Huh?"
-Before Lion could ask Will to repeat what he had said, Will had already leapt onto the stage and was now confronting {f:5:Bernkastel}.
+Before Lion could ask Will to repeat what he had said, Will had already leapt onto the stage and was now confronting BERNKASTEL.
 It was like the climax of a show.
  ......Loud cheers erupted from the pitch‐black audience seating.
 On either side of Clair, who lay with her insides exposed,
- ......stood Will, with his pitch‐black sword, and {f:5:Bernkastel}, with the scythe that could harvest miracles from fate.
+ ......stood Will, with his pitch‐black sword, and BERNKASTEL, with the scythe that could harvest miracles from fate.
 "Kyrie and Rudolf are the culprits, and they massacred the people on the island?
  They called Lion out to the parlor, then shot Lion to death?
  Sorry, but the concept of mysteries rejects this "truth" of yours.
@@ -3212,7 +3212,7 @@ On either side of Clair, who lay with her insides exposed,
  Ahhhahhahhahhahahahahahahahaha, hiiyaaaaaaahhaaaaaaaahhh!!!"
 "
 Rule #1. It is forbidden to have a crime without all clues presented}."
-......Will\'s black sword had cut through {f:5:Bernkastel}\'s body at a diagonal angle.
+......Will\'s black sword had cut through BERNKASTEL\'s body at a diagonal angle.
 However, it had no effect, ......like cutting the reflection of the moon on the water.
 "What\'s this?
  What do you mean by "clues"?"
@@ -3231,7 +3231,7 @@ In other words, even the truth cannot leave the cat box.
  *giggle*giggle*, is this how the mystery genre is supposed to fight?
  Ahhahhahhahhahahahahahahahaha!
  Hiiyahhhahahahahahaaaaaaaaahhh!!"
-With a laugh like the howl of a wild animal, {f:5:Bernkastel} carelessly tossed her scythe aside.
+With a laugh like the howl of a wild animal, BERNKASTEL carelessly tossed her scythe aside.
 "You\'re not even worth fighting.
  Get over here, pukespittle.
  Try and cut me all you like.
@@ -3253,7 +3253,7 @@ I just kept on running, without any goal or target.
 I mustn\'t stop moving.
 I mustn\'t fall here.
 If I fall, ......I\'ll crush the hope of the "me"s in countless worlds...
-The happy world that the {f:5:Beatrice}s dreamed of.
+The happy world that the BEATRICEs dreamed of.
 I\'m their last hope, the only one who can reach that world...
 ......Even though I understand this, ............the witch who controls miracles has declared there will be no miracle,
  ......and the "truth" that she thrust in front of me with those words gouges cruelly into my chest......
@@ -3293,7 +3293,7 @@ That huge number of stars, grouped in even‐numbered clusters, all glared at th
 Will was holding Lion with one arm.
  He couldn\'t take his sword out.
 However, he didn\'t let go.
-......He was determined to let Lion escape from here, and to lead Lion towards the happy tale that the {f:5:Beatrice}s had dreamed of.
+......He was determined to let Lion escape from here, and to lead Lion towards the happy tale that the BEATRICEs had dreamed of.
 Through the cats whose eyes glowed in the empty darkness...the queen of cats who permitted no miracles appeared......
 ".........Willard.
  Put Lion down.
@@ -3310,7 +3310,7 @@ why I quit SSVD."
 "It\'s because I got fed up with all those damn sob story mysteries.
  .........We\'re gonna survive and make a happy ending."
 "I\'m gonna show her.
- {f:5:Beatrice} died in despair, thinking that there were only bad endings, and I\'m gonna show her that a happy ending can exist.
+ BEATRICE died in despair, thinking that there were only bad endings, and I\'m gonna show her that a happy ending can exist.
  So I\'ll never put you down."
 "..................Will......"
 "You can take the rest of my left arm, cats.
@@ -3329,7 +3329,7 @@ why I quit SSVD."
 "That\'s the spirit."
 As he said this, Will held Lion tight.
 "There you have it.
- We\'ll keep struggling on, {f:5:Bernkastel}."
+ We\'ll keep struggling on, BERNKASTEL."
 "We won\'t give up on the chance of a miracle...!"
 "I\'m amazed you can say that when the Witch of Miracles has promised you that there will be absolutely no miracles.
  .........*giggle*giggle*,

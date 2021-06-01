@@ -114,11 +114,11 @@ When Nanjo tried to gently pat Kinzo\'s shoulder, the dying man flew into a sudd
  ...If I had such time to spare!!
  ...I\'d want to see it.
  I\'d want to see it one more time!
- I want to see {f:5:Beatrice}\'s smiling face one last time!!"
-"Oh, {f:5:Beatrice}, why do you resist me so?!
+ I want to see BEATRICE\'s smiling face one last time!!"
+"Oh, BEATRICE, why do you resist me so?!
  I would return everything you have given me right this very moment—I am prepared to lose everything!!
  So please, show me your smile just one more time..."
-"{f:5:Beatrice}, I beg of you—you must be able to hear this final plea—that\'s the kind of woman you are!
+"BEATRICE, I beg of you—you must be able to hear this final plea—that\'s the kind of woman you are!
  I beg of you, show yourself to me!!
  You\'re here, aren\'t you?!
  You\'re standing there invisible, listening to every word I say, and even now you\'re mocking me from somewhere in this room, aren\'t you?!"
@@ -126,9 +126,9 @@ When Nanjo tried to gently pat Kinzo\'s shoulder, the dying man flew into a sudd
  Feel free to scold me, even snatch away my life by your own hands if you wish!!
  I don\'t want to die alone like this!!
  I cannot let myself die until I\'ve seen your smile just one more time!!"
-"Aah, {f:5:Beatrice}, {f:5:Beatrice}!!
+"Aah, BEATRICE, BEATRICE!!
  I offer up this life of mine, I offer it up to you!!
- I\'m begging you, {f:5:Beatriceeeeee}!!!"
+ I\'m begging you, BEATRICEEEEEE!!!"
 "Whoa...
  Things sure move with the times...
  I can\'t believe we\'ll be able to make the trip in just twenty minutes..."

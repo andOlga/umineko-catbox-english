@@ -114,19 +114,19 @@ Suddenly getting this cute younger brother......left me feeling a bit confused, 
 "Okay.
  ......I\'ll give it all I\'ve got, Onee‐chan."
 "Then let\'s try and practice.
- .........Let\'s try summoning the furniture of a witch from the same alliance—{f:5:Beatrice}."
-"............{f:5:Beatrice}\'s...furniture."
-Hearing {f:5:Beatrice}\'s name mentioned gave me a slightly strange feeling.
+ .........Let\'s try summoning the furniture of a witch from the same alliance—BEATRICE."
+"............BEATRICE\'s...furniture."
+Hearing BEATRICE\'s name mentioned gave me a slightly strange feeling.
 When it came to the crime on Rokkenjima, the public had made a lot of noise about it being a witch\'s sacrificial ritual or something like that.
-......And that witch was {f:5:Beatrice}.
+......And that witch was BEATRICE.
 So if the culprit of that crime was a witch,
  ......it would mean that this very woman was the culprit who took away my family.
-However, according to Maria onee‐chan, {f:5:Beatrice} was a good witch.
-If I held negative emotions towards {f:5:Beatrice},
+However, according to Maria onee‐chan, BEATRICE was a good witch.
+If I held negative emotions towards BEATRICE,
  she would get mad, argue with me and call me mean, and refuse to talk to me for a while.
 ......Onee‐chan was my only close friend right now.
 ...So to avoid worsening the mood of my close friend,
- I had decided to think of {f:5:Beatrice} as nothing more than Onee‐chan\'s magic master...
+ I had decided to think of BEATRICE as nothing more than Onee‐chan\'s magic master...
 ......And anyway, my belief is that the crime was a murder plot hatched by Aunt Eva.
 ......Someday I\'m definitely gonna bring that all to light.........
 "Ange.
@@ -152,7 +152,7 @@ The way they were summoned one after another in a line was overwhelmingly impres
  The Seven Sisters of Purgatory, ......just like the illustrations in Onee‐chan\'s grimoire...
 The younger sisters were behind the eldest, Lucifer, who saluted Onee‐chan.
 "The Seven Sisters of Purgatory, right here...!
- Lady {f:5:Maria}, it has been quite some time."
+ Lady MARIA, it has been quite some time."
 "Yep.
  Long time no see.
  Are you all doing okay...?"
@@ -169,14 +169,14 @@ The younger sisters were behind the eldest, Lucifer, who saluted Onee‐chan.
  Can\'t brea~the!
  I won\'t run away, so let me go, everyo~ne!’
 "Hey!!
- Are you trying to break Lady {f:5:Maria}\'s furniture?!
+ Are you trying to break Lady MARIA\'s furniture?!
  Just get away from him, hugging is prohibited!!"
 "......And yet you\'re the one who looks like you want to hug him the most.
  *snicker*."
 "Wh—?!
  I, I don\'t have any i‐interest in something so...fluffy and...squishy and...cuddly, okay?!"
 "Hey!!
- Be silent in the presence of Lady {f:5:Maria} and Ange‐sama, you cretinous sisters!!"
+ Be silent in the presence of Lady MARIA and Ange‐sama, you cretinous sisters!!"
 They were so energetic...
 The sudden burst of activity as soon they appeared left me stunned.
 And even greater than that was my surprise that the innocent Sakutaro was on such good terms with the Seven Sisters.
@@ -206,7 +206,7 @@ If all the peoples of the world could be joined in this wonderful alliance,
 "All you Seven Sisters, listen.
  Right now, Ange is in the middle of magic training.
  So I want all of you to lend her your power."
-"Certainly, Lady {f:5:Maria}.
+"Certainly, Lady MARIA.
  ...But what specifically?"
 "I will move the magical power manifesting you from me to Ange.
  I want you to stay close by her all the time in that state.
@@ -241,7 +241,7 @@ I understood it would be an ordeal, but before anything else, I wanted to give i
 """"""Yeeees, Onee‐samaa!""""""
 "Well then, Ange‐sama.
  We, the Seven Sisters of Purgatory, will now become your furniture.
- .........Lady {f:5:Maria}, if you would."
+ .........Lady MARIA, if you would."
 "Yeah.
  ......Okay, Ange.
  Can we start?"
@@ -260,7 +260,7 @@ yes,
 Until then, the inside of my head had been used only for myself.
 It was almost like it was now also being used for seven other people.
 ......Their mere presence there, blinking, or even letting out a single breath, was placing an enormous weight on the inside of my head...
-"......Lady {f:5:Maria}.
+"......Lady MARIA.
  My apologies, but I fear that the burden of all of the Seven Sisters at once might be too great after all."
 "I, ......I\'m alright.........
 ......ack........."
@@ -545,17 +545,17 @@ In that sense,
 "Well, I can\'t guarantee that you will attain the magic of resurrection before your life is over.
  ......However, your power as a witch will be proportional to the height of the mountain you dare to climb."
 "If you don\'t lose heart, I\'m sure that one day you\'ll be able to rival even our former master,
- {f:5:Beatrice}‐sama, as a Great Witch."
+ BEATRICE‐sama, as a Great Witch."
 "......I wonder if I can.
  Become a Great Witch and revive Onii‐chan,
  ......no, my family."
-"The Witch of Resurrection, Lady {f:5:Ange}...!"
+"The Witch of Resurrection, Lady ANGE...!"
 "Kyaah, how wonderful!
  A Witch of Resurrection is a very rare kind of witch.
  Having a witch like that as my master would make me pretty proud.
  Actually, I\'d love for that to happen.
  Because furniture\'s worth is also proportional to the rank of its master!"
-"Please zip right on by {f:5:Beatrice}‐sama and become a Great Witch like the world has never seen!
+"Please zip right on by BEATRICE‐sama and become a Great Witch like the world has never seen!
  On behalf of the Seven Sisters of Purgatory, I support you from the bottom of my heart! Kyaha!"
 ...............I\'d thought that if a magical friend were to appear for me too, I\'d like a cute kid like Sakutarou.
 But even this fifth sister of the frightening Seven Sisters who govern the seven deadly sins was enough to calm my heart this much all by herself.
@@ -583,7 +583,7 @@ Because as long as I\'m here, ......I\'m not permitted to call myself Ange.
 ......Suddenly, I felt someone\'s presence.
 When I turned around, .........there stood Mammon.
 "Gretel‐sama.
- {f:5:Beatrice}‐sama says that if you do not return soon, it will become a hindrance to the progression of the game.
+ BEATRICE‐sama says that if you do not return soon, it will become a hindrance to the progression of the game.
  I beg that you return swiftly."
 "............Thanks.
  ...I\'ll go back now."
@@ -596,15 +596,15 @@ When I turned around, .........there stood Mammon.
  I should accept it literally.
  ...Yes, it is.
  Even in this screwed‐up world, being able to see Onii‐chan makes me happy from the bottom of my heart."
-"And you\'ll win against {f:5:Beatrice}‐sama, for your onii‐chan\'s sake...?"
+"And you\'ll win against BEATRICE‐sama, for your onii‐chan\'s sake...?"
 "Yes.
  ......Can\'t have him playing around in a world like this forever.
  ......It\'s about time for him to return home.
  That\'s why I came to call him."
 "...............Please do the best you can.
- Although I can\'t support you, seeing as my current master is {f:5:Beatrice}‐sama."
+ Although I can\'t support you, seeing as my current master is BEATRICE‐sama."
 "I know.
- Until October 5th, 1986, ...you are {f:5:Beatrice}\'s furniture.
+ Until October 5th, 1986, ...you are BEATRICE\'s furniture.
  And eventually, you become my friend."
 "And eventually, you throw that friend away.
  After all, ......ng, .........ghkh..."
@@ -636,22 +636,22 @@ It looked like she had suddenly frozen.
 ......Even the air and floating bits of dust had frozen in place.
 A world where it seemed like even time itself had frozen.
 ......Yes.
- It resembled what would usually happen just before {f:5:Bernkastel} appeared.
+ It resembled what would usually happen just before BERNKASTEL appeared.
 But the atmosphere was different somehow.
  Then I understood.
-.........It wasn\'t {f:5:Bernkastel}.
+.........It wasn\'t BERNKASTEL.
 ...It was the other witch.
 "How are you doing, Ange...?"
-"...............{f:5:Lambdadelta}.
+"...............LAMBDADELTA.
  ......The rule doesn\'t apply to you, I see."
 "Duh?
  Rules exist to bind others.
  What kind of idiot would bind themselves with them?"
-{f:5:Bernkastel} is a witch who supports me, ......but this girl is different.
-This witch supports {f:5:Beatrice}.
+BERNKASTEL is a witch who supports me, ......but this girl is different.
+This witch supports BEATRICE.
 ...In other words, she\'s on the side of the enemy.
-But there\'s some kind of difference between her and {f:5:Beatrice}.
-There\'s something elusive about {f:5:Lambdadelta}\'s existence, and {f:5:Bernkastel}\'s as well.
+But there\'s some kind of difference between her and BEATRICE.
+There\'s something elusive about LAMBDADELTA\'s existence, and BERNKASTEL\'s as well.
  ......How should I put it... Maybe like they\'re beings from a higher dimension...
 In any event, I\'m still unsure about how to deal with her.
 ......The only thing that I\'m certain about is that she is my enemy.
@@ -670,7 +670,7 @@ In any event, I\'m still unsure about how to deal with her.
 ".....................Sorry,
  but I don\'t feel like listening."
 ......That said,
- I probably won\'t be released from this frozen time until {f:5:Lambdadelta} is happy.
+ I probably won\'t be released from this frozen time until LAMBDADELTA is happy.
 ......That itself might be proof that she\'s a higher‐dimensional being than me.
 I haven\'t been given the option of not listening to her.
 About the only thing I can do is strengthen my mental guard, and try not to be shaken by anything she says.
@@ -680,8 +680,8 @@ She\'ll probably either try to make me believe something disadvantageous to me,
  Seriously, you don\'t need to get so defensive.
  I just came to fix your misunderstanding.
  ......Well, actually, no.
- I came thinking I\'d tell you about the lie {f:5:Bernkastel} told you."
-".........{f:5:Bernkastel}.........lied?"
+ I came thinking I\'d tell you about the lie BERNKASTEL told you."
+".........BERNKASTEL.........lied?"
 "I\'ll bet Bern made it sound like, if you defeated Beato, your big brother would come back?"
 "..................
  Who knows.
@@ -717,7 +717,7 @@ Even though I realized that I could be on the verge of falling into a trap, I ur
 .........We got a call.
 While I was playing with building blocks in the tatami room, we got that call...
 After watching to see that I had remembered,
- ......{f:5:Lambdadelta} smiled unpleasantly,
+ ......LAMBDADELTA smiled unpleasantly,
  ......and spoke.
 "WELLLL?
  ON YOUR OCTOBER 6TH, 1986, DID BATTLER ONII‐CHAN COME HOOOME?"
@@ -751,7 +751,7 @@ Even though I didn\'t understand what I was being told, I noticed an unpleasant 
 ".........No, that\'s not it.
  You aren\'t Ushiromiya Ange.
  ......You\'re a witch\'s piece with that name.
- Strictly speaking, a completely different person, with the name {f:5:Ange Beatrice}.
+ Strictly speaking, a completely different person, with the name ANGE BEATRICE.
  ......Get it?"
 I\'m...starting to think I don\'t......
 .........Huh?
@@ -771,13 +771,13 @@ I\'m...starting to think I don\'t......
  Returned to Ushiromiya Ange.
  ......But she probably didn\'t say that this Ushiromiya Ange would be you, right...?"
 Was it like that... Was it like that......?
-What did {f:5:Bernkastel} say to me, again......?
+What did BERNKASTEL say to me, again......?
 Your assistance is needed.
  ......Your family needs it.
-{f:5:Bernkastel} had started by saying that.
+BERNKASTEL had started by saying that.
 Then I had responded.
 If I save them, does that mean my family will come back?
-......And how had {f:5:Bernkastel} answered that, again......?
+......And how had BERNKASTEL answered that, again......?
 Umm, umm......
 ——I cannot promise that.
 Uh, umm......!
@@ -824,7 +824,7 @@ And, ......in the end, she said this.
 ".........There\'s no goal you\'ll be capable of appreciating—such a thing is utterly...
 .........no.
  I\'ll proclaim it upon my name.
- Upon the name of the Witch of Certainty, the Witch of the Absolute, {f:5:Lambdadelta}!
+ Upon the name of the Witch of Certainty, the Witch of the Absolute, LAMBDADELTA!
  I proclaim, with absolute certainty, that such a thing does not exist...!"
 ".....................No........."
 "That\'s Bern\'s lie.
@@ -848,7 +848,7 @@ And, ......in the end, she said this.
  I do have one nice little proposal for you."
 .........Not good.
 ...I\'m getting completely swept up......
-I knew I shouldn\'t have listened, ......and now the witch {f:5:Lambdadelta} is starting to suck me in......!
+I knew I shouldn\'t have listened, ......and now the witch LAMBDADELTA is starting to suck me in......!
 "My opponent is Bern, not you.
  I said just now that it\'s possible for there to be a subject that benefits us both.
  I\'ve been saying since the beginning that that\'s what I want to talk about.
@@ -861,7 +861,7 @@ I finally lost control over my emotions and exploded from the inside.
 I don\'t have a clue anymore.
 ......I believed that I was Ange.
 But at some point, I stopped being Ange.
-That\'s right, I\'m {f:5:Ange}.
+That\'s right, I\'m ANGE.
  Not Ange...!
 Who am I?
  I\'m not my parents\' daughter, nor my brother\'s little sister.
@@ -944,12 +944,12 @@ My brain turned to mush.
 I could feel the chaos pouring from my eyes as a hot liquid...
 The heat of it......felt like it was going to burn my face...
 "Think about it......
- {f:5:Ange Beatriceeeee}...
- Since {f:5:Bernkastel}\'s goal is to end the game and end the world where you and Battler can interact, why should you be on her side...?"
+ ANGE BEATRICEEEEE...
+ Since BERNKASTEL\'s goal is to end the game and end the world where you and Battler can interact, why should you be on her side...?"
 "......That girl was tricking you, you know?
  She made it look like you might be saved if you became her piece.
  But I won\'t deceive you there!"
-"......So I\'ll say it, {f:5:Ange}.
+"......So I\'ll say it, ANGE.
  Become my chess piece.
  Unlike Bern, I won\'t offer you false rewards that you\'ll absolutely never receive."
 "As long as you become my piece, and help me so that this game is certain never to end,

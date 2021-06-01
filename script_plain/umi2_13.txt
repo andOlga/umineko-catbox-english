@@ -152,12 +152,12 @@ With that one sentence, Auntie Rosa\'s gaze grew sharp.
 "Auntie Rosa.
  ...I heard about the puzzle from Battler‐kun.
  ...I don\'t think it\'s bad to be very careful, but I think being too suspicious isn\'t good either."
-"Whether the real culprit is {f:5:Beatrice} or not,
+"Whether the real culprit is BEATRICE or not,
  I think there is reason for us to suspect that the servants are in league with her."
 "......In the first murder, where Nii‐san and the others were killed,
  they\'d been given a very brutal treatment, right?
  Did that look like something that could be done alone?"
-"............Maybe our mystery guest {f:5:Beatrice}‐sama worked all night and did it all."
+"............Maybe our mystery guest BEATRICE‐sama worked all night and did it all."
 "And the incident with the master keys involving the door to Jessica\'s room?
  Isn\'t that proof that one of the servants was involved?"
 "......nn.................."
@@ -244,7 +244,7 @@ Kanon was killed in this room}", yes?"
 "...So this is what I thought of next.
  A theory that there were actually three people in that room.
  Jessica and Kanon‐kun were victims.
- And the culprit, the guest {f:5:Beatrice}, was also there with them."
+ And the culprit, the guest BEATRICE, was also there with them."
 "You wanted to make it "the human me" who committed the crime without using magic.
  I see, a strange theory that fits you perfectly.
  *giggle*giggle*."
@@ -351,7 +351,7 @@ She immediately lowered the gun, laughing impishly.
  What if I were the culprit?
  Do you think I would let by this once‐in‐a‐lifetime chance I got when the servants left?"
 "I could just shoot you both, bang, and all that\'s left is to come out with a fitting excuse.
- Something like, {f:5:Beatrice} appeared outside the window and shot at us with a gun.
+ Something like, BEATRICE appeared outside the window and shot at us with a gun.
  I would claim that I fired two shots back at her, and throw the two shots\' worth of empty cartridges onto the floor."
 "That\'s a crazy wild argument, but it does make sense. Ihihihi!"
 "There\'s something Krauss nii‐san often used to say.
@@ -379,13 +379,13 @@ Are there accomplices?
 If so, how many?!
 ......I feel like I\'m constantly only suspecting the people connected to all this.
 ...I find myself quickly forgetting about that 19th person,
- the guest, {f:5:Beatrice}, who came yesterday and boldly called herself the Golden Witch.
+ the guest, BEATRICE, who came yesterday and boldly called herself the Golden Witch.
 I haven\'t actually seen her face.
 I\'ve heard that she\'s like a double of the witch in that portrait,
  but because I haven\'t seen her directly, no matter how hard I try, I can\'t really feel like there are 19 people on this island.
 ...So I easily slip into the illusion that the culprit is one of the 18...
 Damn it......
- Come out, {f:5:Beatrice}.
+ Come out, BEATRICE.
 If you\'re the bad guy, then act like the bad guy, and show yourself, laughing in a high‐pitched voice and looking down on us.
 Just like a bad guy in one of those dramas who, even once they\'re exposed as the culprit,
  aggressively says "is there any proof?"
@@ -641,7 +641,7 @@ When they had stopped the bleeding, to make sure there were no foreign objects i
 "Genji‐sama, it isn\'t a question of whether you believe or not.
  She told me.
  I heard it.
- {f:5:Why} won\'t you believe me?"
+ WHY won\'t you believe me?"
 "D‐don\'t get up...
  You\'ll worsen your wound..."
 Kanon sat up on the bed, and spoke to Genji, who was making no effort to believe Kanon\'s story.

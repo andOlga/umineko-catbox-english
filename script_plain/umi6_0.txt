@@ -36,7 +36,7 @@ If only their heads hadn\'t been those of goats,
  It suits you, Erika."
 "......And......congratulations to you too,
  ......Mr. Groom."
-At that point, ......{f:5:Bernkastel} stared straight into the groom\'s eyes.
+At that point, ......BERNKASTEL stared straight into the groom\'s eyes.
 The groom...
 ...didn\'t answer.
 His eyes were gray.
@@ -78,7 +78,7 @@ This wedding was being performed......for the sole purpose of humiliating Battle
 "......Don\'t worry.
  I won\'t love you forever.
  After all, the point of this ceremony is to make you submit to me.
- ...Your heart will be shut inside an inescapable locked room forever......where I, Furudo {f:5:Erika}, the detective and the Witch of Truth, will command it.
+ ...Your heart will be shut inside an inescapable locked room forever......where I, Furudo ERIKA, the detective and the Witch of Truth, will command it.
  Your position as territory lord and your ring will become mine..."
 "...........................Can\'t...
 ...get..."

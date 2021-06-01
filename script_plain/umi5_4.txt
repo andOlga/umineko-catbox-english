@@ -61,7 +61,7 @@ Apparently, they hadn\'t been fully tricked at last year\'s family conference af
 "We might be able to overcome this year somehow, ......but there is such a thing as pushing our luck.
  It\'s probably best to assume that next year won\'t be manageable."
 ".........With this much of the anti‐magic toxin filling up the place,
- it will probably be difficult to preserve Lord {f:5:Goldsmith}\'s magic for yet another family conference."
+ it will probably be difficult to preserve Lord GOLDSMITH\'s magic for yet another family conference."
 "W‐......who are you?"
 "Oh,
  no need to be surprised.
@@ -149,7 +149,7 @@ I shouldn\'t just focus on the obvious parts...
 like the truth of the riddle and how to solve it.
 ......What\'s more important is why that riddle was set up in the first place and displayed for us to see.
 That\'s what I should be thinking about.
-And the one proposing that riddle......is {f:5:Beatrice}.
+And the one proposing that riddle......is BEATRICE.
 Even if I can\'t solve it, I should be able to try and figure out what Beato was thinking when she showed it to us.
 ......Alright...this time, I\'m turning the chessboard over...
 The witches keep calling me incompetent.
@@ -364,7 +364,7 @@ She looked slightly younger than Battler and Jessica,
  And Beato\'s opinio~n?"
 "...................................."
 Beato was unable to answer.
-......{f:5:Lambdadelta} grinned as though in triumph.
+......LAMBDADELTA grinned as though in triumph.
 "......Wanna try complaining about the rules and stepping down from the game?
  Isn\'t that the favorite move of you mystery people♪
  If there\'s even a tiny element that goes against your expectations, you have a tantrum and totally stop thinking."
@@ -432,7 +432,7 @@ Though Battler, George, and Jessica didn\'t have a clue what was going on and we
  
 In other words, the number of people in this parlor now is equal to the total number of people on this island}."
 "There were supposedly 18 humans on the island, ...but since Grandfather was actually dead, that became 17.
- ......And now that one piece of {f:5:Bernkastel}\'s has been added......"
+ ......And now that one piece of BERNKASTEL\'s has been added......"
 The number of humans on this island has returned to 18......
 "I" glanced around at the humans in the parlor.
 The guest, Furudo Erika.
@@ -511,11 +511,11 @@ Therefore, Genji had already checked to make sure that the accident was real, th
  ...Furudo Erika, was it?
  It\'s rare for guests to come here to Rokkenjima.
  She looks as though she\'ll be entertaining, don\'t you think?"
-"She is probably Lady {f:5:Bernkastel}\'s piece.
+"She is probably Lady BERNKASTEL\'s piece.
  ......Though she will follow the rules of {y:0:Human}{n:0:human}s, the player is a witch.
  We can\'t underestimate her."
 "Hmph, there is no problem.
- Even if she were Lady {f:5:Bernkastel} herself, she is a {y:0:Human}{n:0:human}, and so she is no match for us.
+ Even if she were Lady BERNKASTEL herself, she is a {y:0:Human}{n:0:human}, and so she is no match for us.
  ......After all, we have Gaap with us.
  {y:0:Human}{n:0:Human}s certainly cannot win against Gaap!"
 "............Thanks.
@@ -526,6 +526,6 @@ Therefore, Genji had already checked to make sure that the accident was real, th
  That is what a witch is..."
 "Hmph.
  I\'m the one who gets to call herself a witch on this Rokkenjima.
- Only I, the Golden Witch and Endless Witch, {f:5:Beatrice}!
- Let us see how good Lady {f:5:Bernkastel}\'s next piece after Ange is.
+ Only I, the Golden Witch and Endless Witch, BEATRICE!
+ Let us see how good Lady BERNKASTEL\'s next piece after Ange is.
  I intend to watch very carefully...!"

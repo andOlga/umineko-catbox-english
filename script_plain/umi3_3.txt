@@ -13,9 +13,9 @@ In this case, did that count as a silent yes?
 Auntie Eva and Dad had been trying to interpret the letter in their favor, their greed clearly visible.
 It wouldn\'t have mattered so much if that was all, but the adults had then started focusing on Maria, who had received the letter.
  They kept pounding her with questions about who had given her that letter.
-Maria repeated over and over again that she had gotten it from {f:5:Beatrice}, but there was no way a mysterious person like that could be mixed in with the others on this island.
+Maria repeated over and over again that she had gotten it from BEATRICE, but there was no way a mysterious person like that could be mixed in with the others on this island.
 ...After all, this is a small island where no one lives except the Ushiromiya family.
-Maria kept repeating that she had gotten it from {f:5:Beatrice}, no matter how many times she was asked.
+Maria kept repeating that she had gotten it from BEATRICE, no matter how many times she was asked.
 It seemed that the adults felt that she was trying to trick them, so they didn\'t hold back, and questioned her until she broke out in tears...
 By the time Maria was released, she had cried herself to the point of exhaustion.
 Our parents ordered us to go to the guesthouse and take Maria with us,
@@ -33,7 +33,7 @@ Maria had cried herself dry, and was hiding in her bed.
 ".........Who in the world gave that letter to Maria‐chan?"
 "George nii‐san.
  You mustn\'t ask that anymore.
- If Maria says she got it from {f:5:Beatrice}, can\'t we just leave it at that...?"
+ If Maria says she got it from BEATRICE, can\'t we just leave it at that...?"
 "I mean, we don\'t want to make her cry any more than this."
 ......That said.
  Even we felt a confusion that we couldn\'t clear away.
@@ -41,7 +41,7 @@ Maria had cried herself dry, and was hiding in her bed.
  The thought that, in the middle of all this rain, an unknown 19th person gave Maria‐chan that letter, and is now hiding somewhere,
  honestly doesn\'t seem realistic at all."
 "Probably...Shannon or someone put on the dress from that portrait, and skillfully planned this ahead of time with Maria."
-"...Although of course, as soon as Maria saw that dress, that might have been enough on its own to convince her that it was {f:5:Beatrice}."
+"...Although of course, as soon as Maria saw that dress, that might have been enough on its own to convince her that it was BEATRICE."
 "Maybe it doesn\'t really matter who handed her the letter.
  The important thing is who sent it."
 "...The point is that Grandfather wanted to cause an uproar by assuming the name of the witch.
@@ -51,10 +51,10 @@ The truth was probably that our occult‐loving Grandfather was playing around,
 ......Paying no heed, though, to the trouble it would cause Maria, or the rest of us.
 "Seriously. Messing around with Maria\'s pure heart...
  It doesn\'t matter who handed the letter over.
- Maria says that she got it from {f:5:Beatrice}, so let\'s treat it that way."
+ Maria says that she got it from BEATRICE, so let\'s treat it that way."
 "I agree.
  Let\'s do that.
- To Maria‐chan, {f:5:Beatrice} is kinda like what Santa Claus is to most kids."
+ To Maria‐chan, BEATRICE is kinda like what Santa Claus is to most kids."
 "Whether it be a non‐existent 19th person or Santa Claus,
  as long as we accept that they exist, they will at least "exist" inside Maria.
  ...I see, it\'s important to lie to a child to protect their dreams."
@@ -65,7 +65,7 @@ Jessica had her hand on her chin, as though there was something that she just co
 When I called out to her, she came to her senses.
 "Aah, ......sorry.
  Well, ......actually,
- ......I was wondering if it was possible that Maria actually met {f:5:Beatrice}."
+ ......I was wondering if it was possible that Maria actually met BEATRICE."
 "...What do you mean by that?
  Are you saying that there\'s a 19th person on this island?"
 "If we take what Maria‐chan said to heart, then we do arrive at that answer."
@@ -73,7 +73,7 @@ When I called out to her, she came to her senses.
  ......I\'m talking about the story that someone we don\'t know has been living on this island since long ago."
 "Living, you say. Where?"
 "...In the forest."
-The adults were gathered in the dining hall, spending a very long time continuing the discussion that had been started by {f:5:Beatrice}\'s letter...
+The adults were gathered in the dining hall, spending a very long time continuing the discussion that had been started by BEATRICE\'s letter...
 Krauss strongly claimed that the letter was a simple prank,
  but he couldn\'t overturn the claim that Kinzo\'s failure to deny the letter was answer enough.
 Judging by Kinzo\'s character, if he knew that a letter had been written by someone else in his name, he would be mad with rage.
@@ -87,7 +87,7 @@ However, there were some points that worried them.
 Taken literally, anyone, no matter how doubtful their origin, could succeed to the Ushiromiya family.
 And furthermore, this meant there was a chance that all of the Ushiromiya family\'s assets could be stolen by some unknown person.
 In that sense, it was definitely not a situation where anyone could lower their guard, even the siblings other than Krauss.
-Had this letter come from a saboteur sent by Kinzo who called themselves {f:5:Beatrice}?
+Had this letter come from a saboteur sent by Kinzo who called themselves BEATRICE?
  ...Or was this the scheme of some unknown person trying to steal the Ushiromiya family\'s wealth?
  They still didn\'t know the truth.
 ...But they could say one thing for certain.
@@ -156,7 +156,7 @@ After listening to the sound of Gohda\'s footsteps disappear off into the distan
 said that they were too busy with the bed‐making to have any spare time during which they could have gone to Maria in the rose garden...
  ....................."
 "Hey hey, what are you trying to say then?
- You aren\'t saying that the witch of the forest {f:5:Beatrice}‐sama came over and actually handed Maria‐chan that letter, are you?"
+ You aren\'t saying that the witch of the forest BEATRICE‐sama came over and actually handed Maria‐chan that letter, are you?"
 "Ahahaha.
  Rosa, you used to believe so much that it really frightened you, right?
  You don\'t mean to say that you still believe at this age?
@@ -200,11 +200,11 @@ But considering that none of the four siblings had joined in on Hideyoshi\'s lau
 "Hahahaha.
  Of course, nobody believes in some witch riding a broom and flying in the sky.
  ......But, the woman in that portrait,
- ...{f:5:Beatrice}, may really have existed on this island."
+ ...BEATRICE, may really have existed on this island."
 ".........Hideyoshi‐san,
  it looks like we aren\'t talking about a witch, but something a little simpler.
  ...Let me see if I have this correct."
-"You all suspect that Father had a mistress named {f:5:Beatrice} living in secret somewhere on this island.
+"You all suspect that Father had a mistress named BEATRICE living in secret somewhere on this island.
  ......Is it something like that?"
 "Father is a paragon of a man, a model of self‐discipline and restraint!
  It is completely inconceivable that he would bring something so filthy onto this island...!"
@@ -251,7 +251,7 @@ might not be completely ridiculous?
  ...That they might actually be somewhere around here......?"
 ".........Sounds like a case of that "Devil\'s Proof" Rudolf‐san is always talking about."
 "...It might be possible to prove that there is a 19th person, but it\'s impossible to prove that a 19th person doesn\'t exist.
- ......Should we continue this discussion assuming that there is a person named {f:5:Beatrice} hiding somewhere on this island......?"
+ ......Should we continue this discussion assuming that there is a person named BEATRICE hiding somewhere on this island......?"
 "As the first step in crisis management, that\'s the right way.
  ...It\'s probably way more prudent to say she might exist, rather than thinking there\'s no way she does."
 "I, ...I see.
@@ -291,7 +291,7 @@ And since this person might have something bad planned for them,
  ......Which leaves only the expansive forest."
 "And if you tie that in with the legend of the witch from the forest, you get a theory like this:
  Dad had actually built a hidden mansion somewhere in the forest,
- inside of which a mistress by the name of {f:5:Beatrice} lived, and he sometimes went to see her."
+ inside of which a mistress by the name of BEATRICE lived, and he sometimes went to see her."
 "...I was also young at the time.
  At one point, I became intent on catching Father cheating, and I tried to follow him when he went outside."
 "...I failed, of course.
@@ -407,7 +407,7 @@ Taking care of a person in secret over a period of thirty years would be an inca
 "...By that age, the body starts to break down.
  I don\'t care what the mansion\'s like, I couldn\'t call livin\' in a place where people\'s eyes can\'t reach, almost as though she were under house arrest, agreeable..."
 "That\'s right.
- ...If what Father told us about {f:5:Beatrice} is true, then that relationship has lasted for over thirty years."
+ ...If what Father told us about BEATRICE is true, then that relationship has lasted for over thirty years."
 "......She might have been a charming young woman at the time, but it is probably appropriate to think that she\'s now an old bag like us.
  I can easily imagine that, given the contents of that letter."
 "You should talk.
@@ -425,7 +425,7 @@ Of course, Eva was offended, but she didn\'t strike back.
 The family sank after the Great Kanto Earthquake, and Kinzo was set up as the Ushiromiya family head against his will.
 However, in the beginning, he was influenced strongly by the elder relatives, who treated him like a puppet while they pulled the strings.
 He wasn\'t permitted to decide anything by himself, not even his marriage partner...
-......And by his meeting with the Golden Witch {f:5:Beatrice} in those unhappy days,
+......And by his meeting with the Golden Witch BEATRICE in those unhappy days,
  Kinzo\'s Legend of the Gold was quickly embellished into something dramatic.
 In other words,
  ...it could mean...
@@ -443,8 +443,8 @@ If she also knew his whole story,
  That\'s not a good position to join the battle for the headship."
 "So that\'s it.
  ...If someone can solve the witch\'s riddle, they will receive the headship regardless of rank.
- In other words, it is the most advantageous condition that {f:5:Beatrice} could get, since she had no chance whatsoever."
-The revival of the Ushiromiya family had been made possible by the gold {f:5:Beatrice} had bestowed.
+ In other words, it is the most advantageous condition that BEATRICE could get, since she had no chance whatsoever."
+The revival of the Ushiromiya family had been made possible by the gold BEATRICE had bestowed.
  ...In other words, the credit belonged to her.
 She had built that wealth together with Kinzo, so it was natural that she would have thought of herself as the one who should inherit it...
  It would also be natural for her to despise the thought of giving a single cent to the children of the wife Kinzo had never loved.
@@ -456,13 +456,13 @@ Natsuhi turned red, her fist quivering.
 Those who knew that understood more or less why she was so angry for the sake of Kinzo\'s dead wife.
 "...Well, thanks to her outrageous action, we now all have an even chance, right?"
 "And also, Father has given that outrageous action his silent approval.
- ......Will the person who succeeds the Ushiromiya family be his mistress {f:5:Beatrice}, or one of us, who he may not love, but who do carry his blood?
+ ......Will the person who succeeds the Ushiromiya family be his mistress BEATRICE, or one of us, who he may not love, but who do carry his blood?
  Maybe he wants to make us struggle over that to see who is worthy."
 As Eva giggled roguishly, Krauss shrugged his shoulders and looked away.
 "......However, since it was the other party that brought up this condition,
  I wonder if that means that the other party has a significant advantage."
 "Tha‐that\'s a point, too.
- ...In the first place, if {f:5:Beatrice} meant that letter literally, then she\'s Father\'s alchemist.
+ ...In the first place, if BEATRICE meant that letter literally, then she\'s Father\'s alchemist.
  In other words, she\'s the manager of his gold.
  It wouldn\'t be strange at all if she knew where it was hidden, would it?!"
 "What a bad joke this is.
@@ -500,7 +500,7 @@ Could it be that this person was trying to stir the siblings up so that they tri
 "Of course.
  The headship of the Ushiromiya family is not something that can be handed over so easily!"
 "That\'s it exactly.
- No matter how one‐sided a game {f:5:Beatrice} proposes, and even if she splendidly shows us the answer,
+ No matter how one‐sided a game BEATRICE proposes, and even if she splendidly shows us the answer,
  there\'s no way that we\'ll obediently hand over the headship."
 "......In other words, unless there is something that forcibly compels us to play this game under fair conditions,
  this game won\'t function as a game."
@@ -512,7 +512,7 @@ Could it be that this person was trying to stir the siblings up so that they tri
  I get it.
  ......They would just have to do something which would make us willingly give up the headship.
  I see.
- ...Then, yes, certainly, {f:5:Beatrice} would have to be in possession of the ten tons of gold...!"
+ ...Then, yes, certainly, BEATRICE would have to be in possession of the ten tons of gold...!"
 "R‐right, I get it too!
  In other words, ...it\'s a trade, right?!"
 "Huh?
@@ -520,7 +520,7 @@ Could it be that this person was trying to stir the siblings up so that they tri
  A trade?
  Trade what?!"
 "The Ushiromiya family headship for the hidden gold.
- ...{f:5:Beatrice} surely plans to tell us the location of the ten tons of gold, and use that as a bribe to gain the Ushiromiya family headship."
+ ...BEATRICE surely plans to tell us the location of the ten tons of gold, and use that as a bribe to gain the Ushiromiya family headship."
 "R‐ridiculous!!"
 "They want to trade the succession to the glorious Ushiromiya family for...m‐money?!
  Blasphemy!!
@@ -553,8 +553,8 @@ Natsuhi became indignant once again, but Krauss raised his hand again and interr
  Now is not the time to be putting up a front."
 "......So this is what Kyrie is trying to say.
  ......Every last one of us is stuck for money.
- And {f:5:Beatrice} has ten tons of gold."
-"......As the only person who knows the location of the ten tons of gold, {f:5:Beatrice} is planning on using it to force us to sell the position of family head.
+ And BEATRICE has ten tons of gold."
+"......As the only person who knows the location of the ten tons of gold, BEATRICE is planning on using it to force us to sell the position of family head.
  ...About how much is ten tons of gold worth?"
 "As a rough estimate... 2 billion yen?
  .........No, 20 billion yen.
@@ -570,7 +570,7 @@ Even the rain and the wind sounded louder.
  We have nothin\' to lose and money to gain.
  Sure, we\'ll have to calculate our profit and loss, but it\'s somethin\' worth listenin\' to...!"
 They knew that much of the Ushiromiya family assets had been eaten up by Krauss.
-The dregs that remained of that inheritance...versus the "compensation for being accepted as the head" that {f:5:Beatrice} would pay.
+The dregs that remained of that inheritance...versus the "compensation for being accepted as the head" that BEATRICE would pay.
 It was a shame, but honestly, the former was less enticing than the latter.
 "...Well, it probably wouldn\'t end up as four equal portions.
  Since Aniki would be giving up his position of successor, his portion would have to be larger.
@@ -595,39 +595,39 @@ It was a shame, but honestly, the former was less enticing than the latter.
  I\'d be happy to sell it off..."
 "Even if the full ten tons might be a bit much to expect,
  .........I see, it would still be an attractive prospect for us.
- ...We were trying to form an alliance among the siblings to kick this outsider called {f:5:Beatrice} out."
+ ...We were trying to form an alliance among the siblings to kick this outsider called BEATRICE out."
 "......But, if this is her plan,
  ......it will tear apart the unity between us.
  ...Yes, by this point we can state it clearly.
- ......The goal of {f:5:Beatrice}\'s letter was to disturb our alliance."
+ ......The goal of BEATRICE\'s letter was to disturb our alliance."
 If the three younger siblings, who were never going to have any connection with the succession of the headship in the first place,
- were paid enough money to satisfy them, they would happily accept {f:5:Beatrice} as the next head.
+ were paid enough money to satisfy them, they would happily accept BEATRICE as the next head.
 So every obstacle to her headship would be removed except for Krauss.
 In that case, the negotiations would be one‐on‐one between her and Krauss.
 He tried to look strong, but Krauss\'s financial and political situation was extremely weak.
 ...He did bluff in front of his siblings, but on the inside, he was probably thinking that it might be alright to enter negotiations depending on the sum of money involved.
 In order to bury his losses, Krauss had taken advantage of the fact that Kinzo had shut himself up in his room, and had embezzled Kinzo\'s personal assets.
 Therefore, when Kinzo died and the inheritance was distributed, Krauss would be held to account for that.
-But if he gave up his seat as the head to {f:5:Beatrice},
+But if he gave up his seat as the head to BEATRICE,
  she would also receive the rights to the assets, and as a result, the distribution of the inheritance to the siblings would not occur.
 ......In other words, Krauss\' embezzlement might not have to be made known to the other siblings...
 Of course, the siblings were frightened of Kinzo, but it was doubtful whether they still actually respected him as a father.
 By this time, they each had their own families, their own wealth, and their own lives.
 If they were paid enough money in exchange for Rokkenjima, the wrecked remains of Kinzo\'s dreams,
  ......there was a significant possibility that they would relinquish the Ushiromiya family name......
-In other words, {f:5:Beatrice}\'s victory was already guaranteed in this "game".
-Not as the winner of "{f:5:Beatrice}\'s game",
+In other words, BEATRICE\'s victory was already guaranteed in this "game".
+Not as the winner of "BEATRICE\'s game",
 ...but as the winner of "Kinzo\'s game".
 ...Kinzo had put up the epitaph.
 And to this day, no one had been able to solve it.
-So {f:5:Beatrice} had "solved" it.
-In other words, this is less of a game and more like {f:5:Beatrice}\'s declaration of victory...
+So BEATRICE had "solved" it.
+In other words, this is less of a game and more like BEATRICE\'s declaration of victory...
 However, Kyrie still felt something was slightly out of place.
-If this was a declaration of victory, {f:5:Beatrice} would only have to display the gold openly, and state that she would buy the family headship.
+If this was a declaration of victory, BEATRICE would only have to display the gold openly, and state that she would buy the family headship.
 And yet, even at this late stage, she was explicitly telling the siblings to try to solve the epitaph.
  Why had she set up this "new game", where she agreed to hand over the all of the gold and the right to succeed the head to the person who solved the epitaph?
 Kyrie tried flipping over the chessboard several times.
-...Searching for the best strategy that might have guided {f:5:Beatrice} to this line of thinking.
+...Searching for the best strategy that might have guided BEATRICE to this line of thinking.
 ...In the end, ...she reached a single conclusion.
 "...............Arrogance,
  ...perhaps?
@@ -642,7 +642,7 @@ Kyrie tried flipping over the chessboard several times.
  might come across the answer of the riddle by chance."
 The reason the witch had a superior position on the negotiations compared to the siblings was that only she knew the location of the hidden gold.
 But if that hiding place was exposed to someone other than her, the witch\'s superior position would crumble.
-"In short, {f:5:Beatrice} gains nothing but risk by writing this witch\'s letter of challenge."
+"In short, BEATRICE gains nothing but risk by writing this witch\'s letter of challenge."
 "......Of course, it might have had the effect of splitting apart the siblings\' alliance,
  but if that was her only goal, why would she take this risk, however slight it might be......?
  I think that\'s reckless."
@@ -657,7 +657,7 @@ But if that hiding place was exposed to someone other than her, the witch\'s sup
 "...............I understand that.
  I also like that sort of thing.
  ...I understand well."
-"I tried thinking of a few other plausible explanations for the true motive behind {f:5:Beatrice}\'s letter,
+"I tried thinking of a few other plausible explanations for the true motive behind BEATRICE\'s letter,
  ......but I think that this really might be the truth.
  ......The emotion hidden behind that letter...
 ......was arrogance."

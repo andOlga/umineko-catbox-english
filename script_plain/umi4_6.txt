@@ -64,7 +64,7 @@ In other words, until Kinzo\'s library was leaked to the public by Eva,
 However, when knowledge of the Ushiromiya Library spread across the world, Rokkenjima\'s image immediately took on an occult twist.
 "And so, what happened next was that matter with the message bottle.
  It is what turned that island into a witch\'s island.
- A nameless island in the Izu archipelago began to transition into an occult island, and then into the island of the mysterious witch, {f:5:Beatrice}."
+ A nameless island in the Izu archipelago began to transition into an occult island, and then into the island of the mysterious witch, BEATRICE."
 "You could say that, lacking either the Ushiromiya Library or the message bottle, the Rokkenjima Witch Legend would never have been established."
 "......A message bottle."
 "Yes.
@@ -99,10 +99,10 @@ Later on, a sensation was created when it came to light that on the day of the a
 Several sheets of notebook paper had been stuffed into each of the two wine bottles.
 They were extensive accounts, written in a diary‐like fashion by some unknown person calling themselves Ushiromiya Maria, of the events of the day of the accident and the day before.
 And it was these that prompted the beginning of the "Witch Legend Serial Murder Case",
- and "the mystery of the Golden Witch {f:5:Beatrice}".
+ and "the mystery of the Golden Witch BEATRICE".
 "These bizarre diary‐style accounts describe the Ushiromiya family members, pinned to the island by the typhoon,
  becoming caught up in a ritual for the resurrection of a witch, and being killed one after another in inexplicable ways."
-"And at the end, the Golden Witch {f:5:Beatrice} revives, and swallows everything up into the Golden Land.
+"And at the end, the Golden Witch BEATRICE revives, and swallows everything up into the Golden Land.
  ......They were written almost as though this was the complete picture of the events of that day."
 "Additionally, the state of things on the island at the time is also depicted in immense detail,
  and former servants who once worked for the Ushiromiya family have given testimony that the pages were definitely written by a person who knew the inside details of the island."
@@ -240,7 +240,7 @@ At that point, Ange set a book on the table with a thud.
 He prided himself on his thorough knowledge of all literature related to Rokkenjima, but he looked bewildered at this binding that he had never laid eyes on before...
 Ignoring him, Ange silently flipped through the pages, opened to one of them, and showed him.
 On that page was a handwritten paragraph beginning with "To my dear witch apprentice".
-......And at the end, there was a signature in {ruby:katakana:capitals} that said "{f:5:Beatrice}".
+......And at the end, there was a signature in {ruby:katakana:capitals} that said "BEATRICE".
 "Wh‐what is............"
 The instant he glanced at it,
  his face went pale.
@@ -276,7 +276,7 @@ His voice didn\'t reach her.
 "Did you find anything?"
 "......At the very end.
  I was right.
- The one who wrote the message bottles was {f:5:Beatrice} herself."
+ The one who wrote the message bottles was BEATRICE herself."
 "Now that\'s <cool>.
  So it\'s settled, is it, the witch exists?"
 "Who knows.
@@ -330,7 +330,7 @@ Still not getting sleepy.
 Even though there was no wind, I suddenly got the feeling that Maria onee‐chan\'s diary had fluttered open.
 ......Then, Onee‐chan appeared.
 Her form was no longer the normal one that I knew.
-...She was wearing the dress that {f:5:Beatrice} had given her after acknowledging her status as a witch.
+...She was wearing the dress that BEATRICE had given her after acknowledging her status as a witch.
 ".........If you don\'t get some sleep, it\'ll be tough tomorrow, you know?"
 "If I were a witch too,
  ......I could use magic, right?"
@@ -420,9 +420,9 @@ But this, too, was a book to be written in.
 It was one of Maria onee‐chan\'s elaborate notebooks.
 This one was not a diary.
 ......It was a grimoire, which she had written as a witch.
-The Seven Stakes of Purgatory were {f:5:Beatrice}\'s furniture.
+The Seven Stakes of Purgatory were BEATRICE\'s furniture.
 Created by her and employed only for her sake.
-But since {f:5:Beatrice} was a witch of Mariage Sorcière, they could also be employed by {f:5:Maria}, who was a witch of the same alliance.
+But since BEATRICE was a witch of Mariage Sorcière, they could also be employed by MARIA, who was a witch of the same alliance.
 For that reason, the method of summoning the Seven Stakes of Purgatory and how to handle them was written about in great detail in Maria onee‐chan\'s grimoire...
 And...
 as another person with her name in the same alliance, I was also permitted to employ them.
@@ -482,7 +482,7 @@ But I need insurance...
 ".........It\'s alright.
  That is still endowed with a sufficient amount of magic defense.
  As long as you have it on, I\'m certain you\'ll be fine."
-Maria onee‐chan\'s magical power, in particular the power she could put into charms, was enough to earn even {f:5:Beatrice}\'s admiration.
+Maria onee‐chan\'s magical power, in particular the power she could put into charms, was enough to earn even BEATRICE\'s admiration.
 ......While it would only have looked like something cheap to a human who couldn\'t understand magic,
  its magical worth was incalculable.
 "..............................
@@ -545,14 +545,14 @@ Although you could say it suited her, in a demonic sort of way.
  You aren\'t going to say that you\'re my owner, are you, Ange‐sama...?"
 ".........Yep.
  Ange is your master."
-"Lady {f:5:Maria}...
+"Lady MARIA...
  .........I am ashamed.
  Was that barrier just now yours?"
 "Yeah.
  I thought that as Ange is now, she might just fall to you.
  I lent her a talisman."
 ".....................
- ......If I am told by Lady {f:5:Maria} that Ange‐sama is my master, I can hardly refuse.
+ ......If I am told by Lady MARIA that Ange‐sama is my master, I can hardly refuse.
  .........Ange‐sama, I am yours to command.
  Given that my assistance is required...is it a new ritual?
  New sacrifices...?"
@@ -584,7 +584,7 @@ Or perhaps she had some other reason for hating Ange,
  The Seven Sisters were really lively when they got together.
  ......But with your magical power now, I think summoning Mammon is the best we can hope for.
  The stakes for the other six have been lost."
-"My apologies, Lady {f:5:Maria},
+"My apologies, Lady MARIA,
  but I believe it may not be impossible to summon the Seven Sisters via my own stake.
  ......If Ange‐sama is to employ me, I would hope that she has at least that much power......?"
 Mammon giggled.
@@ -637,7 +637,7 @@ Once again, ......the power of magic began to fill me up.
  It radiated as a faint, and yet distinct pale blue light from both of my hands......
 "Ange‐sama...!
  Keep it up, keep it up, do your best...!
- Hey, Lady {f:5:Maria}.
+ Hey, Lady MARIA.
  Ange‐sama will definitely summon everyone, right?
  The Seven Sisters will get to be reunited again, right?
  Right?!"
@@ -735,7 +735,7 @@ I may not have thought of them as anything but sadness and loneliness.
  Do you realize how much it\'s burdening Ange‐sama just for us to have an idle chat?!"
 Satan, who had apparently figured out the situation immediately after being summoned, yelled out in a loud voice, telling her sisters off.
 ......That loud voice made my consciousness fade again.
-"We are furniture that has been permitted rest by {f:5:Beatrice}, furniture that has finished its duty!
+"We are furniture that has been permitted rest by BEATRICE, furniture that has finished its duty!
  Not content to be graced with the opportunity to once again be of some use, you are putting a burden on your new master—this is a DISGRACE to furniture!!
  Erase yourselves RIGHT NOW!!"
 "Yes, it\'s like Satan‐nee says.

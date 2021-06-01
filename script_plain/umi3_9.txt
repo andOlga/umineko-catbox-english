@@ -99,7 +99,7 @@ That makes it a good place to hole up in.
 ......And.
  There\'s an extremely high likelihood that this mass murder of six people is a "game".
 Because the culprit had proclaimed that in a letter.
-I heard that a Western‐style envelope with the family crest, just like the one Maria claimed to have received from {f:5:Beatrice} yesterday,
+I heard that a Western‐style envelope with the family crest, just like the one Maria claimed to have received from BEATRICE yesterday,
  had been found in the boiler room where Grandfather\'s corpse had been discovered.
 This was what the letter said:
 {e:070:So that there will be no misunderstandings.
@@ -112,7 +112,7 @@ If no one can solve the riddle of the epitaph, no one will survive.}
  the Ushiromiya family headship, and all of my power.
 I was the one who succeeded the Ushiromiya family headship from Kinzo‐sama.
 And I look forward to seeing who will receive the headship from me.
-——{f:5:Beatrice} the Golden.}
+——BEATRICE the Golden.}
 ...This riddle of the epitaph was...that thing.
 That strange epitaph written in the same place as the portrait of the witch, displayed in the hall of the mansion.
 Grandfather was the one who ordered that it be written,
@@ -165,7 +165,7 @@ Now, all I could do was be taught how to use a gun,
  Don\'t forget that."
 ".........Sure.
  I\'ll be damned if the same moves are going to work on me over and over.
- .........Get out here, {f:5:Beatrice}.
+ .........Get out here, BEATRICE.
  Let\'s get started!!!"
 "I am already seated at the match table.
  My turn, too, is already complete."
@@ -176,7 +176,7 @@ Now, all I could do was be taught how to use a gun,
  Master\'s moves are all outdated classics.
  There is nothing to fear."
 "...What moves can you make beyond the classics I taught you?
- I am looking forward to seeing, {f:5:Beatrice}."
+ I am looking forward to seeing, BEATRICE."
 "......*cackle*cackle*cackle*cackle*.
  Is that alright, Battleerr?
  If a person who denies witches such as yourself accepts a witch as a strategist..."
@@ -189,7 +189,7 @@ Now, all I could do was be taught how to use a gun,
  Come, begin!!
  It is your turn!"
 "Let\'s begin with the reconstruction of the crime scene.
- ......{f:5:Virgilia}, if you please!"
+ ......VIRGILIA, if you please!"
 "The first body discovered was Shannon\'s.
  She was found in the parlor on the first floor of the mansion.
  The door and windows were locked, and a locked room was established."
@@ -200,7 +200,7 @@ Now, all I could do was be taught how to use a gun,
  Of course, no form of intrusion or escape, nor even any interference is possible.
  That is comprehensive, including a denial of hidden doors, as well as all margin for interference from the outside."
 "......Henceforth, this definition will be referred to as:
- "{f:5:Beatrice}\'s locked‐room definition"!"
+ "BEATRICE\'s locked‐room definition"!"
 "Confirming specifics.
  ......Define "margin for interference from the outside"."
 "It refers to all types of direct interference from the outside, such as using a fishing line or a long, thin rod.
@@ -222,10 +222,10 @@ Now, all I could do was be taught how to use a gun,
 "In other words, you can\'t define it so that even methods of communication are interrupted?"
 "That is the case."
 "Understood.
- .........So, Shannon‐chan\'s parlor satisfies "{f:5:Beatrice}\'s locked‐room definition"?"
+ .........So, Shannon‐chan\'s parlor satisfies "BEATRICE\'s locked‐room definition"?"
 "That is correct."
 ".........Locked‐room definition understood.
- Continue, {f:5:Virgilia}."
+ Continue, VIRGILIA."
 "Yes."
 ".........Shannon\'s body was in possession of one master key.
  The relatives who discovered her collected this."
@@ -255,7 +255,7 @@ There are five, one for each servant}."
  ......The relatives unlocked it with the key they had found near Shannon\'s body."
 "Inside the room, Kumasawa\'s body was discovered.
  The room was a locked room.
- That definition is based upon "{f:5:Beatrice}\'s locked‐room definition"."
+ That definition is based upon "BEATRICE\'s locked‐room definition"."
 ".........Kumasawa was in possession of one master key.
  The relatives collected this."
 "And like Shannon, there was a Western envelope discovered alongside her.
@@ -265,7 +265,7 @@ There are five, one for each servant}."
 "Yes."
 "Inside the room, Gohda\'s body was discovered.
  The room was a locked room.
- Based on "{f:5:Beatrice}\'s locked‐room definition"."
+ Based on "BEATRICE\'s locked‐room definition"."
 "Gohda was in possession of one master key.
  The relatives collected this."
 "And just as before, a Western envelope with a family seal was discovered.
@@ -327,7 +327,7 @@ When Ronove rebuked her, Beato stuck her tongue at him shamelessly.
  There\'s no need for me to listen to your bullshit!!
  Go wave your magic staff or whatever as much as you like and act out how you lock the door with your seven‐colored magic.
  And before long, I\'m sure there\'ll be people along to stand beside you, advertising their snake oil and all‐purpose kitchen knives!"
-"{f:5:Virgilia}, reconstruct the crime scene!
+"VIRGILIA, reconstruct the crime scene!
  I\'ll search for a weakness!!
  Were they all definitely dead?
  If one of them is just playing dead, this isn\'t a locked room at all!"
@@ -348,7 +348,7 @@ When Ronove rebuked her, Beato stuck her tongue at him shamelessly.
 "You are challenging him to a chess match, are you not, Milady?"
 "That\'s true, but...
 ...muu!"
-{f:5:Beatrice} puffed out her cheeks, as though saying "I don\'t know why, but I don\'t like it!"
+BEATRICE puffed out her cheeks, as though saying "I don\'t know why, but I don\'t like it!"
 "Because the police have not yet arrived at the scene, the human side\'s ability to prove things is limited.
  For a strict confirmation of death, I recommend a repetition request."
 "Alright, that\'s where I\'ll strike, repetition requested!!"
@@ -452,7 +452,7 @@ a trap would make for an excellent remote murder!"
  There is no need for me to explain that!!
  And even so, it doesn\'t damage my claim!!"
 "Wh‐what did you saaaaaaaaayy...?!?!"
-"{f:5:Beatrice}, it is a "Devil\'s Proof".
+"BEATRICE, it is a "Devil\'s Proof".
  The fact that he cannot explain the form of the trap...
 does not in itself disprove that there was a trap!"
 "............Well done.
@@ -606,7 +606,7 @@ None of the six committed suicide}!"
  ......Then they planned to escape from or hide in that room by some method."
 "However, there was an accident!!
  The culprit died from an accident that even they hadn\'t expected, and constructed a locked room that even they hadn\'t desired!!
- Now it\'s over, {f:5:Beatrice}!!
+ Now it\'s over, BEATRICE!!
  Checkmate!!!"
 "D......damn iiiit!!
  Did you think I would be cornered by something like that!!
@@ -687,7 +687,7 @@ Even though she ridiculed me horribly when I showed signs of defeat, she was so 
 I thought of her as a pretty unfair person, but I decided to act with dignity as a winner and accepted it.
 ......Beato had resigned.
 That was the only result of the first twilight.
-{f:5:Beatrice} couldn\'t counter my move of "one of the six was the culprit,
+BEATRICE couldn\'t counter my move of "one of the six was the culprit,
  and that person died in an accident".
 ...No, she probably could have countered it, but because of some strategic decision, she had given up.
 I felt less like I had won, and more like she had escaped me one step from victory...
@@ -702,7 +702,7 @@ However, I don\'t have a clue who committed the crime,
  why, and how they actually did it...
 I shouldn\'t say this having won,
  ......but I get the feeling that I would have felt less muddled...
-if I had just been told right out by {f:5:Beatrice} that it was completely impossible for a human.
+if I had just been told right out by BEATRICE that it was completely impossible for a human.
 Although I hide behind these abstract pieces called X,
 ............I couldn\'t deny that some kind of unthinkable,
  creepy intention had definitely pervaded this mansion...

@@ -310,7 +310,7 @@ As Battler and George tightly hugged each other, they cried a waterfall of tears
 "When Auntie Rosa was repeatedly killed in horrible ways,
  ......you said, "she\'ll be brought back to life in the end, so it doesn\'t matter how she kills her",
  ...or something like that, I hear.
- {f:5:Virgilia} told me."
+ VIRGILIA told me."
 ".........That was...
 ...well...
 umm........."
@@ -330,7 +330,7 @@ umm........."
 ".........That is a very, very frightening thing.
  That is why, as an Endless Witch, and out of my own desire,
  I never reached your level."
-{f:5:Virgilia} had told Beato that countless times before.
+VIRGILIA had told Beato that countless times before.
 But Beato had been too young to obediently listen to those words.
  She had been too wild.
  ...She had been possessed by that...detestable pleasure.
@@ -343,7 +343,7 @@ But Beato had been too young to obediently listen to those words.
  People are not captivated by what\'s inside.
  They are captivated by the lock that seals it.
  .........It truly is deplorable."
-".........I want to ask you, {f:5:Virgilia}.
+".........I want to ask you, VIRGILIA.
  Why does this thing called the Endless Magic exist?
  ...For what purpose does it exist in this world?"
 "It is not limited to the Endless Magic.
@@ -366,7 +366,7 @@ But Beato had been too young to obediently listen to those words.
 "...I, .........I don\'t know about that.
  ...The reason I proposed this game to you was, umm, ......simply as a way to kill time...
  There was no one\'s ulterior motive."
-"Just now, I heard the definition of a witch from {f:5:Virgilia}.
+"Just now, I heard the definition of a witch from VIRGILIA.
  By that definition, you, Beato,
  are not even a witch.
  You\'d be an apprentice who\'s in the middle of her training, and who misunderstands her own power."
@@ -387,9 +387,9 @@ But Beato had been too young to obediently listen to those words.
 "No, I\'ve said enough.
  You think about the rest.
  .........I\'ve said everything I want to say.
- ...If you can\'t understand it, try talking with {f:5:Virgilia} and Ronove.
+ ...If you can\'t understand it, try talking with VIRGILIA and Ronove.
  ...A brat like you should start off by listening to what the adults say."
-".........{f:5:Virgilia}.
+".........VIRGILIA.
  I will suspend the game for now.
  Now that Ronove has stepped down as representative,
  all we can do is wait for Beato to gain the qualifications of a proper opponent."
@@ -524,11 +524,11 @@ He probably hadn\'t been asking anyone, but Jessica answered.
 "......Enough to leave a scar for life, ...you say."
 "......It\'s like Grandfather\'s occult hobby.
  That was what they whispered about it.
- ......That maybe {f:5:Beatrice} was his lover, who died a long time ago, and he was so sad that he couldn\'t pull himself together."
+ ......That maybe BEATRICE was his lover, who died a long time ago, and he was so sad that he couldn\'t pull himself together."
 "......And that\'s why he started sacrificing the rest of his life to research of the occult, in order to revive the dead.
  ......That\'s what they said."
 "In that case, Grandfather succeeded in that miracle in his last moments.
- ......The culprit would be the revived {f:5:Beatrice}, with Grandfather being reunited with her at the moment he was killed.
+ ......The culprit would be the revived BEATRICE, with Grandfather being reunited with her at the moment he was killed.
  ......Pretty ironic that he revived her, only then to be killed by her."
 "............Even so, Grandfather was probably able to meet her.
  ...He gambled half of his life, and even though it was only for a short time,
@@ -639,10 +639,10 @@ Now I understand.
 From the beginning, it had all been only for that reason.
  ...Just to revive the person dear to him, ...Grandfather spent the rest of his remaining life researching the Western occult.
 .........The situation surrounding us right now was abnormal.
-Grandfather had revived his beloved {f:5:Beatrice}.
-...And that {f:5:Beatrice} had carried out a terrible serial murder,
+Grandfather had revived his beloved BEATRICE.
+...And that BEATRICE had carried out a terrible serial murder,
  with chains of locked rooms that were impossible without the use of magic.
-......The Golden Witch, {f:5:Beatrice}.
+......The Golden Witch, BEATRICE.
 The incarnation of the miracle of the Western occult.
 .........And also, the culprit who killed Shannon......
 I should hate that being, ............and yet, for some reason, I want to cling to the hope she represents.
@@ -654,7 +654,7 @@ In return, she could impose any kind of devil\'s contract.
 For that, I would sacrifice all of my remaining life...
 George probably couldn\'t have believed or noticed that, ...right behind him,
  ......the witch herself stood, listening to his voiceless wish.
-{f:5:Beatrice} had been listening to everything George and the others had to say since their discussion just now in the cousins\' room.
+BEATRICE had been listening to everything George and the others had to say since their discussion just now in the cousins\' room.
 ......Battler had told her that she didn\'t know the weight of a human\'s life,
  ......and wanting to understand that in her own way, she had stealthily visited, and listened to their discussion.
 "........................
@@ -682,7 +682,7 @@ And then, ......careful not to surprise him, she softly called out.
  ...Can you hear my voice...?"
 "......I can hear.
  ......Who are you...?
- Are you really the witch, {f:5:Beatrice}...?
+ Are you really the witch, BEATRICE...?
  ...Or else, are you an illusion created by my sadness...?"
 ".........If it\'s the former, I want you to hear my wish.
  ...And if it\'s the latter, just leave me alone..."
@@ -692,7 +692,7 @@ of casually accepting something that would have been absurd in the real world?
 ......The conversation in this world was like that.
 So even though a witch appeared and started talking to George, he was not surprised...
 "Mm.
- ......I am...the Golden Witch, {f:5:Beatrice}.
+ ......I am...the Golden Witch, BEATRICE.
  .........Normally, you and I would not be able to talk together like this.
  ...However, you are strongly conscious of me, and wish to have a discussion,
  ...so both of our channels are able to match like this."
@@ -832,7 +832,7 @@ Meanwhile...
  Anti‐magic power is extremely low.
  If Eva just goes outside, they\'re tuna and abalone on a chopping board.
  Nihihihihi...!"
-"What would you ask of us, Great Lady {f:5:Beatrice}?
+"What would you ask of us, Great Lady BEATRICE?
  If you give the order, we will snipe right away...!
  Please, your orders...!"
 "...You guys reaally are convenient furniture.
@@ -861,7 +861,7 @@ At that time, the witch noticed something.
 For just an instant, Lucifer sent a glance at Ronove, questioning whether she should answer honestly or not.
 Ronove gave a small nod in response.
 "No.
- ...My apologies, {f:5:Beatrice}‐sama.
+ ...My apologies, BEATRICE‐sama.
  Nothing from us.
  .........Forgive us for this stupidity, as we are only second‐hand furniture."
 "..........................."

@@ -28,7 +28,7 @@ She was probably talking to Rosa,
 "Only, ......considering that I am a witch,
  I think it would be wise to ask for something that only a witch can grant."
 "Isn\'t this a rare chance.
- You can actually receive a favor from me, {f:5:Beatrice} the Golden.
+ You can actually receive a favor from me, BEATRICE the Golden.
  *cackle*cackle*!"
 "........................u........."
 Finally, Rosa started to feel the blood flowing through her body.
@@ -204,8 +204,8 @@ Three goat‐head servants with muscular physiques approached the compressor, an
 The witch had definitely said that only one golden drop could be taken from a single human.
 And yet, she had dozens of people\'s worth of golden drops from a single human.
 ......Only a witch could do this.
-The Golden Witch {f:5:Beatrice} could kill a single human "endlessly".
-......In other words, before {f:5:Beatrice}, even death did not mean release.
+The Golden Witch BEATRICE could kill a single human "endlessly".
+......In other words, before BEATRICE, even death did not mean release.
 "Want a second sip?
  Have you forgotten the day this man hit you, and you swallowed the blood that ran into your mouth?"
 "That\'s right, remember that taste.
@@ -327,10 +327,10 @@ think I\'m a burden, Mama,
  Then I\'ll have you accept it.
  That I am a witch.
  Proclaim it.
- Proclaim that "Ushiromiya Rosa accepts that {f:5:Beatrice} is a witch"!!"
+ Proclaim that "Ushiromiya Rosa accepts that BEATRICE is a witch"!!"
 "......I accept it!!
  U‐Ushiromiya Rosa...
-...accepts that B‐{f:5:Beatrice}...
+...accepts that B‐BEATRICE...
 ...is a witch!!
  So give Maria back!!
  Release meeeeeeeeeeeeee!!"
@@ -381,7 +381,7 @@ As it did, the witch broke to pieces, turned into a group of gold butterflies, a
  And I always finish what I started!!
  In a man\'s fight, you don\'t lose until you accept defeat, no matter how much you get beat up!!"
 "Don\'t think I\'m out just because you took a shot at me.
- Entertain me, {f:5:Beatriceeeeeeeeeeeee}!!"
+ Entertain me, BEATRICEEEEEEEEEEEEE!!"
 "I\'ll accept your challenge, Ushiromiya Battler!!
  Furniture, begin preparations for the next game!!"
 "And while we\'re waiting, I have much I want to hear from you!

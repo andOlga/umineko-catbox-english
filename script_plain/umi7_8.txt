@@ -4,24 +4,24 @@
  More or less."
 "I hope you\'re not going to suggest...
 ...that the head killed her..."
-"{f:5:Bernkastel} isn\'t asking about the two Beatrices involved with Kinzo.
- She\'s talking about who killed the 1986 {f:5:Beatrice}."
-"......I\'m not really sure what you mean by "this year\'s {f:5:Beatrice}".
- What\'s all this about a witch called {f:5:Beatrice}?
+"BERNKASTEL isn\'t asking about the two Beatrices involved with Kinzo.
+ She\'s talking about who killed the 1986 BEATRICE."
+"......I\'m not really sure what you mean by "this year\'s BEATRICE".
+ What\'s all this about a witch called BEATRICE?
  You\'ve mentioned a ghost story, you\'ve mentioned an epitaph...
  Isn\'t it about time you explained all this to me?"
 "Alright.
  No point stringing you along."
 "Let\'s start from the beginning.
- ......Who is this witch {f:5:Beatrice}?"
+ ......Who is this witch BEATRICE?"
 "Strictly speaking, it isn\'t a person.
- "{f:5:Beatrice}, the Golden Witch" is the name of a concept."
+ "BEATRICE, the Golden Witch" is the name of a concept."
 "You mean the ghost stories themselves?"
 "To be more specific, even the ghost stories are only one of the elements that create the concept."
 "You\'ve lost me."
 "Ghost stories are normally told in the third person or second person.
  However, someone started telling those in the first person."
-"You mean someone started saying that they were {f:5:Beatrice} themselves...?"
+"You mean someone started saying that they were BEATRICE themselves...?"
 "The legend of Rokkenjima\'s evil spirits, and the made‐up story for keeping kids out of the forest...
  These were combined with Kinzo\'s constant cries of "Beatrice, Beatrice" and gradually became the legend of the witch.
  Ushiromiya Maria became entranced by that fictional witch and begged for a chance to meet her.
@@ -30,17 +30,17 @@ granted her wish."
 ".........I\'m still not following, but I\'ll just nod and tell you to keep going.
  ......What do you mean by "granted her wish"?"
 "Because of the unfortunate way in which Ushiromiya Maria was brought up, she became obsessed with the occult.
- ......Someone felt sympathy for her, acted the part of {f:5:Beatrice}, and played with her."
+ ......Someone felt sympathy for her, acted the part of BEATRICE, and played with her."
 Maria tends to recognize people by their behavior instead of their physical appearance.
 When Rosa becomes violent, Maria calls her "the black witch", and at these times, Maria views her as a different person, not her mother.
 So,
  this means that she tends to think of the same person as different people depending on their behavior.
-We can use this to see the scene where Maria first met {f:5:Beatrice} in a new light.
+We can use this to see the scene where Maria first met BEATRICE in a new light.
 After being chased out of the mansion by the adults, Maria decided to drink some tea in the rose garden.
 At that time, someone probably started talking to Maria.
-Then, ......when they heard this occult‐loving girl talking happily about how she wanted to meet the witch {f:5:Beatrice},
- .........this person acted as though {f:5:Beatrice} was possessing them.
-On the outside, they didn\'t look like {f:5:Beatrice}.
+Then, ......when they heard this occult‐loving girl talking happily about how she wanted to meet the witch BEATRICE,
+ .........this person acted as though BEATRICE was possessing them.
+On the outside, they didn\'t look like BEATRICE.
 However, when their manner of speech and behavior changed abruptly, Maria would recognize them as a different person.
 That\'s why "her" appearance was so sudden.
 "We can probably view Maria\'s love of witches and the occult as a form of escapism.
@@ -51,9 +51,9 @@ That\'s why "her" appearance was so sudden.
  I do feel sorry for Maria, but still..."
 "Don\'t ignore the heart.
  ......So, Maria believed for the sake of believing.
- She believed in {f:5:Beatrice}\'s simple conjuring trick from the bottom of her heart.
+ She believed in BEATRICE\'s simple conjuring trick from the bottom of her heart.
  That probably comforted her a lot.
- ......And at that moment, the witch {f:5:Beatrice} was born."
+ ......And at that moment, the witch BEATRICE was born."
 "Someone saw that Maria‐chan wanted to meet a witch, so they decided to play witches with her...?"
 "That\'s right."
 This marks the birth of Beato the Elder.
@@ -61,32 +61,32 @@ All of that about living a thousand years and being bound to Rokkenjima.
 That was all the result of mixing the legend of Rokkenjima\'s evil spirits with the story of a ghost wandering the mansion at night.
 As Furudo Erika guessed, the two ghost stories fused.
 Someone fused the two stories together and acted the part.
-So, {f:5:Beatrice} held traits from both ghost stories: she was the master of the mansion\'s night, while also fearing spiderwebs.
-"So, when {f:5:Bernkastel} asks us who killed {f:5:Beatrice},
- she means who killed the kind person who pretended to be {f:5:Beatrice}?"
+So, BEATRICE held traits from both ghost stories: she was the master of the mansion\'s night, while also fearing spiderwebs.
+"So, when BERNKASTEL asks us who killed BEATRICE,
+ she means who killed the kind person who pretended to be BEATRICE?"
 "That\'s close, but not quite.
  It\'s not the one who pretended.
  We\'re talking about two different people.
  ......In Maria\'s eyes, just like how her mother and the black witch are different people,
- {f:5:Beatrice} and the person who played that part are also different people."
+ BEATRICE and the person who played that part are also different people."
 It\'s just like Mariage Sorcière.
 That was where one person would be the creator, and the other person would acknowledge those creations, thereby nurturing the illusion.
-The Golden Witch {f:5:Beatrice} was also created by one person, and then nurtured when Maria acknowledged her.
+The Golden Witch BEATRICE was also created by one person, and then nurtured when Maria acknowledged her.
 "You mean, even if you kill the acted character, that doesn\'t mean you\'ve killed the kind person who was playing the part?"
-"Even if {f:5:Beatrice}\'s vessel is lost, that isn\'t the same as {f:5:Beatrice} being killed."
+"Even if BEATRICE\'s vessel is lost, that isn\'t the same as BEATRICE being killed."
 "......It\'s easier to understand if we use a telephone as an example.
  Let\'s say I call you on the phone.
  From my perspective during the call, the phone is you, in the sense that it is what I talk to."
 "But what if I destroy the phone?"
 "......I see.
  If you kill the phone, you won\'t be able to talk to me, but that doesn\'t mean you\'ve killed me."
-"We know Maria once offered to let {f:5:Beatrice} possess her, early on in their relationship.
- That clearly shows that {f:5:Beatrice} did not look like the portrait at that time."
+"We know Maria once offered to let BEATRICE possess her, early on in their relationship.
+ That clearly shows that BEATRICE did not look like the portrait at that time."
 "So, if the person acting the part and the witch character they play are different people, ......we\'re talking about killing just the witch character itself.
  ......Is that even possible?"
 "Only the actor can kill the character.
- In other words, the person who killed {f:5:Beatrice} is the person who played the part of {f:5:Beatrice}."
-"You mean that the person who played witches with Maria‐chan is the culprit {f:5:Bernkastel}\'s talking about?"
+ In other words, the person who killed BEATRICE is the person who played the part of BEATRICE."
+"You mean that the person who played witches with Maria‐chan is the culprit BERNKASTEL\'s talking about?"
 "That\'s it.
  .........But, as if this wasn\'t confusing enough, this chapel is now a world inside a cat box.
  The culprit is the cat, and there are now two cats existing at the same time—one alive, and one dead."
@@ -94,11 +94,11 @@ The Golden Witch {f:5:Beatrice} was also created by one person, and then nurture
  I\'m still lost, but keep going.
  You\'re saying that there are two culprits?"
 "Right.
- ......The person who can create and kill {f:5:Beatrice}...
-...and the person who never gave birth to {f:5:Beatrice} in the first place, who can kill the entire concept of {f:5:Beatrice}.
+ ......The person who can create and kill BEATRICE...
+...and the person who never gave birth to BEATRICE in the first place, who can kill the entire concept of BEATRICE.
  Both of those people are here."
 "Then let me ask.
- In this {f:5:Beatrice} murder case,
+ In this BEATRICE murder case,
  who are the two culprits?"
 "Let\'s start with...
 ...the dead cat."
@@ -108,9 +108,9 @@ The Golden Witch {f:5:Beatrice} was also created by one person, and then nurture
 ......
 ......?"
 "The logic is extremely simple.
- Your world is the only one where the witch {f:5:Beatrice} doesn\'t exist."
+ Your world is the only one where the witch BEATRICE doesn\'t exist."
 "I don\'t understand."
-"Both Maria and Jessica told me stories about the witch {f:5:Beatrice}.
+"Both Maria and Jessica told me stories about the witch BEATRICE.
  However, when they talked about the ranking system at the dining table, you weren\'t there."
 "I...wasn\'t there...?"
 "Maria came to visit Rokkenjima with Rosa.
@@ -127,25 +127,25 @@ In that case, they should be across the table from each other and separated by o
  However, which side of the table they\'re sitting on changes."
 In the world where Lion exists, Ange\'s seat is on Jessica\'s left.
 However, if Lion doesn\'t exist, then Ange\'s seat is on Jessica\'s right.
-"Every time someone talked about the witch {f:5:Beatrice} of 1986, they were all talking about a world where you don\'t exist.
+"Every time someone talked about the witch BEATRICE of 1986, they were all talking about a world where you don\'t exist.
  And, in your world, there are no ghost stories about a witch.
  To you, "Beatrice" is either Kinzo\'s mistress or his benefactor, not a wandering ghost."
 "The head loved Beatrice deeply, did he not?
  I can\'t imagine why she would be made into a ghost story."
 "Exactly.
- If you exist, the witch {f:5:Beatrice} doesn\'t.
+ If you exist, the witch BEATRICE doesn\'t.
  Your existence...
 ...kills {f:7:Beatrice}."
-"Are you saying I\'m the culprit who killed {f:5:Beatrice}......?
+"Are you saying I\'m the culprit who killed BEATRICE......?
  That\'s......just crazy.
  How can I be the culprit if I don\'t even understand her and have never met her?"
 "Flip it around.
- ......If you don\'t exist, {f:5:Beatrice} will be born."
+ ......If you don\'t exist, BEATRICE will be born."
 "Flip it?
- Are you trying to say {f:5:Beatrice} and I are two sides of a coin?"
+ Are you trying to say BEATRICE and I are two sides of a coin?"
 "That\'s a good way to put it.
  That\'s it exactly.
- You\'re a coin, and {f:5:Beatrice} is on the other side."
+ You\'re a coin, and BEATRICE is on the other side."
 "I don\'t get it at all."
 "At first, I didn\'t get your existence either.
  ......But, I have formed a theory about you, after hearing all this.
@@ -185,10 +185,10 @@ Jessica is 18 years old, .........so Lion must be 19.
 "......Well done.
  ...*giggle*giggle*giggle*giggle*."
 There was a crisp applause and a mocking laugh.
-"{f:5:Bernkastel}."
+"BERNKASTEL."
 "......That was faster than I expected.
  I thought you\'d let me play a bit longer."
-{f:5:Bernkastel} appeared sitting on the altar,
+BERNKASTEL appeared sitting on the altar,
  ......almost as though it had become her own personal chair.
 "When did you realize that Lion shared Beatrice\'s blood?"
 "As soon as I realized that Lion was 19.
@@ -268,12 +268,12 @@ to find that their parents weren\'t who they believed them to be.
 But all the same, Lion, ...you\'re allowed to feel grateful.
  Grateful to the family who raised you and met your every need...
 "It is pretty interesting.
- ......Hard to believe that the Golden Witch {f:5:Beatrice} might\'ve lived such an ordinary life,
+ ......Hard to believe that the Golden Witch BEATRICE might\'ve lived such an ordinary life,
  even at absurdly low probabilities."
 "Isn\'t it?
  I think moments like this are hilarious......"
 Will had said it plainly.
-Ushiromiya Lion......is how the Golden Witch {f:5:Beatrice} appears in a different world.
+Ushiromiya Lion......is how the Golden Witch BEATRICE appears in a different world.
 The baby Natsuhi rejected 19 years previous.
 If she accepts that child, this is the future that results...
 However, if she does not accept it, ......a witch is born.
@@ -288,7 +288,7 @@ The baby whose birth was not celebrated becomes a witch...
  ......If I wasn\'t trapped in here, I wouldn\'t have bothered to reason this out."
 ".....................
  ......I think I know why I was chosen to be your partner in this strange detective game.
- ......It seems this {f:5:Bernkastel} witch...
+ ......It seems this BERNKASTEL witch...
 enjoys toying with people\'s fates and making a mockery of them."
 "Wow, incredible.
  ......It\'s rare for someone to understand me the same day they meet me.
@@ -304,7 +304,7 @@ enjoys toying with people\'s fates and making a mockery of them."
  I don\'t think anyone would be pleased to hear that.
  ......Please, tell me.
  What do I do in that other world?"
-"............{f:5:Bernkastel}?"
+"............BERNKASTEL?"
 "You have the fragments... Why not show them?"
 "..............."
 Will opened his hand...
@@ -335,7 +335,7 @@ It contained the memories—no, the records—of all the games so far.
 "..................Well, that came out of nowhere."
 "I could see you as a fairly slender boy.
  But then again, I could also see you as a no‐nonsense sort of girl.
- ......Even {f:5:Bernkastel} has been intentionally keeping it a secret.
+ ......Even BERNKASTEL has been intentionally keeping it a secret.
  She made Jessica call you "the future heir" all the time, instead of "big brother" or "big sister"."
 "......*giggle*.
  You are quick."
@@ -370,15 +370,15 @@ It was no surprise.
  ......I\'ve talked about the dead cat."
 "Very true.
  Next up is the living cat."
-"The only one who can kill the {f:5:Beatrice} of 1986 is the one who created her."
+"The only one who can kill the BEATRICE of 1986 is the one who created her."
 "There were tons of hints.
- If you think about it, they\'ve been coming since back when {f:5:Beatrice} was running the games."
+ If you think about it, they\'ve been coming since back when BEATRICE was running the games."
 "That\'s true.
- ......In the fourth game between {f:5:Beatrice} and Battler, {f:5:Beatrice}\'s origin became clear.
- And, at that point, I learned who {f:5:Beatrice} was, and I understood that person\'s heart."
+ ......In the fourth game between BEATRICE and Battler, BEATRICE\'s origin became clear.
+ And, at that point, I learned who BEATRICE was, and I understood that person\'s heart."
 "What do you mean by heart?"
 "......The reason for committing the crime.
- ......The reason that {f:5:Beatrice} had to gamble her own fate in the commission of a game‐like crime on October 5th, 1986—
+ ......The reason that BEATRICE had to gamble her own fate in the commission of a game‐like crime on October 5th, 1986—
 the motive."
 "Impressive.
  So, you\'d figured out the whodunit and the whydunit by the end of the fourth game.
@@ -392,16 +392,16 @@ the motive."
  ......You might call that the other treasure of the Golden Land."
 "......Oh?
  So, you say that by the fourth game,
- ......in other words, with just {f:5:Beatrice}\'s games, you managed to reach all of the answers?"
+ ......in other words, with just BEATRICE\'s games, you managed to reach all of the answers?"
 "It\'s possible.
- ......{f:5:Lambdadelta}\'s and Battler\'s games after that were just an extra helping of hints.
+ ......LAMBDADELTA\'s and Battler\'s games after that were just an extra helping of hints.
  ......As is this game of yours."
 "*giggle*giggle*......
  ......In that case, why don\'t you stop beating around the bush, and just tell me?
  .........Who is...
 the culprit......?"
 At that moment, .........though there hadn\'t been anyone but them in the chapel, quiet footsteps rang out.
-That silhouetted figure slowly walked up to Will and {f:5:Bernkastel}...and gave a small bow.
+That silhouetted figure slowly walked up to Will and BERNKASTEL...and gave a small bow.
 ".........So, you\'ve come."
 "Did you call this person here?"
 "Yeah.
@@ -438,9 +438,9 @@ At the end of the fifth game, Battler finally understood.
  .........it took him so long...
 ...that he didn\'t make it in time.
 So, even though she is alive here and now, Battler cannot save her.
-That\'s why he\'s absent from {f:5:Beatrice}\'s funeral. He won\'t come.
+That\'s why he\'s absent from BEATRICE\'s funeral. He won\'t come.
  ......He won\'t make it in time.
-"......This is {f:5:Beatrice}\'s funeral.
+"......This is BEATRICE\'s funeral.
  You will confess,
  ......the divine Master will hear,
  .........and I will forgive you.
@@ -456,12 +456,12 @@ That\'s why he\'s absent from {f:5:Beatrice}\'s funeral. He won\'t come.
 "............*giggle*."
 "If you\'re ready, let\'s begin.
  ......No one will rush you.
- .........{f:5:Bernkastel} has closed off time for eternity until your funeral ends.
+ .........BERNKASTEL has closed off time for eternity until your funeral ends.
  You have endless time to prepare yourself emotionally..."
 The shadowy figure slowly shook its head.
 It had come here because it was already ready.
 Will nodded to show he understood.
-......Then, the two of them looked into {f:5:Bernkastel}\'s eyes,
+......Then, the two of them looked into BERNKASTEL\'s eyes,
  ......and Will spoke out clearly.
 {a:c:
 "Here\'s the culprit."}

@@ -1,5 +1,5 @@
 "Hahahaha, wahahahaha!
- I never thought that Lady {f:5:Bernkastel}\'s piece would barge in at the very end...!"
+ I never thought that Lady BERNKASTEL\'s piece would barge in at the very end...!"
 "......I searched all over the place for a piece fitting for a game with you.
  ......I\'m sure that you\'ll grow to enjoy her."
 "What\'s with that piece?!
@@ -15,7 +15,7 @@
  See?
  Isn\'t she a funny kid?"
 "M‐...mm.
- ......Lady {f:5:Lambdadelta}\'s simple‐minded naiveté truly is precious and funny.
+ ......Lady LAMBDADELTA\'s simple‐minded naiveté truly is precious and funny.
  ......*cackle*cackle*!"
 "Why, why, why I am the only one you won\'t tell, you meanie!!
  Okay, in exchange, I\'ll teach you a special secret that only I know!
@@ -33,26 +33,26 @@
  Oh‐hoh‐hoh‐hoh‐ho!"
 ".........Your father was the one who came to your place, Lambda?"
 "To my place... Wait, what\'s that supposed to mean?"
-"...Lord {f:5:Santa Claus} only visits the homes of children with clean hearts.
+"...Lord SANTA CLAUS only visits the homes of children with clean hearts.
  He didn\'t come to your place, then?"
-"Well, Lord {f:5:Santa Claus} is gracious.
+"Well, Lord SANTA CLAUS is gracious.
  Unless you are a reeeally bad scoundrel, he will give you a present.
  After all, he even gave them to me!"
 ".........As you grow and your heart becomes hardened, he stops coming, doesn\'t he?
  How old were you, Beato, when he stopped coming?"
 "Mm.
  He stopped coming when I was about twelve.
- My maiden\'s heart awoke, and I quickly got somewhat embarrassed about Lord {f:5:Santa} coming."
+ My maiden\'s heart awoke, and I quickly got somewhat embarrassed about Lord SANTA coming."
 "After I wrote "Thanks for everything, that\'s enough.
  So make sure you splurge on the last presents", he stopped coming.
  Oooh, and I was looking forward to it too!
- How old were you when he stopped coming, Lady {f:5:Bernkastel}?"
+ How old were you when he stopped coming, Lady BERNKASTEL?"
 ".........I was pretty wild.
  ...It happened fairly early.
  I think when I was about nine.
  ...Something about that beard really irritated me, so I waited in my futon with some sewing scissors ready, thinking I\'d cut it off.
  ............What a cringeworthy age."
-"So, ......Lady {f:5:Lambdadelta}, as long as you can remember, Lord {f:5:Santa Claus} has never come to see you, you say.
+"So, ......Lady LAMBDADELTA, as long as you can remember, Lord SANTA CLAUS has never come to see you, you say.
  ............He usually comes until the last year of elementary school or during middle school."
 "...Maybe we should have a doctor look at her.
  I hear that maturing too fast can have an adverse effect on the growth of mind and body.
@@ -123,13 +123,13 @@
  My, my, you two really are close."
 "..............................
  ......Yes, that\'s right.
- ...Oh, how I love you, {f:5:Bernkastel}.
+ ...Oh, how I love you, BERNKASTEL.
  You could even say I\'m in love with you."
 "......I want to gouge out her eyes so she can see no one other than me.
  ......Oh, wouldn\'t that just be to die for?
  It\'d be wonderful to dunk them in black tea.
  Ahah!"
-"Who knew she had entranced Lady {f:5:Lambdadelta} to this extent.
+"Who knew she had entranced Lady LAMBDADELTA to this extent.
  ......It seems I carry a heavy responsibility.
  Still, this last game truly was close!
  I was a breath away from defeating Battler."
@@ -140,19 +140,19 @@
  *cackle*cackle*!"
 "...Just when are you going to stop screwing around?
  ...Do you even have the slightest intention of winning?"
-{f:5:Lambdadelta} threatened her with a low voice that she had never used in front of {f:5:Bernkastel}.
+LAMBDADELTA threatened her with a low voice that she had never used in front of BERNKASTEL.
 ...It completely blew away the calm atmosphere which had been there until a moment ago.
 ".........You know,
- I\'m supporting you \'cause you\'re meant to be a witch who can win against {f:5:Bernkastel}.
+ I\'m supporting you \'cause you\'re meant to be a witch who can win against BERNKASTEL.
  If you don\'t have the power to win against her,
  then I\'m ready to abandon you at any time, got it......?"
 "...............How scathing.
  What about me dissatisfies you?
  ...As you know, my game board is perfect.
- Lady {f:5:Bernkastel} will never be able to win..."
+ Lady BERNKASTEL will never be able to win..."
 "Yeah, that\'s right.
  Your board truly is impressive.
- {f:5:Bernkastel} could spend a hundred years,
+ BERNKASTEL could spend a hundred years,
  or even a thousand years here, and she would still be unable to win against this game board, it truly is that impressive and perfect."
 "......That\'s why, in exchange for letting me borrow that, I made you a witch.
  .........If I stop being your guardian, you\'ll immediately go back to being a {y:0:Human}{n:0:human}.
@@ -160,7 +160,7 @@
 "I, ......I know that.
  ...I am grateful to you..."
 "Don\'t speak so casually.
- I\'ll forgive that when {f:5:Bernkastel}\'s around, but I won\'t when she isn\'t.
+ I\'ll forgive that when BERNKASTEL\'s around, but I won\'t when she isn\'t.
  Recently, maybe you\'ve forgotten your debt to me."
 "Th‐that is, .........n‐...not, ......not so, my Lady......"
 "...Aah, changed my mind, that creeps me out.
@@ -170,11 +170,11 @@
 "M‐......mm......"
 "Back to the point.
  ...Your game board truly is perfect.
- ......You should be able to defeat {f:5:Bernkastel} without any trouble.
+ ......You should be able to defeat BERNKASTEL without any trouble.
  ...But that kid won\'t give in easily.
  She\'ll challenge you over and over."
 "That is no problem.
- ...It has been certified by you, Lady {f:5:Lambdadelta}.
+ ...It has been certified by you, Lady LAMBDADELTA.
  ......My game board is perfect."
 "Yeah, that\'s right, it\'s perfect.
  ............So long as you, the player, are perfect as well, that is?"
@@ -182,27 +182,27 @@
 "What I mean by this...?
  That\'s what I want to ask you.
  .........You play around a lot in your games.
- ...At first, I thought it was part of your tactics, because it would completely baffle {f:5:Bernkastel} from time to time."
+ ...At first, I thought it was part of your tactics, because it would completely baffle BERNKASTEL from time to time."
 "............But I get the feeling that\'s not quite true.
  You\'re not playing around in a match you know you can win,
  ......the truth is, you don\'t care whether you win or lose, do you?"
 "R‐......ridiculous...
  How could that be..."
 "Listen close, okay?
- Your role is to break {f:5:Bernkastel}, force her to yield.
+ Your role is to break BERNKASTEL, force her to yield.
  In other words, that means being the victor in this game for all eternity.
  ......As long as you keep trying to become the certain victor, then I will give you my power as the Witch of Certainty.
  ............However."
 "If you fight in a way that doesn\'t deny any possibility of your loss,
  ...that\'s a different story."
 "This is a game, of course...
- In the same way that Lady {f:5:Bernkastel} will lose if I win,
+ In the same way that Lady BERNKASTEL will lose if I win,
  ...there will be some days on which I will lose and she will win.
  The possibility of loss always exists.
  That is why I—"
 "...............This is why you\'re useless.
  There\'s no need for this to be a game board for you.
- It simply needs to be a bird cage to lock {f:5:Bernkastel} up here for all eternity."
+ It simply needs to be a bird cage to lock BERNKASTEL up here for all eternity."
 "...What\'s the role of a bird cage?
  Making certain that the little bird inside never escapes.
  ......What\'s a bird cage worth if it has gaps that sometimes let the bird out?"
@@ -226,8 +226,8 @@
  .........You were miserable in the first place, so it\'ll be worth choosing a really miserable fragment.
  ...*giggle*giggle*giggle*giggle*giggle*."
 "................................."
-"Oh, how I love you, {f:5:Bernkastel}.
- ...Scrabble your feet in {f:5:Beatrice}\'s bird cage as much as you like,
+"Oh, how I love you, BERNKASTEL.
+ ...Scrabble your feet in BEATRICE\'s bird cage as much as you like,
  and spend a thousand years learning that you can no longer escape."
 "......And when you give in,
  ...I\'ll train you so that you can\'t tweet in anyone\'s palm but mine."

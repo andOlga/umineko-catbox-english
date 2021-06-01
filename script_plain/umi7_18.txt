@@ -64,7 +64,7 @@ October 4th and 5th, 1986, were sealed away by an absolute and certain will,
 "......Live with enough happiness for the both of us.
  I\'m glad I got to meet you once...at the end.
  .........You have my thanks,
- Lady {f:5:Bernkastel}."
+ Lady BERNKASTEL."
 ".........I\'m just carrying out your funeral.
  There\'s no need to thank me.
  ......Well, it\'s about time to end this.
@@ -314,7 +314,7 @@ Even the sound of rain was gone.
  maybe the whole island where she lived and died was the Golden Land."
 "If you can call a cat box a Golden Land, that is.
  ......And of all the imaginable stories that could occur within that cat box, Battler wrote the most enjoyable."
-"......You mean that book in {f:5:Beatrice}\'s coffin?"
+"......You mean that book in BEATRICE\'s coffin?"
 "That\'s right.
  .........It\'s the happiest possible tale for her, which he thought up himself."
 "It was a really fun, love‐filled, ......happy tale.
@@ -358,7 +358,7 @@ His form and footprints gradually faded away......until there was no trace left.
 "......What is it?"
 "No, it\'s nothing.
  ......It\'s been a century since anyone\'s thanked me, so I wasn\'t sure how to respond."
-{f:5:Bernkastel} shrugged, then floated up into the air.
+BERNKASTEL shrugged, then floated up into the air.
 Then, she looked up at the beautiful seven colors of light shining in through the stained glass...
 and spoke as though someone was looking down on her from there.
 "Auaurora.
@@ -372,7 +372,7 @@ and spoke as though someone was looking down on her from there.
  You\'re done with me now.
  ......Bye, Lion.
  And bye to you too, observer witches."
-{f:5:Bernkastel} burst and disappeared.
+BERNKASTEL burst and disappeared.
 A single golden flower petal glittered.
 ......Lion picked it up.
 It was the only trace of a miracle that remained in this chapel......
@@ -388,7 +388,7 @@ It was the relatives.
  Finally some good weather!"
 "Everyone,
  let us return to the mansion.
- I have been told that {f:5:Beatrice}\'s funeral is over."
+ I have been told that BEATRICE\'s funeral is over."
 "Father, where\'s the head?"
 "He\'ll be here in a sec.
  Today was pretty crazy.
@@ -406,12 +406,12 @@ It was the relatives.
 "Our family head...! There you are."
 As Kinzo came out after the others, Lion ran up to him.
 "......You did very well today.
- ......{f:5:Beatrice}\'s funeral is now complete."
+ ......BEATRICE\'s funeral is now complete."
 "Yes.
- ......And I\'m sure that {f:5:Beatrice}\'s soul was saved."
+ ......And I\'m sure that BEATRICE\'s soul was saved."
 "..................
  ......How could you know that?"
-"I was with {f:5:Beatrice} until a second ago.
+"I was with BEATRICE until a second ago.
  ......And I saw her leave on her journey with no regrets.
  That\'s how I know."
 "......................................."

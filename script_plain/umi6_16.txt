@@ -23,7 +23,7 @@
 "Those for whom it is bad news...
 have probably already figured it out!"
 ""If you don\'t know what we\'re talking about, then it\'s good news for you!!""
-"............{f:5:Beatrice}‐sama...?"
+"............BEATRICE‐sama...?"
 ".........It\'s nothing."
 "........................"
 Five people were there.
@@ -46,7 +46,7 @@ Everyone murmured.
 "Battler‐kun, the one we thought of as our greatest enemy...
  .........I won\'t ask why.
  If the demons in charge say so, then that\'s how it is."
-".........Then...what will happen to {f:5:Beatrice}‐sama...?"
+".........Then...what will happen to BEATRICE‐sama...?"
 "..................It seems I will lose the right to take this trial."
 "After all, this is a trial to test the bonds between lovers!"
 "Battler‐kun isn\'t currently capable of doing that.
@@ -102,10 +102,10 @@ I have to think of an escape trick as soon as possible,
 "I would like to save you, as you are both my dear sister and a part of my full self.
  ......I am tackling Battler\'s locked room in my own way, .........but it is difficult.
  It feels almost as though an ordinary chain has been made to look like a wire puzzle..."
-"I heard from {f:5:Lambdadelta}‐san.
- ......She said that the old {f:5:Beatrice} could definitely solve this trick.
+"I heard from LAMBDADELTA‐san.
+ ......She said that the old BEATRICE could definitely solve this trick.
  ......Don\'t you have any idea?"
-"That old {f:5:Beatrice} is our completed form after we become one.
+"That old BEATRICE is our completed form after we become one.
  ......Even I am naught but a part of her.
  It stands to reason that I cannot solve it..."
 By this,
@@ -225,8 +225,8 @@ In the witches\' cathedral,
  ......stood with the whole vast cathedral to herself as the flush slowly left her cheeks.
 Then,
  ......on the balcony that she had thought empty, ...a shadow came into view.
-It was...{f:5:Lambdadelta}...
-"......Oh, it\'s you, Lady {f:5:Lambdadelta}.
+It was...LAMBDADELTA...
+"......Oh, it\'s you, Lady LAMBDADELTA.
  It\'s not often one finds you alone in a place like this."
 ".........Oh, you.
  ......Congratulations on your big victory.
@@ -241,7 +241,7 @@ She was probably trying to be sarcastic.
  then sealed away in some awful hell..."
 Erika had an unpleasant, triumphant look on her face,
  as though she had managed to pry into some embarrassing memory of another\'s past.
-However, {f:5:Lambdadelta} didn\'t look in the least bit flustered,
+However, LAMBDADELTA didn\'t look in the least bit flustered,
  ......and instead looked down from the balcony in silence.
 ".........Yep.
  ......I wonder how many years I was shut up in there.
@@ -329,13 +329,13 @@ Everything is left to luck.
  .........It sounds like you\'re jealous of the relationship we have, but give it up.
  The hell you think you\'ve trudged through is nothing more than a blink compared to the one we crawled out of."
 "...................................."
-{f:5:Lambdadelta} was probably......mocking Erika back.
-And the discouraged expression on Erika\'s face clearly showed that she couldn\'t accept {f:5:Lambdadelta}\'s words.
+LAMBDADELTA was probably......mocking Erika back.
+And the discouraged expression on Erika\'s face clearly showed that she couldn\'t accept LAMBDADELTA\'s words.
 ".........If you\'ll pardon me for saying,
  ......I think it\'s the depth of the hell that\'s important, not the length of time spent there."
 "Oh......?
- ......You\'re not afraid to talk back, are you? .........Witch of Truth, {f:5:Erika}."
-"I don\'t know what kind of hell you were in, Lady {f:5:Lambdadelta}.
+ ......You\'re not afraid to talk back, are you? .........Witch of Truth, ERIKA."
+"I don\'t know what kind of hell you were in, Lady LAMBDADELTA.
  ......And I\'m sure the time I spent in hell was nothing more than a flash compared to yours.
  ......However, I don\'t think the depths of my hell were any shallower than yours."
 ".........In celebration of your victory, I\'ll hear you out without arguing back."
@@ -360,12 +360,12 @@ is the reason you two couldn\'t become Witches of Truth...?"
  ......I\'ll forgive you for those impudent words.
  Letting them pass with a slight nod is my present to you for your recent victory."
 "*giggle*.
- ......Thank you very much, Great Lady {f:5:Lambdadelta}☆"
+ ......Thank you very much, Great Lady LAMBDADELTA☆"
 "Oh, that\'s unusual.
  ......It\'s rare to spot you two getting along."
-At some point, {f:5:Bernkastel} had appeared on the opposite balcony of the cathedral.
+At some point, BERNKASTEL had appeared on the opposite balcony of the cathedral.
 Erika, noticing her, cried "my master" happily and dashed over.
-"Lady {f:5:Lambdadelta} was telling me old stories about you.
+"Lady LAMBDADELTA was telling me old stories about you.
  ......A tale of miracles fitting for my master, the Witch of Miracles...!"
 "............I\'ll forgive you just this once."
 "Huh?"
@@ -373,7 +373,7 @@ Erika, noticing her, cried "my master" happily and dashed over.
 A grimace rose to her face,
  ......blasting Erika\'s good mood away.
 And so, Erika understood.
- ......{f:5:Bernkastel} was also a witch running from boredom.
+ ......BERNKASTEL was also a witch running from boredom.
  Because if it ever caught up with her, ......she would remember.
  ......Those never‐ending days of hell......
 This is proof that even my master...
@@ -392,16 +392,16 @@ It means that she lacks the power to withstand the truth.
  What are you gonna give her?"
 "First, I acknowledge your ascension as a true witch, not just a temporary one.
  .........I\'ll be your guardian.
- Witch of Truth, Furudo {f:5:Erika}."
+ Witch of Truth, Furudo ERIKA."
 "Th‐thank you very much!!"
 "All you did was remove the temporary bit.
  That sort of reward can\'t be very pleasing.
  She really deserves something better, don\'t you thi~nk?"
 "N‐no, that\'s not true, I\'m very pleased."
 Of course, on the inside, Erika did want another present.
- ......Taking a cue from {f:5:Lambdadelta}, she waited patiently to see if there would be any other rewards.
+ ......Taking a cue from LAMBDADELTA, she waited patiently to see if there would be any other rewards.
 "I do have one other."
-{f:5:Bernkastel} snapped her fingers.
+BERNKASTEL snapped her fingers.
 ......As she did, a cloud of gold butterflies gathered,
  ......and summoned Battler sitting in a throne at the center of the cathedral.
 Of course, his eyes were blank.
@@ -432,7 +432,7 @@ Of course, his eyes were blank.
 "And in exchange, you will put a ring of servitude on Battler\'s finger.
  ......For eternity you will rule him, debase him,
  ...and use this territory and game board to weave whatever tale your heart desires."
-"Furudo {f:5:Erika}, you will be the territory lord.
+"Furudo ERIKA, you will be the territory lord.
  ......Any tale you wish will come true.
  ......The territory lord is a god.
  ...Congrats, you\'ll be the god of this small but wonderful world."
@@ -443,13 +443,13 @@ Of course, his eyes were blank.
  Take Battler\'s ring and create your own world.
  ......When that happens, you won\'t be my piece anymore.
  You\'ll be your own witch, and a splendid one at that."
-".........Congratulations, Lady {f:5:Erika}.
+".........Congratulations, Lady ERIKA.
  And, one day, you must welcome me when I come to visit, just like Beato once did."
 "Y‐yes, my master...!!
  There could be no greater honor...!
  And I\'m starting to like this marriage to Battler thing!
  ......*giggle*, if you think about it, there could be no greater disgrace to this game!"
-"After all, that {f:5:Beatrice} was apparently born out of a desire to serve Battler and be liked by him.
+"After all, that BEATRICE was apparently born out of a desire to serve Battler and be liked by him.
  In the world that witch created, ......I will marry, defile, and humiliate Battler!!
  *giggle*giggle*, *cackle*cackle*cackle*cackle*!!
  Oh yes, I understand.
@@ -501,7 +501,7 @@ In short,
  ............
 *giggle*giggle*giggle*giggle*!!"
 "And then, let\'s have a bird cage hanging from the ceiling.
- We can stick your beloved witch {f:5:Beatrice} in there.
+ We can stick your beloved witch BEATRICE in there.
  What do you think......?
  ......Wonderful, isn\'t it......?
  Eheheheheheheheheeheheheheheheheh!!
@@ -515,12 +515,12 @@ A locked room...
 ......called marriage.
 "Hey, did you hear, Furfur...?!"
 "I sure did, Zepar...!
- Lord {f:5:Battler} and Lady {f:5:Erika} are having a wedding!"
+ Lord BATTLER and Lady ERIKA are having a wedding!"
 They said it with so much of their usual frivolity...
 that Beato had to ask them to repeat it again.
 "Wh‐......what......is happening......?"
 "As you know, the lord of this territory has had his heart sealed away and cannot speak."
-"So the beautiful Lady {f:5:Erika} is going to become his wife and support him in his work!"
+"So the beautiful Lady ERIKA is going to become his wife and support him in his work!"
 The two demons explained the situation in a very simple,
  yet dramatic way.
 ......I know what\'s going on.
@@ -532,7 +532,7 @@ At this rate, ......Battler will have his position as Game Master...
  Let\'s steal him back!
  He may be of little importance to me, but matters that affect you are my business also!"
 "It\'s no use to just steal his body back!
- After all, the great Lady {f:5:Bernkastel} has already signed the marriage certificate as a witness!"
+ After all, the great Lady BERNKASTEL has already signed the marriage certificate as a witness!"
 "With a Great Witch of the Senate serving as a witness, no one can dispel the union except for those who are a part of it...!"
 "......Then it\'s as I thought...... Unless I can rescue Battler‐san\'s heart from that locked room,
  ......there\'s no way we can save him......"
@@ -808,7 +808,7 @@ And, also a great mystery is the question of how this can be the key...
  ......will I find the key towards solving that locked room...?
 I will, right?
  Zepar‐san, Furfur‐san......!
-The cathedral was beautifully decorated to be the place of the wedding between the territory lord, Lord {f:5:Battler}, and his wife‐to‐be, Lady {f:5:Erika}...
+The cathedral was beautifully decorated to be the place of the wedding between the territory lord, Lord BATTLER, and his wife‐to‐be, Lady ERIKA...
 A crowd of guests wearing goat masks filled the cathedral, waiting for the arrival of the bride and groom...
 Fitting for a demon\'s wedding, it was not solemn or quiet,
  ......but cheery and noisy, brimming with activity.
@@ -838,17 +838,17 @@ Fitting for a demon\'s wedding, it was not solemn or quiet,
  ......The locked room we need to break open to save Battler isn\'t the guest room.
  It\'s the locked rooms in the guesthouse...!"
 ".........Most unfortunately,
- we of Eiserne Jungfrau have been placed in charge of those two {f:5:rooms}."
+ we of Eiserne Jungfrau have been placed in charge of those two ROOMS."
 "Tch.
  And you guys specialize in seals and barriers..."
 "I must admit, I am impressed, Miss Gaap.
- It is quite an achievement to realize that the locked room you should destroy to save Battler is within the {f:5:guesthouse}.
- ......The ceremony will probably begin soon, but shall we reconstruct the scene as a way to kill time until {f:5:then}?"
+ It is quite an achievement to realize that the locked room you should destroy to save Battler is within the GUESTHOUSE.
+ ......The ceremony will probably begin soon, but shall we reconstruct the scene as a way to kill time until THEN?"
 "......A‐are you sure?
- Doesn\'t this violate the obligation of confidentiality you have as Lady {f:5:Erika}\'s piece...?"
-"That is no {f:5:problem}.
+ Doesn\'t this violate the obligation of confidentiality you have as Lady ERIKA\'s piece...?"
+"That is no PROBLEM.
  ......I am sure that if you first confirm the seals around the scene and fall into despair,
- ......we will all be able to celebrate this ceremony more {f:5:sincerely}."
+ ......we will all be able to celebrate this ceremony more SINCERELY."
 "How confident......
  ......I\'ll take that challenge.
  ...Lia, let\'s have ourselves a little snack before the ceremony."
@@ -856,11 +856,11 @@ Fitting for a demon\'s wedding, it was not solemn or quiet,
  we humbly ask that you reconstruct the scene for us."
 ""For your attention: we hear and obey.""
 "......This is......the cousins\' room."
-"The next room over has the exact same {f:5:layout}.
- Please investigate as thoroughly as you {f:5:like}."
+"The next room over has the exact same LAYOUT.
+ Please investigate as thoroughly as you LIKE."
 "This room has......Genji, Gohda, Kanon...
 plus Krauss, Rudolf, and Jessica, for a total of six people."
-"The next room over has Hideyoshi, George, Shannon, Kumasawa, and Nanjo, for a total of five {f:5:people}."
+"The next room over has Hideyoshi, George, Shannon, Kumasawa, and Nanjo, for a total of five PEOPLE."
 "Come on, everyone, don\'t be stupid.
  It doesn\'t matter who\'s here.
  We need to find out how to escape from this room."
@@ -875,14 +875,14 @@ plus Krauss, Rudolf, and Jessica, for a total of six people."
 "You were in charge of the window seal of Kinzo\'s room last game, right...?
  ......Just how did Battler get Kinzo out of that room again...?"
 "..........................."
-"......Cornelia was not at {f:5:fault}.
- The blame rests on me as her {f:5:superior}."
+"......Cornelia was not at FAULT.
+ The blame rests on me as her SUPERIOR."
 "This is exactly the same as Kinzo\'s study.
  It\'s the windows.
  This locked room can be broken by the windows.
  ......It\'s clear as day how you people operate."
 "H‐how...?!
- Lady {f:5:Erika} sealed the entire room, right...?
+ Lady ERIKA sealed the entire room, right...?
  That means the entire room is sealed, including the windows...!"
 "......I see.
  ......It would seem that we have been misinterpreting the definition of these seals.
@@ -893,17 +893,17 @@ is not impossible to break out of.
  ......Yes, a seal proves that a room is a locked room.
  But it doesn\'t guarantee that the room will remain sealed.
  All it does is prove that the room is a locked room as long as the duct tape isn\'t broken."
-"We are not trying to deceive you in any {f:5:way}.
- .........As long as the duct tape is intact, it is guaranteed to be a locked {f:5:room}.
- That is {f:5:all}."
+"We are not trying to deceive you in any WAY.
+ .........As long as the duct tape is intact, it is guaranteed to be a locked ROOM.
+ That is ALL."
 "Th‐then why the windows...?!
  Why is it that we can break the locked room by the windows?!"
 "It\'s simple.
  We just tear the duct tape apart and jump out.
  ......I don\'t know what the outside wall of the guesthouse is like,
  but that girl crawled up it and stuck duct tape on the outside without anyone noticing, so it must have at least enough footholds for that."
-".........If you break the duct tape, we will immediately know that the seal has been {f:5:broken}.
- And we have already proven that the seals were intact at the time of Battler\'s logic {f:5:error}."
+".........If you break the duct tape, we will immediately know that the seal has been BROKEN.
+ And we have already proven that the seals were intact at the time of Battler\'s logic ERROR."
 "True.
  It\'s true that, at that time, you proved that the seals weren\'t broken.
  ......That\'s how you tricked us into thinking that it was a locked room.
@@ -919,8 +919,8 @@ Dlanor looked up at her with a bold expression, and sparks flew between them....
 ".........Pu ku ku ku.
  ...I see.
  ......This is the sort of falsification that the Great Court of Heaven likes to practice."
-"I cannot let that remark {f:5:pass}.
- ......What is your {f:5:complaint}?"
+"I cannot let that remark PASS.
+ ......What is your COMPLAINT?"
 "Come on, I\'ve been saying it the whole time. It\'s the windows.
  ......It\'s true that you sealed everything with those seals.
  That included the windows, at that time.
@@ -934,10 +934,10 @@ Dlanor looked up at her with a bold expression, and sparks flew between them....
  All they had to do was tear the duct tape on the window, slip out from there, and save Battler...!"
 "But at the time of the logic error, it was proven that the seals were intact...!"
 "Incorrect.
- ......At that time, Lady {f:5:Erika} only proved the status of the seals on the doors."
+ ......At that time, Lady ERIKA only proved the status of the seals on the doors."
 ".........................................."
 "C‐......come to think of it...!
- At that time, Lady {f:5:Erika} just showed the doors of the two rooms and claimed that the seals were intact for each...
+ At that time, Lady ERIKA just showed the doors of the two rooms and claimed that the seals were intact for each...
  She never mentioned the seals on the windows...!!"
 "That\'s correct.
  .........It\'s probably true that the seals on the doors and windows were perfect at first.
@@ -951,9 +951,9 @@ Dlanor looked up at her with a bold expression, and sparks flew between them....
 "...............heh..............."
 "......Supervisor Dlanor.
  ............It\'s nearly time..."
-"............It seems the bride and groom have {f:5:arrived}.
- This ends our {f:5:chat}.
- .........We will meet again {f:5:later}."
+"............It seems the bride and groom have ARRIVED.
+ This ends our CHAT.
+ .........We will meet again LATER."
 With an amused grin on her face, Dlanor turned around.
 ......But that had to have hit her where it hurt.
 Gaap had no intention of letting her get away.
@@ -961,62 +961,62 @@ Gaap had no intention of letting her get away.
 "......Wait there.
  Confirm whether or not the seals on the windows were preserved at the time of the logic error.
  If you don\'t, it\'s possible for anyone in that room to save Battler!!"
-"And who......do you think such a rescue would be possible {f:5:for}?"
+"And who......do you think such a rescue would be possible FOR?"
 "It doesn\'t matter who!
  Then, just by personal preference, I\'ll name Kanon‐kun.
  He seems agile, and hiding his presence is his specialty.
  He\'s the perfect person to follow after Erika and quickly change places with Battler‐kun!"
-"Kanon, you {f:5:say}...?
+"Kanon, you SAY...?
  Hehheheheheheheheheheh......
- That is {f:5:impossible}."
+ That is IMPOSSIBLE."
 "Impossible?
  Come now, we can\'t trust what you say with normal words.
  ......Use the red truth.
  Swear upon that red longsword of yours."
 "......Miss Gaap.
- A sacred ceremony is about to begin {f:5:here}.
- You ask me to draw my sword in a sacred place such as {f:5:this}?
- ......I believe that would be inelegant and rude in the {f:5:extreme}.
- Let us do this some other {f:5:time}.
- ......If you would excuse {f:5:me}."
+ A sacred ceremony is about to begin HERE.
+ You ask me to draw my sword in a sacred place such as THIS?
+ ......I believe that would be inelegant and rude in the EXTREME.
+ Let us do this some other TIME.
+ ......If you would excuse ME."
 "......
 It is possible for Kanon to save Battler.
  After Erika sealed the room, he left by the window, switched places with Battler‐kun in the guest room, set the chain lock, and hid in the closet}."
 "......
 
-That is {f:5:impossible}.
- The seals on the windows were also {f:5:intact}.
- Of course, this is at the time of the logic {f:5:error}}."
+That is IMPOSSIBLE.
+ The seals on the windows were also INTACT.
+ Of course, this is at the time of the logic ERROR}."
 Gaap\'s blue wedge and rapid reverse roundhouse......crossed with Dlanor\'s red longsword, and both pointed at the other\'s throat......
 The once peaceful mood of the wedding broke apart.
 ......Several goat guests whispered to each other, wondering why those two seemed to be fighting.
 "......Okay, ......so you can counter that......
  Why didn\'t you just say so in the first place?"
-".........We thought that {f:5:Beatrice} might eventually reach that thought,
- ......then barge in on the wedding with that as the key to Battler\'s {f:5:escape}.
- .........I did not think that you would press us first......and force us to show our {f:5:hand}."
+".........We thought that BEATRICE might eventually reach that thought,
+ ......then barge in on the wedding with that as the key to Battler\'s ESCAPE.
+ .........I did not think that you would press us first......and force us to show our HAND."
 "Y‐......you do fight dirty, don\'t you...
  ......You were trying to lay a trap for Beato, ......making her suspect the windows, ......drawing her out, ......then turning the tables on her......"
-"What else should a human who guards the bride be expected to {f:5:do}?
- ......Are you satisfied {f:5:now}?
- A hellish wedding truly is vulgar and {f:5:barbaric}.
- ......Now, excuse {f:5:me}."
+"What else should a human who guards the bride be expected to DO?
+ ......Are you satisfied NOW?
+ A hellish wedding truly is vulgar and BARBARIC.
+ ......Now, excuse ME."
 "......Hold it right there, you haven\'t fooled me yet......
  
 You were talking about the seals blocking Kanon, the ones on the windows of the cousins\' room, right?
  Then what about the windows on the next room over?
  All you\'ve done is shown that the rescue would have been impossible for Kanon.
  There\'s still a chance for the humans in the next room over}...!"
-"........................How very {f:5:persistent}."
+"........................How very PERSISTENT."
 "We apologize for our rudeness!
  We are the Chiester Sisters Imperial Guards, in charge of security at this ceremony!
  I\'m afraid I must ask you both for your stamped invitations!"
 "Dlanor A. Knox.
- I am with the bride\'s {f:5:party}.
- Here is my stamped {f:5:invitation}.
- Also, here are my credentials as bodyguard to the {f:5:bride}."
+ I am with the bride\'s PARTY.
+ Here is my stamped INVITATION.
+ Also, here are my credentials as bodyguard to the BRIDE."
 "Confirmed as Chief Knox.
- Welcome to Lord {f:5:Battler}\'s wedding!"
+ Welcome to Lord BATTLER\'s wedding!"
 "I\'m Gaap.
  I\'m with the groom\'s party.
  Here\'s my invitation and...
@@ -1030,7 +1030,7 @@ You were talking about the seals blocking Kanon, the ones on the windows of the 
 Dlanor watched, shrugged, and turned away...
 "Wait there, Dlanor!!
  Respond to my blue truth!!"
-"If you want the opinion of the Great Court of Heaven, please fill out an application in accordance with court {f:5:procedures}."
+"If you want the opinion of the Great Court of Heaven, please fill out an application in accordance with court PROCEDURES."
 "For your attention:
  know that the ticket window is open from 10:00 to 5:00 on weekdays.
  Lunch break runs from 12:00 to 1:15."
@@ -1039,13 +1039,13 @@ Dlanor watched, shrugged, and turned away...
 "There\'s a rumor that a certain event I won\'t name refuses applications for the same thing nyeh."
 "Th‐that\'s an urban legend.
  .........Probably."
-"I will provisionally accept that blue truth {f:5:verbally}.
- ......It will be put on hold until the proper forms are received, and multiple submissions are not {f:5:allowed}."
+"I will provisionally accept that blue truth VERBALLY.
+ ......It will be put on hold until the proper forms are received, and multiple submissions are not ALLOWED."
 "I don\'t understand!!
  Can you respond to my blue truth?! Or can\'t you?!"
-"......If you fill out the application on Monday, we should be able to have an answer for you by the end of next {f:5:month}.
- Multiple submissions are forbidden, so the blue truth you just spoke will be unusable during this wedding {f:5:ceremony}.
- ......This is in accordance with the official Great Court Regulations, Article 214‐15, "Prohibition of Multiple {f:5:Submissions}"!"
+"......If you fill out the application on Monday, we should be able to have an answer for you by the end of next MONTH.
+ Multiple submissions are forbidden, so the blue truth you just spoke will be unusable during this wedding CEREMONY.
+ ......This is in accordance with the official Great Court Regulations, Article 214‐15, "Prohibition of Multiple SUBMISSIONS"!"
 "For your attention: I beg to inform you of the following.
  
 Know that it is forbidden for blue truth to be used if based on the argument that the window seals of the next room over were torn at the time of the logic error}."
@@ -1107,7 +1107,7 @@ It was now impossible......to claim that the five who could have saved Battler w
 "You mean...one of the greatest mysteries of this tale...?"
 "Precisely.
  .........If he uses that, ......there may be a chance......"
-{f:5:Featherine} sighed deeply.
+FEATHERINE sighed deeply.
 ......It was something she hadn\'t done at all before now.
 .........I see.
 ......So it\'s finally time......for the curtain to close on this long, long tale...
@@ -1126,7 +1126,7 @@ It was the sound of dozens of heels being stamped in unison, originating from th
 ......It brought about total silence even before the demons running the ceremony spoke.
 "Let us have silence!!
  Ladies and gentlemen...!!"
-"Welcome to the wedding of Lord {f:5:Battler}, territory lord and Golden Sorcerer, and Lady {f:5:Erika}, the Witch of Truth!!"
+"Welcome to the wedding of Lord BATTLER, territory lord and Golden Sorcerer, and Lady ERIKA, the Witch of Truth!!"
 Zepar and Furfur had appeared in the center of the cathedral.
 ......It was a great status symbol to have these two demons invited to host the wedding.
 Though they had asked for silence, the attendees who packed the cathedral welcomed the two demons with enormous applause.
@@ -1161,10 +1161,10 @@ Chiester Sisters troops that weren\'t part of the honor guard were stationed all
 Several other sniper pairs could be seen stationed on top of the other chandeliers...
 This seemingly festive cathedral...
 was actually being heavily guarded in places that the attendees wouldn\'t notice......
-"Currently, we are targeting 36 attendees suspected of being Lady {f:5:Beatrice},
+"Currently, we are targeting 36 attendees suspected of being Lady BEATRICE,
  as well as 131 who are located in positions suitable for a surprise attack. Surveillance in progress."
 "......Don\'t let your guard down.
- ......Lady {f:5:Beatrice} is certain to stage an attack on the wedding."
+ ......Lady BEATRICE is certain to stage an attack on the wedding."
 "That\'d be so cool, breaking in to steal the bride nyeh."
 "410, he\'s not the bride, he\'s the groom!"
 "I said what I meant nyeh.
@@ -1186,17 +1186,17 @@ In other words, they weren\'t walking together.
 Behind the bride and groom walked the Seven Sisters of Purgatory, who held long, ceremonial staffs in the shape of the One‐winged Eagle...
 "That moron Battler......what\'s he lazing about for...
  This is why people call him incompetent."
-"......I can understand {f:5:Beatrice}‐sama\'s pain...better than anyone else."
+"......I can understand BEATRICE‐sama\'s pain...better than anyone else."
 "It\'s all because that stupid Battler caused a logic error!
  Stupid, stupid, stupid!"
-".........{f:5:Beatrice}‐sama will not fall to sloth and let this wedding go on."
+".........BEATRICE‐sama will not fall to sloth and let this wedding go on."
 "Of course.
- {f:5:Beatrice}‐sama is greedy.
+ BEATRICE‐sama is greedy.
  She won\'t let someone else take away her favorite toy.
  She\'ll definitely show up..."
 "*slobber* I hear the reception\'s gonna have tons of delicious food...!"
 "Aaah, I want to wear a wedding dress...noooooooooo~w!!"
-{f:5:Bernkastel} and {f:5:Lambdadelta} were in the nobles\' seating on the balcony.
+BERNKASTEL and LAMBDADELTA were in the nobles\' seating on the balcony.
 They sipped questionable‐looking carbonated cocktails as they looked down upon the show...
 ".........What a splendid wedding dress.
  ......This sort of thing\'s not bad."
@@ -1251,7 +1251,7 @@ However, they were very interested in exactly how she would break the locked roo
  ...you\'re being too naive......"
 The bet was made.
 Based on the assumption of that certain miracle...that Beato would come.
-{f:5:Virgilia}, who was standing in the front row, tried to call out as soon as Battler walked by.
+VIRGILIA, who was standing in the front row, tried to call out as soon as Battler walked by.
 She tried to tell him that the window seal on the next room over hadn\'t been confirmed, hoping that this would give him a hint.
 However, she had been marked perfectly.
 The instant she tried to lean forward, two Chiester Sisters right behind her grabbed her arms.

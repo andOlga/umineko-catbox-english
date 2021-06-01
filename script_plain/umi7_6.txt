@@ -1,7 +1,7 @@
 "......I think...
 I now understand just how much the woman called Beatrice influenced Grandfather\'s life."
 "We haven\'t learned anything.
- "Who killed {f:5:Beatrice}?"
+ "Who killed BEATRICE?"
  That\'s what we\'ve got to figure out, or we\'ll never be able to get out of here."
 "......You\'re right.
  We need to finish this quickly.
@@ -13,7 +13,7 @@ I now understand just how much the woman called Beatrice influenced Grandfather\
 "You mean, what she\'s making us do...?"
 "None of the Beatrices we\'ve heard about so far were killed.
  ......We need to change that.
- That\'s the real funeral, as far as {f:5:Bernkastel}\'s concerned."
+ That\'s the real funeral, as far as BERNKASTEL\'s concerned."
 "............No one knows about the "killed" factor.
  And that\'s the truth we\'re trying to expose?"
 "Hmm, ......you are perceptive.
@@ -24,11 +24,11 @@ I now understand just how much the woman called Beatrice influenced Grandfather\
  ......So, what next,
  Willard Holmes?"
 "The basis of investigation is asking questions.
- There\'s still a {f:5:Beatrice} we need to ask about."
+ There\'s still a BEATRICE we need to ask about."
 To indicate who they should talk to next, Will nodded in the direction of George, Jessica, and Maria.
 Maria seemed to be lecturing the others about something.
 "Wow.
- {f:5:Beatrice} sounds pretty incredible."
+ BEATRICE sounds pretty incredible."
 "Yeah!
  And then, inside the upside‐down cup,
  she made tons of candies appear out of nowhere!"
@@ -37,12 +37,12 @@ Maria seemed to be lecturing the others about something.
  Sounds like magic to me."
 "......Maria‐chan really does love witches and magic."
 "Can\'t pass up the chance to talk to the authority on witches, can we?"
-If looking for someone to ask about {f:5:Beatrice}, Maria would rise to the top of the list.
-The {f:5:Beatrice} she spoke of wasn\'t the real Beatrice spoken of by Kinzo and the others.
-However, on the Rokkenjima of 1986, the being that the name {f:5:Beatrice} referred to was probably the {f:5:Beatrice} that Maria always talked about.
+If looking for someone to ask about BEATRICE, Maria would rise to the top of the list.
+The BEATRICE she spoke of wasn\'t the real Beatrice spoken of by Kinzo and the others.
+However, on the Rokkenjima of 1986, the being that the name BEATRICE referred to was probably the BEATRICE that Maria always talked about.
 ".........I don\'t see Battler anywhere."
 Ushiromiya Battler.
- ......The one who was made to fight as {f:5:Beatrice}\'s opponent in many games, and the most important person in this game and this tale.
+ ......The one who was made to fight as BEATRICE\'s opponent in many games, and the most important person in this game and this tale.
 A Battler in this world would probably be the piece version, but even so, it should be possible to get some vital information out of him.
 ......Will probably wanted to talk with Battler too, but he was nowhere to be seen in the cousins\' group.
 "Battler‐kun isn\'t present at the funeral today.
@@ -53,7 +53,7 @@ A Battler in this world would probably be the piece version, but even so, it sho
 "Oh, how did you know?
  Did your detective instincts tell you that?"
 "Poor guy."
-......{f:5:Bernkastel} said that everything was gathered here.
+......BERNKASTEL said that everything was gathered here.
 Since Battler isn\'t here, that probably means it\'s possible to find out everything without asking for his side of the story.
 Or, maybe she\'s intentionally hiding the core elements and making us take the long way around, as part of some fickle witch\'s game.
 "Since he isn\'t here, ......that probably means there\'s no need to hear his story for the time being.
@@ -106,11 +106,11 @@ owow!"
  and this here is Maria.
  Pleased to meet you."
 "Call me Will.
- I\'m investigating {f:5:Beatrice}.
+ I\'m investigating BEATRICE.
  I want you to tell me what you know."
-"{f:5:Beatrice}?! Uu!!
+"BEATRICE?! Uu!!
  See?!
- {f:5:Beatrice} exists!
+ BEATRICE exists!
  Uu‐uu‐uu!!"
 Though Maria had looked hostile towards this unfamiliar man,
  as soon as she heard the name of the witch she loved pass his lips, her eyes began to sparkle.
@@ -118,13 +118,13 @@ Though Maria had looked hostile towards this unfamiliar man,
  You\'ve got to greet our guest properly."
 "Hello!
  My name is Ushiromiya Maria, uu!
- I\'m glad to meet someone who knows {f:5:Beatrice}.
+ I\'m glad to meet someone who knows BEATRICE.
  Handshake, uu!"
 "Nn."
 Maria suddenly stuck out her small hand, and Will reached out for it reflexively.
 As soon as he did, ......he felt a bright light seeping out from the gap between their hands.
-The theatergoing power that {f:5:Bernkastel} had given him had affected Maria.
-"{f:5:Beatrice} is the witch of Rokkenjima...!
+The theatergoing power that BERNKASTEL had given him had affected Maria.
+"BEATRICE is the witch of Rokkenjima...!
  She plays with me every time I come to Rokkenjima!
  She\'s my best friend, and a fellow member of Mariage Sorcière! Uu!!"
 The light grew brighter and brighter......
@@ -250,7 +250,7 @@ She spent so long tormented over how to interpret her lack of a father.
  ......Then, by chance, she saw a line in the Bible that seemed to affirm her existence, and she finally formed an understanding of herself.
 The sad girl, who had hated herself for being different from all of her classmates, finally found her own meaning.
 At that moment, Maria\'s universe, which had once been nothingness, was born as a clump of ultra‐hot, ultra‐high‐pressured energy.
-.........Then, later on, she went to Rokkenjima, met the Endless Witch who called herself {f:5:Beatrice},
+.........Then, later on, she went to Rokkenjima, met the Endless Witch who called herself BEATRICE,
  ......and the clump of energy exploded in a Big Bang, giving birth to their joint system of magic.
 ......That was the universe known as Mariage Sorcière.
 "...........................
@@ -260,9 +260,9 @@ At that moment, Maria\'s universe, which had once been nothingness, was born as 
  Where do you want to start?"
 "After you decided that you were the child of the Holy Ghost, it\'s easy to imagine that you gradually became more and more interested in the occult.
  .........And then what?
- Once you reached that state, where did you meet {f:5:Beatrice}, and how did the two of you interact?"
+ Once you reached that state, where did you meet BEATRICE, and how did the two of you interact?"
 "It really did happen all of a sudden, one day.
- .........I had wanted to meet the witch called {f:5:Beatrice}, who lived on Rokkenjima.
+ .........I had wanted to meet the witch called BEATRICE, who lived on Rokkenjima.
  As a fellow witch."
 "At that time, you already thought that you were a witch?"
 "I did.
@@ -270,7 +270,7 @@ At that moment, Maria\'s universe, which had once been nothingness, was born as 
  So, even though I couldn\'t use magic, I believed that I was a witch.
  ......Kihihi, it\'s a bit funny, isn\'t it?
  That\'s why I\'m only a witch apprentice."
-"When did you meet {f:5:Beatrice}?"
+"When did you meet BEATRICE?"
 "I don\'t really remember when.
  But I do remember what it was like.
  It was really, really sudden."
@@ -289,23 +289,23 @@ I quickly realized that she was someone I didn\'t know at all......
  Here I am, welcoming the witch who came to visit my island, and yet you ask my name?
  *cackle*cackle*."
 "..................
- {f:5:Beat}...
-...{f:5:rice}...
+ BEAT...
+...RICE...
 ...?"
 "Precisely.
- I am {f:5:Beatrice}."
+ I am BEATRICE."
 "Yeah, that is pretty sudden."
 "Yep. Really, really sudden.
  .........Witches and spirits always exist right beside us.
  They just choose not to show themselves.
  And, when they do show themselves, ......it\'s always sudden, as though they\'ve been there the whole time.
  ......That\'s what I learned that day."
-"And then, you and {f:5:Beatrice} became friends?"
+"And then, you and BEATRICE became friends?"
 "Yeah.
  She stayed and chatted with me the whole time, until Mama was done with her business.
  We talked about magic...and witches.
  And about how I was a child of the Holy Ghost."
-"......And what was your impression of {f:5:Beatrice} then?"
+"......And what was your impression of BEATRICE then?"
 "I don\'t like saying it,
  but I knew more than she did back then.
  At first, I thought she wasn\'t a very good witch."
@@ -315,7 +315,7 @@ I quickly realized that she was someone I didn\'t know at all......
  I probably only viewed Beato that way because her system of magic was different from mine.
  It wasn\'t long before I came to regret that and apologized."
 "Apologized?
- .........Did {f:5:Beatrice} do something to win your respect?
+ .........Did BEATRICE do something to win your respect?
  .........I see.
  So, she showed you magic."
 We moved to the beach and talked lots, sitting at a table under an umbrella.
@@ -370,7 +370,7 @@ Maria could create a universe all by herself.
  You told me about the anti‐magic toxin.
  It wasn\'t in any of the books I\'ve read.
  You must really be incredible to know so much."
-{f:5:Beatrice} lifted up an empty teacup,
+BEATRICE lifted up an empty teacup,
  then turned it around in front of Maria to show that there weren\'t any tricks or strings.
 "Right, the magic to make candy appear inside an overturned cup."
 "How did you know?!
@@ -380,7 +380,7 @@ Maria could create a universe all by herself.
  I wanted to see. I wanted to see true magic."
 Maria had a desire.
 She had a desire to discover the occult in others......to help her believe that there was an occult side to herself.
-That was why she agreed to help {f:5:Beatrice} with her magic.
+That was why she agreed to help BEATRICE with her magic.
 She didn\'t want her own toxin to ruin her chance of knowing the miracles of magic.
 "Good.
  ......Now, try looking inside that cup."
@@ -448,7 +448,7 @@ Already, I was obsessed with Beato.
  I\'ll become your friend and a witch apprentice!"
 "Your resolve is heartening, Ushiromiya Maria.
  I hope that you will quickly grow to become a full witch and my close friend."
-"I think that was the first time I met {f:5:Beatrice}."
+"I think that was the first time I met BEATRICE."
 "And was that candy still there when you got home...?"
 "Yep.
  ......But I doubted a little, so it was half‐melted.
@@ -463,7 +463,7 @@ Already, I was obsessed with Beato.
  But I remember that the milk tea had ice in it.
  ......Why does that matter?"
 "Never mind.
- ......Did you tell Rosa about your meeting with {f:5:Beatrice}?"
+ ......Did you tell Rosa about your meeting with BEATRICE?"
 "Yep.
  I told everyone about it at dinner that day.
  Uncle Krauss laughed at me.
@@ -480,7 +480,7 @@ Already, I was obsessed with Beato.
 "Yeah.
  ......Why does that matter?"
 ".........It doesn\'t.
- ......Have you ever met with {f:5:Beatrice} outside Rokkenjima?"
+ ......Have you ever met with BEATRICE outside Rokkenjima?"
 "No.
  After all, Beato\'s body is fragile, so she can\'t go wherever she wants.
  I told her she could just possess me if she wanted,
@@ -493,13 +493,13 @@ Already, I was obsessed with Beato.
  Then, she told me about a system of magic that was different from mine, and we both talked together about the mysteries of magic."
 "I wanted to reach her level as soon as I could.
  I wanted to become the kind of witch Beato was."
-"Did you ever introduce {f:5:Beatrice} to your mother?"
+"Did you ever introduce BEATRICE to your mother?"
 "Nope.
  She said Mama\'s toxin was too strong, so they couldn\'t meet each other yet.
  ......Almost all adults are no good when it comes to the toxin.
  They\'re all tainted.
  Kihihihihi."
-"Was anyone other than you able to see {f:5:Beatrice}?"
+"Was anyone other than you able to see BEATRICE?"
 "They couldn\'t at first.
  She said her magical power was weak, so her body would crumble if even a little bit of the toxin reached her.
  ......But she gathered magical power bit by bit, and eventually, she could appear in front of other people who had small amounts of toxin."
@@ -513,17 +513,17 @@ Already, I was obsessed with Beato.
  But not Gohda‐san, I think."
 "So, there were four of them: Genji, Shannon, Kanon, and Kumasawa."
 "And Doctor Nanjo too."
-Apparently, they would sometimes come to visit Maria and {f:5:Beatrice}\'s witch tea parties.
+Apparently, they would sometimes come to visit Maria and BEATRICE\'s witch tea parties.
 Of course, it was only for small things, like bringing them extra tea.
-However, they were certainly aware of {f:5:Beatrice}, and even talked with her.
-"......How did the servants react to {f:5:Beatrice}?
+However, they were certainly aware of BEATRICE, and even talked with her.
+"......How did the servants react to BEATRICE?
  She was a guest who shouldn\'t have existed.
  Weren\'t they surprised?"
 "No...
- After all, {f:5:Beatrice} is the other master of the mansion."
-She said that the servants treated {f:5:Beatrice} as an honored guest.
+ After all, BEATRICE is the other master of the mansion."
+She said that the servants treated BEATRICE as an honored guest.
 And, sometimes, they were permitted to witness the new miracle of magic along with Maria.
-"So, on the Rokkenjima of 1986, the ones who could actually meet with {f:5:Beatrice} were...
+"So, on the Rokkenjima of 1986, the ones who could actually meet with BEATRICE were...
 you, Nanjo, and the four servants excluding Gohda, for a total of six?"
 "Yeah.
  Beato said that she\'d need to store up much more magical power before she could appear in front of anyone else."
@@ -533,31 +533,31 @@ you, Nanjo, and the four servants excluding Gohda, for a total of six?"
 "...................................."
 Maria, the servants, and Nanjo had acknowledged her.
 She had probably chosen those {y:0:Humans}{n:0:humans} whose anti‐magic toxin was weakest and appeared before them first.
-{f:5:Beatrice}\'s game must have been to steadily increase the number of {y:0:Humans}{n:0:humans} who could recognize her,
+BEATRICE\'s game must have been to steadily increase the number of {y:0:Humans}{n:0:humans} who could recognize her,
  until she could make everyone on the island acknowledge her.
-In that case, the last person for {f:5:Beatrice} to appear in front of...
+In that case, the last person for BEATRICE to appear in front of...
 would be Battler, the one said to have the strongest anti‐magical power.
-......Does this mean {f:5:Beatrice} thought that Battler would be the hardest one to convince......?
-It seems true that Battler was one of {f:5:Beatrice}\'s goals.
+......Does this mean BEATRICE thought that Battler would be the hardest one to convince......?
+It seems true that Battler was one of BEATRICE\'s goals.
 ......However, if we go with Battler\'s chessboard thinking...
-...we might say that {f:5:Beatrice}, who wanted others to acknowledge her existence, was someone who could not exist unless she was acknowledged.
+...we might say that BEATRICE, who wanted others to acknowledge her existence, was someone who could not exist unless she was acknowledged.
 Battler reached this thought himself back in the first game.
-Yes, there is something different about the {f:5:Beatrice} of 1986.
+Yes, there is something different about the BEATRICE of 1986.
 She\'s different from the Italian Beatrice or the Kuwadorian Beatrice, both of whom certainly did exist.
-The {f:5:Beatrice} of 1986, the one whom we are so familiar with in a mysterious way, yet who has no existence.
-What does it mean to "kill" the {f:5:Beatrice} who has no existence?
+The BEATRICE of 1986, the one whom we are so familiar with in a mysterious way, yet who has no existence.
+What does it mean to "kill" the BEATRICE who has no existence?
 ......The minimum number of people required to create a universe is two.
 However, Maria had said that even a single person could give birth to a universe.
 And yet, Maria had desired a second person.
  A second person to nurture the world she had given birth to alone.
 Because if it was born and not nurtured, it would die and disappear?
-.........Let\'s replace the word "universe" with "{f:5:Beatrice}".
-The minimum number of people required to create {f:5:Beatrice} is two.
+.........Let\'s replace the word "universe" with "BEATRICE".
+The minimum number of people required to create BEATRICE is two.
 However, even a single person could give birth to her.
 And yet, that single person desired a second person.
- A second person to acknowledge the {f:5:Beatrice} created by the first person.
+ A second person to acknowledge the BEATRICE created by the first person.
 That meeting with a second person is the scene that Maria has just described.
-The single person who created {f:5:Beatrice} had looked for a second person to acknowledge {f:5:Beatrice}...
+The single person who created BEATRICE had looked for a second person to acknowledge BEATRICE...
 and selected Maria.
 We don\'t need Furudo Erika\'s heartless reasoning to know that the tea cup magic was a sleight of hand.
 Maria, believing in the story about the anti‐magic toxin, would close her eyes whenever magic happened.
@@ -565,29 +565,29 @@ Any sleight of hand would be possible while she had her eyes closed.
 ......The caramel Maria had been given as proof of her meeting with a witch had melted a little because Maria had doubted.
 In a season where one was likely to put ice in their tea, it was only natural for a caramel left in a bag to melt.
 Ushiromiya Maria, the girl who\'s too trusting and will accept a story easily.
-{f:5:Beatrice} appeared first in front of this girl, who had, in the language of witches,
+BEATRICE appeared first in front of this girl, who had, in the language of witches,
  very little of the anti‐magic toxin......
-If we liken the creation of {f:5:Beatrice} to the laying of an egg,
+If we liken the creation of BEATRICE to the laying of an egg,
  then when a single person creates her, it is no more than a delusion.
  Like a chick inside the egg.
 If, and only if, a second person acknowledges her, the shell cracks, and she appears.
 She only appears when a second person comes to warm the egg.
-When Maria acknowledged {f:5:Beatrice}, she finally hatched, and the chick was born.
-In that case, Mariage Sorcière, which nurtured {f:5:Beatrice} and her system of magic, was like a nest.
-{f:5:Beatrice} had a dignified presence, called herself the witch of Rokkenjima, and claimed to have lived a thousand years.
-......Thinking about the {f:5:Beatrice}s who appeared in the previous game, this sounds less like the chick Beato, and more like Beato the Elder.
+When Maria acknowledged BEATRICE, she finally hatched, and the chick was born.
+In that case, Mariage Sorcière, which nurtured BEATRICE and her system of magic, was like a nest.
+BEATRICE had a dignified presence, called herself the witch of Rokkenjima, and claimed to have lived a thousand years.
+......Thinking about the BEATRICEs who appeared in the previous game, this sounds less like the chick Beato, and more like Beato the Elder.
 So, does this mean that the meeting Maria has just spoken of marks the birth of Beato the Elder...?
 The egg itself had already been created by "the first person".
 During the time before the meeting with Maria, it matured fully inside its shell, becoming the "character" with the dignified presence of a thousand years.
 Then, when Maria acknowledged it, it hatched,
  .........and the witch of Rokkenjima finally gained a form.
-Perhaps, ......that moment marks the birth of the {f:5:Beatrice} of 1986.
+Perhaps, ......that moment marks the birth of the BEATRICE of 1986.
 ......The younger, chick Beato was born out of love for Battler.
 Since that birth has not yet occurred at this point in time,
- then the birth of Beato the Elder and the existence of {f:5:Beatrice} at this time must have nothing to do with Battler.
+ then the birth of Beato the Elder and the existence of BEATRICE at this time must have nothing to do with Battler.
 ..............................
 Are you enjoying this reasoning,
- {f:5:Bernkastel}......?
+ BERNKASTEL......?
 If you are, let\'s at least have some applause from the audience.
 ............Great, thanks a bunch.
 "I have a lot of things I want to ask Beato to grant for me with magic.
@@ -625,6 +625,6 @@ Jessica seemed to be getting irritated at having her butt pinched so much, and G
 ......Jessica and George.
  Guess I\'ll hear their stories next.
 Compared to Maria, the anti‐magic toxin is very strong in these two.
-At least at the beginning of the other games, they didn\'t acknowledge {f:5:Beatrice}.
+At least at the beginning of the other games, they didn\'t acknowledge BEATRICE.
 Maria showed me the point of view of one who believes.
 Now to hear from those who don\'t.

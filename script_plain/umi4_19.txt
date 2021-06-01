@@ -37,7 +37,7 @@ Yes, to the two of them, that was a small and complete universe......
 "...............Beato is going to be here all the time with me.
  We\'ll drink tea here together, and think of lots of ways to play...!
  You can play with us too, Ange."
-"......{f:5:Maria}.
+"......MARIA.
  We decided against that.
  As long as I have you, I am satisfied.
  Tell me that you too are satisfied as long as you have me."
@@ -47,7 +47,7 @@ Yes, to the two of them, that was a small and complete universe......
  The only person who needs me that much is you, Beato.
  So I\'ll be with you.
  Just us is enough."
-".........{f:5:Maria}...... ......Thank you......
+".........MARIA...... ......Thank you......
  ............I am grateful........."
 Beato held Maria tight,
  even creating a small, warm universe within their joined arms...
@@ -81,12 +81,12 @@ No matter how small it was, that world was complete.
  ......And I don\'t need anything else either, as long as I have Beato.
  ......All wishes come true here.
  Everything is here."
-............This Golden Land is made up of nothing more than the crystallization of Maria onee‐chan and {f:5:Beatrice}\'s thoughts and feelings.
+............This Golden Land is made up of nothing more than the crystallization of Maria onee‐chan and BEATRICE\'s thoughts and feelings.
 ......To drag Beato out of this world,
  ......I have to...
 ...destroy it.........
 ..................Destroy this Golden Land,
- .........which must be the final world of peace for {f:5:Beatrice}......
+ .........which must be the final world of peace for BEATRICE......
 "Onee‐chan. That\'s wrong.
  This Golden Land is a liar.
  It hasn\'t granted the one wish you truly wanted to come true."
@@ -115,7 +115,7 @@ And she put her arm around Maria, hugging her as if to protect her.
 "......Why won\'t you invite that close friend to this wonderful Golden Land?
  Why, in this Golden Land where all wishes come true, is Sakutarou the only one you can\'t summon?"
 "Th‐...that\'s because......
- ......It\'s alright, {f:5:Maria}.
+ ......It\'s alright, MARIA.
  You don\'t have to remember Sakutarou—"
 "............Sakutaro was killed by Mama!!!!"
 Maria onee‐chan flew into a rage with a terrible expression on her face.
@@ -128,7 +128,7 @@ Maria\'s scream became a storm and violently scattered the golden petals and lea
 It was truly a storm of gold.
 "Stop...!!
  Stop stop stop...!!!
- Why are you trying to reopen the wound in {f:5:Maria}\'s heart...?!
+ Why are you trying to reopen the wound in MARIA\'s heart...?!
  Don\'t defile the sleep of a dear friend precious to both Maria and myself...!!"
 "In that case, why won\'t you revive that precious friend for her with your magic?"
 "I would have if I could...!!
@@ -156,11 +156,11 @@ not having Sakutaro......"
 "No, Onee‐chan, that\'s wrong.
  .........There\'s nothing a witch can\'t do.
  As soon as she couldn\'t do that,
- {f:5:Beatrice} was not a real witch."
+ BEATRICE was not a real witch."
 "Tha‐that\'s wrong......!!
  It\'s because Sakutaro\'s stuffed animal vessel was something Mama made by hand herself, and—"
 "And that\'s why she can\'t revive him?
- Is {f:5:Beatrice}\'s... Is your magic that inconvenient?"
+ Is BEATRICE\'s... Is your magic that inconvenient?"
 "Gah, .........i‐......in that case, ......do you claim that you can revive Sakutarou?!
  Can you do that with your magic?!"
 "I can."
@@ -170,7 +170,7 @@ not having Sakutaro......"
  I\'ll revive Sakutarou for you!!"
 "......Re‐
 .........really......?
- Even {f:5:Beatrice} couldn\'t do it, you know......?
+ Even BEATRICE couldn\'t do it, you know......?
  ...Ca‐
 .........can you really......?!"
 "Yes, I can!
@@ -180,8 +180,8 @@ not having Sakutaro......"
 "Leave this Golden Land."
 "............!"
 "I, I will not permit that...!!
- This world is {f:5:Maria}\'s and mine together!!
- If {f:5:Maria} leaves,
+ This world is MARIA\'s and mine together!!
+ If MARIA leaves,
  ......it will break...!!"
 The minimum amount of {y:0:Human}{n:0:human}s it takes to create a universe is two.
 If that breaks down, the world is destroyed.
@@ -191,12 +191,12 @@ To drag out the witch who shut herself away in the Golden Land, I have to destro
 "The Mariage Sorcière Alliance of Witches!
  ......The very existence of this alliance proves that you are not a witch...!!"
 "N‐no...!!
- I will not give up {f:5:Maria}...!!
+ I will not give up MARIA...!!
  I hate you, leave right now...!!
  Get out of heeeeeeeeeere!!"
 "Dragging everyone into a game of your own accord, then getting bored and chasing them out when your mood changes!!
  How selfish can you be?"
-"Watch and learn, {f:5:Beatrice}!!
+"Watch and learn, BEATRICE!!
  And you, Maria onee‐chan!!
  This...is true magic.........!!!"
 "Ca‐......can you really revive Sakutaro...?!"
@@ -293,7 +293,7 @@ Then, still hugging Sakutarou,
  ......How can a human other than me use magic in my Golden Land?!?!
  This is...
 ......completely impossible.........!"
-"What are you so flustered about, {f:5:Beatrice}?
+"What are you so flustered about, BEATRICE?
  ..................This is...magic, right?"
 "It cannot possibly be magic...!!
  
@@ -326,9 +326,9 @@ And she looked at Maria and Sakutarou innocently frolicking around,
 ......fell to her knees,
  ......with even her hands pressed to the ground,
  ...............and cried.
-"{f:5:Beatrice}...! This is really magic, right...?!
+"BEATRICE...! This is really magic, right...?!
  It\'s magic, right?!
- {f:5:Beatrice}...!!!"
+ BEATRICE...!!!"
 "...............Mm.........
  ......It is magic......
  ......That is...
@@ -340,11 +340,11 @@ And she looked at Maria and Sakutarou innocently frolicking around,
  Ange\'s awesome, Ange\'s an awesome witch!
  A real witch who\'s much, much more amazing than me......!!!"
 "Yes, that\'s right, Onee‐chan.
- ...............I am the Witch of Resurrection, {f:5:Ange}.
+ ...............I am the Witch of Resurrection, ANGE.
  ......There is nothing that cannot be revived by me."
 "Oh wow, oh wow!!
  Even Beato said that the magic of resurrection was the hardest!!
- {f:5:Ange}, you\'re awesome!!
+ ANGE, you\'re awesome!!
  A real real Great Witch......!!!"
 At that moment, Maria\'s and Sakutarou\'s forms flashed gold,
  ......and the two became golden flower petals, and crumbled away......
@@ -372,16 +372,16 @@ it was joy,
 The ground shook.
  ......An earthquake.
 .........It gradually caused greater and greater fissures,
- and began to tear {f:5:Beatrice}\'s final paradise apart.
+ and began to tear BEATRICE\'s final paradise apart.
 Golden butterflies fluttered about trying to escape, but there was nowhere to escape to.
-...Nor for {f:5:Beatrice}.
+...Nor for BEATRICE.
 The Golden Land began to crumble away.
 The earth gave way like a floor falling through,
- .........and {f:5:Beatrice} was sucked into the depths of a jet‐black darkness.
+ .........and BEATRICE was sucked into the depths of a jet‐black darkness.
 Then, she was mercilessly slammed against a jet‐black floor.
 ......It was a small, nondescript, and very dimly lit smoking room.
 There was no door to exit by, and while there were windows,
- ......they let no light into this place—{f:5:Beatrice}\'s smoking room.
+ ......they let no light into this place—BEATRICE\'s smoking room.
 Even as Beato moaned from the pain of being slammed against that cold hard floor,
  she shakily rose to her feet......
 A seat was there.
@@ -398,7 +398,7 @@ Beato put a hand against her own seat, ......and laughed sadly.
 ".........But the one thing I will not allow is for you to suspend the game and throw it away!
  Either win and survive, or lose and disappear!
  Until one of those two things happens, you will not be permitted to rise from that chair!!"
-"Isn\'t that your only duty as the host of a witch\'s game, as the Golden Witch {f:5:Beatrice}...?!!"
+"Isn\'t that your only duty as the host of a witch\'s game, as the Golden Witch BEATRICE...?!!"
 Laughing weakly, Beato...
 ...sat down.
 ......Then she rested her elbows on the table, covered her face with both hands,
@@ -416,7 +416,7 @@ Just then, there was a heavy sound.
 ......Beato felt a cold and pitiful sensation on her leg.
 "......Gotcha...!
  I finally got you, eh, Beato~?"
-"Oh, if it isn\'t the great Lady {f:5:Lambdadelta}...
+"Oh, if it isn\'t the great Lady LAMBDADELTA...
  .........To think that you were still here."
 Beato\'s foot was locked in an ice‐cold steel shackle,
  ......fastening her to the chair she sat in.
@@ -430,21 +430,21 @@ Beato\'s foot was locked in an ice‐cold steel shackle,
  .........You don\'t want to lose, right?
  You wanna little peek at the kind of wonderful world you\'ll be thrown into if you loooose?"
 "Don\'t worry...
- You can win... Until you do, I, the great Lady {f:5:Lambdadelta}, will stick right by you and look after you for all eternity...!!"
+ You can win... Until you do, I, the great Lady LAMBDADELTA, will stick right by you and look after you for all eternity...!!"
 ".................................
  ......Hmph, ......hahahahaha.
  .........But even if I wish to fight, I have no opponent across from me, correct......?"
 ".........It\'s alright, I\'ve found Battler."
-When {f:5:Bernkastel} appeared and clapped her hands,
+When BERNKASTEL appeared and clapped her hands,
  Battler appeared from the sky and plopped into the opposite chair.
 Battler\'s eyes were slightly opened, but there was no sparkle in them, almost like a doll.
 Without the one pillar that established his soul,
  ............he had fallen into the very depths of darkness, and had been drifting about all this time.
 ......By rights, he should have dispersed and vanished like mist.
-{f:5:Bernkastel} had managed to scrape him together.
+BERNKASTEL had managed to scrape him together.
 It was surprising that she had managed to bring him back into a human form.
 However, even though his body had returned, his soul had not.
-......It was blown away when his existence was denied by {f:5:Beatrice}.
+......It was blown away when his existence was denied by BEATRICE.
 It wouldn\'t come back easily.
 "...............Battler won\'t run from this fight either.
  Not until he beats you.
@@ -464,7 +464,7 @@ Battler lazily and incoherently parroted her words.
 .........He was back.
 But the trauma inflicted on his soul was no small thing.
 That was only natural.
-{f:5:Beatrice} had woven her red, and he had been denied.
+BEATRICE had woven her red, and he had been denied.
 He had learned that the mother he had respected was not his birth mother,
  .........and he didn\'t know who he was.
 ......I am not...
@@ -487,7 +487,7 @@ Of course, she answered right away.
  
 Ushiromiya Battler is not Ushiromiya Asumu\'s son}."
 ".........Hmph, ......in that case, he is not qualified to be the opponent in my game, is he..."
-"Repetition request for {f:5:Beatrice}.
+"Repetition request for BEATRICE.
  "Ushiromiya Battler is not Ushiromiya Kinzo\'s grandchild"."
 ".............................."
 As Beato wrinkled her forehead,
@@ -597,7 +597,7 @@ What he needs is not some vague purpose, like winning against the witch, or beca
 "...............But it can\'t quite reach."
 "You\'ve had enough, right?!
  Then fight so you can return to your family!!
- Destroy {f:5:Beatrice} and come home!!"
+ Destroy BEATRICE and come home!!"
 "No, ......no more witches...!
  Enough of Beato, ...enough of everything...and you too, you\'re probably just another one of the witch\'s allies...
  I could be betrayed again at any time...!!"
@@ -725,7 +725,7 @@ He needs to win the game, he needs to release himself, and he needs to bring his
 Why?
  .........Because he has family—a little sister—waiting for him to come home.
 A being created to bring Ushiromiya Ange\'s voice to him...
-That is who {f:5:Ange Beatrice} is—who I am...!!
+That is who ANGE BEATRICE is—who I am...!!
 I will use the piece I am as a sacrifice...
 to give Onii‐chan the will to fight, to give him purpose!
 Onii‐chan, my purpose is not to play with you in a witch\'s game for all eternity!
@@ -842,11 +842,11 @@ No, no,
  .........and yet...
 ...you kept your faces...
 ...that calm.........?!"
-Without answering, {f:5:Bernkastel}, {f:5:Lambdadelta},
- and {f:5:Beatrice} looked at me,
+Without answering, BERNKASTEL, LAMBDADELTA,
+ and BEATRICE looked at me,
  ......some in pity, ...others in derision.........
 She was calling herself Gretel,
- so after what happened with {f:5:Virgilia} in the last game, ......I was thinking up until now that she might be Beato\'s underling,
+ so after what happened with VIRGILIA in the last game, ......I was thinking up until now that she might be Beato\'s underling,
  and I was making sure not to trust her even though she was on my side...
 And then,
  .........just as I learn that it was actually Ange,
@@ -890,7 +890,7 @@ Because even as I hang around with the witch like this,
  ......and yet...
 ...with all my might,
  ......I pointed......
-".........{f:5:Beatrice}......"
+".........BEATRICE......"
 "Mm."
 "............Resume this game.
  .........I won\'t run away anymore, ......and I won\'t let you get away, either."
@@ -933,7 +933,7 @@ Because of the chains, even that will not be granted me.
 ......Checkmate.
 The perfect endgame.
 .................................However.
-I am the Golden Witch, {f:5:Beatrice}.
+I am the Golden Witch, BEATRICE.
 The demon lord of gold who reigns over the Golden Land.
 It may be a losing battle, but still there exists an attitude befitting my stature.
 And I have the right to beautify my death in a manner fitting for me.
@@ -946,7 +946,7 @@ And I have the right to beautify my death in a manner fitting for me.
 "Yeah, suits me, suits me absolutely perfect!!
  Magic and witches, what a load of bullshit...!!
  I\'m done playing games with you!!
- Here we go, {f:5:Beatrice}...!!!"
+ Here we go, BEATRICE...!!!"
 "I suggest you hold nothing back, for there will be no compromise, interruptions or losing by default.
  One will win, and one will be destroyed."
 "If you have no desire to lose, then you must defeat me, kill me.

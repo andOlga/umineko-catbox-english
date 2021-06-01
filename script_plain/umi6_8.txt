@@ -24,7 +24,7 @@ Battler\'s eyes went wide for a second when he saw Beato there, but his expressi
 "......My apologies.
  I lent them a key because they wished to surprise you with a gift."
 "See, have a look...!
- {f:5:Beatrice}‐sama baked these cookies with all her soul, hoping that you would enjoy them."
+ BEATRICE‐sama baked these cookies with all her soul, hoping that you would enjoy them."
 "Kumasawa‐san and Genji‐san taught me...
  I never knew Genji‐san was so good at baking cookies."
 "Hoh‐hoh‐ho.
@@ -50,7 +50,7 @@ However, even though he understood that logically,
 "Don\'t make me say the same thing again.
  ......Please clean it up and take it away."
 "M‐my lord, couldn\'t you try just one bite...?
- {f:5:Beatrice}‐sama worked hard to make them for your sake..."
+ BEATRICE‐sama worked hard to make them for your sake..."
 "......I\'m grateful for the sentiment.
  ......I\'m in the middle of a very important game right now.
  Important to both me...
@@ -73,7 +73,7 @@ Kumasawa implored Battler to listen, but he turned his back to her...
 "......My...apologies...
  ......Let\'s clean this up, Kumasawa‐san..."
 "I won\'t allow it.
- By making this gift, {f:5:Beatrice}‐sama gave it her all to try and support you in your important game in the only way she could.
+ By making this gift, BEATRICE‐sama gave it her all to try and support you in your important game in the only way she could.
  To tell her to take it away without eating a bite yourself... How can you trifle with a woman so?!!"
 ".........Kumasawa."
 "If you call yourself a man,
@@ -133,18 +133,18 @@ Yes.
 but on a stronger emotion.
 ".........And on top of that...
 ...Beato really is something, to remain dedicated to Onii‐chan even after being treated so coldly.
- I agree with the other, older sister {f:5:Beatrice}.
+ I agree with the other, older sister BEATRICE.
  ......I can\'t understand why she\'s so dedicated to Onii‐chan."
 "And, though it may take a thousand years,
- that single factor that you do not understand must be passed on to the Golden Witch {f:5:Beatrice} we know so well..."
+ that single factor that you do not understand must be passed on to the Golden Witch BEATRICE we know so well..."
 "......Yes.
  I understand that.
  ......Knowing this Beato leads to knowing the Beato who is to come.
  ......It may explain the greatest piece in this crazy game, if not the game board itself..."
 "Such a mysterious witch......"
-Though she said those words, {f:5:Featherine} wore a confident smile on her face.
+Though she said those words, FEATHERINE wore a confident smile on her face.
 Her sarcastic confidence, as though she already knew the answer, was unchanged.
-".........{f:5:Beatrice}.
+".........BEATRICE.
  I want to ask you something."
 "Y‐......yes, what would you like to know, Ange‐san...?"
 Beato, who had been reading a fragment book in the shadows of the study, jumped when Ange called out to her.
@@ -166,7 +166,7 @@ Beato, who had been reading a fragment book in the shadows of the study, jumped 
 "You have that wrong.
  ......Battler merely set "a piece with that role" on the board as the Game Master.
  ......The one who gave birth to this piece...
-was the first Game Master and the one who created this game, {f:5:Beatrice} herself..."
+was the first Game Master and the one who created this game, BEATRICE herself..."
 "......Aaah, this is getting confusing.
  ......In other words, you keep calling Onii‐chan "Father", but he\'s not actually your father.
  ......You\'re just calling him that affectionately,
@@ -248,7 +248,7 @@ That\'s right.
 "......Fath—
 no,
  ......Battler‐san is in the middle of an important game right now.
- His opponent is the formidable Lady Erika, piece of the great Lady {f:5:Bernkastel}."
+ His opponent is the formidable Lady Erika, piece of the great Lady BERNKASTEL."
 "......I stepped in at a delicate moment in his game, just as it was starting to reach the critical part,
  ......and called Battler‐san by that name he doesn\'t want to hear,
  ......so it\'s no surprise that he was in a bad mood..."
@@ -261,7 +261,7 @@ It truly is the blindness of a girl in love......
 Beato once again immersed herself in the fragment book that told of her former self.
 ......She was trying to find something about the Beato that Battler desired.
 Ange shrugged, as though saying "well, I don\'t get it".
-{f:5:Featherine} laughed when she saw this, and quipped that an "innocent young woman" could never understand.
+FEATHERINE laughed when she saw this, and quipped that an "innocent young woman" could never understand.
 Ange grumbled something back unhappily.
 Their interactions seemed to have no effect whatsoever on Beato as she sat in the shadows of the library......
 After chasing all the others out, ......only Battler remained in the study.
@@ -312,7 +312,7 @@ I slowly stretched out my hand,
  ......out to the illusion of the cookie plate,
  ......and touched it.
 Just before I did, it became a cloud of gold butterflies, ......and vanished into the darkness of the study.
-The illusions of Ronove and {f:5:Virgilia} also disappeared.
+The illusions of Ronove and VIRGILIA also disappeared.
 ...However, the illusion of Beato alone still remained on the sofa.
 "......Is there something that does not satisfy you?"
 "............Are you really going to make me say it?"
@@ -340,7 +340,7 @@ Battler also turned his back and moved to the window. ......For a while, there w
  Unless an exactly identical thousand years is traversed, it is impossible to become me.
  In short, ......from the very moment you decide to create me, my personal history will be different."
 "Yeah.
- ............That damn {f:5:Bernkastel} has already guaranteed that you\'ll never revive..."
+ ............That damn BERNKASTEL has already guaranteed that you\'ll never revive..."
 "However, you still hope for it, don\'t you?"
 ".............................."
 "One day, the new "me" trips and lands on her head, and all her memories of the past are spectacularly restored!
@@ -420,7 +420,7 @@ Even though I know she\'s a different person than Beato, ......she keeps remindi
 and...
 your daughter,
  ......huh..."
-Without a doubt, she is exactly the same person, the same piece, which was created once more by the rule called {f:5:Beatrice}.
+Without a doubt, she is exactly the same person, the same piece, which was created once more by the rule called BEATRICE.
 However, when I can\'t accept it that way, .........I can interpret her as being Beato\'s daughter.
  ......This served as a clear guidepost on how to interact with her and smooth the uncertainty in my heart.
 ............And...
@@ -540,18 +540,18 @@ When they did, they saw that two demons had appeared there,
  We know the name of the witch of the contract, the Golden Witch!"
 "Then let\'s try calling her name!"
 "All together now..."
-""{f:5:Beatriceeeeeeeeeeeeee}!!""
+""BEATRICEEEEEEEEEEEEEE!!""
 Given their manner, exaggerated like a theater play, and their slightly ridiculous style of talking,
  it would probably be hard to immediately comprehend the great power these demons possessed.
-When the two demons called {f:5:Beatrice}\'s name, a cyclone of gold butterflies picked up throughout the room.
+When the two demons called BEATRICE\'s name, a cyclone of gold butterflies picked up throughout the room.
 Then, it took the form of two Golden Witches...
-"What\'s this?! There are two {f:5:Beatrice}s...!"
+"What\'s this?! There are two BEATRICEs...!"
 "Well, there are two of us as well.
- Why shouldn\'t there be two {f:5:Beatrice}s every now and then?"
+ Why shouldn\'t there be two BEATRICEs every now and then?"
 "This is my double and my little sister.
  We two are the same and as a single person."
 "P‐......pleased to meet you."
-"It has been a long time, {f:5:Beatrice}‐sama..."
+"It has been a long time, BEATRICE‐sama..."
 "..........................."
 "A‐......am I dreaming......?"
 "......I feel the same.
@@ -575,7 +575,7 @@ Each movement they made was exaggerated yet polished,
 "The last time......?"
 "The brooch, our vessel, has already been destroyed!"
 "Eheheheheh, in other words, our role is now finished!
- Ah, yes, it has been fun, {f:5:Beatrice}!"
+ Ah, yes, it has been fun, BEATRICE!"
 "However, it was decided when the contract was made.
  It was decided that we must lend our power one more time before our final farewell."
 "So, this is truly the final miracle!"
@@ -799,7 +799,7 @@ She had approached him because of love, and had been hurt for it......
  Zepar, Furfur!
  Let my little sister join in too."
 "Oh, of course!"
-"Welcome, second {f:5:Beatrice}...!
+"Welcome, second BEATRICE...!
  We were planning on including you from the very beginning!"
 ""After all, we are Zepar and Furfur!
  The demons of love!!""

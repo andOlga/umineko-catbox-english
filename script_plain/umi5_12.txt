@@ -1,13 +1,13 @@
 In the Golden Land, the quiet rain......just kept on falling.
 In the arbor......sat the sad witch whose eyes had lost their glint......and Battler.
-{f:5:Virgilia} could also be seen there.
+VIRGILIA could also be seen there.
 ......She sat next to Beato, knitting quietly.
-{f:5:Lambdadelta}\'s game had passed the climax of the first twilight, and they were taking a short break.
+LAMBDADELTA\'s game had passed the climax of the first twilight, and they were taking a short break.
 Gazing out at the golden rose garden soaked with rain,
  ......Battler thought back on the present, what was to come, and what had happened so far......
 To Battler, thinking was itself a battle.
 Even with the game stopped and Beato unable to speak, ......he could still keep on fighting.
-......{f:5:Virgilia} suddenly stopped her knitting.
+......VIRGILIA suddenly stopped her knitting.
 Battler had noticed too.
 ......Though none should have been able to visit this rose garden, they had noticed a silhouette approaching.
 ".........That\'s unusual.
@@ -15,11 +15,11 @@ Battler had noticed too.
 "It\'s her..............."
 That silhouette, ......walking through the quietly falling rain without so much as an umbrella,
  .........was Dlanor.
-"......That was a splendid garden {f:5:maze}.
- A very nice way to enjoy the {f:5:roses}."
+"......That was a splendid garden MAZE.
+ A very nice way to enjoy the ROSES."
 "Why.........are you here?"
-"It has been some time, Mrs. {f:5:Beatrice.}
- ...Excuse me, it is Mrs. {f:5:Virgilia} now, is it {f:5:not}?"
+"It has been some time, Mrs. BEATRICE.
+ ...Excuse me, it is Mrs. VIRGILIA now, is it NOT?"
 "Long time no see, Dlanor.
  ......Come over here.
  We aren\'t ones to leave a guest out in the rain."
@@ -29,25 +29,25 @@ That silhouette, ......walking through the quietly falling rain without so much 
 "......Do you know her?"
 "She\'s one of my old friends from heaven.
  ......This really takes me back."
-"Yes, it {f:5:does}.
- Mrs. {f:5:Virgilia} possesses a deep knowledge in Heavenly {f:5:Studies}.
- I have often battled with her over {f:5:interpretations}."
+"Yes, it DOES.
+ Mrs. VIRGILIA possesses a deep knowledge in Heavenly STUDIES.
+ I have often battled with her over INTERPRETATIONS."
 "Hoh‐hoh‐ho...
  My many intellectual adventures with you were quite enjoyable.
  I\'d like to do it again sometime."
-"{f:5:Yes}.
- Let\'s do it again {f:5:sometime}.
- I\'d love to fight with you {f:5:again}."
+"YES.
+ Let\'s do it again SOMETIME.
+ I\'d love to fight with you AGAIN."
 They used the word "fight", but it didn\'t sound like they meant anything unpleasant by it.
 It sounded like something old chess rivals would say to each other.
-Unlike Beato, it seemed that {f:5:Virgilia} had always acted properly and courteously,
+Unlike Beato, it seemed that VIRGILIA had always acted properly and courteously,
  so she had many friends in various other worlds, including both heaven and the demon world.
 Surprisingly, Dlanor was one of them......
 Dlanor, who had crossed swords with "me" just a short while ago,
- bowed her head as if to thank us for allowing her shelter from the sudden rain, and sat in the seat {f:5:Virgilia} pointed out, like a guest.
+ bowed her head as if to thank us for allowing her shelter from the sudden rain, and sat in the seat VIRGILIA pointed out, like a guest.
 "......Is there any type of black tea you would prefer?"
-"{f:5:Anything}.
- ......Any tea you make is {f:5:superb}."
+"ANYTHING.
+ ......Any tea you make is SUPERB."
 "Then how about some Darjeeling?
  ......Battler, Beato, would you like some more?"
 "......Yeah.
@@ -58,28 +58,28 @@ As usual, Beato didn\'t answer,
  ......but if you quietly gave her a cup, she would sip it from time to time.
 There was still some black tea left in that cup, but it had already chilled.
 So Battler asked for a refill for Beato as well...
-"......I have heard the {f:5:rumors}.
- ......How pitiable that {f:5:Beatrice}, the Endless Witch famous for her cruelty,
- has been reduced to {f:5:this}."
+"......I have heard the RUMORS.
+ ......How pitiable that BEATRICE, the Endless Witch famous for her cruelty,
+ has been reduced to THIS."
 "She\'s no longer participating in the game.
- ......{f:5:Lambdadelta} is the one controlling the Beato that\'s on the game board."
-"I {f:5:know}.
- ......However, she is the original master of this {f:5:world}.
- And you are the proper guest, invited by that {f:5:master}.
- That is why I have come to greet {f:5:you}."
+ ......LAMBDADELTA is the one controlling the Beato that\'s on the game board."
+"I KNOW.
+ ......However, she is the original master of this WORLD.
+ And you are the proper guest, invited by that MASTER.
+ That is why I have come to greet YOU."
 On the game board, Beato and I met Dlanor.
 But those were the game pieces of those witches.
 They weren\'t Beato and me ourselves.
 "Is that why you went out of your way to greet Battler‐kun and Beato here...?
  ...I see you\'re as conscientious as always."
-"That is my way of doing {f:5:things}.
+"That is my way of doing THINGS.
  .........Greetings, Mr. Battler.
  I am Dlanor A. Knox.
- ...We play opposing roles, but it is a pleasure to meet {f:5:you}."
+ ...We play opposing roles, but it is a pleasure to meet YOU."
 "......Sure.
  I\'m Ushiromiya Battler.
  Pleased to meet you."
-"Greetings, Miss {f:5:Beatrice}.
+"Greetings, Miss BEATRICE.
  I am Dlanor A. Knox."
 "...................................."
 "......Beato.
@@ -88,37 +88,37 @@ They weren\'t Beato and me ourselves.
 "...................................."
 "...............
  ......She says "welcome"."
-"Thank you very {f:5:much},
- Miss {f:5:Beatrice}."
+"Thank you very MUCH,
+ Miss BEATRICE."
 The witch and the Inquisitor whose job it was to hunt witches...
 greeted each other around a tea table surrounded by the aroma of black tea.
 ......It was a strange sight.
-{f:5:Virgilia} made gold butterflies appear from the palms of her hands...
+VIRGILIA made gold butterflies appear from the palms of her hands...
 and transformed them into a teapot and a can of tea leaves.
 ......It was a very witch‐like way of preparing tea.
 She was a witch, so it wasn\'t a particularly unusual sight.
 ......Though I was a bit concerned about whether Dlanor, an Inquisitor, could allow herself to watch such a spectacle.
-"......Have no {f:5:fear}.
- I am not so rude as to quibble about the way my tea is {f:5:served}."
+"......Have no FEAR.
+ I am not so rude as to quibble about the way my tea is SERVED."
 "Even though the tea\'s being made with magic...?"
-"......There is a tea set hiding in the shadows, and Mrs. {f:5:Virgilia} is making the tea with it in {f:5:secret}.
- We interpret and/or conclude that "it was made with magic", and it is written as such in the {f:5:tale}.
- ......It is an interpretation permitted even by Knox\'s 9th {f:5:commandment}."
+"......There is a tea set hiding in the shadows, and Mrs. VIRGILIA is making the tea with it in SECRET.
+ We interpret and/or conclude that "it was made with magic", and it is written as such in the TALE.
+ ......It is an interpretation permitted even by Knox\'s 9th COMMANDMENT."
 "Oh my...
  I do believe the interpretations of the ninth commandment are such a delicate issue that they\'re even viewed as taboo by the Great Court......
  Even though it\'s just a personal opinion, if it became known that the Chief Inquisitor said such a thing, you might be sacked."
 "No matter what kind of interpretation I might record,
- there is nothing false about the way your tea {f:5:tastes}.
- Therefore, I will never concern myself with how it was {f:5:prepared}."
+ there is nothing false about the way your tea TASTES.
+ Therefore, I will never concern myself with how it was PREPARED."
 ".....................Aha..."
 Though she looked cold, ......she was a surprisingly tactful person.
 ......If Dlanor were to deny that the black tea had been prepared with magic, this magic would surely be crushed in a instant.
-However, even if it was depicted that a tea set existed here and {f:5:Virgilia} had used it to make the tea normally,
- the result, that {f:5:Virgilia} had made tea, would still remain unchanged.
-"Magic that hides the result in darkness is {f:5:evil}.
- We will not permit {f:5:it}.
- However, magic that conceals the process is not necessarily {f:5:evil}.
- My foe is the evil, not the magic {f:5:itself}."
+However, even if it was depicted that a tea set existed here and VIRGILIA had used it to make the tea normally,
+ the result, that VIRGILIA had made tea, would still remain unchanged.
+"Magic that hides the result in darkness is EVIL.
+ We will not permit IT.
+ However, magic that conceals the process is not necessarily EVIL.
+ My foe is the evil, not the magic ITSELF."
 "I get it.
  ......The important thing is that you\'re being welcomed with some tea,
  so it\'s just common courtesy to avoid complaining about how it was made."
@@ -128,12 +128,12 @@ There\'s nothing elegant about pushing your way into the kitchen and poking arou
 "You don\'t invite your guests into the kitchen.
  And when you set the table, you should adorn it beautifully in the spirit of hospitality.
  ......Here you go. It\'s hot."
-"Thank {f:5:you}.
- I would also like some sugar and {f:5:milk}."
+"Thank YOU.
+ I would also like some sugar and MILK."
 "*giggle*.
  You still can\'t drink it straight?"
-"I am a {f:5:kid}.
- It has to be {f:5:sweet}."
+"I am a KID.
+ It has to be SWEET."
 ".........So is magic...
 ...a white...
 lie,
@@ -142,32 +142,32 @@ lie,
  The word "embellishment" is probably more fitting."
 "When giving a child candy,
  you can either take a crumpled‐up one out of your pocket,
- or use a wonderful bit of sleight of hand to produce the candy, and the impression you give with each method is completely {f:5:different}."
+ or use a wonderful bit of sleight of hand to produce the candy, and the impression you give with each method is completely DIFFERENT."
 "Sure, I mean, producing the candy out of nowhere is a cool little trick."
-"{f:5:Wrong}.
- The meaning is in embellishing the result—a candy is given—in a way that makes it even more beautiful and {f:5:fun}."
+"WRONG.
+ The meaning is in embellishing the result—a candy is given—in a way that makes it even more beautiful and FUN."
 "......Think of when you give Maria‐chan a candy.
  There\'s a huge difference between taking it out of your pocket to give to her,
  and saying a fairy gave it to her for being such a good girl...
 after secretly slipping it into her pocket."
 "In my opinion, it would be boorish to then question everyone about their alibis...
-and investigate and pinpoint who it was that slipped it into her {f:5:pocket}.
- The important thing is the result: that the girl received the candy and was {f:5:delighted}.
- And the meaning lies in the fact that it was embellished in order to delight {f:5:her}."
+and investigate and pinpoint who it was that slipped it into her POCKET.
+ The important thing is the result: that the girl received the candy and was DELIGHTED.
+ And the meaning lies in the fact that it was embellished in order to delight HER."
 "......That\'s surprising.
  When you showed up, I got the feeling you\'d deny anything that went by the name of magic."
-"That is how I act in my capacity as an {f:5:Inquisitor}.
- It is my {f:5:job}.
- However, when I am away from my job, I don\'t enjoy being quite so cold‐{f:5:hearted}."
+"That is how I act in my capacity as an INQUISITOR.
+ It is my JOB.
+ However, when I am away from my job, I don\'t enjoy being quite so cold‐HEARTED."
 "So, this is what they call leaving your personal feelings aside when on duty?
  ......You do it well."
-"As an Inquisitor, hunting witches is my {f:5:job}.
- ......Personally, I find witches {f:5:pitiable}.
- However, I condemn them mercilessly as an {f:5:Inquisitor}."
-"......The result that I execute witches is {f:5:unchanged}.
- ......In the end, my pity is nothing more than a useless {f:5:embellishment}.
- Whether I have it or not, nothing {f:5:changes}.
- So it is better if I do {f:5:not}......"
+"As an Inquisitor, hunting witches is my JOB.
+ ......Personally, I find witches PITIABLE.
+ However, I condemn them mercilessly as an INQUISITOR."
+"......The result that I execute witches is UNCHANGED.
+ ......In the end, my pity is nothing more than a useless EMBELLISHMENT.
+ Whether I have it or not, nothing CHANGES.
+ So it is better if I do NOT......"
 ".........Not at all.
  Even if the end result is the same, there\'s a big difference depending on your heart."
 "......Your mother\'s cookies must have been more delicious than those made by a good pastry shop.
@@ -175,72 +175,72 @@ and investigate and pinpoint who it was that slipped it into her {f:5:pocket}.
 "That\'s right.
  .........Even if the result appears to be the same,
  ......there\'s a huge difference depending on whether or not it had a little thing called sincerity..."
-"I am not so {f:5:sure}......
- .........Whether I have a heart or not is completely {f:5:meaningless}."
+"I am not so SURE......
+ .........Whether I have a heart or not is completely MEANINGLESS."
 Dlanor\'s gaze fell to her cup, a little sadly...
 "That\'s not true."
 ".................."
 "Because of everything you\'ve just said, I\'ve changed the way I look at you a little.
  ......So saying your heart is meaningless isn\'t true at all."
-{f:5:Virgilia} was a little surprised to hear the words she should have said coming from Battler\'s mouth.
+VIRGILIA was a little surprised to hear the words she should have said coming from Battler\'s mouth.
 After all, understanding the "heart" was the first step towards magic\'s true nature.
 ......Perhaps Battler was unconsciously starting to understand, bit by bit,
  ...the essence of Beato, the essence of witches,
  and the very first essence of all, ......the essence of magic.
 Whether you want to become a witch or vanquish them...
 ......The very first step is learning about magic.
-{f:5:Virgilia} was sure that she felt this faint change within Battler...
-"......As for that last fight, thank you very {f:5:much}.
- I am grateful for the mercy you showed me at the very {f:5:end}."
+VIRGILIA was sure that she felt this faint change within Battler...
+"......As for that last fight, thank you very MUCH.
+ I am grateful for the mercy you showed me at the very END."
 "That "me" wasn\'t me.
- ......{f:5:Lambdadelta} was controlling him."
+ ......LAMBDADELTA was controlling him."
 I joined in on the fifth game partway through.
 At "this point in the story", I still hadn\'t joined.
 So up until the point when I did join,
- the piece "me" is probably being controlled by {f:5:Bernkastel} or {f:5:Lambdadelta}.
+ the piece "me" is probably being controlled by BERNKASTEL or LAMBDADELTA.
 "......Just what kind of mood\'s taken those two?
  Trying to make it look all cool...
  They made me look like some kind of knight coming to save Beato."
-"Lady {f:5:Lambdadelta} wants both witches and {y:0:Human}{n:0:human}s to be in balance, resulting in a draw.
+"Lady LAMBDADELTA wants both witches and {y:0:Human}{n:0:human}s to be in balance, resulting in a draw.
  .........With Erika\'s appearance, the scales tipped strongly in the favor of the {y:0:Human}{n:0:human} side,
  so she manipulated the tale in a way that supports Beato."
-"Yes, I am {f:5:aware}.
- However, pieces cannot do things that are impossible for {f:5:them}.
- And they specialize in actions appropriate to their original {f:5:personality}.
- ......Therefore, that was certainly something that you......that Battler was capable {f:5:of}.
- That is why I am grateful to {f:5:you}."
+"Yes, I am AWARE.
+ However, pieces cannot do things that are impossible for THEM.
+ And they specialize in actions appropriate to their original PERSONALITY.
+ ......Therefore, that was certainly something that you......that Battler was capable OF.
+ That is why I am grateful to YOU."
 "......It feels a bit weird to be praised when I didn\'t actually do anything.
  ......After the game continues a bit more, I\'ll probably regain control of my piece.
  Not sure I\'ll be going easy on you then."
-"The same goes for {f:5:me}.
- I will not be caught unawares in our next {f:5:bout}."
+"The same goes for ME.
+ I will not be caught unawares in our next BOUT."
 "Perfect. I\'ll take you on anytime.
  Give me everything you\'ve got."
-"You have my {f:5:word}. Everything I {f:5:have}."
+"You have my WORD. Everything I HAVE."
 ......Dlanor.
 I\'d thought she was an emotionless killer doll without a heart,
  ...but maybe she actually is pretty approachable.
 ......Though of course, neither of us will show any mercy when fighting on the game board.
 For a while, we gazed at the rain‐drenched rose garden as we quietly enjoyed our tea.
-".........There is one thing I must apologize {f:5:for}."
+".........There is one thing I must apologize FOR."
 Dlanor suddenly murmured something.
 "What is it?
  ......If it\'s about that fight a short while ago, it\'s already over.
  We both fought with everything we had.
  The outcome was just luck of the draw."
-"No, it was not luck of the {f:5:draw}.
- ...We were unable to let the outcome be decided naturally by chance, so I came here to {f:5:apologize}."
+"No, it was not luck of the DRAW.
+ ...We were unable to let the outcome be decided naturally by chance, so I came here to APOLOGIZE."
 "......What are you talking about...?"
 "..................
  .........You\'re saying you threw the match, aren\'t you?"
-{f:5:Virgilia} spoke softly, without hesitating in her knitting.
-".........{f:5:Yes}.
+VIRGILIA spoke softly, without hesitating in her knitting.
+".........YES.
  ......Mr. Battler."
 "That "Mr." is really getting to me.
  Just Battler is fine."
 "Battler.
- ......I {f:5:apologize}.
- We did not give it everything we {f:5:had}."
+ ......I APOLOGIZE.
+ We did not give it everything we HAD."
 ".........I know.
  ......
 ‘Kinzo is dead at the starting time for all games’}.
@@ -253,8 +253,8 @@ Dlanor suddenly murmured something.
  Are you telling me it was because of a stalemate or something like that?"
 "
 Knox\'s 2nd:
- It is forbidden for supernatural agencies to be employed as a detective {f:5:technique}}.
- We cannot use that red truth {f:5:directly}.
+ It is forbidden for supernatural agencies to be employed as a detective TECHNIQUE}.
+ We cannot use that red truth DIRECTLY.
  However, the red truth that 
 "the window was never opened after it started raining"}...
 was one I had given to Cornelia, who was protecting the window."
@@ -271,81 +271,81 @@ Though she had fought calmly up until that point,
 I\'d thought that she had been frightened by my sudden attack, ......but the truth was different.
 Even though she held a trump card which could completely repel me,
  .........she suddenly became unable to use it, and hesitated.
-"I am not {f:5:sure}.
- In that instant, use of that trump card suddenly became {f:5:forbidden}.
- Once we lost that, your victory was {f:5:guaranteed}."
-".........The Game Master, Lady {f:5:Lambdadelta}, probably interfered."
+"I am not SURE.
+ In that instant, use of that trump card suddenly became FORBIDDEN.
+ Once we lost that, your victory was GUARANTEED."
+".........The Game Master, Lady LAMBDADELTA, probably interfered."
 "That bastard...
- .........So in the end, that whole fight was a farce in the palm of {f:5:Lambdadelta}\'s hand.
+ .........So in the end, that whole fight was a farce in the palm of LAMBDADELTA\'s hand.
  She made "us" play out that entire act according to her script."
-"I understand that you are {f:5:upset}.
- However, since you told me to fight with everything I had, I had no choice but to let you {f:5:know}.
- ......Please forgive {f:5:me}."
+"I understand that you are UPSET.
+ However, since you told me to fight with everything I had, I had no choice but to let you KNOW.
+ ......Please forgive ME."
 "Still, even though you\'d lost your trump card, you kept on fighting all‐out with your remaining cards.
  I don\'t believe anyone could find fault with what you did."
 "......That\'s right.
- ......If I should be mad at anyone, it\'s {f:5:Lambdadelta} for butting in."
+ ......If I should be mad at anyone, it\'s LAMBDADELTA for butting in."
 "
-‘Kinzo does not exist’} should already be an established {f:5:fact}.
- Lady {f:5:Lambdadelta} and Lady {f:5:Bernkastel} know this {f:5:well}.
- And yet, they are both leaving room for Kinzo to exist as they continue through this {f:5:game}.
- ......It is almost as though the two are conspiring to prevent Kinzo\'s existence from being {f:5:denied}."
+‘Kinzo does not exist’} should already be an established FACT.
+ Lady LAMBDADELTA and Lady BERNKASTEL know this WELL.
+ And yet, they are both leaving room for Kinzo to exist as they continue through this GAME.
+ ......It is almost as though the two are conspiring to prevent Kinzo\'s existence from being DENIED."
 "You\'re saying they let "Grandfather" escape on purpose...?"
-"{f:5:Yes}.
- They must be after {f:5:something}."
+"YES.
+ They must be after SOMETHING."
 "............That is a bit odd.
- ...Lady {f:5:Lambdadelta} and Lady {f:5:Bernkastel} should always be in opposition unless the witch side is in a superior position.
+ ...Lady LAMBDADELTA and Lady BERNKASTEL should always be in opposition unless the witch side is in a superior position.
  ......It\'s hard to imagine that those two would be conspiring together with things going as they are..."
-"I cannot help but think that they have some sort of wicked {f:5:objective}.
- I came here because I wanted you to know {f:5:that}."
+"I cannot help but think that they have some sort of wicked OBJECTIVE.
+ I came here because I wanted you to know THAT."
 "......So, ...you came all the way here to tell us something like that?"
-"{f:5:Yes}.
- ......Which means that my business here is {f:5:finished}.
- I think I will leave {f:5:now}.
- The game will probably resume {f:5:shortly}.
- I need to have a discussion with Erika about the {f:5:future}."
+"YES.
+ ......Which means that my business here is FINISHED.
+ I think I will leave NOW.
+ The game will probably resume SHORTLY.
+ I need to have a discussion with Erika about the FUTURE."
 Dlanor gulped down the last of her black tea and stood up.
-"I will see you next at the battle of the second {f:5:twilight}.
- There, I will once again raise my merciless {f:5:longsword}.
- ......So, Battler, I ask the same of {f:5:you}.
- Show no mercy towards {f:5:me}."
+"I will see you next at the battle of the second TWILIGHT.
+ There, I will once again raise my merciless LONGSWORD.
+ ......So, Battler, I ask the same of YOU.
+ Show no mercy towards ME."
 "......I know.
  ...If I go easy on you, I\'ll have my own head smashed in."
-"On the game board, I am nothing more than Lady {f:5:Bernkastel}\'s piece and Furudo Erika\'s {f:5:agent}.
- In the future, I will likely block your way as an enemy many {f:5:times}.
- ......However, in my heart, I am always {f:5:neutral}.
- ......No, ......please forget {f:5:that}.
- ......It has no bearing on the nature of our {f:5:relationship}."
+"On the game board, I am nothing more than Lady BERNKASTEL\'s piece and Furudo Erika\'s AGENT.
+ In the future, I will likely block your way as an enemy many TIMES.
+ ......However, in my heart, I am always NEUTRAL.
+ ......No, ......please forget THAT.
+ ......It has no bearing on the nature of our RELATIONSHIP."
 "It does.
  ......There\'s no doubt you\'re a fearsome opponent, but you don\'t piss me off anymore.
  Unlike that Erika, who totally pisses me off."
-"I am {f:5:glad}.
- I also find Furudo Erika to be {f:5:obnoxious}."
+"I am GLAD.
+ I also find Furudo Erika to be OBNOXIOUS."
 "Heh, hahahahaha."
 Dlanor\'s expression finally softened slightly.
 ......At the very last moment, it felt as though we finally understood each other.
-"Furudo Erika is a very evil {f:5:creature}.
- ......After her recent defeat and loss of face, she is burning with a desire for {f:5:revenge}.
- Even I cannot tell what she is {f:5:plotting}.
- However, it cannot be anything {f:5:good}.
- Please take {f:5:care}."
-"......Just knowing she\'s {f:5:Bernkastel}\'s piece means I\'m not gonna let my guard down."
+"Furudo Erika is a very evil CREATURE.
+ ......After her recent defeat and loss of face, she is burning with a desire for REVENGE.
+ Even I cannot tell what she is PLOTTING.
+ However, it cannot be anything GOOD.
+ Please take CARE."
+"......Just knowing she\'s BERNKASTEL\'s piece means I\'m not gonna let my guard down."
 Dlanor nodded as though satisfied, left the eaves of the arbor and walked out into the rain.
-"......Who could have thought that I would end up serving as an agent of such {f:5:evil}...
- .........Why was I called to this {f:5:world}?"
+"......Who could have thought that I would end up serving as an agent of such EVIL...
+ .........Why was I called to this WORLD?"
 Dlanor let out a small sigh.
 "Pieces" can do nothing except fulfill the function they have been given.
 And that function is given to them by the one who controls them.
-......She probably can\'t disobey {f:5:Bernkastel}, the player in control of "her".
-"............Lady {f:5:Bernkastel} may be the one who called you here.
+......She probably can\'t disobey BERNKASTEL, the player in control of "her".
+"............Lady BERNKASTEL may be the one who called you here.
  However, the one who let you into this world is Beato.
  ......If this child didn\'t wish it, you would never have been able to make it through the garden maze to arrive here.
  ......Right, ...Beato......?"
 "...................................."
 "........................
- ......Miss {f:5:Beatrice}.
- What is it that you want from {f:5:me}?
- ......I do hope that I can help you in some way, though I may be an agent of {f:5:evil}..."
+ ......Miss BEATRICE.
+ What is it that you want from ME?
+ ......I do hope that I can help you in some way, though I may be an agent of EVIL..."
 She spoke to Beato, ......but of course, there was no response.
 After bowing once more in thanks for the black tea,
  ......Dlanor disappeared off into the rainy rose garden......
@@ -446,28 +446,28 @@ At that moment, Gertrude and Cornelia burst in a bright light and disappeared.
 ......Dlanor had returned at some point, and had sent them back to heaven for the time being.
 Erika, who\'d had her fun spoiled, directed an openly malicious expression at Dlanor...
 "Miss Erika.
- I will bear the punishment for my subordinate as her {f:5:superior}.
- Please have mercy upon {f:5:her}."
+ I will bear the punishment for my subordinate as her SUPERIOR.
+ Please have mercy upon HER."
 "............<No, thank you>.
  Punishment is meaningful because of the pain it inflicts.
  ......There\'s nothing remotely interesting about punishing an unfeeling doll girl that can\'t receive a single scratch."
 Erika slowly grabbed hold of the back of Dlanor\'s hair and tugged on it unrelentingly.
 Dlanor\'s neck tilted unnaturally backwards, creaking.
-"......I cannot be harmed, but I can be {f:5:hurt}."
+"......I cannot be harmed, but I can be HURT."
 "Hmph.
  As if you have feelings to hurt.
  You witch‐hunting murder doll.
  .........Are you trying to talk back to me?
- Me, the envoy and double of the great Lady {f:5:Bernkastel}...?!"
-".........{f:5:No}."
-"I am being reprimanded by Lady {f:5:Bernkastel} because you people are useless...!!
+ Me, the envoy and double of the great Lady BERNKASTEL...?!"
+".........NO."
+"I am being reprimanded by Lady BERNKASTEL because you people are useless...!!
  Never demonstrate such miserable incompetence again...!
  Are‐we‐un‐der‐stood...?!"
 She pulled back the hair she had grabbed even more strongly...
 This didn\'t cause Dlanor any physical pain,
  but she could clearly feel Erika\'s ill will.
-"...............My {f:5:apologies}.
- Please forgive {f:5:me}."
+"...............My APOLOGIES.
+ Please forgive ME."
 "Filth."
 With a sound like taut strings snapping, she ripped out several strands of Dlanor\'s hair.
 Then, Erika waved her hand about as though trying to shake off something dirty that had gotten stuck to it.
@@ -476,7 +476,7 @@ Then, Erika waved her hand about as though trying to shake off something dirty t
  .........My anger has finally subsided, and my little gray cells are tingling again.
  ......Please call those two useless people back and reconstruct the crime scene.
  Let\'s start the deduction game."
-"{f:5:Understood}.
+"UNDERSTOOD.
  .........Gertrude, Cornelia."
 ""As you wish.""
 The two of them reappeared behind Dlanor,
@@ -485,16 +485,16 @@ The two of them reappeared behind Dlanor,
  Let\'s start investigating the first twilight proper.
  ......Oh, before that.
  Are you aware that we were actually presented with a mystery before the murders even occurred?"
-"{f:5:Yes}.
- You mean the letter with the mark of the One‐winged Eagle, which appeared at midnight last night along with a knock by some {f:5:person}."
+"YES.
+ You mean the letter with the mark of the One‐winged Eagle, which appeared at midnight last night along with a knock by some PERSON."
 "That\'s right.
  The tale appears to describe that it was impossible for any of the {y:0:Human}{n:0:human}s at that moment,
  creating the illusion that an unknown witch exists.
  ......Let\'s start by crushing this witch illusion.
  We\'ll first check the situation in the dining hall last night when the letter was delivered."
-"{f:5:Understood}.
+"UNDERSTOOD.
  Gertrude, Cornelia.
- Reconstruct last night\'s family conference in the dining {f:5:hall}."
+ Reconstruct last night\'s family conference in the dining HALL."
 ""As you wish.""
 The family conference last night was conducted with the adult relatives and Battler present.
 And partway through, the servants arrived to serve tea.
@@ -508,18 +508,18 @@ Before the family conference, Erika, George, Jessica, Maria, Nanjo, Gohda, and K
 Of those who remain, only Krauss, Natsuhi, and Genji were in the second floor corridor,
  while all others were in the dining hall}."
 "Because the mansion had been entirely locked in advance of the family conference,
- everyone else was unable to enter the {f:5:mansion}."
+ everyone else was unable to enter the MANSION."
 "Aha.
  That would mean that no one inside the mansion could have knocked and placed the letter there, right?
  Eheheheh."
-"{f:5:Yes}.
- The witch side will probably say that this person is the same who wrote the letter: the witch, {f:5:Beatrice}."
+"YES.
+ The witch side will probably say that this person is the same who wrote the letter: the witch, BEATRICE."
 "Ridiculous.
  A stupid trick.
  .........There\'s no guarantee that the letter was placed there at the stroke of midnight.
  It\'s only sensible to consider that it might have been placed there earlier."
-"Just a few minutes before the letter was discovered, Shannon and Kanon came in to serve {f:5:tea}.
- When they entered, multiple witnesses confirmed that there was nothing suspicious like a letter in the {f:5:hallway}."
+"Just a few minutes before the letter was discovered, Shannon and Kanon came in to serve TEA.
+ When they entered, multiple witnesses confirmed that there was nothing suspicious like a letter in the HALLWAY."
 "
 Most likely, one of those not in the dining hall—Krauss, Natsuhi, or Genji—
 simply saw their chance right after that and placed the letter there}.
@@ -530,8 +530,8 @@ We\'ve heard that the mansion was locked and that no one outside could get in,
  it\'s perfectly possible that they could have placed the letter there}."
 "For your attention:
  blue truth, valid."
-"In that case, the problem is the {f:5:knock}.
- Unlike the letter, someone would have to exist there at the instant of the {f:5:knock}."
+"In that case, the problem is the KNOCK.
+ Unlike the letter, someone would have to exist there at the instant of the KNOCK."
 "I see, so this is the so‐called proof that a person who shouldn\'t be there, a witch, existed?
  This is completely ridiculous.
  Do they think that this is all it takes to get me, Furudo Erika, to surrender?
@@ -590,8 +590,8 @@ the serving cart carrying the tea set, which the servants wheeled into the room.
  If it had happened inside the dining hall, that would have been even more wonderful.
  Within everyone\'s sight, a letter would suddenly appear on the floor.
  And a red stating "it appeared suddenly in the locked room of the dining hall and was not touched by anyone there" wouldn\'t even be violated!"
-"Well {f:5:done}.
- If the letter was stuck to the bottom of the serving cart, then anyone could be the {f:5:culprit}."
+"Well DONE.
+ If the letter was stuck to the bottom of the serving cart, then anyone could be the CULPRIT."
 "That might work okay for the letter.
  But will that same type of argument work for the knock as well?
  Let\'s try this again, shall we?"
@@ -619,8 +619,8 @@ An intentional knock refers to someone creating a fake knocking sound with inten
 An unintentional knock refers to someone unintentionally creating a fake knocking sound.
 A coincidental knock refers to some kind of coincidence creating a fake knocking sound.}
 "
-In other words, it is impossible for anyone who was in the mansion to have been the source of a knocking {f:5:sound}.
- ......In this case, "anyone" also includes any people who might have gone undetected or {f:5:unobserved}}."
+In other words, it is impossible for anyone who was in the mansion to have been the source of a knocking SOUND.
+ ......In this case, "anyone" also includes any people who might have gone undetected or UNOBSERVED}."
 "Anyone who was in the mansion" also includes any unknown person X who was secretly hiding in the mansion.
 Therefore, this literally meant...
 that "it was impossible for anyone inside the mansion to knock", with no wordplay allowed.
@@ -632,9 +632,9 @@ What if I, Furudo Erika, recorded a knocking sound on a cassette tape,
  secretly installed it somewhere, and set it up so that it would start playing at exactly midnight?
  Of course, I wasn\'t in the mansion at midnight.}
  There aren\'t any problems with this, are there?"
-"There are no {f:5:problems}.
- However, the knock serves to alert everyone to the existence of the letter, and does so precisely because the letter is on the other side of the {f:5:door}.
- If the letter had fallen in the kitchen, for instance, I do not think that the knock would have served to inform anyone of the letter\'s {f:5:existence}."
+"There are no PROBLEMS.
+ However, the knock serves to alert everyone to the existence of the letter, and does so precisely because the letter is on the other side of the DOOR.
+ If the letter had fallen in the kitchen, for instance, I do not think that the knock would have served to inform anyone of the letter\'s EXISTENCE."
 If the trick in Erika\'s theory about the letter being stuck to the serving cart was accurate,
  then the location that the letter fell was a matter of luck.
 The people in the dining hall were able to notice it due to the knock only because it had fortunately fallen near the door.
@@ -696,7 +696,7 @@ The letter never existed on the ceiling of the hallway}."
 Know that the letter never touched the serving cart}."
 ".........Wh‐who cares about that?!
  The point is, some{y:0: Human}{n:0:one} outside the mansion used some kind of trick to place the letter there!!
- I know what you\'re trying to do, use that letter and knock to argue that {f:5:Beatrice} exists! Well, it definitely won\'t work on Furudo Erika!"
+ I know what you\'re trying to do, use that letter and knock to argue that BEATRICE exists! Well, it definitely won\'t work on Furudo Erika!"
 "For your attention: I beg to inform you of the following.
  
 It was impossible for anyone outside the mansion to influence anything inside the mansion after the start of the family conference}."
@@ -722,9 +722,9 @@ Erika\'s face twisted.
 ......These words that seemed to deny Erika...
 no, Erika\'s deductions...were the worst form of torture and humiliation for her.
 "......Miss Erika.
- Why don\'t we postpone the mystery of the letter for {f:5:now}?
- ...Your blue stake regarding the knock, "someone outside the mansion played it with a cassette tape", is still {f:5:valid}.
- If it was possible to solve the noise, then it should be possible to solve the letter as {f:5:well}."
+ Why don\'t we postpone the mystery of the letter for NOW?
+ ...Your blue stake regarding the knock, "someone outside the mansion played it with a cassette tape", is still VALID.
+ If it was possible to solve the noise, then it should be possible to solve the letter as WELL."
 As Erika made to grab and pull Gertrude\'s hair, Dlanor stopped her with those words.
 "That\'s right, my blue truth regarding the knock is still valid...!
  It\'s not true that everything\'s been denied...!!
@@ -742,7 +742,7 @@ someone outside the mansion set things up with a cassette tape or something to m
  Normally, I\'d never forgive one of my pieces for the utter disgrace of surrendering,
  ......but if she\'s managed to solve one of the mysteries, maybe I\'ll let it slide for now......"
 "M‐......my master......"
-When {f:5:Bernkastel} said she\'d let it slide, Erika couldn\'t hide her relief.
+When BERNKASTEL said she\'d let it slide, Erika couldn\'t hide her relief.
 "Then it\'s time to get punished, Erika‐chan♪"
 {a:c:
 
@@ -764,7 +764,7 @@ In other words, all of them would correctly distinguish a knocking sound of some
  no one existed who could have hit the door......
  Gggh, ggghgghhhhh......"
 "Yep, they don\'t exist.
- After all, it was the Golden Witch {f:5:Beatrice} who hit it.
+ After all, it was the Golden Witch BEATRICE who hit it.
  *cackle*cackle*cackle*cackle*cackle*...!!"
 ".........So in other words, there\'s no way around this other than hitting the door.
  So what about this?
@@ -813,7 +813,7 @@ The two witches doubled over laughing,
  If you don\'t try a little harder, Bern\'s gonna forget you, you know...?
  You\'ll collect dust in that forgotten piece tray, awaiting your turn that will never come.
  ......I imagine that\'d be pretty harsh, don\'t you think...?"
-"Ha‐have no fear, Great Lady {f:5:Lambdadelta}, and my master...!
+"Ha‐have no fear, Great Lady LAMBDADELTA, and my master...!
  I promise to deliver such a spectacular performance to earn your approval that you will never be disappointed in me again...!"
 "............Oh, how reassuring. I guess you\'re my double after all.
  ......Then you\'d better make sure you do work hard, in all kinds of ways.
@@ -826,7 +826,7 @@ If she resigned herself to that,
 Erika endured with a hideous expression, looking with shame at the back of the master who was ignoring her.
 And with both fists clenched, she thought frantically for some kind of breakthrough.
 I am the detective, I am Furudo Erika.
-I am the piece and double and servant of the great Lady {f:5:Bernkastel}...!!
+I am the piece and double and servant of the great Lady BERNKASTEL...!!
 I\'ll definitely make her satisfied...
 satisfied...
 definitely, definitely,
@@ -912,7 +912,7 @@ After seeing her behaving so calmly, ......everyone convinced themselves that th
 So Erika\'s sudden transfiguration of a few seconds ago was treated as a daydream,
  and faded out of everyone\'s memory......
 Erika quietly poked at her salad and muttered in a voice no one could hear.
-Thank you very much, Great Lady {f:5:Bernkastel}......
+Thank you very much, Great Lady BERNKASTEL......
  I am Furudo Erika.
  I am my master\'s piece and her double.
  ......I will most certainly present you with an incredible tale.

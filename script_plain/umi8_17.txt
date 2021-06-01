@@ -18,14 +18,14 @@ once said that a {y:0:Human}{n:0:human}\'s life is an adventure from beginning t
  I believe one should write a tale to an appropriate point, then leave the trailing notes and opinions of what follows to the minds of the spectators."
 "......In short, the tale must be put inside a cat box at the appropriate time.
  ......The cat box has been the subject of this long tale, so is it not better to refrain from writing the finale in its entirety, to instead put it in the cat box and leave it there...?"
-{f:5:Featherine}......spoke to no one inside the empty study.
+FEATHERINE......spoke to no one inside the empty study.
 Of course, no one commented on her words.
-However, {f:5:Featherine} seemed to hear something.
+However, FEATHERINE seemed to hear something.
 She nodded and grinned contentedly.
 "Yes, I know.
  I will write a bit further, then lay down my pen.
  ......Then, it will be time for us to say our goodbyes."
-{f:5:Featherine} held up a finger and spun it around, a signal that she wanted to darken the room.
+FEATHERINE held up a finger and spun it around, a signal that she wanted to darken the room.
 The lights in the study dimmed......
 "Would you mind letting me rest for a while?
  ......During that time, my cat......or rather, my miko will entertain you......"
@@ -46,9 +46,9 @@ The lights in the study dimmed......
 "A‐and keep that stuff to yourseeeeelf!!
  Ah, B‐Bern, d‐don\'t, don\'t, aaaa!!"
 But despite all this, the two of them truly were close.
-Though {f:5:Lambdadelta} had been brutally dismembered in the final fight, she had survived.
+Though LAMBDADELTA had been brutally dismembered in the final fight, she had survived.
 But, unfortunately, she was still dismembered.
-So, {f:5:Bernkastel} was sewing her arms and head back on with a needle and thread.
+So, BERNKASTEL was sewing her arms and head back on with a needle and thread.
 The left arm, which was still waiting to be reattached, walked around on the bed impatiently with its index and middle fingers.
 Only the arms were left to do, so it looked like this would be finished soon.
 Then, Erika returned, slamming the door open.
@@ -78,24 +78,24 @@ Then, Erika returned, slamming the door open.
  It\'s probably from Dlanor or someone.
  I\'m surprised you\'re still in touch.
  ......All it takes is the presence of this postmark,
- and a deduction like this becomes trivial for {f:5:Bernkastel}."
+ and a deduction like this becomes trivial for BERNKASTEL."
 "Hey!!
  You can\'t do that, my master!
  Van Dine\'s Rule #9!
  It\'s forbidden to have multiple detectives!"
 "......Then you\'d better get out.
  So long, Great Detective Erika."
-"Nooooo, my masteeeer!! {f:5:Erika}, Witch of Truth, is here to serve!"
+"Nooooo, my masteeeer!! ERIKA, Witch of Truth, is here to serve!"
 "............I still can\'t tell if you two like each other or hate each other."
 "Of course we hate each other.
  You\'re the only one I love."
 "H‐how could you, my master!!
- Lady {f:5:Lambdadelta}!
+ Lady LAMBDADELTA!
  It looks like there\'s not enough room for the two of us!"
 "Are you serious?
- ......Are you challenging the great {f:5:Lambdadelta}?"
-Erika grinned and grabbed {f:5:Lambdadelta}\'s left arm that was walking around the bed.
-"Here is Lady {f:5:Lambdadelta}\'s arm.
+ ......Are you challenging the great LAMBDADELTA?"
+Erika grinned and grabbed LAMBDADELTA\'s left arm that was walking around the bed.
+"Here is Lady LAMBDADELTA\'s arm.
  And here is the sliced‐open end of her arm."
 Erika grinned and wiggled her fingers menacingly.
 "Wait, ......you aren\'t thinking........."
@@ -104,14 +104,14 @@ Erika grinned and wiggled her fingers menacingly.
  gyahhahahahahahaahaha,
  ahhhyahahahaha,
  stoppiiiiiit that tickleeeeees!!"
-......She tickled the open end of {f:5:Lambdadelta}\'s left arm.
+......She tickled the open end of LAMBDADELTA\'s left arm.
  Apparently, she was extremely ticklish there.
-Incidentally, the open end of {f:5:Lambdadelta}\'s arm was cute and fluffy with white cotton candy poking out.
+Incidentally, the open end of LAMBDADELTA\'s arm was cute and fluffy with white cotton candy poking out.
 Apparently, her body was made out of sweet candy, with a bit of spice thrown in.
 Put your mind at ease, as there is nothing remotely terrifying about her severed arm.
-Erika ran around, screaming "I\'ve defeated Lady {f:5:Lambdadelta} all by myself, just like my master!"
- {f:5:Lambdadelta} growled and hissed at her.
- {f:5:Bernkastel} kept on sewing, an exasperated look on her face.
+Erika ran around, screaming "I\'ve defeated Lady LAMBDADELTA all by myself, just like my master!"
+ LAMBDADELTA growled and hissed at her.
+ BERNKASTEL kept on sewing, an exasperated look on her face.
 It was a very peaceful scene...
 "So?
  What does the letter say?"

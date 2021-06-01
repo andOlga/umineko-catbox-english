@@ -30,7 +30,7 @@ It was a massive portrait of a woman......
  I am satisfied."
 "......This is your benefactor, the woman who gave you the gold?"
 "Indeed.
- ......If I had not met {f:5:Beatrice}, I would not be here, nor would the Ushiromiya family, nor would, of course, this mansion.
+ ......If I had not met BEATRICE, I would not be here, nor would the Ushiromiya family, nor would, of course, this mansion.
  It\'s only natural that her portrait be displayed in the best possible location."
 Now that he had said so this bluntly, there would be no contradicting him.
 Krauss and Natsuhi could only shrug.
@@ -63,7 +63,7 @@ The others thought that the picture\'s name and an explanation might be on it,
 A difficult riddle, made so that no one would be able to solve it.
 If someone actually could solve it, ......they would be a miraculous person.
 And that miracle......might shepherd the person Kinzo most desired...
-"In short, this epitaph really does show a ritual to revive the witch {f:5:Beatrice}, just as everyone thought...?"
+"In short, this epitaph really does show a ritual to revive the witch BEATRICE, just as everyone thought...?"
 ".........That is a normal interpretation to make.
  A mysterious ritual, sacrificing thirteen people to revive the witch.
  ......However, that is not the true ritual.
@@ -74,15 +74,15 @@ And that miracle......might shepherd the person Kinzo most desired...
  ......Maybe Kinzo set this up in the first place because he guessed that Genji knew everything."
 "......Was that fate a coincidence, or something engineered?
  I do not know.
- ......However, with this epitaph, the witch {f:5:Beatrice} would revive in the truest sense."
+ ......However, with this epitaph, the witch BEATRICE would revive in the truest sense."
 ".........This is...
-.........{f:5:Beatrice}..."
+.........BEATRICE..."
 My soul was captured by the woman shown in that massive portrait.
 That might have been literally true.
 Or, rather than captured, perhaps it would be better to say that my soul had returned to a more fitting place, the place it belonged.
 The beautiful blonde hair was the same as mine, but tied up.
 The dress she wore was a deep black, making that golden hair stand out all the more.
-.........This is the witch...{f:5:Beatrice}.
+.........This is the witch...BEATRICE.
 My......true form......
 "Hm?
  ............What is this?"
@@ -96,14 +96,14 @@ You who seek the Golden Land, follow its path downstream in search of the key.
 I have always called my own, personal world a Paradise.
 But tonight, I shall change that.
 From now on, my world shall be the Golden Land.
-I am the master of the Golden Land, {f:5:Beatrice}......
+I am the master of the Golden Land, BEATRICE......
 ......And then, there is the brutal ritual of sacrifices starting with the first twilight.
 On the ninth twilight, the witch revives, and none shall be left alive......
 "Is it saying that if I carry out this ritual, ......I will experience a true revival......?"
 Then, on the tenth twilight, the journey ends, and I shall reach the Home of the Gold......
 The witch shall praise the wise, and bestow four treasures.
 One shall be all of the Golden Land\'s gold.
-......Kinzo received a massive amount of gold from {f:5:Beatrice}, and rumor has it that it still lies hidden somewhere.
+......Kinzo received a massive amount of gold from BEATRICE, and rumor has it that it still lies hidden somewhere.
 Is this, as the family members and servants are all whispering, a code showing the location of Kinzo\'s hidden gold?
 ".........If a {y:0:Human}{n:0:human} reaches the solution, they will obtain a great quantity of gold.
  .........However, if I am the one to solve it, it will mean my own resurrection..."
@@ -112,11 +112,11 @@ Is this, as the family members and servants are all whispering, a code showing t
 Just when I was mocking the shortness of the time left to you, you start a game like this.
 How intriguing.
  ......I shall solve this riddle of yours.
-I shall revive as the real {f:5:Beatrice}.
+I shall revive as the real BEATRICE.
 And then, I shall use my great magical power to control object and man, day and night, and all of Rokkenjima......
 "They all say that epitaph is a guide to finding hidden treasure...!"
 "The rumors tell that the Master has ten tons of gold hidden away...!"
-"......Yes, those rumors about {f:5:Beatrice} being the one who gave it to him.
+"......Yes, those rumors about BEATRICE being the one who gave it to him.
  I\'ve heard that too."
 "Ten tons of gold...... That would be incredible.
  I can hardly even imagine it."
@@ -132,9 +132,9 @@ And then, I shall use my great magical power to control object and man, day and 
 "It seems that the Master doesn\'t intend to let Krauss‐sama take the headship easily.
  ......Perhaps the one who solves this will become his successor?"
 "Genji‐san, what is this?!
- Could this be a portrait of......{f:5:Beatrice}? The woman that Father..."
+ Could this be a portrait of......BEATRICE? The woman that Father..."
 "......Correct.
- This is {f:5:Beatrice}‐sama."
+ This is BEATRICE‐sama."
 "What on Earth?
  There\'s a strange little poem‐like thing over here."
 "..............................
@@ -210,13 +210,13 @@ Her eyes opened wider and wider......
 "Precisely.
  ......This is the final miracle I will desire while I still live.
  My final magic.
-......When a miracle comes and allows one to solve that inscrutable epitaph, .........it will surely mean {f:5:Beatrice}\'s resurrection.
- ......Ohhh, {f:5:Beatrice}...
+......When a miracle comes and allows one to solve that inscrutable epitaph, .........it will surely mean BEATRICE\'s resurrection.
+ ......Ohhh, BEATRICE...
  I just want to see your face one more time...
  I don\'t need wealth or honor anymore.
  If I could only see you one more time......!"
 Kinzo understood that he was facing his last years and considered this his final magic.
-After losing {f:5:Beatrice} across two generations, he was betting everything that she had given him in the hope of being reunited with her.
+After losing BEATRICE across two generations, he was betting everything that she had given him in the hope of being reunited with her.
 His meeting with her that day had been the true beginning of his life.
 And even after the two of them had left the stage, Kinzo had remained there alone in the darkness.
 The aged monarch had obtained everything, accomplished everything,
@@ -244,29 +244,29 @@ That very same Genji now spoke of a hypothetical.
 ......Kinzo quietly waited for the next words of the man he called a friend.
 "If a miracle does occur,
  if your magic comes true...
-.........and {f:5:Beatrice}‐sama does revive,
+.........and BEATRICE‐sama does revive,
  ......what will you do...?"
 As the one closest to Kinzo,
- Genji obviously knew of the crazed feelings with which Kinzo had sought {f:5:Beatrice} in the past.
-......And yet, Genji was asking what Kinzo would do if {f:5:Beatrice} did revive.
+ Genji obviously knew of the crazed feelings with which Kinzo had sought BEATRICE in the past.
+......And yet, Genji was asking what Kinzo would do if BEATRICE did revive.
 "................................."
 "......My lord, at one time in the past,
- you experienced the miracle of {f:5:Beatrice}‐sama being reborn.
+ you experienced the miracle of BEATRICE‐sama being reborn.
  If that miracle happened again,
  ......what would you do?"
 "............My friend.
  So, after all, ......you do blame me."
-"......I cannot claim to know everything about your heart or the heart of {f:5:Beatrice}‐sama.
+"......I cannot claim to know everything about your heart or the heart of BEATRICE‐sama.
  ......However, I believe that I do know something...
-...of the way in which {f:5:Beatrice}‐sama adored you."
+...of the way in which BEATRICE‐sama adored you."
 ".................................
  ......I am racked with regret.
  You may not believe, ......but as I have aged, I have come to regret everything."
 "........................"
 "If a miracle does occur...
-and {f:5:Beatrice} revives,
+and BEATRICE revives,
  ......then, of course, I do not care if she knows nothing of the time she spent with me in the past.
- ...No, as long as she is {f:5:Beatrice}, I don\'t care who it is!
+ ...No, as long as she is BEATRICE, I don\'t care who it is!
  ......I just............want to apologize...!"
 ".........Is that truly how you feel?"
 "Yes, my friend.
@@ -277,7 +277,7 @@ and {f:5:Beatrice} revives,
  However, like a deep thorn, it began to fester, .........torturing me.
  ......I am willing to accept death in whatever form it may take!"
 "However, ......this thorn.........this regret.........is the one thing I must resolve......
- I must return everything to {f:5:Beatrice}...
+ I must return everything to BEATRICE...
 and beg forgiveness for my sins...!
  That is, ......that is my only and final wish......
  ...Ooh,
@@ -306,8 +306,8 @@ This aged lord, who had built up enormous wealth in a single generation, ......w
  And what does Genji‐san have to do with this epitaph...?"
 "The epitaph wasn\'t "solved".
  It was allowed to be solved."
-"............And then, {f:5:Beatrice} truly revived.
- ......If {f:5:Beatrice}\'s revival had never happened..."
+"............And then, BEATRICE truly revived.
+ ......If BEATRICE\'s revival had never happened..."
 "......Then, when 1986 came, ......the incident might have been completely different."
 "Ultimately, ......since the time of my birth, I have never once stood at the crossroads of fate...
 ...and been given the right to make the choice of my own free will."
@@ -340,7 +340,7 @@ No matter how we dance, we are bound to vanish into its depths......
  Yes, there could be no more fitting name for you.
  Very well, you shall now be known as Ronove...!"
 "Oh, how pleasant it is to be called by one\'s name.
- I thank you for this wonderful name, Lady {f:5:Maria}."
+ I thank you for this wonderful name, Lady MARIA."
 "Just as the form can be a vessel, so can the name be a strong vessel.
  For unknown creatures of the other world, simply gaining a name can greatly increase their magical power...!!
  That\'s why names are important.
@@ -352,7 +352,7 @@ No matter how we dance, we are bound to vanish into its depths......
  A splendid name.
  ......And I\'ll ask you to stop shortening my precious name...!"
 "Pu ku ku ku...!
- So, you\'re {f:5:Virgilia}, the one who guides travelers to {f:5:Beatrice}?
+ So, you\'re VIRGILIA, the one who guides travelers to BEATRICE?
  That is also a splendid name.
  Perfect for Milady\'s master."
 "Yes, I do like it a lot.
@@ -431,7 +431,7 @@ Together, we called ourselves Mariage Sorcière and made each other\'s magical w
  Uu!"
 "Lion Land, is it?
  It sounds like fun."
-"......By interacting together, all of {f:5:Maria}\'s friends can reinforce their own existence.
+"......By interacting together, all of MARIA\'s friends can reinforce their own existence.
  She has a great world."
 "Then we should work on deepening our relationships as well.
  By strengthening our bonds, our existence and magical power will grow stronger and stronger..."
@@ -447,7 +447,7 @@ Together, we called ourselves Mariage Sorcière and made each other\'s magical w
 "Here in Mariage Sorcière, we have learned how to expand our worlds and create new minions.
  At this point, the kinds of minions you may create are limited only by your imagination......"
 "Milady, what about those?
- Could you make vessels of those dark tools you found when cleaning out {f:5:Goldsmith}\'s storehouse?"
+ Could you make vessels of those dark tools you found when cleaning out GOLDSMITH\'s storehouse?"
 "Oh, perfect!
  Minions manifested from dark‐looking vessels like that will surely be fitting for me...!
  There will be more and more of us, and it will get very lively here...!"
@@ -531,7 +531,7 @@ Maria, not knowing why my face had suddenly changed like this, looked taken abac
 "......I know why I will not be complete."
 "It\'s because you don\'t have enough magical power."
 Maria answered instantly.
-{f:5:Beatrice} has lost her magical power and is unable to regain the power she once had.
+BEATRICE has lost her magical power and is unable to regain the power she once had.
 That is how the story goes.
  So, Maria\'s answer is exactly correct.
 ............Yes.
@@ -612,7 +612,7 @@ It was Genji, Shannon, ......and Kanon too.
  ......Why is the Master displaying the location of his precious gold,
  even in the form of a cryptic epitaph, in a place where everyone can see?"
 "......That is the Master\'s magic, and also a bet.
- The Master believes that the soul of {f:5:Beatrice}‐sama will dwell within the one who solves this inscrutable riddle."
+ The Master believes that the soul of BEATRICE‐sama will dwell within the one who solves this inscrutable riddle."
 "............That\'s a strange bet—I mean, magic..."
 "Hmph, looks like he\'s taken his occult fanaticism as far as it could possibly go."
 "Shh.

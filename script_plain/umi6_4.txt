@@ -481,7 +481,7 @@ Crunchriptearsquelch...
  I remember spending a lot of nights all scared that the witch really was walking around the mansion,
  when I was a brat six years ago."
 "Uu, exists!
- {f:5:Beatrice} exists!"
+ BEATRICE exists!"
 "............What\'s at the other end of this hallway?"
 "There are guest rooms there, but they aren\'t being used now."
 "Yeah.
@@ -526,7 +526,7 @@ Well, to be honest,
 ......Still, we simply walked past it in the last game, which is no fun at all.
 Erika whispered to herself, but of course no one heard her.
 "......This is the Master\'s benefactor,
- {f:5:Beatrice}‐sama."
+ BEATRICE‐sama."
 "I\'ve heard that she gave Grandfather a vast quantity of gold, meaning that she\'s to thank for the Ushiromiya family\'s revival."
 ".........She\'s just a witch of Grandfather\'s delusions.
  They say her ghost walks the corridors of the mansion every night."
@@ -536,7 +536,7 @@ Erika whispered to herself, but of course no one heard her.
  What about now, six years later?"
 "I\'d totally forgotten, but looking at this portrait head on, I can feel that old fear coming back a bit."
 "Uu.
- {f:5:Beatrice} isn\'t scary.
+ BEATRICE isn\'t scary.
  At least, as long as you respect her.
  If you don\'t,
  .........kihihihihihihihihihihihihihihihihi!
@@ -545,7 +545,7 @@ Erika whispered to herself, but of course no one heard her.
  ......That rumor does exist among the servants as well.
  ......Rumors about servants patrolling at night glimpsing mysterious silhouettes......or gold butterflies..."
 "Oh yeahhh, wasn\'t there that one servant just last year or the year before that fell down some stairs and got so badly injured that they quit?
- Wasn\'t there a rumor that it was {f:5:Beatrice}\'s curse?
+ Wasn\'t there a rumor that it was BEATRICE\'s curse?
  Ihhihihihi~!"
 Jessica told it like a ghost story, trying to scare Erika, but Erika just laughed disdainfully.
 "C‐come on, that\'s creepy...
@@ -556,16 +556,16 @@ Jessica told it like a ghost story, trying to scare Erika, but Erika just laughe
 "Yep.
  After all, this insanely huge portrait really stands out.
  Shortly after it was put up, everyone was talking about what it might be.
- ......And then, when the accident happened right afterwards, people started calling it {f:5:Beatrice}\'s curse."
-"So, these ghost stories about {f:5:Beatrice} started after the portrait was displayed...?"
+ ......And then, when the accident happened right afterwards, people started calling it BEATRICE\'s curse."
+"So, these ghost stories about BEATRICE started after the portrait was displayed...?"
 "......N‐no.
- Rumors about {f:5:Beatrice}‐sama\'s ghost walking about had been around even before that.
+ Rumors about BEATRICE‐sama\'s ghost walking about had been around even before that.
  However, I think those stories grew in number after the portrait was put there..."
-".........Before then, even though they had heard about the witch {f:5:Beatrice}, they didn\'t have an actual distinct picture in their heads of what she\'d be like.
+".........Before then, even though they had heard about the witch BEATRICE, they didn\'t have an actual distinct picture in their heads of what she\'d be like.
  I imagine that this portrait made that picture distinct for them, strengthening the rumors even more."
-"So, ......who started all the talk about the witch {f:5:Beatrice} in the first place?"
+"So, ......who started all the talk about the witch BEATRICE in the first place?"
 "Grandfather.
- He\'d get in a rage and start yelling about "my beloved witch {f:5:Beatrice}~".
+ He\'d get in a rage and start yelling about "my beloved witch BEATRICE~".
  Though until we saw that portrait, we had no idea what she looked like."
 "It\'s no surprise that you\'d get one or two ghost stories with a creepy portrait like this hanging around.
  You always get ghost stories cropping up around things like a portrait of Beethoven in the music room or the statue of the school founder."
@@ -577,10 +577,10 @@ Jessica told it like a ghost story, trying to scare Erika, but Erika just laughe
 Erika looked up at the portrait and smiled at it defiantly......
 Maria\'s face immediately soured, as though she felt that this smile was disrespectful to Beato.
 "......Uu.
- {f:5:Beatrice} exists.
+ BEATRICE exists.
  If you say things like that, you\'ll definitely feel the curse of the witch."
 "Oh, how frightening.
- Please, curse me if you can, {f:5:Beatrice}.
+ Please, curse me if you can, BEATRICE.
  ......*giggle*giggle*."
 "Ihihi.
  So, if we find you mysteriously dead next morning, it\'ll be the start of a witch\'s murder case.
@@ -590,7 +590,7 @@ Maria\'s face immediately soured, as though she felt that this smile was disresp
  That would get in the way of the crime scene inspection.
  ......I see, even the Knox rules don\'t prohibit the detective being killed."
 "I have something good!
- ......It\'s a charm that\'ll protect you from {f:5:Beatrice}\'s curse...!"
+ ......It\'s a charm that\'ll protect you from BEATRICE\'s curse...!"
 "A charm?
  You have a charm for something like that?"
 After fishing around in her bag, Maria pulled out a string of beads attached to a medal that had a scorpion drawn on it.
@@ -598,7 +598,7 @@ After fishing around in her bag, Maria pulled out a string of beads attached to 
 "What are these?"
 "Uu!
  They\'re magic‐repelling charms!
- Their effect is very weak, but if you use them, you\'ll definitely be able to avoid {f:5:Beatrice}\'s curse all night long."
+ Their effect is very weak, but if you use them, you\'ll definitely be able to avoid BEATRICE\'s curse all night long."
 "I\'ve heard that spiderwebs are also useful for repelling magic."
 "Uu.
  Beato\'s avatar is a butterfly, so that\'s probably why she doesn\'t like spiders."
@@ -623,14 +623,14 @@ However, it felt as though its eyes and expression...were just a little differen
 From her perspective, while the person in this portrait was almost infinitely close to herself, ......it was just as surely a different person entirely.
 "............Who...are you?
  ......Please tell me what kind of person you are..."
-Beato had already finished reading the fragments from {f:5:Featherine}\'s archive that showed the tales of all the games so far.
-However, the witch called {f:5:Beatrice} who had been depicted in them...
+Beato had already finished reading the fragments from FEATHERINE\'s archive that showed the tales of all the games so far.
+However, the witch called BEATRICE who had been depicted in them...
 had been so vastly different from her.
 ......At the very end, it had looked as though that witch and Battler had connected just a little bit as adversaries,
- ......but for the most part, {f:5:Beatrice} had just bullied and bullied Battler in nearly all of the tales.
+ ......but for the most part, BEATRICE had just bullied and bullied Battler in nearly all of the tales.
 Even though this was about her,
- she had no idea why {f:5:Beatrice} had tormented Battler so much when she had supposedly been born for Battler\'s sake.
-......All she had learned from {f:5:Featherine}\'s archive...
+ she had no idea why BEATRICE had tormented Battler so much when she had supposedly been born for Battler\'s sake.
+......All she had learned from FEATHERINE\'s archive...
 ...was that the former Beato was a completely different person who defied understanding...
 "......What happened to you?
  .........I am an egg of you.
@@ -638,11 +638,11 @@ Even though this was about her,
  ......Your wings should have existed for Father\'s sake.
  ......Just when did you have one of those torn off.........and end up so drastically different......?"
 She had also been listening to the conversation Battler and the others had just been having.
-{f:5:Beatrice} can\'t handle scorpion charms...?
- {f:5:Beatrice} can\'t deal with spiderwebs......?
+BEATRICE can\'t handle scorpion charms...?
+ BEATRICE can\'t deal with spiderwebs......?
 It wasn\'t as though she would like to touch either of those if she had the choice, but nothing bad would happen if she did.
 ......Was being perfectly fine around those...
-...proof that she wasn\'t {f:5:Beatrice}...?
+...proof that she wasn\'t BEATRICE...?
 Even though it was about herself, ......she didn\'t understand at all.
 So, she quietly gazed into her own eyes on the portrait.
 It felt as though the truth hid behind those eyes......
@@ -654,7 +654,7 @@ And then,
 When she did, it felt as though the portrait rippled slightly.
 ......Yes.
  This is...a doorway.
-A doorway to the long path that would lead her to the Golden Witch, {f:5:Beatrice}......
+A doorway to the long path that would lead her to the Golden Witch, BEATRICE......
 Beato felt a bit dizzy.
 ......She lost her balance, feeling as though the world was twisting around her.
 Then, she couldn\'t tell which way was up or down......and was swallowed downwards.
@@ -670,18 +670,18 @@ As long as she asked for nothing, ......this world would ask nothing of her.
 But she couldn\'t remain like this.
  ......She didn\'t want to spend eternity inside the darkness of this world.
 Yes, I need to hatch out of my egg.
-This darkness is the inside of the shell that surrounds the gold butterfly called {f:5:Beatrice}.
+This darkness is the inside of the shell that surrounds the gold butterfly called BEATRICE.
 ".........I will be born...
 for Father\'s sake.
  ......I will live for my father Battler\'s sake and be born to serve him."
 She put her purpose, her reason for being born, into words.
 As if in response to those words, the seal on the shell began to melt away......
 Cracks appeared in the darkness......and a brilliant light enveloped the world...
-And so, .........{f:5:Beatrice}......was born.
+And so, .........BEATRICE......was born.
 "...............Huh...?"
 "..................?"
 There I stood.........along with another me.
-For a second, I thought that the me in front of me was the real {f:5:Beatrice}, the one I wanted to be more like.
+For a second, I thought that the me in front of me was the real BEATRICE, the one I wanted to be more like.
 However, she was looking back at me with the same bewildered eyes, ......so I realized that wasn\'t quite it.
 ......That\'s right.
  ...I wasn\'t the only one born from the egg.
@@ -691,29 +691,29 @@ She was also born.
 How can I put it?
 ......Both of us are lacking something and immature.
 Yes.
- Both of us are chicks, ......but we are also...fragments of the true {f:5:Beatrice}.
-It felt as though the two of us together could become the real {f:5:Beatrice}.
+ Both of us are chicks, ......but we are also...fragments of the true BEATRICE.
+It felt as though the two of us together could become the real BEATRICE.
 ......No one explained this to us.
 However, we naturally understood...
 I decided to talk to this other me.
-Unless I get to know her and become one with her, I won\'t be able to become the {f:5:Beatrice} Father desires......
+Unless I get to know her and become one with her, I won\'t be able to become the BEATRICE Father desires......
 In other words, the thing that Father wants from me...and was so heartbroken to find missing...must be something that she has...
 ".........H‐......hello......?"
 ".............................."
-The {f:5:Beatrice} with her hair down looked at me dubiously several times, then finally spoke.
+The BEATRICE with her hair down looked at me dubiously several times, then finally spoke.
 ".........Why...do you have the same face as me......?"
-She used the word "warawa" to refer to herself, just like the true {f:5:Beatrice}.
+She used the word "warawa" to refer to herself, just like the true BEATRICE.
 ......It looks like she really does have something that I lack.
 "W‐......well...
  I don\'t know why either."
-"I am the Golden Witch, {f:5:Beatrice}.
+"I am the Golden Witch, BEATRICE.
  And you are?"
-"I, I am also...{f:5:Beatrice}.
+"I, I am also...BEATRICE.
  I was born for the purpose of serving Ushiromiya Battler."
 "......I am the Golden Witch and the ruler of Rokkenjima\'s night.
  ......I know Ushiromiya Battler, but I have trouble imagining why I would have to serve a brat like him."
 I realized that the thought I\'d had a second ago,
- ......that together, we could become the true {f:5:Beatrice}...must really have been true.
+ ......that together, we could become the true BEATRICE...must really have been true.
 ......Though the person in front of me does have the part that makes her a witch, which I lack,
  she does not possess the mission to live for Ushiromiya Battler\'s sake.
 She has what I do not,
@@ -736,7 +736,7 @@ In that sense, ......maybe it\'s fitting for us to call ourselves sisters, as sh
  I understand that you are also "me".
  ......Why is it that you speak that way, and why must you serve Battler?
  As long as we cannot understand that, it seems both of us will remain immature."
-"......I...want to become a complete {f:5:Beatrice}."
+"......I...want to become a complete BEATRICE."
 "Until you were born, I was complete.
  ......However, now that you have appeared,
  I believe that accepting you is my obligation.
@@ -769,7 +769,7 @@ Her portrait wasn\'t there.
  After all, you are a part of me.
  How could a left arm refuse the company of the right?
  It would be senseless to refuse.
- I shall be pleased to have you, my little sister, the new {f:5:Beatrice}."
+ I shall be pleased to have you, my little sister, the new BEATRICE."
 "Th‐thank you very much,
  O‐
 ......Onee‐sama."
@@ -778,5 +778,5 @@ Her portrait wasn\'t there.
  Come, let us go.
  Let us take a walk through the nighttime mansion.
  *cackle*cackle*, let me introduce you to my boring everyday life."
-The two {f:5:Beatrice}s changed their forms into two gold butterflies...
+The two BEATRICEs changed their forms into two gold butterflies...
 and fluttered silently into the depths of the shadowy mansion......

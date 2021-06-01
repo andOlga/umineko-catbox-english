@@ -27,7 +27,7 @@ On the contrary, those siblings probably planned to turn the conversation to the
  Casually walking around in a place like that."
 How had she gotten up there?
 ......Well, it\'s pretty pointless to wonder about that sort of thing when you\'re dealing with a witch.
-{f:5:Beatrice} was casually sitting on the roof of the arbor,
+BEATRICE was casually sitting on the roof of the arbor,
  almost as though she had been basking in the sun.
 "Those relatives are like a massive lump of the anti‐magic toxin, and they\'ll be intruding on us.
  If you bump into them, your soul will evaporate in a instant."
@@ -157,7 +157,7 @@ is because that\'s the lie that Aunt Natsuhi\'s creating in an attempt to hide G
  it\'s possible to display "Aunt Natsuhi taking a walk in the rose garden with Grandfather" as Natsuhi\'s reality.
  That means it\'s possible for Grandfather to appear."
 Clap, clap, clap...
-That extremely unflattering applause was coming from {f:5:Bernkastel}.
+That extremely unflattering applause was coming from BERNKASTEL.
 "......Bravo.
  ............You\'re much calmer without Beato around."
 "Quiet.
@@ -531,7 +531,7 @@ And the coordination between the two of them and the servants had also been spec
 "We couldn\'t afford to have this secret found out under any circumstances.
  That\'s why I made such a thorough plan."
 "Your willpower and attention to detail summoned success with certainty.
- ......As a witch, it seems that you\'re in Lady {f:5:Lambdadelta}\'s camp.
+ ......As a witch, it seems that you\'re in Lady LAMBDADELTA\'s camp.
  At your current level, as soon as you become self‐aware of that as magic, you will be worthy of calling yourself a witch apprentice."
 "If you call something like that magic, then that would make Kumasawa the witch of feigned illnesses.
  She only calls us to say she\'s taking the day off because of her bad back on the busy days.
@@ -591,7 +591,7 @@ Those sudden words......were exceedingly cruel.
  Quit trying to steal away Beato\'s right to laugh."
 "......Oh, should I say it in red, then...?"
 I shook my head furiously.
-Then, with an expression that didn\'t reveal her thoughts in the slightest, {f:5:Bernkastel} spoke while looking at Beato\'s face.
+Then, with an expression that didn\'t reveal her thoughts in the slightest, BERNKASTEL spoke while looking at Beato\'s face.
  ......And I didn\'t understand the word she used in the slightest.
 {a:c:
 "Congratulations."}
@@ -612,7 +612,7 @@ Then, with an expression that didn\'t reveal her thoughts in the slightest, {f:5
  ...Why is this game still continuing?"
 "The shackle attached to that girl\'s ankle.
  ......That\'s a rule Lambda made."
-Even if {f:5:Beatrice} tries to yield or gets discouraged or gives up,
+Even if BEATRICE tries to yield or gets discouraged or gives up,
  she isn\'t capable of stepping down from the game.
 ......That\'s the rule.
  Or maybe it\'s a curse.
@@ -622,7 +622,7 @@ Even if {f:5:Beatrice} tries to yield or gets discouraged or gives up,
  I assisted you by making sure that you would receive hints and things would go your way.
  That\'s why you\'re able to be here now.
  ............Do you remember? How I helped you?"
-{f:5:Bernkastel} stared at me...
+BERNKASTEL stared at me...
 ......It\'s true I wasn\'t aware of it,
  ......but maybe it was true...
 that she had helped me.
@@ -640,7 +640,7 @@ that she had helped me.
  That\'s a wonderful bit of support within this game."
 In that case, the only way left for this game to end......is for me to win.
 At the very least, until I do win,
- this witch called {f:5:Lambdadelta} can probably try to buy time for Beato\'s condition to turn back around.
+ this witch called LAMBDADELTA can probably try to buy time for Beato\'s condition to turn back around.
 But that......would just prolong Beato\'s suffering even more...
 Neither of us want that.
 Both Beato and I fought with all we had trying to win.
@@ -649,7 +649,7 @@ And that was also why, that one time,
  we confronted each other head‐on with all of our strength.
 And Beato.........admitted defeat.
 She said she wanted me to end this game...and entrusted everything to me.
-So, {f:5:Bernkastel}\'s words were the truth.
+So, BERNKASTEL\'s words were the truth.
 She said it was my fault that Beato had become a living corpse.
  ......That was true.
 But it was something both of us wanted.
@@ -670,7 +670,7 @@ It felt as though I could only let her sleep peacefully by slowly strangling her
  Beato resigned.
  I\'ll ignore the truth of the witch illusions and return home with my family.
  ......What\'s wrong with that?"
-If only {f:5:Lambdadelta} hadn\'t placed the curse of that shackle on her, this battle would be over already.
+If only LAMBDADELTA hadn\'t placed the curse of that shackle on her, this battle would be over already.
 ......That\'s why I find it detestable.
 This game, where I have to torment Beato even more to end it,
  ......is detestable.
@@ -688,7 +688,7 @@ I know this isn\'t the time to start feeling compassion for Beato.
  Kill this witch without fail."
 "...................................."
 Even though Beato was right there,
- {f:5:Bernkastel} spoke without holding back...
+ BERNKASTEL spoke without holding back...
 "Your goal is to kill this woman.
  ......In the last game, you said it at Beato\'s request.
  You said "I will kill you"."
@@ -704,7 +704,7 @@ Even though Beato was right there,
  That\'s how killing works."
 "That\'s none of your business.
  I\'m the one to decide how to perform her last rites.
- You and that {f:5:Lambdadelta} witch have nothing to do with this.
+ You and that LAMBDADELTA witch have nothing to do with this.
  I will kill her.
  I won\'t let anyone else do it."
 ".........As long as you don\'t lose that willpower.
@@ -743,33 +743,33 @@ And, if I hadn\'t thought I hurt her,
 "Yeah......
  ...No problem."
 "It\'s the same as it was with Kinzo.
- {f:5:Beatrice} doesn\'t exist.
+ BEATRICE doesn\'t exist.
  This is a false witch illusion that Natsuhi created from her belief that she thought up a brilliant plan to overcome hardship by borrowing the witch\'s power."
 "The only reason it looks like the two of them are drinking together...
-is because {f:5:Lambdadelta}, who is the Game Master and the one who is telling the story, is interpreting it that way."
+is because LAMBDADELTA, who is the Game Master and the one who is telling the story, is interpreting it that way."
 "If you stare without a fragment of love for Natsuhi, you won\'t see illusions like that.
  .........That\'s why, with my eyes, all I can see is Natsuhi all alone, drinking her tea in silence."
 Without love, it cannot be {y:1:‘seen’}{n:1:seen}.
  Because love is lacking, it cannot be {y:1:‘seen’}{n:1:seen}.
 "That\'s a fantasy that Natsuhi\'s showing us.
- ......{f:5:Beatrice} doesn\'t exist there."
+ ......BEATRICE doesn\'t exist there."
 "...........................ugh........."
 Beato mumbled softly.
  ......It was a small voice that made it sound like she was in pain.
-The thorn of {f:5:Bernkastel}\'s truth had stabbed into her chest.
+The thorn of BERNKASTEL\'s truth had stabbed into her chest.
 "......Yeah, that\'s probably true.
  I think your theory is right.
  But don\'t say that in front of Beato."
 "It doesn\'t matter where I say it.
  This is Beato\'s world."
 "......Also, it\'s not like I\'m protecting Beato,
- but there is a possibility that Aunt Natsuhi really is drinking tea with some unknown person X calling themselves {f:5:Beatrice}.
+ but there is a possibility that Aunt Natsuhi really is drinking tea with some unknown person X calling themselves BEATRICE.
  This scene takes place a year before everything.
  The number of people on the island on this day has never been shown with the red truth."
 "............Sure.
  Even Lambda hasn\'t said anything in red about the number of people on Rokkenjima on this day."
 "In that case,
- it\'s possible to claim that Aunt Natsuhi really did drink tea with a woman calling herself {f:5:Beatrice}.
+ it\'s possible to claim that Aunt Natsuhi really did drink tea with a woman calling herself BEATRICE.
  Just like I can\'t deny your theory, you can\'t deny mine.
  That means you can\'t say for sure whether the Beato there is an illusion or not."
 ".........Oh, the cat box theory?
@@ -789,7 +789,7 @@ Beato......groaned.
  I could see clearly that she was in anguish.
 Another witch illusion had been smashed, ......calling Beato towards death.
 ......In short, this is what the battle to let Beato rest in peace is all about...
-A second ago, {f:5:Bernkastel} likened our fight to the torture of tearing fingernails out.
+A second ago, BERNKASTEL likened our fight to the torture of tearing fingernails out.
 If I have to tear them out anyway,
  ......then my last bit of compassion towards Beato should be to minimize that pain.
 In other words, ......even if I want to minimize the pain, I still have to cause it.
@@ -842,13 +842,13 @@ The two days of the crime give us more than enough time to injure each other wit
 "After all,
  I\'m enjoying this game too.
  .........*giggle*giggle*giggle*giggle*. Hahahahahahahahahahahahahahaha......"
-{f:5:Bernkastel} disappeared, leaving only that unpleasant laugh behind.
+BERNKASTEL disappeared, leaving only that unpleasant laugh behind.
 "......................................."
 After that, all that remained was Natsuhi, sipping tea all alone,
  ......Beato, her hand still on the tea cup as she stared blankly at the surface of the liquid,
  ......and me.
-"......{f:5:Bernkastel} and {f:5:Lambdadelta}...
- ......{f:5:Virgilia} called them your friends, but...
+"......BERNKASTEL and LAMBDADELTA...
+ ......VIRGILIA called them your friends, but...
 ...you really should have chosen your friends more carefully.
  Or wait, maybe they actually make a good match with an ill‐natured person like you..."
 ".............................."

@@ -444,13 +444,13 @@ that I must go through for that...
 ...it\'s just...
 ......too painful......"
 "...................................."
-{f:5:Beatrice} hung her head in shame.
+BEATRICE hung her head in shame.
 If she hadn\'t encouraged Shannon so much, it probably wouldn\'t have been this painful.
 Shannon may have been the one to sow the seed of love in her heart.
-However, {f:5:Beatrice} had irresponsibly watered it and told Shannon not to give up.
-......{f:5:Beatrice} scratched at her chest, trying to share Shannon\'s pain...
+However, BEATRICE had irresponsibly watered it and told Shannon not to give up.
+......BEATRICE scratched at her chest, trying to share Shannon\'s pain...
 "........................This is...my fault."
-{f:5:Beatrice} mumbled to herself.
+BEATRICE mumbled to herself.
 "......How can any of this be your fault?"
 "For three years, I tortured you with the illusion of a promise that never happened.
  ......If I had not nourished the bud of love within you, ......you would not have suffered so."
@@ -514,7 +514,7 @@ in your place."
  ......I will accept the bud of love in your place.
  ......It means that I will accept the pain as well, ......but I will also learn of the single element I do not possess,
  ......the element of love."
-{f:5:Beatrice}......wanted to know love.
+BEATRICE......wanted to know love.
 She wanted to feel what Shannon had felt in the world of humans.
 ".........And,
  if Battler ever does return,
@@ -528,13 +528,13 @@ And...it would mean giving the bud of love to the witch, to hold in her place...
 Shannon spread the hands that she had held to her chest.
 As she did, a faint light slipped out of her chest and floated in the air,
  ......gradually swallowing everything with its brightness.
-As the brilliant light began to fade away, Shannon and {f:5:Beatrice}, still facing each other,
+As the brilliant light began to fade away, Shannon and BEATRICE, still facing each other,
  were now inside a vast, starry sphere, like a planetarium.
 They were the only ones in this pitch‐black starry sea.
 .........Shannon felt as though she had seen this place once before, but she could not remember.
 Then, I made another announcement.
 "The world shall be modified.
- ......Let the bud of love travel from Shannon to {f:5:Beatrice}."
+ ......Let the bud of love travel from Shannon to BEATRICE."
 This way, Shannon won\'t be tormented by the bud of love anymore.
 On top of this, so that Shannon can create a new universe, ......I\'ll give her a little brother.
 The backstory for the little brother will be a younger boy at the Gospel House with whom Shannon was close.
@@ -548,7 +548,7 @@ As a duty‐minded boy who loves Shannon like a big sister, he\'ll always be the
 Let\'s have him be a special servant like Genji, who is permitted to serve Kinzo directly.
  ......Yeah.
  That sounds kinda cool.
-Then, {f:5:Beatrice}.
+Then, BEATRICE.
 From now on, you will carry the bud of love.
 In other words, ......the role of being infatuated with Battler and waiting for his return will go to you.
 While you are still the witch who reigns over Rokkenjima\'s night...
@@ -561,14 +561,14 @@ He did tell us what his ideal woman would look like once, remember?
  A great figure.
 ......Yeah.
  Something like that.
-That\'s what the new {f:5:Beatrice} will look like.
+That\'s what the new BEATRICE will look like.
 Come now, hold that bud of love in your heart as you wait for Battler.
 ......You will learn of love at last...and pay the price of pain.
 Yes, this will be the setting for my new world.
 For Shannon, a new servant like a little brother will come.
 He will be a silent, reticent boy.
  A duty‐minded kid who loves Shannon as a sister.
-And the bud of love that has tortured Shannon......will go to the witch, {f:5:Beatrice}.
+And the bud of love that has tortured Shannon......will go to the witch, BEATRICE.
 She will just be holding onto the bud of love for the time being.
 However, while she holds onto it, she will be a maiden in love with Battler.
 For that time, you will be able to learn what love is......

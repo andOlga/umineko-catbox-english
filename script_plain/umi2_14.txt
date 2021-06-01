@@ -20,7 +20,7 @@
  .........what was that...
  Even I do not understand!"
 "What are you saying?!
- It\'s impossible for you to have met anyone other than the witch, {f:5:Beatrice}, whose location has been unknown since last night,
+ It\'s impossible for you to have met anyone other than the witch, BEATRICE, whose location has been unknown since last night,
  or Kanon‐kun, who has gone missing!
  Was it a man or a woman?!
  You should be able to tell me at least that much, right?!"
@@ -125,9 +125,9 @@ I couldn\'t really see why Auntie Rosa wanted to check the bodies so badly that 
  Maria, stop that scribbling now!"
 "Uu.
  Not scribbliiing.
- Solving {f:5:Beatrice}\'s probleeem.
+ Solving BEATRICE\'s probleeem.
  Uu..."
-"{f:5:Beatrice}\'s problem?
+"BEATRICE\'s problem?
  What\'s that? Tell me too."
 "...Auntie Rosa, are you...umm...bringing Maria‐chan too?"
 It seemed that George‐aniki had some resistance to bringing Maria to the bloody crime scene.
@@ -202,7 +202,7 @@ Auntie Rosa searched under the bed and in the locker.
 If you assume that there had been two culprits, it could be easily explained.
 The first person was Kanon‐kun, or maybe an impostor that looked like him.
 He had finished off Doctor Nanjo and ran off somewhere.
-The second person was......probably the 19th person, {f:5:Beatrice}, whose location was unknown.
+The second person was......probably the 19th person, BEATRICE, whose location was unknown.
 She had hidden under the bed in the servant room beforehand, and with Doctor Nanjo\'s body still enshrined here, she had waited for Genji‐san and the rest to leave.
 Then after that, she had crawled out, taken the master key back from Doctor Nanjo\'s pocket, and carried the two bodies away for some reason.
 If she had then locked the door with the master key, this locked room would be created.
@@ -268,7 +268,7 @@ I ask all of you that you take care not to mistake your goal.}
 {e:070:Attempting to search for me is useless.
 Attempting to escape from me is useless.
 Attempting to deny me is also—useless.
-—{f:5:Beatrice} the Golden.}
+—BEATRICE the Golden.}
 "......P.S.
  I borrowed the two bodies for the ritual.
  I will return them later, so please accept my apologies.
@@ -420,7 +420,7 @@ hiiihhihihhihihihihihihihihihihi}!!"
 It\'s no good no good no good no goddamn good!!
 For a second, I thought I had it!
  It was no goddamn good at all!!
-{f:5:Beatrice}, you bitch,
+BEATRICE, you bitch,
  I thought you were all smoke and mirrors, playing word games that made clever use of red,
  I was certain you\'d just cleverly deceived me...!!
 ......Just when I thought I\'d seen a light in the darkness,
@@ -535,7 +535,7 @@ I\'ll love you so much and make you my toy until you turn to ashes}..."
 "Hm...?
  ......What do you mean by that......?"
 "Those two that you kept saying were dead aren\'t here.
- ...And now we have the letter from {f:5:Beatrice}, where she was kind enough to confess that she carried the corpses off.
+ ...And now we have the letter from BEATRICE, where she was kind enough to confess that she carried the corpses off.
  ......That\'s what it is."
 "I\'ve had enough of this farce!!"
 As Auntie Rosa yelled this, she looked over at everyone with a harsh expression.
@@ -605,7 +605,7 @@ We can\'t seek an answer without suspecting them!!!
 That\'s it, bit by bit I\'m starting to understand...
 ......It\'s because we seek an answer; ...that\'s why everything keeps getting stranger...
 We don\'t need...an answer.
- These are all strange murders committed with bizarre magic by the 19th person, the witch {f:5:Beatrice}, as she follows a creepy ritual.
+ These are all strange murders committed with bizarre magic by the 19th person, the witch BEATRICE, as she follows a creepy ritual.
 ............Isn\'t that......good enough.........
 I don\'t...want to suspect...anyone anymore.........
 Shannon‐chan and Gohda‐san were protesting their innocence, half in tears.
@@ -671,7 +671,7 @@ She was announcing that she had all of the master keys.
 Then, Maria, who had looked like a spectator off by herself, sneered at her mother.
 ...Auntie Rosa reacted nervously to that laugh, and turned around.
 "......Keys don\'t matter.
- ......{f:5:Beatrice} can open doors with magic.
+ ......BEATRICE can open doors with magic.
  She doesn\'t need keys.
  ...It doesn\'t matter who has or doesn\'t have something like that.
  Kihihihihihihihihihihihihihi...!"
@@ -697,20 +697,20 @@ Then, Maria, who had looked like a spectator off by herself, sneered at her moth
 ...doing......
  ...All that stuff about tricks and locked rooms never mattered..."
 ".........It\'s just, it\'s just...
-.........that the witch {f:5:Beatrice} actually exists,
+.........that the witch BEATRICE actually exists,
  .........and she really was a witch...
  ......Because I didn\'t believe that,
  ............it was this painful,
  ............this sad............"
-".........Battler, ......you believe in {f:5:Beatrice}......?"
+".........Battler, ......you believe in BEATRICE......?"
 "Yes...!
  I believe.
- ...{f:5:Beatrice} "exists".
+ ...BEATRICE "exists".
  And she\'s a witch, who uses strange magic...!"
 "Battler......"
 Maria let go of my hand, ...and then she was the one holding my head.
 "......That\'s the way, Battler.
- ............{f:5:Beatrice} "existed".
+ ............BEATRICE "existed".
  ......You just couldn\'t believe that easily, so couldn\'t see her.
  ............The witch "exists".
  "Exists".
@@ -819,7 +819,7 @@ no, anyone at all......
 "..................Anikii..."
 "...It\'s okay.
  I\'ll protect you.
- ......If you\'re with me, even {f:5:Beatrice} can\'t lay a hand on you.
+ ......If you\'re with me, even BEATRICE can\'t lay a hand on you.
  \'Cause even though I\'m small, I\'m a witch."
 "Yeah.
  .........Maria‐chan.
@@ -865,7 +865,7 @@ something like that......?"
  Only a demon or a witch could prove something like that, you know?!"
 "Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!
  Stop it already stop it already...!!"
-"Please, {f:5:Beatrice}, show yourself right now,
+"Please, BEATRICE, show yourself right now,
  and tell Auntie Rosa in red that "there are only five master keys"!!
  Please, I beg you, this can only be proved by devils, a witch like you could prove it!"
 "Please, Beato, show yourself here and tell Auntie Rosa...
