@@ -221,7 +221,7 @@ Beato laughed amiably.
  In that illegible scrawl.
  *cackle*cackle*cackle*cackle*...!"
 "And what about you...!
- Don\'t write it in {c:86EF9C:{ruby:katakana:capitals}} like that!
+ Don\'t write it in {ruby:katakana:capitals} like that!
  {f:5:Beatrice} is a stylish name, so write it in cursive!
  You\'re making the quill and your name cry!"
 "Sh‐shut up, in school, didn\'t they tell you not to use cursive on tests?"
@@ -377,7 +377,7 @@ That can\'t be...
 "...Still, I was just trying to do what Master told me, but it really did work very well!"
 "I hear, after acting {ruby:tsuntsun:bad‐tempered} and exploring the depths of cruelty, if you act properly incompetent and {ruby:dere:soft}, you can get a massive rise on that goodwill meter thing, riiight?"
 "I\'ve heard that villains who go {ruby:dere:soft} and then {ruby:yan:crazy} are pretty popular these daaaays...!
- Despite how I loook, I\'ve studied a lot of manga, anime, and {c:86EF9C:galge} that have been popular recently, you seeee?"
+ Despite how I loook, I\'ve studied a lot of manga, anime, and galge that have been popular recently, you seeee?"
 "And I tried it out, and just as expected, it was "tears please", and you\'re down!!"
 "Hihhyahhahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha, idioooot, what a truly simple person!!
  They call this the "North Wind and the Sun Strategy".

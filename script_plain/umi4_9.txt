@@ -335,7 +335,7 @@ He must have been listening to the phone ringing for a very long time.
  Hello?
  Is this Auntie Rosa Co., Ltd.?"
 "This is the Komatsugawa Police Department police box in front of Senbonzakura Station.
- Is President...umm, {c:86EF9C:Udaikan}...no, sorry, President Ushiromiya‐san available?
+ Is President...umm, Udaikan...no, sorry, President Ushiromiya‐san available?
  ............Yes.
  ......Whaat?
  {i:Vacation}?"
@@ -539,7 +539,7 @@ Maria fished around in her pocket,
  ......and pulled out those four ceramic rabbits with her tiny hand...
 The rabbits were her precious friends, who could go to school with her in Sakutaro\'s place.
 But when Rosa saw that, she shook her head slightly as though dizzy...
-In Maria\'s {c:86EF9C:communication booklet}, a note had been written that Maria was apparently bringing toys to school and playing with them,
+In Maria\'s communication booklet, a note had been written that Maria was apparently bringing toys to school and playing with them,
  and it requested Rosa to give her home instruction to try to prevent this.
 But Rosa had dismissed the teacher\'s comment as faultfinding, and on the contrary, had phoned the school to make a complaint of her own.
 ...Saying that there was no way her child would bring toys to school.

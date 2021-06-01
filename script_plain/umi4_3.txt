@@ -558,7 +558,7 @@ Aunt Eva had particularly disliked that, and I believe she dismissed him right b
  The next time you are in Kyoto, please do stop by.
  .........Let\'s go."
 "Huh, leaving already?
- {c:86EF9C:You could have some chazuke before you go.}"
+ You could have some chazuke before you go."
 "..................*cackle*cackle*.
  ...Hoh‐hoh‐hoh‐hoh‐ho...!!"
 Her back to Okonogi, she laughed at first lightly, but with an increasingly shrill and hateful tone, using that as a substitute for a sharp parting remark.

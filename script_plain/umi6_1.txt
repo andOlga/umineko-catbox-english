@@ -514,7 +514,7 @@ For her, acknowledging a human\'s name was like acknowledging the names of all t
 So, .........her acknowledging Ange\'s name was a miracle.
 {n}No, it was immensely good fortune.
 "...From this point forth, Ushiromiya Ange...
-will serve as Reader and {c:86EF9C:miko} to the Witch of Theatergoing, {f:5:Featherine Augustus Aurora}.
+will serve as Reader and miko to the Witch of Theatergoing, {f:5:Featherine Augustus Aurora}.
  Until you finish reading,
  I shall bring calamity to all who attempt to hinder your task."
 When the Witch of Theatergoing, {f:5:Featherine}, spoke this, ......Ange was wrapped in a bright light.

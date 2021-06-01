@@ -8,7 +8,7 @@ In the corner of this room, which was much larger than what most people would ca
 "The bottle is my friend.
  It is no less of a friend than you, and it has stood by my side even longer than you have."
 The man who had bared his chest for the stethoscope spoke unapologetically as he straightened out his clothes.
-"............Kinzo‐{c:86EF9C:san}.
+"............Kinzo‐san.
  ...Your body only appears to be well thanks to the effects of the medicine.
  However, if you continue to drink such strong spirits, the treatment will become meaningless.
  ...Trust my judgment.
@@ -143,7 +143,7 @@ Still, I\'ve never been on a plane this small.
 ...Aaah, just spare me.
 "Haahahaha, don\'t worry, Battler‐kun.
  It\'ll shake much less than that boat did."
-"Gyah?! ...I‐is that you, George‐{c:86EF9C:aniki}?!"
+"Gyah?! ...I‐is that you, George‐aniki?!"
 "Heheh, don\'t scare me like that... You just shaved three years off my life.
  Anyway, what\'s shaking got to do with anything?"
 "Ihihihi, you don\'t think I\'m actually scared of the plane shaking or maybe falling out of the sky or something, ri~ght?"
@@ -176,7 +176,7 @@ Anyway, my name, "Battler"...
 ...well, it\'s pretty damn weird, don\'t you think?
 I\'ve got to wonder what my parents were thinking when they gave me that name.
 {n}I\'ve never met anyone who could read it right the first time.
-I usually get called "{c:86EF9C:Sento‐kun}".
+I usually get called "Sento‐kun".
 {n}Too bad, swing and a miss.
 My name is written {p:0:右代宮 戦人}.
 {n}Can you read it?
@@ -248,7 +248,7 @@ Even so, George‐aniki\'s family is interesting and fun, and they seem to get a
 "Huh?
  He headed off to the bathroom a while ago.
  Is he {i:still} not back?
- Heh, maybe the poor geezer dropped dead... {c:86EF9C:Namunamunamu}."
+ Heh, maybe the poor geezer dropped dead... Namunamunamu."
 "That\'s no way to talk about your own father.
  Still, this isn\'t the first time he\'s taken so long in the bathroom."
 "Yeah, the guy\'s always been that way.

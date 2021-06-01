@@ -702,7 +702,7 @@ In other words, the thing that Father wants from me...and was so heartbroken to 
 ".............................."
 The {f:5:Beatrice} with her hair down looked at me dubiously several times, then finally spoke.
 ".........Why...do you have the same face as me......?"
-She used the word "{c:86EF9C:warawa}" to refer to herself, just like the true {f:5:Beatrice}.
+She used the word "warawa" to refer to herself, just like the true {f:5:Beatrice}.
 {n}......It looks like she really does have something that I lack.
 "W‐......well...
  I don\'t know why either."

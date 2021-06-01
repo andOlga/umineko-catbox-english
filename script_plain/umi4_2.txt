@@ -711,7 +711,7 @@ She pointed to each of the sweet buns she had eaten before, explaining to Sakuta
  Can I......?
  What about the money?’
 "Uu, no proble~m!
- Look, it\'s {c:86EF9C:{ruby:(5000 yen):Shotoku Taishi}}, uu!
+ Look, it\'s {ruby:(5000 yen):Shotoku Taishi}, uu!
  So I can buy you whatever you want too, Sakutaro.
  Let\'s eat together!
  Do you want a yogurt too?"

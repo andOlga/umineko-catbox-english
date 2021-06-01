@@ -171,7 +171,7 @@ Erika was so overcome with emotion that tears came to her eyes.
 "In the end, I\'d like to have Beato stuffed too.
  Then I\'ll have her displayed on high in the reception hall."
 "Lake Shirakaba?"
-"The {c:86EF9C:{y:0:Human}{n:0:human}‐hunting Count}."
+"The {y:0:Human{n:0:human}‐hunting Count}."
 "......You know,
  I read that back when I wasn\'t a witch.
  ...I wondered, how can humans who obtain eternal life become so cruel?

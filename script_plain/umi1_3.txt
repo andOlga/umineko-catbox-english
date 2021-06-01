@@ -182,7 +182,7 @@ Met once again by the magnificent rose garden, we continued onward as it came in
 It had apparently been built shortly after the war, so you could feel the dignity of almost a half‐century hanging about it.
 On the surface, the building was gorgeous, but being as old as it was, it was seemingly lacking in modern amenities like air conditioning.
 According to Jessica, midwinter was especially tough, what with all the drafts.
-...Well, it\'s not like they couldn\'t just take the {c:86ef9c:kotatsu} out.
+...Well, it\'s not like they couldn\'t just take the kotatsu out.
 As we entered the entrance hall, an aged servant greeted us.
 {n}Now him I remembered.
 As the most senior member of the staff, Genji‐san ({p:0:源次}) served as the head of the servants.
@@ -636,7 +636,7 @@ After his almost deranged outburst of the past few minutes settled down, Kinzo r
 "That Moses parted the sea was no miracle of God\'s—
 it was that utterly desperate risk, weighed upon the scales of oppression, of being cornered by soldiers on the Red Sea\'s shores, which gave birth to miraculous magic power!
  Even if the same thing occurs again, on the same scope, the sea will no doubt not part."
-"That is because Moses managed to spectacularly draw out the single miracle carved in the roulette of those in power, which has more pockets than {c:86EF9C:asougi (10⁵⁶) and nayuta (10⁶⁰)} multiplied together."
+"That is because Moses managed to spectacularly draw out the single miracle carved in the roulette of those in power, which has more pockets than asougi (10⁵⁶) and nayuta (10⁶⁰) multiplied together."
 "The power to triumph over astronomical odds!!
  Yes, magical power is, in other words, having the luck to grasp miracles!!
  To obtain great magical power, one must bear a risk that is hopelessly great!!
