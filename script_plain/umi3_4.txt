@@ -1,0 +1,871 @@
+"...I see...
+ So, not a witch, but a mistress by the name of {f:5:Beatrice} did exist on the island..."
+"......So there can be more than 18 people!
+ Which means I can defeat that line of reasoning which says that, if it was impossible for all 18 people, it must be a crime involving magic.
+ ......That\'s some big information."
+"Excuse me.
+ Battler‐sama, would you care for some black tea and cookies?"
+Beato\'s butler, who called himself Ronove, appeared out of nowhere in particular.
+Placed upon the silver tray that he held was a plate filled with delicious‐looking, steaming black tea and cookies.
+...I really don\'t like this guy\'s smile.
+{n}For some reason, it doesn\'t look like a smile used to warmly greet a guest.
+{n}It feels like he\'s making fun of me for some reason.
+...I don\'t know whether he really takes me for an idiot,
+ or whether it\'s just a joke or something, but it\'s really irritating me.
+"......I don\'t want any.
+ I\'m busy right now.
+ Leave me alone."
+"Oh, my.
+ That is a shame, when the cookies have turned out oh so very delicious.
+ Cooked so wonderfully it is a shame to waste them on a simple {y:0:Human}{n:0:human}, truly wonderful cookies."
+"I\'ll eat some when I feel like it.
+ Set it down somewhere over there and get out of here."
+"Will that be acceptable?
+ Then I shall do so.
+ You may eat them when they get cold and stale, and then regret as much as you like that you did not eat them when they were freshly baked."
+".........You really are annoying.
+ ...Well, you\'re a lot better than that Beato, who keeps doing that creepy cackle right next to my ear."
+"Oh, yes, yes, that is quite true.
+ There are times when Milady\'s laughter becomes quite undignified.
+ Every time I hear it, I think of my noble rank,
+ and struggle to comprehend why I must have such a person as my master.
+ Pu ku ku ku..."
+"......Man you\'re weird.
+ If you don\'t like it, then couldn\'t you just not work for her?"
+"To continue serving despite that is furniture\'s joy.
+ One could not serve as furniture without such an attitude."
+"......Let us set that aside.
+ How has the game been proceeding?
+ Just now, I believe I heard you say that you had found some good information, and were quite pleased by it.
+ Well now, I wonder what your shallow wit has thought up."
+As Ronove made fun of me and giggled,
+ he followed my earlier words to the letter and placed the black tea and cookies somewhere arbitrary nearby.
+"......I imagine it is because you have gained increased confidence in the existence of a 19th person?
+ Would you be gracious enough to allow me to hear your opinion?"
+"..................
+ ......Yeah, sure.
+ I\'m just going to say it again in front of Beato anyway.
+ No reason to hide it."
+"......Alright.
+ It looks like there\'s a hidden mansion somewhere on this island, and that Grandfather had his mistress living there.
+ In that case, the question that\'s been torturing me, about whether there are 18 or 19 people, can be easily resolved."
+"Although you deny witches,
+ you hold a double standard by refusing to seek a culprit among the 18, and have driven yourself into a dead‐end."
+"...The easiest way to deny the witch would be to doubt one of the 18.
+ ......It\'s not so easy for every one of the 18 to have an alibi.
+ You always find at least one person with a fragile alibi.
+ ......I could probably continue to deny the witch forever if I just used that person as a sacrifice."
+"However, I will steadfastly refuse to do that!!
+ Yeah, that\'s no good, that\'s no goddamn good at all!
+ Every one of those 18 people is either a parent, a relative or a cousin to me!
+ And those reliable servants, who are sometimes serious and sometimes funny.
+ I won\'t let myself use any one of them as a sacrifice!!"
+"In the past, my resolve wavered.
+ That\'s how Beato hit me where my heart was weak."
+"......Accepting and understanding your own weaknesses.
+ That is not something which can often be accomplished.
+ Battler‐sama, you are using this theory about a 19th person as a spear.
+ ...Or should I say, a shield?"
+"In any event, unlike how unprepared you were in the games up until now,
+ let us call the fact that you now have a compass bearing on how to fight...a dramatic leap forward.
+ With this, you need not doubt any of the 18 you love and respect,
+ and can easily suspect a 19th person, and pursue your theory that the culprit is a human."
+"That\'s it exactly.
+ Like in the first game, when Kanon‐kun was killed in the boiler room,
+ ...and a bunch of other places,
+ there are countless tricks I can use without hesitation if a 19th person existed."
+In the very first game, Kanon‐kun had been killed in the boiler room.
+One might think that he was attacked by Kumasawa‐san, who had gone down into the boiler room with him,
+ or maybe that someone who had appeared to be dead earlier was actually faking,
+ and had ambushed Kanon‐kun in the boiler room.
+ Either way, it was a move that forced me to suspect one of the 18.
+However, by simply proposing that a 19th person exists,
+ there\'s no longer any need to suspect one of the 18 for that murder in the boiler room.
+"In short!
+ "Impossible for any of the 18 = The culprit is a witch"...
+ is an equation that I can now deny."
+Using this argument, we can take, for example, the question which has been raised once again in this game,
+ "who gave Maria the letter?",
+ and come up with an easy explanation.
+ Even if all 18 people have alibis,
+ I can easily explain everything by saying that a 19th person visited her and gave her the letter.
+".........Hmm, hmm.
+ I think that is quite a good move.
+ How would I strike back?"
+"......Battler‐sama, despite your understanding, there are still plenty of weak points.
+ Perhaps the "18 people attack" will be an effective move.
+ As an attempt to judge how strong your defense is, it may be interesting to attack from that angle again."
+"Then how would you do it,
+ demon butler...?!"
+"......I believe it would be appropriate to attack this 19th piece that you have played.
+ Battler‐sama, have you ever met this 19th person?
+ May I ask you for some proof that this 19th person exists?"
+"How naive.
+ Of course, I knew you\'d probably try that move...!"
+"My, my.
+ Please respond to it."
+"Witches and demons and the like...
+ There\'s no move more appropriate for you than this one.
+ ......And that is—"
+"The "Devil\'s Proof"!"
+When we humans are accused of something, we always counterattack by saying to show some evidence.
+ Because that\'s a human move.
+But I\'m fighting with a witch.
+{n}I\'m taking part in a battle with someone who isn\'t human!
+And some moves exist which can only be used in a game against a witch.
+{n}There are cheap moves!
+And that\'s what this "Devil\'s Proof" is.
+{n}Therefore, evidence is unnecessary!
+Let\'s take the assumption that there is a hidden mansion on Rokkenjima separate from the Ushiromiya family mansion,
+ and that a woman named {f:5:Beatrice} is living there.
+In order to prove this, one must find this mansion and actually bring {f:5:Beatrice} out of it.
+That\'s called actual proof in the human world.
+However, if we follow the rules of the "Devil\'s Proof", you can\'t disprove that she exists, even if there\'s no evidence that she does.
+Because it\'s impossible to prove that something doesn\'t exist.
+......That\'s right, this "Devil\'s Proof", which tormented me so much before, I\'ve finally managed to use to my own advantage.
+Those guys were always trying to force me to accept the existence of the witch by using the "Devil\'s Proof".
+That was because, in response to Beato\'s professions that witches do exist,
+ I physically could not offer any proof that "witches don\'t exist".
+That is why I have been subjected to this nonsense that witches exist, and why I have been unable to counterattack.
+And that\'s why I\'ll flip over the chessboard right now!
+If I can\'t disprove that witches exist, then that means,
+ if I suggest that a 19th human exists, you can\'t disprove that either.
+In other words, the enigmatic mistress in question is craftily hiding herself, so it\'s perfectly natural that you can never find her no matter how hard you look.
+So you can\'t say that "The 19th person can\'t be found = The 19th person doesn\'t exist".
+Therefore, it is impossible to disprove a 19th person.
+{n}Beato used the "Devil\'s Proof" to make denying her existence impossible,
+ but this time it\'s become my weapon.
+If we can get away with this argument, then never mind a 19th person,
+ this island could be full of people we don\'t know about,
+ and even if there are ten or a hundred of them hiding, she still can\'t disprove that they exist.
+In the last game and the one before that, among the murder scenes that showed up, there were several that were extremely intricate and must have taken a lot of effort to set up.
+It\'s very difficult to imagine that a single culprit could have set all of those up.
+However, if not just a 19th person, but ten or a hundred people were hidden somewhere, that wouldn\'t be any problem at all.
+If they all split up the work, they could handle any job in a short period of time.
+Of course, doubts will naturally arise at whether a large group of people like that could sneak around the mansion without being noticed,
+ but those are all settled by the "Devil\'s Proof".
+Because not seeing or not noticing a hundred people inside the mansion does not disprove that they were there.
+Even though I\'m saying it myself, it\'s such a stupid argument that it makes me wanna throw up!
+ However, it\'s because it\'s such a dirty‐as‐hell move that makes it the perfect one to use against a witch.
+Well, we\'re only imagining here,
+ ...but the thought of about a hundred suspicious men wearing goat masks hiding in the shadows......
+ That goes beyond "funny", makes me think of cockroaches.
+If you see one, it means there\'s a hundred hiding in the shadows.
+"......Well, I do think this is a ridiculous argument that\'s horribly twisted.
+ If my opponent was human, I\'m sure they\'d yell at me like I was out of my mind."
+"......But my opponent is a witch.
+ And after all, that is the kind of competition we\'re having, isn\'t it?
+ I\'ll use any kind of reckless argument to explain it using humans, and deny the witch!!"
+"......Anyway, with this move, I\'ll never again have to doubt any of the 18 who are close to me.
+ I will never again repeat the defeat I suffered last time...!!"
+"......I see.
+ You have learned from your defeat last time.
+ That is good.
+ It is no surprise that by the third game you have become quite devious."
+".........You first strengthen your own defense.
+ That is truly a solid first step.
+ Quite a spectacular move, I think."
+"Well, even if we do assume that there is a 19th person,
+ there are still a few tricks left that I can\'t get past no matter how many humans I add, like the number of master keys.
+ ...Still, it isn\'t bad as a first step, for the time being."
+"This is your trump card, the important piece known as the 19th person.
+ ......You countered my move of asking for evidence by using the "Devil\'s Proof".
+ ......A good skirmish."
+"Although I have no excuse for making moves by myself when Milady is absent,
+ .........I find that I too have become slightly interested.
+ ...I wonder if you would permit me to make yet another move on Milady\'s behalf?"
+"......Go for it.
+ I don\'t care if you\'re a witch or a demon, I\'ll take you all on!"
+"The move that you made, the "Devil\'s Proof".
+ It is a specialty of us demons, but there are also various other moves available to us.
+ ......Do you know of a move called "Hempel\'s Raven"?"
+"Hempel\'s Raven...??
+ What are you talking about?"
+"...*cackle*cackle*.
+ Ah‐ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah‐ha{0}ha{0}ha{0}hah‐hah‐ha...!"
+Just then, ...aah, that laugh, which gets on my nerves every time I hear it, started echoing around.
+The room was filled with dazzling golden butterflies, and in the center of that whirlwind, the Golden Witch appeared.
+"Why, if it isn\'t Milady.
+ Good morning."
+"I thought you might be doing something interesting while I was away."
+"......‘Hempel\'s Raven’, was it?
+ What an amusing and nostalgic move.
+ To think the day would come when it would be introduced to Battler.
+ It\'s a classic move to use against the "Devil\'s Proof"."
+"......Ronove, I will make this move.
+ Do not get in the way of my fun."
+"So you\'ve finally shown up, you guffawing witch.
+ I see you still have that undignified laugh.
+ ......This guy was talking behind your back just now, telling me about how your laughing lacks class.
+ Right?"
+"I am offended.
+ Is that true?"
+"By no means.
+ I have only words of the highest heartfelt respect for Milady;
+ why would I speak such gossip?"
+"...I can\'t believe you can say that so brazenly.
+ Doesn\'t look like we\'ll be getting along well together..."
+"*cackle*cackle*cackle*.
+ Well, that is fine.
+ Let us return to the conversation.
+ "Hempel\'s Raven" is used to show proof using the contrapositive."
+"......Essentially, it is a move like this:
+ What must you do to prove that ravens are black?"
+"Huh?
+ What are you talking about??
+ Prove that ravens are black...
+ ...Wouldn\'t you just have to catch the ravens and check to see if they\'re black?"
+"That is right.
+ You must simply prove that "if it is a raven, it is black".
+ And do you see that, if you prove that "if a bird is not black, it is not a raven", you would reach the same argument?"
+"If you go throughout the world and examine all birds that are not ravens, and prove that none of them are black,
+ then as a result, you can claim that "therefore, birds that are black are ravens".
+ This is called an argument by the contrapositive.
+ ...Is that difficult for you?"
+"Yeah, no kidding.
+ ...I have no idea what you\'re saying."
+"Battler‐sama.
+ What about this example?
+ Let us say that you have two boxes, and one of them is the winner, with a cookie inside.
+ Of course, the other one is the loser, and is empty."
+For example, let us say that we have two boxes here,
+ one being the winner with a cookie inside, and the other being the loser, which is empty.
+Now, it holds that "if there is a cookie inside, it is the winner",
+ and at the same time, it also holds that "if it is not the winner, there is no cookie inside".
+When such a relationship exists, we call the latter the contrapositive...
+When "if A then B" is true, then at the same time, "if not B then not A" is also true.
+"...Well, that\'s obvious.
+ If the one you picked was the loser, then you would automatically know that the other one was the winner."
+"...In other words, if you choose the box at random, whether it\'s the winner or the loser,
+ you\'ll be able to figure out which box has the cookie in it after your first move."
+"That is correct.
+ If the cookie is in the box you open, then the "Devil\'s Proof" is satisfied.
+ You can prove directly that "this box is the winner = this box has a cookie in it"."
+"However, if the box that you open is empty, then the reverse, "Hempel\'s Raven", is satisfied.
+ Because then, it holds that "this box does not have a cookie in it = this box is not the winner"."
+"And that means, as long as we accept the premise that there are no more than two boxes,
+ the contrapositive shows that the other box is automatically the winner."
+"......Well, I think I\'m starting to see your reasoning.
+ Only poison can stop poison, and only twisted logic can stop twisted logic."
+"...Then what?
+ How does that overturn my claim that "no doubt there is a 19th human hidden on this island,
+ so even if all of the 18 people have alibis,
+ that does not amount to an acceptance of witches"......?"
+"Very well.
+ I will tell you my move.
+ First of all, you are stating that "if the culprit is not among the 18, then the culprit is a 19th person"."
+"*cackle*cackle*!
+ ...So if you use the contrapositive, it ends up like this.
+ In short, "if the culprit is not a 19th person, then the culprit is one of the 18"!"
+"Whaah?!
+ What the, what does that mean?!"
+"All I have done is turn your move on its head.
+ It shouldn\'t be that difficult to understand.
+ Ronove, explain.
+ It seems your cookie‐in‐a‐box analogy from before will be easy for Battler to understand."
+"Then forgive my presumption.
+ Allow me to explain using my earlier example once more."
+Allow me to repeat once more my earlier story,
+ about two treasure chests, one of which has a cookie in it.
+In this situation, one of the boxes represents "the 18 people", and the other box represents "the 19th person".
+So the cookie would represent the "culprit".
+Battler‐sama, you open the 18 box.
+{n}Because the cookie is not there,
+ you have proven from the opposite direction that "therefore, the cookie is in the 19 box".
+In that case, if we reverse things further, we can also say the following.
+Namely, if it was first shown that the 19 box was empty,
+ it would prove in just the same way that "the cookie is in the 18 box".
+Battler‐sama, this move you played in order to avoid having to doubt any of the 18,
+ has in fact been used against you to launch the "18 person attack"...!"
+"......Huh,
+ ......what did you say........."
+"*cackle*cackle*cackle*cackle*!
+ If I go first and prove that the inside of the 19 box is empty,
+ automatically,
+ you will be forced to accept that the cookie is in the 18 box.
+ All you have done is say this the other way around, you see?"
+"So, ......that move that I was so confident in, ...was actually a double‐edged sword?"
+"That\'s right.
+ Your move to explain everything with a 19th person carries the risk that, if it is thwarted,
+ you will be forced to accept that you can only explain things by using the 18."
+I see...
+ "Hempel\'s Raven".
+{n}......So this is a countering technique?!
+...Wait, if I really think about it, this countering technique is far more disadvantageous for me than for her.
+The problem is in thinking about it like a cookie.
+{n}If I imagine that just one of the treasure chests is a "losing" chest with a bomb in it, I can begin to understand it quite well.
+And if I think of it not as two treasure chests,
+ but as 18, one for each person, plus one more for the 19th person,
+ for a total of 19 boxes, it gets even easier to understand.
+First of all, one of the premises established by the human culprit theory was that the bomb would definitely be in one of those boxes.
+Because I hadn\'t wanted to place that bomb in any of the 18\'s boxes, I had used the "Devil\'s Proof",
+ and created the 19th box so that I could throw the bomb in there.
+ ......That much was alright.
+But Beato had struck back like this:
+If, then, the 19th box was empty inside,
+ that would automatically mean that the bomb was set in one of the other 18 boxes.
+If I could examine the contents of each of the 18\'s boxes,
+ and show that the bomb was not in any one of those boxes,
+ I would be able to safely show that the 18 people were innocent.
+If that was possible, I would be feeling confident!
+However, in reality, that\'s as close as you can get to impossible.
+The police wouldn\'t come here in this typhoon.
+{n}There would be no scientific investigations, no autopsies, no nothing.
+{n}In short, I can\'t show anything decisively!
+It\'s impossible for me to find any proof other than simply gulping down whatever alibis each of the 18 give.
+In that case, I have to confirm their innocence both personally and perfectly.
+Like staying with someone the whole time, never letting them out of my sight for a second.
+If I do that, I can probably be sure of that person\'s innocence,
+ and that the bomb is not in that box.
+...However, in reality, something like that is impossible!
+{n}In other words, I have to expend an incredible effort just to check the contents of one box.
+And there are 18 of them!
+ In other words, unless I bind all 18 of them in chains and watch over them,
+ it\'s impossible to prove that all of them have empty boxes.
+However, Beato only has to open one box, the 19th box,
+ and show that it is empty, to prove that the bomb is in one of the other 18 boxes.
+ (Furthermore, there\'s no need for her to show {i:which} of the 18 boxes has the bomb!)
+I have 18 times more work to do to explain my pet theory than Beato does for hers......
+"Just as you know from the "Devil\'s Proof",
+ there are many cases in this world where refuting something would take a vast amount of effort that is impossible in practice."
+"However, "Hempel\'s Raven" turns that problem around, and makes it possible to prove things easily!"
+"By using "Hempel\'s Raven", various reckless arguments become possible to prove."
+"......For example, let us say that I make the proposition "All humans except me are foolish".
+ Normally, in order to prove this, I would have to examine all of humanity except myself and show that they are all foolish."
+"...However, in reality, it would be impossible to investigate billions of people.
+ It is exactly the same kind of effort you would need to open all 18 boxes."
+"*cackle*cackle*!
+ However, by using "Hempel\'s Raven", the contrapositive of that proposition would change it as follows."
+"Essentially, take this "All humans except me are foolish", and to use your style of phrase,
+ flip over the chessboard, and you merely need prove that "not foolish = me".
+ ......And what do you think that means?"
+"*cackle*cackle*!
+ As soon as I know the fact that "I am wise",
+ I finish proving in an instant that every one of the billions of people in the human race is foolish.
+ In less than a second, I can finish proving that the entire human race is more foolish than me!!"
+"It\'s the strongest and fastest QED in the world.
+ This...
+is "Hempel\'s Raven"!"
+"Wha‐.........what a ridiculous argument.........!!!"
+"It is a very, very convenient move.
+ Not only demons, but gods also use it.
+ When you propose "blessed = God\'s servant",
+ the contrapositive is "if a human is not a servant of God, then he must not be blessed"."
+"So in order for servants of God to prove that they are granted fortune by their divine protection,
+ they only have to prove that those who don\'t receive that divine protection suffer misfortune."
+".........Therefore,
+ by bringing misfortune down upon those people who don\'t believe in their own god, they prove their own blessedness."
+"It takes an enormous cost to give humans happiness.
+ ...However, the necessary cost to bring humans misfortune is much cheaper."
+"*cackle*cackle*cackle*cackle*cackle*.
+ So by using "Hempel\'s Raven", gods can actually give believers the joy of divine protection at the lowest cost."
+"Y‐......you demon.
+ It\'s a demon\'s argument...
+ ...That\'s messed up...!!!"
+"It seems that we\'ve gone off‐topic.
+ Let us return to it."
+"I have finished describing the move for my counterattack.
+ ......The counterattack to your claim that "a 19th person is the culprit; therefore, the 18 are innocent and the witch doesn\'t exist" is:
+ "In that case, if I can prove that the culprit is not some 19th person,
+ do we agree that the culprit must either be one of the 18, or a witch?".
+ I await your answer."
+For a while, I just stood there, shocked, completely forgetting to close my mouth...
+Just when I\'d thought that I\'d got my own back on them by using their favorite move against them,
+ the counterattack to that had been this reckless argument that I could not even have begun to imagine...!
+Was it really...impossible...?!
+To continue denying the witch on an island with no more than 18 people,
+ and yet still believe in the innocence of those 18 people...
+ .........Was that just a delusion?!
+ Was I just trying to escape reality?!
+Not yet...
+ ......Don\'t give up this struggle yet.
+Who cares about "Whoever\'s Raven"?
+{n}They\'re just trying to speak in riddles by bringing up some weird bits of trivia...
+I had used the "Devil\'s Proof".
+{n}Don\'t feel doubt in something once you\'ve used it.
+{n}Believe in the spear you\'ve lunged forward with.
+Apply even more force......and gouge it in......!
+"......The game is still in the opening.
+ Do you already intend to spend this long thinking?"
+"........................
+ Ah,
+ ......wait a sec,
+ I want to be sure."
+"While yes, I did use the phrasing of a "19th person" to make it easy to understand,
+ if I can use the "Devil\'s Proof" to raise the number of people above 18,
+ then what I mean is an unspecified large number of extra people—you don\'t know if it\'s ten or a hundred."
+"{i:Always one more than you assume}.
+ ...Understand?"
+She had returned my twisted logic with something even more twisted.
+{n}So the only thing that could counter that would be even crazier twisted logic...!
+"Hmm, I see.
+ .........Even if I somehow prove an alibi for the 19th person,
+ as soon as I do, you will think up a 20th person, and claim that they are the culprit.
+ By repeating this infinitely, you would make it so I kept searching for their alibis for all eternity."
+"......I see, I see, *cackle*cackle*!
+ Just like a demon king summoning a plague of locusts.
+ I wouldn\'t expect anything less from Kinzo\'s grandchild.
+ It looks like you have been gifted with a talent in summoning."
+"......In short!
+ It is impossible to continually prove an alibi for the "X" existing outside of the first 18!
+ ......How do you like that, Beato...?!
+ Now that I know we\'re having a battle with twisted logic, I won\'t lose!"
+"*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!!
+ How foolish...
+ Who do you think I am?
+ I am the Endless Witch, the Infinite Witch!
+ For you to challenge me at infinity is absurd.
+ Having control over infinity means also that I am able to kill infinity."
+"......When your 19th person folds, you will call a 20th,
+ and when your 20th person folds, you will call a 21st,
+ and when your 21st person folds and your 22nd person folds,
+ you will call a 23rd, a 34th, a 64358223579673204th,
+ you think you can trifle with me for all eternity?!"
+"I laugh at "infinite regress",
+ the {i:infinite} doesn\'t affect me!!"
+"Hoh, well then, how will you kill my "infinity"? Just try and show me!!"
+"
+{p:1:I have the power to speak the truth in red}!!!"
+".....................!!
+ .........Here it comes............"
+"When I speak in red, it contains absolutely no illusions.
+ If I say once in red that there are no more than 100 people on this island,
+ you will no longer be permitted to create a 101st person."
+"*cackle*cackle*!
+ Come now, Battlerrr.
+ What truth shall I tell in red this time?
+ Where shall I strike for the kill and force you into hopelessness?
+ *cackle*cackle*cackle*!
+ Come, show me your usual frightened face......"
+".............................."
+"..................What?"
+"......Ihihihihi."
+"...Why...are you laughing...?"
+I wonder what kind of creepy look I had on my face as I laughed right then.
+{n}That red sure is scary.
+ ...Every time it jumps out, I\'m driven into the depths of hopelessness.
+But......I had already realized it.
+{n}...There was no need to be unnecessarily afraid of the red.
+".........You\'ve brought out your secret weapon again.
+ So...?
+ What and how will the great {f:5:Beatrice}‐sama speak in red this time?"
+"......Hoh.
+ What do you mean by this?
+ Suddenly looking so relaxed..."
+"Sorry, but I\'ve been waiting for you to take out that blood‐red treasured sword.
+ ......Let\'s see, what will you proclaim in red this time?"
+"You aren\'t going to say "the culprit was one of the 18", are you?
+ Let me warn you, that would be self‐destruction, remember?
+ That would be the same as throwing away your own witch theory yourself.
+ A complete resignation."
+That\'s right.
+ The red isn\'t always necessarily to Beato\'s advantage.
+ On the contrary, if she used it the wrong way, it\'s dangerous enough that she could bring about her own death.
+ If she used it carelessly and said something which ended up denying herself, that would be exactly the same thing as self‐destructing.
+"Of course,
+ it would also be sad and difficult for me to accept if you told me in red that one of the 18 was the culprit.
+ ......No matter who the culprit actually was, it would surely bring me some tough emotions..."
+"But before that, it would mean your defeat!
+ Saying in red that the culprit is a human is equivalent to your proclamation of resignation!!
+ If you want to strike me a blow so badly you\'re prepared to die at the same time, I think that\'s a pretty interesting move.
+ However, this battle will end in my victory!!"
+{f:5:Beatrice}\'s red was truly her secret weapon, her treasured blade.
+ The things she spoke in red would become solidified as the truth, and no amount of evidence or counterarguments could change them.
+They had cut me down to size many times now, rending in two any supports my heart had to lean on.
+However, if she used it carelessly, then I could also find a little information about the truth.
+...In the last game, especially during the chapel\'s locked room trick, I had taken advantage of that,
+ and had once closed her in almost completely.
+But she was also pretty sly.
+ She had learned from experience, and since then, had started using discretion in the timing of the red...
+This feeling of tension was almost literally like a battle with real swords.
+...This was a battle of high intelligence.
+{n}......No, not of intelligence.
+{n}It really was twisted logic.
+This was the world\'s craziest and worst battle of twisted logic...!!
+"So, now it\'s your move.
+ ......That\'s right.
+ To use your "Hempel\'s Raven",
+ first, you\'ll have to confirm in red how many humans there are other than the 18."
+"And after that, if you proclaim in red that none of the people in that group are the culprit,
+ ......that\'s right, that might be a fatal wound to me."
+".........I\'m surprised that you no longer have even an atom of fear for that red which you feared so much...
+ You\'re quite sturdy."
+"Unsheathe it.
+ Your treasured blade.
+ ......A single perfect swing, and you might be able to break me this time, who knows...?"
+"......*cackle*cackle*cackle*.
+ ...Interesting.
+ I wouldn\'t have it any other way..."
+Agitate her.
+ Provoke her.
+{n}Drive her into a corner to make her speak in red...
+Of course her red has always cut right through my only threads of hope.
+ But......don\'t be afraid of that.
+On this island overcome with falsehoods and illusions, the only thing I can trust...
+is the information that she speaks in red.
+It is my only way across the chasm of Hell.
+ Just a single tightrope.
+Her merciless blood‐red blade is the only way I can survive.
+...This isn\'t just walking on a tightrope, it\'s literally like walking on the edge of a blade...
+Of course I\'m afraid.
+ In terms of her contrapositive, my victory condition—the denial of the witch—meant that the culprit was a human.
+But I didn\'t want to search for the culprit amid the 18.
+...Therefore, I held on to a weak point, since I had to deny the witch and the 18 at the same time.
+ Since I had been unable to understand that last time, that was where she had hit me, leaving me tattered and defeated.
+......But that\'s alright.
+{n}Let her hit me.
+ Let her attack.
+ No problem...
+Someone said it once in an old sword‐fighting movie.
+{n}That "a good fortress has one, and only one, intentionally weak point".
+The enemy would gather there.
+ They would be lured there.
+{n}And that would be where the actual battle took place.
+...As long as I understand my weak points,
+ and as long as she wants to attack those weak points,
+ ......it\'s as if I\'ve induced her to attack there...
+Carefully judge the distance from your enemy, ...and retreat step by step.
+ Make them draw their sword first.
+The more she recklessly flourishes that red, the more chances I\'ll have to strike back.
+Don\'t be afraid of the red.
+{n}Keep the pressure on, so that she is forced to refute with the red......!
+No matter how oppressively she speaks in red,
+ ......yes, that red itself is the same as fresh blood spurting from her wounds.
+"Come on.
+ ...What\'s wrong?
+ ......First of all, why don\'t you tell me in red how many people are on this island total?
+ If you don\'t, your raven can\'t cut me up......!"
+".....................Hmph.
+ ...How surprising that you can be this desperate and yet this difficult.
+ ...One cannot make light of someone putting their life on the line, no matter what the era."
+"......It\'s no surprise you\'re Kinzo\'s grandchild.
+ The more cornered you are,
+ ............the bolder you become!"
+"...Ihihihi..."
+Ronove cleared his throat.
+"You appear to be at a standstill.
+ That black tea I worked so hard to make is getting cold,
+ Milady."
+".........kh."
+Ronove, who was supposed to be her ally, roguishly rushed her next move.
+Beato smiled back, probably intending to demonstrate that she was still relaxed, ......but she couldn\'t hide the sweat building up on her forehead.
+By now she had completely lost that relaxedness which had allowed her to turn her nose up at her worthless opponent.
+Of course, she probably wasn\'t really cornered by something like this.
+ ...She was just...being cautious.
+Until now, I had been inexperienced.
+{n}I didn\'t have a good grasp on how to fight, and I was underpowered as an opponent.
+However, now that we had reached the third game, she realized that I was starting to become skilled,
+ and she had grown more cautious, thinking every move over carefully......
+Sure, that\'s just fine, {f:5:Beatrice}.
+{n}And sorry to have kept you waiting.
+{n}Are you happy now...?
+"......Now things are starting to get interesting, right......?
+ Hihihihi!"
+"*cackle*cackle*cackle*!
+ ...Battleeeeerrrrr......"
+"This isn\'t going anywhere...
+ Then, should I just dive right in and go with the usual?"
+"......Hoh.
+ The usual, you say.
+ ...Then by all means.
+ If I don\'t hear that, I guess I just won\'t get the sense that we\'ve started..."
+The first move was mine......
+"Here I come, Beato."
+"Repetition requested.
+ ......‘There are only 18 people on this island’."
+"....................."
+"...If I hear you say this in red, I will have no choice but to doubt one of the 18.
+ ......Since it could no longer be the work of a 19th person, all doors will be closed to me."
+".........But I believe that the culprit is definitely not one of the 18!
+ There\'s no way that any of those 18 could commit such brutal murders...!!"
+"....................."
+"I\'ll say it again.
+ Repetition requested!
+ "There are only 18 people on this island"."
+"..............................
+ .........I decline.
+ I won\'t say why."
+Whew...!
+ I had avoided what would have been the worst red for me.
+If she had repeated that,
+ I would have been faced with those two worst choices of accepting the witch or suspecting one of the 18,
+ like last time all over again...
+But Beato had not proclaimed my ultimate and greatest weakness in red.
+She had declined to repeat it—even though there was no reason why she shouldn\'t have struck—even though it was a weakness she should have been drooling at.
+She hadn\'t sliced me up with red by using that move, which should have been as good as forking a rook and the king...!
+......This was a big sign of my advantage.
+That\'s right.
+ The culprit isn\'t one of the 18 people.
+{n}I won\'t doubt anyone...!
+And since the culprit isn\'t a witch either,
+ .........it means that a 19th person exists on this island.
+And that\'s you.
+A person who, as Grandfather\'s mistress of thirty years,
+ has been living secretly in a hidden mansion in the forest for a long, long time.
+The {i:human} {f:5:Beatrice}.........!!
+"That\'s right.
+ You aren\'t a witch or anything like it.
+ ......You\'re just a human...who\'s been living on this island in hiding for several decades...!"
+".........*cackle*cackle*.
+ *cackle*cackle*cackle*...
+ ...Did you just call me, the Endless Witch who has lived for over one thousand years, a mere human?
+ ......*cackle*cackle*cackle*cackle*cackle*cackle*!"
+For a while, {f:5:Beatrice} continued to laugh unpleasantly, gloating or maybe spiteful.
+"...Are you ready? I\'ll keep going.
+ ...Again, repetition requested."
+"‘There are at least 19 people on this island’!"
+".............................."
+{f:5:Beatrice} fell silent once again.
+The feeling that confirming the number of humans on this island...
+might possibly stand to give her some large disadvantage,
+ was probably making her extremely cautious.
+The red had already become a foothold for my counterattack.
+ With that in mind, the red had become a risk for the witch.
+But if she couldn\'t repeat this, her "Hempel\'s Raven" wouldn\'t work.
+In order to break my "Devil\'s Proof",
+ first, the existence of and number of people outside the 18...
+needed to be confirmed in red.
+That\'s right.
+ She couldn\'t break the existence of a 19th person unless she used red.
+I had {i:closed Beato in}, giving her no choice but to speak in red...!
+There really was...
+.........a way to fight,
+ ......in this witch\'s game!
+"It\'s alright to decline.
+ ...If you can\'t say it in red, then that will mean the total number of people on this island will be 18+X."
+"......That X is a pretty huge piece to allow me to have on the first move, isn\'t it?
+ After all, from then on, all of the tricks with the basis "it was impossible for any of the 18"...
+will become explainable with a human X outside of the 18 people.
+ ......This is a huge piece that can break open any locked room hinging on everyone having an alibi...!"
+It was just like...
+a bishop in chess, which can cut a thin line through enemy forces as long as there\'s a slight gap.
+ It only exerts an effect over squares of the same color, but it has a great ability to control the board.
+"..............................
+ ..................kh."
+It looked like Beato also well understood her current plight.
+She couldn\'t just let such an important piece go, especially this close to the beginning of the game...
+If she pulled out her red treasured sword, it wouldn\'t be that difficult to save that piece.
+......But Beato was completely aware that I was expecting it.
+ She was afraid that a careless red truth might end up strangling her own neck...!
+Because, ...in the first place, a witch was something which should be {i:denied} in red.
+Believe.
+ Don\'t doubt!
+ Witches don\'t exist!
+{n}Something like that can\'t exist in this world.
+They can only exist in the cracks in reality.
+...They are a fragile existence, curled up in these cracks, frantically trying to protect themselves from the brutal winds of truth,
+ and they can only barely exist like a mirage by surviving on falsehoods and fantasy.
+In other words, the red, which only witches can use, is the very reality by which they risk denying themselves.
+......The more they brandish their red words...
+the more they begin to lose, bit by bit, that crack in reality inside which they can endure.
+That is why they don\'t want, through the red,
+ ......to carelessly lose that crack in reality which is based on fuzzy information, or in other words, fantasy.
+Because they understand that they would be gradually cornering themselves.
+Of course, she would never admit it.
+Because, if she did,
+ it would be the same as admitting that she is something that can\'t exist in this world, like an imaginary number.
+Don\'t be afraid.
+ Stay strong...!
+{n}She knows this deep down, and better than anyone.
+That her red treasured sword can\'t easily be used without considerable resolve...!
+"...What\'s wrong.
+ I\'ll say it again.
+ ......Repetition requested!"
+"‘There are at least 19 people on this island’!"
+"........................
+ ......Hmh.
+ ...I decline."
+At the end of a long, long time spent deliberating,
+ ......letting a single deep breath escape, she quietly proclaimed her refusal.
+......I had thought that she\'d use it.
+But Beato refused to speak in red, even though it would cost her victory in the opening part of the game.
+"You declined, yes......?
+ Which means that, from now on,
+ I can create as many fictional character Xs outside of the 18 as I want...?"
+"Do as you wish.
+ ...I have declined your repetition.
+ Isn\'t that enough for now?
+ ......The reason I declined was...
+......
+ ...No, I will not reveal that for now.
+ You will know soon in any case."
+"...Ihihi.
+ Still acting tough, I see..."
+"......Red that I deliberately don\'t use is in itself a fitting use of red.
+ You called it my red treasured sword.
+ A pleasant analogy.
+ I will use it too.
+ ......A treasured sword is at its best when it is sheathed.
+ In fact, there are times it can instill even more fear because it is sheathed."
+"That\'s right.
+ ...As I fight, I always have to keep in mind when you might turn everything over with those red words.
+ It\'s some pretty serious pressure."
+"......And there are times when having a repetition declined makes things harder for me.
+ ...Those times, I can\'t tell whether you can\'t repeat because my guess was right,
+ or whether you\'re just misleading me and letting me think whatever I want."
+"...In that sense, yes, I see.
+ A sheathed treasured sword."
+"............What does it matter?
+ If I\'m going to push you off a cliff anyway, I might as well let you climb a little higher first.
+ ...We have still barely begun.
+ Much is left to come..."
+"I\'ll resign from this challenge.
+ ...Go and get drunk on your faint victory for now.
+ ......Only for now."
+That bitter comment did, in fact, appear to have marked the end of the game\'s opening battle.
+ Even so, I couldn\'t relax my guard at all.
+...I was unable to relax my feeling of tension until I was greeted by the sound of Ronove\'s applause...
+"......Spectacular, Battler‐sama.
+ I suppose we could say that this game has started with at least the opening unfolding to your advantage?"
+"No idea...
+ I still don\'t know whether this piece was something I tore from her with my own hands,
+ or whether she guided me into taking it."
+"......After all, knowing you...
+you probably know that I\'m being led into a trap, and that clapping is just a barefaced lie, right...?"
+"How could you think that?
+ I am innocently celebrating your ability that has enabled you to take one shot at Milady, though granted it is only the opening.
+ ...After all, Milady is a person who is quick to become arrogant.
+ I believe that a little stimulation such as that makes for a good medicine every once in a while."
+"...This butler of yours sure has a vicious tongue..."
+"Isn\'t that so?
+ Sometimes he enrages even me."
+"My, my, how incredibly rude of me."
+"Well then, Milady, Battler‐sama.
+ Would you care for some more black tea?
+ The game has still barely begun.
+ Please leave any tea or pastries that might adorn this game to me.
+ Please, do not hesitate to advance further in the game."
+"I will.
+ Let\'s move forward.
+ Now is when it really starts."
+"............Hmph.
+ Very well.
+ Let us advance the clock.
+ Ronove, black tea, please."
+"Certainly.
+ What about a cookie?"
+"No need.
+ Give it to Beelzebub to keep her happy.
+ ............Remain silent for now."
+While listening to the sound of the demon butler pouring tea, the witch closed her eyes slightly and fell into silence.
+......For some time, she was deeply lost in thought, but eventually a roguish glint came into her eyes.
+"Very well.
+ ............Why don\'t I inform you now why I declined to speak in red for the first move."
+"......What...?
+ Bring it on.
+ Show me what you\'ve got."
+"*cackle*cackle*...
+ It really is a big piece that you\'d hate to miss."
+"......It may be hasty, but allow me to move.
+ I won\'t use red, but from here on, Rosa will explain on my behalf.
+ Listen."
+"Of course, I agree as well.
+ You too, right, Rosa?
+ ...............Rosa?"
+"Huh, ah, sorry...
+ M‐me too.
+ I agree."
+".........What\'s wrong, Rosa‐san.
+ ...You\'ve been really quiet for a while now.
+ Are you feelin\' sick...?"
+From the beginning, Rosa had never been one to willingly cut in on the siblings\' fights.
+...But even so, she seemed unmotivated,
+ and had said almost nothing at all during this night\'s conference.
+The whole time, she had been hanging her head, and appeared to be thinking of something else...
+"You\'ve been in a daze for a while now.
+ Do you think you can protect the inheritance like that?
+ You are also the mother of your child, so get a stronger hold on yourself."
+"I, I\'m sorry......"
+"I imagine you woke up quite early this morning?
+ If you feel sick, you shouldn\'t overdo it."
+"......The beds have been prepared in the guest rooms.
+ How about taking a rest?
+ I will guide you."
+"No, ...I\'m fine.
+ Thank you."
+"...What is it?
+ Is there something you\'re worrying about?"
+".........No, not really........."
+"Are you sure...?
+ It feels like your mind has been elsewhere this whole time.
+ ...I wonder if that has anything to do with what we\'ve been talking about...?"
+At those words, everyone stared at Rosa together.
+As if in response, Rosa\'s shoulders quivered.
+Apparently Kyrie\'s guess hadn\'t been wrong.
+{n}...Nor did Rosa deny it...
+"..................No, umm...
+ ................................."
+She swallowed whatever it was she had been about to say, and went silent again.
+By now, even the other siblings were also beginning to realize that something about her demeanor was different from usual...
+"What is it?
+ ...You\'ve been weird for a while.
+ Do you have something on your mind...?"
+"All of us\'ve just sworn to remain united, haven\'t we?
+ Don\'t be all unfriendly now, worryin\' by yourself.
+ Let\'s talk it over."
+"......Rosa.
+ Tell us."
+Pressed by the men one after the other, Rosa made up her mind, and nervously began to open up...
+It was almost...
+as though she was trying to confess to some modest prank which had inadvertently brought about a serious situation...
+such was the atmosphere in the room.
+"No, umm......
+ ......Th‐this mistress of Grandfather\'s, this {f:5:Beatrice},
+ ......is she really, um,
+ .........still alive, I was wondering..."
+"Huh?
+ Obviously she\'s alive.
+ She\'s sending letters to us, what more do you want?"
+"Whether she\'s healthy or not is a different story though.
+ The lovely woman in that portrait must be getting up there in age by now."
+"I\'d think she\'s healthy.
+ People who are crafty when it comes to money are healthy no matter how old they are!
+ Evil plans might even be the best rejuvenating agent.
+ Wahahaha."
+"......She can\'t be...
+......alive."
+"Huh?
+ ......What did you just say?"
+"{f:5:Beatrice} is...
+...dead...
+ .........I,
+ ...I killed her...!"
+"Wh‐......what did you say......?!"
+"...Wh‐...what do you mean, Rosa...?!"
+"B‐but, it\'s not like I was the one who kill—
+ ......But, but I was the one that brought her to a place like that!
+ ...I really did kill her...
+ I tried to make myself believe it was a dream!!"
+"......But......it really wasn\'t after all!
+ Which means this is......a letter from {f:5:Beatrice}\'s ghost!!
+ Uwaaaaaaaaaaaaaaa!!"
+It was so sudden that everyone was lost for words.
+ Rosa kept on talking, unable to stop, holding her head as her hair flew all about...
+"Please, calm yourself...!
+ Rosa‐san...!"
+"I, I have absolutely no clue what\'s goin\' on...!
+ Already dead?
+ What do you mean...?!"
+"......I think it means two things.
+ First, ...its literal meaning.
+ ...And second, it substantiates that our earlier guess was correct."
+"Which means......
+ .........Rosa, ......you have met with {f:5:Beatrice}?"
+"I, I\'ve never heard Rosa speak about that once.
+ ...Rosa, when was it?
+ When could you possibly have met {f:5:Beatrice}?!"
+"Long ago!
+ Long, long, long ago!!
+ We had just moved over to the island and I was young!!
+ It wasn\'t my fault, it\'s not like {i:I} killed her...!!
+ Uuuuuuuuughhhuuu!!"
+"...Calm down!
+ Nobody\'s blaming you for anything, alright?
+ First, drink some water.
+ Okay?
+ Natsuhi‐san, the pitcher, please."
+"Y‐yes.
+ .........Here you go, Rosa‐san.
+ Please, calm yourself......"
+".........................................."
+Until Rosa was able to regain her calm amidst her ragged breathing, ......no one was able to speak a word...

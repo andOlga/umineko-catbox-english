@@ -1,0 +1,436 @@
+"Where are you, {f:5:Beatrice}!!
+ Show yourself!!
+ {f:5:Beatriceee}!!"
+Rosa finally arrived at the chapel.
+ She pointed her gun around her, screaming the witch\'s name, but there was no way there would be an answer.
+After grimacing slightly, she noisily approached the table where her siblings\' corpses were still exposed, and stretched out her arm towards the gold ingots.
+They were very heavy, but Rosa paid that no regard.
+{n}She wrapped one of them up in a blanket, and slung it over her shoulder.
+"At least...just this one......
+ Just this should be worth more than ten million..."
+Rosa did not part with her gun either, carrying the gold in addition to it.
+{n}...Her shoulders were screaming, but Rosa didn\'t care.
+"......Kihihihihihihihihihihihihihihihihi.
+ It will happen very soon.
+ ......Very soon, the door to the Golden Land...will open."
+"Stop laughing with that creepy voice!!
+ Where is {f:5:Beatrice}?!
+ Yes, I know it, she\'s around here somewhere, isn\'t she?!
+ You know, right?!
+ Where?!"
+"Kihihihihihihihihihihihi.
+ I dooon\'t knowww.
+ Even if you don\'t search for her, you can meet her in the Golden Land.
+ ...Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi,
+ ouch."
+"Stop that laugh!!
+ ......Aaah, it almost makes {i:me} want to laugh!!
+ That\'s right, that was definitely a witch, definitely a witch!!
+ I didn\'t understand, I thought it was a human calling herself a witch, I was wrong!!!"
+"...It really was a witch!!
+ I won\'t be fooled by a thing like that!!
+ You\'re there, aren\'t you?!
+ Come out, show yourself!!
+ {f:5:Beatriceeee{-}e{-}e{-}e{-}e{-}e{-}eeeee}!!!"
+"I told you, she\'ll appear very soon.
+ The door to the Golden Land will be opened.
+ ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi..."
+"............Of course.
+ That\'s what I should have done!
+ I don\'t care, I shall throw away the rook!
+ You, woman, are the king, who can\'t even be reached without the resolve to lose everything one has.
+ I\'ll corner you, {f:5:Beatriceeee}.
+ Hihahahahahahahahahaha!"
+"At least call me a queen.
+ Hoh, what a brilliant move.
+ Tenacity is in your, ...no, in the Ushiromiyas\' blood."
+"......How pleasant!
+ Truly an elegant night.
+ Ku‐hah‐hah‐hah‐hah‐hah‐hah‐ha...!!"
+".........My lord; {f:5:Beatrice}‐sama.
+ It will soon be time for the banquet."
+"Already?
+ ......That\'s fast.
+ Every night I pass with you goes by fast;
+ the moon falls like an apple, and the sun rises like a small fish leaping out of the river."
+"Shall we go, it is time.
+ ......Stand, Battler.
+ It is the beginning of the banquet to celebrate my revival."
+"I\'ll introduce you as my new furniture, ...no, as my toy.
+ To the dignitaries among witches."
+The witch was relaxing elegantly, her feet thrown out from the sofa and sitting on top of a footrest.
+...However, the footrest wasn\'t a part of the sofa, ......it was a {y:0:Human}{n:0:human}.
+ Which was down on all fours......
+"......{f:5:Beatrice}‐sama, your silk dress."
+"You are the guest of honor, but I am the host.
+ I will go out first.
+ It would have been nice if Shannon were here to help dress you, but, unfortunately, it seems that she no longer remains."
+"......She\'s never around when I want to use her.
+ Completely useless.
+ .........However, you did well to remain here.
+ ...I\'m happy, my friend."
+"......I am grateful for your words."
+"Good.
+ Wait downstairs, you two.
+ Genji, good work, set the dress down over there."
+"......Certainly.
+ .........Well then, my lord."
+"We will go first.
+ ...{f:5:Beatrice}, I will see you later."
+"Indeed."
+Kinzo and Genji left the study.
+{n}After that, only the witch and the dress and the furniture remained.
+".........Do you know why I am not embarrassed to show myself to you naked...?"
+"..........................."
+"It\'s because you are furniture.
+ Furrrrniture.
+ Understand?
+ Furniture, just furrrrniture!"
+"Who would feel shame at exposing their body to furniture?
+ So there is no reason for me to feel shame because of you.
+ ...*cackle*cackle*cackle*cackle*cackle*!"
+The witch stood up, and removed her jacket just at the shoulders.
+{n}......The jacket slumped down at the back.
+When the furniture respectfully approached to pick up her clothing, the witch gave it a small kick and it fell over.
+...The furniture was afraid of what misconduct it had shown...
+"Do you, as furniture, plan to force me to unbutton myself?"
+"......Stand.
+ And undo the buttons.
+ ...One by one, carefully.
+ Quickly.
+ Beautifully.
+ With no mistakes.
+ The guests are being kept waiting, change my clothes quickly."
+"..................Yes..."
+"*cackle*cackle*cackle*cackle*cackle*, kakakaka, hah‐hah‐hah‐hah‐hah‐hah‐ha!!
+ Undo them carefully.
+ Those buttons are each worth more than one of your eyeballs.
+ ...If you accidentally tear one off, I\'ll sew on an eyeball of yours in its place...
+ *cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!!"
+The entrance hall was bustling with a large number of figures.
+{n}And it was sparkling gold with the gold butterflies flying around.
+The gentlemen in suits and tuxedos and the ladies in dresses looked like they were having a great number of friendly chats.
+ At a glance, it might have looked like a fabulous medieval ball.
+But they all had one thing in common, and that thing was exceedingly bizarre.
+......Because all of them...had goat heads.
+It was impossible to tell whether it was a goat mask masquerade,
+ .........or whether they really had goat heads.
+...The latter was a ridiculous notion, but in this bizarre world, there was serious doubt about which was true...
+Kinzo was amongst those goat nobles, greeting them.
+Every one of them seemed to be an honored guest, and Kinzo greeted them more respectfully than could ever have been imagined from his normal demeanor.
+At that time, Genji\'s voice rang out through the hall.
+{n}It was a voice calling for silence.
+{n}That voice stopped the voices of idle chatter, and everyone turned to face Genji.
+".........Tonight marks the entrance of our Golden Witch, who has achieved her revival,
+ the Lady {f:5:Beatrice}.
+ I ask you all to join me in welcoming her with your applause."
+When Genji began to applaud, it quickly spread through the guests, and became thunderous applause.
+And.........the Golden Witch appeared at the top of the large staircase...
+She gracefully waved her hand as she slowly descended the staircase...with her preferred furniture in tow...
+The goat nobles offered unanimous words of celebration in some long‐forgotten language.
+And those with whom she was closely acquainted embraced her, filled with joy at their reunion.
+As the witch offered greetings of reunion, ...the witch\'s furniture followed behind her the whole time.
+.........There was a chain around its neck.
+{n}This was gripped in the witch\'s hand, like it was a trained dog.
+The chain wasn\'t there to restrain it.
+{n}...The only purpose of the restraining device was to injure the furniture\'s dignity...
+It wasn\'t permitted to wear anything else on its body.
+One of the young woman goats, mixed in with the goat nobles,
+ softly removed her goat mask as the furniture passed in front of her, and spoke with eyes that had no light in them.
+That face...looked like it belonged to a long‐haired young girl...
+"...............How pitiful."
+"Ohh, Lady {f:5:Bernkastel}.
+ Welcome.
+ Do you like my furniture?"
+".........Good taste."
+After saying only that, the witch called {f:5:Bernkastel} once again put on her goat mask,
+ and was swallowed up in the shadows of the other tall goats...
+"Ahahahahahahaha...
+ Sore loser.
+ She\'s irritated."
+"You\'re right.
+ *cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!"
+The young women goats giggled, and the witch once again let out a high‐pitched laugh.
+"Thank you for gathering here for my sake tonight!!
+ Why don\'t we enjoy to the fullest this "banquet of the witch", where old friends have gathered from past and present, east and west...!"
+"Come, we will eat all night,
+ drink all night,
+ slurp all night,
+ and chew to bits all night as we enjoy ourselves!!
+ Look at the clock, it shows the time when the ending hour and the beginning hour melt together... ...Come!!
+ Let us begin the banquet of the witch!!!"
+When the witch proclaimed the beginning of the banquet, the large clock pointed to 24:00, and the sound of a bell began to ring out loudly...
+"Come...... Now is the time!!
+ Open the golden door............!!!"
+All at once, the butterflies leafed in gold flew all around the inside of the room.
+Amidst the golden storm and the brilliant gold‐colored light, the cross‐section joining this world and a different world......was cut open......
+Amidst the goats\' delighted voices, the mansion of the human world and the mansion of those not human overlapped,
+ ......and, in the form of golden butterflies, all those folk who praised the resurrection of the Golden Witch...
+...poured out of the depths of hell...
+It was...a golden...tornado.
+{n}...A rondo of golden demons.
+Come, tonight we will put aside rank.
+Throw open the wine cellar,
+ drop the snake\'s head into the liquor pot,
+ throw cows and chickens into the furnace alive,
+ drink and eat and sing and dance,
+ sneer and kill and desecrate and degrade!!
+"Aaaaaahh, {f:5:Beatrice}!!
+ Take me to the Golden Land now!
+ To the Golden Laaaaa{-}a{-}a{-}a{-}a{-}a{-}aaaand!!!
+ Oooo{0}o{0}o{0}o{0}ooohhh{0}h{0}hhhhh, aaaaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaaaahhh!!!"
+The goat nobles were suddenly crushing in around Kinzo.
+...Almost like they were kids demanding the autograph of some famous movie star.
+There were two differences.
+ First, they were witches, not kids.
+ And second, what the witches demanded were not autographs.
+Kinzo began to drown in the sea of goat nobles.
+{n}Only Kinzo\'s laughing voice echoed throughout the area.
+It was a grand mixture of laughter and his death throes.
+{n}And Kinzo became wine and meat and bread.
+An aroma if slurped, a rich taste if gnawed, and pleasant to tear to bits!
+The voice of his death throes lingered on sweetly,
+ and adorned with melted chocolate and silver dragées, it would make a wonderful dessert!
+If you took the bones home, you could also use them for a soup,
+ and the remains could even become toys for the children to play with,
+ and they could also become good tools for fortune‐telling that always gave misfortune!
+That entire scene, ......was watched by the piece of furniture.
+{n}It was all fantastical.
+ ...It was all demonic.
+...Was the quaking of its heart, which should have been paralyzed, ...proof that it could still feel fear?
+Just then, its knees buckled, and the furniture\'s body tumbled onto the center of the carpet.
+Because the witch had kicked those knees from behind.
+"Kneel and show your respect.
+ Rub your forehead against the carpet and show how vulgar you are.
+ Join your hands behind your back and swear that you will offer all your flesh and blood to me."
+"..................u............ah........."
+The piece of furniture let out a painful voice.
+...Fear is the most primal emotion {y:0:Human}{n:0:human}s have.
+{n}...Was that emotion reviving his sense of self, which should already have been killed?
+".........Hmph.
+ So, you are still far from being appropriate for my furniture."
+"Good!
+ I will carefully make you into the kind of furniture I like, the kind appropriate only for me.
+ ...I suppose the best you can do for now is simply entertaining the guests!"
+The goat nobles were surrounding the cowering furniture...
+{n}It seemed that their blazing, blood‐red eyes couldn\'t hide their ecstasy at this new young food that they had been given.
+And from their mouths, from which protruded countless ugly teeth, saliva,
+ ...or maybe the traces of meat and wine that they had just eaten, dribbled down...
+".........e............eeeeeeeeeeeeeeeeeeeeeeeeeek!!"
+As the piece of furniture let out a wild scream, it retreated, still sitting on its backside.
+...But the circle of goat nobles was closing in...
+And the piece of furniture looked at the witch\'s face.
+ ...It stared at her face one final time, believing that because it had submitted to the witch, she would show it some mercy.
+But there was nothing but scorn on the witch\'s face, and she wasn\'t even facing it anymore.
+The witch went off to greet an honored guest with whom she had crossed gazes...
+The goat nobles looked down upon the furniture.
+They were, in fact, waiting.
+Just like how one must remove the cork in order to drink champagne,
+ before bringing the offering served at the banquet to their mouths, they were waiting for just one of {i:those}.
+Of course, the furniture didn\'t know what that was.
+...But it would come out of his mouth all by itself.
+ In the same way there is always a pop when the cork is removed, it too would certainly leave his mouth.
+"...G...
+......yaa...
+ahiiii{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}i{0}iiIII!!!"
+{nobreak:{m:-5:—}—}A scream.
+{n}It was a sign that the modest banquet at which he was to be served...had begun.
+"Gyaaaaaaaaaaaaaa
+gebu{0}ki{0}kya{0}kya{0}ka{0}ku
+oooo{0}ga{0}a{0}ge{0}o{0}e
+oo{0}ooaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a
+a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a
+a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaah...!!!"
+Gapupogyugukigukiboryu.
+By now the rose garden was a garden of roses and gold.
+ A gold‐colored garden where gold butterflies, gold fairies, gold lizards rampaged and flew about wildly.
+"Maria, hurry!!
+ Run!!
+ Hurry hurry hurry hurry!!"
+Holding onto the gun and the blanket wrapping the ingot,
+ Rosa ran at a speed Maria couldn\'t catch up with, sometimes pausing to call out at Maria to run faster.
+Therefore, she saw it every time.
+{n}...She saw the golden pursuers chasing them from the mansion!
+The mass of gold butterflies was chasing after them like a massive crawling hand!!
+ And horrifyingly strange‐looking shadowy figures with goat heads were chasing after them...!!
+There was no need for her to strain her eyes.
+ Because those blazing pupils told her what would happen if she was captured.
+"......Mama, wait,
+ Mama, wait......
+ ...Uu‐uu,
+ ......au!!"
+Maria tripped over.
+Rosa, ashamed that for just an instant she had entertained thoughts of abandoning her daughter and running away, kicked back against the ground and instantly reversed direction.
+As Rosa\'s own child tried to stand,
+ the goat‐head that had sprinted over to get the first bite grabbed a fistful of her hair and pulled her up from the back...!!
+"Mamaaaaaaaaaaaaaaaaaaaa,
+ noooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ooooo!!"
+Rosa rammed into the goat‐head with her shoulder,
+ spun,
+ bashed the back of her elbow into the goat\'s jaw,
+ and buried her knee into its protruding chest!!
+And she thrust the barrel of the gun inside the goat‐head\'s mouth as it doubled over from the pain in its gut!
+"......Just try laying one finger on Maria in front of me.
+ I\'ll show you just how lukewarm the hell you came from is."
+The blast from the 45‐caliber Long Colt bullet exploded inside the goat‐head\'s throat,
+ and its medulla oblongata was instantly pulverized.
+The goat‐head couldn\'t understand.
+It had thought that women were like already opened wine bottles!
+{n}It had thought that they were wine bottles, and that turning them upside down would immediately cause their deep‐red contents to come out!
+"Mama!!
+ Mamaaaaaa!!"
+Released, Maria flung her arms around Rosa.
+But the pursuers were still coming!
+ They could see the giant goat‐heads, who had given up even pretending to be {y:0:Human}{n:0:human}, running towards them from across the rose bushes.
+Rosa spilled several extra bullets, which had been in the pocket of her coat, all over the place, and told Maria to pick them up.
+"Y‐yes...!
+ Pick up, pick up...!!"
+"Maria.
+ If Mama falls down,
+ run.
+ Go to the shore.
+ And swim, and swim, and swim!
+ There\'s no place on this island where we can survive!!"
+"N‐no!!
+ Together with Mama!!
+ Uuu!!"
+Rosa\'s gun roared four times.
+ But even though she really did land four shots in the chest of the massive, approaching goat, it didn\'t even flinch!!
+The goat ran with a violent vigor, as though it planned to crush Rosa and Maria with its massive body!!
+"Put the bullets in!!
+ Quickly!!"
+"U‐uu!!"
+Rosa grasped the blanket with the ingot in both hands,
+ and she herself sprinted at the goat, dragging the ingot along behind her!!
+ Without even an ounce of fear of that strange‐looking giant!!
+If it\'s to protect my daughter, I\'ll overcome even hell!!
+"I\'ll show you...
+what a golden dream looks liiiiiiiiiiike!!!"
+Rosa\'s roar.
+ The goat‐head\'s roar.
+The terribly heavy ingot, after picking up a terrible centrifugal force and speed, slammed into the goat‐head\'s cranium.
+Rosa pulled a fountain pen from her pocket.
+ But she held it crooked.
+ She placed it in her palm,
+ in the gap between her middle finger and her ring finger, so that it stuck out when she made a fist, almost like it was a stinger growing out.
+She jabbed that stinger into the left eye of the goat‐head as its head toppled forward.
+ Was the goat‐head\'s roar a scream?
+But Rosa\'s roar was different.
+She pulled back her fist and slammed it into the fountain pen that was still sticking into the goat‐head\'s eye.
+ The pointed tip was gouged destructively into the depths of its head...!
+"Mama, bullets in!!"
+"Good job!!"
+As I grabbed the gun Maria had thrown, I finally heard the thunderous crash of the giant tumbling to earth.
+However, at the same time, I saw the goat‐head pursuers on the other side of the rose bushes increase in number.
+ I\'ve gained some distance, more than enough now!
+Holding onto the gun and the blanket wrapped around the ingot, I once again ran with Maria.
+...Why am I running with a gun in my right hand and the gold in my left?
+Why don\'t I free one hand and grasp Maria\'s hand...?!!
+I can\'t let go of the gun that protects my body.
+{n}I can\'t let go of the gold that protects my future.
+And yet I would let go of the hand of my daughter, who {i:is} my very future...?!
+Run.
+ Run. Run.
+She got out of the rose garden and began to run down the staircase through the grove of trees.
+But Rosa knew.
+ This path through the grove was only turning and twisting many times to make it seem long.
+ She tore straight through it!
+She had always played here since she was a kid.
+{n}So she knew!
+To the beach. To the beach.
+ To the sea, to the sea, to the sea.
+And after reaching the sea?
+Nothing to do but swim, swim swim, if Maria can\'t swim, I\'ll carry her as I swim!!
+There is nothing but death on this island!
+"Kya!!!"
+"Mamaaaa?!"
+As she raced down the stairs, she took a bad step.
+{n}A violent pain ran up her left ankle and her mind went completely blank.
+Rosa fell down several stairs, and stared in shock at her ankle, which was bent at an odd angle.
+...And the blanket with the ingot wasn\'t there.
+ She had let go of it the instant she fell, and it had disappeared somewhere into the darkness.
+Only the gun was left.
+The tremors in the earth were getting closer.
+{n}It was only a matter of time before the goat‐heads flooded in.
+She didn\'t want to imagine how many there would be, or how strange they would look.
+The lightly dancing gold pursuers arrived.
+The gold butterflies surrounded Rosa and Maria, sparkling and clamoring as though saying "the prize is here, the prize is here".
+Rosa couldn\'t even try to get up.
+{n}The violent pain from her broken ankle was so great that she couldn\'t ignore it, even in her last moments.
+Aaaaaaaaaaaaah, what am I doing...
+{n}I had the gold, it would have been worth several million yen.
+I might have been able to start over with that!!
+ And yet I fell, lost it, and that\'s not all, my own life is in danger, even Maria\'s life is in danger?!
+......What has my life been?!!!
+I was born in an incomprehensible house!
+{n}With an irritating older brother and sister since the day I was born!!
+What did I do?!
+No matter what I did or didn\'t do, I was always in trouble and bullied and made fun of!!
+ What has my life been?!?!
+"Mama..., Mama, Mama...!!"
+"........................"
+The roar inside Rosa\'s heart shriveled away and disappeared.
+...It disappeared when she listened to Maria\'s crying voice, as her daughter sobbed and clung onto her.
+".........Maria.
+ Mama remembered that there\'s something she has to do.
+ Please go on ahead."
+"No, no no no no!!
+ Want to be with Mama!!
+ Don\'t want Mama to die!!"
+"Maria,
+ ...even though I\'m such a bad mama,
+ ......you still say you want to be with me?"
+"Yes...!
+ ......Want to be with Mama...
+ Want to be with Mama...!"
+"...I made it look like I was putting you first,
+ ...but I was always putting you off.
+ I went to your sports day,
+ I went to parent\'s day,
+ ...but I was always thinking about how I appeared to the world, and you were never in my eyes."
+"......Are you saying...that you want to be together, even with that kind of mama......?
+ Even though...
+...I\'ve been such a bad mama............!!"
+"Hey, Mama.
+ ...Did you know?
+ There\'s only one Mama in the world.
+ There\'s no good Mama or bad Mama.
+ ...There\'s just one Mama.
+ So all I want is for Mama, the only Mama in the world, to be here.
+ And I want to become the only Maria for Mama."
+".........The Maria who\'s in a good mood that you want to spoil, and the Maria who\'s a nuisance and you don\'t want to be around, aren\'t different people.
+ I\'m also just one Maria.
+ ......So the scary Mama and the nice Mama are just like that.
+ ......To me,
+ ...there is just one...
+...Mama......"
+"...............I was...
+......such...
+.........an idiot...
+ .........I didn\'t need gold.
+ If only I had just pulled your hand...
+ ......I was such a...
+...stupid mama...!!"
+The shadows of the goats covered the sky even more than the trees of the forest.
+{n}Their roars blotted out the world with fear.
+Rosa, still hugging Maria, readied her gun with one hand.
+"Maria, let\'s go together.
+ Always together.
+ ...So that Mama doesn\'t lose her way, always together...!"
+"Yes...!!
+ Can see each other soon.
+ Always together...!!
+ ...Can see each other...in the Golden Land...!!"
+"And then we\'ll play together!
+ Play with the "Wolves and Sheep Puzzle"!!
+ You still haven\'t solved more than one question, Mama, but I solved them all.
+ So I\'ll be the questioner!!"
+She had bought that as a birthday present, ......and then hadn\'t played it with Maria after that night.
+"Yes, let\'s play, together!!!
+ I promise!!!"
+"Mamaaaaaaaaaaaaaaaaaaaa!!"
+Those eyes, sparkling like red‐hot lava, looked just like a group of fireflies.
+{n}They danced, closed in, and attacked.
+"Oooooooooooooohh, come ooooooon!!
+ Whoever wants to eat these bullets Maria chambered for me, step forwaaaaaaard,
+ uwoooo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oooohhh!!!"

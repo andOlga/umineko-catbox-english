@@ -1,0 +1,225 @@
+"......Erika, Dlanor."
+"Yes, my master."
+"You {f:5:called}?"
+"......I want you two to stay in this fragment...
+...and explain everything in the remaining first through fourth games.
+ That pitiful transient witch no longer exists to assert her witch illusions.
+ Expose the naked truth with extreme prejudice."
+"*giggle*! Leave it to me, my master.
+ There is no mystery that Furudo Erika cannot solve."
+"......Of course.
+ That\'s why you\'re my piece, my double.
+ *giggle*giggle*giggle*!"
+{f:5:Bernkastel} wore a massive...and horrible smile, which Erika shared.
+......{f:5:Beatrice}\'s witch illusions would disappear,
+ and the results of all of the previous games would be painted over.
+It had been crushed in every way possible, ......and only the naked truth remained.
+To Erika, such a weak truth might as well have been fish on a chopping board...
+"All four prior games...
+can be explained as either Natsuhi\'s crimes or freak exceptions.
+ I won\'t let anyone talk about them as the crimes of some witch called {f:5:Beatrice} again.
+ I\'ll start compiling it together at once and present you a first‐rate tale."
+"*giggle*......
+ You mustn\'t leave even a single fragment of Beato\'s Legend of the Witch behind.
+ The rumors among the servants, the way people talked about unexplained events as though a witch was the cause,
+ the witch illusions used alongside the illusion of Kinzo.
+ ......Deal with all of them completely."
+"Of course.
+ I\'ll get to it right away.
+ ......We currently have the furniture in custody.
+ We\'re hurrying to identify their vessels."
+The Seven Sisters of Purgatory had already been taken into custody.
+Those noisy sisters who had served Beato now faced nothing but denial.
+What sort of fantasy were they based upon which allowed them to "manifest"?
+......Everything would be exposed...
+...and denied.
+"Eiserne Jungfrau has already begun its {f:5:investigation}.
+ Our most recent findings indicate that there is a high probability they were produced during the 1960\'s in New York or somewhere {f:5:nearby}.
+ An aide has already been sent to the {f:5:location}."
+"The 1960\'s? The Seven Sisters of Purgatory are <Made in USA>?
+ Pfft, *giggle*giggle*giggle*......
+ Even though they bragged about being furniture connected with King Solomon and serving a thousand year old witch, they\'re a total sham.
+ So what are they...?"
+"According to the report, there\'s this group of big‐time swindlers...
+...who make money by selling high‐priced imitation goods to rich fans of the occult."
+"The deceived millionaires resell the articles with invented histories,
+ and this may have caused the items to become falsely deified among {f:5:collectors}.
+ We are rushing to find confirmation and further {f:5:details}."
+"Ushiromiya Kinzo was apparently a big customer of theirs who\'d pay exorbitant sums for the most blatantly fake objects."
+"......*giggle*giggle*, ...ahahahahahahahaha...!!
+ And that\'s what the Seven Sisters of Purgatory really are...?
+ That\'s ridiculous,
+ aha{0}ha{0}ha{0}hah{0}hha{0}ha{0}ha{0}ha{0}hha{0}ha{0}hahha!!
+ A total sham, just what I\'d expect from one of Beato\'s witch illusions."
+"So despite calling themselves the seven deadly sins, they\'re actually cheap, fake souvenirs.
+ ......Of course,
+ from the first time I saw them, I figured they were nothing more than paperweights sold at some shady souvenir shop."
+"*giggle*giggle*!! Paperweights...!
+ Ahhah{0}hah{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!
+ Have you confronted the Seven Sisters with that truth yet?"
+"No, not {f:5:yet}."
+"They still seriously believe...
+that they were created by a great magician over a thousand years ago.
+ ......I can\'t wait to thrust the truth and perfect evidence in their faces...
+and let them know that they\'re mere paperweights worth less than 30 US dollars."
+"I wonder what kind of expressions will register on their faces as they lose all hope?
+ ......*giggle*, I can\'t wait.
+ Call me when you do it.
+ I\'ll come to watch, with some of the best black tea and dried plums."
+Beato\'s witch illusions had already been seen through,
+ and it had been proven that every one of them was simply the result of a {y:0:Human}{n:0:human} fantasy.
+What kind of fantasies created them and what was their basis?
+{n}The illusions would be confronted with this perfectly proven truth...
+......And at that time, they would disperse like smoke and be completely annihilated.
+This was called......“execution”.
+"......An execution is not a {f:5:show}.
+ As a general rule, it is not open to the {f:5:public}."
+"This is an inspection by the great Lady {f:5:Bernkastel}, member of the Senate,
+ so she can observe that the Great Court is performing its duties satisfactorily.
+ Do you, a mere Inquisitor, intend to obstruct this...?"
+"Yes, that\'s right.
+ I\'m just observing as a representative of the Senate to make sure you observe the proper procedures when you carry out your work.
+ ......*giggle*giggle*giggle*."
+"We are currently preparing to take {f:5:Virgilia}, Ronove, and Gaap into custody as well.
+ The Chiester Sisters Imperial Guards are conducting that investigation."
+".........Of course, after that is done, we will then detain and execute the three Chiester Sisters, who are also connected to {f:5:Beatrice}."
+"Dlanor, what is the true nature of the Chiester Sisters?"
+"......We believe there is a high likelihood that their vessels are weapons used in the {f:5:crimes}.
+ My senior aide, Gertrude, has formed a dedicated {f:5:team}.
+ We are currently investigating their individual {f:5:cases}."
+"I\'m looking forward to the Chiester Sisters\' execution too...!
+ One at a time?
+ Or all of them at once?"
+"No one\'s stupid enough to empty the entire can of tea leaves into the pot at once.
+ You\'ve got to enjoy it slowly, one spoonful at a time."
+"*giggle*giggle*! Exactly.
+ Let\'s hold their executions on consecutive days.
+ One for each witch and piece of furniture.
+ I\'ll present you with a new execution show every day."
+"Wonderful.
+ .........After all, there really are a lot of them.
+ Looks like we\'ll be able to enjoy ourselves for a full two weeks."
+"......Maybe we could let them decide among themselves which of them to execute first.
+ Heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh!
+ Make sure you think up something great for the execution concepts.
+ ......I\'d like to enjoy executions both old and new from East and West every day."
+"......The rules state that the method of execution is to follow Great Court {f:5:regulations}."
+"Leave it to me, my master.
+ I will most certainly prepare you a fascinating execution show!"
+"I expect quartering at the very least."
+"Of course.
+ I shall make a list of the highest forms of execution from countries across the world from Europe to Asia,
+ which were used by kingdoms East and West for nothing less than treason against the king!"
+"......I\'d like to propose an execution method myself.
+ ...Pondering that will be the perfect way to relax on those sleepless nights.
+ ......*giggle*. I\'ll come up with an idea and send you a letter soon."
+"Certainly, my master.
+ Then we\'ll use the {f:5:Bernkastel}‐style execution for the grand finale.
+ ......At the very, very end, when all of the illusions have been broken and Beato\'s system of magic has been completely crushed,
+ ...I shall present you with the finest execution you desire...at the execution of {f:5:Beatrice}...!"
+"Thank you, Erika.
+ ......Thanks to you, it seems I\'ll be able to forget the pain of my illness for a little while......
+ *giggle*giggle*, hehe{0}he{0}he{0}heh{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!
+ You\'re just perfect.
+ My piece, my double,
+ ......and my precious daughter."
+"Y‐......your words are too good for me...! My master...!!"
+"Erika, I will give you honor and a reward.
+ ......Beato\'s greatest symbol, the portrait in the reception hall.
+ Take it down, smash it to make firewood, bake a cake over that fire and eat it.
+ Then you have my permission to put your own portrait up in the empty frame."
+"...Th‐......thank you very much...!
+ It is the greatest of honors...!"
+".........You will eradicate and erase {f:5:Beatrice}\'s name and all traces of her.
+ Until that is all finished, I order you to become the master of this sealed‐off Rokkenjima."
+"......By the name of the Witch of Miracles, {f:5:Bernkastel},
+ I hereby grant you the rank of witch until that day arrives.
+ ......From now on, you will call yourself {f:5:Erika}, Witch of Truth."
+"W‐
+......Witch...of Truth......!
+ ......Th‐
+......thank you very much, my master...!!
+ I vow to work even harder so that this honor is not wasted...!"
+Even though she was nothing more than a piece,
+ .........she was being granted the honor of calling herself a witch like her master, if only for a brief stretch of time......
+Erika was so moved at having her hard work acknowledged in this greatest form that she trembled......
+"Dlanor, continue to aid {f:5:Erika}...
+and report on her progress to me."
+"......As you {f:5:wish}."
+"............By the way, where\'s Lambda?"
+"She is over {f:5:there}."
+From the guest seating on the second floor, she pointed downwards.
+{f:5:Lambdadelta}.........could be seen beneath Battler, who hung there dead, run through by the red longsword.
+".........Ushiromiya Battler...
+ You were an interesting guy.
+ ...You could have been so much more interesting...... Such a shame."
+"I think it was a wonderful way to die.
+ .........{f:5:Erika}!
+ You can hang Battler\'s corpse in the mansion\'s reception hall.
+ ......The next time I come to visit this fragment, welcome me in front of it."
+"Certainly, my master.
+ I\'ll make that foolish man an eternal monument to your victory!"
+"*giggle*, that sounds wonderful. Super stylish.
+ Maybe you can coat him with plaster and make a beautiful white statue.
+ ......And it\'d be even better if you decorated him all cute!"
+"Yes, Lady {f:5:Lambdadelta}.
+ I will strive to answer your expectations...!"
+"Grats on your witch promotion.
+ Even though it\'s only temporary, I welcome you as a friend."
+Erika was so overcome with emotion that tears came to her eyes.
+.........Because no greater pleasure exists for a piece than having its efforts acknowledged by its master.
+"In the end, I\'d like to have Beato stuffed too.
+ Then I\'ll have her displayed on high in the reception hall."
+"Lake Shirakaba?"
+"The {c:86EF9C:{y:0:Human}{n:0:human}‐hunting Count}."
+"......You know,
+ I read that back when I wasn\'t a witch.
+ ...I wondered, how can humans who obtain eternal life become so cruel?
+ I always found that strange.
+ ......At the time, I honestly couldn\'t relate."
+".........After becoming a witch and living a thousand years, I fully understand it.
+ ......That writer could understand our cruelty really well, in the truest sense.
+ *giggle*giggle*!"
+"......Where to next?
+ I guess we\'ll go off in opposite directions like always?"
+"Only because I don\'t want to bore you."
+"Thanks, Bern.
+ But you can be sure that I\'ll count to a hundred and then start searching for you again."
+"You never let me get bored, do you?
+ That\'s why I like you, love you.
+ ............Let\'s meet again somewhere.
+ Of course, that might be a hundred or a thousand years from now...or never again for all eternity."
+"It\'ll work out.
+ The sea of fragments is tiny to a pair who love each other."
+"The Third Man?"
+"No, Children of Paradise, of course."
+".........If each time you smashed one of those countless fragments that glitter like a starry night,
+ you could escape the poison of just a single evening\'s worth of boredom,
+ even you would want to count the stars in the sky."
+"Ooh, not bad...pfft, *giggle*giggle*...!"
+The witches known as Voyagers travel across the countless glittering futures of possibility,
+ ......and gobble them up, trying to escape their illness called boredom for as long as they can.
+The tiny, tiny fragment created by the {y:0:Human}{n:0:human} known as {f:5:Beatrice}...
+...had now been gobbled up by the two witches...
+...and had lost its glitter.
+The two who had earlier called themselves rivals in front of Beato...
+now stopped that charade and laughed together playfully.
+"{f:5:Erika}.
+ The new ruler of this fragment.
+ .........Weave the truth, ......and create the tale that leads up to this world\'s demise.
+ ...Umm, the next was the sixth game, right?"
+"Yes, it\'s the sixth game."
+"Decide the title for Episode 6 yourself.
+ After all, you\'re already the spinner of this tale, as well as its Master."
+"Thank you very much.
+ ......Actually, I\'ve already decided on one."
+"......Oh, already?
+ ......Then let me hear it.
+ What\'s the title?"
+"It is...
+Episode 6.........
+heheheheh, actually, I\'d like to tease you a bit, but I\'ll tell you."
+"*giggle*!
+ Come on, stop being a smartass and tell us.
+ A newbie witch like you shouldn\'t be teasing your seniors!"
+"Episode 6: Checkmate of the Golden Witch!"
