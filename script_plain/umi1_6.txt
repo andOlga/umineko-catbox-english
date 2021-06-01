@@ -83,9 +83,9 @@ It was like she was saying that, if the puzzle could be solved so easily, she wo
  .........I don\'t know what it means by "the two", but anyway, the shore.
  .........What does it mean by the shore?!
  Hmmmm...
-is there any place near there with {ruby:shore:岸} in its name?"
+is there any place near there with 岸 in its name?"
 "Ummm,
- ......I have heard that there is a place called {ruby:Sogakishi:曽我岸} in Odawara."
+ ......I have heard that there is a place called 曽我岸 in Odawara."
 "Huh?!
  Wow,
  you sure know a lot!"

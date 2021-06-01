@@ -484,8 +484,8 @@ is that BEATRICE‐sama is the Golden Witch, and that she is the other master wh
  Even though you get paid, it must be a pain to go along with Grandfather\'s tales."
 "......But, I can say this much."
 "...What?"
-"......In ancient times, Rokkenjima was feared, and called "{ruby:Azuki Bean Island:Azukijima}".
- The story told among the fishermen is that "Azuki" was a mispronounced form of "Akujiki", and in fact it was called "{ruby:Evil Appetite Island:Akujikijima}"."
+"......In ancient times, Rokkenjima was feared, and called "Azukijima".
+ The story told among the fishermen is that "Azuki" was a mispronounced form of "Akujiki", and in fact it was called "Akujikijima"."
 "I\'ve heard this before.
  It\'s that story about how, \'cause of all the sunken rocks and shipwrecks around here, the fishermen got afraid and stayed away as much as they could, right?"
 "......Evil spirits had settled down in Akujikijima, devouring human souls from time immemorial.

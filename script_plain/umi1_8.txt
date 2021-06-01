@@ -919,7 +919,7 @@ Shannon chuckled at this gap.
  Money isn\'t the only thing that\'s important.
  I learned that well by studying from my father.
  Making a company prosperous is like having a castle and leading your subordinates."
-"My father, true to his name of Hideyoshi, really loves reading about the great leaders of the {ruby:Warring States:Sengoku} period.
+"My father, true to his name of Hideyoshi, really loves reading about the great leaders of the Sengoku period.
  Most of his philosophical speeches on business management start with one of them.
  ...Did you know?
  Takeda Shingen, who was feared as the leader of the strongest cavalry corps in the Sengoku period, started out with his troops in complete disarray, and didn\'t have the kind of strong leadership necessary to utilize them well."
@@ -952,7 +952,7 @@ She had been brought up in a welfare institute owned by Kinzo called the Gospel 
 Under the guidance of the honorary director, Kinzo, the Gospel House offered excellent students a chance to live a life of service.
 If they were accepted, they would be able to leave the institute and work as servants for the Ushiromiya family.
 ...This was considered to be the highest honor for a student.
-Servants from the Gospel ({ruby:Fukuin:福音}) House all took names with the character "{ruby:in/on/non:音}" in them while they served.
+Servants from the Gospel (福音) House all took names with the character "音" in them while they served.
 So "Shannon" (紗音) wasn\'t her real name.
 The same goes for "Kanon" (嘉音).
 All of the students of the Gospel House were orphans.

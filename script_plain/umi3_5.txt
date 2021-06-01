@@ -129,8 +129,8 @@ I am."
 "......Indeed.
  Just as you imagine, this is deep in the forest of Rokkenjima.
  A hidden mansion not to be found from the outside world.
- Its name is {ruby:Nine Birds\' Retreat:Kuwadorian}."
-"......Come to think of it, I heard that the guesthouse\'s real name was {ruby:Visitor\'s Retreat:Toraian}.
+ Its name is Kuwadorian."
+"......Come to think of it, I heard that the guesthouse\'s real name was Toraian.
  ...I see, the naming sense is similar.
  ......So, you were Grandfather\'s lover, who lived here in secret.
  Isn\'t that right?!"

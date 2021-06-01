@@ -862,24 +862,24 @@ It was opened in 1901.
 Afterwards, the number of stations continued to grow, and it became a major artery into Taipei.
 This railroad was used after the war as well and is still in common use as the Taipei Metro Tamsui Line.
 Its route begins at Taipei Station and continues on until the town of Tamsui......
-{ruby:Taipei:台北} Station.
-{ruby:Chang‐an:長安} Station (old name: {ruby:Taishougai:大正街} Station).
-{ruby:Shuanglian:双連} Station.
+台北 Station.
+長安 Station (old name: 大正街 Station).
+双連 Station.
 Tatung Company Station.
-{ruby:Yuanshan:円山} Station.
-{ruby:Jiantan:剣潭} Station (old name: {ruby:Miyanoshita:宮ノ下} Station).
-{ruby:Shilin:士林} Station.
-{ruby:Shipai:石碑} Station (old name—
+円山 Station.
+剣潭 Station (old name: 宮ノ下 Station).
+士林 Station.
+石碑 Station (old name—
 ".........What did the epitaph say you\'d see if you went down the river?"
 "A, a village."
-"There\'s only one station on the Tamsui Line with 里, the character for village, in its name, and that\'s the old name of this {ruby:Shipai:石碑} Station."
+"There\'s only one station on the Tamsui Line with 里, the character for village, in its name, and that\'s the old name of this 石碑 Station."
 "H‐how do you read this......?"
 "The Japanese reading is "Kirigan".
  Its name was changed to Shipai Station after the war, but when Kinzo lived there, it was Kirigan Station."
-"As you travel down it, you will see a {ruby:village:里}....
+"As you travel down it, you will see a 里....
  In that village, look for the shore the two speak of......"
 "......*giggle*.
- It\'s not just {ruby:village:里}. You can also see a {ruby:shore:岸} in the name of that station......"
+ It\'s not just 里. You can also see a 岸 in the name of that station......"
 "I spent no short amount of time trying to decide whether the epitaph truly was referring to this station.
  ......It has the character for village and the character for shore.
  It felt like a kids\' puzzle, playing with letters..."
@@ -956,7 +956,7 @@ formed some sort of theory about the first twilight."
 "Why is it written that way only on the tenth twilight?
  It took me a long time to notice the significance of this, and just as long to discover the reason."
 "Rosa\'s theory went like this.
- She read the "Home" (郷) kanji as "kyou" and interpreted it as {ruby:kyou:京}, which she took as short for "Kyoto" ({ruby:kyouto:京都}).
+ She read the "Home" (郷) kanji as "kyou" and interpreted it as 京, which she took as short for "Kyoto" (京都).
  Then, she reasoned that if you take a ten‐day trip from the beloved hometown to Kyoto, there might be some secret at the end of the first tenth of that journey.
  .........It was a good theory, but she just missed the mark.
  京 has another meaning besides Kyoto."
@@ -967,7 +967,7 @@ formed some sort of theory about the first twilight."
 "......There\'s another meaning of 京.
  One where it\'s not read "kyou", but "kei".
  It\'s the name of a number.
- 10,000 is {ruby:man:万}, 10,000 {ruby:man:万 is {ruby:oku:億}}, 10,000 {ruby:oku:億 is {ruby:chou:兆}}, and 10,000 {ruby:chou:兆 is {ruby:kei:京}}."
+ 10,000 is 万, 10,000 万 is {ruby:oku:億}, 10,000 億 is {ruby:chou:兆}, and 10,000 兆 is {ruby:kei:京}."
 "So it\'s a number......!"
 "......Here, I had a home‐field advantage, since I lived on Rokkenjima.
  There was a hint there that made it easier to think of the number "kei".

@@ -236,7 +236,7 @@ A stiff tension hung over the room...
  If we kill them all, no one will have to know about the gold.»
 At that moment, the door, which had supposedly been locked, opened slightly, and a metal object was thrown in.
 {a:c:
-{e:120:«{ruby:Grenade:Granata}!!!»}}
+{e:120:«Granata!!!»}}
 As the yell rang out, the table was kicked over to be used as a shield, and they all dropped to the floor.
 However, in this cramped room, it probably wouldn\'t do them any good.
  The Italians were all prepared for death.

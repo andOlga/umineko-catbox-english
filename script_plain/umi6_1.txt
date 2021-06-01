@@ -186,7 +186,7 @@ Given this person\'s radically unconventional track record,
  That\'s actually pretty impressive..."
 "Itouikukuro0576.
  It was a pretty strange username.
- However, if you match the Japanese syllables to numbers, you can read it as {ruby:i:1‐{ruby:tou:10}‐{ruby:i:1}‐{ruby:ku:9}‐{ruby:ku:9}‐{ruby:ro:6}‐0576}."
+ However, if you match the Japanese syllables to numbers, you can read it as 1‐{ruby:tou:10‐1‐9‐9‐6‐0576}."
 11,019,960,576.
 This massive number is equal to 18⁸.
 Eighteen to the eighth power.

@@ -538,7 +538,7 @@ Almost as though she was trying to swallow the demon stake up with the gun barre
 "You\'re completely lacking in both love and envy."
 "......Come back when you\'re older, darling."
 "Rudolf, what happened to all that vigor from a couple seconds ago?
- {ruby:Sliced live fish:Ikezukuri} is best served while it\'s still twitching.
+ Ikezukuri is best served while it\'s still twitching.
  After it dies, it isn\'t interesting in the slightest.
  That\'s enough.
  Why not kill him now and forever?!"
@@ -682,8 +682,8 @@ The butterflies peeled off and flew away, and beneath them, furniture in the sha
 "..................The Chiester Sisters troops...
  .........Even the Predecessor...
 ...wasn\'t able to summon the Pendragon\'s Memorial Troops on a moment\'s notice, and so easily...!"
-"Chiester{ruby:four‐one‐zero:410}. Right here."
-"Chiester{ruby:forty‐five:45}. Right here."
+"Chiester410. Right here."
+"Chiester45. Right here."
 "...You two are suitable furniture for me, right?"
 "From reading you a picture book, to going on a friendship date, to shooting down a meteorite,
  we\'ll take care of anything. Nihihi."

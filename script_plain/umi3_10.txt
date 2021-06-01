@@ -163,7 +163,7 @@ you\'re able to narrow it down and say specifically what "{loghint:kawa:river}".
  They\'re freshwater fish, but they can live in the {loghint:kaisui:ocean}?
  I didn\'t know that.
  I thought they were {loghint:kawa‐zakana:river fish}, so they couldn\'t go out into the sea."
-"And they are also called {ruby:kougyo:香魚} (aroma fish) because they have a pleasant smell.
+"And they are also called 香魚 (aroma fish) because they have a pleasant smell.
  I have never eaten one, but I have heard that they are very delicious when {loghint:shioyaki:grilled with salt}."
 "Whoa, Natsuhi‐san!
  You\'ve never eaten salt‐grilled sweetfish?!
@@ -180,7 +180,7 @@ you\'re able to narrow it down and say specifically what "{loghint:kawa:river}".
 that I have sometimes suspected that it refers to you and Maria‐chan."
 "I see.
  ......As you travel down it, you will see a village.
- The only "village" ({ruby:sato:里}) you\'ll find by going down the family tree is the one in Maria\'s name (真里亞)."
+ The only "village" (里) you\'ll find by going down the family tree is the one in Maria\'s name (真里亞)."
 "Right?!
  ......But as you all know, Father has a dislike of Maria,
  and he has almost never spoken with her."
@@ -287,7 +287,7 @@ It seemed that she had only guessed the answer had to be something undignified,
  There was something like it in Maria\'s book of puzzles, okay?
  There\'s this thing called the Tanuki Notebook."
 "There\'s a notebook written in some kind of code, with a lot of "ta"s mixed in,
- and if you "{ruby:nuki:remove}" all of the "ta"s, then the true sentences pop up.
+ and if you "remove" all of the "ta"s, then the true sentences pop up.
  It\'s a game like that."
 "Ah......oh, I see.
  .........??"
@@ -384,8 +384,8 @@ Rosa hung her head, troubled over how she should answer.
  ......Look, isn\'t just the tenth twilight strange?"
 "...............Huh?
  ......ah."
-"Even though they\'re all written the "Golden Land" ({ruby:ougonkyou:黄金郷}), for some reason, this one place has the "Home of the Gold" ({ruby:ougon no sato:黄金の郷}).
- He explicitly mixed in the character {ruby:no:の}, changing the phrasing.
+"Even though they\'re all written the "Golden Land" (黄金郷), for some reason, this one place has the "Home of the Gold" (黄金の郷).
+ He explicitly mixed in the character の, changing the phrasing.
  It vaguely bugged me that it\'s only said differently here..."
 ".........ah, umm, ...it\'s not like it means anything.
  This is Father we\'re talking about.
@@ -654,8 +654,8 @@ I see...
 This is what the sweetfish river means.
 ......Don\'t dawdle around, research further.
 "Y‐yes, I know...
- As you travel down it, you will see a village ({ruby:sato:里})...
- {ruby:sato:里} is an older word for {loghint:machi:town} or {loghint:mura:village}, right?
+ As you travel down it, you will see a village (里)...
+ 里 is an older word for {loghint:machi:town} or {loghint:mura:village}, right?
  But it\'s a densely populated area... There\'s any number of those..."
 Why have you stopped thinking?!
 If you don\'t like it, why not quit forever...?
@@ -669,7 +669,7 @@ Why not just hand over the Ushiromiya headship to Kyrie forever?!
  ............ah, .........
 aaaaaaaahhh......!!"
 ......In {loghint:sono sato:that village}, look for the {loghint:kishi:shore} {loghint:futari:the two} {loghint:kuchi:speak} of.
-......It\'s a "shore" ({ruby:kishi:岸}).
+......It\'s a "shore" (岸).
  Understand?
 "Uh, ...*gulp*...
  I, I, I understand...!

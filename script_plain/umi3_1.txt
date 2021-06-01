@@ -128,10 +128,10 @@ But because that way of thinking existed, I wanted to overturn it.
 "I admire you as my little sister for feeling that you should respect Father and become a proper daughter for him.
  Even I can respect that."
 "Disgusting.
- What is this {ruby:neutral/polite "I":"watashi"}?
- You\'ve always used {ruby:rough/casual "I":"ore"}.
+ What is this "watashi"?
+ You\'ve always used "ore".
  Are you already pretending to be the head?"
-"It was decided that {ruby:watashi:I} would succeed the head from the beginning.
+"It was decided that I would succeed the head from the beginning.
  And yet you seem to be laboring under the illusion that you can become the head, and have just been making useless and reckless attempts to do that."
 "Reckless attempts, you say...?!
  Is my saying that I want to go to college really that odd?!"

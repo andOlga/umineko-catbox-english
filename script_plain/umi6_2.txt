@@ -75,7 +75,7 @@ to reach the truth of your game."
 "In any case,
  I\'m going to pay you back in full for last time.
  You\'re just one of Battler\'s delusions, fantasies... I\'ll erase every part of you and knock you down into the abyss of oblivion."
-"Well, {ruby:watashi:I} also intend to hold my own.
+"Well, I also intend to hold my own.
  ......I, um, look forward to having a good, clean fight."
 "...........................???"
 By this point, everyone realized that something weird was going on.

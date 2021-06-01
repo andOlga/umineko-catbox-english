@@ -795,7 +795,7 @@ If even a tiny bit of the toxin from a {y:0:Human}{n:0:human}\'s common sense ge
 ‘Uryuu!
  Lion cuuuub!
  Ga‐...ga‐......uryuu!’
-"Sakutaro is a lion cub, but he\'s still a kid, so he can\'t say {ruby:roar:gaooo} sometimes.
+"Sakutaro is a lion cub, but he\'s still a kid, so he can\'t say gaooo sometimes.
  Uryu‐uryu‐uryu♪"
 ‘Uryu‐uryu‐uryuu!’
 BEATRICE let out a sigh of admiration as she gazed at Maria, playing around with Sakutaro at the table loaded with tea.

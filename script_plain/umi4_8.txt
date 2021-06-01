@@ -123,10 +123,10 @@ you\'re much more amazing for being able to learn all of that by heart."
 "Well, I\'m sure your occult knowledge would have been a bit like that, but your English and such must have translated into good grades, right?"
 "In the first year of elementary school, on a Japanese language test,
  there was a question where I was given a picture of a gun and four squares, and it said to write its name in the four squares.
- Wrote "rifle"—{ruby:ra‐i‐fu‐ru:ライフル}—and got it marked wrong."
+ Wrote "rifle"—ライフル—and got it marked wrong."
 "Why?
  It fits."
-"It was supposed to be {ruby:te‐p‐po‐u:てっぽう}, the Japanese word for gun.
+"It was supposed to be てっぽう, the Japanese word for gun.
  Got told that it was wrong \'cause you don\'t learn katakana in first grade."
 "......I didn\'t really get it,
  so from that day on, on tests, I wrote everything in hiragana.
@@ -234,9 +234,9 @@ But there\'s no doubt that Sakutaro is her best friend.
 "......It\'s rare for a word that ends weirdly like that to come up."
 "Okay, I\'m first then!!
  I\'ll start from "ryu"!
- A {ruby:ryuuzu:"watch ste~m"}!"
+ A "watch ste~m"!"
 "I wanted to be the one to speak first!
- {ruby:ryuuto:"Lute"} would have been so much more wonderful!"
+ "Lute" would have been so much more wonderful!"
 "‘Zu’?
  Feels like we keep getting tough ones.
  ...Wait a sec, what order are we going in?
@@ -249,7 +249,7 @@ But there\'s no doubt that Sakutaro is her best friend.
  It\'s fast‐talking shiritori!"
 "OK, I\'ll go, then!
  "Zucchini"!
- {ruby:ninniku itame:"Garlic stir‐fry"}!
+ "Garlic stir‐fry"!
  "Mekabu and pasta"~!
  All of them delicious!
  Kyaha, I said three!"
@@ -260,13 +260,13 @@ But there\'s no doubt that Sakutaro is her best friend.
  Minus one point!!
  Start over at "me"."
 "Okay, my turn.
- {ruby:merenge:"Meringue"~!"}
+ "Meringue"~!"
 ‘‘Ge’??
  ...U...u...
 ...uryuu!’
-"{ruby:gesuidou:‘Drainage system’},
- {ruby:umetatechi:"reclaimed land"},
- {ruby:chikashitsu:"basement"}.
+"‘Drainage system’,
+ "reclaimed land",
+ "basement".
  Something like that?"
 "Onee‐sama, those are all pretty unrefined words, *giggle*!"
 "S‐so what, why don\'t you try following up with something refined, then!!

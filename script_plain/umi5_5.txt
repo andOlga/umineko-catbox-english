@@ -539,7 +539,7 @@ That\'s right, Kyrie‐san theorized this already way back then...!
 On the first twilight, kill the six characters that are the key.
 .....................On the first twilight.
 "......In other words, ...by the time we reach the first twilight, some string of characters already exists?
- But {ruby:the first twilight:第一の晩} only has four characters.
+ But 第一の晩 only has four characters.
  Are we meant to read it differently?
  If we read it in English like Grandfather would, maybe "the first twilight"? Or...something else like...{NOTE:For non‐english translations, this line should change to "If we read it in English like Grandfather would, what would "the first twilight" become?", and the following line should be in ENGLISH, not your translation\'s language:}
 first night...?
@@ -739,17 +739,17 @@ I wanted to keep discussing the epitaph with someone.
 "The tenth twilight...?
  What about it?"
 "Well,
- .........the word "Golden Land" ({ruby:ougonkyou:黄金郷}) appears several times, right?"
+ .........the word "Golden Land" (黄金郷) appears several times, right?"
 "Yes, it does."
 "For some reason......on the tenth twilight alone, when the journey ends, it says we reach the "Home of the Gold" (黄金の郷), read "ougon no kyou"—no, sorry, "ougon no sato".
- The "Home" kanji ({ruby:kyou/sato:郷}) is separated out.
+ The "Home" kanji (郷) is separated out.
  I can\'t help but wonder why this is the one place where it\'s written like that."
 "............You\'re right.
  ...No mistake.
- Everywhere else, it says "Golden Land" ({ruby:ougonkyou:黄金郷})..."
+ Everywhere else, it says "Golden Land" (黄金郷)..."
 Even though all the rest are written "Golden Land", the tenth twilight is the only one where it\'s different,
  and "Home of the Gold" is written instead...
-I wonder if the word "Home" ({ruby:kyou/sato:郷}) has some kind of special meaning.........
+I wonder if the word "Home" (郷) has some kind of special meaning.........
 ...........................
 "Still, ......you and that Erika‐chan girl are incredible.
  The way you think really is flexible.
@@ -777,7 +777,7 @@ I wonder if the word "Home" ({ruby:kyou/sato:郷}) has some kind of special mean
  Things like that...
  Don\'t tell anyone this, okay?
  I\'m not very clever, so for a long time I read the "Home" kanji (郷) as "kyou" when it\'s probably "sato"."
-"......And "kyou" reminds you of Kyoto ({ruby:kyouto:京都}), right? It\'s often shortened to "kyou" (京).
+"......And "kyou" reminds you of Kyoto (京都), right? It\'s often shortened to "kyou" (京).
  So I thought the ten‐day trip might be between Father\'s home and Kyoto, and there might be something hidden one‐tenth of the way there..."
 "Are you kidding? That\'s a brilliant idea.
  .........The first twilight as the first stop on a ten‐day journey...
