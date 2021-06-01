@@ -1,5 +1,5 @@
 .........All of the pieces from the game board were gathered.
-All of the {y:0:Human}{n:0:human}s, furniture, witches, and the witches on an even higher level...
+All of the Humans, furniture, witches, and the witches on an even higher level...
 ...had gathered in one place.
 That place was like a solemn cathedral, with an unbelievably high ceiling.
 White stonework.
@@ -29,7 +29,7 @@ Below them, Erika ran forward, lifted the corners of her skirt and bowed respect
  .........Because you are my double,
  and my piece."
 Erika and BERNKASTEL exchanged nasty smiles that would make anyone want to avert their gaze.
-"Hear me, witches, {y:0:Human}{n:0:human}s!!
+"Hear me, witches, Humans!!
  I hereby announce the assembly of a witches\' coven! The Court of Illusions is now in session!!"
 The ruler of the game spoke with words of power.
 Though her words were spoken inside such a vast space,
@@ -76,10 +76,10 @@ Maybe it\'s a good thing I won\'t have the right to speak for a while.
 I\'ll keep a cool head and calmly watch everything unfold......
 "I am the detective and the initiator of this coven, Furudo Erika.
  I will expose the culprit of the fifth game and bring this tale to a pleasing conclusion."
-Erika greeted the witches above her and the {y:0:Human}{n:0:human}s behind her once again.
+Erika greeted the witches above her and the Humans behind her once again.
 "I\'m looking forward to your performance too.
  Okay, remaining pieces, introduce yourselves in whatever order, and make it quick."
-"{y:0:Human}{n:0:Human}s!
+"Humans!
  Introduce yourselves, all of you...!"
 Urged by 45 to introduce himself, Kinzo stood up.
 "......I am Ushiromiya Kinzo.
@@ -229,15 +229,15 @@ Her panic finally disappeared, and she stood up straight.
 "So, Bern.
  Make your claims."
 "I, BERNKASTEL, claim...
-...that a {y:0:Human}{n:0:human}, Ushiromiya Natsuhi, is the culprit of this game."
+...that a Human, Ushiromiya Natsuhi, is the culprit of this game."
 "And you too Beato, okay?"
 "I, BEATRICE, claim...
-that the culprit in this game is not {y:0:Human}{n:0:human}!
+that the culprit in this game is not Human!
  I am the culprit!"
 BERNKASTEL, who smiled daringly, and BEATRICE, who smiled firmly, crossed gazes.
-"Do you hear this, witches, {y:0:Human}{n:0:human}s?!
+"Do you hear this, witches, Humans?!
  Two claims have appeared for a single truth!
- Is the culprit the {y:0:Human}{n:0:human} Ushiromiya Natsuhi?
+ Is the culprit the Human Ushiromiya Natsuhi?
  Or is the culprit the witch BEATRICE?!"
 "If the witch wins, the truth of the fifth game will disappear into darkness.
  If Erika wins, the witch illusion will be wiped from the game board.
@@ -400,11 +400,11 @@ Beato glanced at where Dlanor sat on the second‐floor balcony.
  How can you claim that Gohda and Kumasawa have alibis?"
 "Stay out of this, Erika.
  My opponent is Dlanor over there.
- A mere {y:0:Human}{n:0:human} like you is not fit to argue with a witch!"
+ A mere Human like you is not fit to argue with a witch!"
 ".............................."
 "No.
  There\'s no need for Dlanor to step forward.
- .........In fact, it is precisely this, a "mere {y:0:Human}{n:0:human}" defeating a witch, that will spell the end for the witch illusion.
+ .........In fact, it is precisely this, a "mere Human" defeating a witch, that will spell the end for the witch illusion.
  ......So go ahead.
  Use the red and blue as much as you like.
  ......I\'m ready for you."
@@ -416,7 +416,7 @@ Gohda and Kumasawa have no alibis.
  Unless you can eliminate that possibility, you cannot treat Natsuhi as the culprit}."
 Beato\'s blue truth struck out rapidly.
 The curtain had finally dropped, and the battle had begun......
-"......A {y:0:Human}{n:0:human} like Erika can\'t use any red.
+"......A Human like Erika can\'t use any red.
  How could she turn this around without calling Dlanor?"
 "Though Erika cannot use it, her master, Lady BERNKASTEL, can.
  ......We mustn\'t let our guards down."
@@ -427,9 +427,9 @@ The curtain had finally dropped, and the battle had begun......
  And it is not Lady BERNKASTEL\'s turn EITHER."
 "......Yes, that\'s right.
  There\'s no need for us to show up for something like this.
- ......This is important precisely because a mere {y:0:Human}{n:0:human} like Furudo Erika will defeat you, Beato."
-"......Because you\'ll be defeated by a {y:0:Human}{n:0:human}, we\'ll know.
- We\'ll all know that the fake witch who calls herself "BEATRICE the Golden" is nothing more than a sub‐{y:0:Human}{n:0:human} illusion."
+ ......This is important precisely because a mere Human like Furudo Erika will defeat you, Beato."
+"......Because you\'ll be defeated by a Human, we\'ll know.
+ We\'ll all know that the fake witch who calls herself "BEATRICE the Golden" is nothing more than a sub‐Human illusion."
 "*giggle*giggle*...
  If you really can do that, it\'ll be seriously interesting...
  Okay, Erika.
@@ -493,8 +493,8 @@ In other words, after Gohda returned to the guesthouse, he never went up to the 
  ......Well done, Erika.
  The alibis due to your seals on those doors have been acknowledged by Bern and elevated to the status of red truth."
 "Thank you very much, my master.
- ......I am the detective! A being greater than {y:0:Human}{n:0:human}s, who can invoke the red truth despite her {y:0:Human}{n:0:human}ity!"
-"You claim to be greater than {y:0:Human}{n:0:human}......?
+ ......I am the detective! A being greater than Humans, who can invoke the red truth despite her Humanity!"
+"You claim to be greater than Human......?
  You conceited brat! Live another thousand years, and then you can talk!"
 "It\'ll be a pain to have you try anything funny, so I\'ll make this clear now.
  In fact, I should have done this in the beginning.
@@ -802,19 +802,19 @@ The crime didn\'t occur before midnight.
 The crime couldn\'t have occurred after three o\'clock.
 In other words, there was no way for the murders to happen unless someone from the mansion committed the crime between midnight and three o\'clock......
 In order to protect Natsuhi, she had to establish that it was possible for someone other than Natsuhi to commit the crime.
-Ironically, the witch had to prove that a {y:0:Human}{n:0:human} could have committed the crime...
+Ironically, the witch had to prove that a Human could have committed the crime...
 "............Still, that\'s a tall order.
  ......Until 3 a.m., Erika was in the lounge.
  And you have to pass through there to get upstairs.
  In other words, she\'s practically like a sentry for the upstairs floor of the guesthouse."
 "......This is an unimaginative suggestion, but if it was possible to reach the upper floor without Erika noticing,
  we would probably be able to prove that the crime was possible for anyone."
-"It\'s probably possible for a {y:0:Human}{n:0:human} to climb up to the second‐story windows if they really wanted to."
+"It\'s probably possible for a Human to climb up to the second‐story windows if they really wanted to."
 Of course, Beato had also thought of striking back that way.
 ......And BERNKASTEL must have thought this as well.
 "Battler, Nanjo, Gohda, Kumasawa.
  We realize that the crime was impossible for all these people in the guesthouse.
- ......However, what about the {y:0:Human}{n:0:human}s in the mansion?!"
+ ......However, what about the Humans in the mansion?!"
 "As I have already said, and as my master has even proclaimed with the red truth,
  I was in the lounge on the first floor of the guesthouse.
  And to reach the second floor, one must pass through the lounge.
@@ -869,7 +869,7 @@ you used that seal of yours......on all the windows of the guesthouse......?
 ".........She\'s insane......
  ...At a house where she was welcomed as a guest, before anything had happened at all, she went out in all that rain,
  and did something like that......?"
-"For a normal {y:0:Human}{n:0:human}, it would certainly be an impossibly dubious action.
+"For a normal Human, it would certainly be an impossibly dubious action.
  ......However, she is the witch\'s piece."
 In the middle of all that rain,
  Erika sealed all the windows from the outside...
@@ -935,7 +935,7 @@ Erika left the cousins\' room at midnight.
 This is the last time we have confirmation that George and the others were alive.
 And after the party in the lounge started at 1 a.m,
  it was impossible to reach the cousins\' room by any method.
-"............All this from a mere {y:0:Human}{n:0:human}......"
+"............All this from a mere Human......"
 "This is quite bad...
  The night has been sealed up into an hour, ......and at this rate, there won\'t be many pieces left to suspect..."
 "......Damn you, Lady BERNKASTEL...
@@ -1177,7 +1177,7 @@ There\'s no proof, but Erika\'s words sound reasonable, so they\'re probably the
 "Power.........?"
 "By the name of the Finite Witch VIRGILIA,
  .........no, as the former witch BEATRICE, I grant you this red truth."
-{a:c:
+
 "
 Ushiromiya Natsuhi is not the culprit}!"}
 "............!!!!"
@@ -1312,7 +1312,7 @@ with her last ounce of strength......
  It\'s only possible for any of these murders to have taken place between midnight and one o\'clock!
  The only person without an alibi during this time was Ushiromiya Natsuhi...!
  From this point forward, the game will proceed treating the defendant as the true culprit."
-"Furthermore, because it has been fully proven that the crime was possible for {y:0:Human}{n:0:human}s...
+"Furthermore, because it has been fully proven that the crime was possible for Humans...
  BEATRICE, the Endless Witch...!!
  This Court of Illusions hereby denies your existence!!"
 "You have a chance to plead your case. Can you prove an alibi for Natsuhi?
@@ -1537,7 +1537,7 @@ Because LAMBDADELTA had acknowledged that the culprit of the tale was Natsuhi an
 "Why can\'t you just call it my sin? Why must you suspect Natsuhi?!!
  Acknowledge me!!
  I committed all the crimes!!
- It cannot be the work of a {y:0:Human}{n:0:human}! It cannot beeeeeeeeeeee!!"
+ It cannot be the work of a Human! It cannot beeeeeeeeeeee!!"
 The witch illusion had already been crushed, ......and Beato\'s voice didn\'t reach anyone.
 The verdict had already been announced.
  ......Everything had been decided.
@@ -1614,7 +1614,7 @@ into bits small enough to fit into it...!
 .........Beato let out a bold laugh.
 She laughed from inside the pot of goats.
 However, her expression was very different from the one she had intended.
- .........It was an expression not of a witch, ......but of a single {y:0:Human}{n:0:human} screaming out for the final time.
+ .........It was an expression not of a witch, ......but of a single Human screaming out for the final time.
 Then, the sea of goats parted.
 Dlanor leapt forward, slicing all the goats in her path with a single flash of her longsword.
 ......It was a thin slice, like cutting through butter.
@@ -1989,7 +1989,7 @@ It\'s a small but brilliant red truth.
 My last trump card, courtesy of VIRGILIA...!!
 Erika......this takes your theory back to square one...!!
 "Go for it...if you think you can."
-{a:c:
+
 Take thiiiiiiiiiiis}!!!
 "
 Ushiromiya Natsuhi is not the culprit}!!!"
@@ -2196,8 +2196,8 @@ make it clear that you had an intense hatred for your husband.
  Who would believe a profession of love in white text?
  No non‐red words can ever be trusted!!
  The only things that can be trusted in this world are the red truth and the pieces of evidence I offer to my master to obtain it!!"
-"You lying {y:0:Humans}{n:0:humans} can\'t speak the truth!!
- {y:0:Humans}{n:0:Humans} lacking the red truth have no right to speak of love or the heart or truth!
+"You lying Humans can\'t speak the truth!!
+ Humans lacking the red truth have no right to speak of love or the heart or truth!
  Did you know?
  Men aren\'t as stupid as you women think they are.
  Men never really take it seriously when a woman says "I love you"...!"

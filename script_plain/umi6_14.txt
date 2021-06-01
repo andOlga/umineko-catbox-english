@@ -268,7 +268,7 @@ First off, it was acknowledged that the victims\' locations were the same as the
 "
 Acknowledged}."
 The people in the room Erika had just left had been specified.
-It was the role of the {y:0:Human}{n:0:human} side to check every one of these seemingly obvious little details.
+It was the role of the Human side to check every one of these seemingly obvious little details.
 "<Good>.
  I\'ll continue.
  "Everyone else is in the cousins\' room!""
@@ -353,7 +353,7 @@ Damn. After insulting Beato so much and saying that the witch side had a huge ad
  ......You\'re trying to make me weaken my own position in some way."
 "No matter how good a move seems, it is a bad move when it is what the opponent wants...
  ......However, it will be hard to avoid the word "everyone" here......"
-The red truth can cut the weak reasoning of the {y:0:Human}{n:0:human} side apart over and over.
+The red truth can cut the weak reasoning of the Human side apart over and over.
 ......In the past, I feared its ruthlessness.
 However, I quickly learned that it could be used as a basis for a counterattack.
 "......The red truth is a secret weapon, a treasured sword.
@@ -415,7 +415,7 @@ Those two had made this move boldly and treated it like a powerful one,
  so it almost made it seem as though this move would greatly damage the witch.
 However, if you thought about it, ......Erika was just strangling her own neck...
 "We still do not know what sort of crime will occur in the future.
- Would it not be more advantageous to the {y:0:Human}{n:0:human}s if there are more people whose locations are not specified...?"
+ Would it not be more advantageous to the Humans if there are more people whose locations are not specified...?"
 ".........Be advised that now is not yet the time.........for the Lady or the Commander to reveal their thoughts."
 "I apologize for my idle chatter...
  ....................."

@@ -324,19 +324,19 @@ Who......are these people......calling to me.........but not by the name Tohya..
 Help me, Ikuko.........
  .........Someone else\'s memory............is hurting me.........
 My...head\'s......splitting.....................
-{a:c:......I can hear the sorrowful sound of wind......
+......I can hear the sorrowful sound of wind......
 And......that must be rain.
 ......Who......am I, again...?
 I am......Ushiromiya......}
-{a:c:
+
 "Ange! ......Ange...!!"}
-{a:c:
+
 "Please, please say something...!!"}
-{a:c:Voices...
+Voices...
  Voices calling to me}.
-{a:c:Dad......and Mom......}
-{a:c:......It can\'t be them......}
-{a:c:In 1986, ......on Rokkenjima,......Mom and Dad......}
+Dad......and Mom......}
+......It can\'t be them......}
+In 1986, ......on Rokkenjima,......Mom and Dad......}
 "......Ange, hang in there...!
  Can you hear Daddy\'s voice...?!"
 "Please, say something!! Ange!!"
@@ -602,7 +602,7 @@ Then, with that same smile on his face, he told her.
 "......I won\'t...
  .........Never......never ever..............."
 Ange leapt into Battler\'s chest......and sobbed.
-{y:0:Human}{n:0:Human}s are sad creatures, who can "learn" but not "unlearn".
+Humans are sad creatures, who can "learn" but not "unlearn".
 She had already learned.
 It was a cruel, terrifying, merciless thing, ......capable of destroying even the miracle called hope.
 ......However, there was still one tiny fragment left gripped in her hand.
@@ -618,7 +618,7 @@ She could stop herself from taking that single step into nothingness......
  ......And all of the fantasy people."
 "...............Yeah.
  ......This time......I have to......protect everyone........."
-{a:c:
+
 "Then shouldn\'t you hurry up a bit?"}
 From the other side of a rose bush came the sound of popcorn being eaten.
 ......It was LAMBDADELTA.

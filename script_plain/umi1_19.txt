@@ -82,7 +82,7 @@ But you really are pitiful, so I\'ll help you out just a bit.
 First of all, about that girl.
 She does have an existence that goes by the name of BEATRICE, but that doesn\'t necessarily mean that she is "a woman with an individual body".
 Do you understand what I mean?
- In other words, she\'s not some {y:0:Human}{n:0:human}.
+ In other words, she\'s not some Human.
  Her existence is a personification of the rules of this world.
 To beat her, you have to expose the rules of this world and unravel them.
 This can be likened to learning the rules of chess by watching a few games.
@@ -100,7 +100,7 @@ You can use it to dig through the prison you\'re locked in, or as a weapon to go
 ......Don\'t get the wrong idea—I have no intention of becoming your ally.
 I do feel empathy for you, but I won\'t help you.
 ...It\'s like how someone sitting in front of a television cannot reach the characters on screen no matter how much they yell at them.
-{a:c:
+
 THAT\'S HOW YOU CAN TELL I AM A WITCH, YOU SEE?}
 I intend to enjoy the endless tales that Beato is going to weave until I tire of them.
  But I\'m sure that alone won\'t hold my interest.

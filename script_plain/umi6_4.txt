@@ -17,7 +17,7 @@ She was apparently so well versed that even Nanjo, who had a vast knowledge of t
  I just hope I don\'t have to play the part of the victim."
 "Don\'t be imprudent, dear."
 "Well,
- the history of the {y:0:Human}{n:0:human} mystery genre is only about a century old.
+ the history of the Human mystery genre is only about a century old.
  Its tricks and ideas are limited to a few recycled patterns, so there\'s nothing left to show.
  No matter what kind of impossible crimes or locked‐room murders might occur,
  it\'ll be nothing more than one of the same classes of tricks dressed up to look like something new."
@@ -196,7 +196,7 @@ If it was a birthday cake, you really wouldn\'t be allowed to do this.
  The right answer is "one slice"."
 Battler was happy that someone had confirmed his answer.
  ......However, at some point, Erika\'s face had lost its cheeriness.
-".........To think that a {y:0:Human}{n:0:human} other than myself would answer "one"...and that it\'d be you, of all people."
+".........To think that a Human other than myself would answer "one"...and that it\'d be you, of all people."
 "Your answer was "one" too, Erika?
  ......I guess you were also thinking pretty far out of the box."
 "It would be truly foolish to arbitrarily decide the shape just because you heard it was a piece of cheese."

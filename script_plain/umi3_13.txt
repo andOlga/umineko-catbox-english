@@ -540,14 +540,14 @@ Hideyoshi and Eva retreated from the lobby.
  In most cases, as the ritual progresses and the victims increase, they begin to tighten their guard,
  and often, they hole up in one place and stop moving.
  That is extremely inconvenient for us."
-"...Are you saying that we witches are inferior to a bunch of {y:0:Human}{n:0:human}s in a group...?"
-"Witches are never inferior to {y:0:Human}{n:0:human}s...
- However, perhaps you could say that times change, and that {y:0:Human}{n:0:human}s have gotten their hands on a poison..."
+"...Are you saying that we witches are inferior to a bunch of Humans in a group...?"
+"Witches are never inferior to Humans...
+ However, perhaps you could say that times change, and that Humans have gotten their hands on a poison..."
 "......This wasn\'t a problem long ago, during the period when witches were believed in,
  but just like that annoyance Battler, people in the current era generally deny magic."
 "In other words, their existence itself is anti‐magical.
  As a result, at some point, they grew to possess a toxin inside their bodies that denies magic."
-"In other words, you\'re saying that the more {y:0:Human}{n:0:human}s there are,
+"In other words, you\'re saying that the more Humans there are,
  the stronger that anti‐magic toxin gets, and the greater the disadvantage is for us witches?"
 "......The total value of all their hearts\' power to deny magic, in other words their Magic Resistance, becomes the denominator to our Magic.
  Understand?
@@ -560,21 +560,21 @@ Hideyoshi and Eva retreated from the lobby.
 Fundamentally, magic possesses a vast power.
 It can even make a rain of fire fall from the heavens, divide a sea, and reviving a lost life isn\'t impossible either.
 However, that power is extremely weak against the toxin that rejects it.
-And that toxin has been piling up in {y:0:Human}{n:0:human}s since the time they forgot their respect for all things sacred,
+And that toxin has been piling up in Humans since the time they forgot their respect for all things sacred,
  ...until finally, this earth was covered with enough toxin that the miracles of magic could not be displayed.
 Thus, witches from across the world were chased from their dwellings.
-...They were forced to choose whether to throw away their magic and live as {y:0:Human}{n:0:human}s, or live in hiding in remote areas where the toxin of {y:0:Human}{n:0:human}s didn\'t reach.
+...They were forced to choose whether to throw away their magic and live as Humans, or live in hiding in remote areas where the toxin of Humans didn\'t reach.
 In that sense, Rokkenjima, with its population of only ten to twenty humans, was extremely favorable for witches.
 And even more favorable was the existence of the ghost story about the witch who lived in the Rokkenjima forest.
 ...Essentially, the fear that a witch might exist permeates the island to a certain extent,
- weakening the anti‐magic toxin from the {y:0:Human}{n:0:human}s.
+ weakening the anti‐magic toxin from the Humans.
 A small population, and a margin of possibility to accept a magical being.
 In other words, minds that were only weakly anti‐magical.
 ...Only in the valley where those two converged...could a witch live in modern times...
 "I see...
  ......So by this formula, we can say that there are several rules a witch must follow to use her power efficiently."
 "The first one is creating a scene.
- Create a murder scene that you couldn\'t imagine was done by {y:0:Human}{n:0:human}s, decorate it with occult ornaments,
+ Create a murder scene that you couldn\'t imagine was done by Humans, decorate it with occult ornaments,
  make it look very much like a witch exists, and by permeating the people with fear, make them believe that witches exist,
  and as a result, the anti‐magic power and the denominator for the power of the magic will be decreased."
 "......I see, so this is why the creepy magic circles of the first twilight were created?"
@@ -613,9 +613,9 @@ Beato tried to laugh heartily,
 "........................
  ...At this stage, it\'s probably too late to reduce the anti‐magic power by creating a scene.
  ...In that case, there\'s another move.
- Having the {y:0:Human}{n:0:human}s split up should work."
+ Having the Humans split up should work."
 "Mmhm, that is probably the most effective way.
- The smaller the number of {y:0:Human}{n:0:human}s, the more the denominator shrinks.
+ The smaller the number of Humans, the more the denominator shrinks.
  As a result, the magic power becomes immediately effective.
  ...In other words, the crucial point from here on will be how to destroy this barricade situation and have them split up into small groups."
 "However, they are already very cautious.

@@ -374,7 +374,7 @@ Hoping that when Mama comes home exhausted from her job, which is always so toug
 Hoping that when Mama comes home late Sunday night, almost certainly tired,
  I could make her even just a little brighter by sharing this happiness......
 I softly placed that letter on Mama\'s desk.
-{e:070:To Mama.
+To Mama.
 Good job with your work again today☆ Some of my happiness for you to share.
 ――From Maria}
 Then, I decided to give a present to Sakutaro for proposing this wonderful night.
@@ -747,7 +747,7 @@ And when Maria asked why,
  She will teach you."
 "............She......?
  Who\'s that?"
-{a:c:
+
 "I shall teach you in MARIA\'s place."}
 ".........B‐
 ............BEATRICE..............."
@@ -787,7 +787,7 @@ a commonplace practice for you?"
 According to BEATRICE, when a child "plays with dolls",
  the dolls sometimes gain an actual will and converse with them, in rare cases even moving on their own.
 However, the power that they can imbue into such a vessel is very weak due to their innocence.
-If even a tiny bit of the toxin from a {y:0:Human}{n:0:human}\'s common sense gets involved, and tells them that there\'s no way a doll can talk or move,
+If even a tiny bit of the toxin from a Human\'s common sense gets involved, and tells them that there\'s no way a doll can talk or move,
  it instantly reverts to being an ordinary non‐speaking doll......
 "However, ......this...Sakutarou stuffed animal of yours is different."
 "Uu!

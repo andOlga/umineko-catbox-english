@@ -260,12 +260,12 @@ Rosa showed them a single sheet of paper over her shoulder.
 "......Yes, that\'s right.
  It was set here, out in the open.
  I\'ll read it."
-{e:070:―People of the Ushiromiya family.
+―People of the Ushiromiya family.
 I wonder if your attempts at solving the epitaph\'s riddle for the gold are reaching a climax.
 Solving the riddle of the epitaph is the single method by which you all can stop me.}
-{e:070:You will not be able to stop me, or the ritual, by way of any other method of any kind.
+You will not be able to stop me, or the ritual, by way of any other method of any kind.
 I ask all of you that you take care not to mistake your goal.}
-{e:070:Attempting to search for me is useless.
+Attempting to search for me is useless.
 Attempting to escape from me is useless.
 Attempting to deny me is also—useless.
 —BEATRICE the Golden.}

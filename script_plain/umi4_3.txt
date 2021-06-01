@@ -259,7 +259,7 @@ if you don\'t think of that as truth, and earnestly desire to arrive at the deep
 "It\'s the same with newspapers.
  With only a single newspaper, you can only see things from the single viewpoint of the writer who wrote the article.
  Sometimes it takes reading multiple papers before you can process the information rationally and in three dimensions."
-"......Without love, the truth cannot be {y:1:‘seen’}{n:1:seen}.
+"......Without love, the truth cannot be ‘seen’.
  .........Mmm, that\'s got a nice ring to it, wahahaha."
 Maybe he found it amusing that a cheesy phrase like that had popped out of his mouth.
 For a while, he laughed, looking pleased.
@@ -638,8 +638,8 @@ If I can\'t accept something that indeterminate as truth,
  ......then where does the truth that I really want to find exist?
  ......And is that something that can be seen with the eyes?
 I might be surprised to discover...that even if the truth is thrust in front of me,
- ......it may be something that I cannot {y:1:‘see’}{n:1:see}...
-"......Without love, it cannot be {y:1:‘seen’}{n:1:seen}, is it..."
+ ......it may be something that I cannot ‘see’...
+"......Without love, it cannot be ‘seen’, is it..."
 ".........This fragment of yours is very lively.
  It doesn\'t bore me."
 "You said to me.

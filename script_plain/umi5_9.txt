@@ -147,7 +147,7 @@ However, .........wouldn\'t that be venturing a little too far for a walk with a
 "No, that\'s wrong!
  Making wishes is one thing, but it is only at the whims of gods, demons, and witches that they may be granted!
  You bear no sin.
- {y:0:Human}{n:0:Human}s bear no sin.
+ Humans bear no sin.
  You can even claim that I killed them if you so desire.
  No, I did kill them!
  I took pity upon your misery, and I lured the servant with the baby to the cliff and led them down it!"
@@ -168,13 +168,13 @@ However, .........wouldn\'t that be venturing a little too far for a walk with a
  If you\'re going to curse someone, curse me.
  However, witches have a patent on curses...!
  Let me take on this fight you\'re trying to pick with Natsuhi!!"
-{e:090:I am the Ushiromiya family alchemist, BEATRICE the Golden}!
-{e:090:If anyone picks a fight with the master I serve, I will fight in my master\'s stead}!
-{e:090:Revenge for 19 years ago, you say}?
-{e:090:I\'ll make you learn that\'s not even a blink of an eye for a witch who\'s lived a thousand years}!!
-{e:090:Gahahahahahaahahahahahahahaha}!!
-{e:090:So, you hate Natsuhi for wishing your death 19 years ago}?!
-{e:090:Let me make you remember just who it was that lured you off that cliff}...!!
+I am the Ushiromiya family alchemist, BEATRICE the Golden}!
+If anyone picks a fight with the master I serve, I will fight in my master\'s stead}!
+Revenge for 19 years ago, you say}?
+I\'ll make you learn that\'s not even a blink of an eye for a witch who\'s lived a thousand years}!!
+Gahahahahahaahahahahahahahaha}!!
+So, you hate Natsuhi for wishing your death 19 years ago}?!
+Let me make you remember just who it was that lured you off that cliff}...!!
 ......As the middle‐aged female servant cuddled the sobbing baby, she walked on a small path through the trees...
 Natsuhi had told her that the baby was too loud, so she tried to get as far from the rose garden as she could.
 ......She was completely unaware as to why she\'d gone out of her way to head in this direction.
@@ -278,11 +278,11 @@ The cliff, the broken fence, the roar of the sea,
 "Of course not!
  I killed that baby!
  It no longer exists in this world!"
-"......However, there is no red truth in the {y:0:Human}{n:0:human} world.
- In the {y:0:Human}{n:0:human} world, nothing can be trusted."
+"......However, there is no red truth in the Human world.
+ In the Human world, nothing can be trusted."
 "............That\'s right.
  Beato, you definitely killed that baby.
- But in the {y:0:Human}{n:0:human} world, it might still be considered alive.
+ But in the Human world, it might still be considered alive.
  ......Whether it\'s really alive or not, catch my drift?"
 "Are you saying.........that it actually was alive?!
  After falling to the rocks from that height......?!"
@@ -433,7 +433,7 @@ However, ......there is no respect given to the true main characters of this tal
 This is supposed to be the tale to which the Golden Witch BEATRICE invited Ushiromiya Battler.
 However, the host has been lost, and there is no longer a guest.
 ......With both inviter and invitee now gone, only the worst kind of tale remains.
-{a:c:Welcome to the fifth game:
+Welcome to the fifth game:
 End of the Golden Witch.
 Welcome to a party with neither host nor guests, hijacked by wicked witches......}
 ".........Ready, Battler?

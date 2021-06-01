@@ -108,7 +108,7 @@ Amakusa disappeared.
  Life is nothing without greed."
 I noticed that Mammon had suddenly appeared, her full hair streaming out in the wind by the prow of the ship.
 "It\'s true that a life of greed would be fun.
- But unlike you, {y:0:Human}{n:0:human}s have a limited lifespan."
+ But unlike you, Humans have a limited lifespan."
 "If a person remains greedy for eternity, that means that they have desires even in the last moment before they die.
  Having desires means that there\'s something they want.
  Something they don\'t have, some way they aren\'t complete."
@@ -117,7 +117,7 @@ I noticed that Mammon had suddenly appeared, her full hair streaming out in the 
 ".........I see.
  Then beings with lifespans need to make that kind of compromise?
  Our masters always had very long lifespans, so I\'ve never thought of it."
-"I wonder if {y:0:Human}{n:0:human}s live so that they can be satisfied.
+"I wonder if Humans live so that they can be satisfied.
  ......If so, to seek nothing is probably the easiest way to live.
  ...Yes, it makes sense why greed is one of the seven deadly sins."
 "*giggle*.
@@ -125,9 +125,9 @@ I noticed that Mammon had suddenly appeared, her full hair streaming out in the 
 Apparently that counted as praise in Mammon\'s eyes.
 She turned and gave a graceful curtsy.
 "Ange‐sama.
- Do {y:0:Human}{n:0:human}s live so that they can be satisfied at the moment of their death?"
+ Do Humans live so that they can be satisfied at the moment of their death?"
 "......It must be pretty tough to be somehow incomplete at the moment of your death, right?"
-"If so, then {y:0:Human}{n:0:human}s live only so that they can have a satisfying death.
+"If so, then Humans live only so that they can have a satisfying death.
  They live so that they can have a better death.
  They live to die."
 ............Wow, that\'s a hell of a thing to say.
@@ -139,7 +139,7 @@ That might be the same, in other words, as a desire to die—to die while whole.
  ......People live in order to be content.
  And they hope to die while still content.
  So, not knowing how to make yourself content, make yourself complete, is very tough."
-"How does a {y:0:Human}{n:0:human} do that?
+"How does a Human do that?
  Make their life complete."
 ".........Receiving validation, acceptance.
  That they\'re happy."
@@ -164,11 +164,11 @@ That might be the same, in other words, as a desire to die—to die while whole.
  ......Turns out the ultimate self‐fulfillment begins with self‐acceptance."
 "Well, of course.
  Because if you can become aware that you\'re fulfilled, there\'s no need for anyone else\'s acceptance.
- Just by taking notice of that small little thing, a {y:0:Human}{n:0:human}\'s foolish lifelong journey can be ended easily."
+ Just by taking notice of that small little thing, a Human\'s foolish lifelong journey can be ended easily."
 "Then they can spend the rest of their life effectively, playing and having a good time.
- A {y:0:Human}{n:0:human}\'s life is so ridiculous, kyahhahahaha!"
+ A Human\'s life is so ridiculous, kyahhahahaha!"
 Mammon\'s choice of words was bad, but it was surely the truth.
-If most of a {y:0:Human}{n:0:human}\'s life...
+If most of a Human\'s life...
 is a journey wishing for someone\'s acceptance so that they can achieve a satisfied death...
 .........then the moment they realize that the person to accept them is not someone else, but them themselves, they can end that pointless journey.
 Humans who have finished that journey can probably spend the rest of their lives as they wish with their heads held high.
@@ -190,7 +190,7 @@ Humans who have finished that journey can probably spend the rest of their lives
  I\'m sure he\'d cackle about how that too is life."
 "What a great way to live.
  I\'m enchanted."
-"......Pitiful {y:0:Human}{n:0:human}s who can\'t accept themselves...
+"......Pitiful Humans who can\'t accept themselves...
 wander about searching for it their whole lives, doing nothing but grumbling and complaining, unable to come to terms with anything, ultimately dying while still unfulfilled."
 "......How pitiful.
  Compared to people whose lives drag on without any purpose,
@@ -268,7 +268,7 @@ But I was young.
  I said there\'s no way you exist."
 "I\'m offended.
  We accept that we exist ourselves.
- We\'re not like {y:0:Human}{n:0:human}s, with their souls half‐asleep.
+ We\'re not like Humans, with their souls half‐asleep.
  ......‘I think, therefore I am’."
 "Whether you accept or deny magic, the existence of the magic called the Seven Stakes of Purgatory...is therefore a fact.
  ......As long as we accept ourselves, to borrow your words."
@@ -416,7 +416,7 @@ In the past, I insisted that I didn\'t believe in things like magic,
 But now I\'m different.
  I get the feeling I can look right at the thing called magic, and close in on its true nature......
 "......How frustrating.
- It\'s truly rare to find a {y:0:Human}{n:0:human} so free of the anti‐magic toxin in this day and age.
+ It\'s truly rare to find a Human so free of the anti‐magic toxin in this day and age.
  And she has such an uncommon genius for being a witch..."
 "That\'s right.
  ......If Ange‐sama tried to become a witch now,

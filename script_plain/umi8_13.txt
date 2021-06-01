@@ -105,7 +105,7 @@ If they\'re writing down an entire world in a single volume, ......then my life 
 "That\'s right.
  Even if the tale of the gods doesn\'t mention us,
  ......we are always the main character in the story we write for ourselves.
- .........Becoming aware of that fact is the first thing that separates witches from {y:0:Human}{n:0:human}s."
+ .........Becoming aware of that fact is the first thing that separates witches from Humans."
 They were on a balcony, which was really a room‐sized section that had been dug out of the bookshelf, with no guardrail along the cliff.
 It didn\'t go in very deep, making it look like a room that had been cut in half.
 It was filled with the tools of everyday life, as though this was Erika\'s hidden house.
@@ -139,7 +139,7 @@ How incredible that BERNKASTEL would lend her power to a worthless life that was
 The way Erika cackled was disturbing.
 Still, Ange realized that this was her way of answering the question.
 People don\'t become witches of their own choosing.
-If they\'re capable of living, all people want to live their lives as {y:0:Human}{n:0:human}s.
+If they\'re capable of living, all people want to live their lives as Humans.
 ......When something comes along to trip up that life, ......that\'s when the road to living as a witch opens.
 Even Furudo Erika, who calls herself the Witch of Truth, must be like this.
 The two Witches of Truth, sitting here drinking tea without even looking at each other, ......are exactly the same.
@@ -601,7 +601,7 @@ Beato also stood up and followed Battler.
 "Let\'s go, little sisters.
  Break time is over."
 "Chiester Troops, rise."
-The {y:0:Human}{n:0:human}s and the fantasy creatures all rose to their feet and left the arbor.
+The Humans and the fantasy creatures all rose to their feet and left the arbor.
 Afterwards, only LAMBDADELTA remained, still staring blankly at a point in empty space......
 "That black tea smells nice.
  Is it instant? Or from a tea bag?"
@@ -748,7 +748,7 @@ FEATHERINE left, followed by her cat attendants.
 After watching her until she was out of sight, BERNKASTEL disappeared as well.
 Like Erika\'s room, BERNKASTEL\'s was a balcony without a handrail, dug out of a bookshelf cliff.
 Ange had been kept waiting for some time, but she had waited patiently, looking down at the world below her...
-{a:c:
+
 "......I\'m late, aren\'t I?
  Sorry about that."}
 After BERNKASTEL appeared, the black cats gave a bow and vanished.
@@ -907,9 +907,9 @@ Even if it\'s red truth, I won\'t acknowledge it, won\'t permit it, and I defini
  I\'m the right one, I\'ll deny the red truth, deny the whole world...!!!"
 ".........Oh?
  ......In that case, try writing a red truth that only you can write.
- ......But how is it possible for a {y:0:Human}{n:0:human} to write with red truth?"
+ ......But how is it possible for a Human to write with red truth?"
 "It is possible!!
- There\'s a red ink that only {y:0:Human}{n:0:human}s can write with!!"
+ There\'s a red ink that only Humans can write with!!"
 Ange‐san, please calm down.
 "I\'m the right one!! The world\'s wrong!!
  I\'ll write it!!

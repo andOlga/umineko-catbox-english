@@ -186,7 +186,7 @@ Given this person\'s radically unconventional track record,
  That\'s actually pretty impressive..."
 "Itouikukuro0576.
  It was a pretty strange username.
- However, if you match the Japanese syllables to numbers, you can read it as 1‐{ruby:tou:10‐1‐9‐9‐6‐0576}."
+ However, if you match the Japanese syllables to numbers, you can read it as 1‐10‐1‐9‐9‐6‐0576."
 11,019,960,576.
 This massive number is equal to 18⁸.
 Eighteen to the eighth power.
@@ -201,7 +201,7 @@ Her manner of speaking was extremely condescending,
 This person had a sort of majestic grandeur about her which made that style of speech seem almost natural.
 ......At least, that\'s how it felt to me.
 .........In fact, it felt almost as though this was the manifestation of some noble being,
- who would have no need to show herself before mere {y:0:Human}{n:0:human}s under normal circumstances.
+ who would have no need to show herself before mere Humans under normal circumstances.
 Since I\'m not particularly a fan of hers,
  I guess this is proof that her mysterious charisma really is nothing to be laughed at......
 However, I didn\'t come here to talk to Hachijo Tohya, the mystery novelist.
@@ -216,7 +216,7 @@ Claiming to have discovered a new message bottle,
  they post either a very similar counterfeit or a new theory with their own interpretation of the truth, claiming that it was written by Ushiromiya Maria.
 They openly call themselves "Ushiromiya Maria",
  write up a new bizarre tale as if they had been there themselves and knew the truth,
- and send their stories out into the newest sea that {y:0:Humans have}{n:0:mankind has} discovered—the Internet—calling them the third or fourth message bottles...
+ and send their stories out into the newest sea that Humans have discovered—the Internet—calling them the third or fourth message bottles...
 All of the first Forgers were either simple pranksters...
 or crooks trying to swindle collectors.
 However, eventually, people who claimed to have solved the riddles of the message bottles\' tales and reached the "truth" started to appear,
@@ -283,11 +283,11 @@ He joked around with her for a bit so that they could start the conversation ove
 "......Do you think the Sun ever revolved around the Earth?"
 Hachijo suddenly started talking about the geocentric model.
 ......Ange was about to tell her not to answer questions with more questions, but she quickly realized what Hachijo meant.
-"......{y:0:Human}{n:0:Human}s used to support geocentrism.
+"......Humans used to support geocentrism.
  However, that theory has been disproved in the modern age.
  ......Does this mean that, at the instant the theory was denied, the sun stopped moving and the Earth started revolving around the Sun?"
 "......Of course not.
- The truth doesn\'t change based on what {y:0:Human}{n:0:human}s believe."
+ The truth doesn\'t change based on what Humans believe."
 "It\'s the same with this case.
  Your denying my truth amounts to the same thing."
 Several scholars before Galileo proposed the heliocentric model.

@@ -1,4 +1,4 @@
-{a:c:
+
 "It\'s Natsuhi, please open up...!!"}
 Natsuhi yelled as she knocked loudly and repeatedly.
 Shortly after, there was a heavy clunking sound, and the sound of the door to Kinzo\'s study unlocking could be heard.
@@ -127,7 +127,7 @@ Natsuhi urged the servants to go.
 "I\'ll go talk to Jessica too.
  ......She is the successor to the head now.
  I\'ll have to impress upon her that she needs to be appropriately aware of it."
-{a:c:
+
 "Wait."}
 As they each started to make their way out of the study, Krauss finally spoke.
 They stopped walking.
@@ -141,7 +141,7 @@ From those slightly weak words, Natsuhi understood that he had probably stopped 
  I will stay with my husband.
  Please call us on the phone if anything happens."
 "......Certainly."
-{e:150:"I said wait!!"}
+"I said wait!!"}
 When Krauss suddenly raised his voice, everyone jumped and turned around...
 Unable to comprehend what she had done to spark her husband\'s wrath, Natsuhi ran up to him.
 "What\'s wrong, dear...
@@ -452,7 +452,7 @@ But even so, Natsuhi begged the sleeping Kinzo to forgive and help them...
 It had only been a few hours since his passing.
 Perhaps his soul was still here, listening to her.
 ......Believing this, Natsuhi begged for Kinzo\'s forgiveness and help even more earnestly......
-{a:c:
+
 "Noisy woman.
  Don\'t I always say that I value silence?"}
 ".........Huh—"

@@ -16,7 +16,7 @@ A false appearance intended for those yet to reach the truth of BEATRICE\'s iden
 ...me in another world?"
 "Lion.
  ......It is a tale about me, who is also another world\'s you.
- ......The tale of the world where I live as a witch, not a {y:0:Human}{n:0:human}..."
+ ......The tale of the world where I live as a witch, not a Human..."
 "............I sometimes imagine "what if" scenarios for my own life.
  ......However,
  ......the tale you tell...
@@ -278,7 +278,7 @@ When I happened to touch my cheek,
 ......With a miserable expression on my face,
  I was...
 ...crying......
-{a:c:
+
 Shannon......
 ...Shannon.........}
 From far away, ......I could hear someone calling to me.

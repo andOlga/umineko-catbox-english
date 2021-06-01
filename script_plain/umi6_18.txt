@@ -230,8 +230,8 @@ She had an overpowering and evil presence about her, ......strong enough to make
 Was it still necessary for her identity to be confirmed?
 Who could possibly mistake this overwhelming presence?
 "B‐
-......{f:5:Beatriiiiiiii
-ceeeeeeeeee}!!!"
+......Beatriiiiiiii
+ceeeeeeeeee!!!"
 "‘See you in hell’ is a favorite parting line of mine, but—"
 "Identity confirmed.
  It is the great Lady BEATRICE!!"
@@ -484,7 +484,7 @@ unsolvable...
  .........I know that because—"
 "................................."
 "You are—"
-{a:c:
+
 A detective.}
 Erika threw off her wedding dress as though it was a cape......
 Yes.
@@ -1400,7 +1400,7 @@ It had appeared as though Erika had been defeated, denied by the red truth.
 ......To goats who can\'t see more than a single truth, it probably looks as though I\'ve lost...
 "Pft, ......*cackle*cackle*cackle*cackle*...
  Next is the real one.
- ......This is the answer from a {y:0:Human}{n:0:human} capable of understanding multiple truths.
+ ......This is the answer from a Human capable of understanding multiple truths.
  ............It looks like the tale of fantasy will end with the second twilight.
  ......So, why don\'t I carry out the remaining twilights...
 ...and open the door to the Golden Land.
@@ -1491,9 +1491,9 @@ All of the Seven Sisters also crowded about him in delight.
  ......heheh,
  ......that\'s a nasty trick...
  You sure something like this counts......?
- With a trick like this one, those {y:0:Human}{n:0:human}s will start complaining again about how this isn\'t mystery......"
+ With a trick like this one, those Humans will start complaining again about how this isn\'t mystery......"
 "No, it\'s a splendid trick!
- That just can\'t be {y:1:‘seen’}{n:1:seen} by people without love...!
+ That just can\'t be ‘seen’ by people without love...!
  ......Battler‐san,
  ........Battler‐san,
  ......waaaaaaaaaaaaaahhh...!!!"

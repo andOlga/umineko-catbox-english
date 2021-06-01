@@ -720,7 +720,7 @@ The key to the chapel truly was the object inside the envelope I gave Maria}."
  Maria didn\'t have the handbag under her complete supervision!
  There\'s no need for magic.
  It\'s a locked room trick that\'s possible for a human!"
-"The {y:0:Human}{n:0:human} culprit handed Maria the key,
+"The Human culprit handed Maria the key,
  and by making Auntie Rosa use it the next morning, they created the illusion that there was a locked room during that time."
 "You can\'t deny the possibility that during that time, the culprit took the key from Maria\'s handbag, used it,
  and returned it to the handbag by morning!!"

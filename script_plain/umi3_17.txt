@@ -1162,7 +1162,7 @@ The brutal witch raised her foot high...
  I am the witch!
  I am the Golden Witch, BEATRICE!!!
  Diiiiiiiiiiiiiiiiiiiiiiiieee!!"
-{e:170:"Yeeeeeahhhh, it\'s no good, it\'s no goddamn good at aaaaaaaaaaaaaaaall!!!"}
+"Yeeeeeahhhh, it\'s no good, it\'s no goddamn good at aaaaaaaaaaaaaaaall!!!"}
 "Wha‐.........what...
 ...is this......?
  ...Wh‐.........where am I......?"
@@ -1589,7 +1589,7 @@ Kyrie did not leave anything written down}!
  .........This is all that I can do......"
 Beato landed on her feet in the reconstructed hall,
  approached Kyrie\'s fallen body, and wandered around observing.
-"I, I don\'t quite understand the process of how the {y:0:Human}{n:0:human} side fights...
+"I, I don\'t quite understand the process of how the Human side fights...
  .........Evidence was required, was it...?
  ......Then what should I search for?"
 "The purported Great Lady BEATRICE is getting down on her knees and crawling around!
@@ -1659,9 +1659,9 @@ However, Kyrie\'s body did not answer.
 No dead person existed that would answer Beato, now that she had lost the Endless Magic...
 "It\'s pointless, pointless pointle~ssss.
  Toying with the dead is a privilege only for witches.
- For you, who is neither a witch nor even a {y:0:Human}{n:0:human}, no one exists who will lend a hand!!"
+ For you, who is neither a witch nor even a Human, no one exists who will lend a hand!!"
 "You will be alone for all eternity!!
- You have no witch or {y:0:Human}{n:0:human} allies, and no one will save you!!
+ You have no witch or Human allies, and no one will save you!!
  If that frustrates you, why don\'t you cry forever?!
  Why don\'t you apologize, say "I\'m sorry I\'m so useless" forever?!
  Ahhahahahahahahahahahaha!!"
@@ -1817,7 +1817,7 @@ However, the roar drowned out that flicker, ...and made it return once more to t
  ...and maybe I am now being called Ushiromiya Eva..."
 "......But you know what? That by itself doesn\'t mean that witches and magic are denied!!
  ...I\'ll teach you now..."
-"I\'ll teach you that I am not Ushiromiya Eva, nor a {y:0:Human}{n:0:human},
+"I\'ll teach you that I am not Ushiromiya Eva, nor a Human,
  ......but a real witch...!!!
  Look and see this red truth!!"
 The witch clapped her hands, and time advanced in the world of the game board.
@@ -1831,7 +1831,7 @@ Beato went pale.
  ...That made it clear that the move the evil witch was about to make was bad enough to have such an effect on Beato...
 "This time,
  ......I\'ll give you a fatal move that you won\'t be able to talk yourself out of.
- ...No, I\'ll make this move against all {y:0:Human}{n:0:human}s who support you.
+ ...No, I\'ll make this move against all Humans who support you.
  Prepare yourself and listen...to my move."
 "D‐......don\'t... That move is.........!"
 "Beato, stay back...!!
@@ -1847,9 +1847,9 @@ Battler is neither the culprit nor an accomplice}.
 By this, we can establish a perfect alibi for Eva}."
 "Wh‐......whaat...............?"
 "I\'ll seal you,
- and {y:0:Human}{n:0:human}s as well,
+ and Humans as well,
  ......in a red barrier of death that most certainly cannot be escaped from.
- Farewell, lowly {y:0:Human}{n:0:human}s.
+ Farewell, lowly Humans.
  Sleep for all eternity in an absolute locked room of magic with no exits.
  ......Now, prepare yourself.
  For the red truth."
@@ -2122,11 +2122,11 @@ Then she stood up, and spoke to the witch.
 "............I will make a move as a counterattack to yours."
 "Huh?
  How can you possibly cut up this perfect checkmate?"
-"How can this checkmate, which is completely impossible for {y:0:Human}{n:0:human}s to break,
+"How can this checkmate, which is completely impossible for Humans to break,
  possibly be broken by the likes of you?!"
 ".........B‐BEATRICE, you couldn\'t be..."
 "Mm.
- ...What about a move that a {y:0:Human}{n:0:human} cannot make.
+ ...What about a move that a Human cannot make.
  ......I will counterattack you with a move I can use because I am a witch..."
 "A move you can use because you are a witch......?
  ......Wh‐...what are you planning to do...?"
@@ -2166,7 +2166,7 @@ It was like using her own sword to slit her own throat.
 in erasing this form of mine along with you...!"
 "A‐...are you insane?!?!
  S‐stop it...!
- I still want to be a witch! I don\'t wanna be {y:0:Human}{n:0:human}...!!"
+ I still want to be a witch! I don\'t wanna be Human...!!"
 ".........Witch, please return to your seat.
  Please, receive the human side\'s response from your seat."
 "Wh‐what are you doing?!

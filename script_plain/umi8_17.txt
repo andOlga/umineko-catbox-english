@@ -1,7 +1,7 @@
 The majestic Witch of Theatergoing, Drama, and Spectating set down her pen, looked at the ceiling, and sighed deeply.
 The desk was covered with a scattered mountain of paper covered with writing.
 Words were packed onto the pages in a thin, high‐information‐density language that only the great ones could read.
-Each letter of this language carried the same amount of information as several books in the {y:0:Human}{n:0:human} world.
+Each letter of this language carried the same amount of information as several books in the Human world.
 These letters filled every inch of this huge pile of paper.
 ......Surely, she had written out every little detail of some world.
 "............I have written all there is to write.
@@ -9,10 +9,10 @@ These letters filled every inch of this huge pile of paper.
 She stood up, sat down in her favorite rocking chair, and rocked peacefully for a while.
 "How much must one write before they can say they\'ve written it all?
  ......That is what has bothered me in all my years of writing.
- ......The adventures of {y:0:Human}{n:0:human}s can be very interesting as a tale.
+ ......The adventures of Humans can be very interesting as a tale.
  However, even I still don\'t know when that adventure stops being an adventure."
 "......My old friend, who is now gone...
-once said that a {y:0:Human}{n:0:human}\'s life is an adventure from beginning to end, so there is never a correct time to set down one\'s pen.
+once said that a Human\'s life is an adventure from beginning to end, so there is never a correct time to set down one\'s pen.
  ......I do not agree.
  I think one must put away the pen at some point.
  I believe one should write a tale to an appropriate point, then leave the trailing notes and opinions of what follows to the minds of the spectators."
@@ -184,16 +184,16 @@ A short break between trips, backdropped by the pleasant scent of black tea.....
  When something else cries."
 ".........Sounds good.
  Let\'s do that."
-{a:c:
+
 ""We will meet again. When something else cries.""
 }
-{a:c:
+
  Ahhahahahahahahahahaha......
 }
-{a:c:
+
  The happy voices of the witches faded into the distance.
 }
-{a:c:
+
  So long, everyone.
  See you again, when something else cries.
 }

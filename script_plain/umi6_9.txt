@@ -129,7 +129,7 @@ However, with her back still to Dlanor, ......Erika kept on saying disconnected 
  .........A colleague asked him to come and he couldn\'t turn him down.
  Work suddenly called him in.
  His buddy called him up and he couldn\'t get off the phone."
-{e:090:He made too much curry.
+He made too much curry.
 He started going to theater practice more often.
 He started folding paper towels differently.
 ‘Thanks, I\'ve already eaten.’
@@ -141,12 +141,12 @@ He spent the night over at his stage friends\' place.
  Someone just left it behind.’
 The drain and sink were cleaned out.
 There were receipts and point cards from places he didn\'t usually go.}
-{e:090:The muddy soles are evidence that you went out on Monday when it was raining.
+The muddy soles are evidence that you went out on Monday when it was raining.
 It matches the strange symbol on the calendar.
 None of your theater friends have hair this long.
 Leading questions.
 How do you know the plot of a movie you haven\'t seen yet?}
-{e:090:Evidence,
+Evidence,
  evidence,
  circumstantial evidence. Observation,
  surveillance,
@@ -155,10 +155,10 @@ How do you know the plot of a movie you haven\'t seen yet?}
  wiretapping,
  asking around,
  questioning.}
-{e:090:I found plenty of evidence that I loved you.
+I found plenty of evidence that I loved you.
 I found plenty of evidence that you loved me.
 But I can\'t find any evidence that you haven\'t been cheating on me.}
-{e:090:Give it a rest.
+Give it a rest.
  If you love me, then trust me.
  If you can\'t do that, then you don\'t love me anymore.
  How could I love someone like that?
@@ -173,7 +173,7 @@ But I can\'t find any evidence that you haven\'t been cheating on me.}
  she\'s suddenly told us she won\'t be able to perform.
  I need to rewrite the script by tomorrow.
  I don\'t have the time for this.}
-{e:090:You know what, if you really find it that hard to trust me, we\'re through.
+You know what, if you really find it that hard to trust me, we\'re through.
  Don\'t bother coming over again,
  just go home,
  I don\'t love you anymore.
@@ -181,15 +181,15 @@ But I can\'t find any evidence that you haven\'t been cheating on me.}
  go kill yourself, you creep.
  Stop shouting, dammit, I\'ve got neighbors.
  Just get the hell away from me and never come back.}
-"......Without love, it cannot be {y:1:‘seen’}{n:1:seen}?
+"......Without love, it cannot be ‘seen’?
  ............Hah.
  That\'s backwards."
 "...................................."
 "Because of love,
- you end up {y:1:‘seeing’}{n:1:seeing} things that don\'t even exist."
-......It\'s nothing more than an illusion, one that no one except you can {y:1:‘see’}{n:1:see}, and one that even you can never touch.
-Without love, {y:0:Human}{n:0:human}s would never need to {y:1:‘see’}{n:1:see} that fiction.
-Because we can {y:1:‘see’}{n:1:see} it, ......we doubt.
+ you end up ‘seeing’ things that don\'t even exist."
+......It\'s nothing more than an illusion, one that no one except you can ‘see’, and one that even you can never touch.
+Without love, Humans would never need to ‘see’ that fiction.
+Because we can ‘see’ it, ......we doubt.
  We suffer.
  We cry out loud.
 ".........Right now, I am happy.
@@ -222,7 +222,7 @@ I request that you submit evidence that I have been CHEATING."
  Blue and blue cancel each other out, but the number of pieces used to construct each is overwhelmingly unbalanced."
 When both opponents meet with the blue truth,
  the decision is almost always based on which side has more pieces of evidence, regardless of the actual circumstances.
- ......This is especially true in the {y:0:Human}{n:0:human} world.
+ ......This is especially true in the Human world.
 So, by the standard rules, Erika would win...
 "First point to me.
  Your next move?"
@@ -259,7 +259,7 @@ But that meant that regardless of what the real truth had been,
 Erika had succeeded in crushing her opponent with the truth she espoused...
 ...that her former boyfriend no longer loved her and was cheating on her.
 Her opponent had no way to argue back.
-.........After all, {y:0:Human}{n:0:human}s are not allowed to use ――――.
+.........After all, Humans are not allowed to use ――――.
 A splendid game, a splendid finish from a superior position.
 Regardless of the truth of her opponent, Erika could win.
 A splendid......victory.
@@ -272,9 +272,9 @@ Dlanor understood this, but even so,
 "It\'s only natural that the detective wins."
 "Even before you became Lady BERNKASTEL\'s piece, you truly were a splendid wielder of the blue TRUTH.
  .........However, Lady ERIKA.
- {y:0:Human}{n:0:Human}s are only allowed to use the blue TRUTH.
+ Humans are only allowed to use the blue TRUTH.
  And the only thing that can counter blue truth is red TRUTH.
- And {y:0:Human}{n:0:human}s are not allowed to use the red TRUTH."
+ And Humans are not allowed to use the red TRUTH."
 "............In that case,
  ...how should your opponent have shown his TRUTH?"
 ".........Who knows.
@@ -288,11 +288,11 @@ Dlanor understood this, but even so,
  .........Our game did end with your VICTORY.
  However,
  ......you still have not denied the six points of blue truth evidence that I showed to claim that I still loved YOU.
- ......Even you are {Y:0:HUMAN{n:0:human}}.
+ ......Even you are HUMAN.
  You are unable to use the red truth that would disprove those POINTS."
 "Later on, I used the detective\'s authority to have all eighty‐four points transformed into red truth.
  By the power of my master...!
- I am {y:0:Human}{n:0:human}, yet superior to {y:0:Human}{n:0:human}s.
+ I am Human, yet superior to Humans.
  A detective and a witch.
  I am the Witch of Truth, Furudo ERIKA.
  Any other questions? Parting remarks?"

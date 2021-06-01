@@ -1092,7 +1092,7 @@ She grabbed at the sleeves of her dress and took out some sort of card.
 "True.
  There\'s nothing you couldn\'t do with that much money."
 "Very true.
- The strongest magic to counter the {y:0:Human}{n:0:human}s\' anti‐magic toxin is this magic of gold.
+ The strongest magic to counter the Humans\' anti‐magic toxin is this magic of gold.
  ......It may be that this card holds greater power than the ingots."
 "Certainly.
  Cash would be much more agreeable than ingots."
@@ -2775,7 +2775,7 @@ Some of those theories named Eva as the culprit, which tormented her even more.
 But Eva used even that to create the cat box.
 And until the moment of her death, she protected it.
 She protected the lock that held the cat box shut.
-So, no {y:0:Human}{n:0:human} would ever reach the truth inside the cat box.
+So, no Human would ever reach the truth inside the cat box.
 Not unless the witches who crossed the sea of fragments opened the lock......
 "This is the truth."
 "...............You\'re lying......
@@ -2792,11 +2792,11 @@ It was as though cracks had opened up all over her and blood was leaking out of 
 "What\'s that?
  You want me to announce it clearly with the red truth?
  Then I\'ll do that, just for you."
-{a:c:
+
 "‘
 This is all truth}
 }
-{a:c:
+
 "NOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!"
 }
 Ange\'s scream covered up Bern\'s red truth.
@@ -2825,7 +2825,7 @@ Then, bits of her began to pile up on the chair, ......until she was nothing but
 "Ahhahahahahahahahahahahah, aaaahhahahahahaaaaahhaahaha!!
  Is the truth really such a precious thing?
  How absurd, how foolish!!"
-"Why can\'t {y:0:Human}{n:0:human}s control their own truth?
+"Why can\'t Humans control their own truth?
  They stupidly search for the truth like that\'s all that matters, and when they finally find it and can\'t stand it, they turn themselves into scrap meat!!"
 "Hey, are you watching?
  Clair?
@@ -3045,7 +3045,7 @@ Her red‐black innards...
  I never wanted to live in a body like this!!"
 "This body isn\'t even capable of love......!!
  What\'s...what\'s the point in living like that?!
- This isn\'t a {y:0:Human}{n:0:human}\'s life...!!
+ This isn\'t a Human\'s life...!!
  It\'s like being furniture!!"
 "That\'s right, I\'m...furniture......!!
  Furniture...!!
@@ -3224,7 +3224,7 @@ However, it had no effect, ......like cutting the reflection of the moon on the 
  And that means this is no mystery.
  It\'s fantasy."
 "......Huuh...?"
-It is impossible for an unprovable truth to become truth in the {y:0:Human}{n:0:human} world.
+It is impossible for an unprovable truth to become truth in the Human world.
 In other words, even the truth cannot leave the cat box.
 "Ahhahahahahahahahahahaha!!
  Are you trying to shut the truth inside the cat box?
@@ -3341,4 +3341,4 @@ As he said this, Will held Lion tight.
  There are no more scenes for these two pieces... Put them away."
 A billion, a trillion, a quadrillion cats all bared their fangs.
 In the starry sky of cat eyes, countless flesh‐colored mouths opened, exposing countless teeth.
-{a:c:......The world was wrapped in flesh and blood and fangs}.
+......The world was wrapped in flesh and blood and fangs}.

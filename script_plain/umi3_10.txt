@@ -89,13 +89,13 @@ well, I\'ll put forward my ideas."
  ......What did you mean in the beginning, about how, roughly speaking, it could be divided into three parts?"
 "Well...I just mean what I said.
  I think that overall, the epitaph can be divided into three parts."
-"First, there are the five lines up to and including "There the {loghint:kagi:key} to the {loghint:ougon:gold} sleeps".
+"First, there are the five lines up to and including "There the key to the gold sleeps".
  Up until this point is the first part, which points to the location of the key."
-"And then there\'s the part formed by the eleven lines up until the tenth twilight, which refer to the location of the {loghint:ougonkyou:Golden Land} itself."
+"And then there\'s the part formed by the eleven lines up until the tenth twilight, which refer to the location of the Golden Land itself."
 "And the remaining six lines make up the part after the Golden Land has been reached."
 "I see.
  The key, the Golden Land,
- and the Golden Land\'s {loghint:takara:treasure}; it can be divided into these three parts."
+ and the Golden Land\'s treasure; it can be divided into these three parts."
 "Even we have been able to grasp that much.
  The three sections that refer to the key, the door, and the treasure."
 "...Nii‐san, don\'t butt in any more than you have to!
@@ -104,9 +104,9 @@ well, I\'ll put forward my ideas."
  Please continue.
  ......We recognize the same thing regarding what you said.
  So then?"
-"......I wonder what that thing in the beginning, the "{loghint:natsukashiki:beloved} {loghint:kokyou:home of old}", means.
+"......I wonder what that thing in the beginning, the "beloved home of old", means.
  Thinking about it normally, would it refer to Grandfather\'s home?"
-"Since he explicitly mentioned that it\'s {loghint:natsukashiki:beloved}, I can imagine that it\'s a home he thought about very deeply.
+"Since he explicitly mentioned that it\'s beloved, I can imagine that it\'s a home he thought about very deeply.
  ......Didn\'t Father come from Odawara?"
 ".........Odawara is definitely where he was born,
  but I don\'t think this home Father loved was Odawara.
@@ -119,7 +119,7 @@ well, I\'ll put forward my ideas."
 "......Probably.
  Father really hadn\'t wanted to become the Ushiromiya family head."
 "So where is it?
- And is there a {loghint:kawa:river} where {loghint:ayu:sweetfish} swim?"
+ And is there a river where sweetfish swim?"
 "......Maybe there was at the time.
  I\'m sure that there has been a lot of development there by now, so the sweetfish might have disappeared.
  It would be extremely difficult to investigate whether there were sweetfish there during the time Grandfather was a boy."
@@ -133,11 +133,11 @@ well, I\'ll put forward my ideas."
  ...Probably, even if Father dragged himself to the actual location,
  by now, even he wouldn\'t be able to determine where it was that he lived."
 "They\'ve had a remarkable revival over there, after all..."
-"............Doesn\'t any place name come clearly to mind after hearing "{loghint:ayu no kawa:sweetfish river}"?"
+"............Doesn\'t any place name come clearly to mind after hearing "sweetfish river"?"
 "Not really.
  I mean, they\'re sweetfish, right?
- People say they live in rivers with {loghint:kirei:clean} {loghint:mizu:water}, so there are countless rivers we could guess at.
- Any {loghint:ogawa:stream} that Dad innocently went {loghint:ayuzuri:sweetfish‐fishing} in was probably buried by the development later.
+ People say they live in rivers with clean water, so there are countless rivers we could guess at.
+ Any stream that Dad innocently went sweetfish‐fishing in was probably buried by the development later.
  It would be different if we had a map from before the war, or a person who knew a lot about how the area was before the war, but..."
 "......It probably isn\'t something like that."
 "What do you mean...?"
@@ -149,22 +149,22 @@ well, I\'ll put forward my ideas."
 "I wonder what it is that\'s being presented, then...?"
 "......I don\'t know.
  In any case, after just these two lines, it\'s not something vague like you don\'t know which river it is...
-you\'re able to narrow it down and say specifically what "{loghint:kawa:river}"."
+you\'re able to narrow it down and say specifically what "river"."
 "......It may be that this isn\'t a "river" with water flowing down it.
  ...The "sweetfish river" might be some kind of metaphor.
  ......What kind of image does the word sweetfish have?"
-".........Sweetfish are like {loghint:shake:salmon}.
- They\'re {loghint:tansui‐gyo:freshwater fish}, but they go out into the {loghint:umi:ocean} right after they\'re born.
+".........Sweetfish are like salmon.
+ They\'re freshwater fish, but they go out into the ocean right after they\'re born.
  And when they get big, they return to the river to live there,
- and then they {loghint:sanran:spawn} there and end their lives there."
-"Well, they leave their home at one point, but the part about them getting big and returning there to lay {loghint:tamago:eggs},
+ and then they spawn there and end their lives there."
+"Well, they leave their home at one point, but the part about them getting big and returning there to lay eggs,
  that might have a family prosperity type of image."
 "Huh.
- They\'re freshwater fish, but they can live in the {loghint:kaisui:ocean}?
+ They\'re freshwater fish, but they can live in the ocean?
  I didn\'t know that.
- I thought they were {loghint:kawa‐zakana:river fish}, so they couldn\'t go out into the sea."
+ I thought they were river fish, so they couldn\'t go out into the sea."
 "And they are also called 香魚 (aroma fish) because they have a pleasant smell.
- I have never eaten one, but I have heard that they are very delicious when {loghint:shioyaki:grilled with salt}."
+ I have never eaten one, but I have heard that they are very delicious when grilled with salt."
 "Whoa, Natsuhi‐san!
  You\'ve never eaten salt‐grilled sweetfish?!
  They\'re delicious!
@@ -172,7 +172,7 @@ you\'re able to narrow it down and say specifically what "{loghint:kawa:river}".
 "It is a food for commoners.
  It isn\'t appropriate for your mouth."
 "......This is just my wild idea,
- ...but the image I get from a sweetfish river has made me suspect a {loghint:kakeizu:family tree} before.
+ ...but the image I get from a sweetfish river has made me suspect a family tree before.
  The sweetfish go out into the ocean for a time, but they return to the river where they were born to spawn, right?
  .........It makes me think about myself."
 "......You\'re right.
@@ -192,15 +192,15 @@ that I have sometimes suspected that it refers to you and Maria‐chan."
 "Have you ever let Maria‐chan read the epitaph?"
 "Um, yes. Of course I have.
  But she didn\'t seem to have a clue.
- ......She didn\'t have a clue, and she kept going on about that same occult stuff, about how it was a {loghint:fukkatsu:resurrection} {loghint:gishiki:ceremony} for the witch."
+ ......She didn\'t have a clue, and she kept going on about that same occult stuff, about how it was a resurrection ceremony for the witch."
 "............A connection between Father and Maria.
  ...Certainly, they do share that occult hobby, but they never interacted.
  ...I can\'t imagine it refers to Maria either."
-"......What interests me is the fact that he explicitly added the word "{loghint:natsukashiki:beloved}" at the beginning.
+"......What interests me is the fact that he explicitly added the word "beloved" at the beginning.
  ......Like you all said just now,
  if Father was reluctant about becoming the Ushiromiya family head,
  would he describe it that way?
- ...I don\'t think it is Odawara, which points back to the Ushiromiya {loghint:honke:main family}."
+ ...I don\'t think it is Odawara, which points back to the Ushiromiya main family."
 "......I believe that this word "beloved" here at the beginning...
 definitely refers to a place full of very important memories to Father."
 "...............Hmmmmmm.
@@ -218,12 +218,12 @@ definitely refers to a place full of very important memories to Father."
  And there\'s no guarantee it even means a literal river."
 "...Seriously.
  The heck does it mean by sweetfish?
- Were they a {loghint:koubutsu:favorite dish} of Dad\'s?
+ Were they a favorite dish of Dad\'s?
  Or is there some special meaning?
  Is it pointless to read too deeply into it?"
 "...If you don\'t have both a micro and a macro perspective, your field of vision grows narrow.
- ......Think not too deeply, about a river with {loghint:sakana:fish} swimming in it, or some kind of {loghint:nagare:flow},
- ...something you can {loghint:kudaru:go down} or {loghint:noboru:go up},
+ ......Think not too deeply, about a river with fish swimming in it, or some kind of flow,
+ ...something you can go down or go up,
  keep those kinds of abstract images in mind, and we may be able to come up with more out‐of‐the‐box ideas."
 "And via the three lines that follow, the answer for the "sweetfish river" ends up at the "key to the Golden Land"..."
 "If you think about it this way, I wonder if it was a mistake to split it into three parts.
@@ -234,17 +234,17 @@ definitely refers to a place full of very important memories to Father."
  and "the treasure of the Golden Land"."
 "Hmmm... ......Truly interesting.
  While we have this opportunity,
- would you mind continuing and telling us your opinion about the most central portion of the {loghint:hibun:epitaph},
- up until the {loghint:dai‐juu no ban:tenth twilight} where we arrive at the Golden Land?"
+ would you mind continuing and telling us your opinion about the most central portion of the epitaph,
+ up until the tenth twilight where we arrive at the Golden Land?"
 "......That\'s the most symbolic, ...and also the most disturbing part."
-"Since it keeps mentioning the word {loghint:ikenie:sacrifice},
- I can\'t help but think it has something to do with Father\'s occult {loghint:gishiki:rituals}...
+"Since it keeps mentioning the word sacrifice,
+ I can\'t help but think it has something to do with Father\'s occult rituals...
  .........How do you see it, Kyrie‐san?"
 Kyrie recrossed her arms several times,
  peering into the paper with the epitaph copied onto it as though she was looking through it...
 "...........................
  .........This is...very difficult.
- ...By starting with "You who laid {loghint:te:hand} upon the key",
+ ...By starting with "You who laid hand upon the key",
  it probably means that you won\'t be able to continue without understanding the key.
  ...I\'ll have to give up, but I\'ll take a shot at it anyway."
 "......Just like how the "sweetfish river" isn\'t necessarily a river with water flowing down it,
@@ -256,10 +256,10 @@ Kyrie recrossed her arms several times,
 "In that sense, we can state that this key isn\'t something to open the door to the Golden Land."
 "......But what a disturbing key.
  A key that can select six people to be sacrifices..."
-"How would a key {loghint:erabu:select} anything?
+"How would a key select anything?
  ...Does it spin around like a roulette...?"
-"This key points towards a certain specific group of {loghint:roku‐nin:six people}.
- ......No, we should say it points to a certain specific group of {loghint:muttsu:six things}.
+"This key points towards a certain specific group of six people.
+ ......No, we should say it points to a certain specific group of six things.
  ......If this doesn\'t mean a literal command to offer sacrifices.
  ...For example, it could be an anagram."
 "An anagram?
@@ -268,7 +268,7 @@ Kyrie recrossed her arms several times,
  Ever since Rosa started talking about the family tree and how "village" was a part of Maria‐chan\'s name,
  this has constantly been going through my mind."
 "......It seems as though Rudolf‐san, for example, has run with the words "beloved home of old",
- and is assuming that it has to something to do with {loghint:chikei:geography} or {loghint:zahyou:coordinates}, but that might not be true.
+ and is assuming that it has to something to do with geography or coordinates, but that might not be true.
  This could be some kind of puzzle, ...or maybe playing with letters."
 "......I\'m sorry.
  What do you mean by playing with letters?"
@@ -292,10 +292,10 @@ It seemed that she had only guessed the answer had to be something undignified,
 "Ah......oh, I see.
  .........??"
 Natsuhi finally realized the answer to the undignified riddle Rudolf had posed, and her face grew red as she hung her head in embarrassment.
-"...............So maybe that "remove" part is actually represented by "{loghint:korosu:kill}"...?"
+"...............So maybe that "remove" part is actually represented by "kill"...?"
 "Yes.
  I was just thinking that too.
- It\'s possible that the key to the Golden Land is a word with {loghint:roku‐moji:six characters}."
+ It\'s possible that the key to the Golden Land is a word with six characters."
 "In other words, ...the "ta" from the Tanuki Notebook...is actually six characters here...?
  Hmmm, ...this is gettin\' complicated..."
 "Playing with letters, is it...
@@ -310,9 +310,9 @@ Natsuhi finally realized the answer to the undignified riddle Rudolf had posed, 
 "That\'s a point.
  What do we subtract the six characters from?
  It doesn\'t tell us."
-"...On the second twilight, it says "{loghint:nokosareshi mono wa:those who remain}".
+"...On the second twilight, it says "those who remain".
  ......Which means that, at the very least, that "something" has a finite number of characters.
- You could read it like it\'s telling you to continue with the {loghint:nokotta:remaining} characters after the six characters are removed."
+ You could read it like it\'s telling you to continue with the remaining characters after the six characters are removed."
 ".........And yet, we don\'t know what this "something" is, even though it should have been shown to us at the beginning.
  ...Were we wrong even to assume that this is playing with letters...?"
 ".....................hmmmmm..."
@@ -376,7 +376,7 @@ Rosa hung her head, troubled over how she should answer.
  ......Isn\'t...this strange?"
 "...Strange?
  What is?"
-"Umm, ......this word, {loghint:ougonkyou:Golden Land}.
+"Umm, ......this word, Golden Land.
  The word Golden Land comes up several times."
 "So what?
  Do you get some keywords by splitting up the characters in "Golden Land"?"
@@ -655,7 +655,7 @@ This is what the sweetfish river means.
 ......Don\'t dawdle around, research further.
 "Y‐yes, I know...
  As you travel down it, you will see a village (里)...
- 里 is an older word for {loghint:machi:town} or {loghint:mura:village}, right?
+ 里 is an older word for town or village, right?
  But it\'s a densely populated area... There\'s any number of those..."
 Why have you stopped thinking?!
 If you don\'t like it, why not quit forever...?
@@ -668,7 +668,7 @@ Why not just hand over the Ushiromiya headship to Kyrie forever?!
  Is there a village if you go down this "river"......?!
  ............ah, .........
 aaaaaaaahhh......!!"
-......In {loghint:sono sato:that village}, look for the {loghint:kishi:shore} {loghint:futari:the two} {loghint:kuchi:speak} of.
+......In that village, look for the shore the two speak of.
 ......It\'s a "shore" (岸).
  Understand?
 "Uh, ...*gulp*...

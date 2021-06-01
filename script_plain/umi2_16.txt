@@ -336,7 +336,7 @@ Two pieces of stationery came out.
 The first page......had a magic circle drawn on it, in something like blood.
 If I asked Maria, she\'d probably know what it meant.
 And there was writing on the other page.
-{e:070:― Are you making progress solving the riddle of the epitaph?
+― Are you making progress solving the riddle of the epitaph?
 Very, very soon, you\'ll run flat out of time.
 The ninth twilight will start very soon.}
 ......There was no mistake.
@@ -495,7 +495,7 @@ Tears flowed from my eyes.
  All this about keys and tricks and alibis......
 all of it, all of it was stupid!!"
 "Even though it\'s the work of the witch, we weren\'t even able to trust each other as fellow humans...!!
- Right, Auntie Rosa? From the beginning, there wasn\'t a {y:0:Human}{n:0:human} culprit, it was all the work of the witch."
+ Right, Auntie Rosa? From the beginning, there wasn\'t a Human culprit, it was all the work of the witch."
 "So there\'s no way you\'re the culprit,
  and there\'s no way I\'m the culprit, or Maria, or Genji‐san, or aaaaaanyone!!
  Why has it come to this?!!"
@@ -568,7 +568,7 @@ say one word...
 ......As Kinzo shook and cried, behind his small back, a butterfly appeared out of nowhere, like a flake of gold leaf, and softly fell down...
 ...You fool, Kinzo.
 Do you think a woman exists who would fall for a man\'s tears.........?
-Well, ......even if it wouldn\'t make a {y:0:Human}{n:0:human} woman fall for you, ...it might for a woman who is not {y:0:Human}{n:0:human}.
+Well, ......even if it wouldn\'t make a Human woman fall for you, ...it might for a woman who is not Human.
 Kinzo.
  Do you remember......?
 The board position of our chess game, which we never finished......?

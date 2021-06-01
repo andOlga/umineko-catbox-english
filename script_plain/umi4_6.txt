@@ -368,7 +368,7 @@ After opening the door to the living room a crack, I could see the blanket cater
 "......Sever those completely.
  Like how ancient magicians shut themselves up in ateliers to preserve their isolation."
 "I remember.
- ......The very existence of {y:0:Human}{n:0:human}s blocks magic.
+ ......The very existence of Humans blocks magic.
  ...Therefore, the very act of showing magic to humans is the sign of a high‐level witch..."
 Obtain a quiet space for yourself alone.
 ......That should cover it for the preparation of a space to use magic.
@@ -474,7 +474,7 @@ For a while, I heightened my concentration and digested the information that was
  ...I think I\'ll wear it."
 The Seven Stakes of Purgatory, as furniture for sacrificial rituals, are treated as beings inferior even to weapons.
 But that is only when it comes to demons.
-To {y:0:Human}{n:0:human}s, even furniture is something to be feared.
+To Humans, even furniture is something to be feared.
 I fished through the knapsack again,
  took out a bracelet charm with a scorpion medal that I had gotten from Maria onee‐chan long ago, and put it on my arm.
 ......I had no need for something like this in the past.

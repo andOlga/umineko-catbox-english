@@ -840,7 +840,7 @@ which remained tense but steady.
 "Silence!!
  I have finished inspecting Battler\'s move.
  .........The verdict is—"
-{a:c:
+
 "......Valid."}
 "Va......lid.........?"
 "......You lie...!!"
@@ -924,7 +924,7 @@ However, that doesn\'t mean that no one else is inside it.
  .........the one exception that Erika left unchecked, and is there still......
 Kyrie...
 ......saved......Battler............
-{a:c:
+
 
 
 Ushiromiya Kyrie
@@ -998,14 +998,14 @@ DEATH‐DEATH‐DEATH‐DEATH!
  ............There is a way.
  ......Isn\'t there?"
 "Yes, ......there is.
- There are......a few exceptional red truths......that even {y:0:Human}{n:0:human}s without the detective\'s authority can use."
+ There are......a few exceptional red truths......that even Humans without the detective\'s authority can use."
 "......That\'s crazy...
  ......There\'s no way something like that exists!"
 "Yes, such a thing cannot EXIST.
- ......However, ......there is a certain action permissible only to {y:0:Human}{n:0:human}s without the detective\'s authority,
+ ......However, ......there is a certain action permissible only to Humans without the detective\'s authority,
  ......and it can become a truth of such overwhelming credibility...
 ......that witches can easily raise it to the level of red TRUTH."
-"A certain action permissible only to {y:0:Human}{n:0:human}s who...
+"A certain action permissible only to Humans who...
 ...aren\'t the detective.........?"
 ".....................Y‐......you don\'t mean...
  ......Erika......you didn\'t......"
@@ -1036,7 +1036,7 @@ Yes, ......the detective\'s authority bestows several powers that are useful for
 That is Knox\'s seventh commandment.
 ......It is forbidden for the detective to be the culprit...
 "......In this game,
- ......it is impossible for {y:0:Human}{n:0:human}s without the detective\'s authority to examine corpses perfectly."
+ ......it is impossible for Humans without the detective\'s authority to examine corpses perfectly."
 "......So, ......there have been several tricks where the dead have all been faking and walking around where they please.
  ......You probably thought you could use that logic to create several impossible crimes after this."
 "......When I said that I wouldn\'t make the detective proclamation,
@@ -1055,7 +1055,7 @@ That is Knox\'s seventh commandment.
 and that in my pride, I tried to show you some mercy.
  .........That\'s right.
  ......Even without the detective\'s authority, ......there is a way.
- ......A way for a {y:0:Human}{n:0:human} to make sure that a corpse examination cannot fail."
+ ......A way for a Human to make sure that a corpse examination cannot fail."
 Is the human lying in front of you alive or dead?
 You can answer that question by examining the corpse.
 With just a quick glance, your chances of being right are fifty‐fifty either way.

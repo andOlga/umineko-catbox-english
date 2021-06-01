@@ -117,7 +117,7 @@ Even though Ronove knew it would be superfluous, he thought that maybe he should
 ...In actuality, the witch had killed them in a much more horrible way.
 ......Beato had advised the witch to restrain herself, which was why the corpses had been left so undamaged.
 The new and brutal witch, thinking that all she needed to do was get the "gouged with a stake" part right,
- ......might even have just stuck a stake into a lump of meat that wasn\'t even shaped like a {y:0:Human}{n:0:human}.
+ ......might even have just stuck a stake into a lump of meat that wasn\'t even shaped like a Human.
 Rosa\'s and Maria\'s corpses would probably have been especially striking.
  ...If they had been killed as the Golden Witch had wished, just how gruesome would the exposed corpses have been?
 Beato had changed that into a kind of killing that Battler would have called "still better".
@@ -125,7 +125,7 @@ Wanting to have Beato\'s small bit of thoughtfulness appreciated, he thought of 
 ...But, for Battler, that might do more harm than good.
  To humans, the gap between being alive and being dead is very large.
 To ask for Beato\'s feelings to be accommodated on the grounds that she had changed it to a better way of dying...
-might have made it possible for a demon to pardon her, ......but there was no way it would work the same way for a {y:0:Human}{n:0:human}.
+might have made it possible for a demon to pardon her, ......but there was no way it would work the same way for a Human.
 Understanding this, Ronove remained silent even though he knew of Beato\'s modest effort...
 "Just like usual, let\'s start by checking whether the corpses are dead.
  ......Ronove, please, declare it in red."
@@ -280,7 +280,7 @@ As Battler and George tightly hugged each other, they cried a waterfall of tears
 "I, ......I was listening, so I understand.
  ......The sadness is proportional to the length of time that would have been spent together in their lives after that..."
 "......Of course, you can\'t calculate it just like that though.
- .........We {y:0:Human}{n:0:human}s aren\'t like you witches.
+ .........We Humans aren\'t like you witches.
  ......We have a finite time we\'re alive to the moment we die, and we live it with our utmost strength."
 ".........I can\'t forgive anyone who makes light of that.
  ......Never mind someone who sneers at it and toys with it.
@@ -732,7 +732,7 @@ And......
 "Wh‐......what the... .........I‐it isn\'t......a dream........."
 "......Be quiet.
  I am very fragile now.
- If any more {y:0:Human}{n:0:human}s appear now, I will not be able to preserve this form.
+ If any more Humans appear now, I will not be able to preserve this form.
  ...I shall grant your wish, so stay silent for now.
  ...Is that alright?"
 George covered his mouth with both hands, forcefully nodding several times.
@@ -748,7 +748,7 @@ He softly set the mug on the floor, ...and stared once again at the witch in fro
 "Y‐you say go, but...how...?
  My mother and the others are downstairs.
  There\'s no way they\'d let me go outside.
- ......And, didn\'t you just say that you wouldn\'t be able to preserve your form if another {y:0:Human}{n:0:human} appeared?"
+ ......And, didn\'t you just say that you wouldn\'t be able to preserve your form if another Human appeared?"
 "......Come to think of it, that is true.
  So, Krauss and the rest are downstairs.
  ...In that case, we definitely cannot go down.
@@ -785,7 +785,7 @@ George was shocked to find himself floating in midair like he was swimming.
  ......swim in the air......"
 "...You must not think of the logic.
  Accept it as a natural thing.
- ......You must not think back upon the {y:0:Human}{n:0:human} doctrines, such as those from Newton and Einstein."
+ ......You must not think back upon the Human doctrines, such as those from Newton and Einstein."
 "Especially when flying high in the sky.
  ...Inexperienced witches sometimes fall."
 "...I, ...I accept it as true...

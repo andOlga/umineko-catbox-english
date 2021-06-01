@@ -102,9 +102,9 @@ Apparently, they hadn\'t been fully tricked at last year\'s family conference af
 ".........I\'m pretty sure I know how to be a good guest.
  ...I won\'t let the landlord lose face."
 "You can count on Ronove and Gaap.
- However, the magic world and the {y:0:Human}{n:0:human} world are two different sides of the same coin."
+ However, the magic world and the Human world are two different sides of the same coin."
 "I understand.
- ......Of course, I will do all I can in the {y:0:Human}{n:0:human} world.
+ ......Of course, I will do all I can in the Human world.
  Let\'s work together and protect Father\'s secret."
 "Mm."
 "......This happens every time.
@@ -194,7 +194,7 @@ As she did, .........from behind her back, ............came a patter‐patter.
  ...The sound of approaching footsteps.
 Then, whoever it was stepped in a very small puddle, making a light splashing sound, and Maria finally heard.
 However, even the slight distraction that sound caused made her feel irritated, and Maria ignored it despite having heard it.
-{a:c:
+
 "............Hello."}
 "......ah."
 Maria turned around, bewildered.
@@ -266,7 +266,7 @@ Gohda ordered Kanon to serve the tea and became the sole object of the relatives
  Why not relax with some black tea for now...?
  Come, Kanon‐san.
  Quickly, quickly, serve it, serve it."
-"{e:070:...Why do I have to...}{e:100:"}
+"...Why do I have to...}"
 Kanon knew that this tea was just Gohda\'s way of earning points,
  so he lined the cups up with a slightly sullen air.
 "Uu.
@@ -379,7 +379,7 @@ The detective is not the culprit}.
  
 No proof is needed to show this}.
  ......In short, there is absolutely no need to suspect this girl.
- With this guarantee, you can theorize the same way as you always did, even now that she\'s appeared as a {y:0:Human}{n:0:human} piece, right...?"
+ With this guarantee, you can theorize the same way as you always did, even now that she\'s appeared as a Human piece, right...?"
 "......That\'s Knox\'s seventh commandment.
  ‘It is forbidden for the detective to be the culprit’.
  There was an exception clause in the original, but for this game
@@ -427,7 +427,7 @@ They immediately spotted a guest they didn\'t recognize, and their eyes went wid
 Though Battler, George, and Jessica didn\'t have a clue what was going on and were utterly bewildered, they each introduced themselves...
 "......Isn\'t that convenient.
  This way, the number of people is clear.
- The people in the guesthouse have joined up with the rest, and now, all of the pieces except for Kinzo—all of the {y:0:Human}{n:0:human}s—have gathered in the parlor."
+ The people in the guesthouse have joined up with the rest, and now, all of the pieces except for Kinzo—all of the Humans—have gathered in the parlor."
 "Looks like it.
  
 In other words, the number of people in this parlor now is equal to the total number of people on this island}."
@@ -512,12 +512,12 @@ Therefore, Genji had already checked to make sure that the accident was real, th
  It\'s rare for guests to come here to Rokkenjima.
  She looks as though she\'ll be entertaining, don\'t you think?"
 "She is probably Lady BERNKASTEL\'s piece.
- ......Though she will follow the rules of {y:0:Human}{n:0:human}s, the player is a witch.
+ ......Though she will follow the rules of Humans, the player is a witch.
  We can\'t underestimate her."
 "Hmph, there is no problem.
- Even if she were Lady BERNKASTEL herself, she is a {y:0:Human}{n:0:human}, and so she is no match for us.
+ Even if she were Lady BERNKASTEL herself, she is a Human, and so she is no match for us.
  ......After all, we have Gaap with us.
- {y:0:Human}{n:0:Human}s certainly cannot win against Gaap!"
+ Humans certainly cannot win against Gaap!"
 "............Thanks.
  Still, it\'s not a good idea to overestimate yourself.
  ......The definition of a witch doesn\'t only imply the ability to use magic."

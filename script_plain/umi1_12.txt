@@ -1305,9 +1305,9 @@ You shouldn\'t be able to represent the number of people with anything but an in
 ...And yet, 19>X>18.
 Why does a fraction less than 1 play into this...!
 It\'s no wonder.
- ...That 19th person is an invisible being, that can\'t be {y:1:‘seen’{n:1:seen}}.
-That\'s why, in the integer representation that must be used to describe numbers of people, she can\'t be {y:1:‘seen’{n:1:seen}}.
-That witch cannot be {y:1:‘seen’}{n:1:seen}.
+ ...That 19th person is an invisible being, that can\'t be ‘seen’.
+That\'s why, in the integer representation that must be used to describe numbers of people, she can\'t be ‘seen’.
+That witch cannot be ‘seen’.
 Because BEATRICE has no body.
 Therefore, she is invisible.
 Is there a 19th person, or not?

@@ -668,7 +668,7 @@ Even though he\'d figured it out before me, he played the fool.
 "......But Okonogi‐san disagreed with that way of thinking.
  He thought that, by looking at things without love that way, the truth could never be reached."
 "Ah, you mean President Okonogi\'s killer phrase?
- Without love, it cannot be {y:1:‘seen’}{n:1:seen}?"
+ Without love, it cannot be ‘seen’?"
 "Yeah, that.
  ......If I were to set aside the anger I feel towards this fictional murder of my family...
 ...and speak with respect for you as the one who wrote this tale, I\'d say there must be a point to this depiction.
@@ -689,7 +689,7 @@ And the golden butterfly brooch she gave her......was also an item for love.
 She said that she enjoyed sowing seeds of love and watching complications arise,
  and when Shannon stopped borrowing her power, the reason for her argument was also love.
 ......After Beato\'s interactions with Battler started up in full, scenes about love were toned down for a while,
- ......but the "without love, it cannot be {y:1:‘seen’}{n:1:seen}" definition of magic was mentioned repeatedly.
+ ......but the "without love, it cannot be ‘seen’" definition of magic was mentioned repeatedly.
 Then, in the tale right before this one, where Beato had become like a doll,
  the scenes shown made it seem almost as though Battler and Beato accepted each other as adversaries......or possibly something more.
 In the end, Battler regained some kind of memory, and his impression of Beato underwent a complete change.
@@ -742,7 +742,7 @@ Ange was beginning to acknowledge this.
 I already have my own ideas.
 However, that\'s no more than looking with a single eye.
 Unless I accept a different viewpoint from my own and look at things from more than one angle, I\'ll never be able to see the truth in three dimensions.
-That\'s my interpretation of "without love, it cannot be {y:1:‘seen’}{n:1:seen}".
+That\'s my interpretation of "without love, it cannot be ‘seen’".
 "That is as it should be, child of man.
  ......Perhaps, as the last surviving member of the Ushiromiya family,
  it was fated that you would find the truth and become an Endless Witch.
@@ -760,9 +760,9 @@ And maybe......she actually has reached the truth, as she claims...
  ......I was meant to visit this place after all."
 "You were indeed.
  ......It is because you are yet to arrive there that I invited you here, child of man......"
-Let the truth I {y:1:‘see’}{n:1:see} and the truth you {y:1:‘see’}{n:1:see} overlap.
+Let the truth I ‘see’ and the truth you ‘see’ overlap.
 Just as you see things with a single eye, so do I.
-And now that I\'ve found you, for the first time, I too will be able to {y:1:‘see’}{n:1:see} the truth with both eyes...
+And now that I\'ve found you, for the first time, I too will be able to ‘see’ the truth with both eyes...
 "Fwaaah......aaaahhh...
  So, the first twilight has fiiinally happened.
  Everything so far\'s made me so sleepy."

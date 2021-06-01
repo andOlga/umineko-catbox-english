@@ -217,7 +217,7 @@ The sudden, creepy laugh made all of us jump.
  ......If you bring one, it\'ll be over quickly."
 "...In our case, this lady calling herself BEATRICE...
 just has to perform some magnificent magic, like sending out some sparkling stars with her wand or something,
- and show us something that\'s impossible for {y:0:Human{n:0:human}s},
+ and show us something that\'s impossible for Humans},
  right?"
 "......Come now, you two.
  Please settle down..."
@@ -230,7 +230,7 @@ But Maria\'s expression didn\'t loosen.
 "Kihihihihihihihihihihi, kihihihihihihihihihihihihi."
 "....................."
 "......If that\'s what you want, BEATRICE will show you, I\'m sure.
- Something impossible for {y:0:Human{n:0:human}s}.
+ Something impossible for Humans}.
  And then you too will believe, right?
  About BEATRICE."
 "............Sure.
@@ -250,9 +250,9 @@ But Maria\'s expression didn\'t loosen.
  You\'ve simply assumed that, since witches shouldn\'t exist, the movements of BEATRICE\'s pieces will obviously be the same as your own."
 "..........................."
 "......But the thing is,
- .........sorry, Battler, but your chess partner isn\'t {y:0:Human}{n:0:human}.
+ .........sorry, Battler, but your chess partner isn\'t Human.
  She\'s a witch.
- ......She can move her pieces in ways that {y:0:Human}{n:0:human}s can\'t.
+ ......She can move her pieces in ways that Humans can\'t.
  .........Right now, your perception of that is wrong.
  ...Battler, you like Auntie Kyrie\'s chessboard thinking, right?"
 ".........Yeah.
@@ -393,7 +393,7 @@ Therefore, accepting George\'s ring had a far more sacred significance than a pr
  Because that day will surely come."
 ".....................Will it...
 surely come?
- {e:070:......Is it OK......for me to believe?}{e:100:"}
+ ......Is it OK......for me to believe?}"
 "Yes.
  Surely.
  Definitely.

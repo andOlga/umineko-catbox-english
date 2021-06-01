@@ -30,7 +30,7 @@
  However, the older servants were unsatisfied,
  and before long, they started being mean to Yasu whenever they got the chance.
  Even after getting used to life on Rokkenjima, Yasu could not make a single friend.
- At least, not any {y:0:Human}{n:0:human} friends......"
+ At least, not any Human friends......"
 "Hoh‐hohohoho.
  Yes, that can sometimes happen, and always when you\'re busy.
  Perhaps a fairy is pulling pranks on you."
@@ -194,12 +194,12 @@ If that happened, ......then surely, I wouldn\'t have been able to find the key,
  I will be waiting for you to knock over a bucket and get scolded just like usual."
 "*giggle*.
  ......Thank you, BEATRICE."
-Back when I could not yet {y:1:‘see’}{n:1:see} her...
+Back when I could not yet ‘see’ her...
 I simply hated this prank‐loving witch.
 But now that I could talk with her, ......it seemed to me that she was not all bad.
 Of course, I felt no need to be grateful to her.
 The witch BEATRICE despises boredom, and subsists on mocking the misfortune of others.
-{y:0:Human}{n:0:Human}s and witches are different.
+Humans and witches are different.
  Incompatible beings.
 And yet, ......it felt as though we could become friends.
 Of course, she was still a witch.

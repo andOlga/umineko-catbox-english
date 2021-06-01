@@ -571,7 +571,7 @@ So Shannon said it once more.
  She spoke once more of a world full of that element, where the sea was deep blue.
 "I\'m sure you\'ll be able to see a deep blue ocean.
  After all—"
-{a:c:Without love, it cannot be {y:1:‘seen’}{n:1:seen}.}
+Without love, it cannot be ‘seen’.}
 ".........Who is there?"
 "......It is Kanon, my lord."
 It was rare for Kinzo to leave his study.
@@ -614,7 +614,7 @@ Because BEATRICE\'s expression was one of...
 ...sorrow,
  ......or maybe pity.
 "You fool, Kinzo......
- ......I am right here, can you not {y:1:‘see’}{n:1:see} me?"
+ ......I am right here, can you not ‘see’ me?"
 Right behind Kinzo, as he repeated the witch\'s name over and over, desiring to be reunited with her more than anything else, was the witch herself.
 And yet, Kinzo couldn\'t notice a thing.
 ......Even when BEATRICE tried to rest her hand on his shoulder, he didn\'t notice a thing.
@@ -625,10 +625,10 @@ And yet, Kinzo couldn\'t notice a thing.
  What is lacking, what, what?!!"
 ".........It\'s useless, Kinzo.
  ...Without love,
- it cannot be {y:1:‘seen’}{n:1:seen}."
+ it cannot be ‘seen’."
 Kanon took the brooch he had received from Shannon out of his pocket.
-......Could he learn something that would enable him, too, to {y:1:‘see’}{n:1:see} what he currently could not?
+......Could he learn something that would enable him, too, to ‘see’ what he currently could not?
 ".................................
- Without love, it cannot be {y:1:‘seen’}{n:1:seen}."
+ Without love, it cannot be ‘seen’."
 He looked at Kinzo\'s back once more.
 ......The witch was no longer there.

@@ -506,7 +506,7 @@ Then......the witch showed herself.
  ......I\'ve been kept bored for an entire day."
 "...............Yes.
  I gave you a whole day.
- Were you able to sufficiently exercise the rights of the {y:0:Human}{n:0:human} side?"
+ Were you able to sufficiently exercise the rights of the Human side?"
 "Yeah.
  I was bored, so.
  I had a good go at it."
@@ -883,7 +883,7 @@ Certainly, Rosa had witnessed gold butterflies gather and fix a marshmallow by t
  Or how many people—!!
  Witness magic—!
  That will never be proof of magic\'s existence!!"
-"Whether all the magic you\'ve shown exists or not, I can ignore it all and explain things with {y:0:Human}{n:0:human}s.
+"Whether all the magic you\'ve shown exists or not, I can ignore it all and explain things with Humans.
  That\'s my inviolable right.
  ......Am I wrong?"
 At those words, the blue stakes let out an even brighter light, repelling my hands away.
@@ -1325,7 +1325,7 @@ After leaning over and moaning for a while,
 Yeah, I can tell.
  That must have hurt like a bitch...!!
 "Hyahhaaaaaaaahhh!!
- Once again, you\'ve set up some {y:0:Human}{n:0:human} as the culprit as if it were nothing!!
+ Once again, you\'ve set up some Human as the culprit as if it were nothing!!
  You truly are gabbing on about things you would never say on the game board in a million years!!"
 "But it is valid!
  Your verbal assault tickles me!!
@@ -1689,7 +1689,7 @@ Yet I am here, now, and am about to kill you}."
  .........So......?"
 ".........Who...am I...?"
 "Is that...............your final question?"
-{a:c:
+
 "......Who...
 ...am I.........?"
 }

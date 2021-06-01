@@ -381,7 +381,7 @@ I adjusted my grip on the spear,
  Quit babbling..."
 "I have in fact met you several times even in this world.
  Almost as though brushing past one another, meeting only for a moment.
- ......As you know, this world of {y:0:Human}{n:0:human}s is filled with a toxin just by your existence and your doubting of me."
+ ......As you know, this world of Humans is filled with a toxin just by your existence and your doubting of me."
 "Almost like solid ramparts strengthening the defense around you, the king!
  And through multiple games,
  I advanced my pieces one by one, splitting you apart, and cornering you, undermining your ramparts bit by bit."
@@ -498,7 +498,7 @@ I looked up at the witch.
 ......It seemed she was waiting in anticipation to see what kind of reaction I\'d have to the contents.
 ......Dammit, I\'ll show her.
  Its contents were like this...
-{a:c:{e:070:Among the three mentioned below.
+Among the three mentioned below.
 In order to gain two, sacrifice one.
 1. Your life
 2. __\'s life

@@ -58,8 +58,8 @@ A crisp applause rang out, making Jessica\'s heart leap...
 I, the owner of this room,
  ......had searched to make sure there was nowhere any human could have been hiding...
  .........Where had this...man...
-.........There was nowhere for a {y:0:Human}{n:0:human} to hide,
- ......but could something that wasn\'t {y:0:Human}{n:0:human} have managed it.........?
+.........There was nowhere for a Human to hide,
+ ......but could something that wasn\'t Human have managed it.........?
 I was pretty sure this was my first meeting with this largely built, middle‐aged man.
  ......I did not recognize this guy, who looked like a butler and bore the seal of the One‐winged Eagle.
 "A pleasure to meet you, Jessica‐sama.
@@ -72,7 +72,7 @@ I was pretty sure this was my first meeting with this largely built, middle‐ag
  ......Perhaps you could even say he was a vessel."
 ".........What\'s...this guy...saying.........?"
 "Oh, my apologies.
- This is not something that can be explained to a {y:0:Human}{n:0:human}.
+ This is not something that can be explained to a Human.
  .........Well then, let us move on to the main event."
 "So this is that old crackpot\'s...
 ...test or whatever........."
@@ -130,7 +130,7 @@ George and Jessica.
 "Don\'t be naive.
  ......The one you choose will definitely lose their life."
 "......................................."
-{a:c:{e:070:Among the three mentioned below.
+Among the three mentioned below.
 In order to gain two, sacrifice one.
 1. Your life
 2. Shannon\'s life
@@ -155,7 +155,7 @@ If you do not choose one, all of the above will be lost.}}
  Or will you give up on the one person you love so that you can save as many people as possible?"
 "Either way, you can fit it with an appropriate just cause.
  After all, this Rokkenjima is now a demon island.
- ......The sickly sweet buddy‐buddy pretense of the {y:0:Human}{n:0:human} world is not necessary.
+ ......The sickly sweet buddy‐buddy pretense of the Human world is not necessary.
  No one will blame you.
  Do as your heart desires."
 "......While asking yourself whether you possess the fitting qualifications to succeed the headship of the Ushiromiya family...
@@ -173,7 +173,7 @@ Jessica crumpled the letter up and threw it on the floor.
 "No, Jessica‐sama.
  Such a person could exist."
 "This is Rokkenjima, the demon island!
- It is now completely cut off from the {y:0:Human}{n:0:human} world and dunked fully into the netherworld like cheese fondue.
+ It is now completely cut off from the Human world and dunked fully into the netherworld like cheese fondue.
  The values of the human world will be taken out with the trash."
 "Pu ku ku!
  So please.
@@ -326,7 +326,7 @@ Perhaps Ronove had imagined from the very beginning that this would be the answe
 "Process of elimination, ......is it.
  So it was not something you chose proactively, you say......"
 After chuckling slightly, Ronove dropped his gaze.
-......A {y:0:Human}{n:0:human} couldn\'t even imagine what kind of answer a demon would have been hoping for.
+......A Human couldn\'t even imagine what kind of answer a demon would have been hoping for.
 ......All she could understand was that this was apparently slightly below Ronove\'s expectations.
 "......It\'s not a bad answer, but I must say, it\'s not a good one either.
  ......I suppose I would call it a 60.
@@ -454,7 +454,7 @@ Ronove raised his palm......as he slowly approached Jessica......
  Wrooggh!!
  Graaah!!"
 Realizing that his daughter would be killed, Krauss repeatedly body‐slammed the metal bars, going half‐mad.
-The goats looked like they were sneering at how a mere {y:0:Human}{n:0:human} didn\'t stand a chance at breaking those bars.
+The goats looked like they were sneering at how a mere Human didn\'t stand a chance at breaking those bars.
 And, true, Krauss\'s pointless effort might have been comical.
 ......But Krauss was giving it everything he had.
  As Jessica\'s father, he was living in that moment with everything he had, so that he could save her.
@@ -800,7 +800,7 @@ Pulling herself together, Jessica struck out with her fists again, but with trul
 "I am, after all, a demon.
  I am at least capable of this level of magic.
  .........I must say, though, you are quite good.
- If I were a {y:0:Human}{n:0:human}, I am sure that this is where I would have admitted defeat.
+ If I were a Human, I am sure that this is where I would have admitted defeat.
  It is because I am a demon that I can still continue to fight."
 "Y‐......you frigging cheater.........!"
 "Is that all?
@@ -809,7 +809,7 @@ Pulling herself together, Jessica struck out with her fists again, but with trul
 "......Waaah!!"
 Ronove pounded his palm into Jessica\'s stomach, stopping abruptly just a fraction away.
 Jessica was repelled by the purple shield, tumbled backwards, and smashed her head on the bed.
-"My shield cannot be broken by a mere {y:0:Human}{n:0:human}.
+"My shield cannot be broken by a mere Human.
  I suggest that you never again dream of being able to touch my body."
 "......In that case, ......I\'ll just punch straight through that shield......!!"
 "You are a dauntless person.
@@ -1026,7 +1026,7 @@ As a large, pitch‐black hole opened in the sky,
 ".........Reinforcements?
  I wonder if I should take this to mean that you retract your statement about me being weak."
 "I, ......I admit it.
- ......I made light of your power...the power of {y:0:Human}{n:0:human}s......"
+ ......I made light of your power...the power of Humans......"
 "No.
  This is the strength of a man who has come to know love."
 "Wh‐what tripe... How can you say stuff like that with a straight face?!!
@@ -1151,7 +1151,7 @@ Krauss, Kyrie, and Nanjo didn\'t even have a clue about what had just happened..
 ......what in the world are you......?"
 "............We\'re......"
 When Kanon hung his head a little and faltered, Shannon slapped his shoulder, smiled, and spoke.
-"We are {y:0:Human}{n:0:human}."
+"We are Human."
 "V‐VIRGILIA‐sama!!
  Response from warning network, jailbreak!
  The goat guards aren\'t there for some reason...!!"
@@ -1246,7 +1246,7 @@ And on top of that, each one of the 48 possesses autonomous guidance towards the
  Interception control. Data link to Kanon."
 "Kanon, data received.
  ......Your ability is incredible, Nee‐san.
- I can {y:1:‘see’}{n:1:see} all 48."
+ I can ‘see’ all 48."
 "Observe the interception priority ordering.
  Trust your nee‐san."
 "Of course.
@@ -1737,7 +1737,7 @@ Sorry, my little goat sister...your onii‐chan caused you nothing but trouble.
 And I, ...a‐actually have a childhood friend, and I\'m going to marry her when I get hoooooome!!!
 "Gyaaaaaaaaahh!!!
  Nooooooooooo!!
- Don\'t trip so many loser flaaaaaa{-aaaaags}!!"
+ Don\'t trip so many loser flaaaaaa-aaaaags!!"
 "You can\'t handle that punch, dodge iiiiiiiiiit!!"
 It happened the instant before the two crashed and their punches crossed.
 "Foolish, VIRGILIA.
@@ -1985,7 +1985,7 @@ Ronove shook his head slightly at this all‐too‐gruesome change.
 "............My apologies, Jessica‐sama.
  I did warn you."
 "Of course,
- ...I suppose it\'s only natural that a {y:0:Human}{n:0:human} like yourself can\'t understand the demonic pleasure I derive from foreseeing this conclusion and giving you repeated warnings that I know you won\'t listen to.
+ ...I suppose it\'s only natural that a Human like yourself can\'t understand the demonic pleasure I derive from foreseeing this conclusion and giving you repeated warnings that I know you won\'t listen to.
  ......Pukkukukukukukukukukuku!"
 "It really was fun, kiddo.
  ......But you play with words a little too much.
@@ -2063,7 +2063,7 @@ She stood up, and with a shaky gait,
  .........I know exactly why Gohda‐san and Kumasawa‐san were so awkward talking about the guys who killed the six in the dining hall."
 ".........Those guys, uh...
 ......they aren\'t...
-{y:0:Human}{n:0:human}."
+Human."
 "Wh‐...whaat?!
  What are you talking about........."
 "What do you want me to say, man, I frigging saw it, okay?!!
@@ -2081,8 +2081,8 @@ A line of blood dripped down from Jessica\'s forehead......
 "Y‐you mean the test...?"
 "No.
  .........Don\'t get it wrong and...
-...think the enemy\'s obviously gotta be {y:0:Human}{n:0:human}."
-".........The enemy...is not {y:0:Human}{n:0:human}.
+...think the enemy\'s obviously gotta be Human."
+".........The enemy...is not Human.
  ...They\'re demons......who can wield terrifying magic at will."
 "No matter what, ......don\'t get that wrong......"
 "*cough*, *cough*cough*!! Watch......yourself......"

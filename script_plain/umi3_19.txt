@@ -155,7 +155,7 @@ LAMBDADELTA threatened her with a low voice that she had never used in front of 
  BERNKASTEL could spend a hundred years,
  or even a thousand years here, and she would still be unable to win against this game board, it truly is that impressive and perfect."
 "......That\'s why, in exchange for letting me borrow that, I made you a witch.
- .........If I stop being your guardian, you\'ll immediately go back to being a {y:0:Human}{n:0:human}.
+ .........If I stop being your guardian, you\'ll immediately go back to being a Human.
  ...Make sure you don\'t forget that, no matter how much incredible magical power you hold, ......you are nothing more than a temporary witch."
 "I, ......I know that.
  ...I am grateful to you..."

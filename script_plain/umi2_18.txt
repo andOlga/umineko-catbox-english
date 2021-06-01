@@ -59,7 +59,7 @@ Rosa did not part with her gun either, carrying the gold in addition to it.
 "I\'ll introduce you as my new furniture, ...no, as my toy.
  To the dignitaries among witches."
 The witch was relaxing elegantly, her feet thrown out from the sofa and sitting on top of a footrest.
-...However, the footrest wasn\'t a part of the sofa, ......it was a {y:0:Human}{n:0:human}.
+...However, the footrest wasn\'t a part of the sofa, ......it was a Human.
  Which was down on all fours......
 "......BEATRICE‐sama, your silk dress."
 "You are the guest of honor, but I am the host.
@@ -205,7 +205,7 @@ Because the witch had kicked those knees from behind.
  Join your hands behind your back and swear that you will offer all your flesh and blood to me."
 "..................u............ah........."
 The piece of furniture let out a painful voice.
-...Fear is the most primal emotion {y:0:Human}{n:0:human}s have.
+...Fear is the most primal emotion Humans have.
 ...Was that emotion reviving his sense of self, which should already have been killed?
 ".........Hmph.
  So, you are still far from being appropriate for my furniture."
@@ -281,7 +281,7 @@ It had thought that they were wine bottles, and that turning them upside down wo
  Mamaaaaaa!!"
 Released, Maria flung her arms around Rosa.
 But the pursuers were still coming!
- They could see the giant goat‐heads, who had given up even pretending to be {y:0:Human}{n:0:human}, running towards them from across the rose bushes.
+ They could see the giant goat‐heads, who had given up even pretending to be Human, running towards them from across the rose bushes.
 Rosa spilled several extra bullets, which had been in the pocket of her coat, all over the place, and told Maria to pick them up.
 "Y‐yes...!
  Pick up, pick up...!!"

@@ -158,12 +158,12 @@ So, sometimes, I think "I bet this eraser is going to disappear just like everyt
  Nothing disappears when I\'m alert.
 So then I think I\'m safe, but the moment I start to think that and relax just a little bit, a different thing will disappear instead...!
  Why is it always me......?!
-{a:c:
+
 *giggle*giggle*,
  ......ehehehehahahaha......}
 ......Yeah, I hear it.
 I can hear that witch laughing at me as I lamely run around in circles...
-{a:c:
+
 *giggle*giggle*,
  ......ehehehehahahaha......
 Ahahahahahahahahahaha......}
@@ -205,13 +205,13 @@ And the witch keeps moving the small broom to the next window, and the next one.
 "Just give it a rest...!!
  How long are you going to make fun of me?
  This isn\'t the only time, you always do this, always!!"
-{a:c:
+
 *giggle*,
  heh
 heh
 hah
 hahahahahahahahahaha}...!!
-The shrill, voiceless{FIXME?} laugh of the formless witch continues to mock my sobbing.
+The shrill, voiceless laugh of the formless witch continues to mock my sobbing.
 The witch is right beside me, laughing at me.
 As I dash around the chapel, she\'s following along with me, taunting me.
 Then...
@@ -221,20 +221,20 @@ She\'s right behind me, ......just over my shoulder,
  cackling away at this very moment.
 I know that turning around won\'t help, since she has no form.
 I can try to look, but I mustn\'t look with my eyes.
-Once my eyes tell me there\'s nothing there, I won\'t be able to {y:1:‘see’{n:1:"see"}} anymore.
+Once my eyes tell me there\'s nothing there, I won\'t be able to ‘see’ anymore.
 I learned that from the Director of the Gospel House.
- ......You mustn\'t try to {y:1:see}{n:1:look} with your real eyes.
- ......You must {y:1:‘see’}{n:1:see} with your mind\'s eye.
+ ......You mustn\'t try to see with your real eyes.
+ ......You must ‘see’ with your mind\'s eye.
 The whole world is filled with God\'s love.
  In the many blessings of everyday life, one can find God, and angels, and the Holy Ghost.
-{y:1:If you try to look at them with your eyes, you won\'t be able to see them or ‘see’ them.}{n:1:If you look with your eyes, you won\'t be able to see them.}
+If you try to look at them with your eyes, you won\'t be able to see them or ‘see’ them.
  So you won\'t be able to feel them or understand them.
 Instead, you must quietly understand them with the eye of your heart.
 You don\'t look and have your eyes reflect their image.
-You {y:1:‘see’}{n:1:"see"}...and picture them in your mind.
+You ‘see’...and picture them in your mind.
 In this way, I learned how to recognize beings not of this world at the Gospel House.
-......This power doesn\'t only allow you to {y:1:‘see’}{n:1:"see"} God.
-It allows you to {y:1:‘see’}{n:1:"see"} all those not of this world.
+......This power doesn\'t only allow you to ‘see’ God.
+It allows you to ‘see’ all those not of this world.
 ".........Please, stop it now.
  Stop this prank."
 "...............Hoh.
@@ -272,29 +272,29 @@ As I looked down at myself, standing there with head hanging and eyes tightly sh
 ......rose up to the ceiling of the chapel.
 And when I looked down from there...
 ...I looked down at myself, standing in the center of the chapel, .........and the witch standing behind me.
-......Apparently, the witch realized that she was being {y:1:‘seen’}{n:1:seen}.
+......Apparently, the witch realized that she was being ‘seen’.
 She turned around...
 ......and raised her eyes to look at my mind\'s eye, floating by the ceiling...
 ......At last,
- I could {y:1:‘see’}{n:1:see} the witch BEATRICE...
+ I could ‘see’ the witch BEATRICE...
 ...with my mind\'s eye......
-"A mere {y:0:Human}{n:0:human}...
+"A mere Human...
 ...grasped my form......?"
 The demonic lips......twisted in an ugly curve.
 It was clearly a challenging, repulsive, ......demon\'s smile...
 She wore a blood‐red dress and hat.
- The design was completely different from anything {y:0:Humans}{n:0:humans} wore.
+ The design was completely different from anything Humans wore.
 Her hair was blonde.
  It had countless beautiful curls, like a princess from a picture book,
  ......but there was no trace of cuteness about her.
-"......I thought you were a little different from the other {y:0:Human}{n:0:human}s,
+"......I thought you were a little different from the other Humans,
  but it seems I was mistaken."
 "........................"
-"You are not just a little different......you are entirely different from other {y:0:Human}{n:0:human}s.
+"You are not just a little different......you are entirely different from other Humans.
  *cackle*cackle*...!"
 "You sad witch, who can be seen by no one, heard by no one.
- ......Have you been pulling these pranks all the time just to catch the attention of {y:0:Human}{n:0:human}s...?"
-"I use what little magic I have to interfere when {y:0:Human}{n:0:human}s aren\'t looking, but no matter what I do, none of them think of it as magic.
+ ......Have you been pulling these pranks all the time just to catch the attention of Humans...?"
+"I use what little magic I have to interfere when Humans aren\'t looking, but no matter what I do, none of them think of it as magic.
  ......They decide that they just made a little mistake,
  and blow my existence away like the candles on a cake."
 "If so, then I\'ve just saved you.
@@ -330,8 +330,8 @@ When she snapped her fingers again, all of the objects flying about so energetic
  That works in reverse.
  I have you in mine."
 ".............................."
-The Gospel Director told me that I mustn\'t try to {y:1:‘see’}{n:1:"see"} evil beings.
-If you {y:1:‘see’}{n:1:"see"} them, they will haunt you.
+The Gospel Director told me that I mustn\'t try to ‘see’ evil beings.
+If you ‘see’ them, they will haunt you.
 Now that I understood this witch, a bond had been formed between us.
 "That is correct.
  Now that you have acknowledged my existence, I have formed a bond with you.
@@ -353,11 +353,11 @@ Now that I understood this witch, a bond had been formed between us.
  I will keep this as a token of our meeting.
  I assume that you will be fine with this?"
 "......If I said I\'m not, would you give it back to me?"
-"I never listen to {y:0:Human}{n:0:human}s!
+"I never listen to Humans!
  .........However, I might lend an ear to a friend."
 "......If you give it back, ......I\'ll acknowledge you as a friend."
 "*cackle*cackle*cackle*...!
- Foolish {y:0:Human}{n:0:human}, was that your idea of an attractive proposal...?!
+ Foolish Human, was that your idea of an attractive proposal...?!
  ......If you want to make a deal with me, try drawing a mysterious magic circle or two!
  .........And yet, I might be willing to consider your offer."
 "What do you mean, you might...?"
@@ -405,7 +405,7 @@ No.
 A sign that she acknowledges me as a friend.
 I picked it up.
 Oh, I am one yet many.
-"The first friend I made after coming to the island was apparently not a {y:0:Human}{n:0:human} at all.
+"The first friend I made after coming to the island was apparently not a Human at all.
  However, when I think back on it, it was only natural.
  What other sort of friend would you expect to make on a witch\'s island?
  This was the first meeting between me and BEATRICE."

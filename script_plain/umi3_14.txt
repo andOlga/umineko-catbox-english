@@ -195,7 +195,7 @@ The witch stared blankly at this demon butler, who was unexpectedly afraid of gu
 ".........No one told me this.
  Shouldn\'t a witch be able to take a bullet like it\'s nothing?"
 "No.
- It would be a fatal wound, exactly the same as it would for a normal {y:0:Human}{n:0:human}.
+ It would be a fatal wound, exactly the same as it would for a normal Human.
  ...To prevent that weak point from being noticed,
  most witches rigorously strengthen their guard with a defense of protective barriers and furniture."
 "Do I have any of those protective barrier things?"
@@ -295,7 +295,7 @@ With strained expressions, the three of them returned to the hall again, and hea
 The instant they exited into the hall, Rudolf noticed a suspicious shadow right in front of them and yelled...
 In that instant, a storm of gold leaf started blowing, and gold butterflies dyed the area a golden color.
 "............I can\'t believe it.
- A lowly {y:0:Human}{n:0:human} predicted our ambush?"
+ A lowly Human predicted our ambush?"
 "I‐it isn\'t my fault.
  I was hiding my presence...!"
 "Don\'t hesitate!! FIRE!!!"
@@ -307,7 +307,7 @@ Certainly, guns were very frightening objects for them.
 They at least had enough speed to dodge those.
 "Wait a sec!
  You won\'t even let us say our names?!
- This is why I hate {y:0:Human}{n:0:human}s!"
+ This is why I hate Humans!"
 Leviathan protested, popping her head out from behind a pillar in the shadow of the staircase, a full ten meters from where she had supposedly been.
 "By order of BEATRICE‐sama, we shall now slay you!
  We are ordered to take some time teasing you.
@@ -446,7 +446,7 @@ Leviathan could no longer hide her irritation that Kyrie was absolutely refusing
  and when I converted that into power, I gained a strength greater than that of any of the other sisters."
 "It\'s important to have a moderate inferiority complex when you\'re a girl.
  It teaches women about cosmetics and hard work."
-"I don\'t like using the limits of my power against mere {y:0:Human}{n:0:human}s.
+"I don\'t like using the limits of my power against mere Humans.
  ......But I will turn my envy of your ability to completely trust your husband into power."
 "......I don\'t like it.
  Why are you so relaxed when you\'re fighting for your life?"
@@ -594,7 +594,7 @@ The bullet had hit Belphegor right in the chest.
 "..................ku‐
 ...............u..."
 "Wh‐...What a mood‐killer.
- To think that someone who is furniture to a witch could be defeated by a {y:0:Human}{n:0:human}...!"
+ To think that someone who is furniture to a witch could be defeated by a Human...!"
 "Know your shame.
  Worthless, pathetic...!
  Why don\'t you just stay sprawled there and die forever?!"
@@ -630,7 +630,7 @@ As she pointed the barrel of her gun straight at the witch, she ran up to the wo
  It\'s checkmate."
 The two of them pinned the witch down the barrels of their guns.
 "............Worthless furniture.
- ...I can\'t believe they were beaten by {y:0:Human}{n:0:human} opponents.
+ ...I can\'t believe they were beaten by Human opponents.
  ...Worthless.
  Stupid.
  ...Boring...!"
@@ -777,13 +777,13 @@ So they died at almost the same time, dropped to their knees at the same time, a
  that taking a life could be so much fun, ahhahahahahahahahahahaha!"
 ......The most shunned action to take for someone born a human is the murder of another human.
 It\'s only natural for a human not to understand how pleasurable it is to break this taboo.
-......But she was no longer a {y:0:Human}{n:0:human}.
+......But she was no longer a Human.
 She was a witch.
 ...And there were some pleasures that only witches could understand.
 By now, she had tasted those pleasures, and was totally immersed in them.
 ...After learning that the contents of the forbidden pot were honey, she could no longer live without it.
 ......No, maybe the contents were honey because they were forbidden.
-In any case, the act of killing {y:0:Human}{n:0:human}s gruesomely,
+In any case, the act of killing Humans gruesomely,
  and doing it over and over, was by now giving her a drug‐like pleasure.
 As the witch rolled over laughing,
  the gold snake which had just been fired returned as though being hauled back in.
@@ -857,8 +857,8 @@ When she spoke, the witch was looking straight into Beato\'s eyes.
 "Well, about that,
  ...that is because making all humans accept the existence of witches is related to perfect control.
  There was a single holdout, you see, and he just won\'t accept me as a witch."
-".........Why is it that you need that {y:0:Human}{n:0:human}\'s approval?
- Witches are witches, and they use magic; why do you need a {y:0:Human}{n:0:human}\'s acknowledgement for this?"
+".........Why is it that you need that Human\'s approval?
+ Witches are witches, and they use magic; why do you need a Human\'s acknowledgement for this?"
 "...Mh, .........well, like I said earlier, that which is called magic is—"
 "I am a witch.
  I can use magic without anyone\'s approval in particular, so what\'s your point......?"

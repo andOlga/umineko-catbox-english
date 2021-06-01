@@ -197,7 +197,7 @@ not once did I sob like this and trouble my parents,
  throw a tantrum, get in a terrible mood,
  pound and kick the floor and make a horrible racket...!!
 I always wanted to, but I thought I\'d get in more trouble if I did, so I always, always held it in.
-{a:c:
+
 It\'s because I held it inThAT i wAS ablE TO beCoMe THe WOnDerFuL aDULT i aM NOw!!!}
 Suddenly, I felt something strangely...missing.
 The same feeling as when you use a tool recklessly, and it finally breaks, so that you\'re left holding only the base.
@@ -700,7 +700,7 @@ I\'ll erase it, I\'ll crush it, I\'ll tear it to bits...!!
  Welcome, Maria, to the profound and sweet world of witches!!"
 "I\'ve done it...!!
  I\'m not Maria any more...!!
- Still an apprentice, maybe, but I\'ve surpassed the {y:0:Human}{n:0:human} world...!"
+ Still an apprentice, maybe, but I\'ve surpassed the Human world...!"
 "Now, I\'m the Apprentice Witch of Origins, MARIA......!!!
  There\'s nothing to make me feel bitter, nothing to make me sad!"
 "Mama, I\'ll forgive you.
@@ -775,7 +775,7 @@ It looked like her tantrum was dying down bit by bit,
 George noticed.
  ......Maria was staring at Battler with incredible eyes.
 And, ......despite having just displayed all that emotion, ......she laughed in a small voice.
-{a:c:
+
 Kihihihihihihihihihihihihihi.}
 Instead of a laugh, it seemed more like she was muttering while savoring,
  or else counting, each "hi".

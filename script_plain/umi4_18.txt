@@ -257,7 +257,7 @@ It is so warm, and overflowing with kindness and happiness.
  ......But it isn\'t something that just anyone can see with their eyes.
  ............Magic is...
 ...yes, I can say it clearly."
-——Without love, it cannot be {y:1:‘seen’}{n:1:seen}.
+——Without love, it cannot be ‘seen’.
 I\'m sorry, Onee‐chan.
 ......I\'ve already been excommunicated from the witches\' alliance, but...
 ...after all this time, I now understand how wonderful it is.
@@ -613,7 +613,7 @@ I had learned the magic to create happiness from Maria onee‐chan.
 All this time,
  .........I have hated Aunt Eva.
 ...So I never noticed the black witch beside her.
-......Without love, it couldn\'t be {y:1:‘seen’}{n:1:seen}.
+......Without love, it couldn\'t be ‘seen’.
 I didn\'t have...
 ...any love for her......
 So now, finally...
@@ -621,13 +621,13 @@ So now, finally...
  ......the one I truly should hate.
 "......Oh?
  .........What\'s thiiis?
- You can {y:1:‘see’}{n:1:see} me?
+ You can ‘see’ me?
  Ehheheheheh...!"
 "..................Yes, I can.
  ......The one I should\'ve hated wasn\'t Aunt Eva.
  ......It was you."
 "Hey, you\'re pretty good.
- To think that a lowly {y:0:Human}{n:0:human} could {y:1:‘see’}{n:1:see} a witch like me.
+ To think that a lowly Human could ‘see’ a witch like me.
  ......And so?
  Are you trying to say something with that glare?
  Do you hate me?"
@@ -911,18 +911,18 @@ Obeying the pair, the black‐suits laughed crudely,
  .........and I can\'t do anything about it...
  ......I can\'t stand it......’
 "........................
- ......To {y:0:Human}{n:0:human}s who can\'t {y:1:‘see’}{n:1:see} us, ......it\'s as though we don\'t exist...
- ......We can only interact with {y:0:Human}{n:0:human}s that need us.
+ ......To Humans who can\'t ‘see’ us, ......it\'s as though we don\'t exist...
+ ......We can only interact with Humans that need us.
  ............That\'s why.........we\'re furniture........."
 As Sakutarou and Mammon......supported each other,
  ......they slumped down, ...sobbing...
 I couldn\'t stand it either......
- ......Only those who can {y:1:‘see’}{n:1:see} the world of magic can understand how wonderful it is.
+ ......Only those who can ‘see’ the world of magic can understand how wonderful it is.
 It can\'t be explained to humans who can\'t understand.
  And so it is mocked.
 .........If only you could show it...
 ......But you can\'t......
-Because, in front of {y:0:Human}{n:0:human}s who are filled with the anti‐magic toxin and who can\'t understand magic,
+Because, in front of Humans who are filled with the anti‐magic toxin and who can\'t understand magic,
  .........magic cannot be used......
 "I really don\'t get it.
  From this delusional diary, I\'ve got to assume that something\'s wrong with your head.
@@ -1096,7 +1096,7 @@ It was a power that matched even Maria onee‐chan and BEATRICE.
  There\'s just no way, not with such a mass of toxin in front of us........."
 The Seven Sisters also remembered what had once happened in that classroom.
 ......If they could have obeyed Ange\'s order, they would have.
-......However, ......surrounded by the toxin that runs thick in {y:0:Human}{n:0:human}s, they hadn\'t been able to display the miracle of magic.
+......However, ......surrounded by the toxin that runs thick in Humans, they hadn\'t been able to display the miracle of magic.
 ......And they remembered very well how deeply that had hurt Ange......
 But Ange spoke very quietly.
 "In that case.
@@ -1174,12 +1174,12 @@ And......in the chest of the black‐suit who had apparently fired the gun......
  it\'s alright for me to go first, right?"
 Half of Leviathan\'s body was covered with blood, and she wore a cold smile.
 ......Then, slowly, .........the pitiful prey that she had brought down...fell over.
-"Y‐......you pierced...a {y:0:Human}{n:0:human}......!!!"
+"Y‐......you pierced...a Human......!!!"
 "Idiot!
  Do you still not believe?!
  In our master\'s magic power...!!"
 "Are......you...kidding me.........?!?!
- You ma‐manifested...in front of this many {y:0:Human}{n:0:human}s?!?!"
+ You ma‐manifested...in front of this many Humans?!?!"
 "Wh‐.........what the...what?!"
 Kasumi and the rest were thrown into confusion...
 He certainly seemed to have fired the gun......
@@ -1191,11 +1191,11 @@ However,
 "......This is...magic.
  ......Great job, Leviathan."
 "I am most honored...!!
- You foolish {y:0:Human}{n:0:human}s who dare oppose our master!
+ You foolish Humans who dare oppose our master!
  Now is the time of judgment! Prostrate yourselves!!"
 "H‐how......?!!!
- You shouldn\'t be able to bring magic into the world of {y:0:Human}{n:0:human}s...!!
- They shouldn\'t be able to {y:1:‘see’}{n:1:see} magic, they shouldn\'t be able to be touched by magic!!
+ You shouldn\'t be able to bring magic into the world of Humans...!!
+ They shouldn\'t be able to ‘see’ magic, they shouldn\'t be able to be touched by magic!!
  ......How?!!"
 "............Because this...is true magic."
 "...... ......aaaaaaaaaaaaaAAAAA...!!"
@@ -1226,22 +1226,22 @@ They only knew that something terrifying was coming for them from somewhere,
 "Idiots!!
  Th‐the enemy is right in front of you!
  The witch\'s furniture is after you!!!"
-But they could not {y:1:‘see’}{n:1:see}...!!
-Because they couldn\'t believe in magic, they could not {y:1:‘see’}{n:1:see}...!!
+But they could not ‘see’...!!
+Because they couldn\'t believe in magic, they could not ‘see’...!!
 Just as the black witch said, Satan was standing boldly right in front of the black‐suit.
-However, the black‐suit couldn\'t {y:1:‘see’}{n:1:see} that at all...!
+However, the black‐suit couldn\'t ‘see’ that at all...!
 "*giggle*...!
- You think {y:0:Human}{n:0:human}s could see our forms?
+ You think Humans could see our forms?
  Perceive us?
- Ahhahahahahahaha, you stupid {y:0:Human}{n:0:human}s!!
+ Ahhahahahahahaha, you stupid Humans!!
  Time to pay your foolish compensation for forgetting your awe of magic!!"
 "H‐hieeiiiiiie!!!
  What is this?!
  What\'s going on?!"
-".........You cannot {y:1:‘see’}{n:1:see}.
+".........You cannot ‘see’.
  Because you have no love."
 "......Impossible!!
- There are so many {y:0:Human}{n:0:human}s here, the anti‐magic toxin is everywhere...... How can you manifest your magic?!
+ There are so many Humans here, the anti‐magic toxin is everywhere...... How can you manifest your magic?!
  What...are you?!?!"
 "............A witch.
  And unlike you, a real one."
@@ -1281,14 +1281,14 @@ this is crazy...
  I won\'t let someone like you......deny that!!"
 ‘Everyone holds the key to a world of happiness in the palm of their hand...!
  And no one......has any right to steal that away......!!’
-"You poor {y:0:Human}{n:0:human}, who cannot understand this...
+"You poor Human, who cannot understand this...
  .........If there had been magic in your life, it would surely have been very different, and much more peaceful."
 "Not once in your entire life were you ever able to meet with a true witch, and for this,
  ......I pity you."
 "Eee......eeeeeeeeeeeeeeeeeeeeeeeekkk!!!"
 Kasumi let out a piercing scream.
 At the same time, the two remaining black‐suits came for me at once, and thrusted their guns against my head.
-......Like they were trying to use me as a hostage against something their eyes couldn\'t {y:1:‘see’}{n:1:see}.
+......Like they were trying to use me as a hostage against something their eyes couldn\'t ‘see’.
 .........Against the Seven Sisters of Purgatory, high‐level furniture who had now reached the level of weapons, this was completely and totally pointless.
 "Dammit, where are you?!
  You don\'t stop attacking, and this bitch is dead!!
@@ -1312,7 +1312,7 @@ However, Asmodeus\'s form was already at his back,
 The final black‐suit had his head smashed by the Stake of Lust,
  and as his insides scattered, he twisted and fell.
 In that gruesome world where six people lay in a sea of blood,
- .........witch and {y:0:Human}{n:0:human} confronted each other.
+ .........witch and Human confronted each other.
 ".........Sumadera Kasumi.
  I sympathize with your pitiable life from the bottom of my heart.
  ......I can give you magic to seal up that unfillable hole in your heart.
@@ -1615,4 +1615,4 @@ if you do win in this game,
 Now, let\'s go.
  .........As the piece I am, it\'s finally time for my true turn.
 Sorry, BEATRICE.
-{e:120:I can\'t hand Onii‐chan over to you...!!!}
+I can\'t hand Onii‐chan over to you...!!!}

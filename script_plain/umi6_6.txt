@@ -390,7 +390,7 @@ That period of tension vanished when Shannon chuckled.
 Shannon and Kanon fished around in their pockets, ......and drew out two small things that glittered gold.
 They looked like......the left and right wings of a gold butterfly.
 "We are furniture.
- ......In order to become {y:0:Human}{n:0:human} and receive the miracle that allows us to love, ......we must rely on a miracle of magic once again."
+ ......In order to become Human and receive the miracle that allows us to love, ......we must rely on a miracle of magic once again."
 "......To think that her brooch would prove useful."
 "It\'s the only magic within our reach."
 It was the golden butterfly brooch,
@@ -515,7 +515,7 @@ whether she actually does hate spiderwebs or not.
  A splendid witch trial.
  ......If the spiderweb touches her and she gets burned,
  then she\'s an evil spirit, not a witch.
- ......And if nothing happens, then it proves she\'s just a {y:0:Human}{n:0:human}."
+ ......And if nothing happens, then it proves she\'s just a Human."
 "In other words, .........whether she\'s burned or not,
  it will prove that the Golden Witch doesn\'t exist.
  ......The legend of the witch is nothing more than the legend of Akujikijima re‐boiled with a new face on it."
@@ -593,7 +593,7 @@ Slowly, ......she touched it with her entire palm, but she felt nothing but a pl
  ......Though you are my double, you are different from me in several ways."
 "While I might be able to touch the doorknob,
  ......if I ever get burnt like you did, I don\'t think I would heal that easily..."
-".........It\'s as though you\'re a normal {y:0:Human}{n:0:human}."
+".........It\'s as though you\'re a normal Human."
 "Y‐yes.
  ......Even I find it a little hard to believe that I\'m a witch...
  ......I can\'t use magic like you, and I can\'t get strange burns or heal from them later..."

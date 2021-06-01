@@ -161,7 +161,7 @@ He couldn\'t refuse.
 Couldn\'t this strange turn of events also have been brought about by the magic power residing in this brooch?
 ............Ridiculous.
 But those words of Shannon\'s came to mind.
-...What did Shannon {y:1:‘see’}{n:1:see} that I cannot?
+...What did Shannon ‘see’ that I cannot?
 I don\'t understand Shannon\'s feelings.
  We are furniture.
 ...As if we could...become something more than that.
@@ -357,8 +357,8 @@ We serve on Rokkenjima, and end our lives on Rokkenjima.
 the ocean spilled off the end of the world into an abyss.
 But as I looked at Milady like this, I realized that this was a horribly narrow outlook.
 ...I still couldn\'t keep up with the excitement of the crowd.
-...But I felt like I had seen something that "cannot be {y:1:‘seen’}{n:1:seen}" on Rokkenjima.
-.........Although I don\'t know if that was the {y:1:‘unseeable’}{n:1:unseeable} thing Shannon was talking about.
+...But I felt like I had seen something that "cannot be ‘seen’" on Rokkenjima.
+.........Although I don\'t know if that was the ‘unseeable’ thing Shannon was talking about.
 I still can\'t see the ocean as blue...
 "Wasn\'t today the cultural festival at Jessica\'s school?
  ...Has the principal been doing well?"
@@ -443,7 +443,7 @@ The listless Jessica from a second ago was gone.
 If he still only knew Jessica as the successor to the Ushiromiya family, as he did until today,
  ...he would have mistakenly thought that Jessica\'s mood had sprung back to normal.
 ......But that was wrong.
-He now knew a part of her that he could not {y:1:‘see’}{n:1:see} until today, so he understood that there was no way that, on the inside, Jessica was just as she appeared.
+He now knew a part of her that he could not ‘see’ until today, so he understood that there was no way that, on the inside, Jessica was just as she appeared.
 "Ah... About today\'s cultural festival...
  ...Well, thanks for coming with me so I could show off.
  You really helped."
@@ -520,7 +520,7 @@ I am furniture, and you are not.
 inside yourself..."
 To make another me, which isn\'t furniture...
 Through her relationship with George‐sama, has Shannon given birth to a part of herself that isn\'t furniture?
-......And did this other Shannon...see something that cannot be {y:1:‘seen’}{n:1:seen} by furniture?
+......And did this other Shannon...see something that cannot be ‘seen’ by furniture?
 "Yeah.
  .........Well, I don\'t know anything about your private life, Kanon‐kun.
  But, ...I can sorta guess.

@@ -337,7 +337,7 @@ Its immense, eerie body slowly approached.
 As it grew closer, they could finally see its disturbing form clearly.
 The eyes blazed, and yet were still cold, ruthless, and reptilian.
 The cruel fangs and jaw could tear apart and crush anything.
-Any fangs that could chew through brick would hardly have a problem chewing through {y:0:Human}{n:0:human}s...
+Any fangs that could chew through brick would hardly have a problem chewing through Humans...
 Its massive body had to be taller than the windows themselves......
 And......it was lumbering towards this window......
 "This window...isn\'t made out of special Ushiromiya bulletproof glass, by any chance, is it?"
@@ -386,10 +386,10 @@ After sniffing noisily as though scanning the smells around them,
  the goats started chewing on whatever chairs, tables, or curtains were close by.
 The goats would chew anything to bits, as long as it was near them.
 If the others were careful not to attract the goats\' attention, they would be able to escape from this place......
-The {y:0:Human}{n:0:human}s ran on ahead up to the second floor, while the fantasy creatures, who were used to fighting, guarded the rear.
+The Humans ran on ahead up to the second floor, while the fantasy creatures, who were used to fighting, guarded the rear.
 The goats were completely absorbed by their all‐consuming feast in the hall.
 ......Even the portrait of BEATRICE, which might have been called the symbol of the whole Ushiromiya family, had now been brutally chewed up...
-"Battler, the {y:0:Human}{n:0:human}s have all taken refuge on the second floor...!"
+"Battler, the Humans have all taken refuge on the second floor...!"
 "Good.
  Dlanor, seal all the staircases."
 "Gertrude and Cornelia will handle IT.
@@ -738,7 +738,7 @@ Though they had been so vicious against the fantasy creatures, they stepped back
  .........A mystery is always the source of the CHALLENGE.
  ......Why should we be forced to play DEFENSE?"
 "Do you guys get it yet?"
-{a:c:You are the ones in the hot seat now.}
+You are the ones in the hot seat now.}
 Blue truth cut the goats apart.
 That blue truth dwelt within each and every one of the riddles in Beato\'s games so far.
 What about the locked room with the chain, first game, second twilight?
@@ -881,7 +881,7 @@ Then, he lifted his fists again, determined to crush Will to pieces this time.
 ‘......Pointless, pointless......
  ......This is no mystery, so why make theories? ......Thinking is just a waste of time, useless, useless, useless, die, die, die......’
 A fist like a cannonball swinging down towards him......was the very last thing Will saw before he shut his eyes.
-{a:c:
+
 "If you stop thinking—"}
 "......!"
 "In this game, that means you lose."

@@ -256,8 +256,8 @@ no,
 Apparently, Beato still wanted to devote herself to Battler, even after being treated in such a cold manner.
 Though to an outsider, it just looks as though she\'s being snubbed, ......it doesn\'t faze her at all.
 It truly is the blindness of a girl in love......
-"......Or is it that I can\'t {y:1:‘see’}{n:1:see} because I have no love?"
-"At times, love can make the invisible {y:1:‘visible’}{n:1:visible}."
+"......Or is it that I can\'t ‘see’ because I have no love?"
+"At times, love can make the invisible ‘visible’."
 Beato once again immersed herself in the fragment book that told of her former self.
 ......She was trying to find something about the Beato that Battler desired.
 Ange shrugged, as though saying "well, I don\'t get it".
@@ -531,7 +531,7 @@ When they did, they saw that two demons had appeared there,
 "Oh?! This is odd, Furfur...!!
  Why are we in a place like this?!"
 "It really is strange, Zepar...!!
- There\'s no one but {y:0:Human}{n:0:human}s and furniture!
+ There\'s no one but Humans and furniture!
  Where is the witch?
  Where is the witch capable of summoning us?!"
 "Yes, we remember well the name of the witch of the contract, don\'t we?
@@ -603,8 +603,8 @@ These demons......were probably planning to pit her and Kanon against George and
  ...If we don\'t overcome this trial,
  ......we cannot be together..."
 "Jessica. Accept it.
- This is the only trial that can be imposed on upstart furniture wishing to be joined with a {y:0:Human}{n:0:human}."
-"More of this stuff about furniture and {y:0:Human}{n:0:human}s!
+ This is the only trial that can be imposed on upstart furniture wishing to be joined with a Human."
+"More of this stuff about furniture and Humans!
  Yammer on about that all you want,
  it has nothing to do with us!!"
 "You still haven\'t told Milady...?"

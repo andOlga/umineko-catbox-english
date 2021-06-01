@@ -144,7 +144,7 @@ They were the demons of love.
 Love is the single element.
  The source of all miracles.
 ......Could the miracle of love...provide an answer for a locked‐room trick......?
-"There it is again. "Without love, it cannot be {y:1:‘seen’}{n:1:seen}".
+"There it is again. "Without love, it cannot be ‘seen’".
  ......I understand how that catchphrase can describe a certain concept.
  But locked‐room tricks are pure, unfeeling mathematical puzzles, without a fragment of affection within them.
  .........Just what kind of hint could these demons be talking about...?"
@@ -565,8 +565,8 @@ She was so frustrated with her inability to think up any brilliant plan...that h
 ""A hint?
  We are always giving out hints.""
 "Without love—"
-"They cannot be {y:1:‘seen’}{n:1:seen}!"
-"......If we could {y:1:‘see’}{n:1:see} them, I would not have asked!
+"They cannot be ‘seen’!"
+"......If we could ‘see’ them, I would not have asked!
  ......These two are always like this.
  It staves off boredom, but they can become very irritating at times like this."
 Zepar and Furfur certainly were demons who possessed a great power.
@@ -594,7 +594,7 @@ Zepar and Furfur looked at each other.
  Here\'s a present from Zepar and Furfur!
  A hint to a hint of love!!""
 "P‐please...!!"
-"You cannot {y:1:‘see’}{n:1:see} the answer—"
+"You cannot ‘see’ the answer—"
 "Because you don\'t have enough love!"
 "I—I told you, not a hint like that!"
 "And if you don\'t have enough love...?!"
@@ -794,7 +794,7 @@ Once they turned away,
 "Right.
  ......Because...to me, you are—"
 "To me, you are—"
-{a:c:
+
 ""Just in the way.""}
 For the first time, ......the intent to kill flashed through the eyes of both.
 Why...?
@@ -1440,7 +1440,7 @@ Erika touched the ring\'s diamond knob.
 .........s....................."
 "......Yeeeees...?
  ......I can\'t really hear you......?"
-{a:c:
+
 Screw......
 ...you......}
 "......I\'ll never......forgive you......"

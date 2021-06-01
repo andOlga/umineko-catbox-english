@@ -86,7 +86,7 @@ However, he felt exactly the same way Jessica did.
  ......Kihihihihihihihihi.
  George onii‐chan, do you refuse to believe in BEATRICE because she\'s not an opponent you can hit?"
 "You want to turn your feelings of helplessness into violence and beat someone up.
- So you won\'t be satisfied unless your opponent is a {y:0:Human}{n:0:human} you can hit."
+ So you won\'t be satisfied unless your opponent is a Human you can hit."
 ".........So even if I tell you the truth, you won\'t be able to accept it.
  So it\'s pointless for me to tell you.
  You won\'t believe."
@@ -911,7 +911,7 @@ I picked up the envelope.
 Even without disturbing its contents, I realized that this was an unopened envelope, an unknown envelope!
 Without relying on a letter opener, I violently tore it open and pulled out the letter inside.
 The contents were as follows.
-{e:070:― Are you enjoying the riddle of Kinzo‐sama\'s epitaph?
+― Are you enjoying the riddle of Kinzo‐sama\'s epitaph?
 As you are all probably aware, you have very little time remaining.
 Please abandon any naive hopes of escaping after the storm passes.
 This game can only end with my victory or yours.
@@ -1009,10 +1009,10 @@ But Maria acted as though nothing had happened.
 "......I don\'t understand.
  ...Who do you people want to be the culprit?"
 "You only believe in BEATRICE when you don\'t want to doubt one of your own,
- ......and when you\'re trying to settle a grudge because someone who\'s close to you has been killed, only then do you want to believe in a {y:0:Human}{n:0:human} culprit who you can attack with violence, and deny Beatrice."
-"............That\'s why you can\'t {y:1:‘see’}{n:1:see} her.
+ ......and when you\'re trying to settle a grudge because someone who\'s close to you has been killed, only then do you want to believe in a Human culprit who you can attack with violence, and deny Beatrice."
+"............That\'s why you can\'t ‘see’ her.
  ......BEATRICE "exists".
- You all can\'t {y:1:‘see’}{n:1:see} her!"
+ You all can\'t ‘see’ her!"
 "Silence!!!
  I don\'t want to label you as the culprit, but there is no longer any doubt that you enjoy making this situation unpleasant, serving the interests of the enemy!!"
 "......Kihihihihihihihi.

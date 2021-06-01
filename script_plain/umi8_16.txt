@@ -29,7 +29,7 @@ If you let your guard down in the slightest, ......then just watching this would
 "Their fight may defy common sense.
  ......However, they\'re perfectly and evenly matched.
  So...
-......if anyone jumps in, even a single weak {y:0:Human}{n:0:human} like me, .........something might break."
+......if anyone jumps in, even a single weak Human like me, .........something might break."
 A perfect balance maintained by two great powers can easily break by adding even a little strength to one side.
 However, actually rushing in there to add that little bit of strength would be literally suicidal.
 Like a moth flying into a furnace.
@@ -125,7 +125,7 @@ It was missing one of its points, giving it a lonely feeling.
 BERNKASTEL chewed the cookie...and swallowed it.
 "This way, we\'ll always be together........
  I love you, Lambda."
-{a:c:
+
 "Me too, Bern."}
 BERNKASTEL\'s stomach suddenly swelled like a balloon.
 The bulge rose from her stomach to her throat, then exploded like a firework from her mouth.
@@ -157,9 +157,9 @@ The reefs resisted the ocean trying to cover them, smashing waves left and right
 The Seven Sisters of Purgatory and the Inquisitors specialized at close‐range combat, and were rapidly building a mountain of corpses.
 The witches fought hard too, but they would have preferred to fight at a distance if they could.
 Just relying on fantasy creatures wouldn\'t be enough.
-In these battle conditions, all of the {y:0:Human}{n:0:human}s were thrust right into the center of the fight.
+In these battle conditions, all of the Humans were thrust right into the center of the fight.
 Everyone in the Ushiromiya family displayed a fighting spirit equal to the witches and guarded their backs.
-Even {y:0:Human}{n:0:human}s are not powerless.
+Even Humans are not powerless.
  They have guns.
 If the goats supported fantasy, they could use these as the ultimate anti‐magic weapons.
 If the goats supported mystery, they could use these in a much more obvious way.
@@ -229,7 +229,7 @@ They were in the middle of a tightly packed melee.
 George had indeed been hit with a fist right to the center of his face.
 However, ......he didn\'t bend over backwards. Not even an inch.
 The goat started to worry. What exactly had he hit?
-Hadn\'t he punched a {y:0:Human}{n:0:human} made of flesh......?
+Hadn\'t he punched a Human made of flesh......?
 It was as though......he had slammed his fist into a steel wall......and it was his fist that was hurting...
 However, ......the goat was too scared to move his fist from George\'s face.
 After all, if he did, ......the expression on that face would probably be terrifying.
@@ -302,7 +302,7 @@ And the thing splitting the full moon.........was the angry king of wolves prote
 "...............gahahk........."
 The gun barrel exploded inside her mouth, shattering her medulla oblongata.
 ......But it was only her afterimage.
-"What a terrifying woman you are. Are you really {y:0:Huma}{n:0:huma}—"
+"What a terrifying woman you are. Are you really Huma—"
 Having escaped death at the last moment by leaving an afterimage,
  ......Erika was confronted at her new location by the glint of metal, which had been there even before she reappeared.
 The fountain pen went right through Erika\'s eye, crushing it.
@@ -337,7 +337,7 @@ The two of them spun their rifles in exactly the same way at exactly the same ti
 Once again, their accurate shots plunged through the forehead of Erika\'s afterimage, bouncing off each other like billiard balls with a shower of sparks.
 This time, Erika appeared far behind them.
 She had to admit it.
- She had been forced to escape to a place outside the range of those guns fired by {y:0:Human}{n:0:human}s.
+ She had been forced to escape to a place outside the range of those guns fired by Humans.
 Then, the light from the moon was blocked.
 The place that she had fled to so rapidly exploded, sending chunks of rubble flying.
 A massive longsword had been plunged into the ground.
@@ -549,7 +549,7 @@ However, in life, she once turned her pet cat into a witch.
 They say that this second witch wanders the sea of fragments endlessly, searching for any fragment capable of reviving her master from the pit of death called boredom, if even for a moment.
 ......And the cat did revive her master.
 Revived the sacred witch who had reached heights none should reach......
-Just as witches look down from a higher world and sneer at {y:0:Human}{n:0:human}s, calling them pieces on a game board...
+Just as witches look down from a higher world and sneer at Humans, calling them pieces on a game board...
 ...so she looks down from a world higher still and sneers at the territories of witches, calling them pieces on a game board.
 ......If a witch\'s strength is measured by the height of the world they are capable of reaching...
 ...then she was like a witch come back from the realm of the gods, the one who had touched the highest, forbidden heights and survived.
@@ -676,8 +676,8 @@ Rather than time stopping, ......it was more like someone had stopped flipping t
 In this motionless world, ......closely packed letters appeared.
 "The one writing the rest of the script...will be me."
 They were the tale that had been written up to this very moment.
-{e:85:{f:0:"FEATHERINE AUGUSTUS......Auauroraaaaaaaaaaaaaaaa!!!"}}
-{e:85:{f:0:LAMBDADELTA summoned magical power from her whole body and raised it in a mass above her head.}}
+FEATHERINE AUGUSTUS......Auauroraaaaaaaaaaaaaaaa!!!"
+LAMBDADELTA summoned magical power from her whole body and raised it in a mass above her head.
 That was where the paragraph ended.
 In this frozen world, FEATHERINE sat with her arms crossed.
 "......How troublesome.
@@ -923,7 +923,7 @@ When BERNKASTEL snapped her fingers, Erika appeared with a bow.
 "......Liar!!"
 "The Golden Land has been totally destroyed.
  I\'m here to report that it has collapsed and fallen into the sea of nothingness.
- Not just the {y:0:Human}{n:0:human}s, but the fantasy creatures as well have been completely annihilated."
+ Not just the Humans, but the fantasy creatures as well have been completely annihilated."
 "Liar!!
  I won\'t believe it!"
 "......Then allow me to convince you.
@@ -1021,7 +1021,7 @@ The one who teased Ange with truths of the past, stealing the future from her ey
  Ange will step forward into the future!!
  But not into the emptiness of the abyss that you\'re trying to lure her into.
  ......She\'ll step into the future beyond 1998, a place where she will live strongly!!"
-"{y:0:Human}{n:0:Human}s are wretched creatures, who walk into the future while staring back at the past!!
+"Humans are wretched creatures, who walk into the future while staring back at the past!!
  That\'s why they fail to notice even the most obvious pitfalls, and plummet headfirst into them like comical fools!!"
 "Come, BERNKASTEL!!!
  A witch of the past like you can\'t block the radiance of the future!!"
@@ -1172,10 +1172,10 @@ The final hope, ......which I had abandoned but hadn\'t been able to let go of c
 The Single Truth.
 If only I hadn\'t learned it, ......I might still have been able to keep hold of that faint hope.
 But, ............now............
-{a:c:You can still have it.}
-{a:c:If you have strength in your heart,
+You can still have it.}
+If you have strength in your heart,
  you can still have it.}
-{a:c:Remember...your very first wish.}
+Remember...your very first wish.}
 "..................Gahah, ......gahhk!"
 Battler was coughing.
 Impossible.
@@ -1212,15 +1212,16 @@ I\'ve used the red truth!!
 "H‐......how dare you stand before the Witch of Miracles, ......and speak of miracles yourseeeeeeeeeelf!!
  Uuuuurrrrrgggggggghghh, swallow them, grind them up,
  erase both siblings noooooooooooooooww!!!"
-{a:c:
+
  You can\'t erase us.}
-"Even if the whole world refuses to acknowledge it, the miracle will happen as long as we believe!!"{t}"Even if the whole world refuses to acknowledge it, the miracle will happen as long as we believe!!"
+"Even if the whole world refuses to acknowledge it, the miracle will happen as long as we believe!!"
+"Even if the whole world refuses to acknowledge it, the miracle will happen as long as we believe!!"
 The eight wriggling snake heads transformed into a massive whale jaw......and swallowed everything.
 "There will be no miracle!!
  
 There exists no one whom you can trust}!!
  So diiiiiiiiiiiie!!!"
-{a:c:
+
 "There is someone.
  ......Everyone...will protect me."}
 The cruel whale of mystery that tried to swallow everything......was gouged deeply by a massive wedge.
@@ -1292,7 +1293,7 @@ BERNKASTEL didn\'t fight the golden eagle.
  She couldn\'t.
 In this world of Ange\'s, where even the red truth couldn\'t hurt anyone, just what sort of attack could have any effect?
 She frantically ran this way and that, throwing one wedge of red truth after another at the Ushiromiya family.
-{a:c:
+
 
 Ushiromiya Kinzo is dead}.
 
@@ -1441,7 +1442,8 @@ They had a stately design, ......making it clear that this was a very important 
  .........Then let us begin."
 "O‐......okay."
 Ange gulped, then stared up at the witch\'s face.
-The witch held out her {p:42:left hand}, bringing it close to Ange\'s face.
+The witch held out her 
+left hand}, bringing it close to Ange\'s face.
 Then, she slowly spread her fingers.
 "Look carefully at my palm.
  I\'m not hiding anything, correct?"
@@ -1469,7 +1471,8 @@ Then, the witch\'s high pointing finger took a sudden swing downwards,
 "..........................."
 "Ready?
  I\'m going to open my hand..."
-The witch slowly opened her {p:42:right fist}......
+The witch slowly opened her 
+right fist}......
 And there.........was a cutely wrapped candy.
 "Ready for the question?"
 "Yeah."
@@ -1538,7 +1541,7 @@ A gold butterfly flew over my shoulder, landed on my palm, and turned into a BEA
 "......Maybe I should\'ve taken this a bit more seriously."
 I...took a step forward.
 Forward...into the future.
-{a:c:I won\'t say goodbye.
+I won\'t say goodbye.
 So, see you later.
 We\'ll always be together.}
 The wind brushed against my cheek.
@@ -1890,7 +1893,7 @@ It was hard to imagine that this was the same person who had always looked so da
 "You\'re the one who taught me, Okonogi‐san."
 "I did?
  Did I say something?"
-"Without love, the truth cannot be {y:1:‘seen’}{n:1:seen}."
+"Without love, the truth cannot be ‘seen’."
 "Did I say something that pretentious?
  Hehhahahahahahahaha."
 "It\'s been a long journey.
@@ -2000,12 +2003,12 @@ Starting today, Ushiromiya Ange would change her name and live in a new climate.
 Changing her name didn\'t mean that she had given up on being Ange.
 This was Ange\'s...
 ...no, ANGE BEATRICE\'s mission.
-{a:c:
+
  I am ANGE BEATRICE.}
-{a:c:
+
  The Golden and Endless Witch of Resurrection.
  A witch of Mariage Sorcière.}
-{a:c:
+
  The final witch, who is still alive in the future called 1998.........}
 A strong wind blew through my hair.
 My nose was filled with the smell of the sea.
@@ -2056,11 +2059,11 @@ I threw the BEATRICE doll into the ocean.
  .........I was...shedding my old shell."
 "Turning over a new leaf before stepping onto good old Rokkenjima?"
 "......Not exactly.
- I\'ve quit being a {y:0:Human}{n:0:human} called Ushiromiya Ange."
+ I\'ve quit being a Human called Ushiromiya Ange."
 "Hm?"
 I won\'t waste that long journey.
  I now have a new way to live.
-And that isn\'t as the {y:0:Human}{n:0:human} called Ushiromiya Ange.
+And that isn\'t as the Human called Ushiromiya Ange.
 I am......reborn.
 "Captain,
  sorry, but would you mind leaving for a second?"

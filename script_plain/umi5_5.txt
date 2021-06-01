@@ -541,7 +541,7 @@ On the first twilight, kill the six characters that are the key.
 "......In other words, ...by the time we reach the first twilight, some string of characters already exists?
  But 第一の晩 only has four characters.
  Are we meant to read it differently?
- If we read it in English like Grandfather would, maybe "the first twilight"? Or...something else like...{NOTE:For non‐english translations, this line should change to "If we read it in English like Grandfather would, what would "the first twilight" become?", and the following line should be in ENGLISH, not your translation\'s language:}
+ If we read it in English like Grandfather would, maybe "the first twilight"? Or...something else like...
 first night...?
  ............"
 ".........<Good>.
@@ -554,7 +554,7 @@ first night...?
  But in that case, what do we remove the six characters from?"
 "That\'s right.
  ......Since we\'re removing six characters from it, whatever it is must be at least six characters long.
- How could we read it{NOTE:"it" means "the first twilight":} in a way that gives us more than six characters...?"
+ How could we read it in a way that gives us more than six characters...?"
 "If we follow Father\'s sensibilities...I guess it probably is English after all..."
 ".........If it looks like we\'re getting stuck, why don\'t we move on to the second twilight and look for hints?"
 "......Those who remain shall tear apart the two who are close.
@@ -570,7 +570,7 @@ We erase the aforementioned six characters from 123456789...and get x2x45xxxx.
 "......Oh, ......4 and 5 are close..."
 "Yes, I get it!!
  So by "the two who are close", it means..."
-{a:c:x2x45xxxx}.
+x2x45xxxx}.
 "Yep.
  There\'s a gap between 2 and 4, but 4 and 5 are right next to each other.
  They\'re the two who are close...!"

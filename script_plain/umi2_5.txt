@@ -246,7 +246,7 @@ If only it could be made pretty again by dusting it off...
 Kanon held out the miserable candy she wanted.
 Maria took it, and spoke.
 "...Thank you.
- A {y:0:Human}{n:0:human} can\'t do anything except dust it off, but a witch can repair it to how it was.
+ A Human can\'t do anything except dust it off, but a witch can repair it to how it was.
  It would be easy for BEATRICE.
  Kihihihihihi."
 "............Maria‐sama,

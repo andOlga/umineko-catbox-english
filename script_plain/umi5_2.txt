@@ -200,7 +200,7 @@ We never met him directly.
 However, there were some people who spoke in a way that made it seem like he was locked up in his study in a bad mood,
  and who claimed to have met him only a short while ago.
  We blindly accepted that and believed that Grandfather was in the study.
-{a:c:
+
 That\'s why it was possible for an illusion of Grandfather to exist in the study.}
 That\'s right, in the games before now,
  the only people who met Grandfather were Uncle Krauss,
@@ -593,7 +593,7 @@ Those sudden words......were exceedingly cruel.
 I shook my head furiously.
 Then, with an expression that didn\'t reveal her thoughts in the slightest, BERNKASTEL spoke while looking at Beato\'s face.
  ......And I didn\'t understand the word she used in the slightest.
-{a:c:
+
 "Congratulations."}
 ".........For what?"
 "Beato is like this as a result of your victory."
@@ -749,8 +749,8 @@ And, if I hadn\'t thought I hurt her,
 is because LAMBDADELTA, who is the Game Master and the one who is telling the story, is interpreting it that way."
 "If you stare without a fragment of love for Natsuhi, you won\'t see illusions like that.
  .........That\'s why, with my eyes, all I can see is Natsuhi all alone, drinking her tea in silence."
-Without love, it cannot be {y:1:‘seen’}{n:1:seen}.
- Because love is lacking, it cannot be {y:1:‘seen’}{n:1:seen}.
+Without love, it cannot be ‘seen’.
+ Because love is lacking, it cannot be ‘seen’.
 "That\'s a fantasy that Natsuhi\'s showing us.
  ......BEATRICE doesn\'t exist there."
 "...........................ugh........."
@@ -831,7 +831,7 @@ The two days of the crime give us more than enough time to injure each other wit
  ......I never thought I\'d hear you talk about witches existing.
  ............Not bad, Lambda.
  You\'ve done a good job of getting Battler stuck between his human culprit theory and the thought that it doesn\'t matter whether witches exist or not."
-"She really excels at controlling a {y:0:Human}{n:0:human}\'s heart.
+"She really excels at controlling a Human\'s heart.
  ......Looks like I\'d better start helping you out even more."
 "I really couldn\'t care less about you two.
  Disappear.

@@ -151,7 +151,7 @@ To sum up Erika\'s report,
  all she had done was listen to the red truths Battler had wanted her to hear.
 Only the information Battler had wanted to provide had been presented, and she hadn\'t been able to strike at any weak points.
 She was like a kid who had gone out shopping, then forgotten her job and only bought candy...
-.........However, this was all the players on the {y:0:Human}{n:0:human} side could do.
+.........However, this was all the players on the Human side could do.
 Without the detective proclamation, she could only fight by collecting dull bits of information like that.
 ......All the same, her master had been expecting more than that sort of dull fight...
 So, ......she had tried to give her report energetically, ......to make it seem as though they were in a superior position...
@@ -206,7 +206,7 @@ By now, it was clear that Erika hadn\'t abandoned the detective proclamation by 
 "Yeah, pretty much.
  The games won\'t continue forever, and I\'ve lost my bet with Bern.
  .........In this game, Battler will prove that he\'s reached the game\'s truth,
- and then Beato\'s game will be destroyed in a big victory for the {y:0:Human}{n:0:human} side.
+ and then Beato\'s game will be destroyed in a big victory for the Human side.
  And a big victory for Bern too.
  ......Well, supposedly, but you look unsatisfied for some reason."
 ".....................Because I am.
@@ -257,7 +257,7 @@ wasted...!!
  and through it all, you\'ll roll onto your back like a dog and beg for my affection.
  Your purpose, pukespittle, is to make me laugh."
 ".........uugh..."
-{a:c:
+
 "......Sounds like you\'re having a great time in here.
 Am I interrupting?"}
 Gold butterflies gathered in the darkness and took the shape of Battler.
@@ -427,7 +427,7 @@ to have a proper, tidy conclusion, right?"
 "................................."
 Battler took a deep breath, then hung his head in thought for a time.
 ......Erika was his enemy,
- but she was the player on the {y:0:Human}{n:0:human} side, and without her, there would be no game.
+ but she was the player on the Human side, and without her, there would be no game.
 It had been the same way with the old Beato.
 Battler had one‐sidedly viewed Beato as the enemy.
  However, though Beato had thought of him as the opposing player, she hadn\'t considered him to be an enemy on a personal level.
@@ -437,7 +437,7 @@ However, that doesn\'t mean I need to hate Furudo Erika herself.
  ......I will not misplay Beato\'s game.
 "Erika.
  You\'re free not to make the detective proclamation.
- So do what you want and fight me with just your {y:0:Human}{n:0:human} powers."
+ So do what you want and fight me with just your Human powers."
 "I\'ve been prepared to do that from the beginning...!"
 "However, you have talented people on your side.
  ......Dlanor, ......Gertrude, and Cornelia.
@@ -446,7 +446,7 @@ However, that doesn\'t mean I need to hate Furudo Erika herself.
 "Except that they\'re unreliable, powerless, and useless pukespittle."
 "Dlanor.
  ......Just like I was supported by VIRGILIA and Ronove in the past, Erika needs support as well.
- I know from repeated experience that playing for the {y:0:Human}{n:0:human} side is tough."
+ I know from repeated experience that playing for the Human side is tough."
 "......YES.
  I will assist her with all the power I POSSESS."
 "For your attention: we are in agreement."

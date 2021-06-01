@@ -33,12 +33,12 @@ She looked at the clock and saw that not much time had passed since she had lain
  If they win, it\'s a great victory,
  but if they lose, Erika\'s side has a nice little excuse... Isn\'t that a bit unsporting?"
 "Don\'t worry, the bet will be evenly balanced.
- ......If Erika can win this game as a {y:0:Human}{n:0:human} without the detective proclamation, it will be impossible for Battler and the others to pick up the pieces of the witch illusion."
+ ......If Erika can win this game as a Human without the detective proclamation, it will be impossible for Battler and the others to pick up the pieces of the witch illusion."
 "......But on the other hand, should Erika lose, I\'m going to hurl that garbage detective into the depths of oblivion along with the worst possible fragment."
 ".............................."
 "......See?
  Balanced, right?
- The ultimate victory of destroying the witch illusion as a mere {y:0:Human}{n:0:human}, not a superhuman "detective".
+ The ultimate victory of destroying the witch illusion as a mere Human, not a superhuman "detective".
  ......In exchange for that, she wagers her own destruction."
 "I\'ve gotten tired of the never‐ending stream of bland and boring games that you and the former Beato played.
  ......So we\'re raising the stakes and settling it all at once."
@@ -67,7 +67,7 @@ She looked at the clock and saw that not much time had passed since she had lain
 "..................
  ......Th‐thank you very much.
  I\'ll make sure you regret it."
-"Come to think about it, when Battler played for the {y:0:Human}{n:0:human} side, he never had anything as convenient as the detective\'s authority.
+"Come to think about it, when Battler played for the Human side, he never had anything as convenient as the detective\'s authority.
  He was only allowed blue truth and repetition requests."
 "Exactly.
  In a way, it was the previous game that was truly unfair.
@@ -207,9 +207,9 @@ If that couldn\'t be done, it wouldn\'t be a game.
 In other words, just as Erika said, it has to be possible to perform the murders without magic...
 ......To view it from the opposite angle, the witch side has a certain responsibility.
 They have to make a crime that can be reproduced with tricks and not magic.
-As long as the {y:0:Human}{n:0:human} side can\'t figure out those tricks, the witch side can use all kinds of magic and illusions.
+As long as the Human side can\'t figure out those tricks, the witch side can use all kinds of magic and illusions.
 ......In other words, in order to carry out a locked‐room murder with magic,
- it is necessary to create a crime that is possible to carry out by {y:0:Human}{n:0:human} hands.
+ it is necessary to create a crime that is possible to carry out by Human hands.
 ".........By now, I understand.
  I see why, when I ordered the Seven Sisters to kill my classmates back at Saint Lucia,
  ......they couldn\'t do what I told them.
@@ -295,7 +295,7 @@ The master key can get around all of the locks on the doors, but the window lock
 I haven\'t yet used a repetition request to get confirmation that it\'s impossible to manipulate them from the outside, ......but I\'m sure he\'ll be able to say it in red.
  It\'d be stupid otherwise.
 "......I understand.
- Right now, I am a mere {y:0:Human}{n:0:human}.
+ Right now, I am a mere Human.
  ......I can\'t even properly confirm the deaths of the corpses."
 ......Last time I neglected to check the bodies, ......and let a massive piece of "magic" get by me.
 I won\'t fail like that again......
@@ -384,7 +384,7 @@ It was the same for Erika......
  Won\'t this be a bit too much for Erika without her detective\'s authority...?"
 "She is a self‐proclaimed "great detective".
  I\'m sure she\'ll pull through.
- .........If Battler and Beato are defeated by a mere {y:0:Human}{n:0:human} who isn\'t even a detective, they\'ll fall apart in the most exquisite way, don\'t you think?"
+ .........If Battler and Beato are defeated by a mere Human who isn\'t even a detective, they\'ll fall apart in the most exquisite way, don\'t you think?"
 "......And even if Erika loses, we get to play by throwing her into the worst fragment and casting her into the depths of oblivion, right?"
 "Exactly.
  No matter how the chips fall, it won\'t be boring for us."

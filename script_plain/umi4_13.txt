@@ -672,10 +672,10 @@ Shannon came close to him, and they both squatted down together.
 "............Do you sense someone?"
 ".........Yes.
  ......They aren\'t paying any attention in this direction, but there\'s somebody relatively close by."
-"Is it {y:0:Human}{n:0:human}...?"
+"Is it Human...?"
 "............I think it\'s the goats.
  Their breathing is really noisy."
-Kanon\'s ability to sense the presence of others was several levels above that of a {y:0:Human}{n:0:human}.
+Kanon\'s ability to sense the presence of others was several levels above that of a Human.
 He described their breathing as noisy, but Krauss and the rest couldn\'t even pick up the slightest hint of it.
 ......Therefore, even if he had simply reported it, they would merely have doubted his ears.
 "...............They got us, didn\'t they."
@@ -766,10 +766,10 @@ Shannon laughed softly, and apologetically leaned towards his shoulder.
  ......It sounds kind of religious."
 "And there, everything is equal.
  All things with minds are equal.
- ......There are no {y:0:Human}{n:0:human}s, nor furniture, nor witches.
+ ......There are no Humans, nor furniture, nor witches.
  ......There, I was equal to everyone.
  There was no longer any need to feel ashamed of myself because I was furniture."
-".........It was honestly a happy world where I was equal to all {y:0:Human}{n:0:human}s, and even witches.
+".........It was honestly a happy world where I was equal to all Humans, and even witches.
  I can\'t really remember it well,
  but I have the feeling that when I was there, I was equal even to BEATRICE‐sama, and we were good friends."
 "............If that witch is there, then it\'s not a much of a paradise."
@@ -796,7 +796,7 @@ Shannon laughed softly, and apologetically leaned towards his shoulder.
 "The two will be released from their worries in a fair world...?
  .........It feels like I\'m being indoctrinated into some kind of strange religion.
  I imagined something more...worldly.
- A world where we would be given magic medicine, and that would make us be born again as {y:0:Human}{n:0:human}s, or something more like that."
+ A world where we would be given magic medicine, and that would make us be born again as Humans, or something more like that."
 ".........If you go, you\'ll understand.
  If BEATRICE‐sama really is a fickle person, then surely some day, she\'ll let you get a glimpse of it too.
  ......Then you\'ll be able to understand my example."
@@ -884,7 +884,7 @@ There were four figures there.
 "But, no, .........that is inconceivable.
  ......Firstly, we fell through a pitfall, and furthermore, we were locked up in here after only a few minutes...
  ......Not only is the distance too great, that\'s physically impossible......"
-"For a {y:0:Human}{n:0:human}, right?
+"For a Human, right?
  *giggle*."
 "Father... Is this the mansion?
  To think that the mansion had an underground area like this......"

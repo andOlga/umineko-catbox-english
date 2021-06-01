@@ -183,7 +183,7 @@ not having Sakutaro......"
  This world is MARIA\'s and mine together!!
  If MARIA leaves,
  ......it will break...!!"
-The minimum amount of {y:0:Human}{n:0:human}s it takes to create a universe is two.
+The minimum amount of Humans it takes to create a universe is two.
 If that breaks down, the world is destroyed.
 To drag out the witch who shut herself away in the Golden Land, I have to destroy this world...!
 "......Yes, and that is the proof that you are not a witch.
@@ -368,7 +368,7 @@ it was joy,
  ............Without love,
  without sadness,
  without anger,
- ............magic cannot be {y:1:‘seen’}{n:1:seen}."
+ ............magic cannot be ‘seen’."
 The ground shook.
  ......An earthquake.
 .........It gradually caused greater and greater fissures,
@@ -864,7 +864,7 @@ And then,
 "As long as you play here, the Anges of countless worlds will live in isolation,
  and the same pain of her final moments just now will be forced upon them, diluted over a period of more than a decade."
 ".........However, that is of no importance, correct?
- It cannot be {y:1:‘seen’}{n:1:seen} by you from here.
+ It cannot be ‘seen’ by you from here.
  You cannot observe it.
  An unobservable truth cannot be proven except by the red truth."
 "Therefore, your anxiety over Ange\'s future unhappiness might well be an ungrounded fear.
@@ -911,7 +911,7 @@ Because even as I hang around with the witch like this,
  I have to settle this as soon as possible, .........and bring my family back to Ange!!!"
 ......Unwavering purpose.
  ...Absolute, certain willpower.
-A {y:0:Human}{n:0:human}\'s certain willpower becomes certain magical power.
+A Human\'s certain willpower becomes certain magical power.
 ......That acts as a miracle, and makes it a promise.
 Yes, this is a promised certain miracle.
 ..................Is there not even a one in ten‐billion chance...

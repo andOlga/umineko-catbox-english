@@ -59,7 +59,7 @@ When she muttered as though to herself, gold butterflies appeared and formed int
  ......In any event, as long as we can keep this room sealed, no one will be able to deny Father\'s existence.
  After all, you can\'t determine the contents of a cat box that can\'t be opened, no matter how many people you have with you......!"
 "...Well, that is true......
- However, {y:0:Human}{n:0:human}s are unreasonable.
+ However, Humans are unreasonable.
  It\'s possible for them to eat into an airtight cat box and go inside like black ants swarming a box of cake.
  ............And Lady BERNKASTEL\'s piece also concerns me."
 ".........It was fortunate that Erika‐sama stole the show at tonight\'s dinner.
@@ -436,7 +436,7 @@ How interesting that the one who will succeed me as head is also a person no one
 "I now have no regrets remaining in my life!!
  BEATRICE, I am coming to join you.
  Along with a present, the miracle chosen by my epitaph...!"
-{a:c:
+
 Battler, of all people.
 ......That......Battler......!!}
 "Wahahahahahahahaha...!!

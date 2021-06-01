@@ -58,7 +58,7 @@ I remembered cheering her up, saying it was only a musty mirror covered in dust.
  ...BEATRICE‐sama was in this mansion all along.
  ......But BEATRICE‐sama had lost her powers, ...and could not appear before us.
  She did "exist" all along.
- ...It\'s just that we couldn\'t {y:1:‘see’}{n:1:see} her."
+ ...It\'s just that we couldn\'t ‘see’ her."
 "............I\'d like to hear Genji‐san\'s opinion."
 ".........I do not have any opinion.
  .........All that I would like to say is......that when it happened......there were five of us here."
@@ -611,8 +611,8 @@ Gohda looked all over the room, trying to see if there was some tool that they c
 And he noticed the door, which had been left open ever since they had entered.
 He approached the door to close it, ......and noticed the abominable shadows of people approaching from beyond the darkness in the hall...
 No, the phrase "shadows of people" wasn\'t right.
-Because that referred to {y:0:Human}{n:0:human} shadows.
-......You can\'t call the shadows of beings that aren\'t {y:0:Human}{n:0:human} "shadows of people"!!
+Because that referred to Human shadows.
+......You can\'t call the shadows of beings that aren\'t Human "shadows of people"!!
 "...............G‐
 ......George‐sama!!!
  H‐

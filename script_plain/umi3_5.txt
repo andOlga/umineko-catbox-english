@@ -114,7 +114,7 @@ I am."
  To fall in love with you, of all things."
 ".........Hmph.
  Well, to me it was supremely annoying."
-"...However, the power of {y:0:Human}{n:0:human}s is a frightening thing.
+"...However, the power of Humans is a frightening thing.
  He exhibited fearsome power and rooted me to this place.
  ...He said I wouldn\'t be freed until I nodded my head in agreement.
  ...Such an overbearing man."
@@ -1114,7 +1114,7 @@ But BEATRICE still appeared to be completely without fear.
 "Hohhoh.
  I am really looking forward to that!
  .........nn—"
-{a:c:
+
 Wa, hyaa.}
 She made...some might have described it as a funny,
  ...rushed and short voice,

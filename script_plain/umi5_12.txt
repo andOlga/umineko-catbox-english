@@ -201,8 +201,8 @@ So up until the point when I did join,
 "......Just what kind of mood\'s taken those two?
  Trying to make it look all cool...
  They made me look like some kind of knight coming to save Beato."
-"Lady LAMBDADELTA wants both witches and {y:0:Human}{n:0:human}s to be in balance, resulting in a draw.
- .........With Erika\'s appearance, the scales tipped strongly in the favor of the {y:0:Human}{n:0:human} side,
+"Lady LAMBDADELTA wants both witches and Humans to be in balance, resulting in a draw.
+ .........With Erika\'s appearance, the scales tipped strongly in the favor of the Human side,
  so she manipulated the tale in a way that supports Beato."
 "Yes, I am AWARE.
  However, pieces cannot do things that are impossible for THEM.
@@ -488,7 +488,7 @@ The two of them reappeared behind Dlanor,
 "YES.
  You mean the letter with the mark of the One‐winged Eagle, which appeared at midnight last night along with a knock by some PERSON."
 "That\'s right.
- The tale appears to describe that it was impossible for any of the {y:0:Human}{n:0:human}s at that moment,
+ The tale appears to describe that it was impossible for any of the Humans at that moment,
  creating the illusion that an unknown witch exists.
  ......Let\'s start by crushing this witch illusion.
  We\'ll first check the situation in the dining hall last night when the letter was delivered."
@@ -560,7 +560,7 @@ Krauss, Natsuhi, and Genji did not even touch that letter}!
 "......Oho?
  Then...
 
-when Shannon and Kanon came in to serve tea, who was the last {y:0:Human}{n:0:human} to enter the dining hall...?
+when Shannon and Kanon came in to serve tea, who was the last Human to enter the dining hall...?
  Let\'s say it was Kanon.
  Wouldn\'t it be easy if Kanon, the last person in, secretly dropped the letter there when he closed the door}?"
 "
@@ -609,12 +609,12 @@ Maybe someone other than Krauss, Natsuhi, or Genji made that knock,
 "For your attention: I beg to inform you of the following.
  
 At 24:00, except for Krauss, Natsuhi, and Genji in the second floor corridor,
- and all of the people in the dining hall, no other {y:0:Human}{n:0:human}s existed inside the mansion}."
+ and all of the people in the dining hall, no other Humans existed inside the mansion}."
 "For your attention: I beg to inform you of the following.
  
 In addition to Krauss, Natsuhi, and Genji, none of those in the dining hall knocked,
  where "knocking" includes all direct, indirect, intentional, unintentional, and coincidental events that could create a knocking sound}."
-{e:070:A direct knock refers to someone literally hitting a door to make a knocking sound.
+A direct knock refers to someone literally hitting a door to make a knocking sound.
 An intentional knock refers to someone creating a fake knocking sound with intent to make it appear that someone knocked.
 An unintentional knock refers to someone unintentionally creating a fake knocking sound.
 A coincidental knock refers to some kind of coincidence creating a fake knocking sound.}
@@ -695,7 +695,7 @@ The letter never existed on the ceiling of the hallway}."
  
 Know that the letter never touched the serving cart}."
 ".........Wh‐who cares about that?!
- The point is, some{y:0: Human}{n:0:one} outside the mansion used some kind of trick to place the letter there!!
+ The point is, some Human outside the mansion used some kind of trick to place the letter there!!
  I know what you\'re trying to do, use that letter and knock to argue that BEATRICE exists! Well, it definitely won\'t work on Furudo Erika!"
 "For your attention: I beg to inform you of the following.
  
@@ -744,7 +744,7 @@ someone outside the mansion set things up with a cassette tape or something to m
 "M‐......my master......"
 When BERNKASTEL said she\'d let it slide, Erika couldn\'t hide her relief.
 "Then it\'s time to get punished, Erika‐chan♪"
-{a:c:
+
 
 None of the characters would misidentify a knocking sound}.}
 ".........Oh?
@@ -873,7 +873,7 @@ It may have looked like you jumped down all dramatically, but it was all an illu
  All I did was prove that.
  ......Whether either of us jumped down or clambered down makes no difference."
 "Don\'t try to change the subject!!
- A mere {y:0:Human}{n:0:human} can\'t jump down from the third floor...!!
+ A mere Human can\'t jump down from the third floor...!!
  How do you like that, how do you like that...?!!
  What do you think of my reasoning, my master...?!!"
 "......Are you short of sleep or something?

@@ -159,7 +159,7 @@ Ever since then,
 "But when I asked Mama, she said I didn\'t have a papa, that he didn\'t exist.
  She got mad and hit me even though all I did was ask.
  So......I didn\'t really understand who gave birth to me."
-"......I was...not right as a {y:0:Human}{n:0:human}, an immature and irregular creature.
+"......I was...not right as a Human, an immature and irregular creature.
  I realized I was a strange, pitiful girl, different from everyone else."
 "It doesn\'t matter who your parents are or what other people say.
  You are who you are."
@@ -198,7 +198,7 @@ Maria, the name I was given, was the answer all along.
  ......That surprised me again!
  What do you think that means?!"
 "......You interpreted this to mean that...
-Ushiromiya Maria had no {y:0:Human}{n:0:human} father.
+Ushiromiya Maria had no Human father.
  ......That your real father was the Holy Ghost."
 Regardless of what the Bible actually meant,
  ......the young, sad girl, who had lost her sense of identity because of her lack of a father,
@@ -221,7 +221,7 @@ It isn\'t too difficult to imagine that Rosa, after hearing the explanation the 
 "Beato said that the minimum number of people needed to create a world was two.
  I thought she meant that you need two parents to create a child.
  ......That was when I came to a new thought.
- Beato may be a witch, but she\'s a witch born of a {y:0:Human}{n:0:human}.
+ Beato may be a witch, but she\'s a witch born of a Human.
  Beato isn\'t a child of the Holy Ghost."
 "But I\'m different.
  I was born from Mama alone.
@@ -328,7 +328,7 @@ We moved to the beach and talked lots, sitting at a table under an umbrella.
 "If you call yourself a witch, you must be able to show me some sort of magic, correct?"
 I was stunned for a second.
 Of course, it should have been obvious.
-I was a child of the Holy Ghost, and since I\'d studied so much of the occult, I was also a witch, not a {y:0:Human}{n:0:human}.
+I was a child of the Holy Ghost, and since I\'d studied so much of the occult, I was also a witch, not a Human.
  Until that day, I had been so sure of both of those things.
 So, when I was asked what sort of magic I could use, it left me in a daze...
 "When one knows of magic and can speak of it, they finally reach the rank of apprentice.
@@ -365,7 +365,7 @@ Maria could create a universe all by herself.
 "Very well.
  However, I must ask you for your assistance.
  As I have already told you,
- no matter how pure your soul might be, all {y:0:Humans}{n:0:humans} are tainted and filled with the toxin that resists magic."
+ no matter how pure your soul might be, all Humans are tainted and filled with the toxin that resists magic."
 "Yeah, I remember.
  You told me about the anti‐magic toxin.
  It wasn\'t in any of the books I\'ve read.
@@ -529,11 +529,11 @@ you, Nanjo, and the four servants excluding Gohda, for a total of six?"
  Beato said that she\'d need to store up much more magical power before she could appear in front of anyone else."
 "So, she intended to show herself in front of more people sometime in the future?"
 "Yep.
- She said that the day she made all of the {y:0:Humans}{n:0:humans} acknowledge her would be the day of her resurrection."
+ She said that the day she made all of the Humans acknowledge her would be the day of her resurrection."
 "...................................."
 Maria, the servants, and Nanjo had acknowledged her.
-She had probably chosen those {y:0:Humans}{n:0:humans} whose anti‐magic toxin was weakest and appeared before them first.
-BEATRICE\'s game must have been to steadily increase the number of {y:0:Humans}{n:0:humans} who could recognize her,
+She had probably chosen those Humans whose anti‐magic toxin was weakest and appeared before them first.
+BEATRICE\'s game must have been to steadily increase the number of Humans who could recognize her,
  until she could make everyone on the island acknowledge her.
 In that case, the last person for BEATRICE to appear in front of...
 would be Battler, the one said to have the strongest anti‐magical power.

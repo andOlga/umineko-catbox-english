@@ -366,7 +366,7 @@ Then, .........I realized that two of them were my own parents.
 "Any kids who aren\'t having a good time\'ll get eaten!"
 ""Yell and sing the praises of tonight\'s banquet!!
  Ahhahahahahahahahaha!!""
-The hall was alive with a mingling of {y:0:Human}{n:0:human}s and residents of magical fantasy.
+The hall was alive with a mingling of Humans and residents of magical fantasy.
 At first, everyone stayed with their own groups, too nervous to mingle.
 However, as time passed, people started to move around, and both halves began to chat happily together.
 "Anyway, they never listen, do they?!"
@@ -419,7 +419,7 @@ After Will explained his stance on mystery novels, everyone had a comment to mak
 "That\'s some spirit you\'ve got there.
  How much are they paying you for being a Sister of Purgatory?
  Come and get a job at my husband\'s business. I\'ll recommend you personally."
-The {y:0:Human}{n:0:human}s and the residents of fantasy were now completely on casual terms.
+The Humans and the residents of fantasy were now completely on casual terms.
 "I, I see...... So this is how it\'s done in the world of witches......"
 "Yeah nyeh, you\'ve got it nyeh!
  Where we come from, you pour the tea onto the saucer, press your palms on the table, and slurp it up like a dog nyeh!"
@@ -453,7 +453,7 @@ The circle surrounding Beato was always a lively one.
  You\'ve got to find your own meaning for your life, cut your own path!"
 "That\'s right.
  Your resolve has to be certain and absolute, you know?
- Back when I was {y:0:Human}{n:0:human}, I lived like a daredevil all the time...!"
+ Back when I was Human, I lived like a daredevil all the time...!"
 A bit shakily, LAMBDADELTA started talking about her theory of life.
  Apparently, she\'d also had her fair share of champagne.
 "What a bizarre SCENE."
@@ -755,7 +755,7 @@ BERNKASTEL had been invited there once again, and a final game would now begin..
 "Of course.
  ......I worked hard on this game, and I\'m pretty proud of it."
 "So, Bern will be the Game Master, and Battler and Beato will be the players?
- The usual game, where Bern creates a murder tale, and the two players have to reconstruct it with {y:0:Human}{n:0:human} tricks?"
+ The usual game, where Bern creates a murder tale, and the two players have to reconstruct it with Human tricks?"
 "I\'m interested to see what sort of scenario Lady BERNKASTEL develops."
 "......We\'ll explain things with the blue truth, and you\'ll knock those down with the red truth.
  Are we alright with those rules?"
@@ -771,9 +771,9 @@ LAMBDADELTA held a hand over it and shut her eyes......
  It\'s a simple game, isn\'t it?"
 "You\'re right......
  It\'s much more straightforward than the mind games these two played in the past.
- This isn\'t even a game about witches and {y:0:Human}{n:0:human}s anymore."
+ This isn\'t even a game about witches and Humans anymore."
 "That\'s right.
- This is a {y:0:Human}{n:0:human} game."
+ This is a Human game."
 ".........This is surprising.
  To take on the fantasy that is Beato...you\'ve created a genuine mystery."
 "Please explain."
@@ -864,7 +864,7 @@ Lambda clapped her hands.
 BERNKASTEL, realizing what Battler and Beato were asking for, snorted.
  LAMBDADELTA nodded at her, telling her to enjoy this final duel to the fullest.
 "Heheheheh....... Ahahahahahahahah......
- A {y:0:Human}{n:0:human} and a witch discussing a mystery side by side?!
+ A Human and a witch discussing a mystery side by side?!
  It\'s ridiculous! Ludicrous!
  Let\'s see if your cheery take on mysteries can handle mine!
  I challenge you to solve my mystery!!"

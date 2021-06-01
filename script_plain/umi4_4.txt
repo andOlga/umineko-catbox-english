@@ -420,7 +420,7 @@ Let\'s take one of the repetition requests I made during a past mystery as an ex
 It had been claimed that there were only five master keys, so I made this request to confirm that the number really was five.
 But since that by itself doesn\'t deny the witch, I can\'t say it in blue.
  So, in order to speak in blue, I would need to say something like this.
-{i:"The actual number of master keys was greater than five.
+ "The actual number of master keys was greater than five.
  The culprit used one of those extra keys to get in and out of the room!"}
 ......And only then would the witch, who claims that it was a locked‐room murder with magic, be responsible for making a counterargument.
  In other words, I can\'t use it to demand that she repeats things in order to check the premises of my reasoning.

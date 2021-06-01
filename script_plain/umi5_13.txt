@@ -23,7 +23,7 @@ To confirm these, she went around the mansion with them,
  They\'ve been put away in my darkness between the human world and the other."
 "......And that would‐be detective won\'t be able to find them...?"
 "Of course.
- It\'s absolutely impossible for a {y:0:Human}{n:0:human}.
+ It\'s absolutely impossible for a Human.
  .........Want to check?"
 "Just in case.
  And we also need to take this opportunity to reexamine what Lady BERNKASTEL\'s goals are likely to be from now on."
@@ -417,7 +417,7 @@ I\'ll tell the police about this in secret.
 I\'m certain it will be a big clue that will help in arresting the culprit.
 "......That card was probably meant to surprise me and control me,
  ......but he\'s actually dug his own grave."
-{a:c:
+
 
 I never told anyone except Shannon that I like autumn}.}
 This is unshakable proof that she\'s working with the culprit......
@@ -775,7 +775,7 @@ I have to get to my room......at a quick pace, without being noticed by anyone..
 I passed through the hall...
 ...to the lobby.
 Once I\'ve ascended the main staircase in the lobby, ......I\'ll be almost there......
-{a:c:
+
 "Natsuhi‐san."}
 "Hyeek......!!"
 Just as she was about to go up the large staircase, Natsuhi heard Erika call out to her,

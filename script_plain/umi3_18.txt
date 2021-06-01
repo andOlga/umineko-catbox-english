@@ -94,7 +94,7 @@ to the door of the Golden Land?"
  Normally, I would have eaten all of it, but I left you guys some out of pity!"
 "......The seven stake babes..."
 "In the Golden Land, all of those with minds are equal.
- ......Here, there is no distinction between us furniture, {y:0:Human}{n:0:human}s, or witches."
+ ......Here, there is no distinction between us furniture, Humans, or witches."
 "...Battler‐sama.
  We were waiting for you.
  And welcome to the Golden Land..."

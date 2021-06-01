@@ -106,7 +106,7 @@ He could see several incomprehensible moves in the records of their past games t
 "Even so, you won\'t give up, will you."
 "Yeah.
  .........I promised."
-{a:c:
+
 Kill...me.
  ......Let me die......}
 "I promised to let her die peacefully.
@@ -215,7 +215,7 @@ The two of them just stared at me silently.
 "Hmmm...
  ......Then it really is loss by default, right...?
  The witch side wins this game,
- the {y:0:Human}{n:0:human}s submit, and we wrap things up, then...?"
+ the Humans submit, and we wrap things up, then...?"
 ".........If you step down, then you lose by default and the game ends... Are you okay with that?
  .........If you want to make certain that your lonely sister...
 will always meet with miserable circumstances in an endless number of worlds, that option is indeed open to you."

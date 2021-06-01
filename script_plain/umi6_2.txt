@@ -104,7 +104,7 @@ was not.
 "I, ...I was only born recently, so I have no memories at all.
  ......B‐but I...!
  I\'m studying hard...in order to become the BEATRICE you all expect—"
-{a:c:
+
 "Beato.
  ......I thought I told you to stay in your room."}
 Battler\'s voice came out of nowhere.
@@ -357,9 +357,9 @@ She may want to be respected for her superiority,
 "Oh, sure, as you wish, my master."
 Ange raised her hands like a conductor, and the bookshelves in this bizarre study responded.
 ......Once again, several books floated out and began to swirl around Ange......
-Kinzo\'s study is the room belonging to the master in the {y:0:Human}{n:0:human} world.
+Kinzo\'s study is the room belonging to the master in the Human world.
 So, this study in the world of nonhumans belonged to the master of the game board...
-...and was a place where he could look down upon the {y:0:Humans}{n:0:humans}...
+...and was a place where he could look down upon the Humans...
 Therefore, it was understandable that one might mistake the imposing, robe‐clad man in the center of the study for Kinzo,
  if only for a second.
 It wasn\'t Kinzo.
@@ -648,7 +648,7 @@ Then, the same sound repeated several more times.
  ......Even if you had two of the exact same person, they could change enormously depending on their upbringing."
 "Even though they might both be the same human to start with, their upbringing could change them so much that they effectively become two completely different people.
  ......Usually, we use the term "person" to refer to a person, not their personality.
- However, since {y:0:Human}{n:0:human}s recognize a person by their personality, they might as well be two different people, from a {y:0:Human}{n:0:human} perspective..."
+ However, since Humans recognize a person by their personality, they might as well be two different people, from a Human perspective..."
 "......That\'s so true.
  If that tragedy twelve years ago hadn\'t happened, missy here might have been a cute girl who could smile without looking weird."
 "That\'s rude.

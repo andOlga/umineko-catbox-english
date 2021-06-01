@@ -105,7 +105,7 @@ The witch shall praise the wise, and bestow four treasures.
 One shall be all of the Golden Land\'s gold.
 ......Kinzo received a massive amount of gold from BEATRICE, and rumor has it that it still lies hidden somewhere.
 Is this, as the family members and servants are all whispering, a code showing the location of Kinzo\'s hidden gold?
-".........If a {y:0:Human}{n:0:human} reaches the solution, they will obtain a great quantity of gold.
+".........If a Human reaches the solution, they will obtain a great quantity of gold.
  .........However, if I am the one to solve it, it will mean my own resurrection..."
 .................................
 ......Kinzo, you aging mage.
@@ -466,7 +466,7 @@ Together, we called ourselves Mariage Sorcière and made each other\'s magical w
  This is where I get to show my skill...!"
 Create a creature, give it a name, give it a form.
 Doing that is no different from giving birth to new life.
-When a {y:0:Human}{n:0:human} gives birth to a child, they give it a form, give it a name to identify it by, and deepen its character by raising it in the world.
+When a Human gives birth to a child, they give it a form, give it a name to identify it by, and deepen its character by raising it in the world.
 Mariage Sorcière is doing exactly the same thing.
 In our world, we can create whatever creatures we think of, give them forms, give them names, and make them friends we can interact with.
 We were engrossed with our game in this world called Mariage Sorcière.
@@ -598,7 +598,7 @@ I do not understand it, but that\'s how this riddle is.
 "............nn."
 I felt a stabbing pain in my body.
  The anti‐magic toxin had burned my skin.
-Some {y:0:Human}{n:0:human} is probably approaching.
+Some Human is probably approaching.
  I erased my form.
 Multiple sets of footsteps approached.
 It was Genji, Shannon, ......and Kanon too.
@@ -967,7 +967,7 @@ formed some sort of theory about the first twilight."
 "......There\'s another meaning of 京.
  One where it\'s not read "kyou", but "kei".
  It\'s the name of a number.
- 10,000 is 万, 10,000 万 is {ruby:oku:億}, 10,000 億 is {ruby:chou:兆}, and 10,000 兆 is {ruby:kei:京}."
+ 10,000 is 万, 10,000 万 is 億, 10,000 億 is 兆, and 10,000 兆 is 京."
 "So it\'s a number......!"
 "......Here, I had a home‐field advantage, since I lived on Rokkenjima.
  There was a hint there that made it easier to think of the number "kei".

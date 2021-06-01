@@ -66,10 +66,10 @@ Everyone should have been able to hear Beato\'s yell.
 "Only when two people are together can a world be born and love fulfilled."
 "That is why this duel is necessary."
 "So that they can reach that number of people."
-"A‐......are you saying that furniture is less than {y:0:Human}{n:0:human}, and doesn\'t count as a whole person...?!"
+"A‐......are you saying that furniture is less than Human, and doesn\'t count as a whole person...?!"
 ""Correct.
- Furniture is less than {y:0:Human}{n:0:human}.
- So furniture and {y:0:Human}{n:0:human} cannot add up to two.""
+ Furniture is less than Human.
+ So furniture and Human cannot add up to two.""
 "That\'s insane!
  If two people love each other, their circumstances don\'t matter!!"
 ""Oh, yes they do!!""
@@ -97,7 +97,7 @@ Everyone should have been able to hear Beato\'s yell.
  As long as both people feel love, nothing else matters?
  That is a comforting lie of naive love!!"
 "We cannot forgive humans who falsely pretend that they have the right to love!!
- We cannot permit the love of sub{y:0:-Human}{n:0:human} beings, of those who do not make up the minimum number of people to create a world!!"
+ We cannot permit the love of sub-Human beings, of those who do not make up the minimum number of people to create a world!!"
 ""That is the purpose of our trial...!!
  To allow sinful souls to regain the soul of a whole person and become capable of true love!!""
 "......Zepar‐sama, Furfur‐sama."
@@ -112,7 +112,7 @@ Furfur spoke in a voice quiet enough to avoid distracting the two duelists.
  ......This is a duel to make true love succeed."
 "......I......don\'t understand......what you two are saying...!"
 "No, you must understand.
- This moment.........marks the birth of a {y:0:Human}{n:0:human} who is truly capable of loving another person."
+ This moment.........marks the birth of a Human who is truly capable of loving another person."
 "I don\'t......understand.........!!!"
 "No matter which of them wins, ......please congratulate them.
  ......This is the moment......when their days as furniture......come to an end."
@@ -318,7 +318,7 @@ There was nothing in the golden rose garden except the wind that carried golden 
 "............Of course.
  ......I swear it to her and both of you."
 "And now, let Shannon have the miracle of magic."
-"Now, your soul will become {y:0:Human}{n:0:human}.
+"Now, your soul will become Human.
  You will become a full person."
 ""Come together, incomplete souls...!!
  Become one and know love...!!""
@@ -367,7 +367,7 @@ However, the two demons were smiling quietly.
 ............Why...
 ...is it...
 ...that I like Battler‐san...?
-{a:c:
+
 ......“Mother”?}
 "Well, you know,
  I\'m not really a big fan of the domestic type of girl.
@@ -386,43 +386,43 @@ However, the two demons were smiling quietly.
  ihhihihihihihi, that\'d be awesome.
  I\'d love to rub those boobs!
  Wahahahahahaha...!"
-{a:c:――BEATRICE.
+――BEATRICE.
 Listen to me.
 I am giving you my love for Ushiromiya Battler.
 You are to become the kind of woman Ushiromiya Battler desires.}
-{a:c:You will have the golden hair he likes.
+You will have the golden hair he likes.
 You will have the blue eyes he likes.
 You will have a personality that matches his.
 And then, ......you are to love him in my place,
 and if fate allows it, be loved by him.}
-{a:c:I.........can no longer love him.
+I.........can no longer love him.
 Please, take these desires I couldn\'t bring to fruition,
 ......these feelings too great for me to bear,
 ......and see them through yourself.}
-{a:c:From this day forward,you are no longer the Rokkenjima ghost that lives only to play pranks.}
-{a:c:From this day forward,you will be the master of this island,waiting for the day that he comes to fulfill his promise.}
-{a:c:From this day forward, you will do this in my place.
+From this day forward,you are no longer the Rokkenjima ghost that lives only to play pranks.}
+From this day forward,you will be the master of this island,waiting for the day that he comes to fulfill his promise.}
+From this day forward, you will do this in my place.
 So, from this day forward, you will no longer be me.}
-{a:c:Please forgive me for pushing all of my troubles onto you,...while I alone try to find happiness.}
-{a:c:From this day forward, you have the right to hate everything.
+Please forgive me for pushing all of my troubles onto you,...while I alone try to find happiness.}
+From this day forward, you have the right to hate everything.
 From this day forward, you are the Golden Witch, BEATRICE.}
-{a:c:And, one day,
+And, one day,
 you will destroy everything, revive everything,
 ......and bring blessings to all lovers.}
-{a:c:When that day comes,
+When that day comes,
 ......I pray that you and I will both have found happiness.}
-{a:c:From this day forward, you will no longer be me.
+From this day forward, you will no longer be me.
 From this day forward, I will no longer be you.
 The two of us will split a single soul and share it.
 And though, of course, that won\'t amount to a complete soul...
 I\'m sure our dreams will be more numerous than most.}
-{a:c:Let us be blessed.........
+Let us be blessed.........
 My darling...BEATRICE.........}
-{a:c:No one else can see your form.
+No one else can see your form.
 But I can.
 And if you\'re loved by a lot of people,
 I\'m sure they\'ll all start seeing you too.}
-{a:c:We can all {y:1:‘see’}{n:1:see}...if we have love......}
+We can all ‘see’...if we have love......}
 ".........Yoshiya......kun.................."
 "...A‐
 ......are we...
@@ -521,7 +521,7 @@ Not only did he have no way to save Battler, but he couldn\'t even escape himsel
  .........I\'ll only tell you this once.
  This is what a witch is."
 "What a witch is.........?"
-{a:c:
+
 A witch is...}
 "Not the one who solves puzzles."
 "......Not the one......who solves puzzles......?"
@@ -548,7 +548,7 @@ and make it so that they\'re the ones agonizing.
 ".........A locked room.........even more horrific than Battler‐san\'s..."
 "We\'ve already gotten our hands on one, haven\'t we?"
 "A...horrific.........locked...room......"
-{a:c:
+
 .........ah...}
 In the back of Beato\'s mind,
  ......images she remembered began to flit by, one after another—

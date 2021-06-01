@@ -627,7 +627,7 @@ At first, she tried to stick him in head‐first, but then he\'d be upside‐dow
  Looks like you\'re having fun, Maria onee‐chan."
 "Yep, it\'s reeeally fun.
  Even things that would be lonely and boring alone all become fun with Sakutaro.
- Any {y:0:Human}{n:0:human} friend would have to go home when it gets late."
+ Any Human friend would have to go home when it gets late."
 "But Sakutaro doesn\'t go home, so he can be with me all the time.
  He\'ll watch TV with me,
  be together even in the futon,
@@ -680,7 +680,8 @@ But from what she said, she was always with me, and I could meet her at any time
  I\'ll try reading it seriously sometime soon.
  ......And then I won\'t be all alone anymore,
  ...will I...?"
-"Uu!"{t}‘Uryuu!’
+"Uu!"
+‘Uryuu!’
 Maria onee‐chan and Sakutaro said that at the same time, happy that I had developed an interest in the world of witches.
 With half of Sakutaro\'s face peeking out of the knapsack on her back,
  Maria walked through the late‐night shopping district in high spirits.
@@ -839,7 +840,7 @@ Because the fact is......that on this troubled night, when not a single flower o
 by my side, right?"
 "Yep.
  I\'ll be there.
- So if you try to {y:1:‘see’}{n:1:see} me and try to talk to me, I can definitely answer.
+ So if you try to ‘see’ me and try to talk to me, I can definitely answer.
  ......If you look hard and try to talk."
 "............I\'ll...
 ......give it a try."
@@ -862,9 +863,9 @@ by my side, right?"
 "Once you can visualize me even with your eyes closed,
  .........without changing anything, slowly and softly close your eyes.
  .........Well?
- Still {y:1:‘see’}{n:1:see} me?"
+ Still ‘see’ me?"
 "Y‐......yes.
- ...I think...I can probably {y:1:‘see’}{n:1:see} you..."
+ ...I think...I can probably ‘see’ you..."
 "Okay, open your eyes again for a second.
  .........Time for the real thing.
  Calm your heart, and close the diary.
@@ -872,7 +873,7 @@ by my side, right?"
 "But calm your heart and don\'t rush.
  ......Then, try to blend me back from the inside of your eyelids, back into your eyes again.
  ...Slowly visualize me in the empty air.
- ......In the empty air...{y:1:‘see’}{n:1:see} me."
+ ......In the empty air...‘see’ me."
 ".....................
  ......Okay, I can do this.
  ............Right,
@@ -890,7 +891,7 @@ Cheering me on?
  Really?
 Isn\'t that just what I\'d like to imagine...?
 No, that\'s not it.
-I just convince myself that it is...and that\'s why I cannot {y:1:‘see’{n:1:see} her}.
+I just convince myself that it is...and that\'s why I cannot ‘see’ her}.
 Maria onee‐chan is always by my side.
  And even now, she\'s definitely there, cheering me on to do my best...
 And I...can hear it.
@@ -916,7 +917,7 @@ I steadied my breathing.
 I concentrated my mind.
 Make the form of Maria onee‐chan you can see vividly on the inside of your eyelids...rise to the surface in the empty space before you.
 .........Understand magic,
- ......and {y:1:‘see’}{n:1:see}...Onee‐chan......
+ ......and ‘see’...Onee‐chan......
 "............Maria...onee‐chan.........!"
 "Huh?!
  Is someone there?!"

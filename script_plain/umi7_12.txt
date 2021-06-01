@@ -338,7 +338,7 @@ You mustn\'t leave things lying carelessly about.
  She\'ll think I hid it again...!"
 "She thinks my magic is naught but the work of a child like you...?!
  *cackle*cackle*, very well, then.
- I shall simply show her a feat impossible for {y:0:Humans}{n:0:humans} to perform...!"
+ I shall simply show her a feat impossible for Humans to perform...!"
 "I shall show her my magic!!
  Foolish Belne, if that is your name!
  You will regret that you did not heed the warnings given you by my friend!
@@ -455,7 +455,7 @@ With a grin, she put the key back into her pocket.
 However, she still hadn\'t noticed.
 She probably couldn\'t even imagine that during the few moments her guard was down...
 ...just a single key had vanished from the ring...
-It\'s not easy for a {y:0:Human}{n:0:human} to do things like that.
+It\'s not easy for a Human to do things like that.
 ......But, with magic...
 With just a little dance of the keys and a butterfly popping, ......it had disappeared.
 "Alright, fingertip inspection!
@@ -517,7 +517,7 @@ It was a completely unknown pleasure.
 After all......
 With a movement of my fingertips,
  .........the key had danced on command.
-It was an mysterious, wondrous miracle of magic—something no {y:0:Human}{n:0:human} could do.
+It was an mysterious, wondrous miracle of magic—something no Human could do.
 I still couldn\'t let go of that excitement...
 ........................
 ".........Shannon.
@@ -636,7 +636,7 @@ Finally, like a sparkler burning out, the gold butterfly gave out one last blink
  ......I was able to use it just now because there was still a little left in my fingers.
  ......But if I became a real witch, ......I\'d be able to use it whenever and however I wanted......to do anything.
  Now that I\'ve learned how fun this can be,
- I don\'t want to go back to being {y:0:Human}{n:0:human}.
+ I don\'t want to go back to being Human.
  Being a servant is just too boring.
  So, ......I\'m going to become a witch."
 "B‐become a witch...
@@ -807,7 +807,7 @@ I could see Shannon, who had dashed up to the bed I lay on and had been saying "
  She was as rigid as a doll.
 Looking down at it from this height, it really did look like a small dollhouse...
 "Farewell, Shannon.
- ......The days I spent as a {y:0:Human}{n:0:human}, growing our friendship as I attempted to emulate you, were truly fun.
+ ......The days I spent as a Human, growing our friendship as I attempted to emulate you, were truly fun.
  ...If I had never learned the joys of magic and awakened as a witch,
  everything would doubtless have remained as it was."
  .........I was your only close friend as well, wasn\'t I?
@@ -887,7 +887,7 @@ I mess up from time to time,
  .........me.........
  Oh, I am one yet many.
 I have grown tired of playing the servant.
- I have grown tired of playing the {y:0:Human}{n:0:human}!
+ I have grown tired of playing the Human!
 From this moment forth, from this night forth, I am BEATRICE!
 The Golden Witch BEATRICE, who has lived for a thousand years!
 Praise me, servants.
@@ -896,12 +896,12 @@ On the nighttime island, the mansion is my place, and that is my time...!
 Oh, I am one yet many!
 Yes, let our world swallow up everything.
  It is like the raging seas!
-Well now, let us drink the mysterious moon dry tonight, with this {y:0:Human}{n:0:human} book as a side dish!
+Well now, let us drink the mysterious moon dry tonight, with this Human book as a side dish!
 You call this mystery?
  You call this a locked room?
- You call this "a crime impossible for {y:0:Human}{n:0:human}s"?
+ You call this "a crime impossible for Humans"?
 Don\'t make me laugh!
- With all these holes and weak points, you call this a crime impossible for {y:0:Human}{n:0:human}s?!
+ With all these holes and weak points, you call this a crime impossible for Humans?!
 Is there no splendid locked‐room magic capable of astonishing me?
 Oh, not here, not there, not this, not that, all of them pathetic!
 It draws out a chuckle, but leaves me unsure which is the side dish, the moon or the book?!

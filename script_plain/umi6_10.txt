@@ -608,7 +608,7 @@ In response to these words, this time her entire body pulsated with a red light.
  It\'s a kind of enchantment.
  ......Right now, she has enough defensive power to prevent me from piercing her,
  and she even has the power to reflect the damage back upon the attacker!
- ......She\'s no longer {y:0:Human}{n:0:human}. She\'s a monster...!!"
+ ......She\'s no longer Human. She\'s a monster...!!"
 "Oh, so that\'s all.
  Then not much has changed."
 "How can you say that?"
@@ -714,7 +714,7 @@ If someone could have seen this from both sides of the door, it would have looke
 "Ah, BEATRICE\'s definition of a locked room."
 ".........What the hell...?"
 "Then this locked room will be somewhat troublesome.
- It is impossible for a {y:0:Human}{n:0:human} to carry out a locked‐room murder.
+ It is impossible for a Human to carry out a locked‐room murder.
  ......Only magic can do that.
  ......Until you truly understand magic, you will not be able to break through it."
 "You can\'t corner me any further...!
@@ -778,7 +778,7 @@ Ronove transformed into a gold butterfly and entered Krauss\'s study through the
 "....................................
  ......Haaah.........haah..."
 Jessica finally let out the breath that she had been holding down in her chest...
-Her normal {y:0:Human}{n:0:human} glint finally returned to her eyes...
+Her normal Human glint finally returned to her eyes...
 ......And then, ...she couldn\'t help but shudder at what she had done,
  ......even if it had been just a trial on the game board for the sake of her love...
 "......Is that what you wanted, demons?!"

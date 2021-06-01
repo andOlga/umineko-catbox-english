@@ -769,11 +769,11 @@ At the same time, some of the adults\' faces were pale, while others looked comp
  If and only if that special clause is fulfilled, I will lose my rights to the gold and the interest for all eternity."
 "......A special clause...?"
 "Wh‐what is it...?!"
-{e:070:Special Clause.
+Special Clause.
 BEATRICE has the right to collect the gold and accumulated interest upon the termination of the contract.
 However, if someone is able to discover the hidden gold of this contract,
  BEATRICE must abandon these rights for all time.}
-{e:070:......The collection of the interest will proceed shortly, but if any one of you fulfills the terms of this special clause,
+......The collection of the interest will proceed shortly, but if any one of you fulfills the terms of this special clause,
  I shall return everything, including the portion that has already been collected.
 Furthermore, as the first step in this collection of Kinzo‐sama\'s debt, I have taken possession of the "Ushiromiya Family Head\'s Ring", which signifies the passage of the Ushiromiya family headship from one individual to another.
 I ask that you confirm this for yourselves by examining the imprint on the wax seal.}

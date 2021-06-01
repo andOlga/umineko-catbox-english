@@ -373,7 +373,7 @@ On the outside of that circle was Mammon, a weary expression on her face...
  Disappear already, waaaah!!"
 "..................
  .........I\'m sorry, everyone.
- I wonder why {y:0:Human}{n:0:human}s are so despicable."
+ I wonder why Humans are so despicable."
 "It\'s probably because, instead of working hard themselves,
  forcing you to put the effort in is the easier way for them to greedily boost the class average.
  ......Humans are all greedy.
@@ -558,13 +558,13 @@ I tried to follow it with my eyes, but my hair was tugged upwards again.
  If it were me, I definitely couldn\'t live on!"
 "Yeah, yeah, I\'d die too.
  If that\'s better for the world, I\'d die on the spot! Wouldn\'t yooooou?!!"
-{a:c:
+
 ......Then die.}
 "Ange‐sama......"
 "Kill them all, immediately!!
  Lucifer, did you hear me?!"
 "Huh?! ......Ah..."
-"You Seven Sisters of Purgatory are incredible furniture that can massacre mere {y:0:Human}{n:0:human}s in a flash, right?!
+"You Seven Sisters of Purgatory are incredible furniture that can massacre mere Humans in a flash, right?!
  You\'re always boasting about it to me!!"
 "Then do it!
  Kill them all right now!!
@@ -643,8 +643,8 @@ made the remaining younger sisters shake even harder...
 "M‐my apologies...!!
  H‐here, under the current conditions, the anti‐magic power is...e‐extremely strong...and—"
 "What.
- You can\'t do it because {y:0:Human}{n:0:human}s are here? That\'s your logic?
- Isn\'t killing {y:0:Human}{n:0:human}s what you do?!
+ You can\'t do it because Humans are here? That\'s your logic?
+ Isn\'t killing Humans what you do?!
  If you can\'t do that, then WHAT USE are you as furniture?!!
  DIE!!!"
 "Hiii—!!"
@@ -654,11 +654,11 @@ made the remaining younger sisters shake even harder...
 As she clutched her head with both arms, Satan also turned white and fell down face first.
 The neck really did seem to be the most fragile part.
 Her head broke off weightily and rolled over to Belphegor\'s feet.
-"You can\'t do it because there are too many {y:0:Human}{n:0:human}s?
+"You can\'t do it because there are too many Humans?
  Then if I were to call them into the shadows later one by one,
  you\'re saying you guys could make a bloodbath of all of them?"
 "......With your current magical power, it may be easy for you to converse with us.
- However, you still lack the training in magical power to manifest us in front of all of the {y:0:Human}{n:0:human}s here...!"
+ However, you still lack the training in magical power to manifest us in front of all of the Humans here...!"
 "I deeply understand your anger, but even if you could use us to attack,
  murdering everyone here would only make the situation worse...!
  I do think it humiliating, but please, if you could control your anger for the time being—"
@@ -943,7 +943,7 @@ Whisper whisper.
  And then, giggle giggle.
 .........When I ordered my friends in my daydream to kill, they couldn\'t do it.
 And so,
- I asked real {y:0:Human}{n:0:human}s to kill,
+ I asked real Humans to kill,
  ......but of course, these girls can\'t do it either.
 ......In other words, both daydreams and reality are the same.
 Doesn\'t that mean that everything, absolutely everything, this world included...
@@ -965,11 +965,11 @@ The teacher was vigorously shouting something, moving to protect me.
 ......Upon seeing that, and learning that an ally had appeared for me, even if only one,
  I felt my awareness return very slightly.
 ..................
-......The only ones who can save me in the real world...are real {y:0:Human}{n:0:human}s.
+......The only ones who can save me in the real world...are real Humans.
 Never again.
  ......Never again will I seek salvation from daydreams.
-.........This is the {y:0:Human}{n:0:human} world.
-The only ones who can save a {y:0:Human}{n:0:human}...are other {y:0:Human}{n:0:human}s......
+.........This is the Human world.
+The only ones who can save a Human...are other Humans......
 "...........................
  ......Yes.
  If that\'s what you think, then that\'s your world, Ange."

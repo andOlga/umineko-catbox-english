@@ -222,4 +222,4 @@
 「くすくす！
 　何よぅ、もったいぶらずに教えなさいよ。
 新米魔女のくせに、先輩焦らすとかって、ありえないわ〜！」
-{e:090:「エピソード６、Checkmate of the golden witch！」}
+「エピソード６、Checkmate of the golden witch！」}

@@ -699,7 +699,7 @@ And one of the certainties of democracy is that the majority controls everything
 So in the end, whoever manages to buy up the most stock wins.
 ...So whoever has the most money wins.
 If Hideyoshi could obtain a large sum of money at this critical time, he would be able to avoid losing all of that which he had built up...
-{a:c:
+
 THEREFORE,
  MORE THAN ANYTHING ELSE,
 HE WANTED A LOT OF MONEY RIGHT NOW...!}
@@ -730,7 +730,7 @@ For various reasons, it was thought that winning the trial was extremely unlikel
 ...But even so, there was a way to resolve it with money.
 If he could only pay that money, though it might be painful, he could still pick himself back up.
 ...But if he didn\'t pay, he\'d lose everything.
-{a:c:
+
 THEREFORE,
  MORE THAN ANYTHING ELSE,
 HE WANTED A LOT OF MONEY RIGHT NOW...!}
@@ -746,7 +746,7 @@ Rosa uncharacteristically lay bare her emotions and yelled.
 As Krauss watched, he let slip a muffled laugh...
 ......There was nothing to fear.
  Every one of them,
-{a:c:
+
  MORE THAN ANYTHING ELSE,
 WANTED A LOT OF MONEY RIGHT NOW...!}
 In other words, the situation had been reversed.
@@ -943,13 +943,13 @@ As Nanjo lightly laughed in response, he once again looked at the epitaph.
 "......Behold the sweetfish river, running through my beloved home of old.
  You who seek the Golden Land, follow its path downstream in search of the key..."
 That which is written on the epitaph of the portrait of my beloved witch BEATRICE is as follows:
-{e:070:Behold the sweetfish river, running through my beloved home of old.
+Behold the sweetfish river, running through my beloved home of old.
 You who seek the Golden Land, follow its path downstream in search of the key.
 As you travel down it, you will see a village.
 In that village, look for the shore the two speak of.
 There the key to the Golden Land sleeps.
 You who laid hand upon the key must journey as follows to the Golden Land.}
-{e:070:On the first twilight, sacrifice the six chosen by the key.
+On the first twilight, sacrifice the six chosen by the key.
 On the second twilight, those who remain shall tear apart the two who are close.
 On the third twilight, those who remain shall praise my noble name.
 On the fourth twilight, gouge the head and kill.
@@ -959,7 +959,7 @@ On the seventh twilight, gouge the knee and kill.
 On the eighth twilight, gouge the leg and kill.
 On the ninth twilight, the witch revives, and none shall be left alive.
 On the tenth twilight, the journey ends, and you shall reach the Home of the Gold.}
-{e:070:The witch shall praise the wise, and bestow four treasures.
+The witch shall praise the wise, and bestow four treasures.
 One shall be all of the Golden Land\'s gold.
 One resurrects all the dead people\'s souls.
 One even revives all the love they possessed.

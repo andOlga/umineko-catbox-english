@@ -47,7 +47,7 @@ Just as I was about to accept this theory, ......I thought I heard someone talki
 Not only boring, but difficult, strict, constraining, joyless...
 All you get in return for your years of service is some level of respect from the newer servants.
 And even that is far from sufficient to repay you for all the hard work you\'ve done...
-{a:c:
+
 "Do you not tire...
 of such a life?"}
 Huh? ......Who......?
@@ -69,7 +69,7 @@ It was as though she\'d taken a nap there and woken up from a dream.
 Is this golden rose garden a dream?
 For some strange reason, it even felt as though my entire life up to this point had been a dream,
  and that I had finally awakened here...
-{a:c:
+
 "Welcome, Shannon.
  Welcome to my golden rose garden......"}
 There was that voice again.
@@ -215,8 +215,8 @@ So, the time passed like a Sunday morning, when you can wrap yourself in your bl
 "Pft, hahhahhahahahhaahahahahaha!
  Why are you so anxious to return to the world of that short‐tempered Natsuhi?
  Really, now.
- Are you really saying you want to return to the {y:0:Human}{n:0:human} world, where it\'s all work and no rewards?"
-"But I am {y:0:Human}{n:0:human}.
+ Are you really saying you want to return to the Human world, where it\'s all work and no rewards?"
+"But I am Human.
  I can\'t impose myself on you forever."
 "Shannon.
  It seems that you do not understand.
@@ -225,7 +225,7 @@ So, the time passed like a Sunday morning, when you can wrap yourself in your bl
  You are not obligated to say farewell.
  I will never tire of enjoying tea with you.
  On the contrary, it is quite agreeable to have you to talk to."
-"I\'m grateful for your words, but I am {y:0:Human}{n:0:human}.
+"I\'m grateful for your words, but I am Human.
  I must return to my own world."
 "That colorless world where you waste all your time with school and your job, and the family works you to the bone?
  Why do you want to return there?"
@@ -269,9 +269,9 @@ BEATRICE spoke quietly and slowly rose from her seat.
 "I regret that I have no memory of that time.
  .........However, I\'ll have to turn down your invitation."
 "Why?
- ......What responsibility do you have to the world of {y:0:Human}{n:0:human}s?
+ ......What responsibility do you have to the world of Humans?
  What duty do you have to return there?!"
-True, the world of {y:0:Human}{n:0:human}s, or the world of servants, is busy all the time.
+True, the world of Humans, or the world of servants, is busy all the time.
 Madam is strict, high‐strung, and has a short temper.
 It\'d be a lie if I said the everyday chores weren\'t a pain, and having to balance work with school makes it even harder.
 BEATRICE had watched over those painful days the whole time.
@@ -283,15 +283,15 @@ She had tried to give Shannon a perfect welcome, to truly make her happy.
 BEATRICE was overcome with shock, and completely unable to understand.
 "I have given you the perfect welcome to this paradise.
  And the days to follow will be even more fun."
-"......So, if you still choose the {y:0:Human}{n:0:human} world after all of that, does it mean that you find something there that is even more fun than the pleasures of witches?"
+"......So, if you still choose the Human world after all of that, does it mean that you find something there that is even more fun than the pleasures of witches?"
 ".........That\'s right.
- There are things in the {y:0:Human}{n:0:human} world that are even more fun than magic."
+ There are things in the Human world that are even more fun than magic."
 "Absurd...... That can\'t be...!"
 ".........Yes,
  it\'s true."
 Shannon\'s expression was soft.
 However, her words were firm.
- There was something wonderfully alluring in the {y:0:Human}{n:0:human} world.
+ There was something wonderfully alluring in the Human world.
 And that something was apparently not in this paradise, which was supposed to have everything just as they wanted it......
 "..................Absurd...
  ......I don\'t understand,
@@ -332,7 +332,7 @@ Above Shannon\'s empty seat, a black hole opened, and the owner of that voice fe
  How could she say it with such certainty..."
 "Maybe she just wanted to get back to sleep quickly, since dawn is coming soon."
 "............What pleasure could Shannon know that I do not?!
- What is this "something" that can be found in the {y:0:Human}{n:0:human} world but not in my paradise?!
+ What is this "something" that can be found in the Human world but not in my paradise?!
  I don\'t understand!
  .........I want to know!"
 "Thinking about complicated stuff will just fuel your headache.
@@ -520,10 +520,10 @@ um......"
  We really did enjoy our youth to the fullest."
 "And what.........is this?"
 Shannon.
- ......Is this that "fun thing" of the {y:0:Human}{n:0:human} world?
+ ......Is this that "fun thing" of the Human world?
 Is this incomprehensible messing around the thing that you found?
 "A bunch of kids gathered together, playing stupid games and talking about trivial things.
- ......Is this the {y:0:Human}{n:0:human} pleasure you found that surpasses the pleasures of witches?"
+ ......Is this the Human pleasure you found that surpasses the pleasures of witches?"
 ".........Yes.
  Doesn\'t it look fun to you?"
 "I will not call it boring.
@@ -792,7 +792,7 @@ It is something I cannot have,
 All I know is that no matter how great a witch I might become, I cannot create this emotion.
 It must be given by another person.
 For the first time, I realized that I was not all powerful.
-And I knew what Shannon had discovered in the world of {y:0:Human}{n:0:human}s......
+And I knew what Shannon had discovered in the world of Humans......
 ".........This emotion,
  ...............it\'s just too much......
  ...Once you\'ve felt it,

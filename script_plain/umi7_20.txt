@@ -67,7 +67,7 @@ Then, the game board floated up once again, .........and a world unfolded itself
 "Yes, I will.
  ......As the Witch of Miracles, and as the final Game Master, I proclaim the start of the final game.
  And I make you this promise."
-{a:c:
+
 
 I will not give this game a happy ending.}}
 *sob*.
@@ -123,11 +123,11 @@ The girl obediently sat down on it......
  There were a lot of us.
  It was an important day, the day of the family conference."
 ".........Hmm, where should I start?"
-{a:c:
+
 This is...
 the final game, made just for Ange.
 }
-{a:c:
+
 Listen, Ange.
 This is what happened on Rokkenjima on that day.
 It isn\'t sad or painful at all.........

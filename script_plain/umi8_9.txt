@@ -1,33 +1,46 @@
 The tragedy of the first twilight was discovered at 6:00 in the morning on the following day.
 Gohda, who had woken up to get breakfast ready, went to check on the adult siblings, who had remained in the dining hall since the previous night because of the family conference.
 "Talk about when you discovered the crime."
-"{p:42:The dining hall was locked up}.
+"
+The dining hall was locked up}.
  Of course, there is a lock on the doors to the dining hall, but they usually remained unlocked.
  I knocked, but there was no answer..."
-"{p:42:That\'s when I arrived}.
+"
+That\'s when I arrived}.
  I recommended that he try unlocking the door, just in case."
-"When {p:42:I unlocked the door with a master key}, a terrifying sight awaited me inside......"
-"{p:42:Eva‐sama, Hideyoshi‐sama, Rudolf‐sama, Kyrie‐sama, Rosa‐sama, and Genji‐san,
+"When 
+I unlocked the door with a master key}, a terrifying sight awaited me inside......"
+"
+Eva‐sama, Hideyoshi‐sama, Rudolf‐sama, Kyrie‐sama, Rosa‐sama, and Genji‐san,
  six people in all, were lying there, covered in blood......}"
 "A great tumult followed.
- {p:42:Everyone gathered in the dining hall}."
+ 
+Everyone gathered in the dining hall}."
 "I don\'t want to remember it...
  The sight of all the sobbing children crouched over the corpses of their own parents..."
 "There was a chance they might\'ve been alive still.
  ......Everyone was shaking them desperately."
 "But it was no use...
- {p:42:The death of each parent was confirmed by their own child}..."
-"{p:42:Doctor Nanjo and I confirmed that Genji‐sama was dead}."
+ 
+The death of each parent was confirmed by their own child}..."
+"
+Doctor Nanjo and I confirmed that Genji‐sama was dead}."
 "It was such a terrible way to be killed......
- {p:42:Doctor or not, no one examining a body will reach the wrong conclusion}."
-"Looks like {p:42:all of the victims died instantly}.
+ 
+Doctor or not, no one examining a body will reach the wrong conclusion}."
+"Looks like 
+all of the victims died instantly}.
  ......Kihihihihi."
-"{p:42:After inspecting the interior of the dining hall, we determined that all of the doors and windows had been locked, making it a locked room}."
-"And {p:42:nothing suspicious was found inside the dining hall}."
-"Of course, {p:42:there was no one hiding in the dining hall either}."
+"
+After inspecting the interior of the dining hall, we determined that all of the doors and windows had been locked, making it a locked room}."
+"And 
+nothing suspicious was found inside the dining hall}."
+"Of course, 
+there was no one hiding in the dining hall either}."
 "Naturally.
  All of us are here right now.
- {p:42:It\'s clear that no one is hiding}."
+ 
+It\'s clear that no one is hiding}."
 "But Dad, if that\'s true, it doesn\'t make sense...
  Six people were killed, and the dining hall\'s a locked room!
  How could someone have killed them and escaped?!"
@@ -73,7 +86,8 @@ The servants keep the master keys on their person at all times, so it is impossi
 "That\'s an interesting metaphor.
  ......In other words, in the world of this game, it isn\'t the master keys, but the five servants themselves that can lock or unlock doors."
 "We tried to retrieve Genji‐san\'s master key, but had no luck."
-"To prevent trouble later on, {p:42:we destroyed Genji\'s master key}."
+"To prevent trouble later on, 
+we destroyed Genji\'s master key}."
 This was the crime of the first twilight.
 The scene was the fully locked room of the dining hall.
 None of the servants holding master keys have alibis.
@@ -91,23 +105,31 @@ However, no matter how much time passed, Krauss and Natsuhi were the only ones w
 Calls were sent to both Krauss and Natsuhi\'s rooms using the extension phone line, but there was no answer.
 Something might have happened.
 Everyone headed to Krauss\'s and Natsuhi\'s rooms together, ......and in Natsuhi\'s room, they found Krauss and Natsuhi lying sprawled on the floor.
-"{p:42:Madam\'s room was locked}!
+"
+Madam\'s room was locked}!
  It\'s just like the dining hall!"
-"After getting everyone\'s permission, {p:42:I unlocked the door}..."
-"{p:42:Krauss‐sama and Natsuhi‐sama lay sprawled on the floor inside the room}."
-"{p:42:Doctor Nanjo checked their pulse.
+"After getting everyone\'s permission, 
+I unlocked the door}..."
+"
+Krauss‐sama and Natsuhi‐sama lay sprawled on the floor inside the room}."
+"
+Doctor Nanjo checked their pulse.
  Then, he announced that the two of them had died instantly}."
 "Correct.
- {p:42:I confirmed both of their deaths.
+ 
+I confirmed both of their deaths.
  There can be no doubt that they died instantly}."
 "I searched all over the room, looking for a clue...!
- In the end, {p:42:I found that the windows and doors were all locked, making it a locked room}."
+ In the end, 
+I found that the windows and doors were all locked, making it a locked room}."
 "Another locked room!
  And yet again, we servants who have master keys will be suspected...!"
 "B‐but have no fear...!
  After Madam began to suspect us, we started keeping an eye on each other!"
-"{p:42:All of us servants were together the whole time}."
-"{p:42:All of us servants can prove an alibi for all of the other servants}."
+"
+All of us servants were together the whole time}."
+"
+All of us servants can prove an alibi for all of the other servants}."
 "Now that\'s interesting.
  So, you\'re saying that this locked room is even more perfect."
 ".........In the case of the first locked room, no one had an alibi.
@@ -115,13 +137,17 @@ Everyone headed to Krauss\'s and Natsuhi\'s rooms together, ......and in Natsuhi
 "In this world, the servants themselves are living master keys.
  As long as those servants have perfect alibis, locking Natsuhi\'s room is impossible..."
 "We decided to preserve the crime scene as it was."
-"{p:42:We put duct tape all over the outside of the doors and windows, sealing them}!"
+"
+We put duct tape all over the outside of the doors and windows, sealing them}!"
 "I\'m sure the culprit left some sort of clue in this room!
- {p:42:We made sure that no one would be able to enter or leave until the police arrived}!"
+ 
+We made sure that no one would be able to enter or leave until the police arrived}!"
 "Then, we did the same to the dining hall.
- {p:42:We also sealed the dining hall in the same way}."
+ 
+We also sealed the dining hall in the same way}."
 "We reached the conclusion that the entire mansion itself should be preserved.
- {p:42:We also sealed the mansion itself, and all of us took refuge in the guesthouse}."
+ 
+We also sealed the mansion itself, and all of us took refuge in the guesthouse}."
 "They sealed the whole mansion?
  Duct tape on all the windows?
  They even used a ladder for the windows on the third floor?"
@@ -175,24 +201,31 @@ There, if everyone watched everyone else, they should be able to prevent further
 However, they couldn\'t do that without any breaks until the typhoon passed.
 Once again, their actions left a weak point open, and they were faced with yet another tragedy.
 "Shannon‐chan and Kanon‐kun, who went outside on an errand, still haven\'t come back...!"
-"George nii‐san got upset, so {p:42:we all went outside to look for them}."
+"George nii‐san got upset, so 
+we all went outside to look for them}."
 "We found Shannon‐san lying there in the rose garden.
  Oh, poor, poor Shannon‐san......"
 "I prayed she was still alive.
- However, {p:42:I was forced to acknowledge that she was dead}..."
-"Of course, {p:42:I also examined her and confirmed her death}."
+ However, 
+I was forced to acknowledge that she was dead}..."
+"Of course, 
+I also examined her and confirmed her death}."
 "When the two of them left, we were busy checking the locks around the guesthouse.
- So, {p:42:not one of us has an alibi}...!"
+ So, 
+not one of us has an alibi}...!"
 "Me, kill her?!
  How could I have killed her?!!"
 "Yeah.
  George onii‐chan couldn\'t kill her, uu."
 "Later on, we learned that George nii‐san alone had an alibi.
- {p:42:At least regarding Shannon\'s death, it was impossible for George nii‐san to be the murderer}."
+ 
+At least regarding Shannon\'s death, it was impossible for George nii‐san to be the murderer}."
 "To turn it around,
- {p:42:......anyone could have killed her besides George‐aniki}."
+ 
+......anyone could have killed her besides George‐aniki}."
 "To prevent the culprit from using it for any mischief,
- {p:42:we destroyed the master key Shannon‐san had held on the spot}."
+ 
+we destroyed the master key Shannon‐san had held on the spot}."
 "......At the time Shannon is killed, Kanon goes missing forever.
  .........
 From now on, Kanon is treated as having been killed.
@@ -216,22 +249,28 @@ However, several locked‐room murders had already occurred.
 Could locking themselves in a locked room do anything more than invite another tragedy?
 After arguing fiercely in the cousins\' room about finding the culprit, they decided to go to the servant room to double‐check the testimonies of Nanjo, Kumasawa, and Gohda.
 And there, ......they learned that a tragedy had occurred once more.
-"{p:42:Judging by these wounds, Gohda‐san and Kumasawa‐san died instantly}, I believe.
+"
+Judging by these wounds, Gohda‐san and Kumasawa‐san died instantly}, I believe.
  Such a gruesome way to die..."
 "Like hell they could survive after this...!
- {p:42:Gohda‐san and Kumasawa‐san are both dead}!"
+ 
+Gohda‐san and Kumasawa‐san are both dead}!"
 "Well, we have been busy, keeping a lookout and locking up and all that.
- Once again, {p:42:none of us has an alibi}."
+ Once again, 
+none of us has an alibi}."
 "That\'s not true.
  Look.
  ......Considering the way they were killed, the culprit would definitely get blood spatter on themselves."
 "But Doctor Nanjo and all of the cousins have no blood on them."
-"All of us...in other words, {p:42:the four cousins and Doctor Nanjo couldn\'t have killed Gohda‐san and Kumasawa‐san}."
+"All of us...in other words, 
+the four cousins and Doctor Nanjo couldn\'t have killed Gohda‐san and Kumasawa‐san}."
 "In that case, it\'s clear that the culprit is someone other than us."
-"I guessed that someone might have snuck in, so I checked around, {p:42:but the guesthouse was still completely locked up}."
+"I guessed that someone might have snuck in, so I checked around, 
+but the guesthouse was still completely locked up}."
 "Perhaps the culprit has a master key after all..."
 "That\'s impossible.
- {p:42:No master keys exist anymore except the two keys on the two people who lie dead here}."
+ 
+No master keys exist anymore except the two keys on the two people who lie dead here}."
 "Since the two master keys that exist are here inside the guesthouse,
  ......that makes this guesthouse a perfect locked room...!"
 "Well, since someone\'s dead, it obviously wasn\'t perfect.
@@ -244,17 +283,23 @@ At least, that should have been true......
 This time, Doctor Nanjo was the one who was killed.
 He was killed in the entrance hall of the guesthouse.
 It was far too foolish of him to come here alone to check that everything was locked.
-"{p:42:H‐he\'s dead...
+"
+H‐he\'s dead...
  He\'s been killed......}!"
-"Even I...can say for sure that {p:42:this was an instant death}..."
-"{p:42:Everything is locked up perfectly}.
+"Even I...can say for sure that 
+this was an instant death}..."
+"
+Everything is locked up perfectly}.
  How did it happen, if this is a locked room?"
 "Then that means the culprit is one of us...!"
 "Impossible!
- Judging by the circumstances, {p:42:Maria, Battler, George nii‐san and I all couldn\'t have killed Doctor Nanjo}!"
-"In the first place, {p:42:no one could kill Doctor Nanjo inside the guesthouse}!"
+ Judging by the circumstances, 
+Maria, Battler, George nii‐san and I all couldn\'t have killed Doctor Nanjo}!"
+"In the first place, 
+no one could kill Doctor Nanjo inside the guesthouse}!"
 "And look at this.
- Simply put, {p:42:this is proof that Doctor Nanjo didn\'t leave the guesthouse}...!"
+ Simply put, 
+this is proof that Doctor Nanjo didn\'t leave the guesthouse}...!"
 "Then that means no one could kill Doctor Nanjo, right?
  So why was he killed?"
 No one could answer that innocent question.
@@ -269,17 +314,23 @@ George, Battler, and Maria hurriedly chased after her.
 Then, outside the building, they found Jessica lying on the ground.
 It was, as anyone could tell by looking, a gruesome corpse......
 "Poor......Jessica‐chan.
- {p:42:She probably died instantly}."
-"{p:42:There\'s no way she could live through this}.
+ 
+She probably died instantly}."
+"
+There\'s no way she could live through this}.
  Kihihihihi."
 "The three of us were together the whole time!
- {p:42:George‐aniki, Maria and I couldn\'t have killed Jessica}!"
+ 
+George‐aniki, Maria and I couldn\'t have killed Jessica}!"
 "Yeah.
- {p:42:The three of us couldn\'t have killed Jessica}."
+ 
+The three of us couldn\'t have killed Jessica}."
 "As if Maria‐chan could kill someone.
- {p:42:Maria‐chan couldn\'t kill anyone}."
+ 
+Maria‐chan couldn\'t kill anyone}."
 "Kihihi, thanks.
- {p:42:George onii‐chan couldn\'t kill an adult.
+ 
+George onii‐chan couldn\'t kill an adult.
  He could kill a kid though}.
  Kihihihihihi."
 "Ah, I don\'t understand it at all...!!
@@ -319,7 +370,7 @@ The curtain is lowered on this tale, for now......
  ......These seem to be the key to Lady BERNKASTEL\'s game."
 "Yeah, that\'s right.
  ......I\'ll explain the rules for my game."
-{e:100:
+
 • The definition of "culprit" is "one who murders".
 • It is possible for a culprit to lie.
 • It is possible for a culprit to lie even before committing murder.

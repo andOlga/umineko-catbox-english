@@ -84,7 +84,7 @@ In a normal world, that probably wouldn\'t even count as movement,
 ...Then something else moved.
 It was a black cat that had been dozing in the shadows near the taxi rank.
 It came up right behind the woman,
- ......and leisurely...changed its form into that of a {y:0:Human}{n:0:human}.
+ ......and leisurely...changed its form into that of a Human.
 It wasn\'t a cat.
  It was a witch.
 Of course, the woman was also a witch.

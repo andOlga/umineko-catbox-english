@@ -89,7 +89,7 @@ The black cat spoke as it tore the dried plum apart with its mouth.
  That was a good one."
 Even as Hachijo laughed, her fountain pen was already sliding across the page.
 Beautiful letters appeared almost as fast and proficiently as a typewriter.
-......Only {y:0:Human}{n:0:human}s called her creations "manuscripts".
+......Only Humans called her creations "manuscripts".
 With her fountain pen and writing paper, she was creating a world......
 As she did, the hands of the clock would spin around like a top.
 The light and shadows that came in through the window changed their angle so fast, they might have been the hands of a clock themselves...
@@ -310,7 +310,7 @@ Beato just blew them apart with the red truth and an elegant wave of her pipe.
  At least for that one thing, I\'m grateful."
 "But as for what happened in 1986...
  As for who took your relatives and your family away from you...
- As a {y:0:Human}{n:0:human}, your desire to know the truth is quite natural.
+ As a Human, your desire to know the truth is quite natural.
  ......However, even knowing this, Battler decided that it would be best if you didn\'t return to 1986."
 "I know what Onii‐chan\'s trying to say...!
  He\'s telling me to look to the future and live, instead of being stuck in the past, right?!"
@@ -660,9 +660,9 @@ They saw a goat chewing the same pillar that was holding it up,
  Is living in ignorance the only way we can have hopes and dreams...?!"
 "......Both living with knowledge and living in ignorance have their benefits, as well as their shortcomings.
  You\'re even free to choose which path you take.
- .........That\'s what makes {y:0:Human}{n:0:human}s powerless."
+ .........That\'s what makes Humans powerless."
 "While people can learn, they cannot "unlearn"......"
-"And so, the all‐knowing god has stepped in for the sake of the {y:0:Human}{n:0:human}s who cannot know all,
+"And so, the all‐knowing god has stepped in for the sake of the Humans who cannot know all,
  marking out things that should be learned and things that should not be learned."
 "............Too much curiosity...can kill.........your hopes and dreams."
 "Humans are pitiable beings, who are unable to simply avoid those things which should not be LEARNED.

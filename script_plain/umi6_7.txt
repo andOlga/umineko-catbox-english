@@ -324,12 +324,12 @@ As Kanon slumped his shoulders, Jessica slapped him on the back.
 I am furniture, so it is useless to dream.
 Because he had rigidly believed that, he had distanced himself from everything and shut himself away.
 However, during that time, Shannon had undergone many life adventures.
-And now, her hand rested on the door separating furniture and {y:0:Human}{n:0:human}s......
+And now, her hand rested on the door separating furniture and Humans......
 The old Kanon would only have seen this card game as a way to pass the time.
 However, ......the new Kanon was now capable of gaining something new from this experience.
 That could probably be called...growth.
 Furniture does nothing but rot with the passage of time.
-Being able to grow......is a privilege given only to {y:0:Human}{n:0:human}s.
+Being able to grow......is a privilege given only to Humans.
 "Thanks for playing with us.
  You probably had work to do, like filling in the log, right...?
  Seriously, thanks for going along with us."
@@ -442,15 +442,15 @@ However, Kanon was calm.
  And it is also something I must fight for with all my soul."
 "What are you talking about...?
  I don\'t want to hear any more of that "I\'m furniture so I can\'t fall in love" talk.
- You\'re a {y:0:Human}{n:0:human}, not furniture...!"
+ You\'re a Human, not furniture...!"
 "I understand.
- That\'s why I intend to become {y:0:Human}{n:0:human}.
+ That\'s why I intend to become Human.
  But at the moment, I am furniture."
-"Just do it, then! Become {y:0:Human}{n:0:human}...!"
+"Just do it, then! Become Human...!"
 "The witch taught me once.
  ......The single element of this world.
  She said it was love.
- ......It\'s something that {y:0:Human}{n:0:human}s born into this world can take for granted."
+ ......It\'s something that Humans born into this world can take for granted."
 "......However, it is not something that those not from this world, who were born as furniture, can take for granted.
  .........In order to gain it for themselves, they must have magic or a miracle."
 ......In the same way that Nee‐san and George‐sama...
@@ -464,7 +464,7 @@ However, Kanon was calm.
 "...............‘Why is magic necessary?’
  ......Is that it...?"
 "Both Shannon and Kanon—no, I\'ll purposefully refer to them as "furniture".
- ......The furniture has always claimed that there cannot be love between furniture and {y:0:Human}{n:0:human}s.
+ ......The furniture has always claimed that there cannot be love between furniture and Humans.
  That\'s where the magic of the golden butterfly brooch came into play—it was the miraculous result of that magic that love was established between Shannon and George onii‐chan.
  That\'s what they claim."
 "Surely it would not be a stretch if they thought that forbidden love across class boundaries...
@@ -552,16 +552,16 @@ It feels almost as though Shannon is hesitating because, if she uses up that mir
 "......If that person was shrouded in the anti‐magic toxin, they wouldn\'t be able to make use of the brooch\'s magic power..."
 "Precisely.
  A witch\'s magical items often lose their power if they are not handed over directly."
-"However, in just the same way that a witch can manifest herself if her existence is acknowledged by a great many {y:0:Human}{n:0:human}s and the anti‐magic toxin disappears,
+"However, in just the same way that a witch can manifest herself if her existence is acknowledged by a great many Humans and the anti‐magic toxin disappears,
  the power of that magical item can also be preserved if it is believed in by a great many people."
 "That\'s ironic.
- ......No matter what kind of magic we witches give out, everything depends on whether the {y:0:Human}{n:0:human} we give it to can accept it."
+ ......No matter what kind of magic we witches give out, everything depends on whether the Human we give it to can accept it."
 "I have heard that the same goes for medicine.
- Even with the exact same medicine, {y:0:Human}{n:0:human}s who know of the medicine\'s effect experience it to a greater degree."
+ Even with the exact same medicine, Humans who know of the medicine\'s effect experience it to a greater degree."
 "......Oh, I think I understand.
  When taking cold medicine, I\'ve gotten the feeling that it\'s more effective when you read the description on the bottle."
 As she listened, Beato thought that magic sounded a bit like a charm.
-When most {y:0:Human}{n:0:human}s think of magic,
+When most Humans think of magic,
  they think of incredible miracles being performed one after another in front of a crowd.
 However, this true magic that the older sister spoke of sounded almost like a charm,
  something that had no effect if the person using it didn\'t believe.
@@ -574,7 +574,7 @@ But if, with the power of magic, you think there just might be some chance of yo
 Zero remains zero forever, but if even a faint probability were to exist,
  ......it would be no exaggeration to say that an impossible miracle had occurred, compared to the time when the probability was zero.
 Humans can use magic to take "resignation", by which they themselves make the probability of success zero, and cancel it out.
-When a {y:0:Human}{n:0:human} does not give up, though their chances of success may be small, those chances do exist.
+When a Human does not give up, though their chances of success may be small, those chances do exist.
 And the stronger their belief, the more those odds rise.
 It was easy to imagine that Shannon had made earnest wishes upon the brooch, believed in its effect,
  ......and made many little efforts to get George to like her.
@@ -636,9 +636,10 @@ When the cup was lifted up,
 "D‐...does this count as...magic......?"
 "*cackle*cackle*cackle*......
  Yes, it most certainly does.
- {p:41:You used magic to create a golden flower petal inside an overturned cup.
+ 
+You used magic to create a golden flower petal inside an overturned cup.
  It was a splendid bit of magic}."
-"‘Without love, it cannot be {y:1:‘seen’}{n:1:seen}’.
+"‘Without love, it cannot be ‘seen’’.
  That much I understand."
 "It may be viewed as a trick.
  It may also be believed to be magic.
@@ -677,7 +678,7 @@ FEATHERINE laughed lightly.
 "‘Wa‐ha‐ha‐ha.’"
 "Pft, ......*giggle*giggle*, hahahahahahaha..."
 I understand that a part of magic is created by a believing heart.
-And that magic probably permeates deep into the world of us {y:0:Human}{n:0:human}s as well.
+And that magic probably permeates deep into the world of us Humans as well.
 However, though it does permeate so far, the power that dwells within magic is small.
 Visiting a shrine before an important exam to pray that you\'ll pass is something that many people do.
 However, not many people will actually credit that visit as the reason for their success.
@@ -713,7 +714,7 @@ Though it was just a single wing, it was easy to tell from its distinctive shape
 "That\'s not true...
  I started liking you because of my own honest feelings..."
 "......Thank you very much.
- ...You are {y:0:Human}{n:0:human}, so you do not believe in witches or magic.
+ ...You are Human, so you do not believe in witches or magic.
  It\'s only natural.
  ......However, as furniture created by magic, my very existence here...
 ...is proof that the miracle of magic exists."
@@ -728,7 +729,7 @@ However, she couldn\'t understand it, and had to ask him to repeat it with a bit
  ......I stepped on it and crushed it, so we each have one part."
 The brooch had lost its power when it was split in half.
 However, if it was ever joined together again, ......its magic would be revived.
-It would revive the miraculous power that could join furniture and a {y:0:Human}{n:0:human} together...
+It would revive the miraculous power that could join furniture and a Human together...
 "However, a single brooch can only grant one person\'s wish.
  ......Only one of us furniture can be joined by this single brooch."
 It was the single spark of love that the old BEATRICE with her shrill laugh had sown on a day long ago.

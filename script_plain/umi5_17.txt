@@ -53,7 +53,7 @@ So now...
 .........the Golden Witch BEATRICE...
 ...had no more reason...
 ......to exist............
-{a:c:
+
 .........Thank you...
 ......Liar......
 ...Goodbye......
@@ -112,7 +112,7 @@ So if that "premise" isn\'t there, there\'s no need to search for hidden doors.
 I get the feeling that the detective trying to expose the truth and the illusion trying to mask it with fiction...
 are getting blended together, leading to a bizarre form of argument similar to a Devil\'s Proof.
 Making a locked‐room murder seem to be accomplished by a witch with magic—that\'s fantasy.
-Exposing that it was a {y:0:Human}{n:0:human}\'s crime done with tricks—that\'s anti‐fantasy.
+Exposing that it was a Human\'s crime done with tricks—that\'s anti‐fantasy.
 Investigating all possibilities to expose what those tricks are—that\'s mystery.
 But claiming that possibilities with no hints supporting them are unworthy of investigation—that\'s......also mystery?
 Hidden doors, by definition, are hidden in a way that there can\'t be any clues.
@@ -121,7 +121,7 @@ Would claiming that hidden doors therefore necessarily exist even if the detecti
 .........That\'s enough of that.
 This argument is too far of a digression from the riddles I\'m actually supposed to be solving.
 My fight is very simple.
-I\'m only fighting to explain that it was possible for a {y:0:Human}{n:0:human} to carry out these crimes which were supposedly carried out by a witch.
+I\'m only fighting to explain that it was possible for a Human to carry out these crimes which were supposedly carried out by a witch.
 This whole discussion about "mystery" and "anti" doesn\'t serve any purpose.
 So I can\'t bring myself to have any particular interest in the rules known as the Knox Decalogue...
 "............Do you dislike Knox?"
@@ -159,7 +159,7 @@ No one would want to try solving the mystery in the first place if they knew the
 "If you don\'t feel like trying to deduce anything...what does that mean...?"
 "It means you don\'t even feel like reading to begin with."
 "That is CORRECT.
- ......{y:0:Humans}{n:0:Humans} are weak creatures who cannot even think unless they have assurance that reasoning is POSSIBLE."
+ ......Humans are weak creatures who cannot even think unless they have assurance that reasoning is POSSIBLE."
 "...That reasoning is possible.
  ......In other words, they need encouragement that they can solve it if they do their best."
 That......might actually be true.
@@ -547,7 +547,7 @@ Also, at the end of the first game,
 In other words, ......this entire story is a world which includes the personal opinions of an observer,
  namely, the person who wrote that message in a bottle.
 In other words, the observer isn\'t God.
- It\'s a {y:0:Human}{n:0:human}.
+ It\'s a Human.
 Therefore, there\'s no guarantee that the descriptions are truly impartial.
 By the end of the first game,
  it had already been made clear that the text violated a constant premise of mystery stories:
@@ -677,7 +677,7 @@ They\'re definitely there.
 It\'s something that has been repeated over and over again throughout the tale...
 ...persistently so.
 "......Without love,
- ......the truth...cannot be {y:1:‘seen’}{n:1:seen}......"
+ ......the truth...cannot be ‘seen’......"
 Slowly, the tea room dissolved into darkness......
 Then, as though I was slowly sinking into a pitch black sea,
  .........I passed through the cracks of the long journey I\'d taken with Beato...
@@ -699,7 +699,7 @@ Therefore,
 The eternal lady...
 ...had been waiting there for Dante...
 ...the whole time......
-{a:c:And then.........I knew.}
+And then.........I knew.}
 ......I finally...reached the truth.........
 .........In the depths, ...no,
  .........at the peak...of Mount Purgatory...............
@@ -815,7 +815,7 @@ And because you did...I have now arrived at that miracle.
 But......your time...
 ...didn\'t last long enough............
 If I had reached this point even a little sooner...
-If I could have {y:1:‘seen’}{n:1:seen} the truth......!!
+If I could have ‘seen’ the truth......!!
 Even if it had been right before time was up,
  .........I might...
 ......have been able to save you...!!
@@ -1062,7 +1062,7 @@ Battler proposed that he might be the baby from 19 years ago,
  ......and announced that he would reconstruct the crime with himself as the culprit.
 As Dlanor cautiously held her sword at the ready, she gauged the distance between them...
 Now that Battler had inherited the position of this world\'s territory lord and even attained the rank of Endless Sorcerer,
- his movements surpassed {y:0:Human}{n:0:human} understanding.
+ his movements surpassed Human understanding.
 By now, the physical distance between them probably counted for nothing.
 Because their extremely agile battle was surpassing the point where the concept of distance made any difference.
 "......A good START.
@@ -1231,7 +1231,7 @@ However, she had her own Inquisitor who could also use red without proof to coun
 "
 Knox\'s 2nd!!
  It is forbidden for supernatural agencies to be employed as a detective TECHNIQUE!
- If you intend on showing that Kinzo has died with the red truth, I demand that you present evidence of a {y:0:Human}{n:0:human} truth supporting such a STATEMENT}...!"
+ If you intend on showing that Kinzo has died with the red truth, I demand that you present evidence of a Human truth supporting such a STATEMENT}...!"
 "......Forgive me, you crazy old bastard."
 "Go forth, Battler.
  Step over my dead body...!!"
@@ -1242,7 +1242,7 @@ Presentation of evidence.
 Can you prove that this is Ushiromiya Kinzo\'s BODY?!
  No matter how much it resembles him, unless you can prove that it is him,
  it is possible to claim that it is a substitute corpse from someone ELSE!!
- Can you show that it is Kinzo\'s body with {y:0:Human}{n:0:human} truth ALONE?!
+ Can you show that it is Kinzo\'s body with Human truth ALONE?!
  In this one case, I will treat any rebuttal that uses only the red truth as INVALID}...!!"
 "......Ooh.
  Any counter with the red truth will be invalid?
@@ -1266,7 +1266,8 @@ Dlanor had sealed off the red truth as a means of proving that Kinzo\'s corpse h
  It\'s impossible.
  ...It can\'t be done...!"
 "......Not with red or blue, ...right......?"
-"{p:41:I guarantee that this is the corpse of Ushiromiya Kinzo}...!!"
+"
+I guarantee that this is the corpse of Ushiromiya Kinzo}...!!"
 Then,
  ...when Dlanor...
 ...met with Battler\'s golden flash,

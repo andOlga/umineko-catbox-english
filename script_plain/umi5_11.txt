@@ -494,7 +494,7 @@ Natsuhi averted her gaze once more.
  ......It\'s alright, Natsuhi.
  Remain calm.
  .........You can prove that someone exists, but you can\'t prove that they don\'t exist."
-"In other words, the {y:0:Human}{n:0:human} world is one in which regardless of whether something exists or not, you can make it "exist".
+"In other words, the Human world is one in which regardless of whether something exists or not, you can make it "exist".
  ......And the shadows in which you can make it "exist" form the world of us witches and the world of demons and devils."
 "......You mean...the Devil\'s Proof."
 "Yes.
@@ -774,11 +774,11 @@ stopped mere millimeters from Erika\'s face, so close that you might just barely
 "You certainly are picky for a witch."
 "Hahha!!
  You think yourself a witch\'s equal?
- Don\'t be so conceited, you miserable little {y:0:Human}{n:0:human}!!"
+ Don\'t be so conceited, you miserable little Human!!"
 Beato snapped her fingers, and something bounced around the room at terrifying speeds...!!
 It was the witch\'s stake.
  The witch\'s wedge which contained the power of the blue truth within it...!
-Of course, a mere {y:0:Human}{n:0:human} like Erika couldn\'t follow its terrible speed with her eyes.
+Of course, a mere Human like Erika couldn\'t follow its terrible speed with her eyes.
 Erika understood this, so she didn\'t attempt to look every which way stupidly trying to spot it.
 "You slowpoke!!
  Take this!!"
@@ -816,7 +816,7 @@ However, her indifferent, relaxed expression didn\'t budge an inch either.
  This is one of those spaces.
  ......In that case, I\'ll need a piece suitable for fighting a witch.
  ......I am the detective.
- Let it be my role to deal with the {y:0:Human}{n:0:human} culprit.
+ Let it be my role to deal with the Human culprit.
  You are a witch.
  ...There is a piece better suited to the role of dealing with witches and demons."
 "Allow me to introduce you.
@@ -1389,7 +1389,7 @@ He wasn\'t feeling compassion for Natsuhi because her lie was about to be expose
 However, he couldn\'t forgive Erika, who was simply enjoying the "intellectual rape" of cornering Natsuhi,
  or any of the people going along with her.
 Then, he whispered softly.
-{a:c:
+
 ".........No good."}
 Beato and the others definitely heard that...
 "You don\'t think......Battler might...turn things around from this weakened position......?"
@@ -1788,7 +1788,7 @@ She looked like Cinderella running as she heard the bell toll.
 "Y‐you\'re not getting away, BEATRICE, you witch illusion!!"
 Erika flew at Beato, trying to grab onto her as she dashed away,
  but it was like trying to catch smoke, and Erika landed face‐first on the floor.
-......There\'s no way a {y:0:Human}{n:0:human} can catch a witch.
+......There\'s no way a Human can catch a witch.
 For one such as her, without love, even touching Beato was impossible...!
 "Chiester Troops, shoot the witch! Shoot her dead!!"
 "Alignment conflict. Unable to fire."
@@ -1863,7 +1863,7 @@ She might have been able to claim that Kinzo couldn\'t have jumped down with his
 ......However, Battler stood calmly in the courtyard, looking up at Erika with the dignity of the victor.
 "Le‐...let me ask all of you again.
  ......This...can\'t be possible, right?
- There\'s no way a {y:0:Human}{n:0:human} can jump out of a third story window and land unharmed...!!"
+ There\'s no way a Human can jump out of a third story window and land unharmed...!!"
 "Isn\'t that right, everyone...?!
  Much less Kinzo‐san, jumping down from the third floor at his age!! There\'s no reasoning behind this!!"
 Erika tried to get everyone\'s agreement and somehow turn things around,

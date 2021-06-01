@@ -24,7 +24,7 @@ At Shannon\'s nod, Kanon erased his sword......
 The Golden Land was filled with a hard downpour accompanied by occasional thunder.
 Realizing that this weather spoke for their emotions, Erika smiled even more boldly.
 At the center of the Golden Land...was the arbor surrounded by the golden rose garden.
-A large number of {y:0:Human}{n:0:human}s and fantasy creatures were there, arguing about something.
+A large number of Humans and fantasy creatures were there, arguing about something.
 Even without asking, it was easy to guess the nature of the debate by their anguished expressions.
 After all, in this life‐or‐death situation, they didn\'t have many options they could take......
 In the direction Erika was being led—with her goat guards alongside her—Beato stood waiting, accompanied by the Chiester Sisters troops.
@@ -504,9 +504,9 @@ FEATHERINE raised her wine glass high, ......and laughed as she looked through i
 "A trap?"
 ......As Battler\'s group moved forward, darting from bookshelf to bookshelf while avoiding the eyes of the cats, they found something strange.
 Written with a faintly glowing, red substance......was a letter and an arrow.
-{a:c:
 
-{e:200:K←}}
+
+K←}}
 That\'s what it looked like to them.
 "......Do you think "K" means key?"
 "Those marks only appeared when we got close.
@@ -721,7 +721,7 @@ Battler was just about to leap out from the shadows, but LAMBDADELTA grabbed him
  Can you see those magic circles around the golden key?
  ......That\'s a simple barrier, but a pretty strong one.
  ......On the plus side, it\'ll break at a touch..."
-"But it\'s a really mean‐spirited seal that\'ll take exactly one hour to fade, whether a Great Witch or a lowly {y:0:Human}{n:0:human} does it.
+"But it\'s a really mean‐spirited seal that\'ll take exactly one hour to fade, whether a Great Witch or a lowly Human does it.
  According to the ceremony schedule, we still have that hour.
  ......But it means that we won\'t even be able to touch the key unless we can buy all that time for ourselves!!"
 "When Aunt Eva took out the guard cats, she must\'ve broken the magic circle too!

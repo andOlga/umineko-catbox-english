@@ -26,7 +26,7 @@ So I remembered the time from my younger days when my family had gone on a small
  ......You can leave those for later, so for now, just imagine a wider space."
 ‘Uryu.
  ......Why do you have to imagine a wide space?’
-"From the time they\'re born, {y:0:Human}{n:0:human}s have inside them a toxin that blocks magic.
+"From the time they\'re born, Humans have inside them a toxin that blocks magic.
  If you don\'t purge yourself of that toxin, you can\'t use magic well.
  ...One effective method of achieving this is to imagine a vast space."
 ".........Just now, I thought of the world as seen from the window of an airplane, but that didn\'t work either.
@@ -431,7 +431,7 @@ All I have to do is speak inside my mind, so no one can listen in.
  They\'ll never be able to see me.
  They\'re inferior life‐forms who can\'t even see.
  *giggle*giggle*!"
-".........Are you alright being around so many {y:0:Human}{n:0:human}s with that anti‐magic toxin?"
+".........Are you alright being around so many Humans with that anti‐magic toxin?"
 "I\'m fine as long as you continue to manifest me, Ange‐sama."
 "......Although, you probably have to keep concentrating to do that, so there\'s a chance you\'ll neglect your daily life.
  ......Look, aren\'t you being called by that girl you\'re sharing a room with?"

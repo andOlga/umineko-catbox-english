@@ -17,7 +17,7 @@ It feels like he\'s making fun of me for some reason.
  Leave me alone."
 "Oh, my.
  That is a shame, when the cookies have turned out oh so very delicious.
- Cooked so wonderfully it is a shame to waste them on a simple {y:0:Human}{n:0:human}, truly wonderful cookies."
+ Cooked so wonderfully it is a shame to waste them on a simple Human, truly wonderful cookies."
 "I\'ll eat some when I feel like it.
  Set it down somewhere over there and get out of here."
 "Will that be acceptable?

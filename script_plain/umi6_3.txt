@@ -59,7 +59,7 @@ Kanon...didn\'t have any work to do.
 "............Even though I\'m...furniture..."
 "That\'s right.
  And I\'m furniture too."
-"......And yet you\'re in love with a {y:0:Human}{n:0:human}.
+"......And yet you\'re in love with a Human.
  ......Even though that\'s never going to be possible."
 "You think so...?
  ......Maybe thinking that way...
@@ -77,20 +77,20 @@ that George‐sama will propose to me tonight."
 Shannon wore an incredibly peaceful smile on her face,
  ......but Kanon could tell that there was no way she\'d let him change the subject.
 Kanon realized that she must have made him help out here in the guesthouse in order to talk to him about this, and he clicked his tongue softly...
-"......You really think you can marry a {y:0:Human}{n:0:human} even though you\'re furniture?"
+"......You really think you can marry a Human even though you\'re furniture?"
 "I think I can."
 "That\'s impossible."
 "Why?"
 "That dream future that George‐sama has imagined for you two...is something you can never give him."
 "W‐......well......"
-"......We aren\'t {y:0:Humans}{n:0:humans}.
+"......We aren\'t Humans.
  We\'re furniture, inferior to them.
- George‐sama only thinks that you\'re {y:0:Human}{n:0:human}."
+ George‐sama only thinks that you\'re Human."
 "...W‐......well, that is true, but......"
 "I\'m impressed that you\'ve managed to trick him for this long.
  Do you really think you can keep tricking him like that forever?
  Even though you still haven\'t been able to tell him that you\'re furniture."
-"......Being furniture or being {y:0:Human}{n:0:human}...has nothing to do with this.
+"......Being furniture or being Human...has nothing to do with this.
  ......I believe that George‐sama will accept all of me."
 "And yet you don\'t have the courage to check and make sure."
 "........................
@@ -108,7 +108,7 @@ As Kanon watched this vivid dream he was being shown,
 "Yep.
  ......I want to live life my own way.
  ......I\'ve decided to stop worrying...
-about who\'s furniture and who\'s a {y:0:Human}{n:0:human}."
+about who\'s furniture and who\'s a Human."
 "........................"
 Kanon walked over to the window silently.
 ......He saw the rose garden filled with boring, gray flowers in bloom...
@@ -248,7 +248,7 @@ or yours does,
  ......Even if they know that love will be unrequited."
 "Yes.
  After all..."
-{a:c:
+
 ""We are furniture...no more.""}
 The boat carrying the relatives docked at Rokkenjima\'s harbor.
 They left the boat one by one, making fun of Battler...
