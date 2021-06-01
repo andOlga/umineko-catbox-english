@@ -59,7 +59,6 @@ Then again, it wasn\'t only the servants. Everyone else lacked an alibi as well.
 "No, there isn\'t.
  .........Hmm, that\'s not enough.
  I\'ll say it with the red truth."
-
 All doors can only be locked or unlocked with a master key.
  Of course, it is possible to lock or unlock the doors from inside the room even without a master key.
 "There you have it.
@@ -370,7 +369,6 @@ The curtain is lowered on this tale, for now......
  ......These seem to be the key to Lady BERNKASTEL\'s game."
 "Yeah, that\'s right.
  ......I\'ll explain the rules for my game."
-
 • The definition of "culprit" is "one who murders".
 • It is possible for a culprit to lie.
 • It is possible for a culprit to lie even before committing murder.

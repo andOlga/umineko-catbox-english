@@ -303,7 +303,6 @@ Entry and exit are impossible except for the single door and the single window.
  Rejoice, great detectives.
  *cackle*!"
 "
-
 And those were both locked.
  
 The door and the window do not permit any kind of entry or exit when they are locked.
@@ -386,7 +385,6 @@ Witches don\'t exist, I don\'t have to doubt anyone!!
 Alright, starting now, I\'ll flip it over!
  The next thing I\'ll request she repeat is—
 "
-
 No one exists in this room except your group.
  
 "Your group" refers to Battler, George, Maria, Rosa, Genji, Gohda, and Shannon."
@@ -871,7 +869,6 @@ something like that......?"
 "Please, Beato, show yourself here and tell Auntie Rosa...
 that those are all of the master keys, and that there\'s no need to suspect anyone anymore...!!!"
 "
-
 There are only five master keys.
  
 There are only five master keys."
