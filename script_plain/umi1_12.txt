@@ -605,7 +605,7 @@ is where we "flip over the chessboard"."
  There\'s 18."
 "............In other words, the culprit is modelling things after this rule, trying to make it appear that this crime was the work of the witch.
  In short, they desperately want to claim this as the doing of a 19th person."
-"............{i:I don\'t like it}.
+"............I don\'t like it.
  I really don\'t like it."
 "What don\'t you like...?"
 "............Just assume that an invisible 19th person existed, and that this person wanted to make it known that they existed.
@@ -622,7 +622,7 @@ is where we "flip over the chessboard"."
 "......In other words, if the 19th person really existed and wanted to show themselves, this first crime was a complete failure."
 "...No, in the first place, the timing was a mistake.
  If this invisible 19th person really wanted to show themselves,
- they had to make sure that the crime took place {i:under conditions which proved that the remaining twelve people were all innocent}."
+ they had to make sure that the crime took place under conditions which proved that the remaining twelve people were all innocent."
 "Unless there are no suspicious humans, they can\'t prove that they exist.
  So by killing them in the middle of the night, when everyone\'s alibi was at its most ambiguous,
  whether or not this 19th person exists was also at its most ambiguous.
@@ -683,7 +683,7 @@ And we knew that, since Gohda‐san and Shannon‐chan had been killed,
 "Jesus...!
  ......It looks like we\'re finally getting close to understanding the culprit\'s message...
  In other words, the culprit is telling us to try and solve the riddle on that epitaph Grandfather had made.
- ......{i:Furthermore, they\'re saying that if we just sit around, they\'ll keep collecting the interest}..."
+ ......Furthermore, they\'re saying that if we just sit around, they\'ll keep collecting the interest..."
 I realized that this was all based on several crazy guesses.
 ......But not everything that happens in this world is joined together in a perfect line.
 ...Most unknown phenomena are nothing but individual points.
@@ -1055,7 +1055,7 @@ But after she was told to by Auntie Eva, she did hold it at the ready!
 ...............Hmm.
  ...Looks like everyone else has said their piece.
 "Ihihihi.
- ...No good. {i:No goddamn good at all},
+ ...No good. No goddamn good at all,
  Auntie Eva."
 "...Wh‐...what do you mean "no good", Battler..."
 Jessica looked up at me, hanging on to my every word.
@@ -1224,7 +1224,7 @@ Yes.
  If you think about it, this kind of crime is completely trivial.
 ......It will definitely be resolved—
 even if we do nothing—
-{i:when the seagulls cry}.
+when the seagulls cry.
 "...Natsuhi nee‐san, I\'ll take it that you don\'t want to see my face anymore?
  I feel the same.
  ...If I remember correctly, yesterday, you had some rooms prepared for us in the mansion so that we wouldn\'t need to go back to the guesthouse, right?"
@@ -1305,8 +1305,8 @@ You shouldn\'t be able to represent the number of people with anything but an in
 ...And yet, 19>X>18.
 Why does a fraction less than 1 play into this...!
 It\'s no wonder.
- ...That 19th person is an {i:invisible being, that can\'t be {y:1:‘seen’}{n:1:seen}}.
-That\'s why, in the integer representation that must be used to describe numbers of people, she {i:can\'t be {y:1:‘seen’}{n:1:seen}}.
+ ...That 19th person is an invisible being, that can\'t be {y:1:‘seen’{n:1:seen}}.
+That\'s why, in the integer representation that must be used to describe numbers of people, she can\'t be {y:1:‘seen’{n:1:seen}}.
 That witch cannot be {y:1:‘seen’}{n:1:seen}.
 Because {f:5:Beatrice} has no body.
 Therefore, she is invisible.

@@ -161,7 +161,7 @@ not having Sakutaro......"
  It\'s because Sakutaro\'s stuffed animal vessel was something Mama made by hand herself, and—"
 "And that\'s why she can\'t revive him?
  Is {f:5:Beatrice}\'s... Is your magic that inconvenient?"
-"Gah, .........i‐......in that case, ......do you claim that you {i:can} revive Sakutarou?!
+"Gah, .........i‐......in that case, ......do you claim that you can revive Sakutarou?!
  Can you do that with your magic?!"
 "I can."
 ".........What........."
@@ -354,7 +354,7 @@ Beato had, ......as promised, banished Maria from the Golden Land.
 "......Goodbye, ...Maria onee‐chan.
  And be happy forever.
  ............It\'s alright, I\'m sure "you" exist in Onee‐chan\'s world as well.
- But that {i:doesn\'t refer to you}."
+ But that doesn\'t refer to you."
 "...............I am happy for you,
  ......Maria......
  ......As your close friend,
@@ -395,7 +395,7 @@ Beato put a hand against her own seat, ......and laughed sadly.
 "Win, or lose.
  That is all you are given.
  A tie during the process of reaching that point will probably be permitted."
-".........But the one thing I will {i:not} allow is for you to suspend the game and throw it away!
+".........But the one thing I will not allow is for you to suspend the game and throw it away!
  Either win and survive, or lose and disappear!
  Until one of those two things happens, you will not be permitted to rise from that chair!!"
 "Isn\'t that your only duty as the host of a witch\'s game, as the Golden Witch {f:5:Beatrice}...?!!"
@@ -430,7 +430,7 @@ Beato\'s foot was locked in an ice‐cold steel shackle,
  .........You don\'t want to lose, right?
  You wanna little peek at the kind of wonderful world you\'ll be thrown into if you loooose?"
 "Don\'t worry...
- You can win... {i:Until you do}, I, the great Lady {f:5:Lambdadelta}, will stick right by you and look after you for all eternity...!!"
+ You can win... Until you do, I, the great Lady {f:5:Lambdadelta}, will stick right by you and look after you for all eternity...!!"
 ".................................
  ......Hmph, ......hahahahaha.
  .........But even if I wish to fight, I have no opponent across from me, correct......?"
@@ -583,7 +583,7 @@ That should have been the simplest and first question.
 ......Not understanding that is why he loses his purpose for fighting...!!
 It\'s why my voice doesn\'t reach his ears...!
 What he needs is not some vague purpose, like winning against the witch, or because she\'s unforgivable.
-......He needs to become aware of a purpose for which he {i:must} win.
+......He needs to become aware of a purpose for which he must win.
 ".........That\'s right......
  ......I want to go home......
  ......To Mom and Dad,
@@ -725,7 +725,7 @@ He needs to win the game, he needs to release himself, and he needs to bring his
 Why?
  .........Because he has family—a little sister—waiting for him to come home.
 A being created to bring Ushiromiya Ange\'s voice to him...
-{i:That} is who {f:5:Ange Beatrice} is—who I am...!!
+That is who {f:5:Ange Beatrice} is—who I am...!!
 I will use the piece I am as a sacrifice...
 to give Onii‐chan the will to fight, to give him purpose!
 Onii‐chan, my purpose is not to play with you in a witch\'s game for all eternity!
@@ -884,7 +884,7 @@ I have to defeat her!
  ......and come back to Ange who\'s waiting for me, ......as soon as humanly possible.........!
 Because even as I hang around with the witch like this,
  Ange\'s heart continues to be torn to bits by sadness...!!
-"............Ange, ......is {i:this}...
+"............Ange, ......is this...
 ......what you wanted to see......?"
 ......Towards the cruel witch who had indifferently spoken of Ange\'s brutal last moments, slowly,
  ......and yet...
@@ -913,9 +913,9 @@ Because even as I hang around with the witch like this,
  ...Absolute, certain willpower.
 A {y:0:Human}{n:0:human}\'s certain willpower becomes certain magical power.
 ......That acts as a miracle, and makes it a promise.
-Yes, this is a promised {i:certain miracle}.
+Yes, this is a promised certain miracle.
 ..................Is there not even a one in ten‐billion chance...
-no.........is it {i:certain that there is not even a fragment of a miracle}...
+no.........is it certain that there is not even a fragment of a miracle...
 that could make my victory happen?
 Before I knew it, a cold, stiff chain had bound my other leg without a sound,
  fastening me to the chair...

@@ -124,7 +124,7 @@ However, up until today, no one had solved it.
 ......If this wasn\'t a "game", what would you call it...
 The bold opinion that we should search the premises for the culprit did come up once.
 However, there was a good chance they were armed, and there wasn\'t necessarily only one of them.
-And, ...while they might have been able to kill more than six people, they had {i:stopped at six}.
+And, ...while they might have been able to kill more than six people, they had stopped at six.
 In the end, the opinion that we should avoid carelessly antagonizing the culprit,
  and hole up in a safe place while we waited for the police to arrive, won out...
 After the adults had carefully checked that the doors and windows in the guesthouse were locked, they set up camp in the lobby.
@@ -132,9 +132,9 @@ And as they fingered their guns to distract themselves from the tension,
  their expressions showed that they were already fatigued from this long day, which had still barely begun...
 There was nothing that I could do.
 Now, all I could do was be taught how to use a gun,
- to prepare for the off‐chance that...something would happen which {i:led to an excess of guns}......
+ to prepare for the off‐chance that...something would happen which led to an excess of guns......
 ......That\'s the way.
- Just obediently stay there, {i:me and the rest of you}.
+ Just obediently stay there, me and the rest of you.
 "...............Six people in the beginning again.
  And this time it\'s Grandfather and all of the servants put together."
 "Most likely,
@@ -150,7 +150,7 @@ Now, all I could do was be taught how to use a gun,
  She probably immediately went to block the way of escape that you would ultimately retreat into."
 "Beato already proclaimed in red that there are no more than 18 people on this island.
  ...So basically,
- .........{i:she\'s saying "give it up"}.
+ .........she\'s saying "give it up".
  ......Now I have to suspect one of the 18."
 "......That child will probably come at you by stealing the pieces for the 18, and descending as a 19th person who shouldn\'t exist,
  thereby making you accept that she is a witch."
@@ -604,7 +604,7 @@ None of the six committed suicide}!"
  This is the truth!"
 "After culprit X, who lurks among the six, murdered the other five, they constructed a locked room.
  ......Then they planned to escape from or hide in that room by some method."
-"However, {i:there was an accident}!!
+"However, there was an accident!!
  The culprit died from an accident that even they hadn\'t expected, and constructed a locked room that even they hadn\'t desired!!
  Now it\'s over, {f:5:Beatrice}!!
  Checkmate!!!"

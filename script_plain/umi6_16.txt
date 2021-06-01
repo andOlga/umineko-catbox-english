@@ -110,7 +110,7 @@ I have to think of an escape trick as soon as possible,
  It stands to reason that I cannot solve it..."
 By this,
  ......she meant that we wouldn\'t be able to figure it out no matter how much thought we put into it in our incomplete forms.
-She was saying that neither the elder {i:nor} the younger sister...
+She was saying that neither the elder nor the younger sister...
 ...could ever be expected to solve this riddle......
 Beato shook her head, chasing that thought from her mind.
 "I won\'t give up...
@@ -176,7 +176,7 @@ Love is the single element.
  Can\'t I just stay quiet and read?"
 ".........No.
  ......I want you to think.
- Not just the characters—{i:you}, the reader."
+ Not just the characters—you, the reader."
 ".........!
  I see, ......you\'re a pretty unpleasant author, aren\'t you?"
 Ange was, of course, still only halfway through the tale.
@@ -218,7 +218,7 @@ Letting you read only so far for free......and then stopping when it finally get
 "So, ......what miraculous trick could get Battler out of the locked room?
  ......Please give it some thought yourself.
  I want to give the rest of the story especially to those—
-no, {i:only} to those who have thought..."
+no, only to those who have thought..."
 In the witches\' cathedral,
  ......no, considering everything that\'s gone on in here, maybe it should be called a demon\'s abode...
 ...Erika, who wanted to savor the memory of her perfect victory,
@@ -308,7 +308,7 @@ Everything is left to luck.
  .........Given the choice, even you wouldn\'t have chosen a master like her, right?"
 "Th‐that\'s not true...!
  I am honored to be my master\'s piece.
- My master is strong, an oppressor of {i:others}.
+ My master is strong, an oppressor of others.
  Trampling over the weak is her natural right."
 ".........You mean she\'s a human on the bully\'s side of life...?
  Heheh.
@@ -887,12 +887,12 @@ plus Krauss, Rudolf, and Jessica, for a total of six people."
 "......I see.
  ......It would seem that we have been misinterpreting the definition of these seals.
  A locked room sealed by duct tape...
-is not {i:impossible} to break out of.
+is not impossible to break out of.
  It forms no prison."
 "That\'s it exactly.
  ......Yes, a seal proves that a room is a locked room.
- But it doesn\'t guarantee that the room will {i:remain} sealed.
- All it does is prove that the room is a locked room {i:as long as the duct tape isn\'t broken}."
+ But it doesn\'t guarantee that the room will remain sealed.
+ All it does is prove that the room is a locked room as long as the duct tape isn\'t broken."
 "We are not trying to deceive you in any {f:5:way}.
  .........As long as the duct tape is intact, it is guaranteed to be a locked {f:5:room}.
  That is {f:5:all}."
@@ -934,7 +934,7 @@ Dlanor looked up at her with a bold expression, and sparks flew between them....
  All they had to do was tear the duct tape on the window, slip out from there, and save Battler...!"
 "But at the time of the logic error, it was proven that the seals were intact...!"
 "Incorrect.
- ......At that time, Lady {f:5:Erika} only proved the status of {i:the seals on the doors}."
+ ......At that time, Lady {f:5:Erika} only proved the status of the seals on the doors."
 ".........................................."
 "C‐......come to think of it...!
  At that time, Lady {f:5:Erika} just showed the doors of the two rooms and claimed that the seals were intact for each...
@@ -1003,7 +1003,7 @@ The once peaceful mood of the wedding broke apart.
  ......Now, excuse {f:5:me}."
 "......Hold it right there, you haven\'t fooled me yet......
  
-You were talking about the seals blocking {i:Kanon}, the ones on the windows of the cousins\' room, right?
+You were talking about the seals blocking Kanon, the ones on the windows of the cousins\' room, right?
  Then what about the windows on the next room over?
  All you\'ve done is shown that the rescue would have been impossible for Kanon.
  There\'s still a chance for the humans in the next room over}...!"

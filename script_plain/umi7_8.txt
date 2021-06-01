@@ -26,7 +26,7 @@
  These were combined with Kinzo\'s constant cries of "Beatrice, Beatrice" and gradually became the legend of the witch.
  Ushiromiya Maria became entranced by that fictional witch and begged for a chance to meet her.
  And then, someone...
-{i:granted her wish}."
+granted her wish."
 ".........I\'m still not following, but I\'ll just nod and tell you to keep going.
  ......What do you mean by "granted her wish"?"
 "Because of the unfortunate way in which Ushiromiya Maria was brought up, she became obsessed with the occult.
@@ -45,12 +45,12 @@ However, when their manner of speech and behavior changed abruptly, Maria would 
 That\'s why "her" appearance was so sudden.
 "We can probably view Maria\'s love of witches and the occult as a form of escapism.
  ......She believed the power of witches could change her unfulfilling and incomplete life.
- So, she {i:wanted} to believe in them.
+ So, she wanted to believe in them.
  Because if she believed in witches, she could also believe in her own happiness."
 "......It\'s true that Aunt Rosa is bringing up Maria by herself, and that she\'s always busy with work.
  I do feel sorry for Maria, but still..."
 "Don\'t ignore the heart.
- ......So, Maria believed {i:for the sake of believing}.
+ ......So, Maria believed for the sake of believing.
  She believed in {f:5:Beatrice}\'s simple conjuring trick from the bottom of her heart.
  That probably comforted her a lot.
  ......And at that moment, the witch {f:5:Beatrice} was born."
@@ -135,7 +135,7 @@ However, if Lion doesn\'t exist, then Ange\'s seat is on Jessica\'s right.
 "Exactly.
  If you exist, the witch {f:5:Beatrice} doesn\'t.
  Your existence...
-...{i:kills {f:7:Beatrice}}."
+...kills {f:7:Beatrice}."
 "Are you saying I\'m the culprit who killed {f:5:Beatrice}......?
  That\'s......just crazy.
  How can I be the culprit if I don\'t even understand her and have never met her?"
@@ -409,7 +409,7 @@ That silhouetted figure slowly walked up to Will and {f:5:Bernkastel}...and gave
  Howdunit.
  And...whydunit.
  ......I understand this person\'s motive."
-"......And {i:you}, are you going to give up just because he\'s found out your motive...?
+"......And you, are you going to give up just because he\'s found out your motive...?
  There\'s no concrete evidence, right?
  You could make a flashy fight of it, with red and blue."
 "That\'s not what they want anymore."

@@ -96,7 +96,7 @@ Until Kumasawa‐san told me, I never knew the meaning of the shrine on the rock
  From Kumasawa‐san, mainly."
 "So, not only the timid‐looking Shannon,
  but a boy, Kanon, and a big adult, Gohda, believed in the ghost story?"
-"Well, I didn\'t really {i:believe}..."
+"Well, I didn\'t really believe..."
 "There are tales of ghost stories and jinxes in all jobs.
  There were several stories of the sort at the hotel I once worked at."
 "So, you thought it was stupid, and you didn\'t pay it any mind?"
@@ -156,7 +156,7 @@ I do try to be alert,
 So, sometimes, I think "I bet this eraser is going to disappear just like everything else", and I stare at it.
  That\'s the only time when it doesn\'t disappear.
  Nothing disappears when I\'m alert.
-So then I think I\'m safe, but the moment I start to think that and relax just a little bit, a {i:different} thing will disappear instead...!
+So then I think I\'m safe, but the moment I start to think that and relax just a little bit, a different thing will disappear instead...!
  Why is it always me......?!
 {a:c:
 *giggle*giggle*,
@@ -178,7 +178,7 @@ Why else, except to entertain myself by watching you wander about pointlessly?
 I felt so frustrated.
  I knew all along that that was the reason, but the witch being so blatant about it was incredibly annoying.
 I can tell.
- That small broom {i:is} somewhere in this chapel.
+ That small broom is somewhere in this chapel.
 No, that\'s not quite it.
  Until the very moment I walked up to this window, I\'m sure it was right by this window frame.
 That\'s right, I\'m sure I put it right here by this window.
@@ -221,20 +221,20 @@ She\'s right behind me, ......just over my shoulder,
  cackling away at this very moment.
 I know that turning around won\'t help, since she has no form.
 I can try to look, but I mustn\'t look with my eyes.
-Once my eyes tell me there\'s nothing there, I won\'t be able to {i:{y:1:‘see’}{n:1:"see"}} anymore.
+Once my eyes tell me there\'s nothing there, I won\'t be able to {y:1:‘see’{n:1:"see"}} anymore.
 I learned that from the Director of the Gospel House.
  ......You mustn\'t try to {y:1:see}{n:1:look} with your real eyes.
- ......You must {y:1:‘see’}{n:1:{i:see}} with your {i:mind\'s} eye.
+ ......You must {y:1:‘see’}{n:1:see} with your mind\'s eye.
 The whole world is filled with God\'s love.
  In the many blessings of everyday life, one can find God, and angels, and the Holy Ghost.
-{y:1:If you try to look at them with your eyes, you won\'t be able to see them {i:or} ‘see’ them.}{n:1:If you look with your eyes, you won\'t be able to see them.}
+{y:1:If you try to look at them with your eyes, you won\'t be able to see them or ‘see’ them.}{n:1:If you look with your eyes, you won\'t be able to see them.}
  So you won\'t be able to feel them or understand them.
 Instead, you must quietly understand them with the eye of your heart.
 You don\'t look and have your eyes reflect their image.
 You {y:1:‘see’}{n:1:"see"}...and picture them in your mind.
 In this way, I learned how to recognize beings not of this world at the Gospel House.
 ......This power doesn\'t only allow you to {y:1:‘see’}{n:1:"see"} God.
-It allows you to {y:1:‘see’}{n:1:"see"} {i:all} those not of this world.
+It allows you to {y:1:‘see’}{n:1:"see"} all those not of this world.
 ".........Please, stop it now.
  Stop this prank."
 "...............Hoh.
@@ -256,7 +256,7 @@ To beings like witches, being understood is like shoving them out into the light
  So, I already understand you."
 "Very interesting.
  ............I am a being so faint that I would scatter in a gentle breeze, yet you hold me in the grasp of your perception.
- ......I have taken a liking to you, {i:Yasu}!"
+ ......I have taken a liking to you, Yasu!"
 "It won\'t work.
  I understand you now, and you\'re in my grasp.
  No matter how many unpleasant things you say, you\'ll just expose the ugliness of your heart."
@@ -290,7 +290,7 @@ Her hair was blonde.
 "......I thought you were a little different from the other {y:0:Human}{n:0:human}s,
  but it seems I was mistaken."
 "........................"
-"You are not just a little different......you are {i:entirely} different from other {y:0:Human}{n:0:human}s.
+"You are not just a little different......you are entirely different from other {y:0:Human}{n:0:human}s.
  *cackle*cackle*...!"
 "You sad witch, who can be seen by no one, heard by no one.
  ......Have you been pulling these pranks all the time just to catch the attention of {y:0:Human}{n:0:human}s...?"

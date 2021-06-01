@@ -74,7 +74,7 @@ Make a house...?
  ......You mean, build a roof and a bed and stuff??
 "You aren\'t actually building a house, you\'re giving them one.
  ......For example, take Mr. Knife here, who I cut the string with.
- "{i:I wanna go ho~me!}" he says.
+ "I wanna go ho~me!" he says.
  Eheheheh, he gets lonely when he\'s left alone, so he always wants to go home right away.
  So, if you leave him anywhere else, he\'ll be lost and start crying."
 "......See, I left Mr. Knife lying around, and now he\'s gotten lonely and started to cry."
@@ -82,7 +82,7 @@ Make a house...?
  We need to get Mr. Knife home..."
 "Here is Mr. Knife\'s house.
  See, his whole family of knives is waiting for him.
- "{i:Mama~, I\'m ho~me.}" "{i:Welcome ba~ck.}" See?"
+ "Mama~, I\'m ho~me." "Welcome ba~ck." See?"
 Kumasawa‐san returned the knife to the knife‐holder under the sink.
 Even though she had done something so ordinary, I felt slightly moved, as though the lost little knife had finished his adventure and finally returned home.
 Once he slid into the spot he was supposed to be in,
@@ -98,12 +98,12 @@ Then, Kumasawa‐san said we should give them their privacy,
  So, you must always take them home quickly."
 "......Look at Master Key there you just tied to a string.
  He\'s sitting there all alone, crying and asking you to put him in his home in your pocket."
-{i:*sob*sob*}......
- {i:I\'m lonely.}
+*sob*sob*......
+ I\'m lonely.
 The voice of the lonely master key finally reached my ears.
 I hurried to pick it up,
  took the other end of the string and tied it to my pocket button, and put the key in my pocket.
-"See, "{i:I\'m ho~me}".
+"See, "I\'m ho~me".
  Master Key gets lonely so easily, so let\'s take him home right after we use him, okay?
  If you keep making little friends like this, even {f:5:Beatrice}‐sama won\'t be able to prank you much longer..."
 Jangle, thud.
@@ -119,8 +119,8 @@ Whew, that was close...
 And, once again, I heard the master key, who had almost been left alone, cry and tell me that it wanted to go home...
 ".........I\'m sorry.
  Come on, let\'s go back home to my pocket..."
-{i:Yay, I\'m home!}
- {i:Back at last!}
+Yay, I\'m home!
+ Back at last!
 ..............................
 ......Thank goodness.
  ...I almost got pranked by the witch again......
@@ -221,7 +221,7 @@ I learned that it was possible to build up a friendship through verbal abuse...
  That kid would sometimes say it out loud.
  It was really cute, like watching someone play house with a bunch of tools."
 "Just like a kid!"
-"The kid {i:was} a kid, silly!"
+"The kid was a kid, silly!"
 ""Ahhahahahahahahahahahaha!!""
 "With adults, you can say something one way and all of them will understand.
  However, there really are many different types of kids, and you need many different ways to teach them things.
@@ -264,7 +264,7 @@ All of the servants swung around to look at me, the usual offender.
  And the rest of you?!"
 "I have mine..."
 "Got it!"
-"So, it {i:was} you, Yasu!
+"So, it was you, Yasu!
  Do you still not get it, even after that scolding Madam gave you?!
  You\'re just so...!"
 "......Normally,

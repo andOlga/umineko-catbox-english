@@ -103,14 +103,14 @@ And it was these that prompted the beginning of the "Witch Legend Serial Murder 
 "These bizarre diary‐style accounts describe the Ushiromiya family members, pinned to the island by the typhoon,
  becoming caught up in a ritual for the resurrection of a witch, and being killed one after another in inexplicable ways."
 "And at the end, the Golden Witch {f:5:Beatrice} revives, and swallows everything up into the Golden Land.
- ......They were written almost as though {i:this} was the complete picture of the events of that day."
+ ......They were written almost as though this was the complete picture of the events of that day."
 "Additionally, the state of things on the island at the time is also depicted in immense detail,
  and former servants who once worked for the Ushiromiya family have given testimony that the pages were definitely written by a person who knew the inside details of the island."
 "......So, those strange fantasy novels, the occult boom that started with the Ushiromiya Library,
  and the fact that the truth remains shrouded in darkness—the combination of all three of these factors is what created the legend of the Rokkenjima witch...?"
 "Correct.
  Already more than ten years have passed since the incident, and it still attracts the interest of occult enthusiasts across the world."
-"No, in fact, you could say that it has become {i:increasingly} deified as time has passed.
+"No, in fact, you could say that it has become increasingly deified as time has passed.
  There are still many enthusiasts who try to land secretly on the shores of Rokkenjima even though that has been prohibited."
 "......Could there be another message bottle that has still not been discovered?
  And what really happened on that island that day?
@@ -124,7 +124,7 @@ As though he had finally remembered that he had been going on and on for some ti
  However, while they both cover the same two‐day period, the contents are completely different."
 "As though one is true and one is untrue.
  Or perhaps both are untrue.
- ...However, the beginning and the end alone {i:do} match in both."
+ ...However, the beginning and the end alone do match in both."
 "At the beginning, the 18 people including the relatives are sealed up on the island by the typhoon.
  And at the end, everyone dies, the Golden Witch revives, and everything is swallowed up into the Golden Land."
 The contents of both message bottles described the events of the two days of the accident.
@@ -133,7 +133,7 @@ Both diaries outline a serial murder following the epitaph of the witch, but the
 However, both depict the same ultimate conclusion: everyone dies and the witch revives.
 "Since the only survivor, Mrs. Ushiromiya Eva, remained silent about what happened on that island,
  the events of that entire two‐day period are shrouded in darkness."
-"These two diaries presented not just one, but {i:two} theories to wipe away that darkness.
+"These two diaries presented not just one, but two theories to wipe away that darkness.
  You could explain those two days with either diary.
  However, we don\'t know which is correct, or even if there is anything correct contained within them."
 ――Schrödinger\'s...cat box.
@@ -182,7 +182,7 @@ I don\'t need to hear the magazines\' reasoning to find it extremely doubtful wh
 ......After all, the amount of writing was massive.
  It\'s hard to imagine that someone actually caught up in the middle of a serial murder like that would have been able to calmly write it down.
 In that case, it\'s probably more realistic to say that these diaries were written slowly over a long period of time before the day prior to the accident.
-In which case, .........would that mean that everything on Rokkenjima was {i:premeditated}, and prepared for over a long stretch of time...?
+In which case, .........would that mean that everything on Rokkenjima was premeditated, and prepared for over a long stretch of time...?
 ...The fact that Aunt Eva left this world without saying anything is...detestable.
 She definitely told me on her deathbed.
 She definitely said that her reason for not telling me the truth was because it was the best way of harassing me.
@@ -193,8 +193,8 @@ Of course, this isn\'t because the handwriting in the message bottle differs fro
 ......It\'s because in both discovered tales, Aunt Eva was included among the victims.
 If the writer of these diaries was the culprit...
 ......then maybe Aunt Eva had also been one of the targets to be killed.
-Aunt Eva had survived because {i:something had gone wrong}.
-.........Because of my hate for Aunt Eva, I had believed until now that she {i:had} to be the culprit.
+Aunt Eva had survived because something had gone wrong.
+.........Because of my hate for Aunt Eva, I had believed until now that she had to be the culprit.
 But the existence of the message bottles...
 ......was making me suspect that the mastermind was a far more profound and unknown person than her...
 I looked at the clock.
@@ -222,10 +222,10 @@ He seemed to be aware that he had gotten excited and talked too much, so he acce
  Even though, at this age, I understand rationally that there is no such thing,
  I find myself unable to forget my child‐like dreams of flying in the sky and turning scrap iron into gold.
  ......Hahaha, if you would, please keep this a secret from my students."
-".........If I told you that actually, I {i:am} a witch,
+".........If I told you that actually, I am a witch,
  would you believe it?"
 "Hahahaha.
- It\'s my pet theory from my few experiences with women that they are {i:all} witches."
+ It\'s my pet theory from my few experiences with women that they are all witches."
 Ange snorted at the old professor, who was undoubtedly an earnest scholar, and unlikely had any experiences with women at all.
 "Oh, yes.
  And one final question.
@@ -270,7 +270,7 @@ But Ange never stopped walking.
  Well then.
  <Goodbye, gentlemen>. <Have a nice day>."
 "P‐please, wait...!!
- {i:Sumadera‐san}...!!!"
+ Sumadera‐san...!!!"
 His voice didn\'t reach her.
  She had already joined up with Amakusa and gone into the car......
 "Did you find anything?"
@@ -287,7 +287,7 @@ His voice didn\'t reach her.
  That guy believed I was Sumadera until the very end."
 The Sumadera family had cast out a net beforehand over any people Ange might try to contact.
 They had offered a reward for anyone who could detain Ushiromiya Ange if she appeared.
-Ange had foreseen that and {i:snatched it away}.
+Ange had foreseen that and snatched it away.
 She had called herself Sumadera, and after skillfully tricking the man by saying her own subordinates would set up an ambush, she had taken him with her.
 So when the Sumadera pursuers reached the professor\'s house, there was no longer anyone there...
 "According to the family, a young man and woman calling themselves Sumadera visited this morning,
@@ -468,7 +468,7 @@ For a while, I heightened my concentration and digested the information that was
  ......In preparation for the worst, use my talisman.
  ......You are not protected by the treaty of the alliance now.
  That Mammon can be a little aggressive at times.
- ...She {i:may still bear a grudge}.
+ ...She may still bear a grudge.
  Be careful."
 "Yeah.
  ...I think I\'ll wear it."
@@ -581,7 +581,7 @@ Or perhaps she had some other reason for hating Ange,
  It may be difficult by myself.
  ......Perhaps it slipped your mind?"
 "......Yeah.
- The Seven Sisters {i:were} really lively when they got together.
+ The Seven Sisters were really lively when they got together.
  ......But with your magical power now, I think summoning Mammon is the best we can hope for.
  The stakes for the other six have been lost."
 "My apologies, Lady {f:5:Maria},

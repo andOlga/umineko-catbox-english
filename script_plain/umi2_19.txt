@@ -25,7 +25,7 @@ She was probably talking to Rosa,
 ............What is she...talking about.
 ...I don\'t know,
  ...I don\'t know.
-"Only, ......considering that I {i:am} a witch,
+"Only, ......considering that I am a witch,
  I think it would be wise to ask for something that only a witch can grant."
 "Isn\'t this a rare chance.
  You can actually receive a favor from me, {f:5:Beatrice} the Golden.
@@ -192,7 +192,7 @@ When the witch snapped her fingers, suddenly, the human compressor began to shak
 ......It looked almost as though someone had been sleeping in that man‐sized coffin,
  had woken up, and was now struggling to get out.
 But that was wrong.
-What was inside had definitely {i:been squeezed dregs}.
+What was inside had definitely been squeezed dregs.
 Using her magic, the witch had once again revived the squeezed dregs to how they had been before they were squeezed.
 Three goat‐head servants with muscular physiques approached the compressor, and forcefully started tightening the large bulbs.
 ...As they did, an unearthly moan came from the inside of the coffin.
@@ -200,7 +200,7 @@ Three goat‐head servants with muscular physiques approached the compressor, an
 "It is fitting for cooking to be done in the kitchen.
  That is enough, stand back."
 "......Do you understand now how precious a golden drop is?
- To have it stained this crimson requires that {i:several dozen people\'s worth} be squeezed."
+ To have it stained this crimson requires that several dozen people\'s worth be squeezed."
 The witch had definitely said that only one golden drop could be taken from a single human.
 And yet, she had dozens of people\'s worth of golden drops from a single human.
 ......Only a witch could do this.

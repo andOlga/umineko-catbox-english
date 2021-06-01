@@ -76,7 +76,7 @@ George admitted it while being extremely wary that Maria didn\'t find out.
  ......she\'s a witch that supposedly no one believed in, except for Maria."
 "Those words don\'t quite explain it.
  ......It\'s not that we didn\'t believe.
- ...We were trying to let {i:her} believe."
+ ...We were trying to let her believe."
 So this was about not betraying a child\'s innocence.
 But Santa doesn\'t exist in reality.
  If you don\'t want them to be all disappointed when they learn that, you should just not give them that dream in the first place.
@@ -105,7 +105,7 @@ Battler had finally attained a level of understanding about the true form of the
  ......And so they turned to me as his next‐oldest friend, I suppose..."
 "And?
  ......When all is said and done, Doctor Nanjo,
- ......{i:did} Grandfather have a mistress called {f:5:Beatrice}?"
+ ......did Grandfather have a mistress called {f:5:Beatrice}?"
 "...............He did.
  ...No, I have never met her.
  ...However, I have heard from Kinzo‐san that he did have a relationship with a woman like that.
@@ -173,7 +173,7 @@ It was only natural that Jessica, realizing that,
  George‐aniki\'s right.
  ...Nothing\'s gonna happen.
  Even if she pretends she\'s a witch,
- what can a single {i:human woman} who can\'t even use magic do?"
+ what can a single human woman who can\'t even use magic do?"
 "Kihihihihihihihihihihihihihihihihihihi..."
 The sudden, creepy laugh made all of us jump.
 ......And when we realized that this strange laugh was coming from Maria, we were shocked again.
@@ -187,7 +187,7 @@ The sudden, creepy laugh made all of us jump.
  ...You don\'t accept that the 19th person, {f:5:Beatrice}, is a witch, right...?"
 "You surprised us all for that?
  ......Of course I don\'t.
- {i:There\'s obviously no such thing as witches}.
+ There\'s obviously no such thing as witches.
  It\'s impossible for it to be anything other than a human woman pretending to be one."
 "......Kihihihihihihihihihihihihihihi.
  Hmmm...?
@@ -217,7 +217,7 @@ The sudden, creepy laugh made all of us jump.
  ......If you bring one, it\'ll be over quickly."
 "...In our case, this lady calling herself {f:5:Beatrice}...
 just has to perform some magnificent magic, like sending out some sparkling stars with her wand or something,
- {i:and show us something that\'s impossible for {y:0:Human}{n:0:human}s},
+ and show us something that\'s impossible for {y:0:Human{n:0:human}s},
  right?"
 "......Come now, you two.
  Please settle down..."
@@ -230,7 +230,7 @@ But Maria\'s expression didn\'t loosen.
 "Kihihihihihihihihihihi, kihihihihihihihihihihihihi."
 "....................."
 "......If that\'s what you want, {f:5:Beatrice} will show you, I\'m sure.
- {i:Something impossible for {y:0:Human}{n:0:human}s}.
+ Something impossible for {y:0:Human{n:0:human}s}.
  And then you too will believe, right?
  About {f:5:Beatrice}."
 "............Sure.
@@ -264,7 +264,7 @@ But Maria\'s expression didn\'t loosen.
  The very first premise of chessboard thinking is broken down."
 "........................Hoh,
  ...is that what you say?"
-"{i:{ruby:sonata:You} cannot win in chess against a witch}...!
+"{ruby:sonata:You cannot win in chess against a witch}...!
  Kihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihi!"
 "...I do not know what happened after that.
  We servants were ordered not to approach the dining room..."
@@ -566,7 +566,7 @@ Entertain me, Ushiromiya Battleeeeeeeeeeeeeer!!
 "I accept it too...
  .........Still can\'t believe it.
  ...But, .........what can you do?
- {i:You\'ve proven devils!}
+ You\'ve proven devils!
  You win...!"
 "*cackle*cackle*cackle*...!
  The Devil\'s Proof was a convenient excuse that you liked using to show that something was impossible to prove, ......but now it\'s become your mortal enemy, has it not?"
@@ -586,7 +586,7 @@ Kyrie lightly closed her eyes, ...and after keeping silent for a while, opened h
 Only Kyrie had faced the witch with stern eyes until the end.
 ......However, she had only been able to resist acknowledging the truth for a short time.
 The reality—the being—that was before her eyes...couldn\'t be denied.
-{i:Devils had already been proven}...!
+Devils had already been proven...!
 ".........I also...accept it.
  ......You are {f:5:Beatrice}.
  The Ushiromiya family alchemist.

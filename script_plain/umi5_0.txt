@@ -1,6 +1,6 @@
 "You idiot!!
  Isn\'t it obvious?!!
- {i:It\'ll be fun to kill her and see the pained look on your face, why else}?!!
+ It\'ll be fun to kill her and see the pained look on your face, why else?!!
  Kuhyahahahahahahaha!!"
 "Look, look, don\'t turn your eyes away, look at it.
  Look look, look look!
@@ -168,7 +168,7 @@ So, {f:5:Lambdadelta} had succeeded Beato as the Game Master,
 ".........Beato\'s game has repeated four times, and you still don\'t understand anything, right?
  In that case, I think that changing the player might lead to some huge hints."
 "That\'s none of your business!
- This is {i:our} game! Beato prepared it, and she designated me to be her opponent in it.
+ This is our game! Beato prepared it, and she designated me to be her opponent in it.
  I don\'t know what hole you two crept out of, but I don\'t want you screwing things up!"
 ".........In that case, wake Beato up and make her get the next game ready.
  Can you...?"
@@ -195,7 +195,7 @@ However, this was the first time he had learned their names and spoken to them d
  Leave everything to <perfect> {f:5:Lambdadelta}‐sama, okay?
  I\'ll take over as the Game Master."
 "{f:5:Don\'t worry}, I won\'t play with too much "certain perfection".
- I\'ll {i:act all Beato‐like} and prepare plenty of clues, bonus hints, and fakes that make no sense.
+ I\'ll act all Beato‐like and prepare plenty of clues, bonus hints, and fakes that make no sense.
  I\'ll make it into one big hint to help you understand Beato\'s world even more, okay?"
 Letting my voiceless emotions explode, ...I slammed the table hard.
 The two witches barely flinched.
@@ -223,7 +223,7 @@ When {f:5:Bernkastel} mentioned Ange, .........Battler\'s expression changed ins
 "H‐......how dare you...
 talk about Ange so casually......"
 ".........It\'s because you have me, the Witch of Miracles {f:5:Bernkastel}, as your ally,
- ...that there exists the possibility of a {i:miracle} in which Ange\'s family might come home to her."
+ ...that there exists the possibility of a miracle in which Ange\'s family might come home to her."
 "Well, if you throw that chance away yourself, guaranteeing that Ange\'s endless futures will all end in sorrow, that might be pretty interesting for me too."
 I vaguely understood what she was saying.
 Until I win in Beato\'s game, I\'ll remain trapped in this bizarre world.
@@ -326,7 +326,7 @@ Even though Battler had acknowledged this fifth game, he turned his back on them
  You aren\'t going to ruin the atmosphere of the story, are you...?"
 "Don\'t worry about that.
  I\'m really good at reading between the lines for that sort of stuff.
- I made sure to use a Beato‐ish atmosphere {i:and} I made it into an even {i:more} interesting story."
+ I made sure to use a Beato‐ish atmosphere and I made it into an even more interesting story."
 "Battler, make sure you come back as soon as your break\'s over, okay?
  It\'d be a shame to miss this.
  I\'ve prepared plenty of bonus hints that\'ll get you closer to Beato\'s secre~t♪"
@@ -341,11 +341,11 @@ After shrugging and cackling,
 "............
  ...What do you mean, things she wouldn\'t do?"
 "The materials of chess exist to play chess with.
- You {i:cannot} use them to play cards.
+ You cannot use them to play cards.
  However, as for throwing the chess pieces at your opponent, or scribbling on the board..."
 "Doing such things is not impossible.
  However, that would be blasphemy against the game of chess,
- so people {i:don\'t do that}."
+ so people don\'t do that."
 "....................."
 That definitely......wouldn\'t be chess anymore.
 It looked like Beato\'s eyes clouded very slightly with sadness.
@@ -478,6 +478,6 @@ And the culprit is among these people.
 In a panic, and with a voice that really couldn\'t be called flowing,
  ......in a manner that was, to put it coldly, unsightly...Aunt Natsuhi denied the suspicion placed upon her...
 However, ......there was no longer any way around it...
-{i:The girl} stood up, ...brushed back her long hair, pointed at Aunt Natsuhi, and said it one more time.
+The girl stood up, ...brushed back her long hair, pointed at Aunt Natsuhi, and said it one more time.
 "......You are the culprit.
  Ushiromiya Natsuhi‐san."

@@ -132,8 +132,8 @@ Kinzo is already dead}, remember?
  Figured it out?!
  Then come on, how are you gonna answer, Battler?
  Kinzo was just out for a stro~ll."
-"Why don\'t you do what you usually do and start holding your head, crying "{i:this doesn\'t make any sense!!}"...?
- C\'mon, use that old "{i:it\'s no goddamn good at all}" catch phrase and let me hear your classic crazy counterargument."
+"Why don\'t you do what you usually do and start holding your head, crying "this doesn\'t make any sense!!"...?
+ C\'mon, use that old "it\'s no goddamn good at all" catch phrase and let me hear your classic crazy counterargument."
 "There\'s no way that a human who\'s supposed to be dead could be walking around, right?
  Is this all because of some unknown virus called the Rokkenjima Syndrome which causes mass delusions?
  Or do the scales of a mysterious form of butterfly that only lives on Rokkenjima happen to be hallucinogenic?!
@@ -201,7 +201,7 @@ However, there were some people who spoke in a way that made it seem like he was
  and who claimed to have met him only a short while ago.
  We blindly accepted that and believed that Grandfather was in the study.
 {a:c:
-{i:That\'s why it was possible for an illusion of Grandfather to exist in the study}.}
+That\'s why it was possible for an illusion of Grandfather to exist in the study.}
 That\'s right, in the games before now,
  the only people who met Grandfather were Uncle Krauss,
  Aunt Natsuhi, and the servants.
@@ -243,7 +243,7 @@ of Aunt Natsuhi convincing Doctor Nanjo and the rest to cover up Grandfather\'s 
  ......It sounds like you\'re saying there\'s something wrong with the way I\'ve been fighting."
 ".........We are fighting to kill the fantasy known as the witch illusion.
  That means interpreting this tale...
-as a {i:proper mystery}.
+as a proper mystery.
  In other words, from the very start, we have to forget about any and all elements that would violate the taboos of the mystery genre."
 "F‐...forget about them.........?"
 "For example, several locked‐room murders have occurred in the games before now, right?"
@@ -255,10 +255,10 @@ Weaving a flashy bunch of red truths together all over the place,
 I call that a waste of time.
 After all, it\'s clearly specified by Knox\'s third commandment.
 "It is forbidden for hidden passages to exist."
-In the mystery genre, hidden passages {i:mustn\'t exist}.
+In the mystery genre, hidden passages mustn\'t exist.
 So when trying to interpret everything as a proper mystery,
  having a debate over whether there are hidden doors or not is a defeat from the beginning, don\'t you see...?
-After all, {i:there aren\'t any}.
+After all, there aren\'t any.
 As soon as you suspect that they might exist, then it\'s already game over for you.
 In other words, the way you assume that you can\'t use reason just because it hasn\'t been proven that hidden doors don\'t exist at the crime scene...
 makes you simply naive and a failure at mysteries.
@@ -281,7 +281,7 @@ Then you\'ve got to follow its conventions.
  They\'re the fantasy side\'s worst enemies."
 "..................
  So you deny the existence of hidden doors right from the start, without even investigating the crime scene...
- {i:That\'s} what sounds like fantasy to me..."
+ That\'s what sounds like fantasy to me..."
 "Lambda, who\'s in charge of the witch side, is fantasy.
  I\'m the one who\'s fighting her, mystery.
  What are you?
@@ -299,9 +299,9 @@ However, sweat glistened all over her body and it felt like she was breathing a 
 ......She looked as though she was suffering from a high fever.
 "Beato......
  What\'s wrong... Are you okay...?"
-"What do you mean, {i:okay}?
+"What do you mean, okay?
  You sure do say some strange things.
- ......You\'re fighting to {i:kill} that girl."
+ ......You\'re fighting to kill that girl."
 "..............."
 "We\'ve rewound this fifth game for your benefit,
  but where we\'re at right now, Bern\'s cornered me pretty good and she\'s about to break through the witch illusion.
@@ -602,7 +602,7 @@ Then, with an expression that didn\'t reveal her thoughts in the slightest, {f:5
  You said that this would be eternal torture where you both torment each other.
  That was right.
  It was torture for Beato as well.
- And you {i:won} that torture game.
+ And you won that torture game.
  ......That\'s why Beato\'s soul was killed, and why she became a doll‐like corpse."
 "Are you saying......that I did this to Beato?"
 "The battle ends when one of you loses the will to try and win.
@@ -693,7 +693,7 @@ Even though Beato was right there,
  ......In the last game, you said it at Beato\'s request.
  You said "I will kill you"."
 "......Yeah, that may be true,
- but that doesn\'t give {i:you} a right to comment on it."
+ but that doesn\'t give you a right to comment on it."
 "Did you know?
  When you tear one of your fingernails out, it\'s better to do it in one go.
  ......Pulling it out like you do, gently, timidly,
@@ -705,7 +705,7 @@ Even though Beato was right there,
 "That\'s none of your business.
  I\'m the one to decide how to perform her last rites.
  You and that {f:5:Lambdadelta} witch have nothing to do with this.
- {i:I} will kill her.
+ I will kill her.
  I won\'t let anyone else do it."
 ".........As long as you don\'t lose that willpower.
  I\'m betting on you.
@@ -746,7 +746,7 @@ And, if I hadn\'t thought I hurt her,
  {f:5:Beatrice} doesn\'t exist.
  This is a false witch illusion that Natsuhi created from her belief that she thought up a brilliant plan to overcome hardship by borrowing the witch\'s power."
 "The only reason it looks like the two of them are drinking together...
-is because {f:5:Lambdadelta}, who is the Game Master and {i:the one who is telling the story}, is interpreting it that way."
+is because {f:5:Lambdadelta}, who is the Game Master and the one who is telling the story, is interpreting it that way."
 "If you stare without a fragment of love for Natsuhi, you won\'t see illusions like that.
  .........That\'s why, with my eyes, all I can see is Natsuhi all alone, drinking her tea in silence."
 Without love, it cannot be {y:1:‘seen’}{n:1:seen}.

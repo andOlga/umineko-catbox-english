@@ -227,7 +227,7 @@ Wait, I\'ve seen this before.
 "I acknowledge it. You may sit.
  You are the Game Master."
 ".........Are you sure?
- ......Are you {i:really} sure...?"
+ ......Are you really sure...?"
 "You may create whatever sort of tale you like to ease your inner hatred.
  I am not interested.
  However, I have one condition as well.

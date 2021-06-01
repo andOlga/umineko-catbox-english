@@ -172,7 +172,7 @@ This mysterious game, which had so often been likened to chess, now had far more
  Refill my drink."
 "......And some popcorn for me."
 "Oh, that\'s right.
- .........It {i:was} you who decided that popcorn was the only proper accompaniment to demonic theater, after all."
+ .........It was you who decided that popcorn was the only proper accompaniment to demonic theater, after all."
 "Yes, I intend to enjoy this.
  .........And could I get some black tea and mustard miso?
  Erika, begin.
@@ -295,7 +295,7 @@ And because it was so simple, it was decisive......
  Lady {f:5:Lambdadelta} is the ruler of this game.
  ......If it suits her fancy, she\'ll set up Natsuhi as the culprit regardless of the facts."
 If the typhoon were to pass and the police were to come and perform a scientific investigation,
- perhaps the true culprit {i:would} be identified and the false accusations against Natsuhi lifted.
+ perhaps the true culprit would be identified and the false accusations against Natsuhi lifted.
 However, the police would never arrive at this closed‐off Rokkenjima.
 ......In other words, the real truth would never be revealed.
 Inside a cat box that will never be opened, false charges that everyone accepts have exactly the same value as the truth.
@@ -320,7 +320,7 @@ and stepping backwards and forwards in time will only lead to confusion.
 "...............Tch."
 I definitely saw Erika click her tongue.
 ......Now I understand.
- This is {i:how the tales of Rokkenjima are created}.
+ This is how the tales of Rokkenjima are created.
 After being guided by {f:5:Virgilia} and meeting {f:5:Beatrice},
  ......now I stand here, at this peak from which I can see everything below me, and I finally understand the truth of this world.
 "This is......that thing you talked to me about before."
@@ -783,7 +783,7 @@ In other words, it was impossible for Battler to commit murder or damage the cor
 The red from the two of them forced Beato to show an expression of considerable anguish...
 It was only natural.
 The red truth they had spoken not only guaranteed Battler\'s alibi, but a number of other things as well.
-First off, it meant the murder was impossible for {i:anyone} after 3 a.m.
+First off, it meant the murder was impossible for anyone after 3 a.m.
 And since the cousins were confirmed to be alive as late as midnight, the time period of the crime automatically became...
 “between midnight and three o\'clock”.
 That also automatically provided a guaranteed alibi...
@@ -842,7 +842,7 @@ It is impossible for someone to reach the second floor of the guesthouse without
  This really does pose a problem.
  After all, there are trees that could probably be climbed, and someone could have used a ladder.
  We also can\'t be certain that crawling up the rain gutter would be impossible.
- But I {i:can\'t let you do that}."
+ But I can\'t let you do that."
 "Hoh, you won\'t let me...?
  And how\'s that?
  Did you stay up all night circling the guesthouse?
@@ -1096,7 +1096,7 @@ However, all of those alibis had been accepted by {f:5:Bernkastel} and {f:5:Lamb
  In other words, it cannot be a fake truth built only on lies."
 "......This means that even Erika\'s truth makes sense.
  The truth about Natsuhi and Krauss being the culprits is also very possible.
- It may be a hollow truth, but it is {i:consistent}.
+ It may be a hollow truth, but it is consistent.
  ......It\'s a fiction that holds the same worth as truth.
  ......Which of those two truths will you believe?
  That is for you to decide."
@@ -1111,7 +1111,7 @@ However, all of those alibis had been accepted by {f:5:Bernkastel} and {f:5:Lamb
  Aunt Natsuhi\'s been caught in a cowardly trap, that\'s all.
  ...And Erika\'s reasoning is all part of it...!
  So whether it\'s intentional or she\'s being manipulated, Erika is aiding the true culprit."
-".........Even if Erika {i:has} accused Aunt Natsuhi of being the culprit, ......and even if everyone else here believes that,
+".........Even if Erika has accused Aunt Natsuhi of being the culprit, ......and even if everyone else here believes that,
  ......that\'s exactly why I want to be the one person who trusts her...!"
 If everyone assumes it\'s true, does it become the truth?
 If everyone accepts a lie, does it become the truth?
@@ -1166,7 +1166,7 @@ I\'d been told by a book my mom read me that rabbits lived on the far side of th
 And now, everyone is starting to believe that Aunt Natsuhi is the culprit.
 Even though not a single piece of decisive proof has been shown...!
 There\'s no proof, but Erika\'s words sound reasonable, so they\'re probably the truth......?
- {i:That\'s} your reason to abandon your belief that Aunt Natsuhi is innocent?!
+ That\'s your reason to abandon your belief that Aunt Natsuhi is innocent?!
 "If no one else will believe, ......then I will...!
  I believe that real truth only surfaces if you look with both eyes, one denying and one affirming...!!
  No matter how much they try to make Aunt Natsuhi out to be the culprit, it\'s my belief that she isn\'t!
@@ -1362,7 +1362,7 @@ Natsuhi.
  When did Kinzo ever say it was okay for you to engrave the One‐winged Eagle into your heart?
  Those were just the words of the Kinzo from your delusions.
  ......The real Kinzo?
- Throughout his entire life, not {i:once}...
+ Throughout his entire life, not once...
 did he ever trust you from the bottom of his heart,
  and not once did he ever consider letting you bear the family crest}!"
 When that heartless announcement was made.........Kinzo stood up.
@@ -1469,7 +1469,7 @@ And, the culprit is among these people.
 In a panic, and with a voice that really couldn\'t be called flowing,
  ......in a manner that was, to put it coldly, unsightly...Aunt Natsuhi denied the suspicion placed upon her...
 However, ......there was no longer any way around it...
-{i:The girl} stood up, ...brushed back her long hair, pointed at Aunt Natsuhi, and said it one more time.
+The girl stood up, ...brushed back her long hair, pointed at Aunt Natsuhi, and said it one more time.
 "......You are the culprit.
  Ushiromiya Natsuhi‐san."
 Red‐faced and tear‐streaked,
@@ -1975,7 +1975,7 @@ I understood that this...
  {f:5:Beatrice}.
  Ushiromiya Battler."
 "......But I\'ve gotten tired of you.
- You aren\'t needed in {i:our game}.
+ You aren\'t needed in our game.
  .........
 *giggle*giggle*giggle*,
  ehehehehahahahahahahahahahah!!
@@ -2216,8 +2216,8 @@ that you hated both your husband and the Ushiromiya family."
 "That\'s right!!
  I can\'t even count the number of times I\'ve heard you complain...!!"
 "Don\'t we all...? I remember there being days when you talked behind Hideyoshi‐san\'s back...!"
-"You {i:killed} my husband!!
- How {i:dare} you say that?!!
+"You killed my husband!!
+ How dare you say that?!!
  Die! Die so you can apologize to my husband in the afterlife!!"
 "Please cease your violence, Eva‐san.
  This is my delectable moment where I question and convict the culprit.
@@ -2325,7 +2325,7 @@ were both unacceptable, unbearable outcomes.
  alibis have been proven for everyone except you.
  If you do not accuse Kinzo‐san,
  ......then it really will be clear that you are the culprit,
- and that {i:will} become the truth......"
+ and that will become the truth......"
 "If labelling me as the culprit is what you call truth,
  then you can do as you please...!
  I am certain that God knows I am innocent...!
@@ -2430,7 +2430,7 @@ Therefore, {f:5:Bernkastel} repeated that truth of Erika\'s...
 "
 Kinzo does not exist outside the mansion}.
  ............So, Natsuhi.
- That means that {i:if Kinzo exists}, he must be somewhere inside the mansion.
+ That means that if Kinzo exists, he must be somewhere inside the mansion.
  Do you have any idea where Kinzo might be hiding......?"
 "H‐how could I know...?!
  After all, think of the weather.

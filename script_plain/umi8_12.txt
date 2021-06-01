@@ -298,7 +298,7 @@ Beato just blew them apart with the red truth and an elegant wave of her pipe.
 ".........Are you trying to say that I could never solve this puzzle?"
 "I\'m just buying time until Battler finishes entertaining Erika.
  He\'s the only one who can bring you to your senses."
-"Bring {i:me} to my senses?
+"Bring me to my senses?
  .........You\'re the ones doing this to me by hiding the Single Truth!!
  That\'s why I\'m fighting you!!
  This is my right!!
@@ -403,7 +403,7 @@ It was long, thick, and shaped like a spear.
  ......
 This locked room is perfect!!
  Therefore, I can\'t get out, and you can\'t lay a finger on me from the outside!
- However, you {i:locked me into} this room!
+ However, you locked me into this room!
  And there\'s just one trick that makes that the same as you "killing" me...!!
  You shut me in this perfect locked room and made me starve to death...!!
  Since you intentionally did this, there\'s no problem saying that this was a locked room murder with you as the killer}!!"

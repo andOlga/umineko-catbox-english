@@ -294,7 +294,7 @@ would probably move exactly according to Battler\'s wishes."
 "......Battler might be trying to revive Beato in the truest sense.
  ......It is the never‐dying dream held by the children of man."
 "You just used the red to say that wasn\'t possible."
-"......{i:That Beato} has no chance of reviving.
+"......That Beato has no chance of reviving.
  However, that doesn\'t mean that it is impossible to create "Beato" again...
  Have you forgotten?
  I believe that {f:5:Bernkastel} herself revealed Beato\'s true form at the end of the first game..."
@@ -758,14 +758,14 @@ That made it unbelievably lonely...
 "‘It must have been such a relief for you to have an opponent in me who could actually go against you.
  I\'m painfully aware of that now.’"
 ".........That weird, polite Beato...
-...she {i:is} you, I don\'t doubt that.
+...she is you, I don\'t doubt that.
  ......The way you were a thousand years ago."
 ""‘However,
  ......she is a separate person.’""
 "The way she looks just like you is what I really can\'t get over...!
  I can\'t stand it......"
 "‘However, she isn\'t a piece, so she can go against my will.’"
-"Sure, unlike the piece {i:you} are, that Beato is much more alive.
+"Sure, unlike the piece you are, that Beato is much more alive.
  I acknowledge that!
  But it\'s all wrong!!
  That isn\'t you!

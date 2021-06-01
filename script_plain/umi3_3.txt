@@ -395,7 +395,7 @@ might not be completely delusional considering all of Kinzo\'s strange habits an
 "Yes.
  You should never underestimate Father.
  ......Dad\'s madness can\'t be understood by normal people."
-I wouldn\'t put it past {i:the} Ushiromiya Kinzo.
+I wouldn\'t put it past the Ushiromiya Kinzo.
 ...As long as that word could accompany his name, a considerable amount of credibility dwelled in any story, no matter how absurd.
 However, that didn\'t shake the importance of what Kyrie had said.
 This was different from stealthily raising a kitten in a cardboard box and keeping it a secret from your parents.
@@ -505,7 +505,7 @@ Could it be that this person was trying to stir the siblings up so that they tri
 "......In other words, unless there is something that forcibly compels us to play this game under fair conditions,
  this game won\'t function as a game."
 "That\'s right.
- ......Unless the losers are {i:forcibly compelled} to hand over the headship, the game doesn\'t work."
+ ......Unless the losers are forcibly compelled to hand over the headship, the game doesn\'t work."
 "And what would this compelling force be?
  Would they bind us in chains and threaten us into handing over the headship?"
 ".........I see.

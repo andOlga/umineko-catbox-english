@@ -460,7 +460,7 @@ Dlanor\'s neck tilted unnaturally backwards, creaking.
  .........Are you trying to talk back to me?
  Me, the envoy and double of the great Lady {f:5:Bernkastel}...?!"
 ".........{f:5:No}."
-"{i:I} am being reprimanded by Lady {f:5:Bernkastel} because {i:you people} are useless...!!
+"I am being reprimanded by Lady {f:5:Bernkastel} because you people are useless...!!
  Never demonstrate such miserable incompetence again...!
  Are‐we‐un‐der‐stood...?!"
 She pulled back the hair she had grabbed even more strongly...
@@ -567,7 +567,7 @@ when Shannon and Kanon came in to serve tea, who was the last {y:0:Human}{n:0:hu
 Not a single person in the dining hall—no, there\'s a simpler way to say it.
  Among all those inside the mansion at midnight,
  not a single one of them placed that letter in the hallway}."
-"So you can\'t say that no one {i:touched} it?"
+"So you can\'t say that no one touched it?"
 "Of course not.
  They "touched it" when they picked it up.
  Of course I can\'t say none of them touched it."
@@ -707,13 +707,13 @@ It was impossible for anyone outside the mansion to influence anything inside th
  That\'s the only possibility, right?!
  Someone outside the mansion used some kind of trick other than the ceiling or the serving cart...!!"
 "F‐For your attention:
- unless you can specify or hypothesize {i:what kind} of trick, it will not be recognized as blue truth."
+ unless you can specify or hypothesize what kind of trick, it will not be recognized as blue truth."
 "For your attention:
  Lady Erika\'s blue truths regarding the letter have all been destroyed."
 "All been destroyed......?!
  Take a little more care how you speak to me, you useless furniture!
  If I can just think of that trick, it\'s an instant checkmate...!
- {i:All been destroyed?!} Blue truth invalid?!
+ All been destroyed?! Blue truth invalid?!
  I am...
 ...the detective...
 ...Furudo Erika...!
@@ -743,7 +743,7 @@ someone outside the mansion set things up with a cassette tape or something to m
  ......but if she\'s managed to solve one of the mysteries, maybe I\'ll let it slide for now......"
 "M‐......my master......"
 When {f:5:Bernkastel} said she\'d let it slide, Erika couldn\'t hide her relief.
-"{i:Then it\'s time to get punished}, Erika‐chan♪"
+"Then it\'s time to get punished, Erika‐chan♪"
 {a:c:
 
 None of the characters would misidentify a knocking sound}.}
@@ -804,12 +804,12 @@ The two witches doubled over laughing,
  You\'ve bored me, Erika.
  As my piece and double, the fact that you have nothing is so pathetic, it\'s comical.
  If you don\'t know the answer, then be silent forever, please.
- And please open your mouth {i:only} when you know the answer."
+ And please open your mouth only when you know the answer."
 ".........You\'re nothing but a piece.
  Your absence wouldn\'t hinder my progress in this game in the slightest.
  If you can\'t think of any theories in particular, please just go back to the piece tray and gather dust or something.
  It\'s painful to even reserve space in my memory for useless pieces."
-"......Bern {i:is} pretty forgetful.
+"......Bern is pretty forgetful.
  If you don\'t try a little harder, Bern\'s gonna forget you, you know...?
  You\'ll collect dust in that forgotten piece tray, awaiting your turn that will never come.
  ......I imagine that\'d be pretty harsh, don\'t you think...?"
@@ -857,7 +857,7 @@ With an ugly expression covered with cold sweat, Erika glared and lashed out at 
 "
 When you set up the ladder from the courtyard and saw Rudolf‐san go up it to the third‐story window,
  you closely observed the structure of the outer wall and realized that by cleverly using the rain gutters and other handholds, it would be possible to descend to the courtyard from the third‐floor window...!
- You didn\'t {i:jump down}!
+ You didn\'t jump down!
  You used the rain gutters and so on and clambered down the outer wall like a loser}!!
  What do you think of my blue truth?!! Come on, where\'s your rebuttal?!"
 ".........My rebuttal?"

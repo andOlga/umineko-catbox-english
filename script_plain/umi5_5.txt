@@ -303,7 +303,7 @@ I don\'t even know what the beloved home of old means, much less the parts about
 Thinking that a few more hints would show up if I waited,
  ......I kept on waiting, ...and just stopped thinking......
 ".........Have you figured out an answer on your own?
- .........Because I\'m about to {i:solve it}."
+ .........Because I\'m about to solve it."
 "Wh‐what......?"
 "This is where Bern solved the riddle of the epitaph.
  ......I\'d expect no less from the Witch of Miracles.
@@ -338,7 +338,7 @@ This space was cloaked in endless darkness in every direction, and it felt like 
  ......Come on, don\'t we look like we\'re just fine?
  ......Believe that your feet are on the ground and that you\'re being controlled by gravity.
  ......If you do that, you\'ll find your equilibrium."
-Sh‐she\'s right... The two witches {i:were} standing normally, as though their feet were planted on a transparent piece of glass.
+Sh‐she\'s right... The two witches were standing normally, as though their feet were planted on a transparent piece of glass.
 I was the only one floating about like someone in a rapidly plummeting elevator.
 ......When I saw that they were just fine, I started calming down, figuring that there was no need to be scared.
 Then, just as {f:5:Lambdadelta} said,
@@ -390,7 +390,7 @@ Then, it shone brightly, painting over the world with pure white......
 "............That\'s right.
  And, from these thoughts, she made her way to the correct answer.
  In other words, this fragment shows a vital hint for reaching the truth.
- .........In other words, it means that {i:this theory is not mistaken}."
+ .........In other words, it means that this theory is not mistaken."
 "So, ......you\'re saying we should assume this beloved home of old isn\'t a metaphor or anything like that...
 but the place Grandfather actually spent his youth?"
 ".........That\'s right.
@@ -407,7 +407,7 @@ but the place Grandfather actually spent his youth?"
  And annoyingly, the actual location isn\'t spoken of in any of the fragments."
 "Of course.
  If I told you that, there\'d be too many hints.
- .........If a riddle isn\'t hard, there\'s {i:just no point to it}.
+ .........If a riddle isn\'t hard, there\'s just no point to it.
  ......Uh‐oh,
  that\'s a hint too.
  *giggle*......"
@@ -457,7 +457,7 @@ but the place Grandfather actually spent his youth?"
  If that something is a different word, but a word that sweetfish makes you think of, then Eva\'s line about how it "probably didn\'t have to be sweetfish" makes sense..."
 "...................................."
 From these thoughts, Auntie Eva formed some theory,
- ......went to the archive, looked through some kind of book, and {i:verified that she was right}.
+ ......went to the archive, looked through some kind of book, and verified that she was right.
 In short, Auntie Eva formed some theory about the true nature of this sweetfish river running through his home of old.
 Then, ......she opened a certain book to determine whether that theory was correct or not.
 In other words, this theory was something that could be verified through some kind of book...
@@ -465,7 +465,7 @@ Also, after she figured out what the sweetfish river was, she figured out the re
 ".........Good thinking.
  ......The epitaph continues on, saying "as you travel down it, you will see a village".
  At that point in time, Eva hadn\'t yet solved the three lines starting with this one."
-"......What is {i:village}?
+"......What is village?
  What does it mean?!
  Is there a village if you go down this "river"......?!
  ............ah, .........aaaaaaaahhh......!!"
@@ -518,7 +518,7 @@ k‐
 "O‐...on the first twilight, sacrifice the six chosen by the key...
  ......The six...chosen by the key...
  .........Six characters......!"
-In other words, ......it means "on the first twilight, sacrifice the six {i:characters} chosen by the key"...!
+In other words, ......it means "on the first twilight, sacrifice the six characters chosen by the key"...!
 "This key points towards a certain specific group of six people.
  ......No, we should say it points to a certain specific group of six things.
  ......If this doesn\'t mean a literal command to offer sacrifices.
@@ -638,7 +638,7 @@ However, that\'s probably good enough for now.
 {f:5:Lambdadelta} let it slip herself just a second ago.
 "Of course.
  If I told you that, there\'d be too many hints.
- .........If a riddle isn\'t hard, there\'s {i:just no point to it}.
+ .........If a riddle isn\'t hard, there\'s just no point to it.
  ......Uh‐oh, that\'s a hint too. *giggle*......"
 ......This theory about Grandfather creating the epitaph in order to choose a successor isn\'t bad at all.
 Erika and {f:5:Bernkastel}\'s logic is extremely reasonable.
@@ -676,7 +676,7 @@ Did Grandfather give her some terrible order to kill everyone if the epitaph isn
 Don\'t just think of the riddle itself......think about why it\'s significant.
 .................................
 Why is {f:5:Beatrice} telling us to solve the epitaph......?
-Why did she create {i:such a confusing} epitaph for us......?
+Why did she create such a confusing epitaph for us......?
 ......If {f:5:Beatrice} makes us try and solve this epitaph that we have no real chance of solving,
  .........and by some lucky chance, a "miracle" occurs and someone is able to solve it......
 ......what significance does that have to her.........?
@@ -741,7 +741,7 @@ I wanted to keep discussing the epitaph with someone.
 "Well,
  .........the word "Golden Land" ({ruby:ougonkyou:黄金郷}) appears several times, right?"
 "Yes, it does."
-"For some reason......on the tenth twilight alone, when the journey ends, it says we reach the "Home of the Gold" (黄金の郷), read "ougon {i:no} kyou"—no, sorry, "ougon no sato".
+"For some reason......on the tenth twilight alone, when the journey ends, it says we reach the "Home of the Gold" (黄金の郷), read "ougon no kyou"—no, sorry, "ougon no sato".
  The "Home" kanji ({ruby:kyou/sato:郷}) is separated out.
  I can\'t help but wonder why this is the one place where it\'s written like that."
 "............You\'re right.

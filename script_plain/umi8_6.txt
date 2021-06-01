@@ -675,7 +675,7 @@ I\'ll just have to pick myself up and have a go at Genji\'s puzzle.
  "Kyuu‐kyuu" sounds like "99", and if you add 20 to 99, you get 119.
  That\'s the emergency number for ambulances!"
 "And if you subtract 20 from 130, you get 110.
- That\'s the emergency number for calling the police."{i:(Add 20 to 99 and write it in reverse to get 911, the US number for both.)}
+ That\'s the emergency number for calling the police."(Add 20 to 99 and write it in reverse to get 911, the US number for both.)
 "Splendid! That is correct.
  I knew you were a quick thinker, Ange‐san."
 "Oooooooh, well done, Angeeeeeeee!

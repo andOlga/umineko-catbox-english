@@ -8,10 +8,10 @@ I now understand just how much the woman called Beatrice influenced Grandfather\
  The funeral is already over, after all."
 "...........................
  You\'ve got it all wrong.
- ......This {i:is}...
+ ......This is...
 ...the funeral."
 "You mean, what she\'s making us do...?"
-"None of the Beatrices we\'ve heard about so far were {i:killed}.
+"None of the Beatrices we\'ve heard about so far were killed.
  ......We need to change that.
  That\'s the real funeral, as far as {f:5:Bernkastel}\'s concerned."
 "............No one knows about the "killed" factor.
@@ -61,7 +61,7 @@ Or, maybe she\'s intentionally hiding the core elements and making us take the l
  ......I won\'t say anything perverted, so keep your hands off my ass."
 "Then why not try choosing your words a bit more carefully?"
 With a roguish smile, Lion pinched the air, index finger against middle.
-"Ah, it\'s the {i:future heir}.
+"Ah, it\'s the future heir.
  Are you done babysitting the old geezer?
  .........Gyaah!"
 At least Lion is impartial.
@@ -77,7 +77,7 @@ He was so used to Jessica being an only child that, though the scuffle between t
  Also, how many times do I have to tell you to stop calling me "future heir"?"
 "C‐cram it!
  I\'ll live the way I want to!
- I\'d suffocate if I had to act all refined like you, {i:future heir}...!"
+ I\'d suffocate if I had to act all refined like you, future heir...!"
 "Yeek!
  Ouch!
  Owowowowow!!
@@ -91,7 +91,7 @@ owow!"
  Do you want me to get Mother involved again?!"
 ".........Looks like those two are close, in their own special way."
 "Well, Lion is a person of impeccable character, perfectly suited to being the next head.
- ......I guess I understand how Jessica‐chan feels... Lion might be a bit {i:too} perfect sometimes."
+ ......I guess I understand how Jessica‐chan feels... Lion might be a bit too perfect sometimes."
 "She gets compared to Lion no matter what she does.
  So you think that made her rebel?"
 "If Jessica‐chan had been born an only child, I\'m sure she\'d have become a composed, quiet young lady.
@@ -185,7 +185,7 @@ The priest taught me.
 He said there was nothing strange about a child having no papa.
 After all, Jesus Christ was born of a virgin.
 And the one who gave birth to him...
-was the Blessed Virgin...{i:Maria}...?
+was the Blessed Virgin...Maria...?
 I was surprised!
 Maria, the name I was given, was the answer all along.
 "I was so surprised, I asked the priest to say it again.
@@ -228,7 +228,7 @@ It isn\'t too difficult to imagine that Rosa, after hearing the explanation the 
  I was born of the Holy Ghost!
  .........Beato can\'t create a universe without me.
  But I have...
-‘{i:God with us}.’
+‘God with us.’
  I can make a universe all by myself, along with the Holy Ghost!"
 "Beato called me the Witch of Origins.
  And she also said that eventually, I might become a Creator, who can create anything alone.
@@ -540,7 +540,7 @@ would be Battler, the one said to have the strongest anti‐magical power.
 ......Does this mean {f:5:Beatrice} thought that Battler would be the hardest one to convince......?
 It seems true that Battler was one of {f:5:Beatrice}\'s goals.
 ......However, if we go with Battler\'s chessboard thinking...
-...we might say that {f:5:Beatrice}, who wanted others to acknowledge her existence, was someone who could not exist {i:unless} she was acknowledged.
+...we might say that {f:5:Beatrice}, who wanted others to acknowledge her existence, was someone who could not exist unless she was acknowledged.
 Battler reached this thought himself back in the first game.
 Yes, there is something different about the {f:5:Beatrice} of 1986.
 She\'s different from the Italian Beatrice or the Kuwadorian Beatrice, both of whom certainly did exist.

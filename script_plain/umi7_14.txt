@@ -45,7 +45,7 @@ And, in this world, .........eventually,
 "Yeah, that\'s what I expected you to say.
  ......I doubt anyone could understand.
  ......This person here\'s long past expecting anyone to understand.
- That\'s why {i:you} are here.
+ That\'s why you are here.
  ......That\'s why {f:5:Bernkastel} brought you two, two people who never could have met, together like this."
 "............It\'s not like I had any deep reason for it.
  It was just a whim."
@@ -184,12 +184,12 @@ But just when did Kyrie‐san get pregnant?!
  Back when Mom was still alive, right?!
 Yeah, now I finally get it!
  This is why looking at you makes me feel sick to my stomach!
-You were {i:glad} when Mom died, weren\'t you? Weren\'t you?!
+You were glad when Mom died, weren\'t you? Weren\'t you?!
 It must have been so hard on you, keeping your infidelity and even a kid secret while Mom was still alive!!
 And now that Mom conveniently kicked it, you get to marry Kyrie‐san and make the kid my new little brother or sister... The nerve of you!!
 Mom is crying her eyes out in heaven!!
  You should be ashamed of yourself, you should be ashamed!!
- {i:I} am!!
+ I am!!
  I am goddamn ashamed to have the same last name as you!!
  The kid\'s done nothing wrong.
  He or she\'ll need two parents to look after him or her.
@@ -300,7 +300,7 @@ It\'s like it reminds me of the scenery of a strange dream I once had.
 I was there, under an arbor in a golden rose garden,
  ......and two witches in white and red dresses were showering words of encouragement upon me...
 "You can be sure that those rumor‐mongering young servants are embellishing the story however they please.
- That he has {i:changed his name} is obviously a gross exaggeration!
+ That he has changed his name is obviously a gross exaggeration!
  Surely, this can be nothing more than a family quarrel."
 "........................
  ......Thank you.
@@ -624,7 +624,7 @@ The very fact that I feel uncertain and anxious is a betrayal of my resolve.....
 "......I haven\'t reached anything...
  .........But I\'ve decided to think of it that way for now.
  This is a trial......to see whether I trust Battler‐san or not."
-If he {i:had} showed up today,
+If he had showed up today,
  ......then today, I would have had to inform Madam that I was quitting my job as a servant.
 But was I mentally prepared for that?
 I spent all last night worrying about whether Battler‐san would come or not.

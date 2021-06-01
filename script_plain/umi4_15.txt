@@ -301,7 +301,7 @@ The feeble light from the lightbulb in the gardening storehouse was seeping out 
 ......To George, who had closed the shutter himself,
  ...the resistance of the lock made it feel as though he had killed them with his own hands.
 ".........But even so......we can\'t disobey......"
-"A {i:test}...?
+"A test...?
  ......What the hell, old man......!
  Killing Mom, capturing Dad for that......
  I don\'t get it, I\'ll kill him...!"
@@ -391,7 +391,7 @@ She probably meant "there is no way for us to escape from this dungeon, and we c
 ...go all out?"
 "......Yes.
  It\'s a serious test.
- He plans to {i:seriously} test you all."
+ He plans to seriously test you all."
 "That\'s no good, no goddamn good at all.
  ......Some old fart on death\'s door thinks he can take me when I\'m serious?"
 "Let\'s see him spew that shit from beyond the grave.
@@ -472,7 +472,7 @@ In actuality, Jessica was probably feeling the fear of a girl her age.
 "........................
  ......That doesn\'t mean I\'ll sit around and wait for my fiancée to be killed.
  .........What scares me is not that Shannon might be killed by Grandfather."
-"{i:I\'m just worried you guys will be first to find that doddering old bastard who gave my fiancée a taste of terror, and literally beat me to the punch}."
+"I\'m just worried you guys will be first to find that doddering old bastard who gave my fiancée a taste of terror, and literally beat me to the punch."
 "Now I get it...
  ......Yeah, this really is a test to settle who the next head\'s gonna be."
 "Yep.

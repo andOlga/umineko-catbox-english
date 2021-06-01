@@ -36,7 +36,7 @@ Heading for the guesthouse through that rose garden, led by Shannon, were Battle
 "Ooh!
  So ungreedy!
  If you lined up all the things I wanted, all the gold in the world wouldn\'t be enough."
-"Nothing you can {i:buy}, she said.
+"Nothing you can buy, she said.
  I wonder what these "things that can\'t be bought" that Shannon wants a~re.
  Any idea, George nii‐san?"
 "W‐well, I wonder.
@@ -95,7 +95,7 @@ Battler hadn\'t attended the family conference in six years, so he hadn\'t reall
  .........At this point in time, Battler\'s theory hasn\'t been defeated.
  It\'s too early to say that you\'ve won."
 "Hmm, you\'re right.
- ......It {i:is} still too early for me to simply swallow her story.
+ ......It is still too early for me to simply swallow her story.
  ...Grandfather is supposed to be finally appearing,
  but there\'s also a chance that there\'ll be a lot of talk about how his health has gotten worse and he won\'t appear after all."
 "......Uncle Krauss might simply be trying desperately...
@@ -144,8 +144,8 @@ then they had fallen for it completely...
  I wonder whether Maria‐chan really did receive that umbrella from Father?"
 "Huh?
  What do you mean......?"
-"......{i:Maria‐chan} might have met Father.
- But {i:we} haven\'t.
+"......Maria‐chan might have met Father.
+ But we haven\'t.
  Maria‐chan only claims to have met him."
 "What......?
  ......Are you saying that Maria is telling a lie?!"
@@ -283,7 +283,7 @@ Once sure of that, Eva spoke to Krauss.
 "How long?
  Sorry, but I\'m setting a time limit on this.
  I won\'t have you saying "Father hasn\'t quite shown up yet" over and over until dawn."
-"How can {i:I} make a promise about the time {i:Father} will show up?
+"How can I make a promise about the time Father will show up?
  Why are you in such a rush?
  Why not drink some coffee and calm down for now...?"
 "Aniki, we\'re gathered here for a family conference.
@@ -426,7 +426,7 @@ Eva and the rest had no words to respond with.
 Was Kinzo actually planning to proclaim that no one would succeed the head?
 If so, that would work to Eva, Rosa, and Rudolf\'s advantage.
 Because the only thing the siblings would ultimately need to do is coordinate everything between them after Kinzo\'s death, and split the inheritance evenly.
-On the contrary, if a specific person\'s name was raised and proclaimed to be the one to succeed the head, that would surely be {i:more} troublesome.
+On the contrary, if a specific person\'s name was raised and proclaimed to be the one to succeed the head, that would surely be more troublesome.
 ......But would Kinzo really say something that would benefit any of the four siblings after lambasting them so much?
 "......You don\'t think...he\'s going to say that because no one will succeed him,
  he\'ll donate all of his fortune to charity or something, right......?"
@@ -627,7 +627,7 @@ Natsuhi looked like she was about to follow along, but Krauss gave her a look te
 "......So why don\'t I use this opportunity to talk about something else that does have something to do with you."
 "Something else......?"
 "Mm.
- That is the true reason for tonight\'s...{i:final} Ushiromiya family conference."
+ That is the true reason for tonight\'s...final Ushiromiya family conference."
 "......*cackle*cackle*cackle*!!
  What I demand from you is neither a discussion nor your opinions.
  I demand cooperation.
@@ -1003,7 +1003,7 @@ The literally devilish woman, wrapped in a gaudy, ominous costume,
 "I will have your assistance as facilitator in the completion of my ritual to resurrect {f:5:Beatrice}.
  You have no objections to my summoning contract, I assume...?"
 "Objections?
- There\'s no way {i:I} could fight the summoning subordination of the legendary Great Summoner, Lord {f:5:Goldsmith}, who enslaved the famous Great Witch {f:5:Beatrice}."
+ There\'s no way I could fight the summoning subordination of the legendary Great Summoner, Lord {f:5:Goldsmith}, who enslaved the famous Great Witch {f:5:Beatrice}."
 "......I\'ll assist you.
  Although I will of course charge a fitting price.
  ......So?

@@ -324,7 +324,7 @@ And there are 18 of them!
  it\'s impossible to prove that all of them have empty boxes.
 However, Beato only has to open one box, the 19th box,
  and show that it is empty, to prove that the bomb is in one of the other 18 boxes.
- (Furthermore, there\'s no need for her to show {i:which} of the 18 boxes has the bomb!)
+ (Furthermore, there\'s no need for her to show which of the 18 boxes has the bomb!)
 I have 18 times more work to do to explain my pet theory than Beato does for hers......
 "Just as you know from the "Devil\'s Proof",
  there are many cases in this world where refuting something would take a vast amount of effort that is impossible in practice."
@@ -394,7 +394,7 @@ Apply even more force......and gouge it in......!
 "While yes, I did use the phrasing of a "19th person" to make it easy to understand,
  if I can use the "Devil\'s Proof" to raise the number of people above 18,
  then what I mean is an unspecified large number of extra people—you don\'t know if it\'s ten or a hundred."
-"{i:Always one more than you assume}.
+"Always one more than you assume.
  ...Understand?"
 She had returned my twisted logic with something even more twisted.
 So the only thing that could counter that would be even crazier twisted logic...!
@@ -422,7 +422,7 @@ So the only thing that could counter that would be even crazier twisted logic...
  you will call a 23rd, a 34th, a 64358223579673204th,
  you think you can trifle with me for all eternity?!"
 "I laugh at "infinite regress",
- the {i:infinite} doesn\'t affect me!!"
+ the infinite doesn\'t affect me!!"
 "Hoh, well then, how will you kill my "infinity"? Just try and show me!!"
 "
 
@@ -603,7 +603,7 @@ And since the culprit isn\'t a witch either,
 And that\'s you.
 A person who, as Grandfather\'s mistress of thirty years,
  has been living secretly in a hidden mansion in the forest for a long, long time.
-The {i:human} {f:5:Beatrice}.........!!
+The human {f:5:Beatrice}.........!!
 "That\'s right.
  You aren\'t a witch or anything like it.
  ......You\'re just a human...who\'s been living on this island in hiding for several decades...!"
@@ -628,7 +628,7 @@ In order to break my "Devil\'s Proof",
 needed to be confirmed in red.
 That\'s right.
  She couldn\'t break the existence of a 19th person unless she used red.
-I had {i:closed Beato in}, giving her no choice but to speak in red...!
+I had closed Beato in, giving her no choice but to speak in red...!
 There really was...
 .........a way to fight,
  ......in this witch\'s game!
@@ -648,7 +648,7 @@ She couldn\'t just let such an important piece go, especially this close to the 
 If she pulled out her red treasured sword, it wouldn\'t be that difficult to save that piece.
 ......But Beato was completely aware that I was expecting it.
  She was afraid that a careless red truth might end up strangling her own neck...!
-Because, ...in the first place, a witch was something which should be {i:denied} in red.
+Because, ...in the first place, a witch was something which should be denied in red.
 Believe.
  Don\'t doubt!
  Witches don\'t exist!
@@ -858,7 +858,7 @@ It was so sudden that everyone was lost for words.
 "Long ago!
  Long, long, long ago!!
  We had just moved over to the island and I was young!!
- It wasn\'t my fault, it\'s not like {i:I} killed her...!!
+ It wasn\'t my fault, it\'s not like I killed her...!!
  Uuuuuuuuughhhuuu!!"
 "...Calm down!
  Nobody\'s blaming you for anything, alright?

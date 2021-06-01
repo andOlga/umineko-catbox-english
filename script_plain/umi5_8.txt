@@ -188,12 +188,12 @@ Krauss and Natsuhi were well away from the dining hall, in a deserted corridor o
 "If we do such a thing, ......Eva and the others will doubtless make a fuss about it being suspicious.
  They aren\'t worried about appearances as long as they can squeeze some money out of us.
  ...They might strike a deal with some odd magazine and cause serious damage to the confidence placed in me."
-"We can live with {i:damage}...!
+"We can live with damage...!
  If by any chance Father\'s secret is discovered, it won\'t be a matter of mere damage...!!"
 "There\'s nothing wrong with persisting until the last second tomorrow.
  If we\'re able to make it through safely, we won\'t have to lose anything.
  There\'s no need to get impatient and use up our trump card...!"
-"You want to wait until after they start accusing us of locking Father up, and {i:then} reply that he\'s gone missing?
+"You want to wait until after they start accusing us of locking Father up, and then reply that he\'s gone missing?
  That is far more likely to draw suspicion...!!"
 "........................nnnn......"
 "......Let\'s just...
@@ -583,7 +583,7 @@ Eva noticed it immediately and grabbed it...
  Even though Father wore this on his finger, I know more about it than anyone else.
  ......This is Father\'s ring, no doubt about it!
  Why is it here?!"
-"Then it really {i:was} Father who wrote this letter...?!"
+"Then it really was Father who wrote this letter...?!"
 "......Heh, heheheheh.
  The sender isn\'t Dad.
  ...It\'s someone much more interesting."

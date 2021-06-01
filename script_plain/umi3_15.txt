@@ -76,7 +76,7 @@ Krauss, Natsuhi, Eva.
  ...There\'s a possibility that this is a second disaster.
  We should act with caution here and—"
 "Don\'t be ridiculous!!
- Act with caution and {i:what}?!
+ Act with caution and what?!
  Are you saying we should stand by and let my husband die when he might be praying for help?!
  I\'m going to look, the cowards can stay here!!"
 Looking agitated, Eva raised her gun.
@@ -143,7 +143,7 @@ Refusing to do that was almost like losing by default.
 ...So when Ronove declined as his first move, Battler was dumbfounded.
 "My apologies.
  I hereby humbly relinquish my right to be Milady\'s agent.
- ...Accordingly, {i:I} cannot repeat that in red.
+ ...Accordingly, I cannot repeat that in red.
  ......The only one qualified to repeat that...is Milady."
 "........................"
 "...It is a valid point.
@@ -166,7 +166,7 @@ Refusing to do that was almost like losing by default.
  I will give her a thorough talking‐to, so would you please forgive her just this once?"
 "......Hey, hey, quit that.
  You\'re making it sound like I\'m the bad guy."
-"...And no matter how much {i:you guys} apologize, it won\'t reach my ears.
+"...And no matter how much you guys apologize, it won\'t reach my ears.
  ......If Beato can say that from her own mouth,
  ............well, it\'s not like I\'m not gonna listen to her."
 "............Alright.
@@ -268,7 +268,7 @@ George was trying to make a calm smile.
  ...Both of us feel the exact same sadness from losing the ones we love.
  .........So there\'s nothing saying you don\'t have the right to cry compared to me."
 ".........And...
-...there\'s nothing saying...I have to hold back {i:my} tears...any longer either."
+...there\'s nothing saying...I have to hold back my tears...any longer either."
 "...Aniki, ......Anikii...!!!
  UOOOooooHhhhhOOoOhhhgghhh!!"
 "Shannon and I always talked about our future together...and now she\'s dead.
@@ -329,7 +329,7 @@ umm........."
  and start jumping back and forth over it."
 ".........That is a very, very frightening thing.
  That is why, as an Endless Witch, and out of my own desire,
- {i:I never reached your level}."
+ I never reached your level."
 {f:5:Virgilia} had told Beato that countless times before.
 But Beato had been too young to obediently listen to those words.
  She had been too wild.
@@ -362,7 +362,7 @@ But Beato had been too young to obediently listen to those words.
 "......There\'s something that\'s just come to me.
  .........Why do I keep going on with this strange game against you?"
 "......Maybe this isn\'t a game to make me submit.
- ......Couldn\'t it be a test for you to be accepted as an Endless Witch, {i:in its true meaning}?"
+ ......Couldn\'t it be a test for you to be accepted as an Endless Witch, in its true meaning?"
 "...I, .........I don\'t know about that.
  ...The reason I proposed this game to you was, umm, ......simply as a way to kill time...
  There was no one\'s ulterior motive."
@@ -622,7 +622,7 @@ Then, I\'ll never be able to see her face, ...even her dead face, for all eterni
  .........Haha, ...because of the shock of losing Shannon,
  ......am I going a little crazy...?"
 I don\'t want......Shannon\'s body to be burned.
-If she\'s burned, she\'ll turn to ash, ......and {i:never again will it be possible for her to revive}.
+If she\'s burned, she\'ll turn to ash, ......and never again will it be possible for her to revive.
 They say that cremation is disliked in Western tradition.
 ......Because on the day of resurrection, there would be no body to revive.
 Because of that, it seems that great criminals in Western history were often cremated after execution as a punishment,

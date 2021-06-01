@@ -57,7 +57,7 @@ I could understand why Auntie Rosa was irritated and losing her patience...
 ".........That person was...stained with blood, and had a large wound.
  ...We carried them to the servant room, and Doctor Nanjo immediately began first aid.
  ......It was a...very deep wound."
-"For the last time, {i:who} are you talking about?!"
+"For the last time, who are you talking about?!"
 "...I don\'t know!
  Certainly, ...in the beginning, I thought I knew.
  No, I still think it was!
@@ -109,7 +109,7 @@ Auntie Rosa had claimed that Kanon‐kun was behind this from the very beginning
 No matter how confused they became and no matter how much they tried to deny it, ...they were halfway saying that it was the truth.
 ......But even so, for some reason, I felt like their awkwardness couldn\'t be explained just by confusion...
 ......What had they seen?
-Like they said, had they really {i:seen something unexplainable with words}...?
+Like they said, had they really seen something unexplainable with words...?
 Auntie Rosa, having decided that she wouldn\'t be able to get any more out of them, concluded her questioning,
  and said that she wanted to check the two bodies.
 I was also interested in that.
@@ -158,7 +158,7 @@ Right after they entered the servant room, Gohda‐san and Shannon‐chan appear
 Auntie Rosa also shuddered, raised her gun high, and searched for whatever it was that had them shaken.
 ......But she couldn\'t find it.
  ...Which wasn\'t surprising.
-...They were shaken {i:because} they couldn\'t find it.
+...They were shaken because they couldn\'t find it.
 "Hey, hey, what in the world\'s going on..."
 ".........The two bodies...aren\'t here."
 "What do you mean?"
@@ -213,7 +213,7 @@ If she had then locked the door with the master key, this locked room would be c
  However, as truly fascinating as it was, ......there is something you must not forget."
 "...If the culprit had taken the master key back by the method you say,
  ......that culprit...
-{i:would have to have known that Nanjo had taken the master key from Jessica\'s body}."
+would have to have known that Nanjo had taken the master key from Jessica\'s body."
 "......You don\'t have to tell me that...
  You\'re probably trying to say that it\'s information only the people in that place, at that time, could know..."
 "......Heh!
@@ -331,11 +331,11 @@ it is impossible to unlock the door without the servant room key or a master key
 ......At that moment, ......I got it.
  That\'s right.
 ......Carry the corpses, leave the letter.
-......And not rely on a "hidden door"—{i:in other words, not even able to escape}.
+......And not rely on a "hidden door"—in other words, not even able to escape.
 ...That\'s it.
  This isn\'t a question, it\'s an answer......
 "Beato.
- ......Before my repetition request, I want to check the {i:definition of these hidden doors} that you\'re talking about."
+ ......Before my repetition request, I want to check the definition of these hidden doors that you\'re talking about."
 "What have you thought of?
  Very well, I\'ll explain.
  A hidden door refers to an entrance or exit that cannot be recognized by those who do not know of it.
@@ -613,7 +613,7 @@ Genji‐san quietly stopped that.
 "............Stop.
  ...What Rosa‐sama says is quite right.
  ...Until we find the corpses,
- {i:we cannot prove that Doctor Nanjo and Kumasawa are innocent}."
+ we cannot prove that Doctor Nanjo and Kumasawa are innocent."
 That\'s right.
  ......By Rosa‐san\'s argument, if the corpses could be found, then the innocence of at least those people could be proved.
 But only the people who were corpses.

@@ -362,7 +362,7 @@ A laugh, ......a witch\'s laugh, rang out through the spiderweb‐covered world.
  It sounded somehow familiar to Ange...
 And there, ......standing above the spiderweb,
  ......gazing down on the goats who must have looked like ensnared little bugs, was the witch.
-"You forget me, .........and you call {i:him} the ruler of Rokkenjima......?
+"You forget me, .........and you call him the ruler of Rokkenjima......?
  You forget me, and you think Rudolf is the culpriiiit...?
  Kyahhahahahahahahahahahahahahaha!!!"
 It was the witch who lurked inside of Eva—a witch of the future, who would one day call herself an Endless Witch after the cat box closed over this world.
@@ -431,7 +431,7 @@ All I want......is the Single Truth of that day.
  Do you know the answer?!
  What happened on this island?!"
 "......To a Witch of Truth,
- is the truth something that is {i:given}?
+ is the truth something that is given?
  If I told you that such‐and‐such was the truth, would you really just accept whatever I said...?"
 "No, ......I wouldn\'t........."
 "What did Battler‐san show you today?"
@@ -708,7 +708,7 @@ Beato and {f:5:Lambdadelta} giggled together.
 "......I don\'t know your history.
  ......It sounds like you had it rough."
 "Hmph.
- ......To think I\'m getting sympathy from a {i:promoted piece}. I must be losing my touch."
+ ......To think I\'m getting sympathy from a promoted piece. I must be losing my touch."
 {f:5:Bernkastel}, sipping the black tea that Genji had brought her, gazed up at the ceiling with a faraway look.
 Battler may not have known her history,
  ......but even he was able to understand a bit of how she felt.
@@ -733,7 +733,7 @@ No, no.
  ......feel free to drop by our place every now and then.
  We\'d love to welcome a friend.
  And we\'ll spare no effort in setting up all the entertainment needed to help a friend escape from boredom."
-"You think you can prepare entertainment interesting enough to help {i:me}, the great {f:5:Bernkastel}, escape boredom for even a night...?"
+"You think you can prepare entertainment interesting enough to help me, the great {f:5:Bernkastel}, escape boredom for even a night...?"
 "I do.
  That\'s what it means to be a friend."
 ".............................."

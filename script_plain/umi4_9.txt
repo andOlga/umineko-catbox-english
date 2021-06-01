@@ -338,7 +338,7 @@ He must have been listening to the phone ringing for a very long time.
  Is President...umm, Udaikan...no, sorry, President Ushiromiya‐san available?
  ............Yes.
  ......Whaat?
- {i:Vacation}?"
+ Vacation?"
 "Yes.
  The president\'s off for three days starting yesterday.
  Umm, perhaps I could be of assistance...?"
@@ -412,7 +412,7 @@ Maria hugged Sakutaro, continuing to watch her mother fearfully...
 "But I\'m a single mother, so I have to work!
  I may not look it, but I\'m a president of a company, and I bear the responsibility for my employees\' well‐being!!
  I\'m busy with my work all year round, there\'s no time for me to rest!!"
-"{i:Really}?
+"Really?
  But you\'ve been off work for the last three days, haven\'t you?"
 "I, I have not been off work!
  I\'ve been staying at my company for several nights working!!
@@ -589,9 +589,9 @@ It had been small and sturdy, but not enough to accept her mother\'s fierce rage
  ......Remember that!!!"
 "You......you call yourself a mother after doing something like that?!!
  You think you can do something like that without hurting your daughter?!"
-"Hurt {i:Maria}?!
+"Hurt Maria?!
  I\'m hurting too, you know?!
- Who\'s gonna take responsibility for {i:my} wounds?!
+ Who\'s gonna take responsibility for my wounds?!
  Weeeell?!
  WHOOOOOOOO!!!
  I told you to bite your tongue!!!!!"
@@ -671,7 +671,7 @@ It looked almost like moist cotton candy......
 ...
 .........The crumpled yellow cloth and the cotton candy that was flowing out were thrust right in front of my eyes.
 Then, ......through Mama\'s face, the evil being...stated it clearly.
-"{i:Sakutarou is dead}."
+"Sakutarou is dead."
 mabapennedbisgeck.
 gikuguki
 ......kutaro

@@ -43,7 +43,7 @@ She looked at the clock and saw that not much time had passed since she had lain
 "I\'ve gotten tired of the never‐ending stream of bland and boring games that you and the former Beato played.
  ......So we\'re raising the stakes and settling it all at once."
 "......Well, that is true.
- ......If Battler can {i:sell} this game,
+ ......If Battler can sell this game,
  it will mean that Battler has "won" Beato\'s game, and the game will come to an end.
  ......In a sense, this is the kind of finale you can\'t pass up, right...?"
 ".....................
@@ -188,7 +188,7 @@ During this time, Krauss checked the window locks and the bathroom and searched 
  ...I don\'t......understand...
  Are we to believe this is suicide...?!"
 "Like hell it is...!!
- How could {i:this} be suicide?!
+ How could this be suicide?!
  Aaaaggggghhh......Battleeeeeeer......"
 "Oh,
  ......there\'s a surprise.
@@ -197,16 +197,16 @@ During this time, Krauss checked the window locks and the bathroom and searched 
 "And all of the crime scenes are locked rooms.
  ......They\'re murders that couldn\'t have been performed without magic."
 "Hmph, isn\'t seeing through that the point of this game?
- ...By which I mean, the murders {i:must} be possible to commit without magic.
+ ...By which I mean, the murders must be possible to commit without magic.
  ......After all, if they really could be done only with magic, this wouldn\'t be a game."
 "......That\'s an interesting way of thinking about it.
  ......Yeah, that is the sort of game we\'ve been playing."
 This game is fair.
 The goal is to explain, without magic, the strange crimes that the opposing side claims to have carried out using magic.
-{i:If that couldn\'t be done}, it wouldn\'t be a game.
+If that couldn\'t be done, it wouldn\'t be a game.
 In other words, just as Erika said, it has to be possible to perform the murders without magic...
 ......To view it from the opposite angle, the witch side has a certain responsibility.
-They have to make a crime that can be {i:reproduced with tricks and not magic}.
+They have to make a crime that can be reproduced with tricks and not magic.
 As long as the {y:0:Human}{n:0:human} side can\'t figure out those tricks, the witch side can use all kinds of magic and illusions.
 ......In other words, in order to carry out a locked‐room murder with magic,
  it is necessary to create a crime that is possible to carry out by {y:0:Human}{n:0:human} hands.
@@ -224,7 +224,7 @@ At that time,
 ......then the Seven Sisters of Purgatory would probably have pulled it off for me.
 They could only accomplish what I could do myself.
 ......No, that\'s not it either.
-They could take what {i:I} had accomplished and turn it into "magic".
+They could take what I had accomplished and turn it into "magic".
 Of course, there were a great number of witnesses in that classroom, so that would probably have been impossible.
  ......Maria onee‐chan would call it "being burned by the anti‐magic toxin".
 However, ......if I had called those classmates out somewhere without witnesses, ......and carried out murder myself...
@@ -360,7 +360,7 @@ It was the same for Erika......
  ......I guess the whole Ushiromiya family got so fed up with Erika prattling on about being a detective and not knowing when to shut up...
 ...that they all joined together and set up a fake murder to make fun of her, or something?
  Wait, is that the right answer?
- I\'m, like, a {i:super} great detective☆"
+ I\'m, like, a super great detective☆"
 "Unfortunately, ......this isn\'t a ruse.
  The victims have been thoroughly killed."
 "Huh?!
@@ -714,7 +714,7 @@ People can\'t easily suspect someone they know well...
 ...of being a killer......
 "At the time of the crime,
  the mansion was locked from the inside, and only those involved with the family conference existed there."
-"So, what, you\'re saying {i:Aniki} killed Kyrie and the others?!
+"So, what, you\'re saying Aniki killed Kyrie and the others?!
  Or am I supposed to suspect Hideyoshi nii‐san?!
  It\'s impossible, unthinkable!!"
 "I\'ve never even considered suspectin\' Krauss nii‐san or Rudolf‐kun...!!
@@ -741,7 +741,7 @@ Krauss, Rudolf, Hideyoshi...and Gohda.
 Rudolf and Hideyoshi, stunned, looked at each other.
 They were all family.
  Even the wife of a sibling was still family.
- ......The siblings may have harbored hatred for each other, but they could never have hated each other\'s {i:wives} enough to kill them.
+ ......The siblings may have harbored hatred for each other, but they could never have hated each other\'s wives enough to kill them.
 Although Eva and Rosa were part of the sibling circle of hate,
  there could be no reason for a sibling to kill any of the others who had died—Natsuhi, Kyrie, Battler, or the young Maria...
 But......to a servant like Gohda......perhaps everyone was little more than a complete stranger.........
@@ -811,7 +811,7 @@ Because of that, some mailmen would make a little tool out of wire with a hook a
  .........It wouldn\'t be particularly surprising if the servants of a mansion had something of the sort."
 "...........................G‐......good point..."
 "......Once you figured out the knack of it,
- you could probably {i:set} the chain from the outside by using a wire as well.
+ you could probably set the chain from the outside by using a wire as well.
  .........Yes, ......we can\'t be sure that it\'s impossible..."
 ......True, physically speaking,
  one couldn\'t say for sure that there existed absolutely no way to set and unset chain locks from the outside.

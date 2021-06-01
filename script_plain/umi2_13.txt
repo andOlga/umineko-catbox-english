@@ -185,7 +185,7 @@ Only a master key could have locked the door to Jessica\'s room.
 However, there was no way to lock that door without using a master key...
 "How can you make the claim that there\'s no way to lock the door without using a master key?
  Isn\'t that a Devil\'s Proof, like Rudolf nii‐san was talking about?
- {i:Maybe it was locked by a method we can\'t think of}."
+ Maybe it was locked by a method we can\'t think of."
 "Even if we can\'t think of it, that doesn\'t disprove that there was some unknown trick."
 "............Well, sure, but...
  So is that it?
@@ -277,7 +277,7 @@ There is no way to get in or out other than the door and the windows}."
 
 there are no hidden doors}", then it\'s settled."
 "......However, no matter how much a human like me tries to argue against her, Auntie Rosa probably won\'t accept it.
- {i:Humans can\'t prove there\'s no hidden door}."
+ Humans can\'t prove there\'s no hidden door."
 "It\'s a Devil\'s Proof.
  ...............Damn.
  Sure is convenient being a witch..."
@@ -332,7 +332,7 @@ there are no hidden doors}", then it\'s settled."
  .........Ever."
 "......Sure, thanks."
 "I just wanted to warn you not to be careless, as your mother.
- {i:Always remain where I can see you}.
+ Always remain where I can see you.
  I will protect you."
 "And at the same time, you\'ll be observing us to make sure we aren\'t "wolves".
  ...Yeah, thanks a lot for that.
@@ -585,7 +585,7 @@ Shannon ran.
 She might find some if she searched the rose garden, but they would probably have all been lost in this wind and rain...
 That\'s right, ......the boiler room isn\'t cleaned very often.
 ...If she went there, ......she might be able to find some...
-Shannon ran down the stairs to search for {i:those} in the underground boiler room...
+Shannon ran down the stairs to search for those in the underground boiler room...
 Had some medicine taken effect at the brink of death,
  or had Kanon finally stopped even feeling pain?
 ...For the time being, Kanon had at least gotten over his painful gasping.
@@ -713,7 +713,7 @@ And while holding that, she approached Kanon, .........and drew close to his leg
 ".....................
  ...Why something like that?"
 "If you\'re Kanon‐kun, you should be alright.
- ......But if {i:spiders are your natural enemy}, I thought you might hate it."
+ ......But if spiders are your natural enemy, I thought you might hate it."
 "...........................
  Hahaha, oh no.
  Why would I hate spiders?"
@@ -781,7 +781,7 @@ A slit so sharp that it looked like it could cut your finger if you touched it w
  But.........what did we see?!
  What happened?!
  E‐ev‐ev‐......even though I definitely pushed that thing against this wall with this very hand!"
-"{i:I cannot understand what happened}...!!"
+"I cannot understand what happened...!!"
 Gohda looked at his own hand.
 The bright‐red blood left from his scuffle with Kanon...definitely remained.
 ...And yet, Kanon was nowhere to be seen.

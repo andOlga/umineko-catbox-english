@@ -524,7 +524,7 @@ Objectively speaking, the sea, laid out beneath a cloudy sky, could probably be 
 ......But as Shannon closed her eyes and smiled, she shook her head slightly.
 "It looks deep blue to me."
 "......Is that what you mean?
- Like using the word {ruby:blue:"{i:ao"} for a green traffic light}?"
+ Like using the word {ruby:blue:"ao" for a green traffic light}?"
 "No.
  ......The ocean is deep blue.
  If I can see that, and you can\'t,

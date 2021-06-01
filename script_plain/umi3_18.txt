@@ -356,7 +356,7 @@ However, ......not a single hair was singed.
 "Hoh...!!
  I see you have what it takes to show up uninvited...!!
  Tell me! Say your name!!"
-"I don\'t have any name to tell {i:you}.
+"I don\'t have any name to tell you.
  .........More importantly."
 "......You idiot!!!
  How long are you going to be tricked?!!
@@ -449,7 +449,7 @@ B‐but who in the world is that? I don\'t have a clue!
 "......I see, so that\'s it...
  .........Yes, I get it, I know who you are!
  ...I see,
- so {i:you} are the piece Lady {f:5:Bernkastel} threw in.
+ so you are the piece Lady {f:5:Bernkastel} threw in.
  I like it!!"
 "Why don\'t I formally invite you to my party?!!
  I\'ll welcome you fully...!!

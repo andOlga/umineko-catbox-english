@@ -137,7 +137,7 @@ Even the foolish and arrogant Battler noticed he had said the wrong thing.
 "That\'s right...
  After all, wasn\'t it full of things that you couldn\'t explain using humans...?"
 "...I don\'t understand what you\'re saying, Battler‐sama."
-"I, I\'m the one who doesn\'t have a clue what {i:you guys} are talking about!
+"I, I\'m the one who doesn\'t have a clue what you guys are talking about!
  Isn\'t it obvious that humans committed these crimes?
  There\'s obviously no such thing as witches, right...?"
 "Th‐...then...
@@ -276,7 +276,7 @@ maybe it was impossible for the first six, but in the case of Aniki\'s parents, 
  He said that there\'s a very high probability of making a mistake when examining corpses!
  They disguised it well, or prepared a substitute corpse or something, and faked their own death!!
  Let\'s leave the method or trick they used for later...and...you see, it\'s not that hard to deny a 19th person existed!"
-"Much less a {i:witch}!
+"Much less a witch!
  At least that much is completely impossible!!"
 "............I don\'t know why you\'ve been trying so stubbornly to say that one of us is the culprit.
  Kihihihihihihihihihi, in other words, you want to suspect one of your relatives...?"
@@ -304,8 +304,8 @@ Then, the wise Maria laughed, and pointed out Battler\'s mistake for him.
  How would a human do it?
  Concretely?
  Whenever we ask you those questions, all you say is "I just can\'t think of anything now" or "with some kind of device" or something, using abstract words to run away and evade the topic."
-"......In fact, I want to ask {i:you}, Battler.
- Why don\'t {i:you} believe in {f:5:Beatrice}?
+"......In fact, I want to ask you, Battler.
+ Why don\'t you believe in {f:5:Beatrice}?
  She "exists", so why don\'t you believe?"
 "Because she doesn\'t "exist"!
  Witches don\'t "exist"!!
@@ -338,7 +338,7 @@ The pitying gazes quietly blanketed Battler, but they didn\'t reach his stubborn
  ......That\'s what this is all about, isn\'t it?!"
 "......Well, too bad.
  This is the one place I\'m going to have to say too bad, that\'s no goddamn good at all. I refuse.
- ......{i:You guys are all pressing me, and that is exactly why it\'s no goddamn good.}"
+ ......You guys are all pressing me, and that is exactly why it\'s no goddamn good."
 ".....................Why?"
 "Sorry, but why don\'t you let me flip over the chessboard one last time...?
  If you want to force me to accept that there\'s a witch, there\'s a really easy way."
@@ -385,14 +385,14 @@ When he looked at George and Jessica, at Shannon and Kanon and Maria, he noticed
 ".........And only when everyone believes in your existence will you finally be allowed to exist.
  ...You\'re that kind of a fictional being, right?
  That\'s why you want to make me believe too.
- {i:You can\'t exist, because I alone don\'t believe in you}.
+ You can\'t exist, because I alone don\'t believe in you.
  .........Isn\'t that right?!"
 ".........Your power of understanding isn\'t bad for a common mortal who knows nothing of magic.
  .........I see, it seems that you were born with a strong magic‐resisting power."
 "......The natural enemy of us witches.
  ...No matter how much we tip you upside down and shake you,
- {i:you will never believe in us}.
- {i:Therefore, magic will fall short against you}.
+ you will never believe in us.
+ Therefore, magic will fall short against you.
  ...That attitude of yours makes a great deal of sense.
  *cackle*cackle*...!"
 "I\'ve got no clue what you\'re saying, ihihi!
@@ -420,7 +420,7 @@ When he looked at George and Jessica, at Shannon and Kanon and Maria, he noticed
 "......Heh.
  Suddenly jumping right into the toughest part, are you?
  ...Does that mean that this is the trick you\'re proudest of?
- Miss {i:Real Culprit}?"
+ Miss Real Culprit?"
 {f:5:Beatrice} shook her golden pipe,
  and seven colors of gentle smoke trailed out of the end.
 ...The smoke quickly obscured the surroundings,

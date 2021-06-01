@@ -8,7 +8,7 @@ Battler\'s uproar in the plane must have been very funny to her.
  That\'s enough!
  ...Sorry, Battler‐kun.
  Don\'t take it badly."
-"Man, you\'re {i:pathetic}.
+"Man, you\'re pathetic.
  A grown‐ass man like you still can\'t handle vehicles?"
 "Urgh, shut up...
  All humans have one or two things they can\'t handle..."
@@ -131,7 +131,7 @@ Just receiving a shoulder‐bump and words of apology from her older brother...
 "......To Rokkenjima......
  ............To the day my...
 no,
- ......the day {i:everyone\'s} fates changed...October 4th, 1986,
+ ......the day everyone\'s fates changed...October 4th, 1986,
  ...on Rokkenjima........."
 ...What happened on that day?
 I will expose that.

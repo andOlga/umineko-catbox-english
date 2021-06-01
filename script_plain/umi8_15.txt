@@ -28,7 +28,7 @@ A large number of {y:0:Human}{n:0:human}s and fantasy creatures were there, argu
 Even without asking, it was easy to guess the nature of the debate by their anguished expressions.
 After all, in this life‐or‐death situation, they didn\'t have many options they could take......
 In the direction Erika was being led—with her goat guards alongside her—Beato stood waiting, accompanied by the Chiester Sisters troops.
-Noticing Beato, Erika gave a bow that at least {i:appeared} graceful.
+Noticing Beato, Erika gave a bow that at least appeared graceful.
 Beato followed suit and gave the sort of graceful bow that was rarely seen from her.
 "......I am {f:5:Beatrice}, the Golden and Endless Witch, and master of the Golden Land.
  ......Announce yourself."
@@ -752,7 +752,7 @@ The two siblings looked at each other.
 However, they both thought that any plan would be worth listening to, even if it would only raise their chances by 0.00001%.
 "A sacrifice.
  ......Bern is a cat, so although she\'ll give chase to fleeing prey, she\'ll also kill prey that doesn\'t flee.
- {i:After} toying with it first!"
+ After toying with it first!"
 "Cats are terrible creatures..."
 "......Still, if that\'s true, ......it\'ll be worth the bet."
 "Let\'s have one sacrifice.

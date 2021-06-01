@@ -155,7 +155,7 @@ I crouched down against a wall in the shadow of the bushes, opened my bag, and t
 Just glancing at it, you would probably think it was a religious book written in the Middle Ages or something.
 But this isn\'t a book.
  It\'s a diary.
-Of course, it\'s not {i:my} diary.
+Of course, it\'s not my diary.
 .........There aren\'t any special things worth writing about in my daily life.
 Every single day is just gray, ...cold, and dry.
 When nothing changes from day to day, there aren\'t any notable changes worth writing down.
@@ -173,7 +173,7 @@ So rather than a journal in which the events of her day were simply listed,
 I had found this diary among her belongings after her death, and had secretly taken it home.
 At first, I had felt that reading someone else\'s diary might be boorish, and had been satisfied to just keep it by my side,
  ......but I was unable to resist turning over a page or two, and slowly but surely I found myself reading through it.
-And now, .........{i:she had become my only friend}.
+And now, .........she had become my only friend.
 I gently opened to the page with the bookmark.
 "......Sorry to keep you waiting, Maria onee‐chan.
  ......Could you tell me more about your life...?"
@@ -243,7 +243,7 @@ As I listened to her tale, I began to get absorbed into her world......
 "Uu‐uu!
  It\'s 200 yen more, but can I even change it to prosciutto pizza?!"
 "Yes, you can.
- {i:If} you really can eat it.
+ If you really can eat it.
  ......But what the hey.
  It is your birthday, after all.
  I have to reward you for being a good girl and waiting so patiently."
@@ -641,7 +641,7 @@ They were so close that it made me a little envious.
 I\'m supposedly older than Maria onee‐chan.
 But I can call her nothing else; even now she stands above me like an older sister, and I am yet to reach her level.
 ...If only I had a friend close by like Sakutaro.
-"But both me and Sakutaro {i:are} friends close by!
+"But both me and Sakutaro are friends close by!
  We\'re aaallways right by your side.
  It\'s just that your magic is weak, so you can\'t perceive us unless you open my diary like this."
 "......Perceive?
@@ -801,7 +801,7 @@ I wonder if I would become able to honestly shed tears on the nights I feel like
  And when I do, I\'ll show you too.
  It\'ll be like a scene from a wonderful dream."
 Maria onee‐chan said that, making an absolute promise with her smile.
-......There\'s no way we can become {i:witches}.
+......There\'s no way we can become witches.
  But when I listen to her speak, I can believe that maybe...we really could.
 Because the fact is......that on this troubled night, when not a single flower of a smile could bloom, her magic had certainly given birth to a smile.
 "......I wonder if I can...
@@ -833,7 +833,7 @@ Because the fact is......that on this troubled night, when not a single flower o
  Let\'s talk together during boring classes to take your mind off things."
 "I can also be someone to talk to during meals, so let\'s always be together like this during lunch break."
 "I\'m with you after school too, and of course, I\'m always by your side even when you return to the dormitory.
- ...It\'s just that {i:you never look at me except when you open the diary}."
+ ...It\'s just that you never look at me except when you open the diary."
 "............Even if I close the diary,
  ...you\'ll be...
 by my side, right?"
@@ -890,7 +890,7 @@ Cheering me on?
  Really?
 Isn\'t that just what I\'d like to imagine...?
 No, that\'s not it.
-I just convince myself that it is...and that\'s {i:why I cannot {y:1:‘see’}{n:1:see} her}.
+I just convince myself that it is...and that\'s why I cannot {y:1:‘see’{n:1:see} her}.
 Maria onee‐chan is always by my side.
  And even now, she\'s definitely there, cheering me on to do my best...
 And I...can hear it.

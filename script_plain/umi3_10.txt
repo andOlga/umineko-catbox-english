@@ -306,7 +306,7 @@ Natsuhi finally realized the answer to the undignified riddle Rudolf had posed, 
  Up until this point, while it was filled with mystery, it was extremely sequential."
 "‘Sweetfish river’, "go down it", "then find the key" is all extremely sequential.
  And we can guess that we gain a six‐character key as a result,
- ......but in that case, we now don\'t know {i:what} we kill the six characters from."
+ ......but in that case, we now don\'t know what we kill the six characters from."
 "That\'s a point.
  What do we subtract the six characters from?
  It doesn\'t tell us."
@@ -354,7 +354,7 @@ Eva spoke coldly.
  I\'m busy solving this!"
 "S‐sorry...
  Th‐then I\'ll go help..."
-".........Come {i:on}.
+".........Come on.
  Why are you like this?"
 "......Huh?"
 "The Ushiromiya family inheritance will be given to the person who solves this epitaph.
@@ -399,7 +399,7 @@ Rosa hung her head, troubled over how she should answer.
 "She is probably dissatisfied that you gave Battler‐sama various hints, Madam."
 "......Noooope?
  I\'m not dissatisfied about that.
- I\'m actually {i:more} satisfied now that that worthless Battler has finally reached the level where he can go along with me."
+ I\'m actually more satisfied now that that worthless Battler has finally reached the level where he can go along with me."
 "Hoh‐hoh‐ho...
  Was I a little too friendly with Battler‐kun?
  Maybe it would be better if the old people went away and left everything to the young kids."
@@ -418,7 +418,7 @@ After that, all that remained was the figure of {f:5:Beatrice}, who was grumpy a
 "...............When you said "
 There are no more than 18 people on this island}", you actually cornered yourself."
 ".........I thought so...
- ............I thought it might have been a {i:little} too early, but...
+ ............I thought it might have been a little too early, but...
  ......I guess it really was......"
 "If you had led him further astray beforehand, things might have been different,
  but it really was a futile trump card.
@@ -437,7 +437,7 @@ That itself should have been his greatest weak point...
 "Yes, you were too careless.
  ...The last game was a difficult one for Battler‐kun,
  but it seems...
-this game will prove a difficult one {i:for you}."
+this game will prove a difficult one for you."
 "......A broken vase will definitely never return to its original form.
  ...So it would be more constructive to think of the next move, rather than regretfully picking up the pieces."
 ".........But now that Battler has all the right ideas in his head, how should I plot against him...?"
@@ -580,7 +580,7 @@ My husband did say that, despite being river fish, they go out into the ocean...
 .....................Is the key really resting in that river?
 I, I don\'t know, I don\'t know.
 ...Anyway, I have to search in an atlas...
-But, even if I know that, I don\'t know {i:from what} I should take the six characters...
+But, even if I know that, I don\'t know from what I should take the six characters...
 "......You really don\'t know?
  Think deeply.
  .........We\'re too smart for our own good, so our thoughts are inflexible."
@@ -663,7 +663,7 @@ Why not just hand over the Ushiromiya headship to Kyrie forever?!
 "I, ...I don\'t want to...
  I will become the head.
  ...This is my first and last chance to do that...
- ......What is {i:village}?
+ ......What is village?
  What does it mean?!
  Is there a village if you go down this "river"......?!
  ............ah, .........

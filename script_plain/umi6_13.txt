@@ -156,7 +156,7 @@ Without the detective proclamation, she could only fight by collecting dull bits
 ......All the same, her master had been expecting more than that sort of dull fight...
 So, ......she had tried to give her report energetically, ......to make it seem as though they were in a superior position...
 But no matter how much she tried, the cold expression of her master remained merciless...
-"......Your blue truth {i:worked}...?
+"......Your blue truth worked...?
  You mean it was too ridiculous for him to bother cutting down.
  ......Impressive powers of deduction, Great Detective..."
 "I...I did try to examine the corpses with care, to the best of my abilities...
@@ -240,7 +240,7 @@ wasted...!!
  ......I will definitely...bring you a victory, ......so please forgive me......"
 "If you couldn\'t win with the detective\'s authority in the last game,
  how do you expect to defeat Battler now that he\'s the Game Master...?
- You don\'t have a chance at winning even {i:with} the detective\'s authority.
+ You don\'t have a chance at winning even with the detective\'s authority.
  ......So why bother with it?"
 "I......uh............"
 "Yeah, if you can\'t win anyway, then who needs the detective\'s authority?
@@ -251,7 +251,7 @@ wasted...!!
 "Y‐yes.
  ......I will surely...show you that miracle...!"
 "You
- {i:wish} you could, disgusting pukespittle."
+ wish you could, disgusting pukespittle."
 "The best you can do is take part in the worst punishment game ever for the worst game ever,
  with your only weapon, the detective proclamation, taken away from you, humiliating yourself until you have no dignity left,
  and through it all, you\'ll roll onto your back like a dog and beg for my affection.
@@ -350,8 +350,8 @@ and cast you into the depths of oblivion with the empty popcorn buckets!!"
  So please, ......let me fight Battler to the finish...!!
  I don\'t......want to lose and......g‐get thrown in the d‐...depths of......oblivion......
 ......*hic*.........*hic*......"
-"......Well, I\'d {i:like} to watch your battle until the end.
- ......But {i:Battler} says he\'ll toss me out.
+"......Well, I\'d like to watch your battle until the end.
+ ......But Battler says he\'ll toss me out.
  Well, any ideas, Lambda?!"
 "Okay, okay......I realize you\'ve been irritated ever since the last game, Bern, but calm down a bit.
  ......And Battler, don\'t provoke Bern so much.
@@ -434,7 +434,7 @@ Battler had one‐sidedly viewed Beato as the enemy.
 ......I will fight my rival ruthlessly in accordance with the rules.
 However, that doesn\'t mean I need to hate Furudo Erika herself.
 ....................................
- ......I will not {i:misplay} Beato\'s game.
+ ......I will not misplay Beato\'s game.
 "Erika.
  You\'re free not to make the detective proclamation.
  So do what you want and fight me with just your {y:0:Human}{n:0:human} powers."
@@ -568,7 +568,7 @@ The two witches were also cackling with ugly smiles...
 "If that bonehead Battler honestly thinks that Erika\'s at a disadvantage, then it was nice knowing him.
  ......A detective proclamation isn\'t what you need to kill an idiot."
 "Just a corner of tofu for them to hit their head on?"
-"Make that {i:soft} tofu."
+"Make that soft tofu."
 "Add some gochujang chili paste and you\'ve got a snack that\'d go great with some wine.
  *giggle*giggle*giggle*!"
 The three giggled together...

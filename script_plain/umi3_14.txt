@@ -153,7 +153,7 @@ The instant she proclaimed that...
  To think that even though barely half a day has passed since you succeeded the Endless Witch, you can use magic this well.
  ......That talent surprises me.
  It is almost as though you were born a witch."
-"Well, I {i:have} been a witch since the time I was born.
+"Well, I have been a witch since the time I was born.
  ......Who taught you how to blink?
  That\'s what using magic is like for me."
 ".....................
@@ -267,7 +267,7 @@ In times like this, Kyrie\'s intuition surpassed reason.
  ......I didn\'t sense them until a short while ago.
  ...But just now, I felt it.
  ......Just now, someone...
-{i:set up an ambush for us}."
+set up an ambush for us."
 "......Then, there\'s no reason we need to return the way we came.
  There\'s a back door over there, right?
  Let\'s leave that way."
@@ -389,7 +389,7 @@ Just like Rudolf, Kyrie was also confronting a demon stake, in the first floor c
 The arm Leviathan swung trailed purple.
 It was a magic blade that cut by the power of malice.
 Kyrie guarded herself against that with her gun.
-......Even though the magic blade should have been able to cut through metal like butter, the {i:gun}, with its extremely high magic resistance,
+......Even though the magic blade should have been able to cut through metal like butter, the gun, with its extremely high magic resistance,
  was able to block the blade as easily as if it were a rolled up newspaper.
 Rapidly, two times, three times.
  It blocked all of them.
@@ -551,7 +551,7 @@ Almost as though she was trying to swallow the demon stake up with the gun barre
  In the very end, I want to do one of those..."
 "......What do you mean, one of those?"
 "One of those things that westerns made famous.
- That thing where we put our backs together, walk three steps, and then {i:bang}."
+ That thing where we put our backs together, walk three steps, and then bang."
 "............Ah, a duel.
  Very well.
  If that will satisfy your regrets in this world, I\'ll accept."
@@ -684,7 +684,7 @@ The butterflies peeled off and flew away, and beneath them, furniture in the sha
 ...wasn\'t able to summon the Pendragon\'s Memorial Troops on a moment\'s notice, and so easily...!"
 "Chiester{ruby:four‐one‐zero:410}. Right here."
 "Chiester{ruby:forty‐five:45}. Right here."
-"...You two {i:are} suitable furniture for me, right?"
+"...You two are suitable furniture for me, right?"
 "From reading you a picture book, to going on a friendship date, to shooting down a meteorite,
  we\'ll take care of anything. Nihihi."
 "I‐if we don\'t take care of it, the Dragon King will get mad at us...!
@@ -961,7 +961,7 @@ was a first step towards making him accept that you are a witch.
  He won\'t accept witches, and he won\'t accept me.
  ......In that case, how do I make Battler accept me, then...?
  Are you saying that if the north wind doesn\'t work, ...then I should shine on him as the sun from now on...?
- {i:I} should, after all this time......?"
+ I should, after all this time......?"
 "It is October now.
  The Halloween season.
  .........It is the month of rebirth, when the sun dies and is revived again.
@@ -978,7 +978,7 @@ The witch was breathing so hard her shoulders shook, but it wasn\'t because she 
 "Ahhahahahahahahahahahhahahahaha!!
  How fun it is to do as I will with the life and death of people!
  Before the power of the Endless Witch, every one of the infinities I paint with my mind becomes reality!"
-"No matter how {i:sloppily} I {i:mash} them,
+"No matter how sloppily I mash them,
  I can revive them, returning them to normal with just a snap of my fingers."
 "Because in the end, I just have to return the corpses to normal and make a token show of following the epitaph.
  Ahhahahahahahahahahahahahahahahahaha!!"

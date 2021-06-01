@@ -168,7 +168,7 @@ When the door to the chapel was closed, we learned about that creepy graffiti fo
 "...We can\'t tell whether she called the six of them over here before killing them, or whether she killed them and then carried them over here,
  ...but either way, it would take a lot of effort.
  .........What reason did the culprit have...
- {i:for wanting six people to die here}......?"
+ for wanting six people to die here......?"
 "......Yes, that is something.
  In doing something that elaborate, there would be an extremely high chance that when the police came, some disadvantageous evidence would be found."
 "......There is no way the culprit failed to notice that.
@@ -304,7 +304,7 @@ Auntie Rosa\'s face grew increasingly pale.
 "Hey, Gohda‐san!
  The key to this chapel!
  Didn\'t Genji‐san say it?
- {i:He said there was only one}!"
+ He said there was only one!"
 ".....................Huh?
  ............"
 "...Kihihihihihihihihihihihihihihihihihihi.
@@ -388,7 +388,7 @@ And how had they locked it?!
  If we\'re talking about demons, I\'ve got one for you as well."
 "......It\'s possible to prove that this isn\'t a locked room.
  You just have to show how someone could go in or out!"
-"But it\'s impossible to prove that it {i:is} a locked room!!
+"But it\'s impossible to prove that it is a locked room!!
  You can\'t deny the endless set of methods of getting in.
  In other words, this is one of those Devil\'s Proofs!!
  The definition of a locked room is in fact impossible to prove!!"
@@ -398,7 +398,7 @@ And how had they locked it?!
  Continue."
 "First off, it looks like you\'re trying to say that the chapel is a locked room.
  ...Just a short while ago, I spent some time looking around in there, and yeah, I really couldn\'t find any way in or out except for the door."
-"......But that {i:just means I couldn\'t find one}—it doesn\'t prove that it was a locked room!!"
+"......But that just means I couldn\'t find one—it doesn\'t prove that it was a locked room!!"
 "If there was a "hidden door" or something that I wasn\'t able to find, all your premises are completely blown away!!
  In other words, whether I\'m able to find a hidden door or not, you can never deny a method X by which the locked room could be entered!"
 "And this method X could be carried out without magic.
@@ -414,7 +414,7 @@ And how had they locked it?!
  Because they\'re used the wrong way.
  ......When a "locked room" appears in a detective novel, do you really think that is a locked room?
  You don\'t, do you?!"
-"{i:What trick did they use to make this look like a locked room}!
+"What trick did they use to make this look like a locked room!
  That\'s what you think."
 "In other words, out of all the locked‐room murders humanity has built up over a hundred years, not a single one has ever been made complete!!"
 "Oooh!!
@@ -504,7 +504,7 @@ Regardless of whether they were alive or dead,
 "<Stop>!!
  I will supplement the rule."
 "......When I speak the truth, I will use red,
- and {i:when I do, I do not bear the responsibility of establishing that by showing proof}!
+ and when I do, I do not bear the responsibility of establishing that by showing proof!
  It is simply a fact and the truth!!"
 "The reason is simple.
  I carry out all of the crimes with magic.
@@ -513,7 +513,7 @@ Regardless of whether they were alive or dead,
  It would be like the barbarism of ignoring victory and defeat in a chess game and punching your opponent!"
 "W‐......well, that is true.
  ...If you were a witch,
- {i:there\'d be no need for you to show proof}.
+ there\'d be no need for you to show proof.
  ......Because you could do anything with magic... That\'s nasty...
  What an unfair game...!"
 "So shall we resume once more?
@@ -554,7 +554,7 @@ When the door to the chapel is locked, it prevents any and all methods of entry 
 "You talk too much, you incompetent fool.
  Then let me advance more on my earlier move.
  
-The six definitely entered through {i:this front door}}!!"
+The six definitely entered through this front door}!!"
 "That\'s screwed up!!
  The door was locked, it was impossible to unlock without using that single key, and yet six people entered through this door?!?!
  How did they do it?!!
@@ -666,7 +666,7 @@ This morning, Rosa definitely took an envelope out of Maria\'s handbag,
  And you told her that she mustn\'t open it.
  .........Maria probably realized that there was a key inside."
 "And because later on, Auntie Rosa used what was inside the envelope to open the door to the chapel,
- {i:we thought that was the key to the chapel}.
+ we thought that was the key to the chapel.
  This is the suspicious part!"
 "........................So is this what you are trying to say?
  That when I entrusted Maria with a key, that key was a fake?
@@ -703,7 +703,7 @@ The key to the chapel truly was the object inside the envelope I gave Maria}."
 "...............Sorry.
  I\'m gentle with women.
  I don\'t hurt women.
- {i:I don\'t betray a woman\'s expectations}!"
+ I don\'t betray a woman\'s expectations!"
 ".........Repeat it for me in red—say it if you can.
  "No one was able to touch Maria\'s handbag until Auntie Rosa took out the envelope"."
 "........................I will also......decline this.
@@ -743,7 +743,7 @@ The envelope I handed over to Maria and the one Rosa opened are the same thing}!
 "...I had expectations for you.
  ......If you had resigned here, I would have thought of you as someone pretty good at reading between the lines.
  ......So I\'m disappointed.
- ............{i:You\'ve betrayed my expectations}."
+ ............You\'ve betrayed my expectations."
 "Wh‐............wha......aat.........!!"
 "It isn\'t important whether the envelopes are the same thing.
  ......Because envelopes can be sealed with wax over and over!
@@ -779,7 +779,7 @@ to a lowly human.........!!"
  This time, you try repeating it...!!"
 "That\'s right, I\'m making you repeat things all the time.
  I probably have to answer myself every once in a while......"
-"{i:But I refuse}!!
+"But I refuse!!
  My condition for victory is denying the existence of witches.
  Once I\'ve proven that your impossible crimes by magic are possible by human hands, I\'m done!!"
 "I\'ve smashed your locked room with something possible even for humans.

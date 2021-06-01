@@ -544,7 +544,7 @@ You can\'t hide things from a witch...
 "Are you saying you won\'t listen to my orders?"
 "Furniture obeys orders.
  ...But a human decides for herself whether to obey orders or not.
- {i:So I won\'t obey your orders.}"
+ So I won\'t obey your orders."
 "Hmph.
  ...*cackle*cackle*cackle* hahahahahahahahahahahaha...!
  ......I\'ll take back what I said.
@@ -587,7 +587,7 @@ Shannon silently shook her head.
 "I will have nothing to do with you.
  ...I will carry out the fate that has been given to me.
  So I won\'t entertain you."
-"......{i:Nothing to do with youuu}...?"
+"......Nothing to do with youuu...?"
 The witch\'s features twisted in hatred for just an instant.
 ...It disappeared immediately,
  but that expression that rose to her face for only a brief time was unusual for the witch, who had never broken her malicious smile.
@@ -632,7 +632,7 @@ The witch\'s features twisted in hatred for just an instant.
  ...But you cannot defeat me, you know?
  ......I have the power to kill anyone for eternity."
 ".........I can\'t wait to see how long you can keep up that resistance in an endlessly repeating cycle of death and rebirth.
- ......{i:Don\'t forget it, now}.
+ ......Don\'t forget it, now.
  You spoke those words yourself.
  *cackle*cackle*cackle*."
 "Well then, if you will excuse me.
@@ -834,7 +834,7 @@ The brief tension was broken, and Maria also started to make a ruckus.
  That was definitely a witch...!
  Believe me!!
  I definitely didn\'t see it wrong or hallucinate or anything!
- What.........{i:was} that?!"
+ What.........was that?!"
 ...In the instant before the typhoon visited...
 ......Rosa had definitely met with the witch in the rose garden.
 But that scene had been so hard to accept as reality......
@@ -863,7 +863,7 @@ So, it was a single composed sentence that affirmed her existence for certain.
 "Ooh, is it really?
  How can you prove that there wasn\'t a boat other than the one we rode on?
  You can\'t!
- You can\'t prove one "{i:didn\'t come}"!"
+ You can\'t prove one "didn\'t come"!"
 "That\'s right.
  ......You could prove that it "came".
  Someone who saw it just has to say so.

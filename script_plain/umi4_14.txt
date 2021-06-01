@@ -22,7 +22,7 @@ Because of that, there had probably been a persistent offensive from the Witch H
 "I really understand how you feel.
  My personal life was put under surveillance,
  and I had no privacy, no portrait rights, heck, I don\'t know if I was even afforded human rights.
- So I {i:deeply} empathize with your pent‐up anger."
+ So I deeply empathize with your pent‐up anger."
 ".........And for that very reason, I want to know, more than anything else, what in the world was that incident that so thoroughly ruined my life.
  That\'s why I came here."
 ".........I\'m a related party just like you.
@@ -145,7 +145,7 @@ Up until Rebun City, it\'s alright.
 ...But I just couldn\'t wipe away the feeling that following sequential number, 1234567, was a little insincere.
 It felt like a fake address that some kid had made up.
 "They probably just randomly wrote some clearly nonexistent address.
- I think it\'s natural to assume that, from the very beginning, this envelope was sent to a nonexistent address to which {i:it had no chance of being delivered}."
+ I think it\'s natural to assume that, from the very beginning, this envelope was sent to a nonexistent address to which it had no chance of being delivered."
 If the destination address doesn\'t exist, mail is generally returned to the sender.
 But even in the case of a faulty address, the local post office will often courteously,
  and to the best of its ability, research to find whether the sender\'s intended destination exists.
@@ -282,7 +282,7 @@ Most likely, inside the vault was the same kind of duralumin case, packed with a
 "......What is it, Ange‐sama?"
 ‘Uryu...headache? Headache...?!’
 "............Sorry, my head hurts......
- ......Stabbing pain... .........I {i:know} this......"
+ ......Stabbing pain... .........I know this......"
 ‘What do you mean, you know this......?’
 "You don\'t mean,
  ......this envelope......came to your place too, Ange‐sama...?"
@@ -452,7 +452,7 @@ However, none of these theories were conclusive......
  Judging by the lighting, it looks like it\'s outside.
  ......I wonder if Kumasawa‐san suspected that the gold was hidden in there."
 "Who knows.
- In any case, it\'s probably {i:somewhere} in the Rokkenjima mansion.
+ In any case, it\'s probably somewhere in the Rokkenjima mansion.
  ......It\'s a pity, but there wasn\'t the kind of money in Mom\'s bank account to make me think she found the gold.
  Uhahahaha, she probably didn\'t find it after all."
 ......The Golden Witch, {f:5:Beatrice}, gave ten tons of gold to Kinzo.
@@ -610,7 +610,7 @@ And so, for emphasis, he told me again: Don\'t.
  .........In the first place,
  I\'m still unclear about why I even have to go to Rokkenjima, what the purpose is at all."
 "No, I\'m sure there\'s gotta be one.
- If there isn\'t one for you, ...then there is one for {i:them}.
+ If there isn\'t one for you, ...then there is one for them.
  The island called you.
  That\'s why you came here."
 ".........You might...be right.
@@ -701,4 +701,4 @@ From her eyes...
  ......And...
 ............{f:5:Beatrice}."
 ‘.........Uryu.........’
-So {i:this}............is magic.........
+So this............is magic.........

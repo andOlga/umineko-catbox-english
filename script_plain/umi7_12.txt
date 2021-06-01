@@ -39,7 +39,7 @@ So, all of the servants except for me left, and no one tried to stop them......
  Why did someone recommend Yasu?"
 "It\'s even more surprising that Madam let Yasu stay this long."
 "Hey, at least the kid\'s got the guts to not give up and run away.
- Keep it up, {i:Yasu}."
+ Keep it up, Yasu."
 "I, I......hate being called Yasu..."
 At the very end, ......I finally said the one thing I\'d always wanted to say to them.
 However, they basically ignored me, and just picked up their things and left...
@@ -339,7 +339,7 @@ You mustn\'t leave things lying carelessly about.
 "She thinks my magic is naught but the work of a child like you...?!
  *cackle*cackle*, very well, then.
  I shall simply show her a feat impossible for {y:0:Humans}{n:0:humans} to perform...!"
-"{i:I shall show her my magic}!!
+"I shall show her my magic!!
  Foolish Belne, if that is your name!
  You will regret that you did not heed the warnings given you by my friend!
  This flimsy body of mine will not do the trick! I\'m borrowing yours!!
@@ -770,7 +770,7 @@ That\'s not very fun.
  I\'ll be bad with mirrors whether I invent a story for it or not.
 No matter who I want or strive to be,
  ......the only face that will ever show in a mirror...
-is the heartlessly pathetic and realistic face of {i:"Yasu"}.
+is the heartlessly pathetic and realistic face of "Yasu".
 Mirrors, which will always force me to face my shabby reality, are something I always want to avoid.
 That\'s right.
  ......I hate mirrors.
@@ -791,7 +791,7 @@ pitiful self.
  Haha, isn\'t it obvious?!"
 "Yeah, that\'s right!
  That wonderful room on the second floor of the mansion......"
-"The VIP room of the witch—{i:that} is {f:5:Beatrice}\'s room!"
+"The VIP room of the witch—that is {f:5:Beatrice}\'s room!"
 "Oh, so it is.
  From this evening forward, that room in the nighttime mansion shall be my dwelling place...!
  Why didn\'t I think of that myself, hahaha, hehahahahahahahaha...!!"

@@ -308,9 +308,9 @@ On the contrary, the inside of the cat box is a boundless world that frees us fr
  Question one!"
 "Kihhihihihihihihi!
  I\'m gonna give you a reeeeally hard one!
- I\'ll trick you with my extra‐hard puzzle, and make sure you {i:never} get my medal!"
+ I\'ll trick you with my extra‐hard puzzle, and make sure you never get my medal!"
 "I\'m going to solve it.
- I\'m {i:going} to solve it...!"
+ I\'m going to solve it...!"
 As soon as Maria and Ange crossed gazes, they started fighting.
 The two girls so close in age were really good friends, but they also fought a lot.
 Especially when they were opponents in a game.
@@ -337,7 +337,7 @@ Especially when they were opponents in a game.
  Why is that wrong...?!"
 "Heheh, sorry about that.
  I guess that was a little mean."
-"The key to the puzzle is the part about how many can she {i:carry out of the room}."
+"The key to the puzzle is the part about how many can she carry out of the room."
 ......Oh.
  Looks like I made a pretty simple mistake.
 I\'ve been taking on so many tricky riddles, I\'ve gotten a bit too tense.
@@ -436,7 +436,7 @@ I\'d thought so hard before getting that answer, but Maria onee‐chan just burs
 The laughter broke off when Auntie Rosa hit her, but then she was grinning again.
 "I don\'t get it at all. Just how hard was this one...?"
 "Only about 20 picarats, I guess?
- There are lots of other puzzles in this book that are {i:actually} hard!"
+ There are lots of other puzzles in this book that are actually hard!"
 I don\'t know what a pica‐thing is,
  but apparently, even this puzzle doesn\'t count as a hard one for Maria onee‐chan...
 I hung my head dejectedly.
@@ -863,7 +863,7 @@ And then,
  ......No, that\'s a lie.
  I was really scared......
 If that came flying out of the box I opened right at my face, I might fall to my knees and start crying...
-"Ange~, are you {i:sure} you want the red box...?
+"Ange~, are you sure you want the red box...?
  Something really scary might come flying out, right...?
  Are you sure you don\'t want to switch to the blue box...?"
 "I\'m not scared!
@@ -950,16 +950,16 @@ the servants had also been eating that cake, and it had actually started with tw
 If there were really twenty slices,
  .........then the chances would be 1 in 20.
 "However, the servants know where the almond is, so they chose five slices for themselves that had no almonds.
- In other words, they removed five {i:losing} slices.
+ In other words, they removed five losing slices.
  That would mean your chances of winning were 1 in 15, not 1 in 20."
 "......They took out losing slices, so it\'s only natural that the probability of winning would go up."
 "Just now, Jessica‐chan did the same thing.
- Jessica‐chan took one {i:losing box} away from the pair of boxes you didn\'t choose.
+ Jessica‐chan took one losing box away from the pair of boxes you didn\'t choose.
  In other words, the odds of the winner being on the side you didn\'t choose went up a bit, right...?"
 "Ahahahahahahahah, ......I sort of get it, but not really......"
 If you remove a losing box, it\'s only natural that your chances of getting the right one go up.
-And just now, Jessica onee‐chan removed a losing box {i:from the boxes I didn\'t choose}.
-So, doesn\'t it make sense that my odds of winning with {i:those boxes} went up......?
+And just now, Jessica onee‐chan removed a losing box from the boxes I didn\'t choose.
+So, doesn\'t it make sense that my odds of winning with those boxes went up......?
 "......Now I\'m getting confused......"
 "Actually, you really are incredible, Ange‐chan.
  Even though you\'re only six, you\'re trying to understand posterior probability, a concept in probability theory.
@@ -1025,7 +1025,7 @@ As young as I was, ......I couldn\'t understand what all this was supposed to me
  Sometimes, they\'ll change into things you want.
  ......But, most likely, almost all of the changes will be into bad things."
 "The truth is always right there in your hands, Ange.
- ......Don\'t you think it\'s stupid to let it change around just because you hear someone else\'s words, just because you hear what {i:they} think the truth should be?"
+ ......Don\'t you think it\'s stupid to let it change around just because you hear someone else\'s words, just because you hear what they think the truth should be?"
 "The truth inside of you has been in your hands from the beginning.
  ......And the nature of that truth is actually something you decide for yourself.
  ......You change it yourself depending on what you hear...and what you refuse to listen to."

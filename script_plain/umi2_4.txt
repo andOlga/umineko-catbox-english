@@ -102,7 +102,7 @@ And the more Maria was hit, the more intensely she cried and shouted...
  It\'s because you\'re like this that Papa never comes back from his business trip!!
  It\'s because you\'re like this that I...!!"
 "E‐...excuse me, ...madam, is something the matter...?"
-"Is there {i:something}...that you {i:want}...?!"
+"Is there something...that you want...?!"
 The one who timidly called to her was the station attendant.
 Rosa glared at him with a look that said "don\'t cut into the problems of a mother and child, stranger".
 The station attendant surely hadn\'t wanted to talk to her.
@@ -303,7 +303,7 @@ Thinking of Kumasawa, who was no doubt hiding and slacking off even though thing
  ...Any guest who visits here is important."
 "Kanon.
  ......We welcome, today,
- an {i:important guest} in the truest sense.
+ an important guest in the truest sense.
  Make sure you\'re prepared."
 "......Yes."
 ".........Shannon, what\'s wrong?
@@ -447,7 +447,7 @@ Now, she was all merry, as though they had been friends for decades.
  {f:5:Beatrice}!"
 "Oh, Milady, what are you doing in such a place?
  Madam was looking for you."
-"I\'m here \'cause I don\'t {i:want} to be found.
+"I\'m here \'cause I don\'t want to be found.
  ...I bet she only wants to nag at me anyway, all that crap like "is your appearance alright?" and "mind how you speak"."
 "Hoh‐hoh‐ho...
  Without a doubt."

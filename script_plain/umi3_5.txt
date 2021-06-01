@@ -90,8 +90,8 @@ I am."
 "............Heh.
  I\'m sure you\'ll say something like "I wasn\'t a human, I was a witch", right?"
 "No, that\'s not correct.
- Not {i:yet} correct.
- ......Or, should I say, it was {i:once} correct.
+ Not yet correct.
+ ......Or, should I say, it was once correct.
  ......I was constructed by Kinzo, a human built by a human.
  ...No, maybe I should call it a cage made of flesh."
 "What\'s that supposed to mean...?
@@ -840,7 +840,7 @@ Because I was full of a strange mix of tension and excitement, I rudely asked he
  ...My, my.
  I don\'t know how much younger she was, but... not bad, Father."
 "......I remain firmly convinced that it was not an indecent relationship."
-"Gosh, you are an idiot. There\'s no way a lover\'s meeting between a man and a woman wouldn\'t have {i:some} sensuality.
+"Gosh, you are an idiot. There\'s no way a lover\'s meeting between a man and a woman wouldn\'t have some sensuality.
  What happened next?
  What did you talk about after that?"
 ".........Because I had introduced myself, I then asked her about herself."
@@ -1011,7 +1011,7 @@ And they were all really minor things.
  And that sound?
  And that smell?
 It was really like...the inside of that fence had been her entire world.
-So, to her, who had stepped {i:out} of the world, this was.........
+So, to her, who had stepped out of the world, this was.........
 ......You know, it\'s strange.
 In the beginning, when I first saw her, I thought that she was the absolute incarnation of a witch relaxing by a witch\'s mansion.
 But now it was different.
@@ -1156,7 +1156,7 @@ And when she was hit with them, ......she screamed in resignation.
 "Mmm.
  It is as you see.
  ......I missed my footing, fell down,
- {i:and died}."
+ and died."
 "What did you say...
  .........Even though you appeared as the 19th person,
  ......you say you died......?"
@@ -1194,7 +1194,7 @@ Otherwise, the facts don\'t fit together!!
  That she died for certain!!
  She has to be alive, right?!
  It\'s obvious!!"
-"How does {i:that} look like {i:being alive} to you?
+"How does that look like being alive to you?
  
 She\'s definitely dead}!"
 ".................................mgghhhh..."

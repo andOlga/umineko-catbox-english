@@ -1,5 +1,5 @@
 "So...heheh...about earlier,
- sorry you had to see me acting like that... I blame the {i:future heir}......"
+ sorry you had to see me acting like that... I blame the future heir......"
 "It\'s not going to leave a mark, is it?
  Talk about merciless."
 ".........Did you say something, Jessica?"
@@ -21,7 +21,7 @@ Lion, who had apparently been chatting with the adult siblings, spun around with
  I said "if you\'re planning to become council president next year, that\'ll just put more pressure on me, so stop it!""
 "But the next year rolls around, and guess who signs up as a candidate and wins in a landslide?!
  Same thing happened when I started high school!
- I said "please, just give it a rest this time", but by that point, the future heir was {i:already} the vice‐president!
+ I said "please, just give it a rest this time", but by that point, the future heir was already the vice‐president!
  Then, senior year? Immediately president of the student council!"
 "Dad was oh so proud!
  Mom kept saying "now you make sure you do your best as the little sister", over and over and over again!!
@@ -377,7 +377,7 @@ But since Maria got over it, it felt like I was the only one unsatisfied...
 "That stuff Maria was talking about, do you think it\'s all just a kid\'s nonsense?"
 "......About {f:5:Beatrice}‐sama,
  ......you mean?"
-"See, even you call her {i:sama}."
+"See, even you call her sama."
 {f:5:Beatrice} is the name of Grandfather\'s mistress, the person he\'s still infatuated with.
  ......I realize that, as a servant, Kumasawa‐san can\'t speak of her indiscreetly.
 Still, ......that\'s now become the name of the fictitious witch who lives in the mansion,
@@ -477,7 +477,7 @@ is that the one you mean?"
 "............M‐...Milady......"
 To Jessica, it was their two expressions that felt more like an ill omen than anything else did.
 It wasn\'t the witch or the VIP room that felt foreboding to Jessica.
- It was {i:them}, Maria and the others who believed in witches.
+ It was them, Maria and the others who believed in witches.
 In the end, Jessica forced them to agree, and she made them bring her the key to the VIP room...
 "A classic test of courage, to see if {f:5:Beatrice} would really appear in the VIP room or not."
 "Pretty much.
@@ -513,7 +513,7 @@ It\'ll just be a stupid waste of time for a few minutes.
 I touched the doorknob to the door of my room...
 ...and was startled by how unpleasantly cold it was.
 As long as I stayed in this room, I could laugh off anything.
-After all, this was {i:my} room.
+After all, this was my room.
 But it wouldn\'t be like that in the hallway.
  ......That\'s...outside my territory.
 And the doorknob, the barrier between the two, was ice‐cold...
@@ -557,7 +557,7 @@ All that\'s left...
 ......is to turn the knob,
  open the door,
  ......and I\'ll be inside the VIP room.
-......It\'s not like I\'ve {i:never} been in the VIP room.
+......It\'s not like I\'ve never been in the VIP room.
 Long ago, when I would often play hide‐and‐seek or go exploring,
  this room that I rarely entered had seemed unusual and exciting.
 However, I got in trouble for going in, and was told that this room was important, so one mustn\'t enter without reason.

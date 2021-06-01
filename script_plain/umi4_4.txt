@@ -12,8 +12,8 @@
  I completely understand why it is that Father does not wish to see you."
 "Y‐you\'ve got it wrong, Natsuhi nee‐san.
  ......We just, umm—"
-"Not even Dad is immortal—he\'s gonna die {i:someday}.
- We aren\'t telling him to die. We\'re just saying that he will die {i:someday}.
+"Not even Dad is immortal—he\'s gonna die someday.
+ We aren\'t telling him to die. We\'re just saying that he will die someday.
  We\'re just talking together about how to prepare for that."
 "And that is precisely what is so disrespectful!!"
 "Stop it.
@@ -100,7 +100,7 @@ Eva was attempting to get violent with Krauss, and Hideyoshi and Kyrie had cut i
  which even my true siblings have not stopped to consider."
 "......It is a natural duty for the successor to the Ushiromiya family head."
 "Yes.
- It {i:is} a responsibility of the successor to the head, isn\'t it?
+ It is a responsibility of the successor to the head, isn\'t it?
  ......And it\'s precisely because you take care of Father that we must acknowledge you as the successor."
 "Excuse me!!
  Am I going to be consulted on this at any point?!!
@@ -161,7 +161,7 @@ With that sentence, all slack disappeared from Krauss\'s face.
 "It may be the caregiver\'s job to carry food to Father\'s mouth, but whether he swallows it down or not is clearly outside the caregiver\'s responsibility.
  I have absolutely no problems with the case you raise, Krauss nii‐san."
 ".........Hoh.
- Then what kind of case {i:do} you imagine would cause the caregiver to be blamed for making a blunder?"
+ Then what kind of case do you imagine would cause the caregiver to be blamed for making a blunder?"
 "For example,
  ......if he disappeared."
 ".....................
@@ -193,7 +193,7 @@ With that sentence, all slack disappeared from Krauss\'s face.
  Everyone has suspected it the whole time, but it was so dreadful to imagine that no one actually said it."
 "Heh.
  ......Heheheheh, hahahahaha...!!
- I see, so {i:this} is what you\'re trying to say?
+ I see, so this is what you\'re trying to say?
  ......That Father is already dead, and that I have been hiding it!"
 "......Yeah, that\'s right.
  This is one of the theories I thought of as the key to solving the final mystery in the previous game."
@@ -217,7 +217,7 @@ With that sentence, all slack disappeared from Krauss\'s face.
  In red, the witch mentioned the names of 18 people one after another, and announced whether they were alive or dead.
  And on top of that, she declared that the number of humans on the island doesn\'t exceed 18.
  ......There was a single illusion in there."
-It was never guaranteed that {i:the 18 names = the 18 people on the island}.
+It was never guaranteed that the 18 names = the 18 people on the island.
 "When she named off all 18 people and announced who was alive and who was dead,
  she kept the name of the culprit X hidden, and instead mixed in someone who isn\'t on this island...!"
 "By doing that, even though the culprit is on the island, she was able to leave him or her out of the list of the 18 alive or dead people!
@@ -245,7 +245,7 @@ Maybe he\'s already dead,
 "............If Kinzo dies, the distribution of the inheritance occurs.
  ...However, if Kinzo doesn\'t die,
  ......no,
- if he dies, but {i:it isn\'t announced}, the distribution of the inheritance doesn\'t occur."
+ if he dies, but it isn\'t announced, the distribution of the inheritance doesn\'t occur."
 "In other words, Uncle Krauss could have all of Grandfather\'s wealth to himself...!
  That\'s right, he\'s got plenty of motive!"
 Sure, maybe a 19th person X really doesn\'t exist on this island.
@@ -327,13 +327,13 @@ In contrast to my visible annoyance with the witch\'s attitude, Gretel had a bla
  Unlike Battler, everything goes quickly with this woman, there\'s never a need to explain!
  I will speak as I like with the red truth, at the time that I desire!"
 "Yes.
- The use of the red truth is basically a {i:right} the witch has, to exercise as she pleases.
+ The use of the red truth is basically a right the witch has, to exercise as she pleases.
  It\'s not a responsibility that she has to fulfill at whatever time the human side desires.
  ...............But that depends on the details."
 "......The details......?
  What do you mean...?"
 "The witch has no responsibility to respond to your repetition requests.
- But when and only when your claim would destroy the witch theory, it {i:does} become her responsibility.
+ But when and only when your claim would destroy the witch theory, it does become her responsibility.
  Because in this court without a judge, that which is not refuted becomes the "truth"."
 "......In just the same way that whenever you\'ve stopped thinking,
  and been unable to make a counterargument against the witch theory asserted by the witch, it has immediately become truth."
@@ -383,7 +383,7 @@ It\'s like I finally got myself a cane to help me search around in the pitch‐b
  ......Am I OK to interpret "the time the game ends" as referring to 24:00 on October 5th, 1986, going by the time of the Rokkenjima in the game?"
 "There are no problems with that."
 "If, at the time the game ends, the human side can assert a trick theory for all of the mysteries,
- {i:and} there is no counterargument from the witch side, then the human side can declare victory.
+ and there is no counterargument from the witch side, then the human side can declare victory.
  ......Any problems?"
 ".........Let us be a little more rigorous.
  At the time the game ends, the witch side shall be given the opportunity to argue back."
@@ -444,7 +444,7 @@ Crap...
  .........You don\'t mean—"
 "Yes, that\'s right.
  ......You don\'t challenge the mysteries with an individual point.
- {i:You assault them with a wall}.
+ You assault them with a wall.
  You said yourself in an earlier game that that\'s what the attitude behind reasoning should be like."
 Assault...with a wall.
  That\'s right, I said so myself before.
@@ -577,7 +577,7 @@ By supposing that this person X exists, the crime is possible even if all 17 peo
  There\'s no way that Father will die in a manner that leads to trouble during the autopsy."
 "Father hates hospitals in any case, so he\'ll pass away in his study, right?
  An autopsy will certainly be carried out in any event.
- ......The only way to {i:kill him without an autopsy} would be for him to disappear."
+ ......The only way to kill him without an autopsy would be for him to disappear."
 ".........Kyrie‐san. I wonder if you would mind not bullying Nii‐san so much...?"
 Eva rebuked Kyrie in an sickeningly kind voice.
 ...Considering the situation, that was impossible.
@@ -611,7 +611,7 @@ They now understood perfectly how Kyrie had cornered Krauss, and exactly where s
 "After Father passes away, you should be able to work it out.
  Our investigations have told us at least that much.
  And even the deposit of 900 million yen, you should be able to manage in your current financial situation."
-"And it should even be possible for you to {i:borrow it from Father}, right?
+"And it should even be possible for you to borrow it from Father, right?
  ...There\'s no need for this obvious charade."
 "............H‐how unpleasant.
  Truly unpleasant...!!"
@@ -744,7 +744,7 @@ No one would call Kinzo an old man after seeing this superhuman strength...
  ......Fighting is the process you undergo before you achieve victory.
  ......You cannot call it fighting if it ends in a loss."
 "Just one word, we call that humiliation!!
- Wahhahahahahahahaha, and {i:this} is my successor?
+ Wahhahahahahahahaha, and this is my successor?
  Wahhahahahahahaha, wahhahhahhahahahahahahahhaaaaaaah!!"
 As thunder roared, Kinzo laughed heartily as though there could be nothing more amusing.
 And at the end of his laugh, he threw his feckless son away like he was scrap paper,

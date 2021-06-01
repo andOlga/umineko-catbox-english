@@ -131,7 +131,7 @@ But because that way of thinking existed, I wanted to overturn it.
  What is this {ruby:neutral/polite "I":"watashi"}?
  You\'ve always used {ruby:rough/casual "I":"ore"}.
  Are you already pretending to be the head?"
-"It was decided that {i:{ruby:watashi:I}} would succeed the head from the beginning.
+"It was decided that {ruby:watashi:I} would succeed the head from the beginning.
  And yet you seem to be laboring under the illusion that you can become the head, and have just been making useless and reckless attempts to do that."
 "Reckless attempts, you say...?!
  Is my saying that I want to go to college really that odd?!"
@@ -231,7 +231,7 @@ Even though I realized that this was improper for a person of the Ushiromiya fam
  Do you even understand your own duty?!!"
 "A‐as a person of the Ushiromiya family, I won\'t embarrass your na—"
 "That\'s it, right there you\'re already wrong!!
- Your duty is to marry {i:out} of the family, and bring me a man who is profitable to me!
+ Your duty is to marry out of the family, and bring me a man who is profitable to me!
  And then devote yourself to your husband, be fruitful and multiply!
  Be a good wife who brings praise to your husband\'s family!!"
 "What can you do that is capable of pleasing a man?
@@ -277,7 +277,7 @@ Genji blocked me...
  Krauss‐sama has grown into a sturdy son, and Eva‐sama into a lovely daughter.
  You haven\'t made any mistakes..."
 "In what way!!
- In what way is {i:she} lovely?!!
+ In what way is she lovely?!!
  Far from a lady, she\'s always acting like a man!!
  *cough*cough*cough*!!
  Disinherited, disinheriteddd!!
@@ -386,7 +386,7 @@ However, while sympathy might calm my heart somewhat, it wouldn\'t do anything t
 "She" rejected my timid thoughts.
 ...I know why.
 ......Because "she" is me, I know why.
-"Father says, or at least {i:right now} he says, that he won\'t let a woman succeed the head.
+"Father says, or at least right now he says, that he won\'t let a woman succeed the head.
  But that\'s never been anything more than a rule that Father decided on.
  Since Father decided on it, he can abolish it."
 ".........People\'s feelings can change many more times than there are grains of sand on a beach.
@@ -634,8 +634,8 @@ A small plank was lowered to get off the boat, and Gohda was waiting there, smil
 Welcome back.}
 "......Huh?"
 When she left the boat, .........it seemed to Eva as though she had heard the voice of her young self saying welcome back.
-No, it hadn\'t {i:seemed} that way.
-...Someone had {i:said} "welcome back" to her.
+No, it hadn\'t seemed that way.
+...Someone had said "welcome back" to her.
 After becoming a shameless adult,
  ...the voice of her young self was distant.
 "What am I living for......?

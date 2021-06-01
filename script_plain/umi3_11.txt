@@ -151,9 +151,9 @@ So, congratulations,
  Our magic!
  Your magic was the real thing.
  {f:5:Beatrice} the witch of the forest is nothing more than an illusion.
- {i:You} are the real witch, who can use real magic.
+ You are the real witch, who can use real magic.
  ......That\'s right.
- Right now, {i:you} are the Golden Witch, {f:5:Beatrice}!!"
+ Right now, you are the Golden Witch, {f:5:Beatrice}!!"
 Eva decided to leave that place for the time being.
 And when she climbed the stairs again, trying to leave this secret place...
 ......She saw a creepy, swaying human shadow blocking her path, and her dreamlike state was blown away.
@@ -166,7 +166,7 @@ And eventually, they each realized who the other was...
 "...Nee‐san...
  .........What are you doing in a place like this...?"
 "I could ask you the same.
- What business do {i:you} have in a place such as this?"
+ What business do you have in a place such as this?"
 "......I shouldn\'t have given you that hint, Nee‐san.
  If I hadn\'t, I definitely would have been the first to reach this place.
  .........Too bad."
@@ -392,7 +392,7 @@ you need to proclaim that you are the victor, Nee‐san."
  ......I will remain silent until then."
 "If you think that you need more time to think after that, ...let\'s talk about it again at that time, alright?
  .........I will support your position...
-{i:as much as possible}."
+as much as possible."
 "......You......really are cunning, aren\'t you?
  ...I\'m surprised.
  Were you always this strong‐willed?"
@@ -406,12 +406,12 @@ you need to proclaim that you are the victor, Nee‐san."
  ......I believe that you will be a fair‐minded successor to the head, who wouldn\'t even think of taking all of the gold for herself."
 "...Isn\'t that obvious!
  ......I will split the gold evenly among the siblings as we agreed."
-No way. {i:I} found this.
+No way. I found this.
 Because I, because we solved the riddle of the epitaph!
 So this gold is all mine...!!
 "I won\'t give it up to anyone!
  I am the head of the Ushiromiya family!
- I am, {i:I} am!!"
+ I am, I am!!"
 In a loud voice, the witch inside Eva claimed exclusive possession of everything.
 ...Of course, that didn\'t come close to reaching Rosa\'s ears, and it probably didn\'t even reach Eva\'s, either.
 "......Mm.
@@ -658,7 +658,7 @@ But there was just one thing she could understand.
  .........Still, for the time being, there\'s something I need to check."
 "And that\'s regarding this younger version of Auntie Eva,
  ...in other words, the definition of this new {f:5:Beatrice}.
- ......What the heck {i:is} she?!"
+ ......What the heck is she?!"
 "Even if I tell of it, you will just persist in your disbelief in magic and witches, will you not?
  So there is nothing in particular for me to explain.
  You may believe that things are as you think they are."

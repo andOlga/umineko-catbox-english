@@ -6,7 +6,7 @@ They tried punching and kicking it to make it break faster, but nothing they did
 "Just a bit longer, I think.
  ......If we can just buy time for five more minutes......"
 Judging by the speed the magic circles were crumbling and the general appearance of the whole scene, it looked like it would be over soon.
-However, as things stood, even if it was just five more minutes, would that be soon {i:enough}?
+However, as things stood, even if it was just five more minutes, would that be soon enough?
 They turned around.
 ......Beyond the bookshelf ravine.........was a universe.
 Even for Battler, who had seen Beato\'s fights many times over,
@@ -168,7 +168,7 @@ Those .45 Long Colt bullets delivered fatal wounds to each and every goat they s
  How long are you going to resist?! Will you just...! Lie down and...! Sink into your watery grave!! Ushiromiyaaaaaaaaaaaaaa!!"
 "If you tell an Ushiromiya to sink, you\'ll just make him fight all the harder!!
  Little girl, you have no idea what the Ushiromiya family is!!"
-"{i:You} were dead even {i:before} 1986!!
+"You were dead even before 1986!!
  It\'s about time you stopped moving, gramps!!"
 Erika\'s razor‐sharp scythe buried itself in Kinzo\'s chest.
 It dug straight into his heart, but the daring smile on Kinzo\'s face didn\'t even falter.
@@ -420,7 +420,7 @@ The nearby goats crowded around Erika, trying to support her.
 "Stay out of this.
  Anyway, you all need to start lifting the anchors!
  Tear up the Golden Land by its roots!!"
-{i:Aye aye, sir!}
+Aye aye, sir!
  The goats saluted and rushed to their posts.
 Several dozen ships had lowered their anchors, digging into the base of the Golden Land.
 Soon, they were going to pull them up, ......and try to tear the Golden Land to pieces.
@@ -550,7 +550,7 @@ They say that this second witch wanders the sea of fragments endlessly, searchin
 ......And the cat did revive her master.
 Revived the sacred witch who had reached heights none should reach......
 Just as witches look down from a higher world and sneer at {y:0:Human}{n:0:human}s, calling them pieces on a game board...
-...so {i:she} looks down from a world higher still and sneers at the territories of witches, calling {i:them} pieces on a game board.
+...so she looks down from a world higher still and sneers at the territories of witches, calling them pieces on a game board.
 ......If a witch\'s strength is measured by the height of the world they are capable of reaching...
 ...then she was like a witch come back from the realm of the gods, the one who had touched the highest, forbidden heights and survived.
 Was there any chance of winning against her?
@@ -582,7 +582,7 @@ If {f:5:Lambdadelta} attacked {f:5:Bernkastel}, who was a miko,
 "Where is Battler hiding?
  If you come clean, we\'ll let all of this slide."
 "Is the Witch of Miracles afraid of a tiny, little piece like Battler?"
-"......It\'s because I {i:am} the Witch of Miracles.
+"......It\'s because I am the Witch of Miracles.
  ......I won\'t forget that even a little pebble like him is capable of creating one."
 "It was a little pebble that got a big break as the Witch of Miracles, after all."
 "I\'ll ask one more time. Where is Battler?"
@@ -611,7 +611,7 @@ Then, each drew the most terrifying of magic circles from their respective world
 ".........It looks like Lambda wants to stop me from going to get the key."
 "Hoh.
  ......And what would the point of that be, I wonder?"
-"If you\'re having trouble understanding {i:that},
+"If you\'re having trouble understanding that,
  ......then you must be getting a bit tipsy, {f:5:Featherine}.
  Looks like you need a pick‐me‐up."
 {f:5:Lambdadelta} acted as tough as she could.
@@ -714,7 +714,7 @@ Spreadeagled against the bookshelf {f:5:Featherine} had pointed at, reappeared {
 ......{f:5:Lambdadelta}......had no idea what was going on.
 Before she could even blink, ......she was suddenly here, slammed against a bookshelf.
 "......W...h......a...t.........i...s......t...h...i...s............"
-She couldn\'t comprehend {i:what} it was that {f:5:Featherine} had killed her with.
+She couldn\'t comprehend what it was that {f:5:Featherine} had killed her with.
 However, that was only natural.
 After all, even {f:5:Featherine} herself hadn\'t decided.
 However, {f:5:Lambdadelta} did understand one thing.
@@ -1202,7 +1202,7 @@ Battler is dead}!!!
 "
 I\'ve used the red truth!!
  I\'ve said that Battler is dead}, right?!
- So how, {i:how} can he come back to life?!?!"
+ So how, how can he come back to life?!?!"
 "Even if the whole world says he\'s dead,
  .........I\'ll be the one person in the world who believes.
  ......Onii‐chan is alive.
@@ -1307,7 +1307,7 @@ Ange wouldn\'t accept it, so they couldn\'t pierce anyone.
  Just what is this golden truth?!!
  What kind of truth can defeat red truth......?!!!"
 "A believing heart.
- ......This is {i:our} consensus.
+ ......This is our consensus.
  ......Compared to the truth that we all acknowledge and share, your red truth can\'t hurt anything."
 ".........So long, {f:5:Bernkastel}!
  ......This time, it\'s really checkmate."
@@ -1600,7 +1600,7 @@ As she gazed down at the sea of stars spread out on the ground below her, Ange s
 She spoke of how she would live from now on.
 .........Ushiromiya Ange\'s...
 strange and mysterious adventure......ends here.
-But {i:my} life will continue.
+But my life will continue.
 After all, I now have a job to do.
 I am {f:5:Ange Beatrice}, witch of Mariage Sorcière.
 "Ushiromiya Ange just fell from here and died.
@@ -2106,7 +2106,7 @@ Captain Kawabata buried his face in the driver\'s seat.
 "Are you saying my boss sold you out?
  ......Then why would he give you a bodyguard?"
 "Since he has no idea what I might decide to do at any given moment,
- President Okonogi wants to have both me {i:and} the Sumadera family indebted to him.
+ President Okonogi wants to have both me and the Sumadera family indebted to him.
  And if he sells information about me, lets me escape by a hair, and keeps track of my whereabouts, he can have both me and the Sumadera family in his debt while keeping a trump card in his hand."
 "You\'re definitely over‐thinking things there......"
 Amakusa wore a forced smile, trying to smooth things over.

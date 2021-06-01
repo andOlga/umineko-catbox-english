@@ -144,8 +144,8 @@ Since Jessica had been the one to face them and slam them with words of rejectio
 "............That\'s just it...
  ......When you put it that way, those four really do seem suspicious.
  .........But."
-"...{i:That\'s no goddamn good}.
- Yeah, {i:it\'s no goddamn good at all}..."
+"...That\'s no goddamn good.
+ Yeah, it\'s no goddamn good at all..."
 "No good? ...What is?"
 "Right.
  .........It might not be worth anything anymore, but let me flip over the chessboard again.
@@ -507,12 +507,12 @@ With the candlestick still readied, I ran up to her, and forcefully—no, violen
 Maria\'s small body was quickly pulled down and fell.
 ...And, as though unhappy about how her singing had been interrupted, ......she looked into my face with her usual expression.
 Even in this gruesome situation,
- {i:she was just like normal!!}
+ she was just like normal!!
 "Maria, what the hell is this?!
  Who, ...who did this?!"
 ".........Uu.
  {f:5:Beatrice}."
-"Enough of that {i:fucking} bullshit!!!"
+"Enough of that fucking bullshit!!!"
 I threw the candlestick I had been holding against the wall.
 The violence of that reckless sound should have gone straight into Maria\'s heart.
 ......But her expression didn\'t change at all!
@@ -544,7 +544,7 @@ George‐aniki, as he always did, crouched down next to Maria so that their eyes
 "......Uu.
  We all came into the parlor together and sat down.
  ......Genji‐san made sure to lock the door."
-"It {i:was} locked when we got here......but then, how did {f:5:Beatrice} get into the parlor?!!"
+"It was locked when we got here......but then, how did {f:5:Beatrice} get into the parlor?!!"
 "Uu.
  But {f:5:Beatrice} is a witch so locks don\'t matter.
  She turned into butterflies and came in through the crack in the door."
@@ -732,7 +732,7 @@ And all those days she spent deprived of love never happened either.
  Give it up, Battler.
  ...Guns are meaningless against {f:5:Beatrice}.
  Besides, survival and everything else doesn\'t matter now, because it\'s over.
- {i:The journey has already ended.}
+ The journey has already ended.
  ......See, look at the clock."
 ...Huh?
  The clock?
@@ -756,7 +756,7 @@ And there, Maria leapt into a hug...
 subject.
 You\'ve got to be kidding me,
  ......this is...ridiculous, impossible...
-...This madness can\'t possibly {i:be},
+...This madness can\'t possibly be,
  ...witches don\'t "exist", I won\'t accept it...!
 Things like you must not "exist",
  because this is a human world—you think I could accept something that\'s not human?! Never, I will never!!
@@ -779,11 +779,11 @@ Maria turned around.
 The laughter of the witch—no, the witches—was joined by the laughter of even the large clock in the hall...
 It was probably telling us that the time was 24:00.
 It was both a tone telling us that we had reached the culmination of this day, and a tone informing us that all had returned to nothing.
-{i:The rules had specified that the witch would win when time ran out}.
+The rules had specified that the witch would win when time ran out.
 ".........Battler.
  ...George onii‐chan and Jessica onee‐chan.
  ......The journey...has ended...and the witch...has revived...you see?"
-And {i:none shall be left alive.}
+And none shall be left alive.
 {e:070:The witch shall praise the wise, and bestow four treasures.
 One shall be all of the Golden Land\'s gold.
 One resurrects all the dead people\'s souls.

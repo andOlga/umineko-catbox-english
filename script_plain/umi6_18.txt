@@ -493,7 +493,7 @@ Before any of those, first and foremost—
 "I am...a detective.
  .........I acknowledge you as my opponent.
  However, ...are you qualified to participate in this game?
- You {i:have} managed to fix the logic error, I assume...?"
+ You have managed to fix the logic error, I assume...?"
 "If you pick that glove up,
  I will prove that I have fixed it in my fight against you."
 "...................................."
@@ -944,7 +944,7 @@ In other words, Kanon escaped from a locked room that was absolute, with no excu
 .........How did he escape from the perfect locked room known as the cousins\' room?
 Heheh.
  If I fixated on that question, I\'d be no better than your average kid detective.
-......That room is a perfect locked room, so {i:there is no way to escape}.
+......That room is a perfect locked room, so there is no way to escape.
 In other words, trying to think of ways that Kanon could have escaped from the cousins\' room is simply a waste of time!
 The real question......is how Kanon...
 could have been somewhere other than the cousins\' room at the time it was sealed.
@@ -973,7 +973,7 @@ In other words, there are exceptions!
 For example,
  ......it\'s been confirmed that Hideyoshi and George were in the next room over.
 So, humans with the name Hideyoshi or George...
-{i:don\'t need to be inside the cousins\' room}!
+don\'t need to be inside the cousins\' room!
 It seems that Kanon told Jessica that his real name was Yoshiya,
  ......but that was no red truth.
 In other words, .........what if Kanon\'s real name is the same as one of those in the next room over?!
@@ -1295,17 +1295,17 @@ Whoa, that was close!!
 They almost got me... They almost tricked me!!
 I thought that I had cornered him in the closet.
 It\'s the opposite!!
-{i:They\'re} trying to make {i:me} think he\'s in the closet!
+They\'re trying to make me think he\'s in the closet!
 What was the order in which I searched the guest room?!
 First, the bedroom.
 We confirmed with the red that there was nothing there.
 Then, the bathroom.
 We confirmed with the red that there was nothing there.
 That\'s it right there!!
-{i:When we examined the bedroom}, there was nothing there.
+When we examined the bedroom, there was nothing there.
 However, while I was investigating the bathroom,
  ......Kanon slipped out of the closet,
- and {i:hid again} somewhere in the bedroom!
+ and hid again somewhere in the bedroom!
 In other words, the guarantee that no one was in the bedroom...was torn apart after just one minute...!
 I\'ve spotted it!!
 This is the witch\'s trap, an attempt to lure me into thinking that Kanon\'s in the closet...!

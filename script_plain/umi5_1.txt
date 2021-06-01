@@ -141,7 +141,7 @@ From those slightly weak words, Natsuhi understood that he had probably stopped 
  I will stay with my husband.
  Please call us on the phone if anything happens."
 "......Certainly."
-{e:150:"I said {i:wait}!!"}
+{e:150:"I said wait!!"}
 When Krauss suddenly raised his voice, everyone jumped and turned around...
 Unable to comprehend what she had done to spark her husband\'s wrath, Natsuhi ran up to him.
 "What\'s wrong, dear...
@@ -231,7 +231,7 @@ Krauss claimed to hold honor as a virtue.
  Eventually, even you yourself admitted that it was utter nonsense!!
  I was sure something was wrong from the moment that strange man showed up claiming to be a high‐ranking NASA official!"
 "The only issue was that foreigner who was an international swindler!
- Mr. Sonezaki and I were {i:both} victims of that incident.
+ Mr. Sonezaki and I were both victims of that incident.
  Even now, his vision isn\'t mistaken!
  There will definitely come a time when space tourism will become a popular indulgence for the world\'s richest.
  And the very first enterprise in that area will probably be monopolized by a single, private company.

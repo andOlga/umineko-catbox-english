@@ -135,7 +135,7 @@ Even {f:5:Bernkastel}, who had been enduring the humiliation,
 ".........You liar.
  ......You\'re clearly...
 ...quite well‐read."
-"I\'d never be so arrogant as to say I {i:read}.
+"I\'d never be so arrogant as to say I read.
  ......I don\'t even get through a hundred books a year.
  Someone like me should think twice before calling themselves a reader......"
 "Y‐......you miserable......piece........."
@@ -503,7 +503,7 @@ Natsuhi averted her gaze once more.
 ".........If it could protect the honor of Father and my husband, ...I would gladly sacrifice this body of mine to demons."
 "Your resolve is good.
  ......Don\'t be anxious.
- I won\'t allow them to {i:kill Kinzo}."
+ I won\'t allow them to kill Kinzo."
 At that moment, a dry sound suddenly rang out twice.
 Erika had clapped her hands, seeking everyone\'s attention.
 Though such an action should have been above a guest\'s place,
@@ -549,7 +549,7 @@ They hadn\'t been able to discover anything......
 "......A‐are you saying that I can\'t be trusted?"
 "No, no, just the opposite.
  I hope that you aren\'t the culprit.
- After all, that would be {i:dreadfully} dull, don\'t you agree?
+ After all, that would be dreadfully dull, don\'t you agree?
  Only the worst third‐rate mysteries have the most suspicious person as the culprit."
 "...Natsuhi‐san......is suspicious?
  W‐wait a second.
@@ -685,7 +685,7 @@ really that important...?"
  ......I think this is more than enough reason to suspect that Natsuhi nee‐san might be hiding something..."
 "Th‐that accusation is entirely false...!
  And you are not being fair, Eva‐san...!!
- You {i:yourself} can testify that I was in fact here at eleven o\'clock...!"
+ You yourself can testify that I was in fact here at eleven o\'clock...!"
 ".........Is this true, Eva‐san?"
 "........................
  .........Oh, now that you mention it, perhaps it is.
@@ -985,7 +985,7 @@ Both Beato and Kinzo would be sent to a place where no one could catch them,
 "Th‐that is the sort of trick that Kinzo‐san would love..."
 "Hohohoho......
  And they are hidden doors, after all...
- No matter how much people such as ourselves might search, {i:it\'s only natural that we won\'t find them}."
+ No matter how much people such as ourselves might search, it\'s only natural that we won\'t find them."
 ".........I see. It\'s a Devil\'s Proof.
  You\'re saying we can\'t eliminate the possibility that a hidden door exists in this room."
 "That\'s nonsense, it\'s all made up...!!
@@ -1256,7 +1256,7 @@ The blue wedge to the neck representing the study itself being called Kinzo.
 The blue wedge to the gut representing Natsuhi herself being called Kinzo.
 The blue wedge to the thigh representing Natsuhi letting Kinzo escape out of the window and locking it afterwards.
 The four of them shattered with the sound of thin glass...!
-Because Natsuhi, {i:the one who knew the truth,} had denied them,
+Because Natsuhi, the one who knew the truth, had denied them,
  those denials had gained the power of the red truth...!
 Despite Kinzo\'s absence from this locked room, Beato had introduced five ways that Kinzo could still exist.
 Natsuhi had carelessly destroyed the premises behind four of those herself...!!
@@ -1451,7 +1451,7 @@ She couldn\'t conceal her anger at having her most pleasurable moment ruined.
  I see, so that move is still available."
 "So you finally figured it out, you damn geezer.
  Hidden doors and hiding under the bed...... All that stuff is so pathetic I was almost weeping for you.
- This is {i:the} Ushiromiya Kinzo we\'re talking about here.
+ This is the Ushiromiya Kinzo we\'re talking about here.
  ......There\'s got to be a more thrilling and exciting answer."
 "Exactly.
  How pitiful that I couldn\'t even match my own ingenuity.
@@ -1472,7 +1472,7 @@ She couldn\'t conceal her anger at having her most pleasurable moment ruined.
 Battler called Natsuhi over to the window and whispered something to her with his back towards the others...
 "......Miss Dlanor,
  there isn\'t a remote chance of a mistake, is there?
- It {i:is} impossible for Kinzo and the witch to slip out of this room, correct?"
+ It is impossible for Kinzo and the witch to slip out of this room, correct?"
 "Of {f:5:course}.
  ......Gertrude, Cornelia,
  and the imperial guard,
@@ -1525,7 +1525,7 @@ Then, she started wandering around, as though doing an inspection of the room.
  Please don\'t waste our time putting on airs."
 "*giggle*.
  Isn\'t putting on airs the detective\'s right?"
-"Nn, gah, ......{i:I}...am the...d‐detective........."
+"Nn, gah, ......I...am the...d‐detective........."
 "Since we\'re inside the study, you can probably tell, but even though we call it a study,
  it wouldn\'t be wrong to call it a second house inside the mansion."
 "It has a sleeping room, a study, a washroom, and even a toilet and bath.
@@ -1565,7 +1565,7 @@ Maybe it was possible for him to leave the study while in Natsuhi\'s blind spot.
 "That\'s right...the sound!!
  We know there\'s a loud sound when the auto‐lock\'s released!
  Even if Natsuhi was in a blind spot inside the study, she wouldn\'t have missed the loud sound of the auto‐lock releasing.
- There\'s no {i:way} she wouldn\'t find that odd...!!"
+ There\'s no way she wouldn\'t find that odd...!!"
 "For your attention:
  I beg to inform you that 
 Natsuhi did not hear the sound of the door opening while in the room}."
@@ -1586,7 +1586,7 @@ Kinzo entering or exiting through the door will not be permitted}."
 Turning his back to Gertrude, who claimed that leaving through the door was impossible,
  Battler locked his gaze on Cornelia, who stood in front of the window.
 "Make sure you hold that barrier of yours up tight.
- ......Or else you\'re gonna be.........{i:sent flying}."
+ ......Or else you\'re gonna be.........sent flying."
 By now, Battler\'s target was clear.
  .........It was Cornelia.
 And......it was the window.

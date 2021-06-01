@@ -137,7 +137,7 @@ In other words, it would be the same as being content with the fact that six peo
 "*giggle*giggle*..."
 I have a general idea what these witches are talking about.
 ......I\'ve tried solving it several times myself in the past, but I still haven\'t found anything resembling an answer.
-On the contrary, I still can\'t even understand {i:why that riddle exists}.
+On the contrary, I still can\'t even understand why that riddle exists.
 .........That\'s right.
  ...The reason it exists.
 Why did Beato...
@@ -169,8 +169,8 @@ The people in the parlor noticed that raindrops had started to drip down the win
  Nii‐san is just bluffing.
  ......I\'ll make certain that he surrenders..."
 "Well, the thing about a deal is,
- you don\'t go in tryin\' to {i:beat} the other guy.
- ......You get a pitfall ready, praise him a bit, and convince him to stand on it of his {i:own} accord."
+ you don\'t go in tryin\' to beat the other guy.
+ ......You get a pitfall ready, praise him a bit, and convince him to stand on it of his own accord."
 "......Hideyoshi‐san is right.
  You pressed him a little too hard just now, Eva nee‐san."
 "Th‐that was perfectly reasonable considering it\'s Nii‐san we\'re dealing with."
@@ -266,7 +266,7 @@ Gohda ordered Kanon to serve the tea and became the sole object of the relatives
  Why not relax with some black tea for now...?
  Come, Kanon‐san.
  Quickly, quickly, serve it, serve it."
-"{e:070:...Why do {i:I} have to...}{e:100:"}
+"{e:070:...Why do I have to...}{e:100:"}
 Kanon knew that this tea was just Gohda\'s way of earning points,
  so he lined the cups up with a slightly sullen air.
 "Uu.

@@ -248,7 +248,7 @@ a world stopped in time, where everything happens at once."
  Then, both players, begin!
  Erika goes first, right?
  No, maybe we start by checking the bed—see what Battler\'s staking on this?!"
-"Yeah, let\'s start by checking the {i:bed} for Battler.
+"Yeah, let\'s start by checking the bed for Battler.
  ......Erika, begin."
 "Leave it to me, my master!
  <Light>...<on>!"
@@ -573,7 +573,7 @@ As Erika had predicted, she would strike the finishing blow on the second move.
 to fully explain almost all of the tricks behind the crimes that were to follow.
 ......Losing the battle over this locked room would steal a major deciding piece from Battler...
 But what if...
-......he {i:was} able to respond to the repetition request?
+......he was able to respond to the repetition request?
 What if he could say "the lock created by the chain is still intact"?
 That......would be fatal to Erika.
 It had already been shown with the red truth that this guest room could only be made into a locked room from the inside.
@@ -707,7 +707,7 @@ The lock caused by the chain is intact}."
 Battler\'s king...
 ......had left the chain lock piece in its place...
 ......and had...
-...{i:slipped past it}......
+...slipped past it......
 "Heh, ......heheheheheheheh......
  ......Yes, it sure would be cool if you could say that the chain lock was still set, wouldn\'t it......?
  That certainly would be cool, I admit......
@@ -800,14 +800,14 @@ was Beato......
  Battler‐san...!!!"
 "Aaaaaaaaaaaaaaahh, this is pissing me ooooooooooooff!!!
  Please just check it already, Lady {f:5:Lambdadelta}!!
- There {i:is} no valid logic!
+ There is no valid logic!
  There doesn\'t exist any way to get out of this locked room!!
  You were overeager, Battler‐san!
  Sure, if you could win with this, that\'d be cool!"
 "If you managed to disappear even though the chain was still set, that\'d be amaaaazing! So cooool! How mysterious! Hold me!
  Squeeeeeeeeeeeeeee! Aaahhahhaaaaaaaaahhh!!
  Like hell you caaaaaaaaaaaaan!!
- Like {i:hell} you can do that!!
+ Like hell you can do that!!
  If you could do that, you really would be a witch!
  If you could vanish your way out of this locked room like a puff of smoke, I\'d have to acknowledge it!
  It\'d be the work of a wiiiiiiiitch!!!"
@@ -944,7 +944,7 @@ Ushiromiya Kyrie......cannot save Battler}."
 ".........Granted.
  Dlanor, do it, please."
 "H‐............how......?
- ......How...can {i:you} authorize that?!?!"
+ ......How...can you authorize that?!?!"
 "It\'s valid.
  ......I guarantee this red truth by impartial judgment."
 ".........Without telling us your reason?!"
@@ -1102,7 +1102,7 @@ There will probably be trash bags left at the crime scene with my fingerprints o
  ......What kind of...
 mystery would...
 ever allow something like that......?"
-"I can\'t believe I\'m hearing {i:that} from a witch on the fantasy side.
+"I can\'t believe I\'m hearing that from a witch on the fantasy side.
  Oh, and don\'t worry.
  I didn\'t kill you.
  ......I found you last and didn\'t have time to sever your head,
@@ -1197,9 +1197,9 @@ Erika, who was now so excited that her pronunciation was tumbling all over the p
 It was the hallway on the second floor of the guesthouse...
 ......They were in front of the cousins\' room and the next room over.
 "Look, here, here!
- There\'s {i:something} stuck to the {i:dooooooor}!!
+ There\'s something stuck to the dooooooor!!
  Whuzzis?! Whuzzis?!
- Hey, do {i:you} know, Gertroooooooood?!"
+ Hey, do you know, Gertroooooooood?!"
 "......For your attention: know that it is the duct tape seal of the cousins\' room."
 "<OH YEAAAAHHH>!!
  <VERY GOOOOOD>!!
@@ -1234,7 +1234,7 @@ Erika had anticipated this moment all that time ago,
 This resolved the confusion Cornelia had felt back then.
 Why wouldn\'t the human side player want as many free humans as possible?
  That was a natural, simple question to ask.
-However, once you seal up {i:all} of the humans,
+However, once you seal up all of the humans,
  ......there is no room for magic to intervene.
 Why is magic magic?
 Because the people who saw it say that it was magic.
@@ -1397,7 +1397,7 @@ with Battler\'s handhahahaaaaaaaaaaahaaaaaaaaaahhh!!"
 Then that\'s their parting gift to you.
 .........As long as you have hatred, you will be able to avoid giving up.
 Giving up has a completely different meaning here, okay...?
-.........Once you give up, {i:still} can\'t escape, and realize that hell is eternal,
+.........Once you give up, still can\'t escape, and realize that hell is eternal,
  ......you\'ll wish you prepared yourself earlier.
 "Did you just call yourself a survivor......?
  ......Then,
@@ -1417,7 +1417,7 @@ It was probably more terrifying than any threatening words she could have used w
 It was time for Battler to realize.
 ......A logic error isn\'t so sympathetic that you can just stick out your tongue,
  ask for forgiveness, and say you\'ll be more careful next time......
-Even if you feel that the fight is at a point where you can\'t back down, risking a logic error by leaving things up to chance......is {i:never}......a risk you should take.
+Even if you feel that the fight is at a point where you can\'t back down, risking a logic error by leaving things up to chance......is never......a risk you should take.
 It was time for him to pay up and understand the true risk and terror implied by the words "betting one\'s life on a fight",
  which must sound so exciting for a man......
 "Battler‐san, hang on in there...!
@@ -1520,7 +1520,7 @@ The game was officially suspended until Battler could think of a new trick,
  .........then the fear of that hell will overwhelm us..."
 "......If you two managed to get out of it, then he can as well!
  I will save him...!! For certain......!!!"
-"For {i:certain}......?
+"For certain......?
  ......You stand before the Witch of Certainty, {f:5:Lambdadelta},
  and swear a certain outcome...?"
 "Yes! For certain...!!"

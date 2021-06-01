@@ -270,7 +270,7 @@ Just as fishermen who go out into the ocean occasionally have their lives put in
 Some parent must have had that thought.
  ...Maybe my Grandmother, or possibly, the man himself, my grandfather might have said it.
 Or maybe it was a story handed down on this island from long, long ago.
-{i:.........There\'s a terrible witch in the forest, so you must not go in.}
+.........There\'s a terrible witch in the forest, so you must not go in.
 Thus, Rokkenjima\'s ghost story was born.
 That is the legend of the witch of Rokkenjima.
 So, when we say "witch" on this island, we\'re referring to the master of the vast and savage forest.
@@ -532,8 +532,8 @@ There, suspicious‐looking bottles boasting venomous colors were on display.
 The inside of the study was filled with the mountainous library of outlandish books that Kinzo had amassed.
 They were bizarre old books, some banned, and each and every one of them either forbidden, cursed, or sealed.
 Of course, if one were to actually call them old books, Kinzo would fly into a rage and say something like this:
-{i:"Call them...}
-{i:grimoires!"}
+"Call them...
+grimoires!"
 There were candles which had melted in a suspicious‐looking fashion and taken on peculiar forms, and all manner of other strange objects, probably having something to do with black magic.
 The constellations covering the celestial globe would have caused anyone who knew the night sky well to raise an eyebrow.
 The illustrations inscribed in old books, haphazardly left open, ranged from the religious and mystical...
@@ -677,7 +677,7 @@ Genji had no choice but to wordlessly watch over his master\'s lament...
  We come to hear how he\'s doing, making time in our schedules in this damn busy season of autumn.
  That\'s just—"
 "Hmph...then you got what you wanted, Rudolf.
- You managed to {i:hear how he\'s doing}.
+ You managed to hear how he\'s doing.
  ......Or do you want to take my place, and try to persuade our ill‐humored father to come join us?"
 "............Are you kidding?"
 Rudolf shrugged.

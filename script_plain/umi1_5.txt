@@ -61,7 +61,7 @@ Money can only be gathered based on trust.
 There\'s no way anyone would lend money to an untrustworthy person.
 ......How did Grandfather, whose trustworthiness was zero, manage to obtain the large amount of funds in the first place?
 ......It is said that, when asked that question, Grandfather answered like this:
-{i:One fateful day, I encountered the Golden Witch }{f:7:Beatrice}{i:.}
+One fateful day, I encountered the Golden Witch {f:7:Beatrice}.
 He then went on and on about how he continued to research alchemy and techniques for summoning demons in order to become a great mage.
 ...And the entity summoned as the result of the demon‐calling ritual was the Golden Witch {f:5:Beatrice}.
 He then said that he made a contract where, in exchange for his own soul, he would receive fortune and honor.
@@ -575,7 +575,7 @@ Therefore, even though Krauss had obediently accepted the deal, she was unable t
 — I\'m just like all of you.
 It felt as though only that part was emphasized.
 The color of Rudolf\'s face darkened.
-{i:"I have a plan, just like all of you"}.
+"I have a plan, just like all of you".
 ...That\'s what it sounded like to him.
 That gave him a sense of urgency.
  Trying to bring this near‐finished discussion to a conclusion, he rushed to wrap it up.

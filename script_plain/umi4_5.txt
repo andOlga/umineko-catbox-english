@@ -103,7 +103,7 @@ When she made to bend over and pick up the pieces of the cup, Ronove appeared ou
  To think that there is someone whose tastes aren\'t satisfied even by Ronove\'s tea.
  I must respect your discerning palate."
 ".........I\'m getting bored, so I\'ll go out for a bit."
-"{i:Bored}?
+"Bored?
  Wait a sec, but things are just about to get started.
  At this point, Maria\'s probably going to say that she got an umbrella and a letter from {f:5:Beatrice} again, you know?
  This is the critical part—"
@@ -119,7 +119,7 @@ All that remained was the fragrance of the black tea she had spilled...
 No, to be even more blunt, it made my skin crawl.
 "Uu...?
  ......Why are you so irritated, Ange......?"
-"{i:Why}?!
+"Why?!
  Isn\'t it obvious...?"
 "Uu.
  ...Not to me......"
@@ -276,7 +276,7 @@ Even though weekends where Mama doesn\'t come home aren\'t that rare a thing.
  I\'ll always be with you...
  Even if you\'re going to cry, I won\'t.
  I\'m a lion cub, I can\'t cry just because I\'m lonely.
- ......I want to cry too...but I\'m {i:not going to}...!’
+ ......I want to cry too...but I\'m not going to...!’
 "Why won\'t you cry, Sakutaro...?
  You still won\'t cry, even when it\'s this lonely and you can\'t hold back the tears...?"
 ‘Uryu.
@@ -440,7 +440,7 @@ And when she heard that, Maria onee‐chan\'s mood definitely darkened.
 "No, you didn\'t!
  You were just so sad, and you hated your mother so much for forgetting her promise, that you made a mess of your room...!!"
 "...............Where was something like that ever written in my diary?"
-"It isn\'t {i:written} anywhere!
+"It isn\'t written anywhere!
  But......by reading in the gaps between every line, I can tell how you felt!
  You didn\'t have a good time at all that evening!"
 "And you stayed up late when you were told not to, broke the strict rule about not eating sweets outside of snack time,
@@ -454,17 +454,17 @@ And when she heard that, Maria onee‐chan\'s mood definitely darkened.
  You were starving for Auntie Rosa\'s love...!
  And Aunt Rosa always put her work and her public image first, always keeping you on the back‐burner...!"
 "That\'s why it makes my skin crawl!
- Because I know just how superficial Aunt Rosa\'s words of {i:love} for you are!!
+ Because I know just how superficial Aunt Rosa\'s words of love for you are!!
  You should realize this yourself!"
 "So......how can you say that you\'re happy?!
- I don\'t {i:understand} that......that part of you, Maria onee‐chan!!
+ I don\'t understand that......that part of you, Maria onee‐chan!!
  Even at this age, I can\'t understand it at all...!!"
 "How aren\'t you sad?
  How is it that you can experience a reality filled with misfortune and call yourself happy?!
  I can\'t do it, I can\'t understand it...!!"
 "...............You are a sad kid, Ange."
 "I don\'t get it!!
- Why are {i:you} pitying {i:me}?!"
+ Why are you pitying me?!"
 ".........Even though a "fact" about a really fun pajama party is written in my diary,
  .........when it\'s observed by a different person, it looks like that same "fact" takes a different form, huh."
 I remembered talking about this with {f:5:Bernkastel}.
@@ -487,7 +487,7 @@ And truths of the past are painted over by truths of the future......
  .........That\'s why I feel so sorry for you, because you can\'t feel happiness in the same situation."
 .........Both she back then, and I now, have the same friendless and lonely situation.
 And Ange......accepted the lonely truth as the lonely truth.
- But {i:she}......painted over the lonely truth with a happy truth.
+ But she......painted over the lonely truth with a happy truth.
 Ushiromiya Maria took the sad truth...
 ...and changed it into happiness.
 That...
@@ -569,7 +569,7 @@ Rosa set it up on the table.
 "Isn\'t this amazing, Sakutaro?!
  Look how many more friends we have...!
  It was just like you said, Sakutaro!
- It was true, we had a fun and lively time, and we {i:did} get more friends...!"
+ It was true, we had a fun and lively time, and we did get more friends...!"
 ‘See, didn\'t I tell you?
  Look, we have more friends, look, we have more friends!
  Uryu~♪’
@@ -733,7 +733,7 @@ And when Maria asked why,
 "............What is this "power"?
  This power that I don\'t have, but you do.
  ...And are you saying that me not having it is the reason I have misery and you have joy?
- .........Just what is this {i:thing} that you can\'t describe except with an abstract word like "power"......?"
+ .........Just what is this thing that you can\'t describe except with an abstract word like "power"......?"
 "Yeah.
  That is what you want to know, isn\'t it, Ange?
  ......That\'s why you\'ve been reading my story all this time."
@@ -754,7 +754,7 @@ And when Maria asked why,
 "The "power" that {f:5:Maria} has, but you do not."
 "Yep.
  The "power" I have, but you do not."
-――{i:That}...is magic.
+――That...is magic.
 Maria and Beato said it together.
  And then they started giggling because they\'d said it at the same time.
 ......It was an innocent behavior, which seemed somehow unlike Beato.
@@ -802,13 +802,13 @@ If even a tiny bit of the toxin from a {y:0:Human}{n:0:human}\'s common sense ge
 ".........How incredible.
  This "Sakutarou", with a core of a cloth‐and‐cotton vessel, has completely manifested into the human world.
  He has his own character, talks with his summoner freely,
- {i:and even moves by his own will}."
+ and even moves by his own will."
 "......And what is most surprising is that you did not summon him by name as a being from another world,
  but created him out of the sea of zero."
 After that, Maria boasted to Beato that Sakutarou wasn\'t her only friend, and that when she went home, there would be plenty more of them.
 She claimed that there were other similar stuffed animals and dolls who, like Sakutarou, could talk and move of their own will.
 It was something natural to Maria.
- It was {i:natural} for stuffed animals to talk, move, and become her friends of their own free will.
+ It was natural for stuffed animals to talk, move, and become her friends of their own free will.
 ......When she heard Maria speak of this in that way, {f:5:Beatrice}, as a witch, felt a respect bordering on awe.
 "............Maria.
  Without a doubt, that power of yours is magic."
@@ -885,7 +885,7 @@ It was Beato\'s master, {f:5:Virgilia}.
 ...Since Maria already thought of Beato as a Great Witch, this person Beato called a Great Witch must have been a Great Great Witch.
 According to Beato, not even she could hold a candle to this witch when it came to magical power.
 "My, my.
- I {i:thought} I heard some cheery voices.
+ I thought I heard some cheery voices.
  What a fun tea party this seems to be..."
 "Oh, Master.
  Perfect timing.
@@ -998,7 +998,7 @@ Even as he looked around, nervous at this sensation that he had never felt befor
 ‘Uryu......?
  Uryu‐uryu‐uryu‐uryu......!’
 And when that light disappeared...
-............There, Maria\'s friend Sakutarou held a new form, and {i:existed}.
+............There, Maria\'s friend Sakutarou held a new form, and existed.
 "Uu‐uu‐uu!
  You\'re cute, Sakutaro!
  Reeeeally cute!"
@@ -1024,7 +1024,7 @@ And when that light disappeared...
 "Mm.
  It is the title of a witch who seeks to become a Creator.
  Right now, you are just an Enchanter, possessing only enough strength to breathe magical power into the small objects around you."
-"......But after one thousand years of training, it is not unthinkable that you could create not just your own {i:system} of magic, but even a galaxy."
+"......But after one thousand years of training, it is not unthinkable that you could create not just your own system of magic, but even a galaxy."
 "......The talent of the Witch of Origins is very rare.
  Even though everyone has it when they are young, no one can continue to hold onto it.
  ......This title is also proof that you have not lost your untainted heart."

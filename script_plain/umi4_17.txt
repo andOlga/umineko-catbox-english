@@ -1,5 +1,5 @@
 "......I don\'t know why you\'re angry, Battler."
-"You {i:should?!}
+"You should?!
  Everyone was killed, goddammit!!
  By that goddamned old fart!
  Saying something incomprehensible about {f:5:Beatrice}\'s resurrection ritual or something!!"
@@ -27,7 +27,7 @@ to believe...
  This isn\'t the time to get in an argument with you...!!
  Forget "hostages", at this point, there\'s no one left alive at all!
  This dumb‐as‐hell, screwed‐up ritual game is done now...!!"
-"From here on, I\'m doing what {i:I} want.
+"From here on, I\'m doing what I want.
  Someone might still be alive.
  Or someone might be hiding!
  I\'ll search every nook and cranny of this place, find them, and beat the shit out of them!!"
@@ -160,7 +160,7 @@ And there was a line of several empty wine bottles.
 As {f:5:Beatrice} rolled around in her sofa in an unseemly way,
  she held a wine glass in one hand, in a good mood,
  ......and probably, completely drunk.
-"I\'m in the {i:best} mood today, so I\'m feeling crazy generous!!
+"I\'m in the best mood today, so I\'m feeling crazy generous!!
  Hey, hey, Kinzo, don\'t use a well‐aged noble rot wine like this as a decoration!
  Hooooly shit, it\'s a 1947?!"
 "If you don\'t open it today, just when are you gonna open it?!
@@ -184,8 +184,8 @@ As {f:5:Beatrice} rolled around in her sofa in an unseemly way,
  this is the first time we\'ve had a conversation like this on the board during the game, isn\'t it?
  How very fresh!!"
 "Oh, did you hear that pop sound?!
- He {i:opened} it, the maniac actually went and opened that vintage wine that\'s expensive as shit!!
- Do you know how much a single bottle of that stuff {i:costs}?!
+ He opened it, the maniac actually went and opened that vintage wine that\'s expensive as shit!!
+ Do you know how much a single bottle of that stuff costs?!
  As much as a whole ten‐kilogram ingot, isn\'t that craaaaaazy?!?!
  Hiiiii‐hah‐hah‐hah‐hah‐hah!!"
 "C‐cut the crap...!!
@@ -230,7 +230,7 @@ As {f:5:Beatrice} rolled around in her sofa in an unseemly way,
  Perfect...!!
  Listen to me, you stinking drunk!!
  I\'ll sober you up.
- And I\'ve got some {i:hot punch} waiting to help you through your hangover!!
+ And I\'ve got some hot punch waiting to help you through your hangover!!
  Just you wait!!"
 Battler impulsively slammed the receiver down.
 There was no need to talk through a receiver anymore.
@@ -474,7 +474,7 @@ Gohda‐san and Kumsawa‐san probably have master keys, but they\'re in the loc
  ...If I pass, my first prize will be a punch to your face."
 "Scary, scaary...
  But it\'s not like I mind being controlled by violence, you see?
- {i:Grab}...onto my head!
+ Grab...onto my head!
  Make my face twist in pain, violate me in the same way a hawk tears apart and scratches at its prey with its talons...!!"
 "Aaah, remind me of Kinzo in his younger days once more...!!
  That single time in my thousand‐year life!
@@ -715,7 +715,7 @@ Six years ago, no person called {f:5:Beatrice} existed for me}.
 ...you and me......?"
 "I had no connection to you six years ago.
  Remove me from your thoughts already.
- ......Why...do you think it is a sin against {i:me}?"
+ ......Why...do you think it is a sin against me?"
 ".........Your......eyes."
 "Eyes...?
  ............Hoh."
@@ -757,20 +757,20 @@ Due to your sin, a great many humans on this island die}.
 None will escape, all will die}."
 "Wh‐.........whaaaaat?!?!
  Wh‐what the hell are you going on about?!
- Are you saying {i:I} killed everyone?!
+ Are you saying I killed everyone?!
  I\'m a killer?!"
 "You do not carry it out directly.
  .........However, because you committed a sin, the cogs of fate were sent astray, spun a full six years, and due to the deviation that resulted,
  ......tonight, this many lives are lost."
-"{i:You are one of the causes of this tragedy}."
+"You are one of the causes of this tragedy."
 "......Oh, ......come the fuck on!!
- {i:I\'m} the cause?!
+ I\'m the cause?!
  Then what?!
- Are you saying thirteen people died because {i:I} abandoned the Ushiromiya register six years ago?!
- Are you saying thirteen people died because {i:I} came back to the Ushiromiya family after six years?!"
+ Are you saying thirteen people died because I abandoned the Ushiromiya register six years ago?!
+ Are you saying thirteen people died because I came back to the Ushiromiya family after six years?!"
 "Give me a fucking break!!!
  For these six years, I\'ve been the man furthest from the Ushiromiya family!
- What influence could {i:I} have had on {i:anything} and how?!"
+ What influence could I have had on anything and how?!"
 "It\'s not like I came to the family conference because I wanted to!
  I\'d patched things up with the family after six years, so to like, draw a line under that whole period,
  I came to Rokkenjima reluctantly...!!
@@ -1126,7 +1126,7 @@ So, I also responded to that.
  ......So don\'t run away. Fight."
 "You started this fight, dammit.
  All the crap you\'ve pulled, again and again and again, the total shitshow you\'ve turned this whole thing into!
- And now after all this time you think I can let you end it because you\'re {i:tired} of it?!!"
+ And now after all this time you think I can let you end it because you\'re tired of it?!!"
 "I am your opponent!!
  As long as I\'m here,
  there\'s no way I\'m letting you escape!!"

@@ -104,7 +104,7 @@ However, near the end of the first game, when the survivors all gathered in Kinz
  and he denied it, saying "I have not heard of anything like that".
 "‘I have not heard that’... In a way, it was a perfect sort of answer for one of Kinzo\'s confidants.
  ......After all, in Kinzo\'s eyes, she wasn\'t a daughter,
- but {i:Beatrice} reborn."
+ but Beatrice reborn."
 "Will...!
  I don\'t know what you\'re talking about, but I will not let you slander the family head!"
 "This isn\'t slander.
@@ -428,7 +428,7 @@ That was the job...
  ......Take this to heart."
 "A life...you live for yourself......"
 "Living means having your own will.
- ......You probably {i:were} dead during that time."
+ ......You probably were dead during that time."
 "Precisely.
  I wanted to live.
  No, I wanted to die.

@@ -101,7 +101,7 @@
  Tell me who she really was!!"
 "......Your secret was so incredible that mine just wouldn\'t match up.
  ...So in exchange, I\'ll tell you my own special secret.
- I\'ll tell you the name of the culprit in this game called {i:Higurashi no Naku Koro ni}."
+ I\'ll tell you the name of the culprit in this game called Higurashi no Naku Koro ni."
 "Gyaaaaaaaaaaaaaaa, don\'t tell meee!!
  I\'m playing it right nowwww!!"
 "......Ahhahahahahhahhahhahhah...
@@ -139,7 +139,7 @@
  I won\'t tell you that girl\'s name.
  *cackle*cackle*!"
 "...Just when are you going to stop screwing around?
- ...Do you even have the {i:slightest} intention of winning?"
+ ...Do you even have the slightest intention of winning?"
 {f:5:Lambdadelta} threatened her with a low voice that she had never used in front of {f:5:Bernkastel}.
 ...It completely blew away the calm atmosphere which had been there until a moment ago.
 ".........You know,
@@ -179,8 +179,8 @@
 "Yeah, that\'s right, it\'s perfect.
  ............So long as you, the player, are perfect as well, that is?"
 ".........I don\'t understand what you mean by this..."
-"What {i:I} mean by this...?
- That\'s what {i:I} want to ask {i:you}.
+"What I mean by this...?
+ That\'s what I want to ask you.
  .........You play around a lot in your games.
  ...At first, I thought it was part of your tactics, because it would completely baffle {f:5:Bernkastel} from time to time."
 "............But I get the feeling that\'s not quite true.
@@ -191,7 +191,7 @@
 "Listen close, okay?
  Your role is to break {f:5:Bernkastel}, force her to yield.
  In other words, that means being the victor in this game for all eternity.
- ......As long as you keep trying to become the {i:certain} victor, then I will give you my power as the Witch of Certainty.
+ ......As long as you keep trying to become the certain victor, then I will give you my power as the Witch of Certainty.
  ............However."
 "If you fight in a way that doesn\'t deny any possibility of your loss,
  ...that\'s a different story."

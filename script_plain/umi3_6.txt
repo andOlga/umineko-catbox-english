@@ -134,7 +134,7 @@ To protect the backs of the other two, who were watching the door, Shannon faced
  ...However, it\'s too quiet."
 "Then he is safe?"
 "No.
- It is {i:too quiet}."
+ It is too quiet."
 "...It............couldn\'t be..."
 "My lord.
  Excuse us about the door."
@@ -144,7 +144,7 @@ He stuck it in the keyhole, and turned it heavily.
 ......At a glance, that would have indicated that it really was a strong lock.
 However, the fact that the barrier had been destroyed...
 meant that this door had long been wide open for anyone with magical power...
-The lock made a heavy sound, indicating that the door had been opened {i:to humans as well}.
+The lock made a heavy sound, indicating that the door had been opened to humans as well.
 "......Excuse me."
 As Genji respectfully bowed his head,
  and Kanon\'s sense of tension grew tighter,
@@ -432,7 +432,7 @@ The evil ritual the witch and the rest were trying to carry out was, at this poi
  I don\'t like it.
  ...You know you can\'t win against {f:5:Beatrice}‐sama,
  but you look down on me as though you might be able to win against me...
- ......I {i:really} don\'t like it."
+ ......I really don\'t like it."
 That was probably humiliating to Lucifer.
 ...But at the same time, she was also happy that she was so lucky to have this lovely prey all to herself...
 ".........Come, furniture of the witch.
@@ -652,7 +652,7 @@ When she did, the magic that had been affecting Lucifer was released.
 ".........What isn\'t?
  ...Stop dodging the question...!!"
 "I did promise you, didn\'t I?
- If you could defeat my furniture, of {i:the Seven Stakes of Purgatory}, riiiiiiight?
+ If you could defeat my furniture, of the Seven Stakes of Purgatory, riiiiiiight?
  Come, arise, Seven Stakes of Purgatory.
  The six younger sisters of the worthless elder sister!"
 """"""Kyahhahahahahahahahahahahaha!!""""""
@@ -757,7 +757,7 @@ However, the six younger sisters kept giggling coldheartedly.
 "Then I\'ll take the head!
  All of you can have the limbs!!"
 "No no, noooooooooooo!!
- {i:I} get the heaaaad!!"
+ I get the heaaaad!!"
 "You know there\'s no way there\'ll be any meaning to promises like that!
  It\'s obviously gonna be first one there wins!"
 "Kuhihihihi!!
@@ -851,7 +851,7 @@ Shannon spoke back resolutely as she covered Kanon, who was already spent of all
 "......Nnnngggggaaaaaaaaahhhh, you\'re pissing me off.
  That philosophic view is really irritating!!
  This is why you\'re furniture you don\'t even smell like a humaaaaaan!!"
-"Look at {i:me}, {i:I} am human!!
+"Look at me, I am human!!
  Don\'t spout off philosophical stuff like you\'re more complete than I am, you furnituuuuuuuuuuure!!"
 "............How ugly.
  Is that regret your true form?"
