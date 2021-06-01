@@ -892,12 +892,10 @@ And now......it was clear that BEATRICE had already reached one.
 "Repetition requested.
  "The one who rescued Battler was, without a doubt, Kanon.""
 "Very well.
- 
 The one who rescued Battler was, without a doubt, Kanon."
 "Repetition requested.
  "Battler and Kanon are different people.""
 "Very well.
- 
 Battler and Kanon are different people."
 "......Hmph.
  That\'s enough."
@@ -1037,7 +1035,6 @@ After holding the gun high and pointing it at Beato once more,
  Erika pulled the trigger with statements of red and blue truth.
 "
 The cousins\' room is guaranteed to be a perfect locked room until the end.
- 
 So, if Kanon really had been in that room, it would have been impossible for him to escape!
  In other words, Kanon was not in the cousins\' room at the time it was sealed!!
  Kanon\'s name is an alias.
@@ -1052,7 +1049,6 @@ I love being surrounded by this chatter.
 "
 It is true that the next room over was sealed,
  but at the time of the logic error, only the doors were checked to see whether the seals were preserved.
- 
 Therefore, there is a chance that the window seals were broken.
  Kanon was in the next room over, and he escaped through that window...!!
  That is all!!!"
@@ -1164,7 +1160,6 @@ This final duel......has already begun, even though we haven\'t pulled our trigg
 "Repetition requested.
  "At the time Battler was rescued, only Kanon entered the guest room.""
 "I acknowledge it.
- 
 At the time Battler was rescued, only Kanon entered the guest room.
  I believe that was the whole point..."
 "Repetition requested.

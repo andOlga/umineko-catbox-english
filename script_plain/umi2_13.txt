@@ -265,10 +265,8 @@ Kanon was killed in this room
  Thanks.
  Thanks to the witch\'s arrangement, I can say for sure that the room doesn\'t have a hidden door without searching the whole thing."
 "Indeed.
- 
 There are no hidden doors in this room
 .
- 
 There is no way to get in or out other than the door and the windows
 ."
 "......Which means...

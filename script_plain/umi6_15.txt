@@ -143,7 +143,6 @@ He could escape from the room,
  I\'m impartial in my judgments."
 "C‐can you say that with the red truth...?"
 "Yep.
- 
 I swear that I am impartial in my judgments.
  .........I was very impartial in the last game, wasn\'t I?"
 "......That goes double for trials where things will be interesting either way, doesn\'t it?
@@ -290,7 +289,6 @@ She wrote down that Battler\'s corpse, which should have been on the bed, was no
  and Dlanor made Swiss cheese of her, right...?
  I guess this is revenge...*giggle*..."
 "Before I start searching, I have one blue truth I can use without a search.
- 
 There is a possibility of a hidden door X that is impossible to discover.
  He\'s hidden behind that, so it is impossible for me to find him."
 "
@@ -317,7 +315,6 @@ Even the quiet sound of the rain......was distracting......
 "............I\'ll leave that one place be for the time being.
  So, were there any irregularities discovered in the bedroom?"
 "There were NONE.
- 
 Except for one location, there is no one to be seen in the BEDROOM."
 "......What\'s this "except for one location" business?
  Stop being annoying and make it public."
@@ -405,7 +402,6 @@ She left the bathroom for a moment until that was finished.
 "Let\'s check the inside of the bathroom.
  Was Battler seen?"
 "NO.
- 
 No one was seen in the BATHROOM."
 "<Good>.
  With this, we...
@@ -424,7 +420,6 @@ Though it was extremely quiet,
 A cloud of gold butterflies gathered on the room\'s round table......and turned into a witch\'s chess board.
 It was finally.........time for the siege.
 "Blue truth.
- 
 You did not vanish from this room.
  You just hid yourself to make it seem as though you\'d disappeared from a locked room.
  The place you are hiding......is the "one exception" that I haven\'t investigated yet."
@@ -510,11 +505,9 @@ She then lifted that hand into the air.........and raised the white piece high.
  ......
 At that time, I immediately closed the door, reset the chain, and sealed this room."
 "Objection.
- 
 Gohda severed the chain back when the crime was first discovered.
  Since the chain lock is not functioning, it is impossible to use it to create a seal."
 "Objection overruled.
- 
 Erika repaired the chain lock.
  ......See?"
 "......That\'s impossible.
@@ -529,7 +522,6 @@ Erika used that duct tape to join the two cut ends of the chain together, "seali
  Erika‐san has already used up her duct tape seals, hasn\'t she...?!
  She shouldn\'t be able to use them anymore...!"
 "Objection overruled.
- 
 The use of the duct tape wasn\'t limited by the number of strips, right?
  It was by the number of rooms.
  ......The only restriction was to limit it to only three rooms.
@@ -542,7 +534,6 @@ The use of the duct tape wasn\'t limited by the number of strips, right?
  .........Pity is the evil liquor that the arrogant most PREFER."
 "So,
  with this retroactive move,
- 
 I proclaim that the chain lock has been repaired by the duct tape seal and has regained its original functionality.
  And, thanks to that, I locked the room upon entering it and made this guest room a locked room from the inside once more."
 The white piece Erika held aloft......represented the seal formed by the chain lock.
@@ -698,7 +689,6 @@ Where had it gone?!
 On top of the piece of the chain lock?
 Or past that piece...?
 ".........I will respond to the repetition request.
- 
 The lock caused by the chain is intact."
 Battler\'s king...
 ......had left the chain lock piece in its place...
@@ -919,7 +909,6 @@ However, that doesn\'t mean that no one else is inside it.
  .........the one exception that Erika left unchecked, and is there still......
 Kyrie...
 ......saved......Battler............
-
 Ushiromiya Kyrie
  CANNOT SAVE Battler
 .
@@ -1075,7 +1064,6 @@ I killed everyone all over again!"
  ......Erika made sure of that."
 "The manner in which they were each killed differed,
  .........but afterwards,
- 
 she completely severed the heads of all those she killed.
  ......That method of killing is solid enough to be called a red truth, right...? Lambda......?"
 "......I‐...............it\'s valid.
@@ -1284,7 +1272,6 @@ It was the same room as before, of course,
 "......However, there are conditions.
  ......As I believe you know, these are all things you forced on yourself."
 "......First,
- 
 this room is a locked room created from the inside.
  The seals on the windows are intact, so there can be no escape from there.
  Of course, there is no way to escape by leaving through the bathroom."

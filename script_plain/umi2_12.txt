@@ -999,18 +999,14 @@ Clap clap clap...
  I\'m sure I\'ll be denied from all angles, ...but first I\'ll verify the definition of what it means for this room to be a locked room."
 "Very well.
  First,
- 
 there are absolutely no types of hidden doors
 .
- 
 This door is the only way in or out
 .
- 
 The only way to lock this door is with Jessica\'s single key or the master keys, only one of which is held by each servant
 ."
 "It is on the second floor, but it is probably possible to enter or leave through the window.
  However,
- 
 the window is locked from the inside
 ."
 "......Let me flip over the chessboard right away.
@@ -1059,7 +1055,6 @@ Kanon was killed in this room
  It\'s like you\'re leading me down a path, goddamn annoying...
  Stay quiet a while, I\'m thinking...!"
 "Of course, this door is the same as the chapel.
- 
 When locked, it does not permit any form of entry or exit
 ."
 "I\'ll say more. 
