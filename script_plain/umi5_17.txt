@@ -86,7 +86,7 @@ A flashback of that time Dlanor had come to visit the tea party in the Golden La
 I\'d thought she was a ruthless killer doll without a heart,
  ...but maybe she actually is pretty approachable.
 ......Though of course, neither of us will show any mercy when fighting on the game board.
-For a while, we gazed at the rain‐drenched rose garden...
+For a while, we gazed at the rain-drenched rose garden...
 as we quietly enjoyed our tea.
 "......Still, it really is terrifying.
  The way you fight.
@@ -110,13 +110,13 @@ So if that "premise" isn\'t there, there\'s no need to search for hidden doors.
 ......I think that\'s probably the essence of her ridiculous argument.
 I get the feeling that the detective trying to expose the truth and the illusion trying to mask it with fiction...
 are getting blended together, leading to a bizarre form of argument similar to a Devil\'s Proof.
-Making a locked‐room murder seem to be accomplished by a witch with magic—that\'s fantasy.
-Exposing that it was a Human\'s crime done with tricks—that\'s anti‐fantasy.
-Investigating all possibilities to expose what those tricks are—that\'s mystery.
-But claiming that possibilities with no hints supporting them are unworthy of investigation—that\'s......also mystery?
+Making a locked-room murder seem to be accomplished by a witch with magic - that\'s fantasy.
+Exposing that it was a Human\'s crime done with tricks - that\'s anti-fantasy.
+Investigating all possibilities to expose what those tricks are - that\'s mystery.
+But claiming that possibilities with no hints supporting them are unworthy of investigation - that\'s......also mystery?
 Hidden doors, by definition, are hidden in a way that there can\'t be any clues.
 Would claiming that hidden doors therefore necessarily exist even if the detective can\'t find them...
-...be anti‐mystery?
+...be anti-mystery?
 .........That\'s enough of that.
 This argument is too far of a digression from the riddles I\'m actually supposed to be solving.
 My fight is very simple.
@@ -133,28 +133,28 @@ So I can\'t bring myself to have any particular interest in the rules known as t
  Your dad was the one who made them, after all."
 "Pay that no MIND.
  ......After all, there are some who say they are nothing more than mindless FUN."
-"The Decalogue feels like something very arrogant to you, right, Battler‐kun...?"
+"The Decalogue feels like something very arrogant to you, right, Battler-kun...?"
 "......To be honest, yeah.
  ......If there was ever a detective who said he didn\'t need to look for hidden doors because they must not exist,
  everyone should start looking around on the floor to see if some of his screws had come loose..."
 "In that case, Battler,
  ......let us say we did away with the third COMMANDMENT.
- In that case, what would happen to locked‐room MYSTERIES...?"
+ In that case, what would happen to locked-room MYSTERIES...?"
 ......What if Knox\'s third commandment, "hidden doors are forbidden", didn\'t exist...?
-".........You mean if hidden doors became OK to use as the solution to locked‐room mysteries?"
+".........You mean if hidden doors became OK to use as the solution to locked-room mysteries?"
 "I do not mean hidden doors with hints or FORESHADOWING.
  ...I mean hidden doors that even the detective cannot find because, of course, they are HIDDEN."
-"Battler‐kun, you often fight by using a Devil\'s Proof to propose an undiscoverable element X.
+"Battler-kun, you often fight by using a Devil\'s Proof to propose an undiscoverable element X.
  ......That\'s what this is about."
 "That\'d be horrible.
- Locked‐room mysteries would just unravel as stories."
+ Locked-room mysteries would just unravel as stories."
 That was another way of saying......that those kinds of stories would simply no longer work.
 No one would want to try solving the mystery in the first place if they knew the answer might just be an unforeseeable hidden door.
 "......If you aren\'t first given some guarantee that no hidden doors exist,
  you don\'t feel like trying to deduce anything.
  ............I see.
  Knox\'s third commandment is needed.
- ......Without it, locked‐room mysteries wouldn\'t even be worth anyone\'s time."
+ ......Without it, locked-room mysteries wouldn\'t even be worth anyone\'s time."
 "If you don\'t feel like trying to deduce anything...what does that mean...?"
 "It means you don\'t even feel like reading to begin with."
 "That is CORRECT.
@@ -182,7 +182,7 @@ Depending on whether or not a problem is guaranteed to be solvable,
 Come to mention it,
  ......maybe that really was the case.
 My fight against Beato began in earnest starting with the second game, I think.
-When Beato threw locked‐room mysteries at me, at first,
+When Beato threw locked-room mysteries at me, at first,
  I didn\'t seriously try to tackle them.
 After all, I knew nothing except that people had died in a locked room, and the windows and doors were all locked from the inside.
 ......I had basically no hints.
@@ -190,7 +190,7 @@ So I refused to debate, on the grounds that I couldn\'t fight because the lack o
 ......After that, Beato sneered at me, didn\'t she...
 asking whether I would repeat that over and over forever in an endless repetition of moves......
 At that time, Beato said this:
-— The reason you incompetent fools always stop thinking and then moan about it is "lack of information"!
+ -  The reason you incompetent fools always stop thinking and then moan about it is "lack of information"!
  If you are then given information, you start doubting whether the information is true or not by "denying the basis"!
  Aren\'t those convenient?
  What clever little words to hide your own incompetence.
@@ -205,9 +205,9 @@ Only after Beato had done all that for me did the curtain finally rise on my bat
 You could say that the red truth is a hint Beato gives me so that I\'ll agree to compete in this war of reasoning.
 ......It\'s a carrot.
 Being given a hint is like she\'s saying,
- “Go on.
+ "Go on.
  Try solving it.
- It is possible.”
+ It is possible."
 ......An enigma which is guaranteed to be solvable...
 ...can\'t be called a true "enigma".
 "Isn\'t this almost as though...
@@ -257,7 +257,7 @@ In that case,
  ......Though among fundamentalists of my father\'s work,
  it seems there are those who harshly criticize works which violate the Decalogue and call them HERESY..."
 There\'s no end of arguments like this in the mystery world.
-Is this or that famous detective novel a "fair" mystery—in other words, one that follows Knox\'s Ten Commandments?
+Is this or that famous detective novel a "fair" mystery - in other words, one that follows Knox\'s Ten Commandments?
 That sort of argument is already an eternal theme of the mystery world.
 In fact, in mystery discussions,
  arguments like these sometimes become more heated than talk about the actual solutions......
@@ -268,7 +268,7 @@ That\'s right.
 When fighting with the Decalogue, ......there\'s just one thing you want guaranteed from the beginning.
 And that is.........the guarantee that the detective novel will adhere to the Decalogue.
 If a work labels itself as an orthodox mystery, then you have nothing to worry about.
-However, the mystery genre contains many unorthodox sub‐genres within it.
+However, the mystery genre contains many unorthodox sub-genres within it.
 .........Does that mean that trying to use reasoning in an unorthodox detective novel...
 is a complete waste of time......?
 "......Looking at it that way,
@@ -300,9 +300,9 @@ Almost as though my question had touched at the core of something...
  ......Something Beato might have proposed thinking it is solvable...
 may or may not be something that is solvable for you as well."
 For example, let\'s say we pose a simple riddle that any Japanese person would be familiar with.
-......However, if the person we\'re telling this riddle to is a foreigner with a Japanese‐English dictionary in their hand,
+......However, if the person we\'re telling this riddle to is a foreigner with a Japanese-English dictionary in their hand,
  it might be almost impossible to solve.
-......In other words, it\'s possible to have a one‐sided "solvable problem",
+......In other words, it\'s possible to have a one-sided "solvable problem",
  which might be easy for the questioner but extremely difficult for the person trying to solve it...
 By the way, do you know of the foreign riddle:
  "Why do dragons sleep all day?"
@@ -316,8 +316,8 @@ It\'s a riddle from the English realm, so it might be a little tough for a Japan
 ".........What?"
 "
 Beato wanted you to solve it,
- so she created this game—
-and the riddles of this tale—to be solvable.
+ so she created this game - 
+and the riddles of this tale - to be solvable.
  That alone, I will guarantee with the red truth."
 It was...
 ...the one guarantee...
@@ -356,7 +356,7 @@ Both boys and girls......want to hear someone say "I love you" to them first wit
 That\'s the dream.
 ......They don\'t want to love another person...
 until they\'re sure that person will love them back.
-After all, there\'s nothing as painful as a one‐sided love,
+After all, there\'s nothing as painful as a one-sided love,
  ......and the emotional scars of a love that doesn\'t work out last a long time.
 Because they\'re afraid of that pain,
  ......more than anything else, they want assurance that the other person will love them back...
@@ -372,15 +372,15 @@ Until they are assured that they will definitely be able to solve the story if t
 Because they don\'t want to write what they consider a masterpiece and be hurt when no one reads it.
 Because they don\'t want to apply logic to what they consider a masterpiece and be hurt when they realize it was all useless.
 "By that argument...
-......it really isn\'t a stretch to say it\'s like love between shy elementary or middle school‐aged kids.
+......it really isn\'t a stretch to say it\'s like love between shy elementary or middle school-aged kids.
  ......Even though they are interested, they don\'t have the courage to reveal their feelings,
  so they wait uncomfortably for the other person to confess......and by the time summer ends, nothing\'s happened."
 "Heheh, sometimes they\'ll even hook up with a different person.
  That\'s what my first love was like, ihihi."
-Along with these one‐sided feelings they can\'t express, they lament the passage of a summer which will never come again, and the days of their youth end.
+Along with these one-sided feelings they can\'t express, they lament the passage of a summer which will never come again, and the days of their youth end.
 The writer who wouldn\'t write until he gained the support of readers...goes for all eternity without releasing his maiden work.
 The reader who waited for the writer\'s rise to fame...goes their whole life without knowing the joy of the mystery genre.
-"......Battler‐kun.
+"......Battler-kun.
  When does this "the chicken or the egg" type of shy love...
 reach the level where it progresses into mutual love......?"
 "Well, .........it\'s probably gradual over time.
@@ -406,7 +406,7 @@ reach the level where it progresses into mutual love......?"
 "......*giggle*.
  Though it doesn\'t look like anything more than a pair of elementary schoolers bullying each other to me...
  Heheheheh."
-VIRGILIA joked at us in a middle‐aged‐woman sort of way.
+VIRGILIA joked at us in a middle-aged-woman sort of way.
 Still, ......though I\'m not expecting friendship or a trusting relationship,
  ......I can accept her as a rival.
 Beato is fighting at full force, trying to make me acknowledge that she\'s a witch.
@@ -529,7 +529,7 @@ Dlanor\'s other subordinate appeared without a sound...and gave me an answer to 
 If this game is a fair battle between me and Beato...
 ......then because this tale is solvable,
  it features no elements which are impossible to explain with logic.
-In other words, magic cannot—must not—exist.
+In other words, magic cannot - must not - exist.
 When it does appear, I shouldn\'t suspect that the mystery element is breaking down,
  ......but I should instead question why it was shown and suspect the witnesses and observers.
 That\'s right,
@@ -550,7 +550,7 @@ In other words, the observer isn\'t God.
 Therefore, there\'s no guarantee that the descriptions are truly impartial.
 By the end of the first game,
  it had already been made clear that the text violated a constant premise of mystery stories:
- that they must be told from a God\'s‐eye view.
+ that they must be told from a God\'s-eye view.
 For that reason, it\'s possible to doubt not just the witnesses, but the observer as well.
 If I could\'ve doubted this much,
  ......then no matter how many seemingly unsolvable displays of magic appeared,
@@ -570,7 +570,7 @@ And the fact that I\'ve been given that...
 Unless I believe that the cruel witch took on the risk of losing to try and have a fair fight with me,
  ......I can\'t get past this part.
 ......VIRGILIA\'s right, ......it\'s just like love.
-If I can\'t believe that Beato is fighting me head‐on with everything she\'s got,
+If I can\'t believe that Beato is fighting me head-on with everything she\'s got,
  ......I won\'t be able to reason any further than this.
 .........Alright, ...I\'ll admit it.
 Unless I admit that we\'re "in love",
@@ -578,10 +578,10 @@ Unless I admit that we\'re "in love",
 When VIRGILIA ran out of patience with the two of us, shy and incapable as we were of admitting that out loud,
  she gave me that red truth instead.
 That was the red truth saying
- “
-Beato wanted me to solve the riddles of this game, so she created them to be solvable”.
+ "
+Beato wanted me to solve the riddles of this game, so she created them to be solvable".
 ......What the hell is that?
-It\'s like "Satou‐san in class A says he likes you~".
+It\'s like "Satou-san in class A says he likes you~".
 Like hearing a love confession via a friend...
 .........I really am...
 ......pitiful.
@@ -590,7 +590,7 @@ If we don\'t love each other,
  ......the logic won\'t open up.
 In that case, why can\'t we just say that we love each other?
 "If you think you can solve it, just you try.""You\'re incompetent, like hell you can solve it."
-......Yeah, according to George‐aniki, you call that sort of thing "tsundora".
+......Yeah, according to George-aniki, you call that sort of thing "tsundora".
 Heheh, that brutal witch is finally starting to look a bit cute.
 ......If I meet her again, I wanna try saying "You\'re such a tsundora".
 If I meet her again, ............somewhere...
@@ -642,8 +642,8 @@ Also, though we still had the usual crazy magic shows,
  she gave me the metaphor of the Braun tube trial, as well as tips on how to fight back.
 I finally understood how to fight,
  .........and at the end of the fourth game...
-......Beato managed to have the all‐out showdown with me that she had probably wanted most of all.
-......Then, Beato acknowledged that my abilities had become full‐fledged,
+......Beato managed to have the all-out showdown with me that she had probably wanted most of all.
+......Then, Beato acknowledged that my abilities had become full-fledged,
  .........and entrusted me with her heart,
  ...............entrusted me with explaining this tale, didn\'t she...
 In that case, ......it was really dumb of me to boycott most of the fifth game,
@@ -676,14 +676,14 @@ They\'re definitely there.
 It\'s something that has been repeated over and over again throughout the tale...
 ...persistently so.
 "......Without love,
- ......the truth...cannot be ‘seen’......"
+ ......the truth...cannot be \'seen\'......"
 Slowly, the tea room dissolved into darkness......
 Then, as though I was slowly sinking into a pitch black sea,
  .........I passed through the cracks of the long journey I\'d taken with Beato...
 ......and kept on falling and falling......
 It was a bizarre experience......
 like crossing over the boundary of sleep while still conscious.
-The several tales that had come before became faint bubbles—no, perhaps small shining fragments—
+The several tales that had come before became faint bubbles - no, perhaps small shining fragments - 
 that were scattered like stars in a pitch black sky.
 I kept sinking on and on...
 ...into that sea......
@@ -773,7 +773,7 @@ You resisted until the very end and kept on appealing to me......
 You...
 ......couldn\'t wait any longer...
 ......and it\'s all too late.........
-"Y‐.........
+"Y-.........
 ...............you idiooooot.........
  ......Why......did you give in...
 ......before meeeeeee..."
@@ -814,7 +814,7 @@ And because you did...I have now arrived at that miracle.
 But......your time...
 ...didn\'t last long enough............
 If I had reached this point even a little sooner...
-If I could have ‘seen’ the truth......!!
+If I could have \'seen\' the truth......!!
 Even if it had been right before time was up,
  .........I might...
 ......have been able to save you...!!
@@ -855,7 +855,7 @@ At that moment, ......it seemed as though a faint golden light...
 ...leaked out of the gaps in his clenched fist.
 The two witches had their backs turned,
  and Erika was laughing at Battler\'s corpse.
-"......What a disgrace you are, Battler‐san.
+"......What a disgrace you are, Battler-san.
  Your foolishness will be immortalized in this statue......
  ..................Huh......?"
 Just then, Battler\'s chest...
@@ -865,7 +865,7 @@ Just then, Battler\'s chest...
 That bright golden light.........began to change the red sword\'s color...
 ...turning it gold......
 "............What\'s going on......?"
-"B‐......Battler is......
+"B-......Battler is......
  ......What...
 ......is this......?!"
 "..................!"
@@ -887,17 +887,17 @@ Battler, crawling on the floor and moaning, grabbed the golden longsword...
 ......rose to his feet once again.
 "......This sure is an elaborate act.
  ...Is this one of your tricks, Lambda?"
-"Th‐
+"Th-
 .........that glow...
- ............I‐it can\'t be........."
-Lambda stared wide‐eyed at that bright golden glow in awe...
+ ............I-it can\'t be........."
+Lambda stared wide-eyed at that bright golden glow in awe...
 Noticing that Battler\'s resurrection wasn\'t part of a script Lambda had thought up,
  Bern also frowned slightly...
 "......Sorry. Retrials will not be permitted.
  Chiester Sisters, eliminate this resurrection illusion..."
 "Understood, ma\'am.
  45, 410, firing permission granted."
-"I‐......it\'s......unable to target!!
+"I-......it\'s......unable to target!!
  IFF error, code 999...!"
 ".........Whoa."
 "...Three Nines...?! Impossible...!"
@@ -913,7 +913,7 @@ The Chiester Sisters hesitated, unable to carry out BERNKASTEL\'s orders...
  ......Now it\'s time for my truth......"
 "I accept your request for a retrial.
  ......The coven retracts the adjournment of the Court of Illusions!!"
-"O‐objection.
+"O-objection.
  The trial has already been concluded and the verdict has been announced...!"
 "Objection overruled...!!
  All verdicts are overshadowed by new truths!!"
@@ -926,9 +926,9 @@ The Chiester Sisters hesitated, unable to carry out BERNKASTEL\'s orders...
  ......Ushiromiya Battler...!
  I acknowledge you as the new Golden Witch,
  ......no, .........as the new Endless Sorcerer, Ushiromiya Battler...!!!"
-"......Wh‐
+"......Wh-
 ...what did you say......?
- ......B‐
+ ......B-
 ......Battler got...
 ......the rank of a witch......?!"
 The rank of a witch, which she had desired for so long, had been granted to Battler so quickly.
@@ -942,12 +942,12 @@ Erika couldn\'t accept it, and her face turned bright red...
  The red truth you\'ve created with me is perfect...!
  The construction of truth which makes Natsuhi the culprit is perfect...!
  Battler will never be able to break it!"
-"O‐of course, my master...!!
+"O-of course, my master...!!
  There\'s no need to worry at all!
  Anyway, Chiester Sisters, my master ordered you to fire!
  How long is it going to take you to carry that order out?!"
-"E‐error code 999!
- A‐an access code is required to target the territory lord...!"
+"E-error code 999!
+ A-an access code is required to target the territory lord...!"
 ".........Nyeh.
  I told you he\'d do it nyeh."
 "Territory lord...?! Who is?!
@@ -1000,9 +1000,9 @@ I can construct a theory with someone other than Aunt Natsuhi as the culprit.
  ......If so, that means your truth won\'t be able to deny my new truth either......!"
 Battler spoke with the red truth allowed him by his status as a sorcerer.
 "A......a culprit other than Natsuhi...?!
- ...H‐......hah!! And how?!!
+ ...H-......hah!! And how?!!
  Dlanor!!
- Please entertain Battler‐san\'s delusional rambling...!!"
+ Please entertain Battler-san\'s delusional rambling...!!"
 ......Slowly, ......Dlanor stepped forwards.
 In her hand......was the red longsword of the Decalogue.
  She also had a blue shortsword.
@@ -1026,7 +1026,7 @@ Lady ERIKA\'s reasoning has solved the fifth GAME.
 "
 It\'s possible to present a different truth using a different interpretation!!
  When multiple truths exist in parallel, the authenticity of both is questioned!!"
-In this closed‐off world, it\'s possible for differing truths to exist at the same time.
+In this closed-off world, it\'s possible for differing truths to exist at the same time.
 Furthermore, as long as multiple truths exist, it\'s impossible to claim that any of the truths are the single truth.
 In other words, even if I can\'t overturn Erika\'s reasoning, by questioning its credibility...
 ......and conquering it, I can defeat it...!
@@ -1121,8 +1121,8 @@ The fierce shower of red was blocked by a magical barrier set up by Ronove, who 
 Now that Beato was gone, the demons shouldn\'t have been able to manifest themselves in the real world...
 However, ......he "existed" here,
  ......and calmly dealt with Erika\'s attack.
-"Y‐...you, ......Ronove!!
- H‐how did you get here...?!
+"Y-...you, ......Ronove!!
+ H-how did you get here...?!
  Well, who cares, this all works out nicely. Now there\'s no need to go looking for you.
  I\'ll capture you here and deny your existence too!!"
 ".........I\'ll leave it to you.
@@ -1138,7 +1138,7 @@ The red truth pronouncing them dead referred to what point in time, then, accord
 When this court was opened, Lady LAMBDADELTA made a proclamation.
  She said this was a 24:00 answer session!
 ......They were pronounced dead at 24:00 on the second day, in other words, at the end of the game.
- That does not deny the possibility that the murder occurred after the morning of the second day, after the so‐called "discovery of the crime"...!"
+ That does not deny the possibility that the murder occurred after the morning of the second day, after the so-called "discovery of the crime"...!"
 "Then, you\'re saying......that the victims were alive at that time?!
  Even though their necks were sliced open?!"
 "
@@ -1147,12 +1147,12 @@ Did you see that yourself, Miss Detective...?
  ......but it has never been said that there was a rule against describing something other than a corpse as a corpse."
 Erika swung her scythe recklessly,
  but Ronove blocked everything with elegant gestures made with the shield on one of his hands.
-"S‐......so, at that point in time, no one was dead?!
+"S-......so, at that point in time, no one was dead?!
  Are you telling me...there weren\'t even wounds on their necks?!
  But...in that case...why did Battler scream?!"
 "Never leave your feet unprotected, little girl.
 .........Ushiromiya Kinzo is already dead at the starting time for all games!"
-"Huh?! Ah—"
+"Huh?! Ah - "
 A pitch black hole opened beneath Erika\'s feet and swallowed her up.
 She could probably see through to the other side of the hole.
 ......It was the same thing you\'d see if you looked down through the skylight on the ceiling of this cathedral.
@@ -1195,7 +1195,7 @@ Therefore, the bodies couldn\'t have vanished after being discovered!!
  Your theory about Kinzo carrying the bodies away breaks down!"
 "AAAaaaaaarrggghhhhhhhghhh...!!!
  And so what?!
- Even without Kinzo, I can explain how......the corpses disa—......
+ Even without Kinzo, I can explain how......the corpses disa - ......
 ......nnngg, ......gaaaaaaaaaggghhh!!
  I...have to revise my theory......?!
  Nnnnnngggaaaaaaaaaarrrrggghh!!
@@ -1219,7 +1219,7 @@ And because of the willful silence of those two, she had been free to shape the 
 She never expected that Battler......would become a witch......a sorcerer,
  capable of using red without proof!!
 However, she had her own Inquisitor who could also use red without proof to counter!!
-"D‐Dlanoooooooooooorrrr!!!!"
+"D-Dlanoooooooooooorrrr!!!!"
 "
 Knox\'s 2nd!!
  It is forbidden for supernatural agencies to be employed as a detective TECHNIQUE!
@@ -1239,12 +1239,12 @@ Can you prove that this is Ushiromiya Kinzo\'s BODY?!
 "......Ooh.
  Any counter with the red truth will be invalid?
  That\'s novel."
-"It may be true that the existence of third‐party corpses has already been denied with the red.
+"It may be true that the existence of third-party corpses has already been denied with the red.
  However, if saying that in red is forbidden,
  ......*giggle*, Battler has nowhere to run to.
  Heheheheheheheheheh!"
 "That\'s right......
-In this closed‐off Rokkenjima, there is no objective way to show that this corpse is Grandfather\'s."
+In this closed-off Rokkenjima, there is no objective way to show that this corpse is Grandfather\'s."
 "
 And that itself suggests the possibility that this corpse is a body DOUBLE!
  This unidentifiable body cannot serve as proof of Kinzo\'s DEATH...!!"
@@ -1267,15 +1267,15 @@ Then,
 It was a direct hit......without any miscalculation.
 Though she had always seemed as firm as a small giant before now,
  she was finally blasted away and slammed against the wall as though she was the slender girl she appeared to be...!
-"D‐......Dlanor?! Wh‐what are you......"
+"D-......Dlanor?! Wh-what are you......"
 "......A splendid gold TRUTH.
  .........It is VALID."
-"......G‐......gold truth......?!"
+"......G-......gold truth......?!"
 The golden longsword, which had been drawing red and blue trails before now,
  finally drew a trail which retained its divine golden color.
 The truth it showed.........was neither red nor blue.
 .........It was gold...truth...!!!
-"Wh‐what is that...?
+"Wh-what is that...?
  Lambda, does this follow the rules?!"
 ".....................
  ......Yes.
@@ -1283,19 +1283,19 @@ The truth it showed.........was neither red nor blue.
  The gold truth...
 ......can only be used by the territory lord of this world...
 ...no, ......only by the Game Master himself!!"
-"Wh‐......what did you say............?"
+"Wh-......what did you say............?"
 "......Gold TRUTH.
  A divine truth woven in a different fashion than the red TRUTH.
  ......Its strength is on par with the red TRUTH.
  ......It may sometimes be INFERIOR.
  But it is sometimes SUPERIOR!!"
-"That brilliant shine......is the proof that Battler‐kun has truly understood Beato."
+"That brilliant shine......is the proof that Battler-kun has truly understood Beato."
 ".........I\'ve shown it.
  Shown that the corpse is Grandfather\'s."
 "YES.
  Gold truth, ......ACCEPTED.
  Unless Lady ERIKA\'s theory undergoes some revision, it will be DESTROYED...!"
-"Wh‐......what the......
+"Wh-......what the......
 ah, aaaaaaaaaaaaaaaaaaaaaaaaaaaaarrrghhh!!!"
 Erika cried out in pain.
  ......It wasn\'t the pain of her body being impaled.
@@ -1328,7 +1328,7 @@ Grandfather\'s absence has therefore been proven,
 "
 Aunt Natsuhi is pure and faithful!
  I won\'t permit this vulgar tale you\'re all so fond of!!"
-".........B‐.........Battler‐kun......!!"
+".........B-.........Battler-kun......!!"
 "
 Furthermore.
  Because doubts have been raised about the time of death for all who have died so far, the alibis for everyone besides Aunt Natsuhi are null and void...!!"
@@ -1384,7 +1384,7 @@ If someone still claims to have seen Grandfather, it becomes a "falsehood".
 Everyone is permitted the right to falsify their observations...
 ...but there is one person who does not have that right.
 And that person is...
-“the detective”...!!
+"the detective"...!!
 "
 Because of the right granted by Knox\'s 9th, everyone is allowed to mistake a sheet in the wind for something else and talk mistakenly about what they saw.
  ......However!
@@ -1420,12 +1420,12 @@ If it hadn\'t, Dlanor would probably have been annihilated without leaving a sin
 "I\'ve paid my debt.
  ......My respect goes to your father.
  ......The Decalogue was neither arrogant nor judgmental...!"
-"R‐......respect to...my FATHER........."
+"R-......respect to...my FATHER........."
 Dlanor......sat down on the floor...
 ...and completely abandoned her will to fight.
-"Wh‐......what are you doing, Dlanor?!!
+"Wh-......what are you doing, Dlanor?!!
  Shameful, pathetic!!
- You stupid half‐wit murder doll!!
+ You stupid half-wit murder doll!!
  You\'ve tainted the honor of your own father, shame on you!!
  You still call yourself mystery\'s wedges?!
  You\'re surrendering to magic?!
@@ -1434,7 +1434,7 @@ Dlanor......sat down on the floor...
 ...who doesn\'t understand a thing about mysteries.
  ......If you see mysteries as nothing more than a weapon with which to sneer at your opponent intellectually,
  ......I won\'t let you ever speak of them again!!"
-"......B‐.........Battleeeeeeeeeer......!!!"
+"......B-.........Battleeeeeeeeeer......!!!"
 "
 I present a truth that conflicts with yours!!
  Aunt Natsuhi was threatened by a phone call over the internal line made by the man from 19 years ago: me!"
@@ -1442,20 +1442,20 @@ I present a truth that conflicts with yours!!
 His goal was to make Aunt Natsuhi look like a murderer...!!
  From the beginning, this has all been a drama of revenge intent on framing Aunt Natsuhi...!!"
 "
-Th‐that\'s wrong, it\'s a drama of revenge against the Ushiromiya family planned by Natsuhi!!
+Th-that\'s wrong, it\'s a drama of revenge against the Ushiromiya family planned by Natsuhi!!
  Your theory outright opposes mine!!"
 "......Can you still not pull out the blue spear that\'s sticking through you?"
 "Yep, good point.
  Erika, you haven\'t given me a single way for the corpses to disappear that doesn\'t involve Kinzo.
  Your theory is being denied as I speak...tick tock!"
-"Th‐this spear is just...
+"Th-this spear is just...
 ............ugh, ......gaaaaahh......!!
  You paperweights...
 ...get out of my way.........!"
 ......The deeply piercing blue spear and the seven red stakes tormented her theory.
 They won\'t come out......... They won\'t come out.........!!
 "...............I acknowledge the mistakes in Erika\'s reasoning and the need for revision."
-"Wh‐......what the......my master?!?!"
+"Wh-......what the......my master?!?!"
 Watching Erika\'s face contort with pain as she struggled to escape from the spear,
  BERNKASTEL declared this with a disgusted expression.
 For all intents and purposes, ...it was as if BERNKASTEL had acknowledged Erika\'s defeat herself.
@@ -1469,7 +1469,7 @@ With eyes of shock and despair, Erika looked up at the master who no longer had 
  Who needs a piece, I should just get rid of it... Ahh, what a terrible regretful discouraging disappointing misguided mistake...!!
  ......Get on with it, you filth!!
  Didn\'t I tell you to revise your pathetic attempt at reasoning?!?!"
-"Ooh, ......agh...hh.........y‐yes, my master...!!
+"Ooh, ......agh...hh.........y-yes, my master...!!
  I\'ll revise it... I\'ll revise my theory...!!
  Uuuuuuughhuuuhhhuuuu......!!"
 As Erika\'s face twisted in humiliation and tears streamed from her eyes,
@@ -1500,7 +1500,7 @@ The wounded Dlanor stepped out before her, as though shielding her, and she spok
  No one can unilaterally deny them...!"
 "Yes, that is TRUE.
  ......I will not allow anyone to deny Lady ERIKA\'s TRUTH."
-"D‐......Dlanor........."
+"D-......Dlanor........."
 "As long as I am here,
  I will protect that TRUTH.
  ......No matter how shabby it might be, I will not laugh at that TRUTH."
@@ -1532,7 +1532,7 @@ because no unique truth exists, everything is covered in darkness.
  I\'ll weave the sixth game...!!"
 "Erika, let\'s settle things for good this time!!
  Stand up!!"
-"......Y‐......yes,
+"......Y-......yes,
  ......you bet I\'ll stand......
  ......You will rue...
 ...giving me a chance to recover from this humiliation......!!!
@@ -1547,8 +1547,8 @@ because no unique truth exists, everything is covered in darkness.
  ......In the sixth game, ...Battler\'s game,
  .........you had better expose the truth no matter what...
  Unless you want to be tossed aside into the darkness of oblivion!!"
-"Y‐yes, my master...!!!
- .........D‐......Dlanor..."
+"Y-yes, my master...!!!
+ .........D-......Dlanor..."
 "Of COURSE.
  I will give it my all in the next game as WELL."
 "Heh, ......heheheheheheh!!

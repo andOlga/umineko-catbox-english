@@ -17,7 +17,7 @@ Apparently, I wasn\'t the only one sitting in the audience seating of this vast 
 When I looked, I saw a girl sitting several seats off to my left.
 It was a face I had never seen before.
  ......I wondered who she was.
-She looked like a high‐schooler or a college student,
+She looked like a high-schooler or a college student,
  about the same age as I was.
 "...............nnn......"
 She groaned.
@@ -30,17 +30,17 @@ She jumped when she heard my greeting.
 "......Who on Earth are you?"
 "I feel the same way.
  ......It seems that neither of us is here of our own accord."
-"...............Is that...the One‐Winged Crest...?"
+"...............Is that...the One-Winged Crest...?"
 "Huh?
  ......Do you recognize this crest?"
-She looked suspiciously at the One‐Winged Crest emblazoned on my collar.
+She looked suspiciously at the One-Winged Crest emblazoned on my collar.
 Her stare, which was unmoving but not openly hostile, wasn\'t exactly pleasant for me.
 "Allow me to introduce myself first.
  ......I am Ushiromiya Lion."
-"Ushiromiya—huh?
+"Ushiromiya - huh?
  What?"
 "Lion.
- Written as "理御", but pronounced "Lee‐on".
+ Written as "理御", but pronounced "Lee-on".
  ......Pretty strange name, don\'t you think?"
 "......No stranger than mine.
  But I\'ll have to apologize.
@@ -54,7 +54,7 @@ Her stare, which was unmoving but not openly hostile, wasn\'t exactly pleasant f
  Do you have something to do with my family?"
 "I\'m a member of the Ushiromiya family."
 ".........But that\'s..."
-She showed me her left sleeve......and the crest of the One‐Winged Eagle emblazoned upon it.
+She showed me her left sleeve......and the crest of the One-Winged Eagle emblazoned upon it.
 "......I regret having to ask the same question, but who are you?
  I\'ve never seen you in the Ushiromiya family."
 ".................................
@@ -66,36 +66,36 @@ She spat out those words and seemed to be complaining about something.
  ......I\'m Ushiromiya Ange.
  Rudolf and Kyrie\'s daughter."
 "What?!
- A‐......Ange‐chan......?!
+ A-......Ange-chan......?!
  But you\'re supposed to be six years old......"
 "............I was six during the year of the final family conference on Rokkenjima.
  ......Now I get it.
  So, you\'re from the year 1986.
  I\'m eighteen.
  And I\'m from the year 1998."
-"I‐in other words, ......you\'re the Ange‐chan......of twelve years in the future......?"
+"I-in other words, ......you\'re the Ange-chan......of twelve years in the future......?"
 "I\'m glad you can wrap your head around it.
  But, unfortunately, I don\'t have a clue who you are.
  ......Who are you?
  Who are your parents?"
 "My father is Krauss.
  Natsuhi is my mother."
-"That would make you Jessica onee‐chan."
+"That would make you Jessica onee-chan."
 "Jessica is my little sister."
 "..............................
  ...What\'s going on?
- Wasn\'t Jessica onee‐chan an only child...?"
+ Wasn\'t Jessica onee-chan an only child...?"
 By this point, I was starting to figure out the situation this Ange had come from.
-......She\'s probably from the world where I awakened as a witch—the world where Lion doesn\'t exist.
+......She\'s probably from the world where I awakened as a witch - the world where Lion doesn\'t exist.
 "It will be a bit difficult to explain, ......but think of it this way.
  In a world slightly different from the one you know, I am also a member of the Ushiromiya family.
  In your world, a different fate leads me to walk a different path through life, so that I do not live as an Ushiromiya family member."
 "...............Are you...a witch......?"
 "Sorry to disappoint you, but I\'m just an ordinary human.
- ......What I just told you is something I heard from the witch called BERNKASTEL‐san."
+ ......What I just told you is something I heard from the witch called BERNKASTEL-san."
 ".........BERNKASTEL?
  That one with the long, blue hair and the gloomy face...?"
-"Y‐......yes.
+"Y-......yes.
  That probably describes her, I think......"
 ".........In other words,
  I\'m being forced to play along with another witch\'s farce.
@@ -129,8 +129,8 @@ She must realize that no amount of struggling will break these chains,
  ......I said I wanted to see my family, to bring them back from that day.
  In exchange for making that a possibility, that witch turned me into a witch\'s piece.
  .........At least the witch kept her promise.
- I was able to see Onii‐chan again."
-".........You mean Battler‐kun......?"
+ I was able to see Onii-chan again."
+".........You mean Battler-kun......?"
 "Well, I wasn\'t even able to tell him who I was.
  ......And, in exchange for that short bit of time, I\'m now trapped inside the witches\' toy box for all eternity.
  ......Looks like you are too.
@@ -147,7 +147,7 @@ She must realize that no amount of struggling will break these chains,
  Am I supposed to watch someone else read aloud this time, or what?!
  If that\'s it, then start it up.
  I\'m bored enough as it is!"
-Ange yelled this to the pitch‐black stage.
+Ange yelled this to the pitch-black stage.
 Her voice reverberated throughout the theater, but no one gave an answer......
 ......No, someone did.
  And that was also in a voice that rang out across the theater.
@@ -155,7 +155,7 @@ However, that voice sounded theatrical, as though someone was announcing the sta
 "What happened on that day, you ask?
  I\'m not telling.
  Why don\'t you just give up and die?!"
-".........W‐was that the voice of...?"
+".........W-was that the voice of...?"
 "That old hag.
  It was Aunt Eva\'s voice."
 "What does she mean by "what happened on that day"?"
@@ -191,7 +191,7 @@ The world was enveloped by a light so bright that we couldn\'t keep our eyes ope
 "*giggle*, I agree.
  We\'ve got to thank the people who take care of them for us."
 "But it is a bit lacking in grace.
- I prefer the way it used to be, before Nii‐san decided to meddle with it."
+ I prefer the way it used to be, before Nii-san decided to meddle with it."
 "The old ones did have their charm, didn\'t they?"
 "Uu!
  I love roses!
@@ -203,19 +203,19 @@ The world was enveloped by a light so bright that we couldn\'t keep our eyes ope
 "It has been a long time for you.
  Both you and this garden have changed so much."
 "Ah, let me introduce you!
- This is Kanon‐kun, one of our servants!
+ This is Kanon-kun, one of our servants!
  This is the first time you\'ve met Battler, right?"
 "......Pleased to meet you."
 "You can just call me Battler!
  Nice to meet you!"
 "Shannon\'s here too, today.
  Remember when we used to play together?"
-"Oh, Shannon‐chan!
+"Oh, Shannon-chan!
  I\'d totally forgotten... That really takes me back!
  How\'s she been doing?!"
 "She\'s blossomed into a beautiful young lady over the last six years.
  You should say hi to her later on."
-"Shannon and George onii‐chan are really good friends! Uu!"
+"Shannon and George onii-chan are really good friends! Uu!"
 "Maria, shhh!
  That\'s a secret!"
 "If you would, everyone, allow me to guide you to the guesthouse."
@@ -234,13 +234,13 @@ Where was the 20 billion yen\'s worth of gold hidden?
 What was the purpose of this letter? For what goal had it been written?
 Who on Earth was this BEATRICE?
 It was that tangled web of suspicion and paranoia that had been a constant in every game: .........the dinner of October 4th.
-"George‐kun.
+"George-kun.
  I\'m sorry, but could you take the others and go back to the guesthouse?
  My apologies."
 "......Shannon.
  Take the children to the guesthouse.
  We will move straight on to the family conference."
-"Y‐yes.
+"Y-yes.
  As you wish..."
 "BEATRICE, the Golden Witch......
  What a fascinating letter you\'ve sent us..."
@@ -313,7 +313,7 @@ However, at the very least, I do know who the culprit is...and what they were tr
 "I cannot imagine that any of our servants would do such a thing..."
 "......Or, maybe one of us sent the letter, pretending to be a servant."
 "If that\'s it, you\'re the most suspicious one.
- You schooled Maria‐chan on her part and made her read the letter, didn\'t you?"
+ You schooled Maria-chan on her part and made her read the letter, didn\'t you?"
 "I, I wouldn\'t do that...!"
 "Give that a rest, Eva.
  We can\'t jump to conclusions.
@@ -321,7 +321,7 @@ However, at the very least, I do know who the culprit is...and what they were tr
 "That\'s right.
  The aim of this strange letter is probably to disrupt our unity.
  The more we let it affect us, the more things go the way of this "BEATRICE" who sent it."
-"Kyrie‐san\'s right.
+"Kyrie-san\'s right.
  Wouldn\'t it be best to simply ignore a letter like that from the start?"
 "That is what I have been saying the whole time.
  This sort of prank is not worth considering!"
@@ -347,7 +347,7 @@ However, at the very least, I do know who the culprit is...and what they were tr
  ......Such an aggravating thing to do."
 "If it wasn\'t a servant, then one of us must have written it.
  I\'m not naming names, of course."
-"St‐stop it.
+"St-stop it.
  I really know nothing about this...!"
 "Settle down.
  Anyway, what this letter says does make a bit of sense.
@@ -383,19 +383,19 @@ Kyrie asked the room at large, and everyone wordlessly nodded back.
  There is no......"
 "Take it easy.
  Just think of it as a game.
- Let\'s have Gohda‐san bring us something cool to drink.
+ Let\'s have Gohda-san bring us something cool to drink.
  We can take a break and all play with riddles as a big, happy bunch of siblings for once."
 "Hmmm.
  Well, the night is long.
  It would be, at least, more productive than pointless inquiries regarding Father\'s health."
-"I\'ll ring up Gohda‐san.
+"I\'ll ring up Gohda-san.
  He can bring us something."
 "Some tea, snacks, and...
 ......oh, could you also ask him for a map of Taiwan?"
 Two figures could be seen in the rose garden arbor.
 ......It was George and Shannon\'s secret meeting.
 "I want you to take this ring."
-"G‐......George‐sama......"
+"G-......George-sama......"
 "I swear to love you all my life.
  ......Not just while we\'re young.
  I swear to love you and keep you happy until we grow old and go to our graves."
@@ -416,15 +416,15 @@ Two figures could be seen in the rose garden arbor.
 "Shhh!
  Why are you so damn loud?!
  Maria\'ll wake up...!"
-"Oh, r‐right.
+"Oh, r-right.
  So that\'s how it is, huh...
  Now that you mention it, they seemed to have a pretty good mood going on there.
  ......That\'s right, we\'re all about the age where you fall in love."
 "We\'ve changed a lot in the last six years.
- George nii‐san used to be a bit unreliable, but he isn\'t anymore."
+ George nii-san used to be a bit unreliable, but he isn\'t anymore."
 "That\'s what I thought.
- George‐aniki\'s got one of those "air of dignity" things around him."
-......But still, Shannon‐chan and George‐aniki.
+ George-aniki\'s got one of those "air of dignity" things around him."
+......But still, Shannon-chan and George-aniki.
  That\'s a bit unexpected.
 They played together often enough six years ago, but I didn\'t think they were that close.
 "......Well, six years is a long time."
@@ -436,10 +436,10 @@ They played together often enough six years ago, but I didn\'t think they were t
 Talking together like this, it felt as though we\'d been transported six years into the past.
 Those six years were so long that I forgot almost everything.
 And yet......it\'s coming back to me, bit by bit.
-.........Shannon‐chan...
+.........Shannon-chan...
 Six years ago, you were part of our group, and we played together a lot, didn\'t we...
-Back then, I think I might\'ve......liked Shannon‐chan.
-That was the age when we were all overly self‐conscious, in love with love.
+Back then, I think I might\'ve......liked Shannon-chan.
+That was the age when we were all overly self-conscious, in love with love.
 I recalled bittersweet memories of jokes involving melodramatic, flippant words.
 "......That takes me back.
  I think I remember saying all kinds of stuff that I\'d be way too embarrassed to say now.
@@ -447,14 +447,14 @@ I recalled bittersweet memories of jokes involving melodramatic, flippant words.
 "Hihihi.
  Shannon might be a scatterbrain, but her memory\'s incredible.
  Guess I\'ll just have to ask her all about your dark, embarrassing history."
-"Qu‐quit it.
+"Qu-quit it.
  That was six years ago, so give me a break...!"
 ......I see...
- So, Shannon‐chan is going out with George‐aniki...
+ So, Shannon-chan is going out with George-aniki...
 ..............................
 What am I thinking?
  Could this be...jealousy?
-I didn\'t really think about it until now, ...but that thing Shannon‐chan and I had back then...... That was probably my first love.
+I didn\'t really think about it until now, ...but that thing Shannon-chan and I had back then...... That was probably my first love.
 Well, it\'s not like I have any right to be jealous, after forgetting the whole thing until we met again.
 "Everyone knows that Dad\'s old home was Taishou in Taiwan."
 "Father still chews areca nuts from time to time in memory of Taiwan.
@@ -476,13 +476,13 @@ Well, it\'s not like I have any right to be jealous, after forgetting the whole 
  The more you think about this puzzle, the harder it seems."
 ".........That\'s it.
  This is just a silly puzzle.
- ......Kyrie‐san is right.
+ ......Kyrie-san is right.
  We need to be flexible in our thinking..."
 "If we\'re looking for a river near Taishou, .........that would have to be Tamsui River..."
 "Are you even listening?!
  We just said that it might not be the kind of river with water flowing down it!
  Is there any proof that that river is a sweetfish river?!"
-"Y‐you\'re right...... I, I\'m sorry..."
+"Y-you\'re right...... I, I\'m sorry..."
 "......Well, it probably did have sweetfish in it.
  I mean, it\'s literally called Freshwater River.
  Makes sense that a freshwater fish like sweetfish would be swimming in it."
@@ -529,13 +529,13 @@ It was.........a map of railway lines.
 "......As you travel down it, ......you will see a village......a village.
  .........!!
  There it is, the village!"
-"Wh‐......what are you talking about, Eva?
+"Wh-......what are you talking about, Eva?
  Explain yourself."
 "Quiet!!
  There\'s a shore too, and a mouth for "speak"...!
  I\'m not sure what it means by "the two", ......but there definitely is a village and a shore and a mouth...!!
  This is it... This is definitely the village where the key to the gold sleeps...!!"
-"C‐calm down...!
+"C-calm down...!
  Explain it so we can understand too!"
 "......The Tamsui Line?
  ......I see.
@@ -545,19 +545,19 @@ It was.........a map of railway lines.
  If we follow the Tamsui Line down, there\'s a station that used to be known as Kirigan!
  Look at the characters it\'s written with!!
  There\'s a village (里), a mouth (口), and a shore (岸)!!"
-"Sh‐she\'s right...!
+"Sh-she\'s right...!
  There\'s a village, mouth, and shore...!!"
 ".........As you travel down it, you will see a village.
  ......True, that\'s the only station on the Tamsui Line that has the character for village in its name."
 "I see, it\'s like a code pointing towards this station\'s name......"
 "This has to be it! There\'s no doubt...!!
  We just need to look a bit further, then we\'ll definitely find out what "the two speak of" means...!!
- ......L‐look!!
+ ......L-look!!
  This is it! This is it!"
 "The town near the station is also called Kirigan but with a mouth in the second character.
  ......That makes a total of two mouths in Kirigan.
  Is that "the two speak"...?"
-"I‐......incredible, Nee‐san.
+"I-......incredible, Nee-san.
  This has to be it......"
 "Does this mean that the key is hidden somewhere in this town of Kirigan...?"
 "I wonder.
@@ -565,7 +565,7 @@ It was.........a map of railway lines.
  If so, isn\'t it likely that the sleeping key is also a word game?"
 "I agree.
  On the first twilight, the key selects six sacrifices, right?
- So, it\'s hard to imagine that it\'s actually something key‐shaped...!"
+ So, it\'s hard to imagine that it\'s actually something key-shaped...!"
 "......Whoo.
  ......This is getting......damn interesting..."
 "Sacrifice the six chosen by the key.
@@ -577,42 +577,42 @@ It was.........a map of railway lines.
 "It\'s funny, isn\'t it?
  ......If I were alone, this kind of rain would get me down, but it feels nice and cool when you\'re by my side."
 "......It\'s about time for us to head back.
- I\'m keeping Kanon‐kun waiting."
+ I\'m keeping Kanon-kun waiting."
 "You\'re right.
- And I\'ve probably kept Jessica‐chan and Battler‐kun waiting."
+ And I\'ve probably kept Jessica-chan and Battler-kun waiting."
 "It brings back good memories.
  Remember when the four of us used to play together?
  ......It was a lot of fun back then too."
 "To me, it\'s a lot more fun now.
  Because I get you all to myself."
 "*giggle*.
- ......Oh, George‐sama."
+ ......Oh, George-sama."
 They laughed at George\'s melodramatic line.
  However, George\'s laugh seemed just slightly forced.
-"......George‐sama?"
+"......George-sama?"
 "Hm?
  ......Oh, I\'m sorry.
  .........Well,
- I guess I still have a bit of a complex about Battler‐kun."
+ I guess I still have a bit of a complex about Battler-kun."
 "A complex......?"
 "Like Uncle Rudolf, he\'s lively, interesting, and just full of energy.
  He\'s a much more charming person than I am.
  ......I can tell how much he outshines me when we\'re together."
 "That\'s not true.
  You\'re an accomplished and charming man.
- You aren\'t inferior to Battler‐sama in any way."
+ You aren\'t inferior to Battler-sama in any way."
 ".........Really?"
 "Yes.
  Really."
 "The truth is,
- ......when I heard that Battler‐kun would be coming back this year, ......I felt unhappy about it at first."
+ ......when I heard that Battler-kun would be coming back this year, ......I felt unhappy about it at first."
 "Why...?"
 ".........Six years ago,
- ......Battler‐kun was the one who was really close to you.
+ ......Battler-kun was the one who was really close to you.
  I wanted to get closer to you, but I just couldn\'t manage to get between the two of you.
  ......You two just looked made for each other, and all I could do was watch on longingly."
 "Is that how you remember it...?
- I don\'t really think we were "made for each other"...... It was just Battler‐sama teasing me......"
+ I don\'t really think we were "made for each other"...... It was just Battler-sama teasing me......"
 "......You two were the perfect couple.
  There\'s no doubt about it.
  ......I was sure that you two were going out."
@@ -621,11 +621,11 @@ They laughed at George\'s melodramatic line.
 ".........I really am pathetic.
  I was afraid that I\'d hand you this ring today and you\'d refuse."
 "Why is that?
- ......Why should I refuse your ring, George‐san?"
-"Because...Battler‐kun came back.
- I was afraid that, deep down, you might still like Battler‐kun...
+ ......Why should I refuse your ring, George-san?"
+"Because...Battler-kun came back.
+ I was afraid that, deep down, you might still like Battler-kun...
 ...and that, now that he was here, you wouldn\'t have any use for me."
-"............George‐san?
+"............George-san?
  Please, look at this.
  Do you see this silver glint on my ring finger?
  What do you think it is?"
@@ -636,7 +636,7 @@ They laughed at George\'s melodramatic line.
  ......How pathetic."
 "No, it\'s okay.
  Those feelings are a sign that your love for me is so strong, ......you don\'t want to give me up to anyone.
- ......If you\'re worried about my feelings switching to Battler‐sama,
+ ......If you\'re worried about my feelings switching to Battler-sama,
  please love me so strongly that the thought never enters my mind.
  ......Love me so much that I don\'t have time to think about any other man."
 "I\'m scared too.
@@ -645,20 +645,20 @@ They laughed at George\'s melodramatic line.
  It scares me to think that I might not be able to keep you to myself for the rest of our lives."
 "There\'s no need for you to be scared of that.
  I swear to uphold my love for you as long as I live."
-"And I swore the same thing, but you stopped taking my word for it when Battler‐sama came back."
+"And I swore the same thing, but you stopped taking my word for it when Battler-sama came back."
 As Shannon giggled,
  George finally realized that his own lack of confidence had hurt her...
-"......I\'ve won the heart of a wonderful man named Ushiromiya George‐san.
+"......I\'ve won the heart of a wonderful man named Ushiromiya George-san.
  And he has sworn to love me all his life and given me a ring as a sign of this oath.
  With this ring here on my ring finger, I\'m going to be honest with you."
 "Sure."
 "Yes, as you said,
- ......I did like Battler‐sama six years ago.
+ ......I did like Battler-sama six years ago.
  I think I probably liked him more than you."
 "However,
  that was six years ago.
  Now, things are different.
- In these six years, I\'ve sorted out my feelings for Battler‐sama and put them in the past along with the memories.
+ In these six years, I\'ve sorted out my feelings for Battler-sama and put them in the past along with the memories.
  Now, I exist only to love you."
 Shannon spoke clearly and strongly...
 George gave a single, uncertain laugh.
@@ -696,18 +696,18 @@ Rudolf tossed the "Q" down.
 It hit Krauss on the shoulder and landed in a puddle.
 "This is......a key!"
 "What does it mean?!
- Rudolf‐kun!
+ Rudolf-kun!
  Can you take out the other letters too?!"
 "......Yeah, looks like it.
  Guess our crazy theories were on the right track after all!
  What\'s the next letter to take out?!"
-"U‐ummm, "i"!
+"U-ummm, "i"!
  And then "l"!"
 Following her instructions, Rudolf removed the six letters of the first twilight...
 Now that they\'d gotten this far, ......nothing stood in the way of them solving the riddle.
 By trial and error, ......they finally reached the final stage.
 "It says to gouge starting from the head, which must mean going from left to right."
-"Rudolf‐san!
+"Rudolf-san!
  Starting from the left, turn the keys before taking them out!"
 "Got it...!"
 "Now we\'ve massacred all of the letters.
@@ -716,13 +716,13 @@ By trial and error, ......they finally reached the final stage.
  Did something happen?"
 "It felt like something clicked, but nothing\'s different.
  Maybe a hidden door or something opened up somewhere."
-"H‐hey!
+"H-hey!
  Look at that!
  It moved, I\'m sure it did!!"
 "...............?!
  Everyone, look!
  The lion statue\'s facing the other way...!"
-"Wh‐what is going on?
+"Wh-what is going on?
  Is there some secret inside the lion statue...?!"
 "......That\'s not it.
  It\'s probably telling us to look where the lion\'s pointing.
@@ -764,11 +764,11 @@ On the tenth twilight, the journey ends, and you shall reach the Home of the Gol
  I\'m going to open it."
 "Have we finally reached the gold......?"
 "It sounds too good to be true, ......but I\'m wishin\' it is."
-"Let\'s open it, Nee‐san."
+"Let\'s open it, Nee-san."
 "Right.
  Here goes."
 The heavy door......opened slowly......
-Then, the gold‐filled, underground VIP room showed itself......
+Then, the gold-filled, underground VIP room showed itself......
 They only had an instant to admire the splendid furnishings of the underground VIP room.
 As soon as the mountain of gold next to the canopy bed came into sight, they all froze, stunned.
 After a second, the stunned silence faded and was replaced by cries of astonishment and wild joy......
@@ -781,13 +781,13 @@ After a second, the stunned silence faded and was replaced by cries of astonishm
 "Uhhahahahahahahaha!!
  We did it! We did it!!
  We win this game!!"
-".........Y‐you mustn\'t touch it without permission!
+".........Y-you mustn\'t touch it without permission!
  This is Father\'s gold!!"
 "Oh, really?!
  Then why don\'t you call Father down here now!
  Right away!!
  Your little farce is long over!!"
-"Natsuhi nee‐san.
+"Natsuhi nee-san.
  Let\'s put an end to the obvious lies, shall we?
  This mountain of gold is as real as can be!
  Let\'s all be just as real with one another."
@@ -832,10 +832,10 @@ But I want to believe.
 That Clair\'s game has now come to one of its possible conclusions, even if it is the least eventful.
 ......Perhaps, just once at the end, she wanted to show us a world where no crime occurs.
 Having disappeared with no regrets,
- perhaps she left us a parting gift in the form of a game where no crime occurs—in a sense, the most peaceful sort of game.
+ perhaps she left us a parting gift in the form of a game where no crime occurs - in a sense, the most peaceful sort of game.
 I would like to believe that.
 ......If only these heavy, cold chains weren\'t holding us in place in this theater.
-"I‐is someone there?!?!"
+"I-is someone there?!?!"
 Rosa\'s shrill cry brought the celebrating to an immediate stop.
 Rosa knew she\'d seen it.
 The curtain against the wall had fluttered, and the shape of a person had been there behind it.
@@ -855,7 +855,7 @@ The others all looked at each other, wondering who should respond.
  Rudolf was the first to speak.
 "......So, you are BEATRICE."
 "Indeed."
-"A‐and you\'re the one who gave Maria that letter...?!"
+"A-and you\'re the one who gave Maria that letter...?!"
 "Indeed."
 "......Is Father behind this?"
 "No.
@@ -883,16 +883,16 @@ The witch picked up one of the lead bullets lying on the table and played with i
 "If...
 the night had ended before you managed to solve the epitaph\'s riddle,
  ......I planned to follow its instructions and commit thirteen murders."
-"Wh‐......what did you say......?"
+"Wh-......what did you say......?"
 "......That\'s what I thought when I first saw that epitaph.
  ......It almost looks like something you\'d find in a serial murder mystery novel.
  ......That\'s right.
  If you had killed thirteen people to match the epitaph, ......that would have made for quite a mysterious crime..."
-"Th‐there\'s no way you could do that all by yourself...!
+"Th-there\'s no way you could do that all by yourself...!
  No matter how many guns you have, killing thirteen people...that would just be...!!"
 "......My planning was meticulous and involved many different alternatives.
  I envisioned all of the actions you might take from tonight and through tomorrow...and prepared a mystery to deal with each of those.
- .........I\'m afraid I can no longer reveal them, but I had quite the number of intricate and entertaining locked‐room murders prepared."
+ .........I\'m afraid I can no longer reveal them, but I had quite the number of intricate and entertaining locked-room murders prepared."
 "You could probably have gunned a few of us down in our sleep.
  But there\'s no way you\'d have been able to kill thirteen of us...!
  We aren\'t that stupid."
@@ -955,7 +955,7 @@ The clock was large and had a dignified feel to it.
  and if he ever went broke, he was prepared to die in a blast that would wipe away everything including himself......?"
 "On this island, Ushiromiya Kinzo made a contract with the Golden Witch and obtained the gold.
  However, that was not all he gained."
-".........Wh‐what are you talking about...?"
+".........Wh-what are you talking about...?"
 "Wait, ......don\'t tell me......
  ........................"
 "There is that rumor about the remains of an old Japanese military base existing on Rokkenjima...
@@ -963,8 +963,8 @@ The clock was large and had a dignified feel to it.
 "Your guess is correct.
  ......Beneath this island sleep the remains of an underground Japanese military base from the time of the war.
  Along with nine hundred tons of explosives."
-"Ni‐......nine hundred tons?!
- Th‐that\'s unbelievable!
+"Ni-......nine hundred tons?!
+ Th-that\'s unbelievable!
  If that exploded, the result would be unimaginable!
  Forget just the mansion blowing up, it\'d leave a massive crater!!"
 "I believe an expert\'s estimate measured it as a hole several dozen meters deep and a kilometer across."
@@ -973,7 +973,7 @@ The clock was large and had a dignified feel to it.
  ......This switch I just flipped arms the mechanism."
 The witch toyed with a switch on the top of the antique clock.
 "......If midnight arrives while the switch is in this position, the explosives will detonate."
-"B‐but it\'s almost midnight now......"
+"B-but it\'s almost midnight now......"
 "In other words, it\'s not a time bomb that explodes a certain number of hours after you activate it.
  ......It\'s one that only explodes at the stroke of midnight."
 "Indeed.
@@ -989,10 +989,10 @@ As a trump card for this massive defensive maneuver, the navy started stockpilin
 And the Rokkenjima base was the location those were stockpiled at.
 The total weight of the buried explosives was nine hundred tons.
 Also, fearing that the Americans might find out the island\'s secrets and seize the explosives,
- they set up a system for the self‐destruction of the entire island......
-Kinzo, who knew about all of this, decided not only to keep this self‐destruct system active, but to connect it up to this strange clock that could cause the explosion any night at midnight.
+ they set up a system for the self-destruction of the entire island......
+Kinzo, who knew about all of this, decided not only to keep this self-destruct system active, but to connect it up to this strange clock that could cause the explosion any night at midnight.
 ......Kinzo is famous for building up his funds using a vast store of gold,
- and then using those funds in several sink‐or‐swim gambles, one after another.
+ and then using those funds in several sink-or-swim gambles, one after another.
 Just what did his stockpile of gold......and the nine hundred tons of sleeping explosives mean to him?
 At this point, we can only speculate.
  Perhaps the true source of Kinzo\'s mad power......wasn\'t the gold after all.
@@ -1009,7 +1009,7 @@ Perhaps Ushiromiya Kinzo\'s real study wasn\'t the one in the mansion,
 "For our Father, ......it wouldn\'t be unthinkable......"
 "This device now belongs to all of you.
  ......If you want a massive explosion, use it whenever you please."
-"A‐are you crazy...?!
+"A-are you crazy...?!
  Who\'d want a big explosion...?!!"
 "......These explosives are half a century old, right?
  Would they really go off?"
@@ -1051,7 +1051,7 @@ And now, this piece perfectly fit into the hole left by that strange feeling....
 "You are correct.
  ......You have ended this game in the best possible way, without there being even a single victim.
  ......I wish to convey my respect and admiration.
- Though it was a seven‐person effort, it took you only a single night to solve the riddle that took me a very long time to solve.
+ Though it was a seven-person effort, it took you only a single night to solve the riddle that took me a very long time to solve.
  .........That is worthy of praise."
 "I also admire you for your graciousness and honesty in defeat.
  .........We haven\'t decided how you will be dealt with, but I hope to do all I can to reach a gentlemanly agreement."
@@ -1092,7 +1092,7 @@ She grabbed at the sleeves of her dress and took out some sort of card.
 "True.
  There\'s nothing you couldn\'t do with that much money."
 "Very true.
- The strongest magic to counter the Humans\' anti‐magic toxin is this magic of gold.
+ The strongest magic to counter the Humans\' anti-magic toxin is this magic of gold.
  ......It may be that this card holds greater power than the ingots."
 "Certainly.
  Cash would be much more agreeable than ingots."
@@ -1120,7 +1120,7 @@ So, ......no one could bring themselves to take it.
  It\'s as though she thinks she\'s already won!
  ......I just had an idea, a second ago!!
  What if she\'s lying about which is the "off" side of the switch?!"
-"Wh‐what do you mean, Nee‐san...?"
+"Wh-what do you mean, Nee-san...?"
 "Just a second ago, this woman flipped the switch, saying she\'d turn off the bomb!
  But what if that actually armed the bomb?!
  We solved the riddle, so you turned the bomb\'s switch to "on", trying to blow us and everything else up, right?!"
@@ -1128,8 +1128,8 @@ So, ......no one could bring themselves to take it.
  ......If that is what you think, then please feel free to flip the switch on this clock.
  It will be midnight in one minute.
  ......The clock will show you the truth."
-"Wh‐......what did you say............?"
-"H‐hey, what\'re we supposed to do...?
+"Wh-......what did you say............?"
+"H-hey, what\'re we supposed to do...?
  Is the bomb set to "on" now?
  Or "off"?!"
 "I don\'t think she could be lying...!
@@ -1141,7 +1141,7 @@ So, ......no one could bring themselves to take it.
  She\'s tricking us to buy time!!
  She wants to buy time until midnight so that she can go down in flames along with us!!"
 "...................................."
-"Wh‐what about the switch itself?
+"Wh-what about the switch itself?
  Is there some way to tell if it\'s on or off...?"
 On the upper part of the antique clock was a metal switch that could slide right or left.
 Currently, it was set to the left.
@@ -1154,16 +1154,16 @@ However, there were no marks in particular on either side to indicate which side
  You really expect an honest answer from her?!
  It\'s the opposite... It has to be!!
  The right side has to be "off"!!"
-"W‐we don\'t have any more time, Nee‐san...!!"
+"W-we don\'t have any more time, Nee-san...!!"
 "Stop it, Eva!!
  Don\'t touch the switch!
  It\'s already off!!"
-"Eva‐san, take your hand off it!!"
+"Eva-san, take your hand off it!!"
 "I agree.
  It\'s "off" now.
  If she wanted to kill us with a bomb, she wouldn\'t have told us about it."
 "...............!!!
- B‐......BEATRICEEEEEEE...!!
+ B-......BEATRICEEEEEEE...!!
  Don\'t think you can trick me......!!!"
 "....................................
  ...Five,
@@ -1174,15 +1174,15 @@ October 4th ended, ......and the curtain rose on October 5th, 1986......
 The switch was still pointing to the left.
 ......The witch\'s words had been proven correct.
 "............Have I gained your trust now...?"
-"Y‐...............you bitch!"
-With a hideous, sweat‐covered expression, Eva snatched the cash card away from the witch\'s hand.
+"Y-...............you bitch!"
+With a hideous, sweat-covered expression, Eva snatched the cash card away from the witch\'s hand.
 "......How about a bankbook and seal?
  We can\'t withdraw anything with just a card!"
 "All you need is the PIN.
  It\'s eight digits long."
-"W‐wait a second!!
+"W-wait a second!!
  I\'m writing it down...!!"
-Eva and Kyrie both took out a pen and notepad and began writing the eight‐digit number the witch told them.
+Eva and Kyrie both took out a pen and notepad and began writing the eight-digit number the witch told them.
 ".........That is everything I have to tell you and give you.
  ......I will say nothing more.
  All of my tasks have been completed."
@@ -1201,7 +1201,7 @@ if it was piled up in a mountain so high you\'d have to look up to see the top?
 "Didn\'t we say that half of this pile would belong to me, and the other half would be split between the four of us?!"
 The yells of the people dancing around the gold reverberated throughout the underground room...
 In front of the pile of gold, they were arguing about how it should be split.
-"Could you have solved the riddle all by yourself, Nii‐san?
+"Could you have solved the riddle all by yourself, Nii-san?
  You couldn\'t have, could you?!
  The four of us siblings solved it together!
  Of course we\'ll split it in four equal parts!!"
@@ -1210,7 +1210,7 @@ In front of the pile of gold, they were arguing about how it should be split.
  How can you disregard that so easily...?!!"
 "You really think you\'re in a position to bargain?
  When you\'re the ones hiding Dad\'s death...?!!"
-"Th‐that\'s right, that\'s right...!!
+"Th-that\'s right, that\'s right...!!
  You\'ve been swindling us this whole time, treating Father\'s wealth as if it were your own...!"
 "All you need to do is split the gold evenly, and we\'ll drop all the rest.
  It sounds very fair to me."
@@ -1218,7 +1218,7 @@ In front of the pile of gold, they were arguing about how it should be split.
  Feel free to split this pile in four and carry your own shares home."
 "I hope you have pockets that can hold 2.5 tons of ingots...!
  It seems you\'ve all been driven mad by the gold and lost all ability to make rational judgments."
-"What do you mean by that, Krauss nii‐san?"
+"What do you mean by that, Krauss nii-san?"
 "Look at this ingot.
  As you can see, there are no official markings, just Father\'s crest.
  ......How do you intend to turn unmarked gold into cash?"
@@ -1237,7 +1237,7 @@ They would have to rely on Krauss to exchange the gold for cash.
 "Now you\'re finally seeing it.
  I apologize for hiding all of those things about Father.
  However, your position is not so strong that you can use them as leverage against me."
-"......Y‐you really think that little thing gives you the advantage?!?!"
+"......Y-you really think that little thing gives you the advantage?!?!"
 "What do you intend to do with that gun?
  Please, put that vicious thing away."
 Eva was gripping the gun so hard it looked like it might snap.
@@ -1291,22 +1291,22 @@ The sound of thick raindrops hitting the floor.
 ......There was no rain in this underground room.
 ......It was the sound of blood dripping down......from Natsuhi\'s right eye.
 The bullet had gone in through her right eye...towards the back of her head......
-"N‐.........Natsuhi.........?"
-"...I‐it\'s your fault...for jumping at me......"
+"N-.........Natsuhi.........?"
+"...I-it\'s your fault...for jumping at me......"
 The gun......which fell from Eva\'s grasp......landed on the floor with a hard metallic clang.
 As though in response to that sound, Natsuhi\'s head slowly turned to face the ceiling...
-"......Na‐.........Natsuhi......
+"......Na-.........Natsuhi......
  ......Natsuhiiiiiiiiiiiii!!!"
 Natsuhi flopped backwards.
 When the back of her head hit the floor, a red splash spread out beneath it, ......forming a single flower to adorn her dead face...
-"Natsuhi......nee‐san......"
-"Wh‐why did you shoot her?!
+"Natsuhi......nee-san......"
+"Wh-why did you shoot her?!
  Why did you shoot her, Eva?! Evaaaaaaaaaaaaaaaaaaaaa!!"
 Krauss howled, raised his gun, and ran at Eva.
 At the same time, Hideyoshi leapt between them.
  A scuffle broke out between the two men.
 "You killed Natsuhi, you killed Natsuhiiiiiiiiiiiii, nngaaaaaaaaaaaahhh!!"
-"K‐Krauss nii‐san, you\'ve got it wrong... You\'ve got it all wrong... It was...just an accident......!!"
+"K-Krauss nii-san, you\'ve got it wrong... You\'ve got it all wrong... It was...just an accident......!!"
 "Evaaaaaaaaaa, how could you?!!
  I\'ll kill you! I\'ll kill yooooooooou!!"
 "I, .........I didn\'t shoot her... I didn\'t...
@@ -1316,28 +1316,28 @@ He was so furious that, if he had knocked Hideyoshi aside and jumped at Eva, he 
 "Why did you kill her?! Why did you kill her?!
  Evaaaaaaaaaaaa!!"
 "It was an accident, ...an accident...!!
- Calm down, Krauss nii‐san...!!
+ Calm down, Krauss nii-san...!!
  ......Owowowowowow, .........nngggggggggghhhh......"
 Another explosion rang out.
 Hideyoshi\'s face was covered with blood.
 The two of them had been fighting over the gun Krauss held, trying to push it away from themselves.
 When the barrel had turned to point at Krauss\'s chin, .........the sneering, formless reaper, master of the room of gold, had swung its scythe once more.
 A line of blood......trickled from Krauss\'s mouth.
-"U‐......uwaaaaaaahh, ...hyaaaaaaaaaaahhh...!!"
+"U-......uwaaaaaaahh, ...hyaaaaaaaaaaahhh...!!"
 The two fell down, with Krauss\'s body on top of Hideyoshi.
 Letting out a cowardly cry, Hideyoshi backed away before Krauss\'s body could cover him...
-"H‐......honey...!!"
+"H-......honey...!!"
 "I didn\'t do anythin\'!!
- Krauss nii‐san\'s finger just got caught on the trigger...!
+ Krauss nii-san\'s finger just got caught on the trigger...!
  It\'s an accident, an accident I tell you...!!"
-"Th‐that\'s right, an accident...... This was all an accident......!!"
+"Th-that\'s right, an accident...... This was all an accident......!!"
 As the pair of them broke down sobbing and repeatedly claiming that it was all an accident, Rosa and the others were unable to say a thing......
 The witch also watched this scene, but said nothing, and appeared to be completely disinterested.
-"I‐......it wasn\'t our fault...!
+"I-......it wasn\'t our fault...!
  It\'s just an accident, an accident...!
  You saw, right?! Right? Right?!"
 "You saw that, didn\'t you, Rosa?!
- Krauss nii‐san and Natsuhi nee‐san both let their emotions get ahold of them and charged at us...!"
+ Krauss nii-san and Natsuhi nee-san both let their emotions get ahold of them and charged at us...!"
 "............Well,
  I can\'t say I\'m sure."
 "Stupid Rosa!!
@@ -1345,8 +1345,8 @@ The witch also watched this scene, but said nothing, and appeared to be complete
  You saw it from right there, so you must know!!"
 "I\'m sorry.
  I can\'t tell if it happened by accident...or if you killed them and tried to make it look like an accident."
-"R‐Rosa, you......!!!"
-"Rudolf‐kun...!
+"R-Rosa, you......!!!"
+"Rudolf-kun...!
  You saw!
  You know what happened, right?!
  Right?!"
@@ -1356,7 +1356,7 @@ The witch also watched this scene, but said nothing, and appeared to be complete
 Rosa\'s and Rudolf\'s gazes looked very cold and indifferent to Eva and her husband.
 "What are we going to do? They were shot to death...!
  We can\'t just write this off as an accident...!!"
-"Th‐the forest!
+"Th-the forest!
  We\'ll say they went to the forest and went missing! Then we can buy some time...!"
 "That won\'t get us off the hook, right?!
  The police will just search the whole forest!!
@@ -1374,7 +1374,7 @@ Rosa\'s and Rudolf\'s gazes looked very cold and indifferent to Eva and her husb
  .........I, I just thought of something..."
 Though Eva had been scratching at her head, overcome with emotion,
  ......her arms suddenly fell as though their strings had been cut.
-"Wh‐......what did you think of?"
+"Wh-......what did you think of?"
 "......An accident.
  ......We just need to make it look like an accident."
 "Don\'t talk stupid...!
@@ -1416,14 +1416,14 @@ They could make it look as though Krauss and Natsuhi had died in an explosion ac
  By chance, the rest of us will happen to be in the hidden mansion tomorrow night!
  Then, when the explosion accident occurs, we\'ll be lucky enough to survive!!
  That story should work!!"
-".........J‐just what sort of story are you planning on?
+".........J-just what sort of story are you planning on?
  ......What kind of story could explain how the two of them alone remained here,
  while the rest of us went to the hidden mansion and conveniently managed to escape...?!"
 "That\'s what we\'ve got to think up now, stupid Rosa!!!
  It doesn\'t matter what it is, as long as we all agree to it!!
  I\'ll think of something... I am thinking... You all think too!!
  Someone think of somethiiiiiiiiiiiing!!!"
-"C‐calm down, Eva...
+"C-calm down, Eva...
  I\'ll think about it, and so will everyone else!
  We\'ll definitely think of something, and it\'ll all work out!
  We\'ll share the burden. You won\'t have to carry it all yourself...!!
@@ -1437,21 +1437,21 @@ They could make it look as though Krauss and Natsuhi had died in an explosion ac
 "And thinking up that insane thing is our job!!
  Why are you acting like this has nothing to do with you?!
  You think of something too!!!"
-".........Nee‐san.
+".........Nee-san.
  Let me ask you a question.
  ......If you blow up the island, what will happen to this gold?"
-"Nnn, ......w‐.........well....................."
+"Nnn, ......w-.........well....................."
 "We\'ve finally gotten our hands on 20 billion yen of gold.
  And you want to blow it all away...?"
 "We can just carry it away, it\'s as simple as that!!
  The explosion will happen tomorrow at midnight!
  We have a full day!!
- If we all carry it together, we might—"
+ If we all carry it together, we might - "
 "You realize there\'s ten tons of it, right?
  ......We\'re a small group who can each shoulder a sack of rice in weight at best, and we only have a single day.
  Just how much do you think we can carry back and forth across this long underground passage that goes all the way across the island?
  You\'re being absurd."
-"H‐here!!
+"H-here!!
  We have this card!
  The card worth a billion yen which that woman gave us!!
  We can just carry whatever gold we can!
@@ -1459,30 +1459,30 @@ They could make it look as though Krauss and Natsuhi had died in an explosion ac
  If we split that three ways, we\'ll have more than 300 million each!
  That should be enough for all of our purposes!!"
 "No thanks."
-"Wh‐......what.........?"
+"Wh-......what.........?"
 "There\'s a mountain worth 20 billion yen right here.
  Why should I be satisfied with a measly 300 million?"
-"R‐......Rosaaaaa......"
+"R-......Rosaaaaa......"
 Eva\'s face twisted in anguish, ......and was met by Rosa\'s look of cold unconcern.
-"......Even if we factor in Krauss nii‐san\'s share,
+"......Even if we factor in Krauss nii-san\'s share,
  that gives us a rightful share of 5 billion yen each.
  Subtract the 300 million from the card, and the rest of my share is 4.7 billion.
  ......If you agree to pay that much to me, then you can do whatever you want with this mountain of gold."
 "What do you think you\'re saying?!
  So, you don\'t intend to cooperate?!"
-"Nee‐san.
+"Nee-san.
  Please calm down and listen.
  I\'m going to suggest to you the way that both of us can leave with the most money."
-"Wh‐what......?!?!"
+"Wh-what......?!?!"
 "I want you to go to the police and turn yourself in, admitting that you got into a scuffle and the gun went off."
-"A‐are you crazy?! I don\'t want to go to the police!!!"
+"A-are you crazy?! I don\'t want to go to the police!!!"
 "Of course, we don\'t want to say that the crime happened here.
  The police would find the gold.
  ......Yes, what about the rose garden?
  It\'s pouring rain now, so the police probably won\'t find any contradictions in the crime scene."
-"I\'ll let you think of an excuse for why you and Nii‐san started fighting while you were holding guns in the rainy rose garden.
+"I\'ll let you think of an excuse for why you and Nii-san started fighting while you were holding guns in the rainy rose garden.
  ......Don\'t try to get us and our shares involved just because you want to hide your crime."
-"R‐Rosaaaaaaaaaaaaaaaaaaaaa!!!"
+"R-Rosaaaaaaaaaaaaaaaaaaaaa!!!"
 "It\'s not so bad, right?
  It\'s not like they\'ll lock you up for decades.
  It was an accident, right? You\'ll be able to get out after just a few years.
@@ -1506,27 +1506,27 @@ What would happen if they were arrested?
 The life, the company, and the trust that Eva and her husband had worked so long to build...... Those were things that couldn\'t be bought back with money.
 So, she wanted to hide Krauss and Natsuhi\'s deaths, even if it meant blowing up all 4.7 billion yen worth of her gold...!
 But from Rosa\'s perspective, that was just irrational nonsense.
-"R‐Rosaaaaaaaaaaaaa!!"
-"What do you think you\'re doing with that gun, Nee‐san?
+"R-Rosaaaaaaaaaaaaa!!"
+"What do you think you\'re doing with that gun, Nee-san?
  ......Are you going to "misfire" and kill me too?
  That\'ll make finding an excuse even harder.
  In fact, it\'ll also make it harder to explain away the other two deaths as accidents too..."
 "If you end up linked to three deaths, that\'s a fairly huge crime.
  .........They\'ll seek the death penalty, most likely.
  And settle for a life sentence.
- At the very least, you\'ll be put away for a good ten‐plus years."
+ At the very least, you\'ll be put away for a good ten-plus years."
 "Give up and turn yourself in.
  If you do, this\'ll be no more than a pair of unfortunate accidents.
  Of course, your prison term won\'t be too terrible either.
- ......Don\'t worry about George‐kun.
+ ......Don\'t worry about George-kun.
  We\'ll take good care of him.
  And we\'ll make sure that all 5 billion of your share will be waiting for you when you get back."
 Eva ground her teeth and glared.
 The Rosa she knew should have been shaking and obeying her commands.
  And yet, ......Rosa wasn\'t scared.
-Her blank expression—
-no, that slight smile—was one that Eva had never seen before.
-"Put the gun down, Nee‐san.
+Her blank expression - 
+no, that slight smile - was one that Eva had never seen before.
+"Put the gun down, Nee-san.
  If you calm down, you\'ll see that my plan is the best one.
  ......Prison isn\'t so bad, right?
  Think of it as a financial strategy."
@@ -1536,26 +1536,26 @@ no, that slight smile—was one that Eva had never seen before.
 "Liar!!!
  You just want to make off with my share while I\'m in there!!
  Like your man did to you!!!"
-"H‐he has nothing to do with this, okay?!?!
+"H-he has nothing to do with this, okay?!?!
  I\'m not going to run off! I would never, ever run away with money!
  ...I, .......I would never do thaaaaat!!!"
-Rosa\'s once‐stony expression was filled with rage.
+Rosa\'s once-stony expression was filled with rage.
 The two howling people pointed their guns at each other, shouting insults at each other......
 You could smell the gold room\'s reaper slinking closer.
 The smell of gunpowder, the explosive smell of death, ......filled the room......
 Blorp.
 A bubble of blood dripped from Rosa\'s mouth.
 Then, ......she fell over lifelessly, ......like a mannequin.
-"......E‐......Eva......?!"
-"I‐......i‐it wasn\'t me!
+"......E-......Eva......?!"
+"I-......i-it wasn\'t me!
  I swear I didn\'t even pull the trigger?!"
-"............Eva nee‐san, you just shot Natsuhi‐san, so your gun wasn\'t loaded, right...?
+"............Eva nee-san, you just shot Natsuhi-san, so your gun wasn\'t loaded, right...?
  You never reloaded, so even if you pull the trigger, that gun wouldn\'t kill anyone.
  Have no fear."
-As Kyrie said this, she maneuvered the lever action with a practiced hand, and a smoke‐smelling shell casing was ejected...
+As Kyrie said this, she maneuvered the lever action with a practiced hand, and a smoke-smelling shell casing was ejected...
 It hit the floor with a small, metallic sound.
  That tiny sound had a disturbing ring to it...
-"Rosa‐san\'s analysis was a little naive.
+"Rosa-san\'s analysis was a little naive.
  ......Converting this many unmarked gold ingots into usable money...
  She has no idea how difficult that would be."
 ".........Dad just used it as show money to gain confidence, and even that was enough to create the rumor called the Legend of the Ushiromiya Gold.
@@ -1567,10 +1567,10 @@ It hit the floor with a small, metallic sound.
  We\'ll blow up this island and destroy all the evidence.
  If it\'s tough parting with the gold, feel free to grab a few ingots.
  The billion yen on the cash card is more than enough.
- ......In other words, Eva nee‐san, you\'re right."
+ ......In other words, Eva nee-san, you\'re right."
 "I, .........I\'m glad......
  ......It looks like we\'re on the same page......
- ...I‐if the police get involved, who knows what might happen?
+ ...I-if the police get involved, who knows what might happen?
  It\'s the same with cashing in the gold.
  It\'d just create more opportunities for word to get out somehow, it\'s more than we can handle...!!"
 "The billion yen that woman over there exchanged for cash is the only money we can get our hands on!
@@ -1587,39 +1587,39 @@ No matter what happened between now and midnight the next day, everything would 
 "......And you told me......to turn myself in?! Stupid Rosa...!
  You weren\'t satisfied with a measly 300 million?
  This is what you get for being too greedy......
- Y‐...you got nothing more than you deserved......"
-"But Kyrie‐san, ......there was no need to shoot her, right......?
- Even Rosa‐san would\'ve figured it out if you\'d just told her......"
+ Y-...you got nothing more than you deserved......"
+"But Kyrie-san, ......there was no need to shoot her, right......?
+ Even Rosa-san would\'ve figured it out if you\'d just told her......"
 "I did need to shoot her.
- After all, Rosa‐san\'s the only one who didn\'t fire her gun."
+ After all, Rosa-san\'s the only one who didn\'t fire her gun."
 ".........What does that matter...?"
-"The guns lying at your feet are Krauss nii‐san\'s and Eva nee‐san\'s.
+"The guns lying at your feet are Krauss nii-san\'s and Eva nee-san\'s.
  Both of those have been fired.
- However, Rosa‐san\'s gun can shoot if you just pull the trigger.
+ However, Rosa-san\'s gun can shoot if you just pull the trigger.
  It\'s hard to reload one of these if you aren\'t used to a lever action.
  An amateur couldn\'t do it."
-"Kyrie‐san, what are you talking about......?"
-"Y‐......you......!!"
+"Kyrie-san, what are you talking about......?"
+"Y-......you......!!"
 They finally realized what Kyrie meant.
-...“Rosa had the only gun that could still fire, so I shot her first”.
+..."Rosa had the only gun that could still fire, so I shot her first".
 Oh, how foolish we were... Why didn\'t we realize sooner?
 We should have realized that there\'s a mechanism for erasing everything that happens on this island...
 Eva and Hideyoshi hurried to pick up the guns that lay at their feet.
 At the same time, fire spat from Kyrie\'s gun once more.
-Hideyoshi let out a short scream, clutched at his chest, and fell over face‐down.
+Hideyoshi let out a short scream, clutched at his chest, and fell over face-down.
 "Honey?!
  Honey...!!"
-"......Ngh, ......what\'s wrong with this—"
+"......Ngh, ......what\'s wrong with this - "
 Eva fiddled with the lever action, trying to imitate something she vaguely remembered from old westerns,
- but something seemed to be caught, and the still‐open lever didn\'t budge.
+ but something seemed to be caught, and the still-open lever didn\'t budge.
 "See?
  It\'s pretty hard."
-"Y‐......you.........!!!"
+"Y-......you.........!!!"
 Kyrie finished reloading with a fluid motion.
 The way she held it was as innocent and sure as a kid playing with a squirt gun.
 With another heartless cry of gunfire, the puppet called Eva slumped down to the floor...
 as though all her strings had been cut......
-"......Rudolf‐san.
+"......Rudolf-san.
  The billion yen card."
 "Sure......"
 The cash card with a billion yen, which Eva had just grabbed from the witch.
@@ -1627,7 +1627,7 @@ That alone was worth more than enough.
 The 20 billion yen pile of gold had skewed everyone\'s sense of value.
 People could kill over a few million yen.
  And this was a billion.
-"Rosa‐san.
+"Rosa-san.
  Those were some famous last words there.
  "A measly 300 million"?
  ......You were too greedy."
@@ -1644,15 +1644,15 @@ As Rudolf walked up to Eva\'s body, he found the card lying beside it...and pick
 "Heheheh...!
  Sure you do..."
 "Thank you, Ms. Golden Witch.
- ......Rudolf‐san and I will make good use of this billion."
+ ......Rudolf-san and I will make good use of this billion."
 "................................."
-"Krauss nii‐san promised to treat you in a gentlemanly fashion.
+"Krauss nii-san promised to treat you in a gentlemanly fashion.
  But I haven\'t made any such promise."
 ......She pulled the trigger without a trace of mercy.
 When the ringing of the gunfire died down, ......blood trickled from the witch\'s mouth, and she fell over onto the bed.
 Once again, Kyrie ejected the used shell casing.
 The four metal sounds of used shells hitting the floor seemed to symbolize the fact that Rudolf and his wife now possessed all shares of the gold......
-"......All of them were really slow‐witted......
+"......All of them were really slow-witted......
  ......From the moment she explained about the bomb, the entire notion of playing nicely vanished from this island, and they failed to notice."
 "Sorry \'bout this, Aniki, Aneki, Rosa.
  ......What can I say, that\'s just how the cookie crumbles.
@@ -1664,7 +1664,7 @@ At the start, Rudolf and Kyrie hadn\'t planned to kill everyone and take everyth
 Kyrie had quickly realized by the size of the gun in her hands that it would probably hold five rounds at a time.
 .........Yes.
  Both Kyrie and Rudolf knew a lot about these guns.
-Rudolf, who had gotten his interest in old‐style western guns from his father, owned a shotgun of a similar design.
+Rudolf, who had gotten his interest in old-style western guns from his father, owned a shotgun of a similar design.
 Since Kyrie had the same skill at handling firearms, they both knew enough about these guns to enjoy shooting together...
 Including the witch, there had been eight people there.
  Six people besides the two of them.
@@ -1675,14 +1675,14 @@ Each gun held five rounds.
 That coincidental accident......had provided the missing bullet.
 It wasn\'t the second shot.
  The very first shot, which had accidentally killed Natsuhi, had guaranteed the result of this massacre...
-In this smoke and corpse‐filled room of gold, the two of them wore easygoing smiles, hardly any different from the ones they usually wore...
+In this smoke and corpse-filled room of gold, the two of them wore easygoing smiles, hardly any different from the ones they usually wore...
 "......So.
  What now?"
 Rudolf picked up Rosa\'s gun.
  Then, he fired a test shot at the wall and ejected the old shell with a smooth motion like Kyrie\'s.
 Kyrie went to the box of bullets on the table, casually picked up a few, and loaded them one after another into her gun.
 "Set the bomb switch to "on".
- Then, we just need to wait twenty‐four hours."
+ Then, we just need to wait twenty-four hours."
 "The others\'ll make a lot of noise when they realize everyone\'s missing in the morning."
 "Then we just need to shut them up."
 "Guess so.
@@ -1694,11 +1694,11 @@ Kyrie went to the box of bullets on the table, casually picked up a few, and loa
  He respects you, you know."
 "Then think of something clever that\'ll convince him.
  I\'ll worry about Ange.
- You worry about Battler‐kun.
+ You worry about Battler-kun.
  Fair enough?"
 "Nn, .........sure."
 "I may be kind to my own child,
- ......but it\'s quite a struggle for me to treat Asumu‐san\'s kid the same way.
+ ......but it\'s quite a struggle for me to treat Asumu-san\'s kid the same way.
  You understand, I hope?"
 ".............................."
 Kyrie\'s voice had grown cold.
@@ -1710,12 +1710,12 @@ Now that she had given birth to Ange and finally built up a new family,
 "Brace yourself.
  Now that we\'ve come this far,
  ......we can only go for the billion yen or die trying.
- If Battler‐kun is unconvinced, I\'m sorry, but I won\'t be taking any chances."
+ If Battler-kun is unconvinced, I\'m sorry, but I won\'t be taking any chances."
 ".........No need to threaten me.
  I\'ll take care of it.
  I\'ll find a good story to tell him."
 "Make sure you do a good job of it.
- ......If Ange hears that Battler‐kun has died in an accident, I\'m sure she\'ll be very sad."
+ ......If Ange hears that Battler-kun has died in an accident, I\'m sure she\'ll be very sad."
 "Sure......
  .....................
  ......How do we start?"
@@ -1732,18 +1732,18 @@ When he said "at this time of night", George and Jessica turned to look.
 According to the clock, it was past midnight.
 It might be a normal time to be told to brush their teeth and go to bed, but they couldn\'t understand what this "test" was all about.
 "Okay, I\'ll hand it over.
- .........Here, George‐aniki.
+ .........Here, George-aniki.
  It\'s my dad."
 "......Hello,
  this is George speaking."
-"Ah, hey, George‐kun.
+"Ah, hey, George-kun.
  Sorry to call so late.
  I\'ll bet I didn\'t wake you, though, right?
  You\'re all still up chatting away?"
 "Pretty much.
- Maria‐chan is sleeping, ......oh, wait, looks like she just woke up.
+ Maria-chan is sleeping, ......oh, wait, looks like she just woke up.
  So, what did you want to talk about?
- Battler‐kun said something about a test..."
+ Battler-kun said something about a test..."
 "Yep.
  Dad can be such a pain sometimes.
  He suddenly came down from his room.
@@ -1754,15 +1754,15 @@ It might be a normal time to be told to brush their teeth and go to bed, but the
  It\'s really shaken us up, having this forced on us all of a sudden.
  Aniki and the others are all arguing about it across the room.
  Maybe you can hear Aneki\'s shrill voice leaking through across the phone."
-"I‐......is that so?
+"I-......is that so?
  If that\'s what Grandfather says, then there\'s no way around it, I guess...
  In that case, what should we do?"
-"He says he wants to call you out one by one, starting with Jessica‐chan.
+"He says he wants to call you out one by one, starting with Jessica-chan.
  ......Oh, wait a sec.
  ...........................
  ......Okay, you still there?
- Looks like George‐kun and Jessica‐chan will be the first up to bat.
- He wants Jessica‐chan to go to the parlor in the mansion.
+ Looks like George-kun and Jessica-chan will be the first up to bat.
+ He wants Jessica-chan to go to the parlor in the mansion.
  You\'re supposed to go out by the chapel."
 "It\'s so sudden, I hardly feel ready......
  What sort of test is it?"
@@ -1790,11 +1790,11 @@ Why would two people be called to different places at the same time?
 "............Is that so?
  I see.
  Then I\'ll head towards the chapel.
- Jessica‐chan will go to the parlor.
+ Jessica-chan will go to the parlor.
  .........Okay.
  I\'ll see you in a bit, then."
 Just what sort of test, what sort of private conversation could Kinzo want to have at this time of night?
-However, it was a well‐known fact that Kinzo didn\'t have very long to live.
+However, it was a well-known fact that Kinzo didn\'t have very long to live.
 It was conceivable that he had some last words for each of his individual descendants...
 Inside George\'s mind, the faint feeling that something was wrong was replaced by curiosity...and a desire to meet Kinzo directly and hear the details.
 George set down the receiver and quickly explained to the others.
@@ -1812,9 +1812,9 @@ George set down the receiver and quickly explained to the others.
  ......We might as well accept it.
  It\'s the order of the head of the family, after all.
  Let\'s obey it.
- ......To start, Jessica‐chan and I are being called out.
+ ......To start, Jessica-chan and I are being called out.
  I\'m going to the chapel.
- Jessica‐chan, you\'re supposed to go to the parlor in the mansion."
+ Jessica-chan, you\'re supposed to go to the parlor in the mansion."
 "What about Maria and me?"
 "I think they\'ll call about you later.
  You can wait here."
@@ -1836,7 +1836,7 @@ Maria, who was now fully awake, seemed to be very excited about this unexpected 
  Now I can let one of you guys deal with it!"
 "I\'m gonna become the successor!
  I wanna do it!
- Uu‐uu‐uu!"
+ Uu-uu-uu!"
 "Ahaha.
  It\'d be fun to have Maria as the successor."
 "Bye.
@@ -1845,9 +1845,9 @@ Rudolf put down the receiver and stood up.
 "Okay.
  ......Guess I\'m going to the chapel.
  It\'s damn cold out there.
- ......Gohda‐san.
+ ......Gohda-san.
  Have some coffee waiting for me when I get back, will you?"
-Next to Rudolf, .........Gohda was lying face‐up.
+Next to Rudolf, .........Gohda was lying face-up.
 His face was covered by a crossword puzzle book.
 However, its pages were stained with blood, and there was no need to move the book to imagine how he had met his pitiful end...
 "How was it?
@@ -1857,8 +1857,8 @@ However, its pages were stained with blood, and there was no need to move the bo
  All we\'ve gotta do is say it\'s him being fickle, and no one thinks to doubt it."
 "*giggle*.
  Then, let\'s split up.
- ......I\'ll take care of Jessica‐chan.
- You take care of George‐kun."
+ ......I\'ll take care of Jessica-chan.
+ You take care of George-kun."
 "You got it.
  ......Let\'s get this over with quickly, then relax with some coffee."
 "There won\'t be any problems, yes?
@@ -1875,24 +1875,24 @@ Rudolf reflexively averted his gaze from the cold glint in her eyes, but then he
  .........We have a billion yen riding on this.
  I\'m a man.
  I\'m not going to miss a chance that\'ll never come again in my lifetime."
-"......I expected no less of you, Rudolf‐san.
+"......I expected no less of you, Rudolf-san.
  ......I love people who seize chances when they come.
  That\'s why I fell in love with you."
-"Th‐thanks......
+"Th-thanks......
  I\'m glad."
-"Rudolf‐san."
+"Rudolf-san."
 "What......?"
 "You will stay.........?"
 "Huh?
  What did you say?"
 "You will stay...
-......the same Rudolf‐san that I love, ......right?"
+......the same Rudolf-san that I love, ......right?"
 ".........Of course.
  When have I ever let you down?
  ......Instead of that, you should be worrying more about the kind of champagne we\'ll use to toast our victory."
 "I\'ll do that.
  ............Take care, now.
- If you really treasure Battler‐kun, don\'t kill George‐kun in front of the chapel, okay?
+ If you really treasure Battler-kun, don\'t kill George-kun in front of the chapel, okay?
  It\'ll be a pain if he finds the corpse."
 "......Yeah, I know.
  ......I\'ll lure him away somehow.
@@ -1911,7 +1911,7 @@ She hadn\'t been shot at all.
 She hadn\'t been playing dead.
  She really thought that she had been shot.
 When Kyrie\'s gun spat fire, Eva felt something swift and fierce scrape past her head...
-before feeling light‐headed and fainting.
+before feeling light-headed and fainting.
 Then, later on, she woke up in the now silent room of the gold.
 The corpse of her beloved husband lay beside her.
  Along with the corpses of Krauss, Natsuhi, and Rosa.
@@ -1968,7 +1968,7 @@ Does this mean that we aren\'t allowed to have a future where we all happily ret
  ......even if the epitaph is miraculously solved before the crime occurs...?
 There will be...absolutely...no miracles.
 ......I recalled those words, which I had heard in one of the fragments BERNKASTEL had shown me......
-"BERNKASTEL‐san......
+"BERNKASTEL-san......
  You showed me how wonderful my world was...
  ......I don\'t want to believe that you created this tale just to hurt Ange......"
 "......By now, even I realize that you\'re the Game Master here.
@@ -1998,12 +1998,12 @@ Kyrie closed the door behind her, revealing the gun that rested behind it.
  It\'ll be over soon."
 "I sure hope so."
 As she complained, Jessica turned her head around, and the tip of her nose bumped into cold metal.
-"............Huh—"
-"U‐Uncle Rudolf......?!
+"............Huh - "
+"U-Uncle Rudolf......?!
  What......are you doing......?"
 "Heheh.
  Just can\'t bring myself to shoot you in the back."
-"......C‐......careful, guns are dangerous.
+"......C-......careful, guns are dangerous.
  What on Earth are you doing...?!"
 "You really have to ask why someone\'d point a gun and pull the trigger?"
 Rudolf reloaded rapidly and pulled the trigger again without any sign of hesitation.
@@ -2012,7 +2012,7 @@ As the sound of gunfire thundered through the rain, George grabbed at his side a
 "That\'s weird.
  Looks like it shoots low.
  ......This gun\'s really got it bad."
-"S‐somebody......!!
+"S-somebody......!!
  Help me, ...Uncle Rudolf is......!!"
 George started stumbling away, still clutching at his side.
 His voice as he called for help was weak and thin.
@@ -2032,11 +2032,11 @@ After all,
  ......his own uncle...
 had told him that his grandfather was calling for him from the family conference.
  ......How could he have gotten suspicious......?
-"......Sorry \'bout this, George‐kun.
+"......Sorry \'bout this, George-kun.
  It hurts, doesn\'t it?
  If I knew it\'d be like this, it\'d have been more merciful to blow your brains out from behind.
  I thought it\'d be too cruel to finish you off before you knew what hit you, but it looks like I got it backwards."
-".........Wh‐
+".........Wh-
 ......why,
  Uncle Rudolf......?
  ......Why would...
@@ -2054,7 +2054,7 @@ The casing of the bullet that had pierced George\'s side fell heartlessly in fro
  Forget it all."
 Of course, George didn\'t have a clue what Rudolf was talking about.
 All he knew was that Rudolf wanted to kill him, and that he showed no trace of hesitation...
-......The image George had of Rudolf as the ideal cool, joke‐loving adult...
+......The image George had of Rudolf as the ideal cool, joke-loving adult...
 ...didn\'t match up with the Rudolf standing in front of him, holding a gun.
 No, maybe it didn\'t fit because it fit too well.
 Even though there was a gun in his hands,
@@ -2065,7 +2065,7 @@ Even though there was a gun in his hands,
 It made him feel unimaginably sad, ......and tears flowed from his eyes.
 "Ungh, ......uughh... ...Uncle Rudolf......
  ......I......admired you so much......"
-"Haven\'t I always told you, George‐kun?
+"Haven\'t I always told you, George-kun?
  ......To make sure you don\'t end up as an adult like me?
  Now you see.
  In the next world, make it your first priority to learn how to recognize a real bastard.
@@ -2077,7 +2077,7 @@ Biting down the pain in his side,
 At the same time, fire spat from Rudolf\'s gun.
 ......The bullet pierced George\'s chest.
 George twisted and fell as blood gushed from the wound.
-He moaned wordlessly, clenching blood‐stained teeth.
+He moaned wordlessly, clenching blood-stained teeth.
 The frigid gun was pressed harshly against his temple.
 "So long.
  ......Go become a great man in the next world.
@@ -2133,7 +2133,7 @@ A clang.
  A crack, a squish.
  ......A strange mixture of these sounds kept repeating over and over at the same tempo.
 ......Each time, a red splash landed on the nearby dangling tablecloth.
-"Jessica‐chan, .........are you listening......?"
+"Jessica-chan, .........are you listening......?"
 Kyrie asked this with the sort of smile any aunt might make to her niece.
 However, Jessica didn\'t answer.
 There was nothing particularly surprising about this.
@@ -2163,28 +2163,28 @@ When she got tired of smearing blood over the tablecloth, Kyrie walked over to t
 Then, she dialed the number for the cousins\' room in the guesthouse......
 ".........Hello.
  It\'s me.
- .........It\'s your turn now, Battler‐kun.
+ .........It\'s your turn now, Battler-kun.
  ......You\'re next to go to the front of the chapel.
  ............Yes, that\'s right.
- I haven\'t been given any instructions about Maria‐chan.
+ I haven\'t been given any instructions about Maria-chan.
  Have her wait there.
 .........*giggle*.
  Yes, take it seriously.
  ......I\'m rooting for you to be chosen as the successor."
-With the same smile as usual and the partly‐wiped splashes of blood still covering her face, ......Kyrie finished her call to Battler.
+With the same smile as usual and the partly-wiped splashes of blood still covering her face, ......Kyrie finished her call to Battler.
 When she set down the receiver, there was a small knock, and Rudolf came back into the room.
 ".........Whoa, what a mess."
-"Jessica‐chan has better reflexes than I gave her credit for.
+"Jessica-chan has better reflexes than I gave her credit for.
  I didn\'t expect her to knock the gun away when she did."
 "It\'s a bit of a shame she had to end up looking like this.
- ......What a waste of the good looks she got from Natsuhi nee‐san."
+ ......What a waste of the good looks she got from Natsuhi nee-san."
 "And how about your end?
  Did he give you much trouble?"
 "No problems there.
  Plain and simple."
 When Kyrie heard Rudolf\'s instant response, she favored him with an evil smile.
 Yes, the man she loved was the sort who could do whatever he put his mind to, without letting cheap emotions get in the way...
-"I love you, Rudolf‐san.
+"I love you, Rudolf-san.
  I wouldn\'t have it any other way."
 "It\'s hard to imagine an easier job to net you a billion yen.
  ......It\'s like Dad always said.
@@ -2194,13 +2194,13 @@ Yes, the man she loved was the sort who could do whatever he put his mind to, wi
 "What\'s next?
  My rifle is hungry for blood."
 "You\'ve got a big job coming up.
- Convincing Battler‐kun."
+ Convincing Battler-kun."
 "Ah, that\'s right.
  That\'ll be a pain.
  Hope I don\'t have to end it by pulling the trigger."
 "I\'m fond of it, you know.
  ......Our little family of three with Ange.
- ......But, if you really want Battler‐kun to join in on that, ......good luck."
+ ......But, if you really want Battler-kun to join in on that, ......good luck."
 "Sure.
  .........I\'m not gonna give him the room to argue back.
  Don\'t worry, I\'ve worked out a scenario to trick him good."
@@ -2208,19 +2208,19 @@ Yes, the man she loved was the sort who could do whatever he put his mind to, wi
  I do hope for Ange\'s beloved big brother not to get caught up in an explosion accident if it can be avoided."
 "I know.
  Alright, I\'m heading back to the chapel."
-"Rudolf‐san."
+"Rudolf-san."
 "What...?"
-".........If Battler‐kun doesn\'t buy it..."
+".........If Battler-kun doesn\'t buy it..."
 "...........................
  ......I know, I know.
  If it comes to that, bang."
-"Remember, Battler‐kun is the type to take action, so much so that he left the family out of protest when I married you.
+"Remember, Battler-kun is the type to take action, so much so that he left the family out of protest when I married you.
  ......If your story to him isn\'t airtight, and he starts questioning things later on,
  ......he\'ll prove fatal to us."
 "I know.
  Believe in me."
 ".........So...
-if I decide that Battler‐kun is the least bit suspicious,
+if I decide that Battler-kun is the least bit suspicious,
  ......I\'ll kill him myself.
  He\'s not my kid, after all."
 "......Yeah,
@@ -2238,7 +2238,7 @@ if I decide that Battler‐kun is the least bit suspicious,
  ......Sure, I promise."
 Kyrie shrugged and answered as she loaded bullets.
 "You go to the chapel.
- I\'ll wait until Battler‐kun has left, and then clean up everything inside the guesthouse."
+ I\'ll wait until Battler-kun has left, and then clean up everything inside the guesthouse."
 "Sure you\'ll be alright doing that alone?"
 "You worry about yourself."
 Battler left the guesthouse under an umbrella.
@@ -2247,7 +2247,7 @@ Not even half an hour had passed since the time George and Jessica had been call
  ......Apparently, this test didn\'t last too long.
 "......Damn geezer.
  You didn\'t even show up for lunch, and now you show up in the middle of a night with a test.
- ......I\'ll bet living as a shut‐in\'s got his sense of day and night all backwards."
+ ......I\'ll bet living as a shut-in\'s got his sense of day and night all backwards."
 Complaining all the way, Battler strolled off into the rain.
 Almost immediately, he was swallowed up by the darkness of the rose garden and passed out of sight......
 .........And then...
@@ -2299,25 +2299,25 @@ Her husband had been killed right in front of her.
  She probably wouldn\'t even hesitate.
 Realizing that a gun, quivering with anger, was pointed right at his chest, Rudolf backed away.
 As he pretended to back away, ......he approached the gun he had hidden in the shadows.
-"C‐calm down, Aneki......
+"C-calm down, Aneki......
  Put the gun down...
  ......I never wanted that to happen.
  Everything happened so fast. There was nothing I could do...!"
-"How can you say such half‐baked lies?!!"
-As Eva had said, it really had been a half‐baked, pointless thing to say.
+"How can you say such half-baked lies?!!"
+As Eva had said, it really had been a half-baked, pointless thing to say.
 Rudolf would have said anything if he thought it would calm Eva\'s emotions before she pulled the trigger, which she looked capable of doing at any moment now...
 ......Then, Rudolf\'s foot came in contact with his gun.
-"L‐let\'s just talk this over.
- ......George‐kun should be here soon.
+"L-let\'s just talk this over.
+ ......George-kun should be here soon.
  ......Oh.
- ...Hey, George‐kun, we\'re over here."
+ ...Hey, George-kun, we\'re over here."
 Rudolf waved, as though George was coming from behind Eva.
 Let Eva\'s attention turn in that direction......
 .........That idiot...
  My simple, big sister has always been a sucker.
 Die!!!
 Gunfire. 
-......Then, a bit later, the sound of something heavier than rain......drip‐dropping onto the cobblestone floor.
+......Then, a bit later, the sound of something heavier than rain......drip-dropping onto the cobblestone floor.
 "...............Agh,
  ..................nggg........."
 ".........Rudolf...
@@ -2341,7 +2341,7 @@ Eva dashed up to him, kicked away the gun that had fallen into a puddle, and gra
 "......Did it in the bushes over there.
  ......Go take a look.
  You\'ll see......"
-"...............R‐
+"...............R-
 ......Rudolf......
 ...you............"
 Eva, who said she had always been able to see through her little brother\'s tricks,
@@ -2363,7 +2363,7 @@ Eva dashed off towards the bushes.
  ......She found George\'s corpse almost immediately, screamed, and broke down sobbing.
 ......Rudolf\'s bloody corpse was exposed to the rain that ran down off the eaves.
 His eyes were still wide open.
- A ragged, fist‐sized hole had been torn open in the back of his head, ......exposing its contents to the open air.
+ A ragged, fist-sized hole had been torn open in the back of his head, ......exposing its contents to the open air.
 Inside was minced flesh and bright red jelly.
 That goop, which looked like someone had mixed it up with a spoon, dripped from his eyes, nose, ears, mouth, and the hole in his head......
 ".........Dad......Dad......
@@ -2372,7 +2372,7 @@ Ange clutched at her head, sobbing and moaning.
 Her father had dirtied his hands with murder over money, and on top of that, he had faced such a cruel end, and Ange had been forced to see his corpse.
  It was hard to imagine a more painful experience for a daughter to go through.
 ......I\'m totally fed up with this. It\'s completely meaningless.
-"BERNKASTEL‐san...!
+"BERNKASTEL-san...!
  I know you\'re here somewhere!
  Please, make this game stop...!!
  There\'s no point to it!"
@@ -2380,7 +2380,7 @@ As if in answer to that yell, ......a black shadow appeared a few seats in front
 Or perhaps she had been sitting there the whole time.
 Maybe we just couldn\'t see her until we realized she was there.
 It was, without a doubt, the back of BERNKASTEL\'s head.
-"BERNKASTEL‐san......!!"
+"BERNKASTEL-san......!!"
 "......Pipe down back there.
  Can\'t you watch the show quietly?"
 The witch turned around with bored eyes.
@@ -2391,7 +2391,7 @@ The games are like messages.
 Or maybe more like a roundabout love letter,
  conveying a single message over several games.
 But we already understand.
- We know that endless tales can seep out of the sealed, two‐day cat box.
+ We know that endless tales can seep out of the sealed, two-day cat box.
 And beyond that, I even know the culprit and the motive.
  That has already been revealed, and it has nothing to do with this game.
 "We both know the answer, that this is a cat box tale...!
@@ -2433,14 +2433,14 @@ The knife was stained with blood, and some was still dripping from the tip,
 Her hands were filled with tools of murder.
 So, she wasn\'t capable of doing anything but murder.
 In that sense, at this moment, she was nothing more than a pure and unadulterated murderer.
-......The murderer reached the front door, and then, finally, she looked down at her blood‐stained hands.
+......The murderer reached the front door, and then, finally, she looked down at her blood-stained hands.
 The hands that carried the tools of death with which she had performed her cruel massacre.
 At last, the murderer realized that she couldn\'t even open the door like this, and threw away the knife in her left hand...
 Then, she placed her hand on the door, turned around calmly, ......and spoke.
 "Sorry, everyone.
  ......But don\'t worry.
  In a few days, the newspapers will be talking about an unfortunate accident.
- ......And I\'m sure the news shows, newspapers, and all the rumor‐spreading people will say that you must have spent your time in happy ignorance until the instant of the accident.
+ ......And I\'m sure the news shows, newspapers, and all the rumor-spreading people will say that you must have spent your time in happy ignorance until the instant of the accident.
  ......In other words, that\'ll mean you all had a good time until midnight on October 5th."
 So said the one who had stained the guesthouse red.
 "At this hour, the cousins are all staying up late and playing around.
@@ -2463,13 +2463,13 @@ However, this time, it was no whim of hers......
 ".........How could you...
 ...kill my husband......?!!!"
 "Oh,
- ......Eva nee‐san.
+ ......Eva nee-san.
  .........That\'s surprising.
  How could I have missed you from that distance?"
 "I\'m just as surprised.
  I still can\'t believe I survived."
 "......You came here from the underground stairway behind the chapel, right?
- ......In that case—"
+ ......In that case - "
 "That\'s right.
  I bumped into Rudolf in front of the chapel!"
 "Did he look well?"
@@ -2477,7 +2477,7 @@ However, this time, it was no whim of hers......
  It\'s been a while since we siblings had a nice chat."
 ".....................
  ......I see.
- ......He\'s such a show‐off, but so unreliable in a tight spot.
+ ......He\'s such a show-off, but so unreliable in a tight spot.
  ......Looks like he\'s hopeless without me after all."
 Kyrie had already realized that Rudolf had been killed.
 However, no trace of urgency or panic rose to her face.
@@ -2493,7 +2493,7 @@ She just closed her eyes with her usual unconcerned expression,
  ......I\'m in the middle of a murder right now."
 "You killed them?!
  All of them?!!
- Even Maria‐chan...?!"
+ Even Maria-chan...?!"
 "There was no reason to let them live until morning.
  When morning came, there would be an uproar, and that could prove to be a pain.
  They might have used a wireless to contact someone off the island and gotten help.
@@ -2515,7 +2515,7 @@ She just closed her eyes with her usual unconcerned expression,
  .........If it weren\'t for that bit of good luck, and if I hadn\'t sprung into action before you did,
  ......then you would have played the same role I\'m playing now.
  That is a fact, a truth of an alternate future, and it won\'t go away no matter how much you try to deny it."
-"D‐don\'t try and confuse me!"
+"D-don\'t try and confuse me!"
 However, ......on the inside, Eva understood.
 Back then, she probably had been saved by that coincidental misfire.
 If the argument had continued much longer, she would surely have grown a desire to kill Krauss and the others, and might even have carried it out.
@@ -2534,8 +2534,8 @@ So, for some time, Eva could only grind her teeth in silence, still pointing her
 "Children are bonds...is what I mean."
 "What?!"
 "Children are bonds that can tie you to your husband.
- ......In my case, a bond to make Rudolf‐san acknowledge me, so I could take him back from that woman."
-"But you\'ve killed Rudolf‐san now.
+ ......In my case, a bond to make Rudolf-san acknowledge me, so I could take him back from that woman."
+"But you\'ve killed Rudolf-san now.
  So, .........you understand what that means, right?"
 "What do you mean...
 ...I understand?!"
@@ -2543,17 +2543,17 @@ So, for some time, Eva could only grind her teeth in silence, still pointing her
  I\'m no man\'s wife, so there\'s no need for me to be a mother.
  ......I am me.
  Kyrie.
- Now that Rudolf‐san\'s dead, I\'m not even an Ushiromiya anymore.
+ Now that Rudolf-san\'s dead, I\'m not even an Ushiromiya anymore.
  I live to benefit me."
 "Right, Rudolf is dead, so maybe you aren\'t a wife anymore.
- But you still have Ange‐chan, right...?!
+ But you still have Ange-chan, right...?!
  You\'re still a mother, aren\'t you...?!"
 "Didn\'t you hear what I just said about bonds?
- Now that Rudolf‐san is gone, Ange is of no use to me."
-"......Y‐
+ Now that Rudolf-san is gone, Ange is of no use to me."
+"......Y-
 ...you......
  How can any mother say that about her own daughter?!"
-"Eva nee‐san.
+"Eva nee-san.
  Let\'s put a stop to this.
  Stop pretending to be so noble."
 "Pretending...?!"
@@ -2566,29 +2566,29 @@ So, for some time, Eva could only grind her teeth in silence, still pointing her
 "Some people would have children for a reason like that."
 Kyrie kept on speaking emotionlessly, ignoring the falling rain......
 Her relaxed smile did not falter for an instant.
-"Ange was just a chain I used to tie Rudolf‐san to me.
+"Ange was just a chain I used to tie Rudolf-san to me.
  ......Or, you could call her a chess piece, someone to play the role of the kid in our family drama.
- ......To me, Ange was nothing more than a piece, necessary so that I could act the part of the good mother in front of Rudolf‐san."
-"......You... ...Could you say that to Ange‐chan\'s face?!"
+ ......To me, Ange was nothing more than a piece, necessary so that I could act the part of the good mother in front of Rudolf-san."
+"......You... ...Could you say that to Ange-chan\'s face?!"
 "Of course, that\'d be pointlessly cruel, so I won\'t say this to her directly.
  I plan to write her a letter asking her to forgive her bad mother, then vanish from her life.
- You\'ve seen what Rosa‐san and Maria‐chan are like, right?
- Now that Rudolf‐san\'s gone, Ange\'s just a chain tying me down."
+ You\'ve seen what Rosa-san and Maria-chan are like, right?
+ Now that Rudolf-san\'s gone, Ange\'s just a chain tying me down."
 "......I\'ll go back to being just Kyrie, and enjoy the rest of my life at my leisure.
  A new challenge, and a new life.
  And maybe even a new love.
  *giggle*............"
 "......And you call yourself human......
- ......You call yourself Ange‐chan\'s mother?!"
+ ......You call yourself Ange-chan\'s mother?!"
 "*giggle*giggle*.
  Who gives a damn about Ange?
  She\'s a little brat.
  I\'ve never once felt any affection for her."
-"......H‐......how can you......"
+"......H-......how can you......"
 "You\'ve been released from your family drama too, haven\'t you?
  Let\'s sing the praises of a woman\'s freedom.
- You should thank me for having George‐kun killed for you."
-"Y‐......you.........monsteeeeeeeeeer!!"
+ You should thank me for having George-kun killed for you."
+"Y-......you.........monsteeeeeeeeeer!!"
 "Ahhahhahahahahhaaahhhyahhahahahaaaaaaaaaaaahhhhh!!!"
 The two yells...and the sound of gunfire......thundered across the dark rose garden.
 ......Slowly, Eva fell backwards.
@@ -2608,7 +2608,7 @@ Eva hadn\'t been shot.
 Kyrie\'s intensity had made her fall backwards, ......but the bullet had once again only grazed her......
 Eva cursed her good luck.
 Why couldn\'t this luck have saved her husband or her son?
-"............Die there......for Ange‐chan\'s sake.
+"............Die there......for Ange-chan\'s sake.
  .........You\'ll be killed in the explosion accident.
  Until the moment of your death, you worried about the daughter you left behind.
  ......I\'ll carve that message...
@@ -2616,7 +2616,7 @@ into the lid of the cat box........."
 "......................................."
 When Kyrie heard this, ......blood dripped from her grinning mouth, and she seemed to say something in response.
 However, her voice came out only as globs of blood from the hole in her throat, not words......
-"M‐......
+"M-......
 Mom......
  ......Mom......
  ......Uwaaaaaa......!
@@ -2633,11 +2633,11 @@ I don\'t blame her.
  Even if she knows it\'s just a game, ......she\'s been forced to see not only her mother\'s death,
  ......but also her mother announcing that she was the culprit of a mass murder, who didn\'t even love her daughter.
  Anyone would sob after hearing that...
-"BERNKASTEL‐san!!
+"BERNKASTEL-san!!
  Enough of this!!
  I don\'t care who the Game Master is!!
  Stop this pointless game right now!!"
-When Lion yelled this, the theater suddenly went pitch‐black, swallowed in darkness.
+When Lion yelled this, the theater suddenly went pitch-black, swallowed in darkness.
 However, that wasn\'t enough to shock Lion.
 Lion continued to yell BERNKASTEL\'s name into the darkness, telling the witch to stop this game.
 Then, a single beam of light shone down upon the stage.
@@ -2656,7 +2656,7 @@ At the same time, though there appeared to be no one in the audience, a large ap
 "........................*giggle*."
 BERNKASTEL raised her right hand in response to the applause.
 She kept doing so until the applause died down......
-"BERNKASTEL‐san!!
+"BERNKASTEL-san!!
  So, ......you were the Master of this game after all...!!"
 "......Lion.
  How many times do I have to tell you that I\'m not the Game Master?"
@@ -2675,7 +2675,7 @@ She kept doing so until the applause died down......
  ......She\'s hiding it under a beautiful exterior, but she\'s actually packed full of guts."
 When BERNKASTEL raised her right hand, ......a light fell on it, and a black, shining scythe appeared there.
 It was a cold, merciless, and cruel object, like something a classic grim reaper might hold.
-"Wh‐......what are you planning to do.........?"
+"Wh-......what are you planning to do.........?"
 ".........When they\'re alive, you can enjoy watching them struggle.
  When they\'re dead, you can enjoy tearing out their guts.
  Tales are things you get to enjoy twice.
@@ -2709,13 +2709,13 @@ seem to have the wrong idea.
 "What don\'t we understand?!!"
 "Ange.
  You gambled everything on a faint chance of a miracle, throwing yourself forward.
- ......Out of respect for your courage, I invited you to the two‐day world of October 4th and 5th, 1986."
+ ......Out of respect for your courage, I invited you to the two-day world of October 4th and 5th, 1986."
 "......What was your goal?
  To take your family back.
  ......That would be a very difficult thing, and without the blessing of a miracle, a thoroughly impossible one.
  You were prepared for that, weren\'t you?"
 "Yes, I\'m prepared...!!
- And I still haven\'t given up on Onii‐chan, Mom, and Dad!"
+ And I still haven\'t given up on Onii-chan, Mom, and Dad!"
 "Whether you give up or not is your choice.
  That\'s your own game, after all.
  I won\'t support you, and I won\'t interfere either.
@@ -2792,7 +2792,7 @@ It was as though cracks had opened up all over her and blood was leaking out of 
 "What\'s that?
  You want me to announce it clearly with the red truth?
  Then I\'ll do that, just for you."
-"‘
+"\'
 This is all truth
 "NOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!"
 Ange\'s scream covered up Bern\'s red truth.
@@ -2813,10 +2813,10 @@ Ange\'s scream covered up Bern\'s red truth.
  Lies,
  ......lies......
 ...gyaaaaaaaaaaaaaaaaaaaaaaaahhhh........."
-"A‐Ange......!
+"A-Ange......!
  Ange......?!"
 As Ange held her head and screamed, the blood dripping from her finally grew so thick that it started scattering all over the place.
-Then, bit by bit, her body began to melt—no, to fall apart.
+Then, bit by bit, her body began to melt - no, to fall apart.
 Then, bits of her began to pile up on the chair, ......until she was nothing but a pile of guts and scraps......
 "Ahhahahahahahahahahahahah, aaaahhahahahahaaaaahhaahaha!!
  Is the truth really such a precious thing?
@@ -2896,13 +2896,13 @@ by bit...
 ...a splash of blood seeped into view.
 Then, right there, .........a corpse appeared.
 But, ......that couldn\'t be.........
-"Th‐
+"Th-
 ......this is......
-......m‐
+......m-
 ............me......?!"
 It was Lion, ......lying dead against the wall......
 Ushiromiya Lion\'s corpse lay there exposed......
-"Wh‐what\'s going on here......?
+"Wh-what\'s going on here......?
  Why am I here...?
  ......This is supposed to be Clair\'s world, not mine...!
  Clair and I can\'t exist at the same time, right...?!"
@@ -2957,7 +2957,7 @@ He was confident that no one would be able to solve this tough riddle, which he 
  So, I\'ll say it this way.
  ......Tonight, Kyrie will shoot you dead in the parlor."
 "That\'s............insane............
- It\'s—that\'s right, probability!"
+ It\'s - that\'s right, probability!"
 "Just like the miracle called Lion only has a slight probability of arising from Clair,
  Aunt Kyrie must only commit murder with a tiny probability close to zero!
  Aren\'t you the witch who specializes in finding extremely improbable worlds?!!"
@@ -2976,16 +2976,16 @@ He was confident that no one would be able to solve this tough riddle, which he 
  you live in the world as Clair, are toyed with by an inescapable fate, and meet with a tragic end.
  And, with a 1 out of 2,578,917 probability, you live as Ushiromiya Lion...
 and are killed by Kyrie tonight."
-".........In other words, your fate—no, the fate the two of you share—traps you in an inescapable dead end, a hell of fate, with a 2,578,917 out of 2,578,917 probability.
+".........In other words, your fate - no, the fate the two of you share - traps you in an inescapable dead end, a hell of fate, with a 2,578,917 out of 2,578,917 probability.
  .........To put it another way, it\'s a certain fate, with absolutely no chance for a miracle!"
 "*giggle*, eheheheheheheheheheh!!
  Too bad for you, Clair.
  No, BEATRICE."
-A bright light seemed to turn the world white—then, the next moment, they were back in the theater.
+A bright light seemed to turn the world white - then, the next moment, they were back in the theater.
 As Clair stood absolutely still on the stage, the tip of BERNKASTEL\'s reaper scythe traced a line across her stomach.
 A red line was drawn across her white skin, exposed now that the dress had been cut, and black blood began to seep out......
 "BEATRICE.
- Trapped in that inescapable, certain, locked‐away pair of days, you became a witch who could give birth to endless possibilities within that two‐day cat box.
+ Trapped in that inescapable, certain, locked-away pair of days, you became a witch who could give birth to endless possibilities within that two-day cat box.
  ......In exchange, it was absolutely certain that you would not be saved or rewarded."
 "However, you had a dream.
  ......You dreamed of Ushiromiya Lion.
@@ -3010,7 +3010,7 @@ However, the sky beyond the bars...
 "Ahhahahahahahahah, ahhahahahahaahahahahahahahaha!!
  So, Lion!
  Allow me to return you to your world, right before Beato\'s eyes!!"
-"It looks like the Witches of Theatergoing are all sick and tired of those happy family get‐together scenes.
+"It looks like the Witches of Theatergoing are all sick and tired of those happy family get-together scenes.
  So, I\'ll send you to the moment just before Kyrie shoots you!
  Then, I\'ll make sure Beato witnesses that moment!!"
 "Ahhahahahahahhahhahhahaha!!
@@ -3026,14 +3026,14 @@ Heartlessly, ruthlessly, brutally, ......she swung the enormous blade buried in 
 .........Along a vertical line from Clair\'s stomach to her chest,
  ......the blade cut deeply,
  .........slicing Clair open.
-Her red‐black innards...
+Her red-black innards...
 ...jutted out...
 ...and then, like a dam breaking, they burst out of her stomach, covering the world with dark red entrails......
-"S‐steal the Italians\' gold, you say?
+"S-steal the Italians\' gold, you say?
  You coward, Ushiromiya! And you call yourself a soldier of the Empire?!!"
-".........F‐Father......?
+".........F-Father......?
  I, I do love and respect you, Father......
- B‐but......your feelings are something I, ummm......"
+ B-but......your feelings are something I, ummm......"
 "Why...?!!
  Why did you save me?!
  Why didn\'t you let me die?!
@@ -3047,19 +3047,19 @@ Her red‐black innards...
  Furniture...!!
  Why, .........why didn\'t you let me die back then?!!
  Aaaaaaaaaaaaaaaahhhh......!!!"
-"..................Huh—"
+"..................Huh - "
 When I came to,
  ......I was in the parlor of the mansion.
 When did I get here?
 ......I heard a sound behind me, then slowly turned around......
 And there...............
 "Sorry. Please don\'t take this personally."
-"..................Huh—"
+"..................Huh - "
 I could see down the frigid barrel of the gun Aunt Kyrie was pointing.
 Then...
 ......slowly...
 ......she pulled the trigger......
-I could feel a razor‐sharp wind pass through my body like a knife slicing through butter.
+I could feel a razor-sharp wind pass through my body like a knife slicing through butter.
 ......Prepared for death, and hoping to see my fate until the end, I slowly opened my eyes...
 .........The world had been cut in two.
 Kyrie was frozen in place like a statue, still pointing her gun with a cold smile on her face...
@@ -3070,9 +3070,9 @@ It wasn\'t just Kyrie.
  The whole world had been sliced in half at an angle, and was slowly sliding off to one side.
 Fissures seemed to appear across the world, and before I had any time to process it, the world shattered.
 "..................?!
- ......Y‐......you......!"
+ ......Y-......you......!"
 "......When you own a cat, you tend to pick up their habits."
-He pointed at BERNKASTEL with the tip of the pitch‐black sword that had sliced the world, glaring at her.
+He pointed at BERNKASTEL with the tip of the pitch-black sword that had sliced the world, glaring at her.
 "*giggle*giggle*......
  ......What\'s this?
  Are you saying you came back here on a whim...?"
@@ -3105,7 +3105,7 @@ When Will tried to pick Lion up, he finally noticed the chains attached to each 
  Lion needs to cough up blood, despairing at the fact that there is no hope in any of the many worlds.
  We\'re all here to watch Lion die in agony and despair."
 "Lion isn\'t a show."
-Will swung his pitch‐black sword and destroyed the chains binding Lion.
+Will swung his pitch-black sword and destroyed the chains binding Lion.
 The chains and shackles shattered into little bits like glass...then vanished.
 "You intend to get in the way of my fun......?"
 "You aren\'t God.
@@ -3133,7 +3133,7 @@ The number of jewels surrounding them already reached into the thousands.
 Will pointed his sword in one direction after another, warding off the surrounding cats......
 "Get a grip, Lion.
  You haven\'t been shot.
- Don\'t accept that you\'ve been—no, don\'t accept that you\'re going to be shot...!"
+ Don\'t accept that you\'ve been - no, don\'t accept that you\'re going to be shot...!"
 "...........................nngggghhh......"
 Lion tried to fight an incredible tearing pain.
 No, ......it was a fight against the promised future that BERNKASTEL had shown.
@@ -3162,7 +3162,7 @@ Bit by bit, and yet unceasingly, it continued to pierce Lion\'s chest......
  You can\'t give up, and you can\'t complain.
  Just you try complaining one more time.
  I\'ll be the one pinching your ass...!"
-"............O‐.........okay......"
+"............O-.........okay......"
 "*giggle*giggle*.
  Ahhahahahahhahhahhahhahha!!
  How very confident you are, telling this kid to be a miracle when you stand before the Witch of Miracles...!
@@ -3194,9 +3194,9 @@ Lion, realizing that this was the opening Will had planned to make, ran all out,
 "Huh?"
 Before Lion could ask Will to repeat what he had said, Will had already leapt onto the stage and was now confronting BERNKASTEL.
 It was like the climax of a show.
- ......Loud cheers erupted from the pitch‐black audience seating.
+ ......Loud cheers erupted from the pitch-black audience seating.
 On either side of Clair, who lay with her insides exposed,
- ......stood Will, with his pitch‐black sword, and BERNKASTEL, with the scythe that could harvest miracles from fate.
+ ......stood Will, with his pitch-black sword, and BERNKASTEL, with the scythe that could harvest miracles from fate.
 "Kyrie and Rudolf are the culprits, and they massacred the people on the island?
  They called Lion out to the parlor, then shot Lion to death?
  Sorry, but the concept of mysteries rejects this "truth" of yours.
@@ -3261,7 +3261,7 @@ Lion finally...
 ...and fell over......
 Lion\'s body was held roughly from behind and lifted up.
 "............!!
- ......W‐......Will......!!
+ ......W-......Will......!!
  You\'re okay.........!"
 "No, not really.
  ......Don\'t give up. Didn\'t I tell you I\'d pinch your ass?"
@@ -3273,7 +3273,7 @@ Lion\'s body was held roughly from behind and lifted up.
  All humans are fated to die in the end.
  Does that mean their lives are meaningless?"
 "Of course not.
- What a person\'s life means, what it\'s worth, what it is—these are things a person decides for themselves.
+ What a person\'s life means, what it\'s worth, what it is - these are things a person decides for themselves.
  ......So what if a fate\'s been forced upon you?
  Don\'t accept it.
  Create your own world...for yourself...!"
@@ -3281,11 +3281,11 @@ Lion\'s body was held roughly from behind and lifted up.
 "Ah, right...... Must have forgotten it.
  It\'d be a pain to go back and get it now."
 There were rips all over Will\'s body.
-Also, his left arm had been brutally torn off from the elbow, his clothes were in tatters, ......and he looked like a blood‐stained scarecrow...
+Also, his left arm had been brutally torn off from the elbow, his clothes were in tatters, ......and he looked like a blood-stained scarecrow...
 Then, Lion noticed.
 Though this place had once felt like a sea filled with stars, both above and below them,
  ......those stars had now gathered together and were surrounding them...
-That huge number of stars, grouped in even‐numbered clusters, all glared at the two of them...
+That huge number of stars, grouped in even-numbered clusters, all glared at the two of them...
 Will was holding Lion with one arm.
  He couldn\'t take his sword out.
 However, he didn\'t let go.
@@ -3336,5 +3336,5 @@ As he said this, Will held Lion tight.
  I won\'t tell you to kill them.
  There are no more scenes for these two pieces... Put them away."
 A billion, a trillion, a quadrillion cats all bared their fangs.
-In the starry sky of cat eyes, countless flesh‐colored mouths opened, exposing countless teeth.
+In the starry sky of cat eyes, countless flesh-colored mouths opened, exposing countless teeth.
 ......The world was wrapped in flesh and blood and fangs.

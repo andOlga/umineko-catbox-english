@@ -47,12 +47,12 @@ Rudolf\'s group searched for the source of the smell, and determined that it was
 But the door was locked, and they couldn\'t check inside.
 Meanwhile, Natsuhi\'s group were on their way to search for someone in the servant room, when they noticed something strange about the parlor.
 "......What is this...?!"
-"Wh‐what a horrible prank...
+"Wh-what a horrible prank...
  Who would do something like..."
 Drawn on the door to the parlor, in a paint that reminded one of blood, there was a strange...
-magic‐circle‐like thing.
+magic-circle-like thing.
 "No one has come to the kitchen yet.
- ......Wh‐what is...that?"
+ ......Wh-what is...that?"
 Eva\'s group, who had thought the smell had been coming from the kitchen,
  had returned, having observed that no one was there and that preparations for breakfast had not yet begun.
 ......And they noticed the unusual state of the parlor.
@@ -66,7 +66,7 @@ Eva\'s group, who had thought the smell had been coming from the kitchen,
  This creepy graffiti isn\'t just here, it\'s in other places as well?!
  Haha, you don\'t think that this is the witch of the forest BEATRICE\'s declaration of war, right?"
 Hideyoshi tried to make fun of it, but staring at this creepy magic circle while listening to the wind and rain really made it seem like it was a message from a witch.
-...The dripping bright‐red paint made one think of blood, and it made things even more eerie.
+...The dripping bright-red paint made one think of blood, and it made things even more eerie.
 Hideyoshi tried to open the door, but it was locked.
 ...As a general rule, the parlor was never locked.
 Someone had gone out of their way to lock it.
@@ -77,12 +77,12 @@ Someone had gone out of their way to lock it.
  We were together the whole time.
  We all have alibis.
  ......They probably did this prank on some strange orders from Father."
-".........Considering the incident yesterday with Maria‐chan\'s letter,
+".........Considering the incident yesterday with Maria-chan\'s letter,
  it\'s more than possible to suspect that the servants are acting on Dad\'s orders and planning something.
  ......Where the hell is everyone, anyway?
  They can\'t be playing hide and seek.
  Let\'s look for them."
-"B‐...before that, I\'m worried about the children.
+"B-...before that, I\'m worried about the children.
  They\'re alright, aren\'t they?
  I\'ll go and check, and while I\'m there, I\'ll see if there aren\'t any servants there."
 "Then let\'s split up.
@@ -91,9 +91,9 @@ Someone had gone out of their way to lock it.
  but maybe these creepy magic circles aren\'t just where we\'ve found them."
 "......We might have become involved in a bizarre game of Father\'s.
  ...I will go to him and ask about the situation.
- ......Though I doubt he\'ll be good‐natured enough to listen to me."
+ ......Though I doubt he\'ll be good-natured enough to listen to me."
 The adults split up.
-As a result, they confirmed that the four children were safe in the so‐called cousins\' room, on the second floor of the guesthouse.
+As a result, they confirmed that the four children were safe in the so-called cousins\' room, on the second floor of the guesthouse.
 It appeared that they had stayed up late last night playing.
 All of them were snoring loudly, so Rosa decided not to wake them.
 Furthermore, Nanjo, who had returned early the previous night to rest, was also alright.
@@ -108,7 +108,7 @@ But they didn\'t find them.
  They should have started workin\' by now..."
 "The nap room was also empty.
  There were signs that the futons had been used, but they weren\'t warm."
-"Y\'know what, I think Krauss nii‐san and the others might\'ve hit on it, don\'t you?
+"Y\'know what, I think Krauss nii-san and the others might\'ve hit on it, don\'t you?
  ......This is probably a game planned on Father\'s orders.
  I\'d bet my bottom dollar, he left those creepy scribbles and hid himself somewhere,
  tryin\' to make us do somethin\'."
@@ -119,14 +119,14 @@ But they didn\'t find them.
 "After all, Father loves big tricks.
  ......He might have had this plan brewing ever since that epitaph was hung in the hall."
 "...In that case, I wonder whether he will make an announcement of the game or an explanation of it.
- ......It also seems possible that another envelope with the crest might appear, like the one handed to Maria‐chan."
+ ......It also seems possible that another envelope with the crest might appear, like the one handed to Maria-chan."
 "............You\'re right.
- Maybe Nii‐san and the rest have found that in the mansion."
+ Maybe Nii-san and the rest have found that in the mansion."
 "Doctor Nanjo.
  Have you heard anythin\'?"
-"......M‐my apologies, I do not have any idea what is going on.
+"......M-my apologies, I do not have any idea what is going on.
  And yet, ......yes, I see,
- I could easily imagine that Kinzo‐san is planning something big."
+ I could easily imagine that Kinzo-san is planning something big."
 "...Why don\'t we go back to the mansion for now?
  Maybe they found somethin\' over there."
 "If I will not be in the way, I will come too."
@@ -135,7 +135,7 @@ But they didn\'t find them.
  We don\'t know what\'s happening.
  We can\'t leave them alone."
 "......Yes, you\'re right.
- I\'ll stay with Rosa‐san and watch over the place.
+ I\'ll stay with Rosa-san and watch over the place.
  Would you tell that to my husband?"
 Rosa and Kyrie remained in the guesthouse.
 Hideyoshi went with Nanjo, and returned again to the mansion.
@@ -191,12 +191,12 @@ They told the others that Rosa and Kyrie had stayed to watch over the place.
 "......You\'re right.
  I also believe that this is a massive joke or game of Father\'s...
  But if that was the case, there should be some letter telling us about that.
- Like the letter that was given to Maria‐chan."
-"What if the announcement of the game actually was Maria‐chan\'s letter?
- The details of the game—‘try to solve the riddle of the epitaph’—have already been shown."
+ Like the letter that was given to Maria-chan."
+"What if the announcement of the game actually was Maria-chan\'s letter?
+ The details of the game - \'try to solve the riddle of the epitaph\' - have already been shown."
 "Then, what could the five magic circles we found in the mansion mean?
  ...And the missing servants."
-"......Natsuhi nee‐san.
+"......Natsuhi nee-san.
  How many servants were there total today...?"
 "Huh?
  .........Genji, Gohda,
@@ -204,7 +204,7 @@ They told the others that Rosa and Kyrie had stayed to watch over the place.
 "......Five servants.
  And five magic circles.
  ......It may be a coincidence, but it worries me."
-"...Nii‐san.
+"...Nii-san.
  Let\'s break a window.
  We should check and see what\'s inside."
 "............We have no choice.
@@ -230,21 +230,21 @@ They were a little relieved.
  ......Because they had thought that maybe, the room would be filled with more bizarre magic circles,
  or possibly the traces of some creepy ritual.
 In any event, they didn\'t want to hang around out in the rain,
- so the six of them—Krauss, Natsuhi, Eva, Hideyoshi, Rudolf, and Nanjo—entered the parlor as a group.
+ so the six of them - Krauss, Natsuhi, Eva, Hideyoshi, Rudolf, and Nanjo - entered the parlor as a group.
 "......It seems...that nothing in particular is out of the ordinary..."
-".........mmh—"
-"Wh‐what has happened, Shannon...?!"
+".........mmh - "
+"Wh-what has happened, Shannon...?!"
 "Wait, wait, are you alright?!
  What happened to you?!"
 "Blood, blood!!
- D‐D‐Doctor Nanjo, take a look at this!!"
-"Hey, Shannon‐chan!
+ D-D-Doctor Nanjo, take a look at this!!"
+"Hey, Shannon-chan!
  Are you okay?!
  Answer me!"
-"Y‐you mustn\'t shake her...
+"Y-you mustn\'t shake her...
  I will examine her condition now..."
 She had been in the shadow of a sofa, so they hadn\'t noticed her until they entered the room.
-Shannon was lying on the floor, her chest stained bright‐red with blood......
+Shannon was lying on the floor, her chest stained bright-red with blood......
 "He~~y,
  Battleeer, where are yoooou?
  Look, look, Shannon\'s corpse has turned up, see~~~?
@@ -280,9 +280,9 @@ Had he heard BEATRICE\'s sneering voice?
  Get your goddamned annoying face AWAY FROM MEEEEEEEEEEEEEEEEEE!!!"
 "........................!!!"
 BEATRICE instinctively winced at Battler\'s sudden rage.
-"......E‐even if you say that, um...
+"......E-even if you say that, um...
  If you don\'t finish your turn, then my turn won\'t come.
- I feel like saying, don\'t make me too bored—"
+ I feel like saying, don\'t make me too bored - "
 "You think I give a crap, be quiet, SHUT UP!!
  I don\'t give a damn about your game,
  I can\'t take this bullshiiiiit!!
@@ -309,7 +309,7 @@ I had seen it with my own eyes.
 I kicked the ground.
  ......Obviously, the ground was hard.
 And a puddle splashed.
-Several towers had split this ground, sprouting like high‐rise buildings.
+Several towers had split this ground, sprouting like high-rise buildings.
 ......The more I kicked this ground,
  .........the more it felt like that really couldn\'t be possible.
 But, because of that, I couldn\'t explain it with anything other than magic anymore......
@@ -432,7 +432,7 @@ As long as they didn\'t understand thermals...
 "How can you deny it if you have never looked inside a Braun tube?"
 "......I\'ve never looked inside, but I can state with confidence that small people like that definitely don\'t exist!"
 "Since there is no Braun tube here, that is impossible to prove."
-"Y‐yeah, it is impossible to prove right this very moment,
+"Y-yeah, it is impossible to prove right this very moment,
  ...but later I can take apart a TV somewhere and show you, and instantly win the argument!"
 "So, in other words,
  my "magic theory", that gremlins are shut up inside the Braun tubes and display the picture with magic,
@@ -502,7 +502,7 @@ collapse by the judgment, and become one."
 ".........So to say it in your words,
  ......this island right now is the world right before looking into the Braun tube, right...?
  Therefore, neither the science theory nor the magic theory can be denied.
- ...And since they cannot be denied—"
+ ...And since they cannot be denied - "
 "Both can exist as truth.
  That is why both witches and magic can exist.
  ...However, at the same time, your opinion which denies them can also exist simultaneously as truth."
@@ -524,7 +524,7 @@ collapse by the judgment, and become one."
 ".........I...get it...
  ......Still.
  By that argument, even if I show a sound argument with my "science theory",
- all it will do is collide head‐on with her "magic theory", and I can\'t win against her either.
+ all it will do is collide head-on with her "magic theory", and I can\'t win against her either.
  Furthermore, there won\'t be any final judgment unless we peek into the Braun tube."
 ".........Where is the Braun tube in this world?
  ...It means there\'s no reason for us to argue.
@@ -536,7 +536,7 @@ collapse by the judgment, and become one."
  Perhaps, instead of a court, I should use chess as an example.
  Victory and loss is not determined by a judge.
  You who are fighting will decide it yourselves."
-"......Can you win an argument with an opponent in a screwed‐up world where multiple truths can exist at the same time?"
+"......Can you win an argument with an opponent in a screwed-up world where multiple truths can exist at the same time?"
 "But do you not realize, in point of fact, you were beaten in an argument, and are sitting here right now submitting...?"
 "...............Heh.
  ...Heheheh."
@@ -545,7 +545,7 @@ collapse by the judgment, and become one."
 "......Sure.
  Thanks, that really helps.
  ......I\'ll avenge you."
-"Hoh‐hoh‐ho, thank you.
+"Hoh-hoh-ho, thank you.
  I am looking forward to it."
 "What\'s your name?"
 "...BEATRICE used to be my name, but now that I have surrendered it, I do not have a name."
@@ -611,7 +611,7 @@ collapse by the judgment, and become one."
 "This is how I argue back about that witch\'s battle just now:
  Right now, there isn\'t anything here, and that proves that nothing happened...!"
 "..................
- ......Hahaha, hah‐hah‐hah‐hah‐ha!
+ ......Hahaha, hah-hah-hah-hah-ha!
  You know, obviously I can\'t make a huge mess right on the first twilight, and I do like that rose garden, you see?
  To prevent any damage, I fought inside a barrier.
  So it\'s only natural that it wouldn\'t have any influence on reality."
@@ -620,24 +620,24 @@ collapse by the judgment, and become one."
 "However!
  My claim that, at this point in time, there is nothing in the rose garden,
  and therefore there was no magic, has not been obstructed in any way!!"
-"W‐wait, wait, can you deny my magic with that mess?!
+"W-wait, wait, can you deny my magic with that mess?!
  It is impossible to prove that magic "does not exist"!
  It\'s a "Devil\'s Proof"!!"
 "The truth is this garden at this very moment!
  The instant you look inside, the tiny people inside the Braun tube will vanish.
  And there are no traces of magic here at all!
  So that battle between you witches did not take place!!"
-"Wh‐
+"Wh-
 ......what the,
- th‐that counter......?!
+ th-that counter......?!
  That power,
- ...c‐could it be...?!"
+ ...c-could it be...?!"
 "...Have you forgotten, Milady?
  It is the Multiplanar World Collapsation Technique.
  The power of a Finite Witch, which is the pair to the power of an Endless Witch.
  Only an Endless Witch would be able to understand it, and it causes the strongest effect for an Endless Witch."
-"Sch‐‘Schrödinger\'s cat box’?!
- .........Th‐......that old hag of a witch...what an uncalled‐for hint!!"
+"Sch-\'Schroedinger\'s cat box\'?!
+ .........Th-......that old hag of a witch...what an uncalled-for hint!!"
 "We\'ve lost time.
  With the five servants and Grandfather, there are six corpses!
  Let me check the scene.

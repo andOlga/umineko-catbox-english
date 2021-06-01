@@ -29,7 +29,7 @@ How had she gotten up there?
 ......Well, it\'s pretty pointless to wonder about that sort of thing when you\'re dealing with a witch.
 BEATRICE was casually sitting on the roof of the arbor,
  almost as though she had been basking in the sun.
-"Those relatives are like a massive lump of the anti‐magic toxin, and they\'ll be intruding on us.
+"Those relatives are like a massive lump of the anti-magic toxin, and they\'ll be intruding on us.
  If you bump into them, your soul will evaporate in a instant."
 "Hmph.
  I am already dead.
@@ -79,7 +79,7 @@ Refusing Kanon\'s attempt to lend him a hand, Kinzo rose from the flower bed he 
 The retired head left everything in Natsuhi\'s hands and returned to the study at a gentle pace......
 "......You\'re looking well.
  You possess a sense of dignity similar to Kinzo\'s deceased wife."
-"On the off‐chance that the anti‐magic toxin does get to Father,
+"On the off-chance that the anti-magic toxin does get to Father,
  ......will the magic dissolve in an instant?"
 "Yes.
  In the blink of an eye.
@@ -89,7 +89,7 @@ The retired head left everything in Natsuhi\'s hands and returned to the study a
 "Yes.
  I understand."
 ".........You might have talent as a witch.
- The anti‐magic toxin has been building up in your system over the years,
+ The anti-magic toxin has been building up in your system over the years,
  and yet you are still able to understand magic.
  ......If you and I had met during your youth, you might have become a powerful witch by now."
 "I am Ushiromiya Krauss\'s wife, the head\'s wife.
@@ -136,7 +136,7 @@ Kinzo is already dead, remember?
 "There\'s no way that a human who\'s supposed to be dead could be walking around, right?
  Is this all because of some unknown virus called the Rokkenjima Syndrome which causes mass delusions?
  Or do the scales of a mysterious form of butterfly that only lives on Rokkenjima happen to be hallucinogenic?!
- Or is it all because a mysterious secret organization called "Yamainu" made an as‐of‐yet undiscovered drug called Purupurupikopuyo which causes mass delusions?!!"
+ Or is it all because a mysterious secret organization called "Yamainu" made an as-of-yet undiscovered drug called Purupurupikopuyo which causes mass delusions?!!"
 "Let me hear tons of this wonderful crap,
  kyaaahahahaahahahahahahahahahahahahahaha!!"
 ".........Just shut up.
@@ -166,14 +166,14 @@ That extremely unflattering applause was coming from BERNKASTEL.
 "But Kanon was in the same place, and he was also looking at Kinzo, right?
  How would you explain that?"
 "...That\'s no problem at all.
- Kanon‐kun is a servant who works for the Ushiromiya family.
+ Kanon-kun is a servant who works for the Ushiromiya family.
  ......Aunt Natsuhi probably ordered him to keep to her story so that she can hide Grandfather\'s death.
  ......This means that just like Aunt Natsuhi, Kanon can see Grandfather even though Grandfather isn\'t supposed to exist."
 "............Too bad, Lambda.
  Battler isn\'t going to fall for that kind of child\'s play anymore."
 "Seems so.
  ......Well, this is nothing more than an opening before the game.
- Like an apéritif before a meal."
+ Like an aperitif before a meal."
 ".........An appetizer at a bar.
  Green tea at a sushi restaurant."
 "Shut up.
@@ -223,14 +223,14 @@ of Aunt Natsuhi convincing Doctor Nanjo and the rest to cover up Grandfather\'s 
  My condolences.
  If that was your theory, then it\'s game over for you.
  *giggle*giggle*."
-".........H‐hey...
+".........H-hey...
  What are you talking about......?"
 "You think you\'ve been fighting in direct opposition to Beato.
  But that\'s not actually true.
  You haven\'t been in direct opposition.
  You\'ve been fighting from a diagonal angle."
 "All this playing detective you\'ve done hasn\'t been fantasy vs. mystery.
- It\'s only been fantasy vs anti‐fantasy."
+ It\'s only been fantasy vs anti-fantasy."
 "......I don\'t have a clue what you\'re talking about.
  ...But there\'s one thing I do get.
  ......It sounds like you\'re saying there\'s something wrong with the way I\'ve been fighting."
@@ -238,9 +238,9 @@ of Aunt Natsuhi convincing Doctor Nanjo and the rest to cover up Grandfather\'s 
  That means interpreting this tale...
 as a proper mystery.
  In other words, from the very start, we have to forget about any and all elements that would violate the taboos of the mystery genre."
-"F‐...forget about them.........?"
-"For example, several locked‐room murders have occurred in the games before now, right?"
-"......Y‐...yeah."
+"F-...forget about them.........?"
+"For example, several locked-room murders have occurred in the games before now, right?"
+"......Y-...yeah."
 At every single crime scene, to make sure there are no hidden doors,
  you\'ve been enthusiastically checking with Beato, haven\'t you?
 Weaving a flashy bunch of red truths together all over the place,
@@ -267,8 +267,8 @@ Then you\'ve got to follow its conventions.
  I\'ve heard about it somewhere.
  Is this like the ten basic rules for mystery novels or something?"
 "Yeah, that\'s right.
- They\'re the ten witch‐piercing wedges brandished by Knox, the peerless archbishop of witch hunting.
- Those are the true weapons with which to fight and defeat the fantasy known as the witch illusion head‐on."
+ They\'re the ten witch-piercing wedges brandished by Knox, the peerless archbishop of witch hunting.
+ Those are the true weapons with which to fight and defeat the fantasy known as the witch illusion head-on."
 "......Just like you, Bern.
  Bringing in such annoying weapons.
  They\'re the fantasy side\'s worst enemies."
@@ -278,8 +278,8 @@ Then you\'ve got to follow its conventions.
 "Lambda, who\'s in charge of the witch side, is fantasy.
  I\'m the one who\'s fighting her, mystery.
  What are you?
- The most you can do is repeatedly dodge and deny fantasy, which makes you merely "anti‐fantasy".
- You\'re opposed to absolutely everything, but you can make no counter‐proposals.
+ The most you can do is repeatedly dodge and deny fantasy, which makes you merely "anti-fantasy".
+ You\'re opposed to absolutely everything, but you can make no counter-proposals.
  You\'re like a politician from some government.
  *giggle*giggle*."
 "Shut up.
@@ -321,7 +321,7 @@ As if the complicated feelings inside me were plain as day to them,
 "Hopefully Father\'s feelings weren\'t hurt so much that he writes up some strange will."
 The relatives sighed deeply and fell into silence...
 "Hey! Maria! No jumping around!
- What if Ange‐chan trips over?!"
+ What if Ange-chan trips over?!"
 ".........Sorry to keep you waiting.
  The boat is ready."
 "Alright, let\'s go.
@@ -344,19 +344,19 @@ and the manner in which he had managed to act as though everything was normal sh
 ".........How was it?
  Did they seem to notice anything suspicious about Father...?"
 "Nope.
- Eva‐sama in particular was raising quite the racket about the Master overhearing her talking about the inheritance. Right?
+ Eva-sama in particular was raising quite the racket about the Master overhearing her talking about the inheritance. Right?
  Wasn\'t her panicking just priceless?"
 "Yes.
  She was quite shaken up."
 "Kumasawa, you really are quite an actress.
  All that panic in the corridor made it seem like Father really was there."
-".........Kumasawa‐san is quite talented at that sort of thing."
+".........Kumasawa-san is quite talented at that sort of thing."
 "Oooh, come now, I don\'t deserve such praise.
- Hoh‐hoh‐hoh‐ho."
+ Hoh-hoh-hoh-ho."
 "*giggle*.
  I will have to make it very clear to Genji not to believe you easily when you call in sick."
 "Now that\'s just too harsh, Madam.
- Oh‐hoh‐hoh‐hoh‐ho..."
+ Oh-hoh-hoh-hoh-ho..."
 "You really did a good job.
  As promised, both of you, as well as Genji and Shannon,
  will be reimbursed for the time off you\'ve sacrificed over the past month, and will receive five days of additional pay.
@@ -364,9 +364,9 @@ and the manner in which he had managed to act as though everything was normal sh
  Speak with Genji when you collect your pay to ensure that the other servants don\'t find out."
 "Don\'t you worry, we understand.
  Don\'t we?"
-".........Kumasawa‐san.
+".........Kumasawa-san.
  Your voice is too loud."
-"Ooh, how very careless of me... Hoh‐hoh‐ho."
+"Ooh, how very careless of me... Hoh-hoh-ho."
 "Yes, we should be careful.
  Let\'s leave it at that for the time being.
  All of you, please return to your regular duties.
@@ -379,8 +379,8 @@ That black tea, carried all the way to the bench,
 And sitting on either side of it, the wife of the head and her witch could be seen, both of them staring at it curiously.
 "......So this is patis...
  I just assumed it would be some kind of baked sweet..."
-Natsuhi hadn\'t thought for a moment that it would have a curry‐like spicy flavor, and had started coughing after putting it in her mouth.
-To describe it in Japanese terms, it was like age‐gyoza stuffed with mashed, curry‐flavored potatoes.
+Natsuhi hadn\'t thought for a moment that it would have a curry-like spicy flavor, and had started coughing after putting it in her mouth.
+To describe it in Japanese terms, it was like age-gyoza stuffed with mashed, curry-flavored potatoes.
 As a savory snack, it would probably be pretty popular with the kids.
 However, it was something of a shock to Natsuhi, who expected that a treat to go with tea would be something sweet.
 "Didn\'t you know?
@@ -428,7 +428,7 @@ As Natsuhi grumbled that they had all been very tiring trips, Beato secretly pee
 "Now, listen.
  This is called an areca nut.
  It\'s a popular luxury food item around here."
-It looked like a small, round, gourd‐like nut that had been split open, with a slice of cucumber wedged in it.
+It looked like a small, round, gourd-like nut that had been split open, with a slice of cucumber wedged in it.
 At a glance, it looked as though it would probably taste like pickles.
 "I, I see.
  So I just bite it here...?"
@@ -452,7 +452,7 @@ As she tried to bite the one her husband was holding, he suddenly moved it away.
 "Think of it as something like gum.
  Chew it and enjoy the flavor.
  Spit the juice and the scraps you\'ve chewed off into a paper cup like this."
-"......D‐dear,
+"......D-dear,
  the inside of your mouth is bright red...!
  Wipe it off, wipe it off.
  ......Eeek!"
@@ -461,7 +461,7 @@ Something that\'s poisonous if eaten or drunk, and it makes the inside of your m
  and on top of that, having to spit something out after you\'ve put it in your mouth...how indecent!
  ......Thinking this, Natsuhi firmly refused what Krauss was offering her.
 "No. No! No, thank you. Thank you, but no...!"
-"This is a cross‐cultural experience.
+"This is a cross-cultural experience.
  What\'s the point of traveling if we don\'t do things that can only be done here?"
 Krauss kept chewing, ignoring the fact that even his lips were being colored bright red.
 "Father likes these too.
@@ -489,9 +489,9 @@ She looked at her husband\'s face.
 you leaned on your husband and held his hand, I\'ll bet?!
  What the heck, you and your husband share a pretty pure love, don\'t you?!
  Did you get all fired u~p?
- You know, like, that night♪
+ You know, like, that night
  Kiiihihihihihihi!!"
-Red‐faced and avoiding Beato\'s eye, Natsuhi tried to hide her embarrassment by stuffing the patis whole into her mouth,
+Red-faced and avoiding Beato\'s eye, Natsuhi tried to hide her embarrassment by stuffing the patis whole into her mouth,
  chewing with her cheeks puffed out like a blowfish.
 Beato said that there was nothing better than this to go with tea,
  and nodded several times, a broad smile on her face...
@@ -511,7 +511,7 @@ Beato said that there was nothing better than this to go with tea,
 "The instructions and orders you gave the servants for this family conference were superb.
  You thought of everything from where Kinzo would be and when to what he did and what he left behind,
  and you put it all together splendidly without any contradictions.
- That detailed written plan of yours had the same beauty as a high‐level magic circle."
+ That detailed written plan of yours had the same beauty as a high-level magic circle."
 To make it look like Kinzo actually existed and was living life his own way,
  she had written his schedule for the day down to the finest detail and made the servants follow it to the letter.
 Who did he meet, when and where did he meet them, and what did he leave with them?
@@ -525,7 +525,7 @@ And the coordination between the two of them and the servants had also been spec
  That\'s why I made such a thorough plan."
 "Your willpower and attention to detail summoned success with certainty.
  ......As a witch, it seems that you\'re in Lady LAMBDADELTA\'s camp.
- At your current level, as soon as you become self‐aware of that as magic, you will be worthy of calling yourself a witch apprentice."
+ At your current level, as soon as you become self-aware of that as magic, you will be worthy of calling yourself a witch apprentice."
 "If you call something like that magic, then that would make Kumasawa the witch of feigned illnesses.
  She only calls us to say she\'s taking the day off because of her bad back on the busy days.
  Like every year\'s family conference."
@@ -549,7 +549,7 @@ Almost as though she couldn\'t even move her fingers as she wanted to...
  That was how she looked...
 So Battler rested his hand on Beato\'s, softly took hold of the tea cup, and lifted it to her lips......
 ......Then, ...though it was only a single mouthful, ...Beato sipped.
-The days in which they had been in a killing‐fest with red swords and blue wedges...
+The days in which they had been in a killing-fest with red swords and blue wedges...
 already seemed like the distant past.
 Now, not only was Beato unable to do that, ......it was even difficult for her to make her body do as she pleased.
 Even just drinking a mouthful of black tea like this was hard......
@@ -595,7 +595,7 @@ Then, with an expression that didn\'t reveal her thoughts in the slightest, BERN
  That was right.
  It was torture for Beato as well.
  And you won that torture game.
- ......That\'s why Beato\'s soul was killed, and why she became a doll‐like corpse."
+ ......That\'s why Beato\'s soul was killed, and why she became a doll-like corpse."
 "Are you saying......that I did this to Beato?"
 "The battle ends when one of you loses the will to try and win.
  ......As far as the battle between you and Beato goes, the conclusion was already reached last time.
@@ -638,7 +638,7 @@ Neither of us want that.
 Both Beato and I fought with all we had trying to win.
 It was because we were both giving it everything we could muster that the game repeated several times to begin with.
 And that was also why, that one time,
- we confronted each other head‐on with all of our strength.
+ we confronted each other head-on with all of our strength.
 And Beato.........admitted defeat.
 She said she wanted me to end this game...and entrusted everything to me.
 So, BERNKASTEL\'s words were the truth.
@@ -741,8 +741,8 @@ And, if I hadn\'t thought I hurt her,
 is because LAMBDADELTA, who is the Game Master and the one who is telling the story, is interpreting it that way."
 "If you stare without a fragment of love for Natsuhi, you won\'t see illusions like that.
  .........That\'s why, with my eyes, all I can see is Natsuhi all alone, drinking her tea in silence."
-Without love, it cannot be ‘seen’.
- Because love is lacking, it cannot be ‘seen’.
+Without love, it cannot be \'seen\'.
+ Because love is lacking, it cannot be \'seen\'.
 "That\'s a fantasy that Natsuhi\'s showing us.
  ......BEATRICE doesn\'t exist there."
 "...........................ugh........."
@@ -841,7 +841,7 @@ After that, all that remained was Natsuhi, sipping tea all alone,
 "......BERNKASTEL and LAMBDADELTA...
  ......VIRGILIA called them your friends, but...
 ...you really should have chosen your friends more carefully.
- Or wait, maybe they actually make a good match with an ill‐natured person like you..."
+ Or wait, maybe they actually make a good match with an ill-natured person like you..."
 ".............................."
 "........................"
 Beato didn\'t answer.

@@ -4,9 +4,9 @@
  Which means I can defeat that line of reasoning which says that, if it was impossible for all 18 people, it must be a crime involving magic.
  ......That\'s some big information."
 "Excuse me.
- Battler‐sama, would you care for some black tea and cookies?"
+ Battler-sama, would you care for some black tea and cookies?"
 Beato\'s butler, who called himself Ronove, appeared out of nowhere in particular.
-Placed upon the silver tray that he held was a plate filled with delicious‐looking, steaming black tea and cookies.
+Placed upon the silver tray that he held was a plate filled with delicious-looking, steaming black tea and cookies.
 ...I really don\'t like this guy\'s smile.
 For some reason, it doesn\'t look like a smile used to warmly greet a guest.
 It feels like he\'s making fun of me for some reason.
@@ -50,7 +50,7 @@ As Ronove made fun of me and giggled,
  It looks like there\'s a hidden mansion somewhere on this island, and that Grandfather had his mistress living there.
  In that case, the question that\'s been torturing me, about whether there are 18 or 19 people, can be easily resolved."
 "Although you deny witches,
- you hold a double standard by refusing to seek a culprit among the 18, and have driven yourself into a dead‐end."
+ you hold a double standard by refusing to seek a culprit among the 18, and have driven yourself into a dead-end."
 "...The easiest way to deny the witch would be to doubt one of the 18.
  ......It\'s not so easy for every one of the 18 to have an alibi.
  You always find at least one person with a fragile alibi.
@@ -64,20 +64,20 @@ As Ronove made fun of me and giggled,
  That\'s how Beato hit me where my heart was weak."
 "......Accepting and understanding your own weaknesses.
  That is not something which can often be accomplished.
- Battler‐sama, you are using this theory about a 19th person as a spear.
+ Battler-sama, you are using this theory about a 19th person as a spear.
  ...Or should I say, a shield?"
 "In any event, unlike how unprepared you were in the games up until now,
  let us call the fact that you now have a compass bearing on how to fight...a dramatic leap forward.
  With this, you need not doubt any of the 18 you love and respect,
  and can easily suspect a 19th person, and pursue your theory that the culprit is a human."
 "That\'s it exactly.
- Like in the first game, when Kanon‐kun was killed in the boiler room,
+ Like in the first game, when Kanon-kun was killed in the boiler room,
  ...and a bunch of other places,
  there are countless tricks I can use without hesitation if a 19th person existed."
-In the very first game, Kanon‐kun had been killed in the boiler room.
-One might think that he was attacked by Kumasawa‐san, who had gone down into the boiler room with him,
+In the very first game, Kanon-kun had been killed in the boiler room.
+One might think that he was attacked by Kumasawa-san, who had gone down into the boiler room with him,
  or maybe that someone who had appeared to be dead earlier was actually faking,
- and had ambushed Kanon‐kun in the boiler room.
+ and had ambushed Kanon-kun in the boiler room.
  Either way, it was a move that forced me to suspect one of the 18.
 However, by simply proposing that a 19th person exists,
  there\'s no longer any need to suspect one of the 18 for that murder in the boiler room.
@@ -92,13 +92,13 @@ Using this argument, we can take, for example, the question which has been raise
 ".........Hmm, hmm.
  I think that is quite a good move.
  How would I strike back?"
-"......Battler‐sama, despite your understanding, there are still plenty of weak points.
+"......Battler-sama, despite your understanding, there are still plenty of weak points.
  Perhaps the "18 people attack" will be an effective move.
  As an attempt to judge how strong your defense is, it may be interesting to attack from that angle again."
 "Then how would you do it,
  demon butler...?!"
 "......I believe it would be appropriate to attack this 19th piece that you have played.
- Battler‐sama, have you ever met this 19th person?
+ Battler-sama, have you ever met this 19th person?
  May I ask you for some proof that this 19th person exists?"
 "How naive.
  Of course, I knew you\'d probably try that move...!"
@@ -106,7 +106,7 @@ Using this argument, we can take, for example, the question which has been raise
  Please respond to it."
 "Witches and demons and the like...
  There\'s no move more appropriate for you than this one.
- ......And that is—"
+ ......And that is - "
 "The "Devil\'s Proof"!"
 When we humans are accused of something, we always counterattack by saying to show some evidence.
  Because that\'s a human move.
@@ -146,7 +146,7 @@ Of course, doubts will naturally arise at whether a large group of people like t
  but those are all settled by the "Devil\'s Proof".
 Because not seeing or not noticing a hundred people inside the mansion does not disprove that they were there.
 Even though I\'m saying it myself, it\'s such a stupid argument that it makes me wanna throw up!
- However, it\'s because it\'s such a dirty‐as‐hell move that makes it the perfect one to use against a witch.
+ However, it\'s because it\'s such a dirty-as-hell move that makes it the perfect one to use against a witch.
 Well, we\'re only imagining here,
  ...but the thought of about a hundred suspicious men wearing goat masks hiding in the shadows......
  That goes beyond "funny", makes me think of cockroaches.
@@ -182,13 +182,13 @@ If you see one, it means there\'s a hundred hiding in the shadows.
 "Hempel\'s Raven...??
  What are you talking about?"
 "...*cackle*cackle*.
- Ah‐hahahahahahahahah‐hahahahah‐hah‐ha...!"
+ Ah-hahahahahahahahah-hahahahah-hah-ha...!"
 Just then, ...aah, that laugh, which gets on my nerves every time I hear it, started echoing around.
 The room was filled with dazzling golden butterflies, and in the center of that whirlwind, the Golden Witch appeared.
 "Why, if it isn\'t Milady.
  Good morning."
 "I thought you might be doing something interesting while I was away."
-"......‘Hempel\'s Raven’, was it?
+"......\'Hempel\'s Raven\', was it?
  What an amusing and nostalgic move.
  To think the day would come when it would be introduced to Battler.
  It\'s a classic move to use against the "Devil\'s Proof"."
@@ -224,7 +224,7 @@ The room was filled with dazzling golden butterflies, and in the center of that 
  ...Is that difficult for you?"
 "Yeah, no kidding.
  ...I have no idea what you\'re saying."
-"Battler‐sama.
+"Battler-sama.
  What about this example?
  Let us say that you have two boxes, and one of them is the winner, with a cookie inside.
  Of course, the other one is the loser, and is empty."
@@ -262,20 +262,20 @@ When "if A then B" is true, then at the same time, "if not B then not A" is also
 "All I have done is turn your move on its head.
  It shouldn\'t be that difficult to understand.
  Ronove, explain.
- It seems your cookie‐in‐a‐box analogy from before will be easy for Battler to understand."
+ It seems your cookie-in-a-box analogy from before will be easy for Battler to understand."
 "Then forgive my presumption.
  Allow me to explain using my earlier example once more."
 Allow me to repeat once more my earlier story,
  about two treasure chests, one of which has a cookie in it.
 In this situation, one of the boxes represents "the 18 people", and the other box represents "the 19th person".
 So the cookie would represent the "culprit".
-Battler‐sama, you open the 18 box.
+Battler-sama, you open the 18 box.
 Because the cookie is not there,
  you have proven from the opposite direction that "therefore, the cookie is in the 19 box".
 In that case, if we reverse things further, we can also say the following.
 Namely, if it was first shown that the 19 box was empty,
  it would prove in just the same way that "the cookie is in the 18 box".
-Battler‐sama, this move you played in order to avoid having to doubt any of the 18,
+Battler-sama, this move you played in order to avoid having to doubt any of the 18,
  has in fact been used against you to launch the "18 person attack"...!"
 "......Huh,
  ......what did you say........."
@@ -284,7 +284,7 @@ Battler‐sama, this move you played in order to avoid having to doubt any of th
  automatically,
  you will be forced to accept that the cookie is in the 18 box.
  All you have done is say this the other way around, you see?"
-"So, ......that move that I was so confident in, ...was actually a double‐edged sword?"
+"So, ......that move that I was so confident in, ...was actually a double-edged sword?"
 "That\'s right.
  Your move to explain everything with a 19th person carries the risk that, if it is thwarted,
  you will be forced to accept that you can only explain things by using the 18."
@@ -346,7 +346,7 @@ I have 18 times more work to do to explain my pet theory than Beato does for her
 "It\'s the strongest and fastest QED in the world.
  This...
 is "Hempel\'s Raven"!"
-"Wha‐.........what a ridiculous argument.........!!!"
+"Wha-.........what a ridiculous argument.........!!!"
 "It is a very, very convenient move.
  Not only demons, but gods also use it.
  When you propose "blessed = God\'s servant",
@@ -359,10 +359,10 @@ is "Hempel\'s Raven"!"
  ...However, the necessary cost to bring humans misfortune is much cheaper."
 "*cackle*cackle*cackle*cackle*cackle*.
  So by using "Hempel\'s Raven", gods can actually give believers the joy of divine protection at the lowest cost."
-"Y‐......you demon.
+"Y-......you demon.
  It\'s a demon\'s argument...
  ...That\'s messed up...!!!"
-"It seems that we\'ve gone off‐topic.
+"It seems that we\'ve gone off-topic.
  Let us return to it."
 "I have finished describing the move for my counterattack.
  ......The counterattack to your claim that "a 19th person is the culprit; therefore, the 18 are innocent and the witch doesn\'t exist" is:
@@ -393,7 +393,7 @@ Apply even more force......and gouge it in......!
  I want to be sure."
 "While yes, I did use the phrasing of a "19th person" to make it easy to understand,
  if I can use the "Devil\'s Proof" to raise the number of people above 18,
- then what I mean is an unspecified large number of extra people—you don\'t know if it\'s ten or a hundred."
+ then what I mean is an unspecified large number of extra people - you don\'t know if it\'s ten or a hundred."
 "Always one more than you assume.
  ...Understand?"
 She had returned my twisted logic with something even more twisted.
@@ -448,20 +448,20 @@ But......I had already realized it.
 ...There was no need to be unnecessarily afraid of the red.
 ".........You\'ve brought out your secret weapon again.
  So...?
- What and how will the great BEATRICE‐sama speak in red this time?"
+ What and how will the great BEATRICE-sama speak in red this time?"
 "......Hoh.
  What do you mean by this?
  Suddenly looking so relaxed..."
-"Sorry, but I\'ve been waiting for you to take out that blood‐red treasured sword.
+"Sorry, but I\'ve been waiting for you to take out that blood-red treasured sword.
  ......Let\'s see, what will you proclaim in red this time?"
 "You aren\'t going to say "the culprit was one of the 18", are you?
- Let me warn you, that would be self‐destruction, remember?
+ Let me warn you, that would be self-destruction, remember?
  That would be the same as throwing away your own witch theory yourself.
  A complete resignation."
 That\'s right.
  The red isn\'t always necessarily to Beato\'s advantage.
  On the contrary, if she used it the wrong way, it\'s dangerous enough that she could bring about her own death.
- If she used it carelessly and said something which ended up denying herself, that would be exactly the same thing as self‐destructing.
+ If she used it carelessly and said something which ended up denying herself, that would be exactly the same thing as self-destructing.
 "Of course,
  it would also be sad and difficult for me to accept if you told me in red that one of the 18 was the culprit.
  ......No matter who the culprit actually was, it would surely bring me some tough emotions..."
@@ -505,10 +505,10 @@ On this island overcome with falsehoods and illusions, the only thing I can trus
 is the information that she speaks in red.
 It is my only way across the chasm of Hell.
  Just a single tightrope.
-Her merciless blood‐red blade is the only way I can survive.
+Her merciless blood-red blade is the only way I can survive.
 ...This isn\'t just walking on a tightrope, it\'s literally like walking on the edge of a blade...
 Of course I\'m afraid.
- In terms of her contrapositive, my victory condition—the denial of the witch—meant that the culprit was a human.
+ In terms of her contrapositive, my victory condition - the denial of the witch - meant that the culprit was a human.
 But I didn\'t want to search for the culprit amid the 18.
 ...Therefore, I held on to a weak point, since I had to deny the witch and the 18 at the same time.
  Since I had been unable to understand that last time, that was where she had hit me, leaving me tattered and defeated.
@@ -516,7 +516,7 @@ But I didn\'t want to search for the culprit amid the 18.
 Let her hit me.
  Let her attack.
  No problem...
-Someone said it once in an old sword‐fighting movie.
+Someone said it once in an old sword-fighting movie.
 That "a good fortress has one, and only one, intentionally weak point".
 The enemy would gather there.
  They would be lured there.
@@ -572,7 +572,7 @@ Are you happy now...?
 The first move was mine......
 "Here I come, Beato."
 "Repetition requested.
- ......‘There are only 18 people on this island’."
+ ......\'There are only 18 people on this island\'."
 "....................."
 "...If I hear you say this in red, I will have no choice but to doubt one of the 18.
  ......Since it could no longer be the work of a 19th person, all doors will be closed to me."
@@ -591,7 +591,7 @@ If she had repeated that,
  I would have been faced with those two worst choices of accepting the witch or suspecting one of the 18,
  like last time all over again...
 But Beato had not proclaimed my ultimate and greatest weakness in red.
-She had declined to repeat it—even though there was no reason why she shouldn\'t have struck—even though it was a weakness she should have been drooling at.
+She had declined to repeat it - even though there was no reason why she shouldn\'t have struck - even though it was a weakness she should have been drooling at.
 She hadn\'t sliced me up with red by using that move, which should have been as good as forking a rook and the king...!
 ......This was a big sign of my advantage.
 That\'s right.
@@ -613,7 +613,7 @@ The human BEATRICE.........!!
 For a while, BEATRICE continued to laugh unpleasantly, gloating or maybe spiteful.
 "...Are you ready? I\'ll keep going.
  ...Again, repetition requested."
-"‘There are at least 19 people on this island’!"
+"\'There are at least 19 people on this island\'!"
 ".............................."
 BEATRICE fell silent once again.
 The feeling that confirming the number of humans on this island...
@@ -671,7 +671,7 @@ That her red treasured sword can\'t easily be used without considerable resolve.
 "...What\'s wrong.
  I\'ll say it again.
  ......Repetition requested!"
-"‘There are at least 19 people on this island’!"
+"\'There are at least 19 people on this island\'!"
 "........................
  ......Hmh.
  ...I decline."
@@ -715,7 +715,7 @@ But Beato refused to speak in red, even though it would cost her victory in the 
 That bitter comment did, in fact, appear to have marked the end of the game\'s opening battle.
  Even so, I couldn\'t relax my guard at all.
 ...I was unable to relax my feeling of tension until I was greeted by the sound of Ronove\'s applause...
-"......Spectacular, Battler‐sama.
+"......Spectacular, Battler-sama.
  I suppose we could say that this game has started with at least the opening unfolding to your advantage?"
 "No idea...
  I still don\'t know whether this piece was something I tore from her with my own hands,
@@ -730,7 +730,7 @@ you probably know that I\'m being led into a trap, and that clapping is just a b
 "Isn\'t that so?
  Sometimes he enrages even me."
 "My, my, how incredibly rude of me."
-"Well then, Milady, Battler‐sama.
+"Well then, Milady, Battler-sama.
  Would you care for some more black tea?
  The game has still barely begun.
  Please leave any tea or pastries that might adorn this game to me.
@@ -763,9 +763,9 @@ While listening to the sound of the demon butler pouring tea, the witch closed h
  You too, right, Rosa?
  ...............Rosa?"
 "Huh, ah, sorry...
- M‐me too.
+ M-me too.
  I agree."
-".........What\'s wrong, Rosa‐san.
+".........What\'s wrong, Rosa-san.
  ...You\'ve been really quiet for a while now.
  Are you feelin\' sick...?"
 From the beginning, Rosa had never been one to willingly cut in on the siblings\' fights.
@@ -810,7 +810,7 @@ It was almost...
 as though she was trying to confess to some modest prank which had inadvertently brought about a serious situation...
 such was the atmosphere in the room.
 "No, umm......
- ......Th‐this mistress of Grandfather\'s, this BEATRICE,
+ ......Th-this mistress of Grandfather\'s, this BEATRICE,
  ......is she really, um,
  .........still alive, I was wondering..."
 "Huh?
@@ -830,9 +830,9 @@ such was the atmosphere in the room.
 ...dead...
  .........I,
  ...I killed her...!"
-"Wh‐......what did you say......?!"
-"...Wh‐...what do you mean, Rosa...?!"
-"B‐but, it\'s not like I was the one who kill—
+"Wh-......what did you say......?!"
+"...Wh-...what do you mean, Rosa...?!"
+"B-but, it\'s not like I was the one who kill - 
  ......But, but I was the one that brought her to a place like that!
  ...I really did kill her...
  I tried to make myself believe it was a dream!!"
@@ -842,7 +842,7 @@ such was the atmosphere in the room.
 It was so sudden that everyone was lost for words.
  Rosa kept on talking, unable to stop, holding her head as her hair flew all about...
 "Please, calm yourself...!
- Rosa‐san...!"
+ Rosa-san...!"
 "I, I have absolutely no clue what\'s goin\' on...!
  Already dead?
  What do you mean...?!"
@@ -863,9 +863,9 @@ It was so sudden that everyone was lost for words.
  Nobody\'s blaming you for anything, alright?
  First, drink some water.
  Okay?
- Natsuhi‐san, the pitcher, please."
-"Y‐yes.
- .........Here you go, Rosa‐san.
+ Natsuhi-san, the pitcher, please."
+"Y-yes.
+ .........Here you go, Rosa-san.
  Please, calm yourself......"
 ".........................................."
 Until Rosa was able to regain her calm amidst her ragged breathing, ......no one was able to speak a word...

@@ -32,7 +32,7 @@ That silhouette, ......walking through the quietly falling rain without so much 
 "Yes, it DOES.
  Mrs. VIRGILIA possesses a deep knowledge in Heavenly STUDIES.
  I have often battled with her over INTERPRETATIONS."
-"Hoh‐hoh‐ho...
+"Hoh-hoh-ho...
  My many intellectual adventures with you were quite enjoyable.
  I\'d like to do it again sometime."
 "YES.
@@ -70,7 +70,7 @@ So Battler asked for a refill for Beato as well...
 On the game board, Beato and I met Dlanor.
 But those were the game pieces of those witches.
 They weren\'t Beato and me ourselves.
-"Is that why you went out of your way to greet Battler‐kun and Beato here...?
+"Is that why you went out of your way to greet Battler-kun and Beato here...?
  ...I see you\'re as conscientious as always."
 "That is my way of doing THINGS.
  .........Greetings, Mr. Battler.
@@ -95,7 +95,7 @@ greeted each other around a tea table surrounded by the aroma of black tea.
 ......It was a strange sight.
 VIRGILIA made gold butterflies appear from the palms of her hands...
 and transformed them into a teapot and a can of tea leaves.
-......It was a very witch‐like way of preparing tea.
+......It was a very witch-like way of preparing tea.
 She was a witch, so it wasn\'t a particularly unusual sight.
 ......Though I was a bit concerned about whether Dlanor, an Inquisitor, could allow herself to watch such a spectacle.
 "......Have no FEAR.
@@ -124,7 +124,7 @@ However, even if it was depicted that a tea set existed here and VIRGILIA had us
  so it\'s just common courtesy to avoid complaining about how it was made."
 ......That\'s right.
 It\'s common courtesy to be grateful for tea that someone makes for you.
-There\'s nothing elegant about pushing your way into the kitchen and poking around through the tea‐making process.
+There\'s nothing elegant about pushing your way into the kitchen and poking around through the tea-making process.
 "You don\'t invite your guests into the kitchen.
  And when you set the table, you should adorn it beautifully in the spirit of hospitality.
  ......Here you go. It\'s hot."
@@ -138,15 +138,15 @@ There\'s nothing elegant about pushing your way into the kitchen and poking arou
 ...a white...
 lie,
  ......then?"
-"‘Lie’ is such a dirty word.
+"\'Lie\' is such a dirty word.
  The word "embellishment" is probably more fitting."
 "When giving a child candy,
- you can either take a crumpled‐up one out of your pocket,
+ you can either take a crumpled-up one out of your pocket,
  or use a wonderful bit of sleight of hand to produce the candy, and the impression you give with each method is completely DIFFERENT."
 "Sure, I mean, producing the candy out of nowhere is a cool little trick."
 "WRONG.
- The meaning is in embellishing the result—a candy is given—in a way that makes it even more beautiful and FUN."
-"......Think of when you give Maria‐chan a candy.
+ The meaning is in embellishing the result - a candy is given - in a way that makes it even more beautiful and FUN."
+"......Think of when you give Maria-chan a candy.
  There\'s a huge difference between taking it out of your pocket to give to her,
  and saying a fairy gave it to her for being such a good girl...
 after secretly slipping it into her pocket."
@@ -158,7 +158,7 @@ and investigate and pinpoint who it was that slipped it into her POCKET.
  When you showed up, I got the feeling you\'d deny anything that went by the name of magic."
 "That is how I act in my capacity as an INQUISITOR.
  It is my JOB.
- However, when I am away from my job, I don\'t enjoy being quite so cold‐HEARTED."
+ However, when I am away from my job, I don\'t enjoy being quite so cold-HEARTED."
 "So, this is what they call leaving your personal feelings aside when on duty?
  ......You do it well."
 "As an Inquisitor, hunting witches is my JOB.
@@ -221,7 +221,7 @@ So up until the point when I did join,
 I\'d thought she was an emotionless killer doll without a heart,
  ...but maybe she actually is pretty approachable.
 ......Though of course, neither of us will show any mercy when fighting on the game board.
-For a while, we gazed at the rain‐drenched rose garden as we quietly enjoyed our tea.
+For a while, we gazed at the rain-drenched rose garden as we quietly enjoyed our tea.
 ".........There is one thing I must apologize FOR."
 Dlanor suddenly murmured something.
 "What is it?
@@ -243,9 +243,9 @@ VIRGILIA spoke softly, without hesitating in her knitting.
  We did not give it everything we HAD."
 ".........I know.
  ......
-‘Kinzo is dead at the starting time for all games’.
+\'Kinzo is dead at the starting time for all games\'.
  Beato already told us that truth.
- ......Battler‐kun should only have been able to achieve a draw at best in that battle.
+ ......Battler-kun should only have been able to achieve a draw at best in that battle.
  He shouldn\'t have had any chance at all of winning."
 "......You\'re right.
  ......If you just say that, the whole fight\'s already over.
@@ -262,8 +262,8 @@ was one I had given to Cornelia, who was protecting the window."
  ...That\'s checkmate.
  .........Why didn\'t that girl use that trump card...?"
 "............!!
- Th‐this is...... .........gh.
- F‐For your attention...!
+ Th-this is...... .........gh.
+ F-For your attention...!
  There is no way to defeat my red!
  Know that your wish will not be granted...!!"
 Though she had fought calmly up until that point,
@@ -281,12 +281,12 @@ Even though she held a trump card which could completely repel me,
 "I understand that you are UPSET.
  However, since you told me to fight with everything I had, I had no choice but to let you KNOW.
  ......Please forgive ME."
-"Still, even though you\'d lost your trump card, you kept on fighting all‐out with your remaining cards.
+"Still, even though you\'d lost your trump card, you kept on fighting all-out with your remaining cards.
  I don\'t believe anyone could find fault with what you did."
 "......That\'s right.
  ......If I should be mad at anyone, it\'s LAMBDADELTA for butting in."
 "
-‘Kinzo does not exist’ should already be an established FACT.
+\'Kinzo does not exist\' should already be an established FACT.
  Lady LAMBDADELTA and Lady BERNKASTEL know this WELL.
  And yet, they are both leaving room for Kinzo to exist as they continue through this GAME.
  ......It is almost as though the two are conspiring to prevent Kinzo\'s existence from being DENIED."
@@ -426,7 +426,7 @@ So the whole time since then,
  She has already performed sufficient penance..."
 "Oh, is that so?
  Then please take her place from now on."
-"G‐......Gertrude bears no sin for which to repent......"
+"G-......Gertrude bears no sin for which to repent......"
 "Gertrude.
  .........Please stand.
  On one leg.
@@ -456,13 +456,13 @@ Dlanor\'s neck tilted unnaturally backwards, creaking.
 "......I cannot be harmed, but I can be HURT."
 "Hmph.
  As if you have feelings to hurt.
- You witch‐hunting murder doll.
+ You witch-hunting murder doll.
  .........Are you trying to talk back to me?
  Me, the envoy and double of the great Lady BERNKASTEL...?!"
 ".........NO."
 "I am being reprimanded by Lady BERNKASTEL because you people are useless...!!
  Never demonstrate such miserable incompetence again...!
- Are‐we‐un‐der‐stood...?!"
+ Are-we-un-der-stood...?!"
 She pulled back the hair she had grabbed even more strongly...
 This didn\'t cause Dlanor any physical pain,
  but she could clearly feel Erika\'s ill will.
@@ -486,7 +486,7 @@ The two of them reappeared behind Dlanor,
  ......Oh, before that.
  Are you aware that we were actually presented with a mystery before the murders even occurred?"
 "YES.
- You mean the letter with the mark of the One‐winged Eagle, which appeared at midnight last night along with a knock by some PERSON."
+ You mean the letter with the mark of the One-winged Eagle, which appeared at midnight last night along with a knock by some PERSON."
 "That\'s right.
  The tale appears to describe that it was impossible for any of the Humans at that moment,
  creating the illusion that an unknown witch exists.
@@ -519,7 +519,7 @@ Of those who remain, only Krauss, Natsuhi, and Genji were in the second floor co
 "Just a few minutes before the letter was discovered, Shannon and Kanon came in to serve TEA.
  When they entered, multiple witnesses confirmed that there was nothing suspicious like a letter in the HALLWAY."
 "
-Most likely, one of those not in the dining hall—Krauss, Natsuhi, or Genji—
+Most likely, one of those not in the dining hall - Krauss, Natsuhi, or Genji - 
 simply saw their chance right after that and placed the letter there.
  No, in fact, it would have been possible for the people who supposedly went to the guesthouse too."
 "
@@ -530,7 +530,7 @@ We\'ve heard that the mansion was locked and that no one outside could get in,
  blue truth, valid."
 "In that case, the problem is the KNOCK.
  Unlike the letter, someone would have to exist there at the instant of the KNOCK."
-"I see, so this is the so‐called proof that a person who shouldn\'t be there, a witch, existed?
+"I see, so this is the so-called proof that a person who shouldn\'t be there, a witch, existed?
  This is completely ridiculous.
  Do they think that this is all it takes to get me, Furudo Erika, to surrender?
  *giggle*giggle*, ahhahaha!"
@@ -548,10 +548,10 @@ Or they could have misheard some other random sound as a knock and misconstrued 
  What do you think of my reasoning...?!!"
 ".........Well, you heard her... How did she do?"
 "Well, it looks like your cute little piece gave it her all to think up these blue truths,
- so I guess I\'ll be nice and give out a few red truths myself♪"
+ so I guess I\'ll be nice and give out a few red truths myself"
 I guess I\'ll start with the letter.
 There was that knock when the large clock struck midnight.
-And when the door was opened, there lay a letter in an envelope bearing the One‐winged Eagle.
+And when the door was opened, there lay a letter in an envelope bearing the One-winged Eagle.
 The idea that the people who weren\'t in the dining hall secretly placed the letter in the hallway is such an old one, right?
 Krauss, Natsuhi, and Genji did not even touch that letter!
 "......Oho?
@@ -560,7 +560,7 @@ when Shannon and Kanon came in to serve tea, who was the last Human to enter the
  Let\'s say it was Kanon.
  Wouldn\'t it be easy if Kanon, the last person in, secretly dropped the letter there when he closed the door?"
 "
-Not a single person in the dining hall—no, there\'s a simpler way to say it.
+Not a single person in the dining hall - no, there\'s a simpler way to say it.
  Among all those inside the mansion at midnight,
  not a single one of them placed that letter in the hallway."
 "So you can\'t say that no one touched it?"
@@ -630,7 +630,7 @@ If the trick in Erika\'s theory about the letter being stuck to the serving cart
  then the location that the letter fell was a matter of luck.
 The people in the dining hall were able to notice it due to the knock only because it had fortunately fallen near the door.
 However, if the location it fell was a matter of chance,
- ......it might have landed in the far‐off kitchen,
+ ......it might have landed in the far-off kitchen,
  ...or even remained stuck the entire time.
 If that had happened, the knock would have been ignored as though they\'d just imagined it.
 In other words, the knock by itself carries no message at all.
@@ -663,10 +663,10 @@ With a bit of wordplay like that, it might be possible to get around the red tru
  I know I\'m being generous with the red, but aren\'t you getting a bit greedy?
  I\'m not an idiot like Beato,
  so I\'m not gonna go blabbing all the repetitions my opponent asks for..."
-".........I\'ll give you a full‐body massage scrub in a bath with marshmallows and konpeitou sometime soon.
+".........I\'ll give you a full-body massage scrub in a bath with marshmallows and konpeitou sometime soon.
  Hard enough to rub your skin off."
 "Eheheheheh, now you\'ve gotta keep that promise. *slurp*!
- ......Alright, then, here\'s a freebie♪
+ ......Alright, then, here\'s a freebie
  I\'ll respond to your repetition request.
  "
 At midnight, only Erika, George, Jessica, Maria, Nanjo, Gohda, and Kumasawa existed outside the mansion"!"
@@ -682,7 +682,7 @@ In that case, the letter might have been stuck to the ceiling of the hallway ins
 The letter never existed on the ceiling of the hallway."
 "For your attention: I beg to inform you of the following.
 Know that the letter never touched the serving cart."
-".........Wh‐who cares about that?!
+".........Wh-who cares about that?!
  The point is, some Human outside the mansion used some kind of trick to place the letter there!!
  I know what you\'re trying to do, use that letter and knock to argue that BEATRICE exists! Well, it definitely won\'t work on Furudo Erika!"
 "For your attention: I beg to inform you of the following.
@@ -693,7 +693,7 @@ It was impossible for anyone outside the mansion to influence anything inside th
 "Why...?!!
  That\'s the only possibility, right?!
  Someone outside the mansion used some kind of trick other than the ceiling or the serving cart...!!"
-"F‐For your attention:
+"F-For your attention:
  unless you can specify or hypothesize what kind of trick, it will not be recognized as blue truth."
 "For your attention:
  Lady Erika\'s blue truths regarding the letter have all been destroyed."
@@ -728,9 +728,9 @@ someone outside the mansion set things up with a cassette tape or something to m
 "...............Well, let me see.
  Normally, I\'d never forgive one of my pieces for the utter disgrace of surrendering,
  ......but if she\'s managed to solve one of the mysteries, maybe I\'ll let it slide for now......"
-"M‐......my master......"
+"M-......my master......"
 When BERNKASTEL said she\'d let it slide, Erika couldn\'t hide her relief.
-"Then it\'s time to get punished, Erika‐chan♪"
+"Then it\'s time to get punished, Erika-chan"
 None of the characters would misidentify a knocking sound.
 ".........Oh?
  What\'s that supposed to mean?"
@@ -744,7 +744,7 @@ Misidentifying a knocking sound means this:
 In other words, all of them would correctly distinguish a knocking sound of something truly hitting the door,
  and they definitely wouldn\'t mishear it.
  It\'s totally impossible that any sounds except hitting that door directly would be misinterpreted as a knock!!"
-"Wh‐......what the......
+"Wh-......what the......
  But that means......at the time the clock struck midnight,
  no one existed who could have hit the door......
  Gggh, ggghgghhhhh......"
@@ -756,7 +756,7 @@ In other words, all of them would correctly distinguish a knocking sound of some
 There was some kind of device that could knock on the door.
  There was something like an automatic door knocker, and that made it possible for someone to knock without touching the door with their hands."
 "
-‘To knock’ means someone hitting a door with their hand!
+\'To knock\' means someone hitting a door with their hand!
  I won\'t accept hitting it with some contraption, eheheheheheheheheheheh!!"
 "They heard a knock at the same time as the clock struck midnight.
  Everyone inside the dining hall definitely heard it at that time.
@@ -779,7 +779,7 @@ And none of them would misinterpret a knocking sound.
 The two witches doubled over laughing,
  as though this was the most fun thing in the world...
 "Gah, ............
- ...M‐...my master...
+ ...M-...my master...
  Have no fear.
  As long as my little gray cells are given the time, I will definitely reach an answer to this pitiful red...!"
 "Is that so? Thank you.
@@ -796,7 +796,7 @@ The two witches doubled over laughing,
  If you don\'t try a little harder, Bern\'s gonna forget you, you know...?
  You\'ll collect dust in that forgotten piece tray, awaiting your turn that will never come.
  ......I imagine that\'d be pretty harsh, don\'t you think...?"
-"Ha‐have no fear, Great Lady LAMBDADELTA, and my master...!
+"Ha-have no fear, Great Lady LAMBDADELTA, and my master...!
  I promise to deliver such a spectacular performance to earn your approval that you will never be disappointed in me again...!"
 "............Oh, how reassuring. I guess you\'re my double after all.
  ......Then you\'d better make sure you do work hard, in all kinds of ways.
@@ -821,8 +821,8 @@ As she stood there, ignored by the witches and shrouded in darkness,
  it looked like she had been made to go stand on her own in the hallway...
 With the crime in the early morning, we\'d completely forgotten about breakfast,
  so we now had our first meal of the day at a time that could never be called breakfast time...
-Even Gohda‐san\'s wonderful meal, which had supposedly been in the works since yesterday night, provided no comfort.
-The several empty seats quietly burdened us with a pain‐filled sadness......
+Even Gohda-san\'s wonderful meal, which had supposedly been in the works since yesterday night, provided no comfort.
+The several empty seats quietly burdened us with a pain-filled sadness......
 Then, in the middle of this meal that felt like a vigil, Erika suddenly stood up.
 Everyone focused on her to see what was the matter.
 Her expression was somewhere on the line between invigorated and insane, as though she\'d come up with some groundbreaking and strange invention.
@@ -834,12 +834,12 @@ Her expression was somewhere on the line between invigorated and insane, as thou
 With an ugly expression covered with cold sweat, Erika glared and lashed out at Battler.
 ".........You\'ve got it?
  ......Got what......?"
-"There\'s no way you jumped down from the third‐floor study...!
+"There\'s no way you jumped down from the third-floor study...!
  Not one of us saw you fall down and land in the courtyard...!!"
 "....................."
 "
-When you set up the ladder from the courtyard and saw Rudolf‐san go up it to the third‐story window,
- you closely observed the structure of the outer wall and realized that by cleverly using the rain gutters and other handholds, it would be possible to descend to the courtyard from the third‐floor window...!
+When you set up the ladder from the courtyard and saw Rudolf-san go up it to the third-story window,
+ you closely observed the structure of the outer wall and realized that by cleverly using the rain gutters and other handholds, it would be possible to descend to the courtyard from the third-floor window...!
  You didn\'t jump down!
  You used the rain gutters and so on and clambered down the outer wall like a loser!!
  What do you think of my blue truth?!! Come on, where\'s your rebuttal?!"
@@ -866,7 +866,7 @@ His hand slipped halfway, and he fell from a considerable height,
  but he managed to land on his feet without injuring himself.
 ......No one witnessed this,
  but most likely, everyone except Erika currently in the dining hall had realized that something like this had happened.
-No one had believed that he\'d jumped down from the third‐floor window in the first place.
+No one had believed that he\'d jumped down from the third-floor window in the first place.
 ......Even if they hadn\'t witnessed it directly.
 So they had no clue what Erika was complaining about and obsessing over all of a sudden,
  and started to whisper, glancing at her with cold eyes and dubious faces......

@@ -10,7 +10,7 @@ But from the witch side, a random shot might become fatal.
 "Yeah, it\'s almost like Russian roulette.
  ......Even so, you stretched those games out to the limit, believing that I would eventually figure it out."
 "......It may be impudent of me to ask,
- ......but just what is it that you figured out, Battler‐san?
+ ......but just what is it that you figured out, Battler-san?
  At the very end of your games with the old me..."
 It was a strange question.
 In the past, Beato had always been the one posing it to Battler.
@@ -68,7 +68,7 @@ After smiling bitterly for just a second, Battler laughed and told her not to wo
 Apparently, it was best if she avoided talking to Battler about her previous self...
 "......Well then, I\'ll go check on my opponent for a bit.
  ...I can\'t wait to see what kind of twisted logic that idiot thinks up next."
-"The old Battler‐san did a lot of that too.
+"The old Battler-san did a lot of that too.
  ......My favorite was the one from the first twilight of the second game, when you said the culprit killed everyone by feeding them small bombs."
 "Aaaaahhh, the highlights of my dark past...
  Please forget that ever happened..."
@@ -94,7 +94,7 @@ To fill in his place, a single gold butterfly appeared......and became Beato the
  Battler will also be happy, and all of us will suddenly have what we want."
 ".........I...can\'t get away from this trial, can I..."
 "Which means you cannot afford to lose to the other two pairs."
-"......George‐san and Shannon‐san, Jessica‐san and Kanon‐san.
+"......George-san and Shannon-san, Jessica-san and Kanon-san.
  ......I can only grasp happiness......by trampling over them..."
 "The conditions apply equally to all.
  ......If one of the others succeeds in love, the other two pairs, including you, will be trampled over."
@@ -129,7 +129,7 @@ It was the old, familiar kind of fight, reminiscent of the time when the red tex
 Erika reported this proudly as though it had been a great battle, but BERNKASTEL looked bored as she listened.
 After looking at her blankly for a second, LAMBDADELTA spoke her opinions frankly.
 ".........Wait a second.
- Doesn\'t that mean this locked‐room murder was perfect?"
+ Doesn\'t that mean this locked-room murder was perfect?"
 "Wha......uh......"
 The victims had sealed the locked rooms themselves.
 And that state had been preserved until Krauss and the others had broken the locked rooms open.
@@ -138,12 +138,12 @@ And Krauss\'s group, the ones who had broken the room open, were not the culprit
 ......Erika\'s battle had proceeeded in this way, with her detailed repetition requests winning her several other little red truths just like these.
 Normally, simply collecting such vital information would have been enough.
 However, the witch who was her master was tired of boredom,
- ......and she had been expecting a much more flashy, argument‐winning victory instead of this bland result.
-"H‐however, ......this time, I don\'t have the detective\'s authority, so there\'s a chance that my examination of the corpses could have been in error.
- S‐so, if we suppose that a drug which mimics death was used to fool my examination, umm..."
+ ......and she had been expecting a much more flashy, argument-winning victory instead of this bland result.
+"H-however, ......this time, I don\'t have the detective\'s authority, so there\'s a chance that my examination of the corpses could have been in error.
+ S-so, if we suppose that a drug which mimics death was used to fool my examination, umm..."
 "You mean Purupurupikopuyo?"
-"N‐no, not that...!
- It\'s not impossible for certain well‐known drugs, such as insulin, to bring about a temporary state that mimics death.
+"N-no, not that...!
+ It\'s not impossible for certain well-known drugs, such as insulin, to bring about a temporary state that mimics death.
  ......Battler did not counter that with the red truth.
  In other words, my blue truth worked...!
  I...I\'d say we\'ve started with a victory."
@@ -163,10 +163,10 @@ But no matter how much she tried, the cold expression of her master remained mer
  ......However, I don\'t have the detective\'s authority, .........so we can\'t be certain..."
 "Wait a second, weren\'t you the one who decided not to make the detective proclamation?
  Didn\'t you say you wanted to raise the stakes to make up for your disgrace last time?"
-"............W‐......well..............."
+"............W-......well..............."
 "What\'s wrong?
  ......Are you saying you can\'t win against Battler without the detective\'s authority......?"
-"N‐......not at all, my master.
+"N-......not at all, my master.
  ...I...I can easily defeat an incompetent buffoon like that, even without the detective\'s authority...
  ......It\'s just......this style of fighting is a little different from what I\'m used to, and I haven\'t gotten the hang of it yet......"
 Compared to other human beings, Erika would rank as extremely talented.
@@ -195,7 +195,7 @@ Dlanor also found it vexing that she couldn\'t provide adequate assistance...
  If you do, you\'ll be unstoppable.
  Dlanor could even use her red longsword and the Knox Decalogue."
 "............Why not do it...if you want......?"
-"N‐......no."
+"N-......no."
 There was no need for anyone to explain...
 By now, it was clear that Erika hadn\'t abandoned the detective proclamation by her own will.
 "......When Battler reached the truth in the previous game,
@@ -236,7 +236,7 @@ wasted...!!
  Filth,
  trash,
  scum!!"
-"...M‐......my apologies, ...my master......
+"...M-......my apologies, ...my master......
  ......I will definitely...bring you a victory, ......so please forgive me......"
 "If you couldn\'t win with the detective\'s authority in the last game,
  how do you expect to defeat Battler now that he\'s the Game Master...?
@@ -248,7 +248,7 @@ wasted...!!
 "And therefore, if you manage to win in this even worse situation,
  ......that would be a miracle worthy of me.
  If and only if you can do that, I\'ll be able to forgive you."
-"Y‐yes.
+"Y-yes.
  ......I will surely...show you that miracle...!"
 "You
  wish you could, disgusting pukespittle."
@@ -294,9 +294,9 @@ Erika averted her eyes and hung her head, timidly...
 LAMBDADELTA pulled a mirror out of thin air, peered into it, and made a comical fuss.
  She was apparently playing the fool in her own, special way.
 ".........Erika."
-"Wh‐......what is it?"
+"Wh-......what is it?"
 "That storm of red and blue from you and Dlanor in the last game...was spectacular."
-"......Th‐.........thanks."
+"......Th-.........thanks."
 "What happened to Dlanor this time?
  Are you by yourself?"
 ".........NO.
@@ -326,7 +326,7 @@ Battler fully realized the situation......
  I\'m just a theatergoer trying to relieve her boredom."
 "A theatergoer is someone who sits quietly in the stands and watches.
  That\'s not what we call someone who jeers at the stage and threatens or manipulates the performers."
-"Sorry for being an ill‐mannered patron.
+"Sorry for being an ill-mannered patron.
  ......You might not know it, but I\'ve already paid a huge admission fee to watch this play.
  Sorry, but I intend to enjoy it until I get my money\'s worth."
 "If you get in the way of the game\'s progression, I can use my authority as the Game Master to boot you out of this game."
@@ -344,10 +344,10 @@ Battler fully realized the situation......
  ......You were completely useless.
  You weren\'t able to overturn the dishonor of your loss, so as promised, I\'ll throw you into the worst fragment...
 and cast you into the depths of oblivion with the empty popcorn buckets!!"
-"M‐......my master...!
+"M-......my master...!
  I promise...I promise I will win...I promise I can win...!!
  So please, ......let me fight Battler to the finish...!!
- I don\'t......want to lose and......g‐get thrown in the d‐...depths of......oblivion......
+ I don\'t......want to lose and......g-get thrown in the d-...depths of......oblivion......
 ......*hic*.........*hic*......"
 "......Well, I\'d like to watch your battle until the end.
  ......But Battler says he\'ll toss me out.
@@ -364,14 +364,14 @@ When LAMBDADELTA made fun of that,
 As they say, nothing can stop poison but poison.
  ......Apparently, LAMBDADELTA was the only one who could rein BERNKASTEL in.
 "......Erika, you want to fight Battler, clear your name, and get Bern back into a good mood, right?"
-"Y‐......yes..."
+"Y-......yes..."
 "Battler, you want this "final game" that\'ll prove you\'ve found the truth...
 to have a proper, tidy conclusion, right?"
 "......Yeah.
- This is a face‐off between me and Erika.
+ This is a face-off between me and Erika.
  I won\'t let anyone get in my way,
  and I won\'t let anyone get in Erika\'s way either."
-"...B‐.........Battler............"
+"...B-.........Battler............"
 "If both of you wish to fight, then that should be respected.
  ......Leave Bern to me.
  I\'m the only one in the world who can calm that kid when she gets into a bad mood."
@@ -401,11 +401,11 @@ to have a proper, tidy conclusion, right?"
 ".........In order to unsheathe the Red Key, authorization is REQUIRED.
  One of the preconditions for applying for that authorization is the detective PROCLAMATION."
 "Is there any other way to obtain that authorization besides the detective proclamation?"
-"Wh‐......what are you saying...?!
- I‐if you\'re doing this out of pity for me, I don\'t need your help!"
+"Wh-......what are you saying...?!
+ I-if you\'re doing this out of pity for me, I don\'t need your help!"
 "Quiet.
  You\'re no challenge on your own and it\'s boring me stiff.
- So zip it, you non‐detective detective."
+ So zip it, you non-detective detective."
 "......Ghh.................."
 "The Red Key has an extremely close relationship with the red TRUTH.
  ......If and only if a "truth" is provided, I am permitted to draw the Red Key for items that pertain to IT."
@@ -428,7 +428,7 @@ Battler took a deep breath, then hung his head in thought for a time.
 ......Erika was his enemy,
  but she was the player on the Human side, and without her, there would be no game.
 It had been the same way with the old Beato.
-Battler had one‐sidedly viewed Beato as the enemy.
+Battler had one-sidedly viewed Beato as the enemy.
  However, though Beato had thought of him as the opposing player, she hadn\'t considered him to be an enemy on a personal level.
 ......I will fight my rival ruthlessly in accordance with the rules.
 However, that doesn\'t mean I need to hate Furudo Erika herself.
@@ -455,7 +455,7 @@ However, that doesn\'t mean I need to hate Furudo Erika herself.
 "Erika.
  ......I will give power, not to you, but to your allies."
 "Huh?!
- Wh‐what do you think you\'re doing...?!
+ Wh-what do you think you\'re doing...?!
  I\'d rather die than receive your pity!!"
 "For the trio of Dlanor, Gertrude, and Cornelia,
  ......Erika,
@@ -474,7 +474,7 @@ So, Battler was generous and measured them by room instead of by seal...
 "Whew, what a man!
  Aren\'t you lucky, Erika?!
  Now you can use a bit of red without making the detective proclamation and irritating your master."
-".........Y‐...you\'ll regret this...
+".........Y-...you\'ll regret this...
  ......These three seals......will be your death......!"
 "Sounds like fun.
  Come and kill me."
@@ -484,13 +484,13 @@ Now, she finally had enough leeway to fight as she pleased.
 ......She ground her teeth at being pitied by Battler, but her tears were not those of shame.
 "......UNDERSTOOD.
  Three rooms\' worth of duct tape seals, ACCEPTED.
- ......Regarding this matter, should we consider them as being accepted retroactively, back when Lady ERIKA received the non‐sticky duct tape from Mrs. Kumasawa?"
+ ......Regarding this matter, should we consider them as being accepted retroactively, back when Lady ERIKA received the non-sticky duct tape from Mrs. Kumasawa?"
 Erika had borrowed duct tape from Kumasawa to make seals with.
 However, Battler had made it so that those were not sticky...
 If he made it so that there never was any problem with the stickiness of that duct tape, the transition could be made smoothly.
 "Sure, that\'s fine.
  ......I\'ll rewrite the tale.
- ......The duct tape that Erika received from Kumasawa‐san late at night on the first day was sticky enough to work as a seal,
+ ......The duct tape that Erika received from Kumasawa-san late at night on the first day was sticky enough to work as a seal,
  but there was only enough left to use on three rooms.
  ......I\'ll apply that from here on out."
 "UNDERSTOOD.
@@ -518,7 +518,7 @@ As he did, he thought he heard Erika let out a strained voice calling him to a s
  Make sure you talk with Dlanor.
  Don\'t listen to those obnoxious witches, whatever they tell you.
  As long as they\'re on this game board, they\'ll obey my rules."
-".........Tha‐.........thank you........."
+".........Tha-.........thank you........."
 "..........................."
 "...Thank you......
  ......I\'ll...fight with all I\'ve got...
@@ -545,7 +545,7 @@ Battler departed into the darkness, became a cloud of gold butterflies, and vani
 Erika remained behind, sobbing......
 ......uuughhu......*hic*......
  Just
- kidding☆
+ kidding
 "You\'re easy pickings, you stupid man.
  ......You fell right for it and gave me the tape...!
  ......You gave...the great Furudo Erika...
@@ -590,7 +590,7 @@ The illusion that Erika was at an overwhelming disadvantage was just an act.
 "......Plus I wasn\'t acting.
  *giggle*giggle*."
 Despite getting the feeling that BERNKASTEL had just said something a little curious, Erika was in too high spirits to care.
-That pudding‐for‐brains moron, thinking he\'s done something so noble!
+That pudding-for-brains moron, thinking he\'s done something so noble!
 I\'ll make you regret it, kuhihihi!!
 "Alright!
  Let\'s use these seals at our leisure...!
@@ -602,7 +602,7 @@ I\'ll make you regret it, kuhihihi!!
 "............NO."
 Dlanor looked at Erika in a slightly lonely way.
 ......Then, after shaking her head slightly, her gaze turned hard, and she looked at the darkness Battler had disappeared into.
-".........You knew that this was a no‐holds‐barred FIGHT...
+".........You knew that this was a no-holds-barred FIGHT...
  .........Foolish, Lord BATTLER.
  This is, without a doubt, the result of your ARROGANCE."
 ............Mr. Battler, ...this will prove FATAL......
@@ -620,7 +620,7 @@ George spoke quietly with an annoyed expression.
 "......Yes. We won\'t lose."
 "Neither will we."
 "Yeah.
- ......And of course, the same goes for Battler‐kun\'s group."
+ ......And of course, the same goes for Battler-kun\'s group."
 ".........Of course.
  I doubt anyone here is so naive that they hope to win by having the others relinquish victory."
 "Right...
@@ -637,20 +637,20 @@ The two demons nodded, taking note of the six\'s continued resolve.
  Are we going to play musical chairs or something to make sure someone drops out this time?"
 ""Yes, precisely that!""
 "We\'ve decided to have this trial eliminate one group no matter what!"
-"For this trial, we will borrow from the second twilight of the epitaph—"
-""‘Tear apart the two who are close!!’
+"For this trial, we will borrow from the second twilight of the epitaph - "
+""\'Tear apart the two who are close!!\'
  Ahahahahahahahahahahahahaha!""
 "......I don\'t understand."
-"Zepar‐sama, Furfur‐sama......what sort of trial is this?
+"Zepar-sama, Furfur-sama......what sort of trial is this?
  ......Do you mean we\'re going to kill each other...?"
 "That\'d settle things quickly."
 "Though it\'s not exactly civilized."
 "Love is carnivorous."
 "......We can\'t all just find happiness together......can we..."
-"This is what they call a zero‐sum game.
+"This is what they call a zero-sum game.
  It\'s an economic term, but maybe you\'ve heard of it...?"
-"N‐...no, my apologies......"
-"In a zero‐sum game...all the wins and losses cancel out to zero.
+"N-...no, my apologies......"
+"In a zero-sum game...all the wins and losses cancel out to zero.
  ......In order for someone to win, someone else must be forced to lose.
  ......It\'s the ruthless way of this world."
 ".........Heh.
@@ -669,7 +669,7 @@ could be happy.
  I could never support a sad lovers\' double suicide where we are only united after death.
  ......I will see my love through, alive.
  I won\'t lose to anyone."
-"......George‐san..."
+"......George-san..."
 The door to the Golden Land is opened by solving the epitaph\'s riddle......
 It is said to be a place where love and lives are all whole and can be revived......
 "We\'re straying from the point.
@@ -683,27 +683,27 @@ It is said to be a place where love and lives are all whole and can be revived..
 "In short, one pair of lovers must drop out during this trial!"
 "......You say "kill" so simply.
  ......What are we supposed to do?"
-"You can fight to the death—"
+"You can fight to the death - "
 "Or you can decide by a lottery of some sort."
 "Like hell we\'re gonna choose by drawing lots.
  Let\'s have a duel, fair and square."
-"......Though if we do that, I imagine that Battler‐kun, who is the Game Master,
+"......Though if we do that, I imagine that Battler-kun, who is the Game Master,
  and BEATRICE, who is still the Golden Witch despite having no memory, ......will have a substantial advantage."
-"Ah, ......w‐......well, I wonder about that..."
+"Ah, ......w-......well, I wonder about that..."
 "Don\'t worry!
  For this trial, we have made everyone\'s powers completely equal."
 "Even the Game Master, Lord BATTLER, is taking this trial on an even footing with everyone else."
 "In that case, ......it\'s fair......"
 "Is it completely and purely even?"
 ""Yes, perfectly even!
- In a one‐on‐one fight, the luck of the moment would determine the outcome!""
-"As all is perfectly equal—"
+ In a one-on-one fight, the luck of the moment would determine the outcome!""
+"As all is perfectly equal - "
 "It\'ll probably take a while to finish a fight."
 "So perhaps the trick would be to attack in advantageous circumstances?"
 "Duels that take time are, of course, wonderful too!"
 "Why would anyone leave it up to luck?
  .........Of course we want the fight to be in our favor."
-".........In that case, ......a three‐way struggle...?
+".........In that case, ......a three-way struggle...?
  ......Wouldn\'t that mean we\'d all be stuck...?"
 Beato was the first to notice.
 If all six of them were truly on an even footing, and they wanted to fight so that they could win, they would have to fight as pairs and concentrate their attacks on a single person.
@@ -719,7 +719,7 @@ If you sit and wait for the others to start fighting, it\'s certain victory.
 ......The fight would never begin in circumstances like this...
 "......Maybe we could just have everyone fight the person next to them one on one.
  ......Then, as soon as one fight is settled, the trial will be over."
-Unless everyone could abandon any naive hopes for a two‐on‐one fight,
+Unless everyone could abandon any naive hopes for a two-on-one fight,
  this trial would never begin and never end.
 In that case, they could make a gentlemen\'s agreement and have everyone duel at once,
  which would be no different from drawing lots, ......but at least it would be fair...
@@ -736,15 +736,15 @@ This brought them back to the starting point.
 ".........Since we\'re in this mathematical situation where we all have the same strength, ......it\'s almost like a puzzle."
 "True.
  ......Dueling would have been an interesting proposition if our strengths were unknown.
- ......However, since we\'ve been told that we\'re perfectly even, a duel would be no different than rock‐paper‐scissors."
-"......In that case, ......why not use rock‐paper‐scissors to decide it......?"
+ ......However, since we\'ve been told that we\'re perfectly even, a duel would be no different than rock-paper-scissors."
+"......In that case, ......why not use rock-paper-scissors to decide it......?"
 "Are you crazy...?! I\'m not gonna do that!
  Even if someone does lose, there\'s no way they\'d accept their loss!"
 ".........If they don\'t accept it, then they will be attacked by the four winners.
  ......In a world where all are equal, the losers will have no chance of surviving..."
 "True.
  ......Huh.
- Is rock‐paper‐scissors actually the most reasonable way to settle this?"
+ Is rock-paper-scissors actually the most reasonable way to settle this?"
 "It is extremely reasonable.
  However, if you were to ask me whether I\'d be reckless enough to entrust my fate to a random number generator, the answer would be no."
 "Please do consider that problem...!"

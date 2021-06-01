@@ -65,7 +65,7 @@ I am."
 "It appears so.
  ...To think that we would go this far back..."
 "Wondering who you were...
- ...It looks like you had some pretty high‐minded worries."
+ ...It looks like you had some pretty high-minded worries."
 "......That is to be expected.
  At the time, I was unable to understand who I was,
  or why I was alive."
@@ -120,7 +120,7 @@ I am."
  ...Such an overbearing man."
 "Isn\'t that awesome.
  Everyone knows Grandfather\'s obsessed with the occult, but...
-...who knew he had the power to root down the Great Witch BEATRICE‐sama."
+...who knew he had the power to root down the Great Witch BEATRICE-sama."
 "......Heh, ridiculous.
  You think I\'d believe such a weird story?"
 "...As I thought, you don\'t believe."
@@ -170,7 +170,7 @@ I am."
  ......The physical body is a vessel which carries many restrictions in terms of magic."
 "Throw away your body of flesh......?
  What\'s that?
- Something like an out‐of‐body experience?"
+ Something like an out-of-body experience?"
 "Well, if you want to think of it that way.
  However, I am not a spirit.
  Even though I am a witch, in the beginning, I was born with a human\'s body of flesh.
@@ -203,10 +203,10 @@ Grandfather persistently courted her, and to escape from that,
  .........After I became a soul and tried to escape,
  even then, Kinzo had no intention of allowing me to escape."
 "...Yes, indeed, he is a frightening person.
- Normally, seeing the woman of your one‐sided desires take her own life should be enough to bring anyone to their senses, even if their love was a hundred years old.
+ Normally, seeing the woman of your one-sided desires take her own life should be enough to bring anyone to their senses, even if their love was a hundred years old.
  ......I suppose it makes him somewhat of a mage after all.
  ......*cackle*."
-"Don\'t try to speak in riddles with that incomprehensible witch‐girl talk.
+"Don\'t try to speak in riddles with that incomprehensible witch-girl talk.
  ...In short, what are you trying to say?"
 "That Kinzo didn\'t let me escape even after I became a soul.
  ......Human emotions are terrifying.
@@ -259,7 +259,7 @@ Of course, her expression was still brazen...
 but I had the feeling that I was able to catch a glimpse of loneliness because I hadn\'t found the story of her past interesting,
  in that really easy to understand expression of hers.
 ......For some reason, that slight reaction made her seem pitiful,
- so even though I kept my couldn\'t‐care‐less attitude, I decided to humor her slightly.
+ so even though I kept my couldn\'t-care-less attitude, I decided to humor her slightly.
 Damn it, even though she\'s an irritating witch, I\'m still weak against her because her chromosomes are XX...
 "......Well, I have absolutely no desire to believe you, but,
  ............keep going.
@@ -332,7 +332,7 @@ Grandfather had seized BEATRICE\'s soul, shut it up in a body of flesh,
  and then shut that up in a hidden mansion.
 However, since she had lived here since the time she was born, she couldn\'t even understand who she was,
  or why she lived shut up in there...
-......W‐...wait, wait.
+......W-...wait, wait.
 Who would take such a stupid story seriously?
 Why don\'t I change my interpretation?
 ...Essentially, couldn\'t it be something like this?
@@ -360,12 +360,12 @@ Couldn\'t this be something she just fabricated on the spot?
 A hidden mansion called Kuwadorian does exist in the forest of Rokkenjima.
  That is the place we were just talking about."
 ".........Huh?
- R‐...red?!"
+ R-...red?!"
 Ronove used the red to say that Kuwadorian actually existed.
 ...Did that mean the same thing as the red Beato used?
 "Even if I am not much of one, I am a demon all the same.
  ...Please keep this a secret from Milady, yes?"
-"...Y‐......yeah!"
+"...Y-......yeah!"
 Beato, who knew I would try to trip her up, had grown extremely cautious when using red.
 To think that Ronove could also use that red...
 Of course, it\'s the red of a crafty man.
@@ -376,7 +376,7 @@ Of course, it\'s the red of a crafty man.
  It is the truth.
  In the past,
 the pair actually had a conversation like that in this place."
-"Th‐thanks a lot.
+"Th-thanks a lot.
  I\'ll ask for some more red.
  She said that she was born from a homunculus,
  but does that kind of unscientific, magical thing actually exist?!"
@@ -393,15 +393,15 @@ the pair actually had a conversation like that in this place."
  Therefore, I am unable to answer in red any question that would bring about a stalemate."
 ".........You\'re speaking in riddles by saying something I don\'t really understand,
  but when it comes down to it, you\'re just trying to trick me because you can\'t say in red that something magical like a homunculus exists, right?"
-"If I were to say in red that "witches exist", what would you do, Battler‐sama?"
+"If I were to say in red that "witches exist", what would you do, Battler-sama?"
 "...............mh.
  ......That\'s what we\'re having this big fight over whether or not to believe, right?
  If you told me that outright, there\'d be nothing more to discuss.
  It\'d be game over."
 "If I said "witches exist" in red, you would have no room for argument.
- However, since the reason would never have been made clear to you, Battler‐sama, you probably wouldn\'t accept it.
+ However, since the reason would never have been made clear to you, Battler-sama, you probably wouldn\'t accept it.
  However, after being told that in red, you would have no room for argument and would not have been shown any proof."
-"In this situation, Battler‐sama,
+"In this situation, Battler-sama,
  even though you wouldn\'t be able to admit defeat, you would have no way to make a counterargument, and it would become a deadlock.
  Even though checkmate would not have been reached, no more moves would exist."
 "Since you would not be able to make your next move, it would never become Milady\'s turn,
@@ -455,7 +455,7 @@ that Grandfather raised that child believing it to be the reincarnation of BEATR
  is that in 1967, in a hidden mansion on Rokkenjima, BEATRICE existed as a human.
  That\'s all."
 "That is correct.
-In 1967, in a hidden mansion on Rokkenjima, BEATRICE‐sama existed as a human."
+In 1967, in a hidden mansion on Rokkenjima, BEATRICE-sama existed as a human."
 "Oh, thank you.
  That really helps."
 "Congratulations.
@@ -468,7 +468,7 @@ Ronove laughed indiscreetly.
 Somehow, I didn\'t like his phrasing, so I didn\'t feel like laughing along with him.
 "......That\'s right.
  Auntie Rosa said it.
- ......‘BEATRICE is dead’?
+ ......\'BEATRICE is dead\'?
  "I killed her"?
  What does that mean...?"
 "As for that, it may be faster to see the actual circumstances rather than listen to me tell you.
@@ -480,20 +480,20 @@ As soon as he did, I saw gold butterflies gather behind Ronove\'s back and take 
 It was her.
  That oldest sister of the Seven Stakes, who loved tormenting me more than anything else.
 ......If I don\'t think myself lucky to see that sexy ass, I won\'t be able to play along with their torture game...
-"Ronove‐sama.
+"Ronove-sama.
  So, you were still here.
- This is an urgent call from BEATRICE‐sama."
+ This is an urgent call from BEATRICE-sama."
 "My, my,
  what kind of urgent business could it be?
- ......It appears as though I have spent slightly too long chatting with you, Battler‐sama.
- Well then, Battler‐sama, if you will excuse me.
+ ......It appears as though I have spent slightly too long chatting with you, Battler-sama.
+ Well then, Battler-sama, if you will excuse me.
  Please continue to enjoy your game with Milady."
 "Yeah, yeah.
  I\'ll enjoy it as best as I can.
  ...\'Cause the conversations are more lively with you than with Beato.
  And you use the red more graciously.
  Come talk again any time."
-"............Battler‐sama.
+"............Battler-sama.
  Despite how I look, I am Milady\'s furniture.
  ...I cannot do something that Milady does not wish.
  What I said in red was something that normally should have come from Milady\'s mouth.
@@ -502,22 +502,22 @@ It was her.
  Ihihihi!"
 "Pu ku kuku."
 Seeing me and Ronove incomprehensibly hitting it off, that Seven Stakes chick cocked her head slightly.
-"Ronove‐sama.
- We are keeping BEATRICE‐sama waiting.
+"Ronove-sama.
+ We are keeping BEATRICE-sama waiting.
  Let us hurry."
 "Yes, I will come immediately.
- Well then, Battler‐sama, I shall see you later.
+ Well then, Battler-sama, I shall see you later.
  ......It appears that we have finally started getting along.
  As I thought, I have the feeling that we can become good friends."
 "If by that you mean partners at gossiping behind Beato\'s back."
-"Ronove‐sama!"
+"Ronove-sama!"
 "Yes, yes.
  Then, if you will excuse me."
 Maybe it was because she really didn\'t like seeing him act friendly with me, or maybe it was because she had really been told to hurry.
 The Seven Stakes babe bellowed sharply at Ronove, and he laughed foolishly and disappeared, as if running away...
 "......Hmph.
  How could I, the eldest sister of the Seven Stakes of Purgatory, be called on for this level of work!
- ...BEATRICE‐sama could easily have told one of the younger sisters, who look like they have so much free time, for something like this. Sheesh...!"
+ ...BEATRICE-sama could easily have told one of the younger sisters, who look like they have so much free time, for something like this. Sheesh...!"
 "Why so grumpy, girl?
  If you\'re hungry, eat a cookie or something.
  Why don\'t I give you the last one?
@@ -533,13 +533,13 @@ a hair\'s breadth into the gaps between my fingers on the hand I had used to pus
 ......It had happened in an instant, ...so for a while, I didn\'t even realize that her fingernails had grown.
 The tips of those sharp nails were like blades with a red manicure.
 ......The spaces between the bases of my fingers prickled.
-......Those razor‐like blades were sticking sharply into the back of my hand, and into the spaces between my fingers...
+......Those razor-like blades were sticking sharply into the back of my hand, and into the spaces between my fingers...
 By those three blades, my carelessly outstretched right hand was not even permitted to shake, and all I could do now was allow a single line of cold sweat to drip down.
 "............Wowee.
  ...Isn\'t it about time you cut your nails, babe?"
 "Lucifer.
  ......That is my noble name.
- Honored furniture serving BEATRICE‐sama, and the eldest sister of the Seven Stakes of Purgatory."
+ Honored furniture serving BEATRICE-sama, and the eldest sister of the Seven Stakes of Purgatory."
 ".........I\'m not like my disgraceful and cretinous younger sisters.
  If you don\'t show the proper respect, you will regret it."
 "...How would I regret it?
@@ -573,9 +573,9 @@ After taking several deep breaths with her hand over her chest, it seemed that s
  You say that even though you were always talking behind her back."
 "Would you give it a rest, Eva.
  So?
- Where did you meet BEATRICE, Rosa‐san?!"
-"Hideyoshi‐san, you mustn\'t rush her now.
- ......It\'s alright, Rosa‐san.
+ Where did you meet BEATRICE, Rosa-san?!"
+"Hideyoshi-san, you mustn\'t rush her now.
+ ......It\'s alright, Rosa-san.
  Tell us at your leisure."
 ".........Thank you.
  ...It was a day when I had been scolded particularly harshly by Mother."
@@ -583,9 +583,9 @@ Even though my tutor had promised to keep it a secret,
  ...apparently, they told Mother all about how I had complained.
 Mother scolded me horribly, saying that I was a disgrace to the Ushiromiya family.
 ......Of course, I was doing the best I could.
-But I had none of Krauss nii‐san\'s dignity,
- I couldn\'t get excellent grades like Eva nee‐san,
- and I had no leadership like Rudolf nii‐san.
+But I had none of Krauss nii-san\'s dignity,
+ I couldn\'t get excellent grades like Eva nee-san,
+ and I had no leadership like Rudolf nii-san.
 ...I never stood out, didn\'t particularly excel at anything,
  and I almost wanted to ask myself why I had even been born into the Ushiromiya family.
 I didn\'t know why I had been born.
@@ -595,9 +595,9 @@ For the first time since I was born,
  I had the third choice of running away.
 Even though I say run away, there was no way I could have left Rokkenjima and gone somewhere else.
 But, anyway, I wanted to run away from the mansion and the way I was at the time.
-......In a way, it was like running away from home, or maybe a half‐hearted suicide...
+......In a way, it was like running away from home, or maybe a half-hearted suicide...
 "......I wanted to disappear.
- Or maybe it was that child‐like form of resistance where I tried to make my parents worry by disappearing..."
+ Or maybe it was that child-like form of resistance where I tried to make my parents worry by disappearing..."
 ".........I thought childishly that if I went into the center of the forest, I could escape from the Ushiromiya house,
  or maybe I could get back at them by getting lost and making them worry."
 "So then, ......you went into the forest that you\'d been told not to go into?"
@@ -628,7 +628,7 @@ hidden mansion."
 Rosa nodded weakly......
 "About how far did you walk.
  Could you show it to us on a map...?
- Natsuhi‐san, is there a map of this island?"
+ Natsuhi-san, is there a map of this island?"
 "No, not right here and now..."
 "That would be impossible.
  I was just walking randomly.
@@ -650,7 +650,7 @@ It was vividly clear that in their haste,
 "......Mmhm.
  It is probably worth investigating right away."
 "We will do that investigation together as siblings.
- We won\'t let you do it alone, Nii‐san."
+ We won\'t let you do it alone, Nii-san."
 It wasn\'t certain that the gold was hidden in that secret mansion,
  but it seemed that the fireworks between Krauss and Eva had already begun.
 "Give it a rest for now, you two.
@@ -713,7 +713,7 @@ If someone had told me then that it was a dream,
 Since, in my shock, I had forgotten to hide myself, she eventually noticed me.
 At first, her expression was quite listless,
  but when she noticed me, her eyes opened very wide.
-...It was only natural—a guest that she didn\'t know had suddenly appeared.
+...It was only natural - a guest that she didn\'t know had suddenly appeared.
 I automatically bowed my head, feeling that I should greet her and apologize for entering without permission...
 "............Who are you?
  A new gardener?"
@@ -734,7 +734,7 @@ Because I hadn\'t been turned into a frog just by meeting her eyes, like the ter
 "Huh?
  Ah, ...yes!
  I\'m Kinzo\'s daughter.
- G‐good afternoon...!"
+ G-good afternoon...!"
 I was just a little surprised.
 ...After all, Father was a great man feared by everyone.
 And she had referred to him without using honorifics.
@@ -774,7 +774,7 @@ Because I was full of a strange mix of tension and excitement, I rudely asked he
  ......First, she was surprised that I had come through the forest.
  It seems she believed that many dangerous wolves lived outside the fence."
 "...So when I told her I had reached this place by going through the forest, she was very surprised.
- She asked how I had managed to escape from the wolves—did I give them biscuits and they let me go?
+ She asked how I had managed to escape from the wolves - did I give them biscuits and they let me go?
  Or did I cover myself in a magic cloak, or...
  Those kinds of things, I think."
 "Wahahaha.
@@ -801,7 +801,7 @@ Because I was full of a strange mix of tension and excitement, I rudely asked he
  I remember it well.
  Don\'t you remember those nights when you clung to my back?"
 "...*giggle*.
- I see, even Rudolf‐san used to have that cute period."
+ I see, even Rudolf-san used to have that cute period."
 "Oh, put a lid on it.
  I was just a kid."
 "......Well, anyway.
@@ -813,7 +813,7 @@ Because I was full of a strange mix of tension and excitement, I rudely asked he
 "...Forget the wolves, were there any kinds of stray dogs there at the time?
  It could have been a fence to protect against those."
 "There are no wolves or stray dogs on Rokkenjima.
- Just as Nii‐san and Kyrie‐san are saying,
+ Just as Nii-san and Kyrie-san are saying,
  that fence was probably a border between us and BEATRICE."
 "However, if she innocently believed the story about the wolves, that\'s pretty...naive.
  That\'s nothin\' like the way I\'d imagine a witch."
@@ -823,7 +823,7 @@ Because I was full of a strange mix of tension and excitement, I rudely asked he
  ...but she was somehow very childish, and...
 ...how should I say it, too honest?
  ......She gave me the impression that she didn\'t know anything about the world."
-"If I had to describe it, ...it was almost as though she had come from a fairy‐tale land.
+"If I had to describe it, ...it was almost as though she had come from a fairy-tale land.
  ......She was a truly mysterious person."
 "......What happened after that?
  ...Did you end up talking about Dad at all?"
@@ -860,7 +860,7 @@ Because I was full of a strange mix of tension and excitement, I rudely asked he
 When she did, ......she muttered unexpectedly.
 ".........Are there really no wolves beyond the fence?"
 "...Hmm?
- Y‐yes.
+ Y-yes.
  I\'ve never seen wolves even in a zoo."
 "What is this "zoo"?"
 "Ah, ...it\'s a place where they keep all kinds of animals.
@@ -880,7 +880,7 @@ I explained how fun zoos could be,
  but it was very difficult to get a person like her, who had never been to one, to understand...
 Quite the opposite, as I explained it to her, her expression grew increasingly dismal.
 ...She couldn\'t see the difference.
-It seemed that, although this mansion surrounded by a high fence appeared at a glance to afford her a completely provided‐for life of comfort,
+It seemed that, although this mansion surrounded by a high fence appeared at a glance to afford her a completely provided-for life of comfort,
  she couldn\'t see how she was different from the animals shut up in cages...
 "Who am I?
  ......Everyone calls me BEATRICE.
@@ -899,7 +899,7 @@ She was unable to leave this mansion of her own will, a prisoner without even re
 ......And she didn\'t know anything about the outside world, didn\'t even understand who she was.
 ......She probably vaguely understood herself that she was pitiful.
 But since she didn\'t know anything, it seemed that she couldn\'t realize that this was unhappiness.
-Nee‐san, long ago, when I told you that I felt sorry for a bird in a cage, I remember you said this to me.
+Nee-san, long ago, when I told you that I felt sorry for a bird in a cage, I remember you said this to me.
 "A bird that only knows the inside of a cage doesn\'t long for the outside".
 But she wasn\'t a bird.
 She was, ultimately, a human.
@@ -908,7 +908,7 @@ So,
  .........I invited her.
 "Do you want to try...
 ...going outside the fence?"
-".........Th‐there really aren\'t any wolves?"
+".........Th-there really aren\'t any wolves?"
 "There aren\'t.
  You\'ll definitely be safe."
 "..............................
@@ -962,7 +962,7 @@ A soft smile which I wouldn\'t have imagined could have come out of that dark fa
  I don\'t know about amusement parks."
 ".........And I think, from the bottom of my heart, that I want to know about them.
  ...Will you take me there?"
-"Huh? ......Y‐yes."
+"Huh? ......Y-yes."
 ...I was nervous about how I would do it and keep it a secret from Father,
  ...but her face looked so happy, so I went along with her and nodded.
 But it seemed that the meaning behind my vague expression was not communicated to her.
@@ -990,9 +990,9 @@ This was definitely something that would get me in a lot of trouble.
 I don\'t know how it will turn out, but......
  ......I\'ll take her out.
 Of course, I won\'t be able to ask help from Father, and not Mother either.
-.........Should I talk to Onii‐sama or Onee‐sama?
-No, what about that reliable Genji‐san, or...
-that\'s right, what about Kumasawa‐san, to whom I can always talk when I\'m in trouble.
+.........Should I talk to Onii-sama or Onee-sama?
+No, what about that reliable Genji-san, or...
+that\'s right, what about Kumasawa-san, to whom I can always talk when I\'m in trouble.
 I\'m sure they\'ll be able to do something.
 Anyway, for now, I\'ll take her out of here.
 Because this is no longer a place where she wishes to be.
@@ -1109,7 +1109,7 @@ But BEATRICE still appeared to be completely without fear.
  Well, um, there isn\'t only fish, they\'re full of all kinds of things that live in the ocean."
 "Hohhoh.
  I am really looking forward to that!
- .........nn—"
+ .........nn - "
 Wa, hyaa.
 She made...some might have described it as a funny,
  ...rushed and short voice,
@@ -1146,7 +1146,7 @@ And when she was hit with them, ......she screamed in resignation.
 "......How long do you plan on remaining dead?
  Open your eyes already.
  Honestly, just turning into a lump of meat without me."
-"I was just flirting with your friend the sexy‐assed chick.
+"I was just flirting with your friend the sexy-assed chick.
  ......More importantly, what is all this?"
 "Mmm.
  It is as you see.
@@ -1163,12 +1163,12 @@ And when she was hit with them, ......she screamed in resignation.
 It can\'t be.
  She\'s obviously alive.
 Otherwise, she wouldn\'t be here in front of me, right...?!
-...The kid‐aged Auntie Rosa was shaking BEATRICE\'s body, crying.
+...The kid-aged Auntie Rosa was shaking BEATRICE\'s body, crying.
 I too stared into that face,
  ...............but her eyes were still open, and it really was a corpse.
 ...I wanted to brush it off with something vague like a state of apparent death,
  ......but from any angle, there was nothing "apparent" about it; ...she really didn\'t look anything but dead...
-BEATRICE had fallen upside‐down from a cliff of that height,
+BEATRICE had fallen upside-down from a cliff of that height,
  ......and her head had smashed against the pointed tip of those sharp rocks.
 ............You would die, wouldn\'t you,
  ......from that height,
@@ -1204,7 +1204,7 @@ My theory that the 19th person was Grandfather\'s mistress, who was a human BEAT
  And that cage of flesh was thus broken.
  ......Do you understand what that means?"
 "...............I don\'t have a clue anymore.
- ......Keep having fun with your witch‐girl talk.
+ ......Keep having fun with your witch-girl talk.
  I\'ll listen instead of eating a cookie!
  What the... It\'s empty.
  Hey, could I get some more black tea?"
@@ -1342,7 +1342,7 @@ But I can\'t just hear that this is the truth from a witch and a demon and say "
 "......In other words, the odds that Kinzo will be able to meet me again are probably around one third.
  He bet his own life on those odds,
  wishing for a reunion with me for the last bit of his remaining life."
-".........You\'re saying he gathered our family for the sake of that fucked‐up ritual?!
+".........You\'re saying he gathered our family for the sake of that fucked-up ritual?!
  Oh, yeah, real fucking funny!!
  Don\'t say stuff like that, damn it!!"
 "It was according to the contract from the beginning.
@@ -1384,7 +1384,7 @@ There are no more than 18 humans on this Rokkenjima!"
  You have my condolences.
  ...However, Milady, you truly are a fast worker.
  I thought you would let him flounder around a little more before turning everything over at the end.
- Well then, Battler‐sama, would some more tea be agreeable to you?"
+ Well then, Battler-sama, would some more tea be agreeable to you?"
 "I, I don\'t want any, damn it!!
  I don\'t believe!
  The culprit can\'t be one of the 18!"

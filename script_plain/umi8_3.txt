@@ -27,9 +27,9 @@ There was a knock on the door.
 "Is that you, Genji?
  Come in!"
 "......Pardon the intrusion.
- Krauss‐sama and Natsuhi‐sama are here."
-"Father—oh, and Battler‐kun\'s here too."
-"It has been some time, BEATRICE‐san.
+ Krauss-sama and Natsuhi-sama are here."
+"Father - oh, and Battler-kun\'s here too."
+"It has been some time, BEATRICE-san.
  Has there been any news?"
 "I\'m just the way I used to be.
  Come, have a seat.
@@ -163,7 +163,7 @@ Beato rose from the sofa.
 Then, she walked up to the window and looked down at the rose garden waving in the wind.
 "Krauss.
  I have also decided to present you and the others with my inheritance while I still live."
-"F‐Father......"
+"F-Father......"
 "When I die, you will not only be busy with the funeral, but I imagine that you will have Eva and the others at your throats over the inheritance issue.
  If all is divided now, the funeral will be less trying for you.
 ......Krauss, write this down.
@@ -185,7 +185,7 @@ Battler, realizing that he shouldn\'t be listening in on this conversation,
  It has taken flight, leaving the nest of my magic behind."
 "Yeah.
  ......That\'s pretty much it."
-"I have called Rokkenjima the witch\'s island—
+"I have called Rokkenjima the witch\'s island - 
 my island."
 ".........Yeah."
 "And now, Rokkenjima is returning the gold to me.
@@ -237,7 +237,7 @@ She understood what her brother meant, and it made her frown.
 "That\'s right.
  I did say that."
 "I\'m not leaving.
- And please, stop trying to spoil me with this strange, made‐up tale...!
+ And please, stop trying to spoil me with this strange, made-up tale...!
  I want to know the truth of this day!!"
 "She is a moody kid, be it twelve years in the future or twelve years in the past."
 "Shut up. I didn\'t ask you...!
@@ -272,7 +272,7 @@ as you planned your brutal serial murders...!!"
 "Huh?!
  What\'s with the sudden change of character...?!!
  Is this some scheme to make me let my guard down?!
- I\'m not gonna be fooled, BEATRICE! Onii‐chan!!"
+ I\'m not gonna be fooled, BEATRICE! Onii-chan!!"
 "You want to make me surrender and say that witches exist, don\'t you?!
  You think I\'ll fall for that...?!
  I\'ll find the truth without your help!"
@@ -287,7 +287,7 @@ However, the difference between their heights was so great that Beato dodged bef
  I\'ll never.........acknowledge this farce as the truth...!!"
 After Ange yelled those words, her eyes grew cloudy.
 They cleared up almost immediately.
- By that time, she had already gone back to her six‐year‐old self...
+ By that time, she had already gone back to her six-year-old self...
 "............You\'re right, Ange.
  This is the sin I left behind, ...and the reason for this final tale\'s existence."
 "...........................?"
@@ -295,8 +295,8 @@ As Ange stared blankly, uncomprehending, Beato gently patted her head.
 "Indeed.
  This tale is a farce.
  It could not be true.
- ......Yet, he was prepared to look past that—
-no, to make it that way on purpose—
+ ......Yet, he was prepared to look past that - 
+no, to make it that way on purpose - 
 for the sake of the message that he wants to convey to you."
 "Beato.
  I\'m already showing it to her.
@@ -317,7 +317,7 @@ for the sake of the message that he wants to convey to you."
  ......Genji.
  Would you mind taking these two to the guesthouse?"
 "As you wish.
- ......Battler‐sama, Ange‐sama, please follow me."
+ ......Battler-sama, Ange-sama, please follow me."
 "Thanks.
  ......Okay, Beato.
  I\'ll see you later."
@@ -325,7 +325,7 @@ for the sake of the message that he wants to convey to you."
  I have a mountain of things I wish to discuss with you.
  And I\'d like us to have some time alone tonight.
  We must act the part of a couple every now and then...!"
-"Wh‐what do you mean, act the part of a couple?
+"Wh-what do you mean, act the part of a couple?
  Ihihi...!"
 Because Ange had gotten so bored, she had grown very sleepy.
 It would probably be best for her to take a quick nap.
@@ -354,7 +354,7 @@ Apparently, this was what he had planned.
 "Well, as for my old bastard,
  he\'s been running all over the place trying to get money for his company.
  I guess he\'ll be dancing with joy when he hears that he\'s gonna get to unwrap Grandfather\'s inheritance present early."
-"I rather think that Rudolf‐sama will be galvanized by a sense of great responsibility.
+"I rather think that Rudolf-sama will be galvanized by a sense of great responsibility.
  ......He has succeeded splendidly since he left the island.
  However, his success so far has been supported by the Master\'s wealth."
 "......And now that he\'s suddenly getting his inheritance money, he\'ll have to keep going by his own strength alone in the future.
@@ -367,7 +367,7 @@ Apparently, this was what he had planned.
  ......However, he first intended to call it a living funeral."
 "Sounds pretty depressing, having a funeral while you\'re still alive.
  I\'ll admit that calling it a day of a new journey and leaving the nest fits the Ushiromiya family much better."
-"...............Onii‐chan, ......I\'m sleepy......"
+"...............Onii-chan, ......I\'m sleepy......"
 "Look, we\'re almost to the guesthouse.
  Do you want to go to Mom\'s room?
  Or to the cousins\' room?"
@@ -391,7 +391,7 @@ While Ushiromiya Kinzo still lived, this was only thought of as a tall tale abou
  ......but the fact that the Rokkenjima Explosion Accident occurred at exactly midnight supported the story...
 "......It sounds crazy."
 "He must have hoped to gain some sort of mystical power from those short periods of madness.
- If we think of it as being his source of high‐output mental power, the story isn\'t that difficult to swallow."
+ If we think of it as being his source of high-output mental power, the story isn\'t that difficult to swallow."
 Professor Ootsuki spoke passionately.
 Witch Hunters.
 Enthusiasts who treat the mad fantasy surrounding Rokkenjima as their plaything.
@@ -431,7 +431,7 @@ She sealed the truth in a cat box...
 and left this world, taking the key with her.
 There can be only one answer.
 She was behind everything.
-She got all of the family wealth to herself and became super‐rich.
+She got all of the family wealth to herself and became super-rich.
 And afterward, she lamented the fact that her beloved son would never inherit any of what she had created, ...and she cursed me.
 ......Just remembering that old bitch makes me want to vomit.
 What happened that day?
@@ -439,7 +439,7 @@ What happened that day?
 It\'s my only goal, the one reason I\'m still alive.
 However, later on, I had to come to grips with the fact that my goal was an abstract one.
 After all, even if I don\'t know what happened that day...
-As for who did the crime—the whodunit—
+As for who did the crime - the whodunit - 
 that is already clear.
 Ushiromiya Eva.
  She\'s the culprit.
@@ -584,7 +584,7 @@ And a full twelve years have passed since then.
 ......If the truth could be discovered by a girl like me, waving wads of cash around to pick up a bit of info from those who were somehow related to the incident,
  then someone would have exposed the truth long ago.
 I might not be able to reach the truth.
-If so, .........then my first desire—to expose the truth—will probably fade away.
+If so, .........then my first desire - to expose the truth - will probably fade away.
 After that, only my hatred for Eva will remain.
 Just like the child soldiers, who forget their original purpose and live just to shoot...
 ...I will forget my original purpose...and live just to hate.
@@ -602,12 +602,12 @@ Ushiromiya Eva stole my family.
 So, I\'ll take revenge.
  ......By exposing her crimes and showing the world.
 ......My consciousness was slowly drifting away into sleep......
-Why is Onii‐chan showing me such a bizarre Rokkenjima...?
+Why is Onii-chan showing me such a bizarre Rokkenjima...?
 Is this supposed to be the truth?
 Enough with this farce.
-Why is even Onii‐chan trying to hide the truth from me?
+Why is even Onii-chan trying to hide the truth from me?
 I\'m trying to find it so that I can avenge him and the others.
-.........Or would Onii‐chan say the same thing as Amakusa?
+.........Or would Onii-chan say the same thing as Amakusa?
 That revenge is meaningless, so I should stop.
 Is that why......he\'s speaking in riddles, trying to make everything more confusing......?
 .........That\'s none of his business.
@@ -617,4 +617,4 @@ After all, that\'s the only thing I\'m living for.
 Taking revenge...is my reason to live.
 ..............................
 I don\'t have a clue...
-...what Onii‐chan is thinking.
+...what Onii-chan is thinking.

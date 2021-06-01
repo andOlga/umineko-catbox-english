@@ -8,7 +8,7 @@ I couldn\'t remember where this was,
 The room was dimly lit.
 There was a light on, but that just made the darkness and eeriness of the room more apparent.
 There were no curtains over the window, but it was too dark outside to see anything beyond it.
-If I squinted into that pitch‐blackness,
+If I squinted into that pitch-blackness,
  ......it felt as though I would see the witch of the forest peeking back at me through the darkness,
  ...and I averted my gaze from the window in fear.
 ......I couldn\'t see or hear it,
@@ -17,7 +17,7 @@ I have to get to where everyone else is right now......
 A bad memory from when I was very young began to well up.
 I was having trouble staying awake during a family gathering, and the next thing I knew, I was lying on a bed in a room I\'d never seen before.
  I have the horrible, painful memory of waking up there feeling incredibly lonely and crying my eyes out...
-This room—I\'m not supposed to be here.
+This room - I\'m not supposed to be here.
 I just want out.
 Once I started to think that way, I didn\'t want to stay in this room a second longer than I had to.
 This room scares me.
@@ -51,7 +51,7 @@ There was something......wrong with this chain.
  ...but this isn\'t a chain lock.
 This is just a chain staked into the door so that it can\'t open any further...
 In other words, it isn\'t made to be opened.
-"Wh‐......what the hell\'s going on......?
+"Wh-......what the hell\'s going on......?
  Who\'d do something like this, dammit..."
 No matter what I did, no matter how much I struggled, I couldn\'t pull out the stake or undo the chain or break the mechanism.
 This door was just a demon\'s mouth...made to trick me into thinking it would open before crushing my hopes a moment later.
@@ -96,19 +96,19 @@ Amakusa ran his finger down my cheek.
 I awoke in an instant from the doze I had just been in.
 I glared at Amakusa for waking me up in such a creepy way, but he just played dumb.
 Where......is this?
-It feels like a parlor in the house of some well‐off person,
+It feels like a parlor in the house of some well-off person,
  ......but I have no memory of this place at all.
 "....................."
 Where......is this......?
  ...And......why am I......?
-"Are you still half‐asleep, missy?"
+"Are you still half-asleep, missy?"
 "......Yeah, sorry.
  Where are we......?"
 "Huh?"
 Apparently, he hadn\'t expected me to forget something like that just because I wasn\'t fully awake yet.
  ......Oddly enough, I agreed.
 Why am I in this parlor that I don\'t recognize?
-The sound of the footsteps of the person—or people—that Amakusa had mentioned...
+The sound of the footsteps of the person - or people - that Amakusa had mentioned...
 had come right up to the opposite side of the door.
 I could hear the sound of a conversation.
  They were probably women...
@@ -169,7 +169,7 @@ Despite all of this, the author herself never appeared in public, and everything
 ......And yet, apparently even that had been a fake.
 Given this person\'s radically unconventional track record,
  it was hardly a surprise to hear her casually insult her fans like this.
-"I know quite a lot about you, too, Ushiromiya Ange‐san.
+"I know quite a lot about you, too, Ushiromiya Ange-san.
  The talk shows have been discussing you for some time now..."
 "I\'m sure you\'ve heard nothing good."
 "Yes.
@@ -186,9 +186,9 @@ Given this person\'s radically unconventional track record,
  That\'s actually pretty impressive..."
 "Itouikukuro0576.
  It was a pretty strange username.
- However, if you match the Japanese syllables to numbers, you can read it as 1‐10‐1‐9‐9‐6‐0576."
+ However, if you match the Japanese syllables to numbers, you can read it as 1-10-1-9-9-6-0576."
 11,019,960,576.
-This massive number is equal to 18⁸.
+This massive number is equal to 18^8.
 Eighteen to the eighth power.
  In Japanese, "tohya no hachijo".
 ......That\'s how you reach Hachijo Tohya...
@@ -211,16 +211,16 @@ Around the Japanese parts of the Internet, Itouikukuro is an extremely famous Wi
 However, she isn\'t a big opinion leader like Professor Ootsuki.
 She\'s one of those "message bottle Forgers" who are always the center of vigorous debate...
 Message bottle Forgers are, as the name suggests,
- people who forge and post the contents of riddle‐filled message bottles which purport to tell the story of the Rokkenjima incident.
+ people who forge and post the contents of riddle-filled message bottles which purport to tell the story of the Rokkenjima incident.
 Claiming to have discovered a new message bottle,
  they post either a very similar counterfeit or a new theory with their own interpretation of the truth, claiming that it was written by Ushiromiya Maria.
 They openly call themselves "Ushiromiya Maria",
  write up a new bizarre tale as if they had been there themselves and knew the truth,
- and send their stories out into the newest sea that Humans have discovered—the Internet—calling them the third or fourth message bottles...
+ and send their stories out into the newest sea that Humans have discovered - the Internet - calling them the third or fourth message bottles...
 All of the first Forgers were either simple pranksters...
 or crooks trying to swindle collectors.
 However, eventually, people who claimed to have solved the riddles of the message bottles\' tales and reached the "truth" started to appear,
- and they started work creating third and fourth message bottles from Ushiromiya Maria, as though they had moved over to the riddle‐teller\'s side.
+ and they started work creating third and fourth message bottles from Ushiromiya Maria, as though they had moved over to the riddle-teller\'s side.
 These people rewrote the tale of the witch with whatever interpretation they wanted, and every once in a while, certain theories would gather an enormous amount of support on the web.
  Because of this, some of these "creations" began to be so widely trusted that they were believed to contain some grain of truth.
 The more rigid Witch Hunters openly despised these people, calling them "Forgers", "Counterfeiters", or just "Witches".
@@ -260,7 +260,7 @@ When that happens, these tales will become associated with "that bizarre Hachijo
 "......Is that because your works are the truth, and not mere forgeries...?"
 "Correct.
  They are the truth, so there\'s no need for them to rise into anything."
-"You aren\'t Maria onee‐chan.
+"You aren\'t Maria onee-chan.
  And you weren\'t on Rokkenjima on that day.
  So how can you be so absurd as to call this the truth?"
 "Missy, you\'re getting a bit too stirred up."
@@ -314,7 +314,7 @@ The more she thought about it, the more she realized that the sum of the events 
 ......After all, in most cases, I don\'t get contacted by the publishing company at all and leave for Niijima the next day.
 ..................?
 .........I left for Niijima, then I went on to Rokkenjima.
-......Then I gave Onee‐chan...Sakutarou.
+......Then I gave Onee-chan...Sakutarou.
 ......Huh?
 .........Why would I have Sakutarou.........?
 ..............................
@@ -350,7 +350,7 @@ I mean,
 Did my confusion and uncertainty make me sigh out loud...?
 Even though Hachijo\'s back was to me,
  ......she slowly turned around......and smiled as though she had peered into my heart.
-"N‐
+"N-
 ......no, it\'s nothing."
 Strange memories...ones that even I can\'t understand.
 I tried to hide my confusion,
@@ -363,8 +363,8 @@ I tried to hide my confusion,
 "Yes, it does.
  ......So, please follow the lead of all those people on the web,
  and consider the possibility that I might be a witch."
-She took a thickly‐packed, brown envelope out of a locked drawer.
-It appeared to be filled to bursting with pages of printed‐out text.
+She took a thickly-packed, brown envelope out of a locked drawer.
+It appeared to be filled to bursting with pages of printed-out text.
 ......Perhaps this was a manuscript for one of her works.
 And, the neat letters written with a fountain pen on the envelope...
 ...spelled out the word "Dawn".
@@ -373,7 +373,7 @@ There is no forgery by the name of Dawn.
 ......Ange could tell.
  This was a new one.
 Hachijo\'s newest, unreleased forgery......
-“Dawn of the Golden Witch”...
+"Dawn of the Golden Witch"...
 "For one such as I, who knows everything, everything is boring.
  ......However, I don\'t dislike letting the ignorant read my works to see what kind of reaction they have.
  ......And so, I want you to read it."
@@ -416,11 +416,11 @@ There was only a nonhuman figure relaxing in a large, ornate rocking chair.
 Well, ......I did doubt that those people would just let me go so easily.
 ......What kind of farce will I be forced to go along with this time?
 I really don\'t care.
- I\'ll just do whatever I can within the bounds of the role they give me...whatever I can to help Onii‐chan.
+ I\'ll just do whatever I can within the bounds of the role they give me...whatever I can to help Onii-chan.
 Of course, I understand.
 ......Even if he wins, he\'ll never come back to "me".
 "Even so, ......I\'ll struggle on.
- I\'ll make sure Onii‐chan comes back to the "me" of that day."
+ I\'ll make sure Onii-chan comes back to the "me" of that day."
 "No need to lose your temper.
  I am not asking you to be a piece..."
 "Then why did you summon me here?
@@ -439,7 +439,7 @@ Of course, I understand.
  ......However, now that he has succeeded the position of Game Master, he is not a suitable observer.
  I am following this tale with true and earnest intentions.
  It would be such a waste to observe it through the eyes of Battler as he is now, like reading a detective novel backwards..."
-"......Onii‐chan is the Game Master??
+"......Onii-chan is the Game Master??
  What on Earth are you talking about?"
 "Of course you don\'t know.
  You want to know, don\'t you?
@@ -494,7 +494,7 @@ There was no threat in her words.
 "......If my attitude seems arrogant to you, allow me to apologize, child of man.
  It may not seem so, but I am speaking to you with the utmost respect."
 "Yeah, probably.
- ......I get the feeling that even that witch‐like style of speech...
+ ......I get the feeling that even that witch-like style of speech...
 is the most respect you\'ve shown anyone in the last few centuries."
 "When you\'re reading a book, do you tell it "thank you very much" before flipping through the pages...?"
 "......I guess it is like that.
