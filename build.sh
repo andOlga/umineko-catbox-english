@@ -8,4 +8,4 @@ cp -r exefs english/exefs
 zip -r patch.zip english
 rm -r english patch.snr
 # This is a script I use to copy the mod to my emulator right away, it's not in the repo
-[ -e 'update_local_mod.sh' ] && bash update_local_mod.sh
+if [ -e 'update_local_mod.sh' ] ; then bash update_local_mod.sh ; fi
