@@ -83,7 +83,7 @@ This patch is a work in progress. The current state of the content is as follows
 
 ## Applying the patch
 
-### Switch (emulation)
+### On PC (via Switch emulation)
 
 The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch. To install the game, dump it from your Switch, then place the NSP/XCI file into any of the directories listed under Options -> Settings -> General -> Game Directories (add one if there's none listed). To install the patch, [download it](../../releases/latest/download/patch.zip),
 right-click the game in your game list and choose "Open mods directory". Extract the archive there, preserving the directory structure.
@@ -93,19 +93,19 @@ You may get sound stuttering when playing with the OpenAL sound backend. Switch 
 yuzu is currently not compatible with the game. While it does boot, it crashes after a few minutes of play,
 and the sound stuttering issue is also present but has no resolution on that emulator. For now, I'd recommend to avoid this emulator.
 
-### Switch (hardware)
+### On Nintendo Switch (the actual hardware)
 
 If you want to play the game on your Nintendo Switch hardware, it will need Atmosphère installed on it. If you don't have Atmosphère already, please look it up to see if
 it's compatible with your Switch model and install it if it is.
 Afterwards, [download](../../releases/latest/download/patch.zip) the patch and place the `patch.rom` file in `atmosphere/contents/01006a300ba2c000/romfs/` on your SD card.
 The next time the game starts, it should be in English.
 
-### PS4/PS5
+### On Sony PlayStation 4 and 5
 
 The patch should work on PS4 and PS5 as the game uses the same file formats as the Switch version (at least as far as the patch is concerned).
 However, I have no idea how to actually apply the patch on these consoles. If you have usable instructions, please let me know.
 
 
-### PS3/PSP
+### On Sony PlayStation 3 and PSP
 
 The patch is **not compatible** with the versions of Umineko released on this hardware. At all. Don't bother trying.
