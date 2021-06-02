@@ -8,9 +8,9 @@ of Umineko on PlayStation 4 and Nintendo Switch.
 
 This patch is meant to be used on the **actual console releases of the game**. It is ***not* a standalone application**.
 
-The goal of the patch is to translate as much of the game as possible.
-Currently, the only obstacle to a full translation is being able to replace images (as some of them have text on them).
-This *is* possible to do, I just still need to figure out how.
+The final goal of the patch is to translate the entire game into English, including all of the new content.
+However, it is currently in very early stages, and it will take quite a bit of time until that goal is reached.
+You may find exact progress details further down this document.
 
 This project is made possible by the **excellent** [kaleido](https://gitlab.com/Neurochitin/kaleido/-/tree/saku/) tool by Neurochitin, which allows for modding of Entergram games, as well as the fact that Entergram added built-in mod support to Umineko (for reasons unknown). This allows for a clean build/install process and helps me avoid distributing the entire game.
 
