@@ -1,5 +1,7 @@
 # English patch for Umineko Catbox (UCE)
 
+[![Patch build](https://github.com/ooa113y/umineko-catbox-english/actions/workflows/main.yml/badge.svg)](https://github.com/ooa113y/umineko-catbox-english/actions/workflows/main.yml)
+
 ## Project description
 This is an English patch for Umineko When They Cry: The Symphony of Catbox and Dreams, the console version
 of Umineko on PlayStation 4 and Nintendo Switch.
