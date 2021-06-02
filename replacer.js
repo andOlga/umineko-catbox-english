@@ -1,25 +1,34 @@
 const fs = require('fs')
-const startLine = 18468
-const startEpisode = 1
-const stopEpisode = 1
-const startChapter = 0
+const startLine = 18468 - 1
 let targetScript = fs.readFileSync('script.rb', 'utf-8').split('\n')
-const header = targetScript.slice(0, startLine - 1).join('\n') + '\n'
-targetScript = targetScript.slice(startLine - 1).join('\n')
-fs.writeFileSync('script_target.rb', header, 'utf-8')
+let output = targetScript.slice(0, startLine).join('\n') + '\n'
+targetScript = targetScript.slice(startLine).join('\n')
 const scriptBase = 'script_plain/umi'
-for (let ep = startEpisode; ep <= stopEpisode; ep++) {
-  for (let chapter = startChapter; chapter <= 100; chapter++) {
+for (let ep = 1; ep <= 8; ep++) {
+  console.log(`Processing Episode ${ep}`)
+  for (let chapter = 0; chapter <= 100; chapter++) {
     const scriptJp = `${scriptBase}${ep}_${chapter}_jp.txt`
     const scriptEn = `${scriptBase}${ep}_${chapter}.txt`
     if (!fs.existsSync(scriptJp)) break
-    console.log(`Processing Episode ${ep}, chapter ${chapter}`)
+
     const linesJp = fs.readFileSync(scriptJp, 'utf-8').split('\n')
     const linesEn = fs.readFileSync(scriptEn, 'utf-8').split('\n')
+
+    let chapterScript = targetScript.split('\n').slice(0, linesJp.length).join('\n')
     for (let i = 0; i < linesJp.length; i++) {
-      if (linesEn[i]) targetScript = targetScript.replace(linesJp[i], linesEn[i])
+      if (linesEn[i]) {
+        for (const fun of [x => x + '@', x => x + "'", x => x.trim() + '@', x => x.trim() + "'"]) {
+          const tmpScript = chapterScript.replace(fun(linesJp[i]), fun(linesEn[i]))
+          if (tmpScript !== chapterScript) {
+            chapterScript = tmpScript
+            break
+          }
+        }
+      }
     }
+
+    output += chapterScript + '\n'
+    targetScript = targetScript.split('\n').slice(linesJp.length).join('\n')
   }
 }
-fs.writeFileSync('script_target.rb', targetScript, { encoding: 'utf-8', flag: 'a' })
-fs.renameSync('script_target.rb', 'script.rb')
+fs.writeFileSync('script.rb', output + '\n' + targetScript, 'utf-8')
