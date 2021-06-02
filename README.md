@@ -85,7 +85,10 @@ This patch is a work in progress. The current state of the content is as follows
 
 ### On PC (via Switch emulation)
 
-The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch. To install the game, dump it from your Switch, then place the NSP/XCI file into any of the directories listed under Options -> Settings -> General -> Game Directories (add one if there's none listed). To install the patch, [download it](../../releases/latest/download/patch.zip),
+The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch, and should perform perfectly even on lower-end hardware.
+This is the recommended method of using the patch.
+
+To install the game, dump it from your Switch, then place the NSP/XCI file into any of the directories listed under Options -> Settings -> General -> Game Directories (add one if there's none listed). To install the patch, [download it](../../releases/latest/download/patch.zip),
 right-click the game in your game list and choose "Open mods directory". Extract the archive there, preserving the directory structure.
 
 You may get sound stuttering when playing with the OpenAL sound backend. Switch to SoundIO if that happens.
