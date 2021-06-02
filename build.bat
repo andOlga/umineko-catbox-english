@@ -1,0 +1,2 @@
+wsl ./build.sh
+pause
