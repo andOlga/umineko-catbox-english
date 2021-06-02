@@ -43,7 +43,7 @@ This patch is a work in progress. The current state of the content is as follows
   - [ ] UI images (settings screen, control hints, etc)
   - [ ] CGs (that have text on them)
 - [ ] Rondo of Witch and Reasoning (Question Arcs)
-  - [ ] Episode 1: Legend of the Golden Witch
+  - [ ] Episode 1: Legend of the Golden Witch (**currently testing**)
   - [ ] Episode 2: Turn of the Golden Witch
   - [ ] Episode 3: Banquet of the Golden Witch
   - [ ] Episode 4: Alliance of the Golden Witch
@@ -76,9 +76,6 @@ This patch is a work in progress. The current state of the content is as follows
   - [ ] Forgery #XXX
   - [ ] Our Confession
   - [ ] Last Note of the Golden Witch
-
-My intent is to prioritise the new content first. This is because there already is a very competent port of the PS3 versions of Rondo and Nocturne to PC,
-which can be used for playing in English. Its name is [Umineko Project](https://umineko-project.org). Please read their version until I'm done.
 
 
 
