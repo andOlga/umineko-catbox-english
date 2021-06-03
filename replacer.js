@@ -14,7 +14,10 @@ for (let ep = 1; ep <= 8; ep++) {
     const linesJp = fs.readFileSync(scriptJp, 'utf-8').split('\n')
     const linesEn = fs.readFileSync(scriptEn, 'utf-8').split('\n')
 
-    let chapterScript = targetScript.split('\n').slice(0, linesJp.length).join('\n')
+    let chapterScript = targetScript.split('\n')
+    const lineIdx = chapterScript.findIndex(x => x.startsWith('s.ins 0xa0, byte(1), ')) + 1
+    chapterScript = chapterScript.slice(0, lineIdx)
+    chapterScript = chapterScript.join('\n')
     for (let i = 0; i < linesJp.length; i++) {
       if (linesEn[i]) {
         for (const fun of [x => x + '@', x => x + "'", x => x.trim() + '@', x => x.trim() + "'"]) {
@@ -28,7 +31,7 @@ for (let ep = 1; ep <= 8; ep++) {
     }
 
     output += chapterScript + '\n'
-    targetScript = targetScript.split('\n').slice(linesJp.length).join('\n')
+    targetScript = targetScript.split('\n').slice(lineIdx).join('\n')
   }
 }
 fs.writeFileSync('script.rb', output + '\n' + targetScript, 'utf-8')
