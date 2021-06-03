@@ -14,7 +14,6 @@ This project is made possible by the **excellent** [kaleido](https://gitlab.com/
 The final goal of the patch is to translate the entire game into English, including all of the new content.
 However, it is currently in very early stages, and it will take quite a bit of time until that goal is reached.
 
-Specifically:
 Currently, the "main" content (stuff that was present in all previous releases of Umineko,
 i.e. Episodes 1-8 and their respective open and hidden tea parties) is translated, but untested and **very** likely to crash or just act strange.
 
