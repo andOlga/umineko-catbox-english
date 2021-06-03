@@ -8,11 +8,27 @@ of Umineko on PlayStation 4 and Nintendo Switch.
 
 This patch is meant to be used on the **actual console releases of the game**. It is ***not* a standalone application**.
 
+This project is made possible by the **excellent** [kaleido](https://gitlab.com/Neurochitin/kaleido/-/tree/saku/) tool by Neurochitin, which allows for modding of Entergram games, as well as the fact that Entergram added built-in mod support to Umineko (for reasons unknown). This allows for a clean build/install process and helps me avoid distributing the entire game.
+
+## Progress
 The final goal of the patch is to translate the entire game into English, including all of the new content.
 However, it is currently in very early stages, and it will take quite a bit of time until that goal is reached.
-You may find exact progress details further down this document.
 
-This project is made possible by the **excellent** [kaleido](https://gitlab.com/Neurochitin/kaleido/-/tree/saku/) tool by Neurochitin, which allows for modding of Entergram games, as well as the fact that Entergram added built-in mod support to Umineko (for reasons unknown). This allows for a clean build/install process and helps me avoid distributing the entire game.
+Currently, the "main" content (stuff that was present in all previous releases of Umineko,
+i.e. Episodes 1-8 and their respective open and hidden tea parties) is translated, but untested and **very** likely to crash or just act strange.
+
+The bonus content has not been touched yet and I'll get around to it when I finish testing and tweaking the main episodes.
+
+- None of the UI has been translated yet.
+- The menus are in Japanese.
+- Some of the CGs have Japanese text on them.
+- TIPS and character descriptions are in Japanese.
+
+This will be addressed later.
+
+Additionally, line breaks are "weird" in the currently-translated episodes (they might occur in the middle of w
+
+ords). This is being worked on as well.
 
 ## How does this compare to ...?
 
@@ -35,50 +51,6 @@ There's like a thousand different versions of Umineko. Very confusing, I underst
 My intent is for UCE to be the "perfect", definitive way of experiencing Umineko in English, short of an official release by Entergram. Should that happen, this project will be taken down in favour of the official release. However, Entergram's track record with English releases is non-existent, and licensing Umineko for the West would be a nightmare, so the probability of that happening is abysmally close to zero.
 
 This is a lofty goal. However, having the power of the actual console release at my fingertips, I no longer have to build something that sort of kind of *feels* like the console version of Umineko. Instead, I have the real, authentic thing here to cut open, tear apart and sew back together. This means that once the actual text insertion work is complete, there will be nothing left to do -- no possible improvements to make.
-
-## Progress
-
-This patch is a work in progress. The current state of the content is as follows:
-
-- [ ] UI
-  - [ ] UI text (chapter/song names, character bios, tips)
-  - [ ] UI images (settings screen, control hints, etc)
-  - [ ] CGs (that have text on them)
-- [ ] Rondo of Witch and Reasoning (Question Arcs)
-  - [ ] Episode 1: Legend of the Golden Witch (**currently testing**)
-  - [ ] Episode 2: Turn of the Golden Witch
-  - [ ] Episode 3: Banquet of the Golden Witch
-  - [ ] Episode 4: Alliance of the Golden Witch
-- [ ] Nocturne of Truth and Illusions (Answer Arcs)
-  - [ ] Episode 5: End of the Golden Witch
-  - [ ] Episode 6: Dawn of the Golden Witch
-  - [ ] Episode 7: Requiem of the Golden Witch
-  - [ ] Episode 8: Twilight of the Golden Witch
-- [ ] Symphony of Catbox and Dreams (new/bonus content)
-  - [ ] Letter from Bernkastel
-  - [ ] The Witches' Tanabata Isn't Sweet
-  - [ ] Game Master Battler!
-  - [ ] Jessica's Mother's Day Present
-  - [ ] Jessica and the Love Charm
-  - [ ] Memoirs of the ΛΔ
-  - [ ] Notes from a Certain Chef
-  - [ ] Labor Thanksgiving Day Gifts
-  - [ ] The Seven Sisters' Valentine
-  - [ ] Beatrice's White Day
-  - [ ] Cornelia, the New Priest
-  - [ ] Whose tea party?
-  - [ ] Valentine Letters
-  - [ ] To Mount Purgatory, Sakutaro!
-  - [ ] Arigato for 556
-  - [ ] A Certain Witch Hunter's Interview Tape
-  - [ ] Letter from a Summoner
-  - [ ] Important Facts Concerning Magic
-  - [ ] Angel of 17 Years East Shi-44a
-  - [ ] Jessica and the Killer Electric Fan
-  - [ ] Forgery #XXX
-  - [ ] Our Confession
-  - [ ] Last Note of the Golden Witch
-
 
 
 ## Applying the patch
