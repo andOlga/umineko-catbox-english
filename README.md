@@ -20,7 +20,6 @@ i.e. Episodes 1-8 and their respective open and hidden tea parties) is translate
 However:
 
 - The bonus content has not been touched yet and I'll get around to it when I finish testing and tweaking the main episodes.
-- None of the UI has been translated yet.
 - The menus are in Japanese.
 - Some of the CGs have Japanese text on them.
 - TIPS and character descriptions are in Japanese.
