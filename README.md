@@ -15,7 +15,7 @@ The final goal of the patch is to translate the entire game into English, includ
 However, it is currently in very early stages, and it will take quite a bit of time until that goal is reached.
 
 Currently, the "main" content (stuff that was present in all previous releases of Umineko,
-i.e. Episodes 1-8 and their respective open and hidden tea parties) is translated, but untested and **very** likely to crash or just act strange.
+i.e. Episodes 1-8 and their respective open and hidden tea parties) is translated, but untested and might crash or act weird.
 
 The bonus content has not been touched yet and I'll get around to it when I finish testing and tweaking the main episodes.
 
