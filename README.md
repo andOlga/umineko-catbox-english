@@ -26,10 +26,6 @@ The bonus content has not been touched yet and I'll get around to it when I fini
 
 This will be addressed later.
 
-Additionally, line breaks are "weird" in the currently-translated episodes (they might occur in the middle of w
-
-ords). This is being worked on as well.
-
 ## How does this compare to ...?
 
 There's like a thousand different versions of Umineko. Very confusing, I understand. So here's a quick comparison of how this version will stack up against its main competitors (once it's finished):
