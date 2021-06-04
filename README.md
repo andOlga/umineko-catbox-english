@@ -17,8 +17,9 @@ However, it is currently in very early stages, and it will take quite a bit of t
 Currently, the "main" content (stuff that was present in all previous releases of Umineko,
 i.e. Episodes 1-8 and their respective open and hidden tea parties) is translated, but untested and might crash or act weird.
 
-The bonus content has not been touched yet and I'll get around to it when I finish testing and tweaking the main episodes.
+However:
 
+- The bonus content has not been touched yet and I'll get around to it when I finish testing and tweaking the main episodes.
 - None of the UI has been translated yet.
 - The menus are in Japanese.
 - Some of the CGs have Japanese text on them.
