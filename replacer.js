@@ -1,5 +1,5 @@
 const fs = require('fs')
-const startLine = 18468 - 1
+const startLine = 18473 - 1
 let targetScript = fs.readFileSync('script.rb', 'utf-8').split('\n')
 let output = targetScript.slice(0, startLine).join('\n') + '\n'
 targetScript = targetScript.slice(startLine).join('\n')
