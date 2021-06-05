@@ -13,7 +13,7 @@ jobs:
          submodules: recursive
       
       - name: Install deps
-        run: sudo apt-get install python3-numpy
+        run: sudo apt-get update && sudo apt-get install python3-numpy
         
       - name: Build patch archive
         run: bash build.sh
