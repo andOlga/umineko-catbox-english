@@ -3,7 +3,7 @@ set -e
 cd repack/rom-repack
 ruby kal_real.rb ../../script.rb ../../romfs ../../patch.rom ../../patch.snr 6 19 88
 cd ../..
-python3 build_bgame.py
+python3 build_exefs_text.py
 MODBASE=mods/contents/01006a300ba2c000/english/
 mkdir -p $MODBASE/romfs/
 mv patch.rom $MODBASE/romfs/patch.rom
