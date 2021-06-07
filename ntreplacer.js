@@ -59,7 +59,7 @@ const nametags = {
 for (let i = 0; i < lines.length; i++) {
   if (!lines[i].startsWith('s.ins 0x86')) continue
   for (const nt of Object.keys(nametags)) {
-    lines[i] = lines[i].replace(`, '${nt}@r`, `, '${nametags[nt]}@r`)
+    lines[i] = lines[i].replace(`s.layout('${nt}@r`, `s.layout('${nametags[nt]}@r`)
   }
 }
 fs.writeFileSync('script.rb', lines.join('\n'), 'utf-8')
