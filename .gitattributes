@@ -1,5 +1,6 @@
 *.sh eol=lf
 *.txt eol=lf
 *.rb eol=lf
+*.py eol=lf
 exefs/** binary
 romfs/** binary

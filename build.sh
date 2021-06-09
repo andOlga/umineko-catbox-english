@@ -9,7 +9,7 @@ mkdir -p $MODBASE/romfs/
 mv patch.rom $MODBASE/romfs/patch.rom
 cp -r exefs $MODBASE/exefs
 mkdir -p mods/exefs_patches/umineko/
-mv *.ips mods/exefs_patches/umineko/
+mv 7616F8963DACCD70E20FF3904E13367F96F2D9B3000000000000000000000000.ips mods/exefs_patches/umineko/
 zip -r patch.zip mods
 rm -r mods patch.snr
 # This is a script I use to copy the mod to my emulator right away, it's not in the repo
