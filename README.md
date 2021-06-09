@@ -69,8 +69,8 @@ then choose File -> Open Ryujinx Folder. Extract the archive there, preserving t
 
 You may get sound stuttering when playing with the OpenAL sound backend. Switch to SoundIO if that happens.
 
-yuzu is currently not compatible with the game. While it does boot, it crashes after a few minutes of play,
-and the sound stuttering issue is also present but has no resolution on that emulator. For now, I'd recommend to avoid this emulator.
+yuzu is also compatible, however, it's not a recommended option. It requires more powerful hardware to run well (in particular, a lot more RAM).
+Additionally, it also has sound stuttering issues, which have no workaround there.
 
 ### On Nintendo Switch (the actual hardware)
 
