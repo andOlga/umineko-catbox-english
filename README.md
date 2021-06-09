@@ -84,6 +84,12 @@ The next time the game starts, it should be in English.
 The patch should work on PS4 and PS5 as the game uses the same file formats as the Switch version (at least as far as the patch is concerned).
 However, I have no idea how to actually apply the patch on these consoles. If you have usable instructions, please let me know.
 
+Note that on PS4/PS5 the game is likely to crash when entering the tips menu.
+This is due to a hardcoded length limit for TIPS, which this patch exceeds.
+I can only change this value on the Switch version.
+
+Additionally, a certain part of EP8 will remain untranslated on PS4/PS5, for the same reason.
+
 
 ### On Sony PlayStation 3 and PSP
 
