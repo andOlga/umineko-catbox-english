@@ -19,4 +19,4 @@ for (let i = 0; i < linesJp.length; i++) {
     }
   }
 }
-fs.writeFileSync('replace_script_out.rb', output + '\n' + targetScript, 'utf-8')
+fs.writeFileSync('replace_script_out.rb', targetScript, 'utf-8')
