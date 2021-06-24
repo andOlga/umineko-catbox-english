@@ -8,7 +8,7 @@ if (!fs.existsSync(scriptJp) || !fs.existsSync(scriptEn)) break
 const linesJp = fs.readFileSync(scriptJp, 'utf-8').split('\n')
 const linesEn = fs.readFileSync(scriptEn, 'utf-8').split('\n')
 const replaceDialogue = true
-const lineFuns = replaceDialogue ? [x => x + '@', x => x + "'", x => x.trim() + '@', x => x.trim() + "'"] : [x => x]
+const lineFuns = replaceDialogue ? [x => x + '@', x => x + "'", x => x.trim() + '@', x => x.trim() + "'"] : [x => x, x => x.trim()]
 for (let i = 0; i < linesJp.length; i++) {
   if (linesEn[i]) {
     for (const fun of lineFuns) {
