@@ -1,9 +1,9 @@
 const fs = require('fs')
-let targetScript = fs.readFileSync('replace_script.rb', 'utf-8')
+let targetScript = fs.readFileSync('script_replace.rb', 'utf-8')
 const scriptBase = `script_plain/${process.argv[2]}`
 const scriptJp = `${scriptBase}_jp.txt`
 const scriptEn = `${scriptBase}.txt`
-if (!fs.existsSync(scriptJp) || !fs.existsSync(scriptEn)) break
+if (!fs.existsSync(scriptJp) || !fs.existsSync(scriptEn)) process.exit()
 
 const linesJp = fs.readFileSync(scriptJp, 'utf-8').split('\n')
 const linesEn = fs.readFileSync(scriptEn, 'utf-8').split('\n')
@@ -20,4 +20,4 @@ for (let i = 0; i < linesJp.length; i++) {
     }
   }
 }
-fs.writeFileSync('replace_script_out.rb', targetScript, 'utf-8')
+fs.writeFileSync('script_replace_out.rb', targetScript, 'utf-8')
