@@ -49,8 +49,8 @@ There's like a thousand different versions of Umineko. Very confusing, I underst
 |Backlog|Advanced<br>(jump to line/chapter, replay voice)|Advanced|Basic<br>(only view past text)|Basic
 |Resolution|1920x1080|1920x1080|1920x1080|1280x960
 |Languages|English<br>(Japanese can be played without the patch 😆)|English, Russian, Portuguese, Chinese<br>Japanese **not** supported|English, Japanese|English, Japanese
-|Targeted platforms|Switch, PS4, PS5<br>PC (via emulation)|PC, Android, iOS|PC|PC
-|Input methods|Controller, touch|Keyboard, mouse|Keyboard, mouse, controller|Keyboard, mouse, controller
+|Target platforms|Switch, PS4, PS5<br>PC (via emulation)|PC, Android, iOS|PC|PC
+|Controller support|Yes|Very broken|Yes|No
 
 My intent is for UCE to be the "perfect", definitive way of experiencing Umineko in English, short of an official release by Entergram. Should that happen, this project will be taken down in favour of the official release. However, Entergram's track record with English releases is non-existent, and licensing Umineko for the West would be a nightmare, so the probability of that happening is abysmally close to zero.
 
