@@ -40,7 +40,7 @@ There's like a thousand different versions of Umineko. Very confusing, I underst
 
 |Feature|UCE|[Umineko Project](https://umineko-project.org)|[07th-Mod](https://07th-mod.com)|Steam release
 |-|-|-|-|-|
-|Content coverage|Rondo, Nocturne, Symphony|Rondo, Nocturne|Rondo, Nocturne|Rondo & Nocturne (full)<br>Symphony (partial)
+|Content coverage|Complete|Main arcs only|Main arcs fully covered<br>bonus arcs mod started but never finished|Main arcs only
 |Sprites|Animated Switch/PS4 sprites|Animated *or* static PS3 sprites<br>(fewer expressions but otherwise identical to Switch/PS4)|Static PS3 sprites<br>Original/Steam sprites|Original/Steam sprites
 |Backgrounds|Animated|Animated|Static|Static|
 |CGs|Yes|Yes|Yes|Sort of (they exist in files but are never shown...)
