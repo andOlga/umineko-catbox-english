@@ -40,7 +40,7 @@ There's like a thousand different versions of Umineko. Very confusing, I underst
 
 |Feature|UCE|[Umineko Project](https://umineko-project.org)|[07th-Mod](https://07th-mod.com)|Steam release
 |-|-|-|-|-|
-|Content coverage|Rondo, Nocturne, Symphony|Rondo, Nocturne|Rondo, Nocturne|Rondo & Nocturne (full)<br>Symphony (partial)
+|Content coverage|Complete|Main arcs only|Main arcs fully covered,<br>bonus arcs mod started but never finished|Main arcs only
 |Sprites|Animated Switch/PS4 sprites|Animated *or* static PS3 sprites<br>(fewer expressions but otherwise identical to Switch/PS4)|Static PS3 sprites<br>Original/Steam sprites|Original/Steam sprites
 |Backgrounds|Animated|Animated|Static|Static|
 |CGs|Yes|Yes|Yes|Sort of (they exist in files but are never shown...)
@@ -49,8 +49,8 @@ There's like a thousand different versions of Umineko. Very confusing, I underst
 |Backlog|Advanced<br>(jump to line/chapter, replay voice)|Advanced|Basic<br>(only view past text)|Basic
 |Resolution|1920x1080|1920x1080|1920x1080|1280x960
 |Languages|English<br>(Japanese can be played without the patch 😆)|English, Russian, Portuguese, Chinese<br>Japanese **not** supported|English, Japanese|English, Japanese
-|Targeted platforms|Switch, PS4, PS5<br>PC (via emulation)|PC, Android, iOS|PC|PC
-|Input methods|Controller, touch|Keyboard, mouse|Keyboard, mouse, controller|Keyboard, mouse, controller
+|Target platforms|Switch, PS4, PS5<br>PC (via emulation)|PC, Android, iOS|PC|PC
+|Controller support|Yes|Yes, but very broken|Yes|Yes
 
 My intent is for UCE to be the "perfect", definitive way of experiencing Umineko in English, short of an official release by Entergram. Should that happen, this project will be taken down in favour of the official release. However, Entergram's track record with English releases is non-existent, and licensing Umineko for the West would be a nightmare, so the probability of that happening is abysmally close to zero.
 
