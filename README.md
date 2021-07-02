@@ -69,9 +69,6 @@ then choose File -> Open Ryujinx Folder. Extract the archive there, preserving t
 
 You may get sound stuttering when playing with the OpenAL sound backend. Switch to SoundIO if that happens.
 
-yuzu is also compatible, however, it's not a recommended option. It requires more powerful hardware to run well (in particular, a lot more RAM).
-Additionally, it also has sound stuttering issues, which have no workaround there.
-
 ### On Nintendo Switch (the actual hardware)
 
 If you want to play the game on your Nintendo Switch hardware, it will need Atmosphère installed on it. If you don't have Atmosphère already, please look it up to see if
