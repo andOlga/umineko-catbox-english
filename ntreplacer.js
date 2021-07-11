@@ -53,7 +53,8 @@ const nametags = {
   'ゼパル': 'Zepar',
   'フェザリーヌ': 'FEATHERINE',
   'ウィラード・Ｈ・ライト': 'Will',
-  '右代宮　理御': 'Lion'
+  '右代宮　理御': 'Lion',
+  '山羊の従者': 'Goat'
 }
 /* eslint-enable quote-props */
 for (let i = 0; i < lines.length; i++) {
