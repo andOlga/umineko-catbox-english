@@ -26,8 +26,7 @@ However, it is currently a work in progress, and it will take quite a bit of tim
 Currently, the "main" content (stuff that was present in all previous releases of Umineko,
 i.e. Episodes 1-8) has been translated, however, only EPs 1-2 have been thoroughly tested so far.
 
-Other episodes may contain a few untranslated lines here and there in the main text,
-will have untranslated tips, character bios, and, in the worst case, may outright crash.
+Your experience with the untested episodes may range from encountering a couple of untranslated sentences here and there to outright crashes. Of course, I am working on testing and fixing the remaining episodes.
 
 Bonus content (Tsubasa, Hane and the new Saku-exclusive stories) has not been touched at all yet. For now, it is fully in Japanese. I will get around to it when the main EPs are done.
 
