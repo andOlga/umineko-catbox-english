@@ -29,14 +29,7 @@ i.e. Episodes 1-8) has been translated, however, only EPs 1-2 have been thorough
 Other episodes may contain a few untranslated lines here and there in the main text,
 will have untranslated tips, character bios, and, in the worst case, may outright crash.
 
-Bonus content (Tsubasa, Hane and the new Saku-exclusive stories) has not been touched at all yet. For now, it is fully in Japanese.
-
-However:
-
-- The bonus content has not been touched yet. I'll get around to it when I finish testing and fixing the main Episodes.
-- TIPS and character descriptions are in Japanese.
-
-This will be addressed later.
+Bonus content (Tsubasa, Hane and the new Saku-exclusive stories) has not been touched at all yet. For now, it is fully in Japanese. I will get around to it when the main EPs are done.
 
 ## How does this compare to ...?
 
