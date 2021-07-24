@@ -21,11 +21,15 @@ This patch would be impossible without the assistance of the following projects:
 
 ## Progress
 The final goal of the patch is to translate the entire game into English, including all of the new content.
-However, it is currently in very early stages, and it will take quite a bit of time until that goal is reached.
+However, it is currently a work in progress, and it will take quite a bit of time until that goal is reached.
 
 Currently, the "main" content (stuff that was present in all previous releases of Umineko,
-i.e. Episodes 1-8) is translated, but only EP1 has been thoroughly tested.
-Other EPs may crash or act strange.
+i.e. Episodes 1-8) has been translated, however, only EPs 1-2 have been thoroughly tested so far.
+
+Other episodes may contain a few untranslated lines here and there in the main text,
+will have untranslated tips, character bios, and, in the worst case, may outright crash.
+
+Bonus content (Tsubasa, Hane and the new Saku-exclusive stories) has not been touched at all yet. For now, it is fully in Japanese.
 
 However:
 
