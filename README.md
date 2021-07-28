@@ -40,7 +40,7 @@ This is the recommended method of using the patch.
 To install the game, dump it from your Switch, then place the NSP/XCI file into any of the directories listed under Options -> Settings -> General -> Game Directories (add one if there's none listed). To install the patch, [download it](../../releases/latest/download/patch.zip),
 then choose File -> Open Ryujinx Folder. Extract the archive there, preserving the directory structure.
 
-You may get sound stuttering when playing with the OpenAL sound backend. Switch to SoundIO if that happens.
+You may get sound stuttering when playing with the OpenAL sound backend. Switch to SDL2 or SoundIO if that happens.
 
 ### On Nintendo Switch (the actual hardware)
 
