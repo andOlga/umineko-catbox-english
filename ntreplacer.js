@@ -32,7 +32,7 @@ const nametags = {
   'アスモデウス': 'Asmodeus',
   'ロノウェ': 'Ronove',
   'シエスタ４１０': 'Chiester410',
-  'シエスタ４５@': 'Chiester45',
+  'シエスタ４５': 'Chiester45',
   'シエスタ００': 'Chiester00',
   'シエスタ５５６': 'Chiester556',
   'さくたろう': 'Sakutarou',
