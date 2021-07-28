@@ -30,29 +30,6 @@ Your experience with the untested episodes may range from encountering a couple 
 
 Bonus content (Tsubasa, Hane and the new Saku-exclusive stories) has not been touched at all yet. For now, it is fully in Japanese. I will get around to it when the main EPs are done.
 
-## How does this compare to ...?
-
-There's like a thousand different versions of Umineko. Very confusing, I understand. So here's a quick comparison of how this version will stack up against its main competitors (once it's finished):
-
-|Feature|UCE|[Umineko Project](https://umineko-project.org)|[07th-Mod](https://07th-mod.com)|Steam release
-|-|-|-|-|-|
-|Content coverage|Complete|Main arcs only|Main arcs fully covered,<br>bonus arcs mod started but never finished|Main arcs only
-|Sprites|Animated Switch/PS4 sprites|Animated *or* static PS3 sprites<br>(fewer expressions but otherwise identical to Switch/PS4)|Static PS3 sprites<br>Original/Steam sprites|Original/Steam sprites
-|Backgrounds|Animated|Animated|Static|Static|
-|CGs|Yes|Yes|Yes|Sort of (they exist in files but are never shown...)
-|Text display|ADV<br>(small textbox at the bottom of the screen)|ADV|ADV or NVL|NVL<br>(text covers whole screen)
-|Voice acting|Yes|Yes|Yes|Yes<br>(need "voice-only" patch from 07th-Mod)
-|Backlog|Advanced<br>(jump to line/chapter, replay voice)|Advanced|Basic<br>(only view past text)|Basic
-|Resolution|1920x1080|1920x1080|1920x1080|1280x960
-|Languages|English<br>(Japanese can be played without the patch 😆)|English, Russian, Portuguese, Chinese<br>Japanese **not** supported|English, Japanese|English, Japanese
-|Target platforms|Switch, PS4, PS5<br>PC (via emulation)|PC, Android, iOS|PC|PC
-|Controller support|Yes|Yes, but very broken|Yes|Yes
-
-My intent is for UCE to be the "perfect", definitive way of experiencing Umineko in English, short of an official release by Entergram. Should that happen, this project will be taken down in favour of the official release. However, Entergram's track record with English releases is non-existent, and licensing Umineko for the West would be a nightmare, so the probability of that happening is abysmally close to zero.
-
-This is a lofty goal. However, having the power of the actual console release at my fingertips, I no longer have to build something that sort of kind of *feels* like the console version of Umineko. Instead, I have the real, authentic thing here to cut open, tear apart and sew back together. This means that once the actual text insertion work is complete, there will be nothing left to do -- no possible improvements to make.
-
-
 ## Applying the patch
 
 ### On PC (via Switch emulation)
@@ -63,7 +40,7 @@ This is the recommended method of using the patch.
 To install the game, dump it from your Switch, then place the NSP/XCI file into any of the directories listed under Options -> Settings -> General -> Game Directories (add one if there's none listed). To install the patch, [download it](../../releases/latest/download/patch.zip),
 then choose File -> Open Ryujinx Folder. Extract the archive there, preserving the directory structure.
 
-You may get sound stuttering when playing with the OpenAL sound backend. Switch to SoundIO if that happens.
+You may get sound stuttering when playing with the OpenAL sound backend. Switch to SDL2 or SoundIO if that happens.
 
 ### On Nintendo Switch (the actual hardware)
 
@@ -91,3 +68,25 @@ That said, the game should still be largely playable on these platforms, and wil
 ### On Sony PlayStation 3 and PSP
 
 The patch is **not compatible** with the versions of Umineko released on this hardware. At all. Don't bother trying.
+
+## How does this compare to ...?
+
+There's like a thousand different versions of Umineko. Very confusing, I understand. So here's a quick comparison of how this version will stack up against its main competitors (once it's finished):
+
+|Feature|UCE|[Umineko Project](https://umineko-project.org)|[07th-Mod](https://07th-mod.com)|Steam release
+|-|-|-|-|-|
+|Content coverage|Complete|Main arcs only|Main arcs fully covered,<br>bonus arcs mod started but never finished|Main arcs only
+|Sprites|Animated Switch/PS4 sprites|Animated *or* static PS3 sprites<br>(fewer expressions but otherwise identical to Switch/PS4)|Static PS3 sprites<br>Original/Steam sprites|Original/Steam sprites
+|Backgrounds|Animated|Animated|Static|Static|
+|CGs|Yes|Yes|Yes|Sort of (they exist in files but are never shown...)
+|Text display|ADV<br>(small textbox at the bottom of the screen)|ADV|ADV or NVL|NVL<br>(text covers whole screen)
+|Voice acting|Yes|Yes|Yes|Yes<br>(need "voice-only" patch from 07th-Mod)
+|Backlog|Advanced<br>(jump to line/chapter, replay voice)|Advanced|Basic<br>(only view past text)|Basic
+|Resolution|1920x1080|1920x1080|1920x1080|1280x960
+|Languages|English<br>(Japanese can be played without the patch 😆)|English, Russian, Portuguese, Chinese<br>Japanese **not** supported|English, Japanese|English, Japanese
+|Target platforms|Switch, PS4, PS5<br>PC (via emulation)|PC, Android, iOS|PC|PC
+|Controller support|Yes|Yes, but very broken|Yes|Yes
+
+My intent is for UCE to be the "perfect", definitive way of experiencing Umineko in English, short of an official release by Entergram. Should that happen, this project will be taken down in favour of the official release. However, Entergram's track record with English releases is non-existent, and licensing Umineko for the West would be a nightmare, so the probability of that happening is abysmally close to zero.
+
+This is a lofty goal. However, having the power of the actual console release at my fingertips, I no longer have to build something that sort of kind of *feels* like the console version of Umineko. Instead, I have the real, authentic thing here to cut open, tear apart and sew back together. This means that once the actual text insertion work is complete, there will be nothing left to do -- no possible improvements to make.
