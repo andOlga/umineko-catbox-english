@@ -49,6 +49,8 @@ it's compatible with your Switch model and install it if it is.
 Afterwards, [download](../../releases/latest/download/patch.zip) the patch, rename `mods` to `atmosphere` and copy it to your SD card.
 The next time the game starts, it should be in English.
 
+I don't recommend this approach for now as the patch is still in active development and you're potentially going to murder your SD card updating it all the time. Once the patch is finished, this method of playing should be perfectly viable.
+
 ### On Sony PlayStation 4 and 5
 
 Applying the patch on these platforms is *theoretically* possible, though only partially: only the `patch.rom` can be used.
