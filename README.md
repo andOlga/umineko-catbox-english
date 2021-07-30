@@ -51,23 +51,16 @@ The next time the game starts, it should be in English.
 
 ### On Sony PlayStation 4 and 5
 
-The patch should work on PS4 and PS5 as the game uses the same file formats as the Switch version (at least as far as the patch is concerned).
-However, I have no idea how to actually apply the patch on these consoles. If you have usable instructions, please let me know.
+Applying the patch on these platforms is *theoretically* possible, though only partially: only the `patch.rom` can be used.
+Unfortunately, this means that the tips menu will not work correctly, and the minigame in Episode 8 will remain in Japanese: those things require exefs modifications, and I have no idea how to implement something similar for the PS4 version of the game.
 
-This approach is *not* recommended.
+Additionally, I have not tested the patch on these consoles, nor do I actually have any idea how to install it. If you have some sort of instructions I could put here, please let me know.
 
-On PS4/PS5 the game is likely to crash when entering the tips menu.
-This is due to a hardcoded length limit for TIPS, which this patch exceeds.
-I can only change this value on the Switch version.
-
-Additionally, a certain part of EP8 will remain untranslated on PS4/PS5, for the same reason.
-
-That said, the game should still be largely playable on these platforms, and will be almost fully translated if patched.
-
+In short -- it *might* work, maybe, sort of, but no promises whatsoever. I strongly recommend using the Switch version of the game instead.
 
 ### On Sony PlayStation 3 and PSP
 
-The patch is **not compatible** with the versions of Umineko released on this hardware. At all. Don't bother trying.
+The patch is **not compatible** with the versions of Umineko released on this hardware. At all. Don't even bother trying.
 
 ## How does this compare to ...?
 
