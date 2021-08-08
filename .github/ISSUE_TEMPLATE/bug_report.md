@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a BUG in the patch
 title: ''
-labels: bug
+labels: ''
 assignees: ooa113y
 
 ---
