@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report a BUG in the patch
 title: ''
 labels: bug
 assignees: ooa113y
