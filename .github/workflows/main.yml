@@ -19,9 +19,6 @@ jobs:
         run: bash build.sh
         
       - name: Release
-        uses: softprops/action-gh-release@v1
-        with:
-         files: patch.zip
-         tag_name: v${{ github.run_number }}
+        run: gh release create v${{ github.RUN_NUMBER }} patch.zip
         env:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
