@@ -32,3 +32,24 @@
 0x15b027	Maria	■第一の晩@z100.@r「@c649.犠牲者はみんな、即死@c999.だったろうね。……きひひひひひ」@r@z25.@r@z100.@z110.■第二の晩@z100.@r「@c649.外からガムテープでベタベタと、窓や扉を封印したよ！@c999.」@r@z25.@r@z100.@z110.■第七の晩@z100.@r「@c649.戸締りは完璧だよ。@c999.密室なのにどうして？」@r@z25.@r@z100.@z110.■第八の晩@z100.@r「@c649.これで生きているわけがない@c999.もんね。きひひひひ」@r@z25.@r@z100.「うん。@c649.私たち３人に朱志香は殺せない@c999.」@r@z25.@r@z100.「きひひ、ありがとう。@c649.譲治お兄ちゃんだって、大人は殺せないよ。子供は殺せるけれど。@c999.きひひひひひひ」
 0x161012	Kanon	■第一の晩@z100.@r「@c649.僕と南條先生は、源次さまが死んでいることを確認しました@c999.」@r@z25.@r@z100.@z110.■第二の晩@z100.@r「@c649.部屋の中には、蔵臼さまと夏妃さまが倒れていました@c999.」@r@z25.@r@z100.「@c649.僕たち使用人全員は、それぞれが使用人全員のアリバイを証明できます@c999.」
 0x15d200	Kumasawa	■第一の晩@z100.@r「@c649.そこに私が来たのです。@c999.万一のこともあるから、鍵を開けてみたらと勧めたのです」@r@z25.@r@z100.「@c649.絵羽さま、秀吉さま、留弗夫さま、霧江さま、楼座さま、そして源次さんの、計６人が血塗れになって倒れていたのでございます……@c999.」
+0x162c2a	Continue reading from this bookmark?	ロードします。よろしいですか？
+0x162c58	Remove this bookmark?	このセーブデータを削除します。よろしいですか？
+0x162147	Place this bookmark on the current page?	セーブを行います。よろしいですか？
+0x162fd0	Move this bookmark to the current page?	セーブを行います。@r内容は上書きされますが、よろしいですか？
+0x15f8f8	Unused bookmark	データがありません
+0x162105	Highlight position	カーソル位置
+0x161aae	In-game position	ゲーム内現在位置
+0x15dd4e	Current position	カーソル位置/ゲーム内現在位置
+0x163263	Start	先頭
+0x161ac7	End	後尾
+0x15f87a	Reset ALL settings to default?	設定を初期値に戻します。よろしいですか？
+0x162ebe	Go back to the title screen?	ゲームを終了して、タイトル画面に戻ります。@rよろしいですか？
+0x1619f6	Skip this chapter?	次のチャプターか選択肢までスキップします。@rよろしいですか？
+0x15fb2d	Return to the last chapter?	前のチャプターに戻ります。@rよろしいですか？
+0x15b467	%dh %dm	%d時間 %d分
+0x164021	%dm	%d分
+0x161a50	Yes	はい
+0x161d57	No	いいえ
+0x15c8eb	Start reading from the selected line?	シーンジャンプを実行します。@rよろしいですか？
+0x15f024	Writing save data.@rDO NOT CLOSE THE GAME NOW,@ror @c900.your save files will not load correctly@c999..	セーブデータを更新中です。@r電源を切ったり、アプリケーションを終了したりしないでください。
+0x16468c	Start the game?	このシナリオを開始します。@rよろしいですか？
