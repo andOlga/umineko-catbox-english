@@ -34,15 +34,32 @@ A more detailed list of items that are being worked on can be found [here](../..
 
 ## Applying the patch
 
-### On PC (via Switch emulation)
+### On PC (via Ryujinx)
+
+This is the recommended method of using the patch as it is what I'm using to test it during development.
 
 The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch, and should perform perfectly even on lower-end hardware.
-This is the recommended method of using the patch.
 
 To install the game, dump it from your Switch, then place the NSP/XCI file into any of the directories listed under Options -> Settings -> General -> Game Directories (add one if there's none listed). To install the patch, [download it](../../releases/latest/download/patch.zip),
-then choose File -> Open Ryujinx Folder. Extract the archive there, preserving the directory structure.
+then choose File -> Open Ryujinx Folder. Extract the "mods" folder there (the whole folder, not just its contents).
 
 You may get sound stuttering when playing with the OpenAL sound backend. Switch to SDL2 or SoundIO if that happens.
+
+### On PC (via Yuzu)
+Another Switch emulator, [Yuzu](https://yuzu-emu.org), is also compatible with the game and the patch.
+
+However, Yuzu does not follow Atmosphère mod conventions, and therefore requires the patch to be modified to work with it.
+
+I have added a tool that will perform the modification for you. First, [download](../../releases/latest/download/patch.zip) the patch.
+Next, extract the entire archive into any location that is convenient for you.
+Finally, double-click the `prepare_yuzu.bat` file (if you are on Linux, run `prepare_yuzu.sh` with bash instead).
+
+After a short while, a `yuzu_mod` folder will be generated. Now, open Yuzu, right-click the game and choose "Open Mod Data Location".
+Move the entire `yuzu_mod` folder there (not just its contents).
+
+Note that yuzu may perform worse or even crash on systems with less than 16GB of RAM, while Ryujinx can handle the game fine in that case.
+
+If you are unsure which emulator to go with, go with Ryujinx. This Yuzu section is here only for those who already play *other* Switch games on Yuzu, so that they aren't inconvenienced with switching between different emulators just for the sake of this patch.
 
 ### On Nintendo Switch (the actual hardware)
 

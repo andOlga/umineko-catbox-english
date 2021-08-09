@@ -10,7 +10,8 @@ mv patch.rom $MODBASE/romfs/patch.rom
 cp -r exefs $MODBASE/exefs
 mkdir -p mods/exefs_patches/umineko/
 mv 7616F8963DACCD70E20FF3904E13367F96F2D9B3000000000000000000000000.ips mods/exefs_patches/umineko/
-zip -r patch.zip mods
-rm -r mods patch.snr
+cp yuzu_scripts/* .
+zip -r patch.zip mods prepare_yuzu.*
+rm -r mods patch.snr prepare_yuzu.*
 # This is a script I use to copy the mod to my emulator right away, it's not in the repo
 if [ -e 'update_local_mod.sh' ] ; then bash update_local_mod.sh ; fi

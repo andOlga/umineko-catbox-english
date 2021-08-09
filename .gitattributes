@@ -2,5 +2,6 @@
 *.txt eol=lf
 *.rb eol=lf
 *.py eol=lf
+*.bat eol=crlf
 exefs/** binary
 romfs/** binary
