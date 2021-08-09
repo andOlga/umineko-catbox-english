@@ -30,6 +30,8 @@ Your experience with the untested episodes may range from encountering a couple 
 
 Bonus content (Tsubasa, Hane and the new Saku-exclusive stories) has not been touched at all yet. For now, it is fully in Japanese. I will get around to it when the main EPs are done.
 
+A more detailed list of items that are being worked on can be found [here](../../issues/3).
+
 ## Applying the patch
 
 ### On PC (via Switch emulation)
