@@ -78,7 +78,9 @@ Unfortunately, this means that the tips menu will not work correctly, and the mi
 
 Additionally, I have not tested the patch on these consoles, nor do I actually have any idea how to install it. If you have some sort of instructions I could put here, please let me know.
 
-In short -- it *might* work, maybe, sort of, but no promises whatsoever. I strongly recommend using the Switch version of the game instead.
+Finally, trophies will almost certainly not work with the patch installed.
+
+In short -- the patch *might* work on PlayStation, maybe, sort of, but no promises whatsoever. I strongly recommend using the Switch version of the game instead.
 
 ### On Sony PlayStation 3 and PSP
 
