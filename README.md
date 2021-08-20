@@ -4,7 +4,7 @@
 
 ## Project description
 This is an English patch for Umineko When They Cry: The Symphony of Catbox and Dreams, the console version
-of Umineko on PlayStation 4 and Nintendo Switch.
+of Umineko on Nintendo Switch and Sony PlayStation 4/5.
 
 This patch is meant to be used on the **actual console releases of the game**. It is ***not* a standalone application**.
 
