@@ -1,4 +1,5 @@
 #!/bin/bash
+# Build requirements: Python 3 with Numpy, Ruby, zip
 set -e
 cd repack/rom-repack
 ruby kal_real.rb ../../script.rb ../../romfs ../../patch.rom ../../patch.snr 6 19 88
