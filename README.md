@@ -18,7 +18,7 @@ This patch would be impossible without the assistance of the following projects:
 - [Umineko Project](https://umineko-project.org), a similar translation work done for the PS3 version of Umineko, which serves as the base for the translated script and images used in the patch.
 - The original translation of the PC version of Umineko by [The Witch Hunt](https://witch-hunt.com). While their work isn't being used directly, without these people Umineko would have never made it to the West in any form at all.
 - And, of course, the game itself, created by 07th-Expansion and producted (sic) by Entergram. Please buy the game on the [eShop](https://store-jp.nintendo.com/list/software/70010000012343.html) or [PSN](https://store.playstation.com/ja-jp/product/JP0741-CUSA16973_00-UMINEKOSAKUZZZZZ) to support the creators.
-  - Please *do not* buy the version of the game that is available on Steam, as it won't support Entergram whatsoever since they had no involvement with that release. This version is also not compatible with this patch in any way, and is significantly inferior to the console releases (no voice acting, worse visuals, worse UI, missing content).
+  - Please note that while you are welcome to buy the Steam release of Umineko to offer the authors additional support, it is not compatible with this patch. That version, while in English, is significantly inferior to the console releases (no voice acting, worse visuals, worse UI, missing content). Alternative PC ports of Umineko also exist, but none of them have full content coverage.
 
 ## Progress
 The final goal of the patch is to translate the entire game into English, including all of the new content.
