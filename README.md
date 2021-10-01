@@ -41,22 +41,15 @@ This is the recommended method of using the patch as it is what I'm using to tes
 
 The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch, and should perform perfectly even on lower-end hardware.
 
-To install the game, dump it from your Switch, then place the NSP/XCI file into any of the directories listed under Options -> Settings -> General -> Game Directories (add one if there's none listed). To install the patch, [download it](../../releases/latest/download/patch.zip),
-then choose File -> Open Ryujinx Folder. Extract the "mods" folder there (the whole folder, not just its contents).
+To install the game, dump it from your Switch, then place the NSP/XCI file into any of the directories listed under Options -> Settings -> General -> Game Directories (add one if there's none listed). To install the patch, [download it](../../releases/latest/download/patch_atmos.zip),
+then choose File -> Open Ryujinx Folder. Navigate to the "mods" directory and extract the entire archive to that location.
 
 You may get sound stuttering when playing with the OpenAL sound backend. Switch to SDL2 or SoundIO if that happens.
 
 ### On PC (via Yuzu)
 Another Switch emulator, [Yuzu](https://yuzu-emu.org), is also compatible with the game and the patch.
 
-However, Yuzu does not follow Atmosphère mod conventions, and therefore requires the patch to be modified to work with it.
-
-I have added a tool that will perform the modification for you. First, [download](../../releases/latest/download/patch.zip) the patch.
-Next, extract the entire archive into any location that is convenient for you.
-Finally, double-click the `prepare_yuzu.bat` file (if you are on Linux, run `prepare_yuzu.sh` with bash instead).
-
-After a short while, a `yuzu_mod` folder will be generated. Now, open Yuzu, right-click the game and choose "Open Mod Data Location".
-Move the entire `yuzu_mod` folder there (not just its contents).
+To install the patch, [download](../../releases/latest/download/patch_yuzu.zip) the Yuzu version of it, then right-click the game in Yuzu, choose "Open Mod Data Location" and extract the entire archive there.
 
 Note that yuzu may perform worse or even crash on systems with less than 16GB of RAM, while Ryujinx can handle the game fine in that case.
 
@@ -66,7 +59,7 @@ If you are unsure which emulator to go with, go with Ryujinx. This Yuzu section 
 
 If you want to play the game on your Nintendo Switch hardware, it will need Atmosphère installed on it. If you don't have Atmosphère already, please look it up to see if
 it's compatible with your Switch model and install it if it is.
-Afterwards, [download](../../releases/latest/download/patch.zip) the patch, rename `mods` to `atmosphere` and copy it to your SD card.
+Afterwards, [download](../../releases/latest/download/patch_atmos.zip) the patch and copy it to the "atmosphere" folder on your SD card.
 The next time the game starts, it should be in English.
 
 I don't recommend this approach for now as the patch is still in active development and you're potentially going to murder your SD card updating it all the time. Once the patch is finished, this method of playing should be perfectly viable.

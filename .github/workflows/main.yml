@@ -19,6 +19,6 @@ jobs:
         run: bash build.sh
         
       - name: Release
-        run: gh release create v${{ github.RUN_NUMBER }} patch.zip
+        run: gh release create v${{ github.RUN_NUMBER }} patch_atmos.zip patch_yuzu.zip
         env:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

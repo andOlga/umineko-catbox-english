@@ -25,6 +25,13 @@ then # Local/dev build
     cp -rf mods "$UMINEKO_TARGET"
     rm -rf mods
 else # Public/Github build
-    cp yuzu_scripts/* .
-    zip -r patch.zip mods prepare_yuzu.*
+    cd mods
+    zip -r ../patch_atmos.zip .
+    cd ..
+    mkdir yuzu_mod
+    cp -r $MODBASE/* yuzu_mod/
+    cp mods/exefs_patches/umineko/*.ips yuzu_mod/exefs/
+    cd yuzu_mod
+    zip -r ../patch_yuzu.zip .
+    cd ..
 fi
