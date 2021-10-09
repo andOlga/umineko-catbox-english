@@ -107,7 +107,7 @@ You will need just several commands to make image editing work.
 - To convert a PIC file to an editable PNG, use `EnterExtractor file.pic file.png`. Edit the file with your favourite image editor.
 - To convert a PNG file back to a PIC, use `EnterExtractor file_original.pic file_new.pic -replace file.png`. You *need* the original PIC file from the base game for this process -- that's `file_original.pic`. The `file_new.pic` will be the edited version that EnterExtractor generates.
 - To convert a TXA file to a bunch of images, use `EnterExtractor file.txa prefix`. This will generate images named `prefix_<name from txa>.png`. Edit each of those with your favorite editor.
-- To convert the PNGs back to a TXA, use `EnterExtractor file_original.txa file_new.txa -replace prefix`. This likewise requires the additional TXA file from the base game for it to work.
+- To convert the PNGs back to a TXA, use `EnterExtractor file_original.txa file_new.txa -replace prefix`. This likewise requires the original TXA file from the base game for it to work.
 
 Note that PIC images *can* be palleted, and TXA images *must* be. Unpalleted TXAs will render incorrectly. Unpalleted PICs will just take an enormous amount of disk space, but will otherwise work fine. 
 
