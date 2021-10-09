@@ -78,3 +78,7 @@ In short -- the patch *might* work on PlayStation, maybe, sort of, but no promis
 ### On Sony PlayStation 3 and PSP
 
 The patch is **not compatible** with the versions of Umineko released on this hardware. At all. Don't even bother trying.
+
+## Developer documentation
+
+Some limited docs for those who wish to contribute to patch development, or perhaps translate the script into another language, are available [here](../CONTRIBUTING.md).

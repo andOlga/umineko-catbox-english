@@ -72,3 +72,43 @@ The tags that are used in Umineko, with example arguments, are as follows:
 - `@|` and `@y` do... *something*. What they do will greatly depend on the actual line they are in. These tags execute arbitrary code in the middle of a line, and this code is defined outside of the line itself.
 
 With the exception of furigana (`@b`), *leave all tags alone* in appropriate positions in the text, do not try to change them. Just replace the actual Japanese (or English, if you are translating) text. Use the furigana tag when you need to show Japanese text and its pronounciation. This documentation is here to help you understand what the tags do, but do not go wild with them, preserve the original formatting as much as possible.
+
+# Editing the exefs_texts
+
+`exefs_texts.txt` contains text that is hardcoded in the Nintendo Switch executable of the game. This is mainly used for UI text, such as confirmation prompts, but it *also* unfortunately includes BERNKASTEL's game during EP8.
+
+This file is a TSV file. Each row has the format `offset<tab>English text<tab>Japanese text`.
+Out of these, the only one you should be changing is the "English text".
+
+The offset is used to replace the correct portion of the executable file, so changing that will result in the game completely breaking.
+
+The Japanese text is used for length validation. 
+The English text *must* be the same size as the Japanese text, or lower, in bytes, when encoded as UTF-8.
+If the English text is larger (in bytes) than the Japanese version, the replacement will fail.
+
+There is nothing that can be done about this, unfortunately.
+This will not cause problems translating into English, since one Japanese character will basically be the same size as *three* English chars,
+however, translating to other languages may prove problematic because of this limitation.
+
+As a workaround, do note that the entire text for Bern's game is also mirrored in the actual script file.
+You may choose to inform your users of the ability to use the backlog to browse through the script, instead of translating the exefs text,
+if your language cannot be reasonably made work with the length requirements.
+
+# Editing images
+
+You will need to build and install [enter_extractor](https://github.com/07th-mod/enter_extractor) for this.
+
+The game includes two types of image files: `.pic`, which is a simple, single-image format used for backgrounds and such,
+and `.txa`, which is a more complex multi-image texture format.
+There is also `.bup` used by sprites, but there's no conceivable need to ever edit those.
+
+You will need just several commands to make image editing work.
+
+- To convert a PIC file to an editable PNG, use `EnterExtractor file.pic file.png`. Edit the file with your favourite image editor.
+- To convert a PNG file back to a PIC, use `EnterExtractor file_original.pic file_new.pic -replace file.png`. You *need* the original PIC file from the base game for this process -- that's `file_original.pic`. The `file_new.pic` will be the edited version that EnterExtractor generates.
+- To convert a TXA file to a bunch of images, use `EnterExtractor file.txa prefix`. This will generate images named `prefix_<name from txa>.png`. Edit each of those with your favorite editor.
+- To convert the PNGs back to a TXA, use `EnterExtractor file_original.txa file_new.txa -replace prefix`. This likewise requires the additional TXA file from the base game for it to work.
+
+Note that PIC images *can* be palleted, and TXA images *must* be. Unpalleted TXAs will render incorrectly. Unpalleted PICs will just take an enormous amount of disk space, but will otherwise work fine. 
+
+For this paletting process to work, the PNG needs to be saved with 256 colors only. This will work fine for all the images in the game that include text, so just remember to check the appropriate setting in your image editor.
