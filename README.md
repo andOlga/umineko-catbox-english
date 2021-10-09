@@ -81,4 +81,4 @@ The patch is **not compatible** with the versions of Umineko released on this ha
 
 ## Developer documentation
 
-Some limited docs for those who wish to contribute to patch development, or perhaps translate the script into another language, are available [here](../CONTRIBUTING.md).
+Some limited docs for those who wish to contribute to patch development, or perhaps translate the script into another language, are available [here](CONTRIBUTING.md).
