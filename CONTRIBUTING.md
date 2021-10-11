@@ -64,7 +64,7 @@ The tags that are used in Umineko, with example arguments, are as follows:
 - `@v29/52200086.` plays the voice line located in the file `voice/29/52200086.nxa`.
 - `@c900.` changes the text color to red. The number here is a strange decimal RGB code, ranging from `000` (black) to `999` (white).
 - `@c.` is the same thing as `@c999.`, i.e. it changes the text color to white.
-- `@z70.` changes the font size to 70... somethings. I have no idea what measuring unit this uses. The default is `@z100.`.
+- `@z70.` changes the font size to 70% of the normal size. The default size, therefore, is `@z100.`.
 - `@{text@}` displays "text" in bold.
 - `@[text@]` displays "text" instantly, regardless of the user's text speed setting.
 - `@btop text.@<bottom text@>` causes [furigana](https://en.wikipedia.org/wiki/Ruby_character) to render, with "bottom text" being the main, large text at the bottom, and "top text" being the smaller, informative text at the top. This is used mainly for pronounciation guides. Note that "top text", annoyingly, may not include any other tags or the `.` character.
