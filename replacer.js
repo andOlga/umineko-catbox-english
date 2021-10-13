@@ -20,4 +20,4 @@ for (let i = 0; i < linesJp.length; i++) {
     }
   }
 }
-fs.writeFileSync('script_replace_out.rb', targetScript, 'utf-8')
+fs.writeFileSync('script_replace.rb', targetScript, 'utf-8')
