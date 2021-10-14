@@ -10,10 +10,10 @@ Finally, set up your build environment. This is, unfortunately, not trivial to d
 
 Myself, I build the project with the following:
 
-- OS: Ubuntu 20.04 (Windows users should use the [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) version of Ubuntu).
+- OS: [Ubuntu](https://ubuntu.com/) 20.04 (Windows users should use the [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) version of Ubuntu).
 Other operating systems are likely going to work fine, but it's untested.
-- Python 3.8 (later versions will work fine as well), to generate exefs patches
-- Ruby 2.7 (later versions *should* work, but I'm not 100% sure), to generate the romfs patch
+- [Python](https://python.org/) 3.8 (later versions will work fine as well), to generate exefs patches
+- [Ruby](https://www.ruby-lang.org/) 2.7 (later versions *should* work, but I'm not 100% sure), to generate the romfs patch
 - `zip`, to generate the patch archives.
 - Bash, to run the `build.sh` script.
 
@@ -113,7 +113,7 @@ Of course, replace the episode/chapter number with the one you are fixing.
 
 If you re-open `script_replace.rb` now, assuming everything was executed correctly, you will observe that the desync is now fixed -- lines should be in their correct locations. Once you confirm that, copy everything from `script_replace.rb` back into `script.rb`, replacing the lines that gave you trouble originally.
 
-The next step is quite simple: we need to re-add the custom layouting function and the English nametags to the now-fixed script. Simply do:
+The next step is quite simple: we need to re-add the custom layouting function and the English nametags to the now-fixed script. Simply do (in this order):
 
 ```
 node layout.js
