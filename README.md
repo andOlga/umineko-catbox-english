@@ -10,15 +10,16 @@ This patch is meant to be used on the **actual console release of the game**. It
 
 ## Credits
 
-This patch would be impossible without the assistance of the following projects:
+This patch would be impossible without the assistance of the following projects.
 
 - [kaleido](https://gitlab.com/Neurochitin/kaleido/-/tree/saku/) by Neurochitin, which can decompile and recompile the SNR script format used by the game, as well as generate the `patch.rom` files that can be used to replace files in the base game.
 - [enter_extractor](https://github.com/07th-mod/enter_extractor) by TellowKrinkle, which can extract files from the base game's `data.rom` format, as well as generate `pic` and `txa` files used to store the game's images.
 - [HigurashiENX](https://github.com/masagrator/HigurashiENX) by MasaGratoR, which is a similar translation patch for the Switch version of Higurashi. Specifically, the IPS patch generation scripts from that project were used to translate some of the text hardcoded into the executables of the game.
 - [Umineko Project](https://umineko-project.org), a similar translation work done for the PS3 version of Umineko, which serves as the base for the translated script and images used in the patch.
 - The original translation of the PC version of Umineko by [The Witch Hunt](https://witch-hunt.com). While their work isn't being used directly, without these people Umineko would have never made it to the West in any form at all.
-- And, of course, the game itself, created by 07th-Expansion and producted (sic) by Entergram. Please buy the game on the [eShop](https://store-jp.nintendo.com/list/software/70010000012343.html) or [PSN](https://store.playstation.com/ja-jp/product/JP0741-CUSA16973_00-UMINEKOSAKUZZZZZ) to support the creators.
-  - Please note that while you are welcome to buy the Steam release of Umineko to offer the authors additional support, it is not compatible with this patch. That version, while in English, is significantly inferior to the console releases (no voice acting, worse visuals, worse UI, missing content). Alternative PC ports of Umineko also exist, but none of them have full content coverage.
+- And, of course, the game itself, created by 07th-Expansion and producted (sic) by Entergram. Please buy the game on the [eShop](https://store-jp.nintendo.com/list/software/70010000012343.html) to support the creators.
+  - You can *technically* also buy the game on [PSN](https://store.playstation.com/ja-jp/product/JP0741-CUSA16973_00-UMINEKOSAKUZZZZZ), though that version isn't fully compatible with the patch, and the parts that *may be* compatible (romfs changes) are untested. If you get that one, you're on your own in trying to get it to run.
+  - There is also a slew of various versions of Umineko native to PC. How good they are varies depending on the version you dig up, but none of them properly support the creators, none of them are compatible with this patch, and all of them have various missing content compared to the console release of the game.
 
 ## Progress
 The final goal of the patch is to translate the entire game into English, including all of the new content.
@@ -32,8 +33,6 @@ i.e. Episodes 1-8) has been translated, however, only the episodes with a checkm
 Your experience with the untested episodes may range from encountering a couple of untranslated sentences here and there to outright crashes. Of course, I am working on testing and fixing the remaining episodes.
 
 Bonus content (Tsubasa, Hane and the new Saku-exclusive stories) has not been touched at all yet. For now, it is fully in Japanese. I will get around to it when the main EPs are done.
-
-
 
 ## Applying the patch
 
