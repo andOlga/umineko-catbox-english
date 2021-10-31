@@ -23,7 +23,7 @@ Follow the normal installation procedure from that point to update your patch an
 Alternatively, a GitHub Actions workflow is provided in the repository. You may simply choose to enable actions in your fork, and GitHub will build a patch for you whenever you push.
 If your workflow isn't particularly heavy and you don't build the patch super often, you might prefer this approach.
 
-Additionally, if you are using Ryujinx, you may define the `$UMINEKO_TARGET` environment variable as the path to your Ryjinx folder,
+Additionally, if you are using Ryujinx, you may define the `$UMINEKO_TARGET` environment variable as the path to your Ryujinx folder,
 e.g. `/c/Users/<your username>/AppData/Roaming/Ryujinx`.
 If done correctly, then building the patch will automatically copy it to your Ryujinx folder instead of creating archives for manual extraction.
 
@@ -61,6 +61,7 @@ The tags that are used in Umineko, with example arguments, are as follows:
 
 - `@r` forces a line break. Additionally, separates the nametag from the actual displayed text.
 - `@w500.` waits for 500 milliseconds before continuing the text.
+- `@k` waits for a user to click before continuing.
 - `@v29/52200086.` plays the voice line located in the file `voice/29/52200086.nxa`.
 - `@c900.` changes the text color to red. The number here is a strange decimal RGB code, ranging from `000` (black) to `999` (white).
 - `@c.` is the same thing as `@c999.`, i.e. it changes the text color to white.
@@ -69,7 +70,7 @@ The tags that are used in Umineko, with example arguments, are as follows:
 - `@[text@]` displays "text" instantly, regardless of the user's text speed setting.
 - `@btop text.@<bottom text@>` causes [furigana](https://en.wikipedia.org/wiki/Ruby_character) to render, with "bottom text" being the main, large text at the bottom, and "top text" being the smaller, informative text at the top. This is used mainly for pronounciation guides. Note that "top text", annoyingly, may not include any other tags or the `.` character.
 - `@u229.` renders as `å`. This allows to, theoretically, render arbitrary Unicode characters via their decimal code, but you will need to generate new `.fnt` files and manifests for this to actually work, since the default font only supports English and Japanese. The `repack` folder contains the relevant tools and documentation for this. Don't use these unless you are translating the script to another language.
-- `@|` and `@y` do... *something*. What they do will greatly depend on the actual line they are in. These tags execute arbitrary code in the middle of a line, and this code is defined outside of the line itself.
+- `@|` and `@y` do *something*. What they do will greatly depend on the actual line they are in. These tags execute arbitrary code in the middle of a line, and this code is defined outside of the line itself. Do not remove these tags from any of the lines, or add extra ones, as it may potentially break the entire game.
 
 With the exception of furigana (`@b`), *leave all tags alone* in appropriate positions in the text, do not try to change them. Just replace the actual Japanese (or English, if you are translating) text. Use the furigana tag when you need to show Japanese text and its pronounciation. This documentation is here to help you understand what the tags do, but do not go wild with them, preserve the original formatting as much as possible.
 
