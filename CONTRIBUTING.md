@@ -107,7 +107,7 @@ Also delete everything after the end of the chapter where the issue manifested (
 By the end of this process, you will have 3 files: `umi5_13.txt`, `umi5_13_jp.txt`, and `script_replace.rb`, all of which contain no text other than the actual offending lines (`script_replace.rb` will also contain actual code, keep that as-is). Once you are done, run:
 
 ```
-node replacer.js umi5_13
+node replacer.js nocturne/umi5_13
 ```
 
 Of course, replace the episode/chapter number with the one you are fixing.
