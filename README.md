@@ -36,7 +36,7 @@ Bonus content (Tsubasa, Hane and the new Saku-exclusive stories) has not been to
 
 ## Applying the patch
 
-The game, and this patch, can be applied and played either on PC, via a Switch emulator
+The game, and this patch, can be played either on PC, via a Switch emulator
 (both Ryujinx and Yuzu have been tested with the patch and both work perfectly, so choose whichever you prefer)
 or on a hackable Nintendo Switch, via Atmosphère. Please follow the below instructions to get the patch set up.
 
