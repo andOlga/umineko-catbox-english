@@ -55,7 +55,8 @@ const nametags = {
   'ウィラード・Ｈ・ライト': 'Will',
   '右代宮　理御': 'Lion',
   '山羊の従者': 'Goat',
-  'ガァプ': 'Gaap'
+  'ガァプ': 'Gaap',
+  'エヴァ・ベアトリーチェ': 'EVA'
 }
 /* eslint-enable quote-props */
 for (let i = 0; i < lines.length; i++) {
