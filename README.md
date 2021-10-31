@@ -4,9 +4,9 @@
 
 ## Project description
 This is an English patch for Umineko When They Cry: The Symphony of Catbox and Dreams, the console version
-of Umineko on Nintendo Switch and Sony PlayStation 4/5.
+of Umineko on Nintendo Switch.
 
-This patch is meant to be used on the **actual console releases of the game**. It is ***not* a standalone application**.
+This patch is meant to be used on the **actual console release of the game**. It is ***not* a standalone application**.
 
 ## Credits
 
@@ -37,49 +37,35 @@ Bonus content (Tsubasa, Hane and the new Saku-exclusive stories) has not been to
 
 ## Applying the patch
 
+The game, and this patch, can be applied and played either on PC, via a Switch emulator
+(both Ryujinx and Yuzu have been tested with the patch and both work perfectly, so choose whichever you prefer)
+or on a hackable Nintendo Switch, via Atmosphère. Please follow the below instructions to get the patch set up.
+
+Note that to play on PC, you will need to acquire an NSP of the base game and add it to your emulator.
+
+To comply with US laws, you have to buy the game on the [eShop](https://store-jp.nintendo.com/list/software/70010000012343.html) and dump it using [nxdumptool](https://github.com/DarkMatterCore/nxdumptool) from a hackable Nintendo Switch to obtain a legal copy for emulation. Software distribution laws in other countries may vary.
+
 ### On PC (via Ryujinx)
 
-This is the recommended method of using the patch as it is what I'm using to test it during development.
+The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch.
 
-The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch, and should perform perfectly even on lower-end hardware.
-
-To install the game, dump it from your Switch, then place the NSP/XCI file into any of the directories listed under Options -> Settings -> General -> Game Directories (add one if there's none listed). To install the patch, [download it](../../releases/latest/download/patch_atmos.zip),
+To install the patch, [download](../../releases/latest/download/patch_atmos.zip) the Atmosphere version,
 then choose File -> Open Ryujinx Folder. Navigate to the "mods" directory and extract the entire archive to that location.
-
-You may get sound stuttering when playing with the OpenAL sound backend. Switch to SDL2 or SoundIO if that happens.
 
 ### On PC (via Yuzu)
 Another Switch emulator, [Yuzu](https://yuzu-emu.org), is also compatible with the game and the patch.
 
-To install the patch, [download](../../releases/latest/download/patch_yuzu.zip) the Yuzu version of it, then right-click the game in Yuzu, choose "Open Mod Data Location" and extract the entire archive there.
-
-Note that yuzu may perform worse or even crash on systems with less than 16GB of RAM, while Ryujinx can handle the game fine in that case.
-
-If you are unsure which emulator to go with, go with Ryujinx. This Yuzu section is here only for those who already play *other* Switch games on Yuzu, so that they aren't inconvenienced with switching between different emulators just for the sake of this patch.
+To install the patch, [download](../../releases/latest/download/patch_yuzu.zip) the Yuzu version,
+then right-click the game in Yuzu, choose "Open Mod Data Location" and extract the entire archive there.
 
 ### On Nintendo Switch (the actual hardware)
 
-If you want to play the game on your Nintendo Switch hardware, it will need Atmosphère installed on it. If you don't have Atmosphère already, please look it up to see if
-it's compatible with your Switch model and install it if it is.
-Afterwards, [download](../../releases/latest/download/patch_atmos.zip) the patch and copy it to the "atmosphere" folder on your SD card.
+If you want to play the game on your Nintendo Switch hardware, it will need [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) installed on it.
+If you don't have Atmosphère already, please see if it's compatible with your Switch model and install it if it is.
+Afterwards, [download](../../releases/latest/download/patch_atmos.zip) the Atmosphère version of the patch and copy it to the "atmosphere" folder on your SD card.
 The next time the game starts, it should be in English.
 
 I don't recommend this approach for now as the patch is still in active development and you're potentially going to murder your SD card updating it all the time. Once the patch is finished, this method of playing should be perfectly viable.
-
-### On Sony PlayStation 4 and 5
-
-Applying the patch on these platforms is *theoretically* possible, though only partially: only the `patch.rom` can be used.
-Unfortunately, this means that the tips menu will not work correctly, and the minigame in Episode 8 will remain in Japanese: those things require exefs modifications, and I have no idea how to implement something similar for the PS4 version of the game.
-
-Additionally, I have not tested the patch on these consoles, nor do I actually have any idea how to install it. If you have some sort of instructions I could put here, please let me know.
-
-Finally, trophies will almost certainly not work with the patch installed.
-
-In short -- the patch *might* work on PlayStation, maybe, sort of, but no promises whatsoever. I strongly recommend using the Switch version of the game instead.
-
-### On Sony PlayStation 3 and PSP
-
-The patch is **not compatible** with the versions of Umineko released on this hardware. At all. Don't even bother trying.
 
 ## Developer documentation
 
