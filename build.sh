@@ -28,10 +28,9 @@ else # Public/Github build
     cd mods
     zip -r ../patch_atmos.zip .
     cd ..
-    mkdir yuzu_mod
-    cp -r $MODBASE/* yuzu_mod/
-    cp mods/exefs_patches/umineko/*.ips yuzu_mod/exefs/
-    cd yuzu_mod
-    zip -r ../patch_yuzu.zip .
+    mkdir UminekoCatboxEnglish
+    cp -r $MODBASE/* UminekoCatboxEnglish/
+    cp mods/exefs_patches/umineko/*.ips UminekoCatboxEnglish/exefs/
+    zip -r patch_yuzu.zip UminekoCatboxEnglish
     cd ..
 fi
