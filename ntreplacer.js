@@ -56,7 +56,8 @@ const nametags = {
   '右代宮　理御': 'Lion',
   '山羊の従者': 'Goat',
   'ガァプ': 'Gaap',
-  'エヴァ・ベアトリーチェ': 'EVA'
+  'エヴァ・ベアトリーチェ': 'EVA',
+  '八城　十八': 'Tohya'
 }
 /* eslint-enable quote-props */
 for (let i = 0; i < lines.length; i++) {
