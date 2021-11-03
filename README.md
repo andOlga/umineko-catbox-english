@@ -48,7 +48,7 @@ To comply with US laws, you have to buy the game on the [eShop](https://store-jp
 
 The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch.
 
-To install the patch, [download](../../releases/latest/download/patch_atmos.zip) the Atmosphere version,
+To install the patch, [download](../../releases/latest/download/patch_atmos.zip) the Atmosphère version (Ryujinx is 100% Atmosphere-compatible),
 then choose File -> Open Ryujinx Folder. Navigate to the "mods" directory and extract the entire archive to that location.
 
 ### On PC (via Yuzu)
