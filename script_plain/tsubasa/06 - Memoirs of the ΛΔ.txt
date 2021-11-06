@@ -278,7 +278,7 @@ They caught my interest.
 
 "Wait a moment.
 You\'re saying you\'re already a witch?..
-Are you implying that you have reached the same level as me, the Witch of Certainty who bears the title of Lady?
+Are you implying that you have reached the same level as me, the witch of Certainty who bears the title of Lady?
 Know your place, you puny human!.."
 
 "Yes, I am already a <witch>.
@@ -292,7 +292,7 @@ I see, if you are given the title of a witch, nobody can deny that, huh."
 
 "...But tell me this.
 Creators remain Creators even if they aren\'t acknowledged or recognised by anyone.
-Witches are the same.
+witches are the same.
 Whether or not I recognise you, you should remain a witch anyway.
 Right?"
 
@@ -415,7 +415,7 @@ Or are they just another cup of tea to make my day more elegant?
 "Very well.
 ...I have no complaints.
 
-Upon the name of LAMBDADELTA, the Witch of Certainty, I recognise you as a witch!
+Upon the name of LAMBDADELTA, the witch of Certainty, I recognise you as a witch!
 
 As long as your magical world remains "certainly" magical,
 
