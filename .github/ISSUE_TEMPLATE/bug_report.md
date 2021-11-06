@@ -11,8 +11,6 @@ assignees: ooa113y
 
 I will NOT fix any issues that are found in the base game itself. If the issue you are trying to report can be reproduced in v1.3.0 of the base game, while playing in Japanese, and it's not translation-related, it will be ignored.
 
-Additionally, please hold off on reporting any issues for episodes which have not been tested yet (see README.md for progress). I am well aware that they are full of problems and I am working on fixing them.
-
 Furthermore, if you are reporting an issue related to the PS4/PS5 version of the game, I cannot promise I will be able to fix it. I'll try my best to get it to work for you regardless, but since I don't have a hacked PS4 and have no idea how to mod that version of the game, I may be unable to do so.
 
 If you understand and accept the above, please *delete everything* from this input box except the form below. Then, fill the form out, picking *one* of the presented options from the square brackets in each category and removing the rest.
