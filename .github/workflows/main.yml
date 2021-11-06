@@ -18,8 +18,8 @@ jobs:
         
       - name: Release
         run: |
-          offset=218
-          gh release create v1.0.$((PATCH - offset)) patch_atmos.zip patch_yuzu.zip
+          offset=220
+          gh release create v1.1.$((PATCH - offset)) patch_atmos.zip patch_yuzu.zip
         env:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
          PATCH: ${{ github.RUN_NUMBER }}
