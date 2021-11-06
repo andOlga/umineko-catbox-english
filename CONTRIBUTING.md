@@ -20,10 +20,10 @@ Other operating systems are likely going to work fine, but it's untested.
 Set all these things up and run `build.sh`. You are going to end up with the same patch archives as what's available in the release section.
 Follow the normal installation procedure from that point to update your patch and test your changes.
 
-Alternatively, a GitHub Actions workflow is provided in the repository. You may simply choose to enable actions in your fork, and GitHub will build a patch for you whenever you push.
+Alternatively, a GitHub Actions workflow is provided in the repository. You may simply choose to enable actions in your fork, after which you'll be able to build a release by clicking "Run workflow" in the Actions tab, or by `gh workflow run` in the GitHub CLI.
 If your workflow isn't particularly heavy and you don't build the patch super often, you might prefer this approach.
 
-Additionally, if you are using Ryujinx, you may define the `$UMINEKO_TARGET` environment variable as the path to your Ryujinx folder,
+Additionally, if you are building locally and using Ryujinx to test, you may define the `$UMINEKO_TARGET` environment variable as the path to your Ryujinx folder,
 e.g. `/c/Users/<your username>/AppData/Roaming/Ryujinx`.
 If done correctly, then building the patch will automatically copy it to your Ryujinx folder instead of creating archives for manual extraction.
 
