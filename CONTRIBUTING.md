@@ -20,10 +20,10 @@ Other operating systems are likely going to work fine, but it's untested.
 Set all these things up and run `build.sh`. You are going to end up with the same patch archives as what's available in the release section.
 Follow the normal installation procedure from that point to update your patch and test your changes.
 
-Alternatively, a GitHub Actions workflow is provided in the repository. You may simply choose to enable actions in your fork, and GitHub will build a patch for you whenever you push.
+Alternatively, a GitHub Actions workflow is provided in the repository. You may simply choose to enable actions in your fork, after which you'll be able to build a release by clicking "Run workflow" in the Actions tab, or by `gh workflow run` in the GitHub CLI.
 If your workflow isn't particularly heavy and you don't build the patch super often, you might prefer this approach.
 
-Additionally, if you are using Ryujinx, you may define the `$UMINEKO_TARGET` environment variable as the path to your Ryujinx folder,
+Additionally, if you are building locally and using Ryujinx to test, you may define the `$UMINEKO_TARGET` environment variable as the path to your Ryujinx folder,
 e.g. `/c/Users/<your username>/AppData/Roaming/Ryujinx`.
 If done correctly, then building the patch will automatically copy it to your Ryujinx folder instead of creating archives for manual extraction.
 
@@ -73,66 +73,6 @@ The tags that are used in Umineko, with example arguments, are as follows:
 - `@|` and `@y` do *something*. What they do will greatly depend on the actual line they are in. These tags execute arbitrary code in the middle of a line, and this code is defined outside of the line itself. Do not remove these tags from any of the lines, or add extra ones, as it may potentially break the entire game.
 
 With the exception of furigana (`@b`), *leave all tags alone* in appropriate positions in the text, do not try to change them. Just replace the actual Japanese (or English, if you are translating) text. Use the furigana tag when you need to show Japanese text and its pronounciation. This documentation is here to help you understand what the tags do, but do not go wild with them, preserve the original formatting as much as possible.
-
-## Fixing desyncs
-
-Due to the automated nature of the translation for the main episodes, every now and again a "desync" may happen. This essentially manifests as lines of text appearing too early -- or too late -- and therefore not matching voices, page breaks, and causing overall havoc. A desync *will* completely ruin the user experience with a chapter (though it will "fix itself" after the chapter is over). As the episodes are being tested, these will occur less and less often.
-
-If you encounter one, you might want to bug me to fix it -- either open an issue, or contact me through other means.
-
-However, if you want to tackle the task yourself for some reason, here's a description of how I handle this.
-
-The approach I use is still fairly manual and requires quite a lot of steps, but it is much faster than a manual approach still. This documentation is rather wordy as the process is not intuitive, but it's easy enough to pull off once you get the hang of it. Note that you will need [Node](https://nodejs.org/) installed for these steps to work.
-
-The first thing you want to do is open the `script_plain` files for the relevant chapter (both of them).
-For example, if the desync happened in Episode 5, Chapter 13, open `umi5_13.txt` and `umi5_13_jp.txt` in your text editor in a side-by-side view.
-
-Next, locate the offending line in the English script with Ctrl-F. Note the line number, and navigate to that same line number in the Japanese script.
-
-Now compare the two scripts (Google Translate may come in handy here). You will find that the English script has an extra line break somewhere around the offending line, or, vice versa, is *missing* a line break that exists in the Japanese script. Adjust the English script only -- do *not* touch the Japanese one.
-
-Once you are done adjusting, compare the amount of lines in both files. It should be equal.
-
-Next, *delete* everything from these two files before the offending line. For example, if the offending line number is 500, delete lines 1-499 completely from both files. DO NOT COMMIT THESE CHANGES!
-
-We are now ready to initiate the actual process of fixing the desync. First, grab a copy of the original Japanese script:
-
-```
-git show jpscript:script.rb > script_replace.rb
-```
-
-Next, open the `script_replace.rb` file in a text editor and, like before, delete everything before the offending lines (note that line numbers will be *slightly* mismatched between `script_replace.rb` and `script.rb`, again, use Google Translate here).
-Also delete everything after the end of the chapter where the issue manifested (search for `s.ins 0xa0` to find the start of the next chapter).
-
-By the end of this process, you will have 3 files: `umi5_13.txt`, `umi5_13_jp.txt`, and `script_replace.rb`, all of which contain no text other than the actual offending lines (`script_replace.rb` will also contain actual code, keep that as-is). Once you are done, run:
-
-```
-node replacer.js nocturne/umi5_13
-```
-
-Of course, replace the episode/chapter number with the one you are fixing.
-
-If you re-open `script_replace.rb` now, assuming everything was executed correctly, you will observe that the desync is now fixed -- lines should be in their correct locations. Once you confirm that, copy everything from `script_replace.rb` back into `script.rb`, replacing the lines that gave you trouble originally.
-
-The next step is quite simple: we need to re-add the custom layouting function and the English nametags to the now-fixed script. Simply do (in this order):
-
-```
-node layout.js
-node ntreplacer.js
-```
-
-Finally, you'll want to replace the Japanese space character with the English space. Your editor's find/replace feature will do, just locate one of those strange spaces in the script and replace them all. In VSCode, they render as a square with a question mark between them, other editors may actually render them as a very wide space character.
-
-At that point, you should have a fairly sensible-looking diff for the `script.rb` file. Examine it and confirm that the desync is fixed, and that no extra lines were added/deleted. Commit that file.
-
-As a final step, you'll want to restore the original contents of your `script_plain` folder and remove the temporary replacement script we created:
-
-```
-rm script_replace.rb
-git checkout --force script_plain
-```
-
-Congrats, the desync is now fixed, and you spent probably like 10 minutes on it instead of the hours it would take manually.
 
 # Editing the exefs_texts
 
