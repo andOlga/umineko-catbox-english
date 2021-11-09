@@ -26,15 +26,15 @@ even though there was no official word on that as of yet.
 
 On the other hand, the Chiester company decided to emphasise quick maintenance, operation and deployment. 
 
-Contrary to the RAC's Model M, the Chiester Series model was inexpensive, robust, and easy to deploy in large quanitites.
+Contrary to the RAC\'s Model M, the Chiester Series model was inexpensive, robust, and easy to deploy in large quanitites.
 
 In order to meet the 3F specification, Chiester have decided to avoid single-unit implementation plans altogether.
 
 The Chiester series was developed with a unique communication ability that allowed them to coordinate matters of tactics.
 
 Despite the series having multiple advantages,
-the officials were under the impression that the Minister intended to create individual units powerful enough to be King Pendragon's personal guard,
-so they haven't paid any mind to the Chiester design at all.
+the officials were under the impression that the Minister intended to create individual units powerful enough to be King Pendragon\'s personal guard,
+so they haven\'t paid any mind to the Chiester design at all.
 
 However, that decision had to be reevaluated to ongoing changes in the state of military equipment.
 
@@ -44,14 +44,14 @@ However, heaven managed to rewrite military history by successfuly constructing 
 
 This allowed to completely bypass the usual military approach that relied entirely on brute force and strength.
 
-With this new system, the figure of a heavily-armed lone hero from children's fairy tales became a thing of the past.
+With this new system, the figure of a heavily-armed lone hero from children\'s fairy tales became a thing of the past.
 
 The Chiester company was quick to react to the change and added Anti-Spirit Particle Combat capabilities to the Chiester series.
 
 This took the form of the most prominent feature of the Chiester series, the so-called
 "Rabbit Ears".
 
-The RAC could not modify the Model M's traditional hardware to include the new capabilities themselves,
+The RAC could not modify the Model M\'s traditional hardware to include the new capabilities themselves,
 so the rapidly-evolving and adaptable system that Chiester had to offer was on a whole different level.
 
 Additionally, in direct contrast with the Model M, Chiester has sacrificed the amount of preinstalled onboard equipment so that their model could specialise in stealth.
@@ -95,7 +95,7 @@ The possibility for unexpected circumstances outside of pure ones and zeroes did
 Chiester 410 was designed specifically to excel in that gray area.
 
 Early on she was ranked quite low.
-During practice her skills as a sniper were mediocre at best and her peculiar personality didn't do her any favors either.
+During practice her skills as a sniper were mediocre at best and her peculiar personality didn\'t do her any favors either.
 
 She made her decisions based not so much on information provided by friendly troops as on her own ideas, which led to her being thought of as a rogue who refused to follow orders.
 
@@ -105,30 +105,30 @@ The following year, she participated in a war between several puppet nations, an
 
 In just a week after taking up her post
 she had achieved a grand victory against the 34th Automated Giant Squadron, by using an armor-piercing sniping bow from a range of 1800 merute.
-She has caused fatal damage to two units and disabled one unit's walking capacity.
+She has caused fatal damage to two units and disabled one unit\'s walking capacity.
 
 Her military achievements only kept increasing from that point on, and a year later she was promoted.
 Her former teacher was present on the promotion ceremony with a face full of shock and surprise...
 
-Thanks to the golden bow -- the symbol of snipers' honour -- her talents only grew further.
+Thanks to the golden bow -- the symbol of snipers\' honour -- her talents only grew further.
 She acheived all of that much faster than even the most elite snipers of the Chiester Imperial Guards...
 
 ...Or so they say, anyway.
 
-It's nice to think that 410's rare talent could bloom thanks to the excellent support provided by 45.
+It\'s nice to think that 410\'s rare talent could bloom thanks to the excellent support provided by 45.
 
-However, as I said this, giving the credit to both of them, 410 burst into laughter and told me the truth."You know, it's so fun to just ignore the data that 45 has calculated so seriously and watch her huff and puff in anger, nyeh~!"
+However, as I said this, giving the credit to both of them, 410 burst into laughter and told me the truth."You know, it\'s so fun to just ignore the data that 45 has calculated so seriously and watch her huff and puff in anger, nyeh~!"
 
 "410 is a meaaanie! 
 I always work hard to give you the most precise calculations possible, and you just ignore them! Meanie!"
 
-"Your calculations are always so ridiculous that I'm better off ignoring them anyway, nyeh."
+"Your calculations are always so ridiculous that I\'m better off ignoring them anyway, nyeh."
 
-"What do you mean, "ridiculous"?! How cruel! I don't even remember when our last succesful mission was!
+"What do you mean, "ridiculous"?! How cruel! I don\'t even remember when our last succesful mission was!
 
 Everyone just criticises us!"
 
-Let's talk about Chiester 45 as well.
+Let\'s talk about Chiester 45 as well.
 
 45 was specifically created for the purpose of Spirit Particle calculations during combat. 
 
@@ -154,24 +154,24 @@ Thanks to her stubborness and disobidience,
 410 was usually paired with more experienced soldiers who could monitor and control her.
 
 Even if 410 followed orders only half-heartedly, she still could not disobey her superiors.
-She couldn't act independently.
+She couldn\'t act independently.
 
 However, 45 could not keep 410 under her control.
 This finally gave 410 the space she needed to demonstrate her true talent.
 
-Though, in my opinion, 45's timidness just allows 410 to act recklessly...
+Though, in my opinion, 45\'s timidness just allows 410 to act recklessly...
 
-So, I thought that perhaps 410's recklessness is what allowed her capabilities as a sniper to blossom...
+So, I thought that perhaps 410\'s recklessness is what allowed her capabilities as a sniper to blossom...
 
-However, that didn't seem to be the only reason.
+However, that didn\'t seem to be the only reason.
 
 410 liked to tease 45 by purposefully ignoring her measurements,
 yet she could still pull off very difficult attacks.
 
 ...Such astounding shots surprised and shocked 45.
-410's self-satisfaction with this has further contributed to her military success.
+410\'s self-satisfaction with this has further contributed to her military success.
 
-Honestly, 45 hated being treated like 410's toy.
+Honestly, 45 hated being treated like 410\'s toy.
 
 She was a nice and honest person, and she justly saw this mocking and harassing relationship as unfair to her.
 
@@ -181,20 +181,20 @@ However, the headquarters were very well aware of the military success of this s
 
 Ideally, both of them would be proud of the results they achieved.
 
-But 410's precise shooting was obviously the main point of interest for others,
+But 410\'s precise shooting was obviously the main point of interest for others,
 
 so many contributed their successes to 410 alone.
 
 Even 410 herself has once declared that to be the case...
 
-This obviously didn't make 45 very happy.
+This obviously didn\'t make 45 very happy.
 
 She was completely overshadowed by 410.
 
 ...Since I was their superior, I felt responsible and decided to ask 410 why she treated her partner so harshly and never even said a word of gratitude to her.
 
 "Without 45, most of your shots would have failed.
-Shouldn't you thank her?"
+Shouldn\'t you thank her?"
 
 "Nyeh-nyeh, 00 is reading more of her lectures, nyeh."
 
@@ -204,23 +204,23 @@ Shouldn't you thank her?"
 
 Looking a little indignant from hearing that, 410 spoke to me.
 
-"00, you don't get it, nyeh.
+"00, you don\'t get it, nyeh.
 ...Yes, I like to act big and boast about our victories.
-But I haven't once thought of them as my own. The credit always belongs to both of us. Nyeh."
+But I haven\'t once thought of them as my own. The credit always belongs to both of us. Nyeh."
 
 "...Really?
-It doesn't look like you honestly think that way..."
+It doesn\'t look like you honestly think that way..."
 
 "Rude, nyeh.
 I always thought 45 to be my best partner, and I always will, nyeh. 
 
 With 45, I can do anythinyeh!
-She's an irreplacable friend!
+She\'s an irreplacable friend!
 I always thought us an amazing team, nyeh!.."
 
-Seeing her smile, I couldn't bring myself to tell her that 45 had petitioned for a partner change...
+Seeing her smile, I couldn\'t bring myself to tell her that 45 had petitioned for a partner change...
 
-"...So you're actually thankful to 45?"
+"...So you\'re actually thankful to 45?"
 
 "Of course.
 She is my partnyer. 
@@ -237,7 +237,7 @@ She often exaggerates things and boasts.
 
 It seemed to me -- and probably to most outsiders -- that she was merely boasting of her own abilities. 
 
-However, she knew that she couldn't do it without 45, and was trying to praise her as well.
+However, she knew that she couldn\'t do it without 45, and was trying to praise her as well.
 
 Not only that, but she acknowledges 45 as the best possible partner and hopes to remain by her side forever.
 
@@ -250,11 +250,11 @@ and that a more experienced Chiester could be much more helpful as a partner to 
 
 So I told 410 that she should express her gratitude with words if she really is thankful.
 
-"But I don't wannyeh."
+"But I don\'t wannyeh."
 
 "...Why?"
 
-"'I appreciate your help, thank you'.
+"\'I appreciate your help, thank you\'.
 That kind of thing is so embarassing to actually put into words, you know?
 45 and I are the best partnyers, so we understand each other without words!.."
 
@@ -264,7 +264,7 @@ If she did put them into words, it would dilute the raw emotion.
 
 ...Having told me this, 410 chose to ignore my advice.
 
-...Because I'm blinded in my right eye, I became inefficient in my specialty of reconnaissance.
+...Because I\'m blinded in my right eye, I became inefficient in my specialty of reconnaissance.
 ...So, my final task seems to be keeping this troublesome pair of snipers in line.
 
 410 was also aware of my blind spot, 
@@ -283,24 +283,24 @@ was a sure-fire way for 410 to acheive ever greater victories.
 "Fire support?
 Who nyeeds that?"
 
-"Our pair specialises in long-range attacks, s-so we're lacking in the ability to suppress enemies at short range...
-Um... I think she's m-meant to help us compensate for that..."
+"Our pair specialises in long-range attacks, s-so we\'re lacking in the ability to suppress enemies at short range...
+Um... I think she\'s m-meant to help us compensate for that..."
 
 "Picking off delicious prey from long distance and vanishing into thin air is our specialty, nyeh.
-...We don't need no stupid fire support, nyeh."
+...We don\'t need no stupid fire support, nyeh."
 
 410 was saying that they had no need for a newbie who would only get in their way.
 
 However, since 45 thought of herself as a hindrance as well, those words hurt her.
 
-...But 410 simply didn't want anyone to intrude on her relationship with 45 that she thought to already be perfect. 
+...But 410 simply didn\'t want anyone to intrude on her relationship with 45 that she thought to already be perfect. 
 
 I understood what both of them were feeling, and the situation made me uncomfortable. The scar on my ear started acting up and itch.
 
 "556, you ready?"
 
 "556 here, 
-I'm fully prepared. 
+I\'m fully prepared. 
 
 Thank you very much."
 
@@ -320,7 +320,7 @@ Commencing terrain analysis and error correction.
 556, data link!"
 
 "...Nyeh.
-Let's see what you've got."
+Let\'s see what you\'ve got."
 
 "45, data link.
 Targets identified.
@@ -329,39 +329,39 @@ Commencing attack."
 
 556 drew a large, crude lead bow. 
 
-...It didn't have even a hint of the greatness that the golden bow of 410 and 45 posessed. 
+...It didn\'t have even a hint of the greatness that the golden bow of 410 and 45 posessed. 
 
 However, elegance has nothing to do with firepower.
 
-In direct contrast to 556's gentle looks,
+In direct contrast to 556\'s gentle looks,
 the bow spat out a swelling lead serpent towards the ten-odd targets standing in a row.
 
 The serpent slithered under the targets as if licking and tasting them and then cut them down sideways, crushing them to tiny pieces.
 
-It was nothing like beautifully sniping and piercing the opponent's weak point with a single golden arrow.
+It was nothing like beautifully sniping and piercing the opponent\'s weak point with a single golden arrow.
 
 Instead, it was an utterly terrifying attack that made use of dozens or even hundreds of lead arrows
 that would completely overwhelm any opponent.
 
-We couldn't help but stand in awe of the merciless offensive power of this new type of weaponry.
+We couldn\'t help but stand in awe of the merciless offensive power of this new type of weaponry.
 
 ...Then, I immediately understood. 
 
 This overwhelming firepower...
-would only set 410's heart alight.
+would only set 410\'s heart alight.
 
-There's no doubt.
+There\'s no doubt.
 This will be a giant headache... 
 
 ...Oh, look, 
-it's starting.
+it\'s starting.
 ...Agh, 410 is teasing her already.
 What a pain...
 
 "...It seems you know your stuff, nyeh." 
 
 "Thank you very much.
-It was all thanks to 45's data link."
+It was all thanks to 45\'s data link."
 
 "N-not at all...
 At such a short range
@@ -385,14 +385,14 @@ Instead of punching holes in the middle of the targets, you could have torn them
 "...Hey, 410!.. That has no relevance in actual combat.
 Quit nitpicking! 
 
-Ah, 556, don't pay her any mind.
+Ah, 556, don\'t pay her any mind.
 410 can be somewhat difficult..."
 
-"No, it's no problem at all, 00.
+"No, it\'s no problem at all, 00.
 Thank you very much."
 
 "...Thanks to you too, 410.
-You're right that I could have done better.
+You\'re right that I could have done better.
 Thank you very much for pointing that out."
 
 Even though 410 was just finding something to nitpick,
@@ -410,14 +410,14 @@ I could aim precisely where I needed to and crush my victims completely without 
 
 Afterwards, many similar incidents took place, with 410 picking fights about various things and 45 desperately trying to patch things up. 
 
-And it always ended with 556's words of gratitude.
+And it always ended with 556\'s words of gratitude.
 
 This kept repeating itself until 410 nicknamed 556 the "thanks bunnyeh" and stormed off.
 
-This seemed to sour 45's mood completely.
+This seemed to sour 45\'s mood completely.
 410 walked away sulkily, and 45 went after her.
 
-"'Thanks bunnyeh' is a horrible nickname."
+"\'Thanks bunnyeh\' is a horrible nickname."
 
 "Not at all.
 I never expected my teammates to give me a nickname on my very first day. It is an honor.
@@ -426,11 +426,11 @@ Thank you very much."
 "...Why are you thanking her for that?
 Is there some reason behind it?"
 
-410's rebellious nature was clearly reflected in her speech as well, raising similar questions. 
+410\'s rebellious nature was clearly reflected in her speech as well, raising similar questions. 
 
-...For example, that 'nyeh' at the end.
+...For example, that \'nyeh\' at the end.
 
-But 556 didn't seem like a troublemaker, and she didn't realize the irony behind her thanking everyone like that.
+But 556 didn\'t seem like a troublemaker, and she didn\'t realize the irony behind her thanking everyone like that.
 I was curious to learn more about that.
 
 ...And that was when 556 spoke without thanking anyone for the first time.
@@ -444,13 +444,13 @@ The only reason I ever succeeded is thanks to my friends."
 
 "...I wish 410 followed your example, even if just a little..."
 
-"But I always get worried that my gratitude doesn't reach them,
+"But I always get worried that my gratitude doesn\'t reach them,
 which causes me problems."
 
 "...Reach them?"
 
 "Yes. I am truly thankful to everyone.
-...But if I don't say it, they might never know about that... And, if it so happens that I'll never meet them again,
+...But if I don\'t say it, they might never know about that... And, if it so happens that I\'ll never meet them again,
 someone might live their entire life without knowing that there were people who were truly and wholeheartedly grateful to them for their help.
 
 Even if such people did exist."
@@ -463,7 +463,7 @@ There will certainly come a day when we talk to each other for the last time."
 
 "And after that, comrades can no longer express gratitude to one another.
 ...What would a comrade think of me if such a thing happens?
-...It's sad to think about this."
+...It\'s sad to think about this."
 
 There were countless people she was thankful to. 
 
@@ -471,22 +471,22 @@ But she could never truly convey that to them.
 
 So some of them thought that everyone considers them worthless.
 
-"One day, you'll lose the opportunity to clear up those kinds of emotions,
+"One day, you\'ll lose the opportunity to clear up those kinds of emotions,
 and it will turn out that your comrade has thought you to be a cold-blooded and heartless being the whole time."
 
 "I always regret letting an opportunity to convey my gratitude slip past me. 
 
-'Surely, they must understand'?
-'Words are unnecessary'?
-'We understand each other perfectly, so we don't need to say it out loud'?..
+\'Surely, they must understand\'?
+\'Words are unnecessary\'?
+\'We understand each other perfectly, so we don\'t need to say it out loud\'?..
 I hate hearing things like that."
 
 "After all,
-...I'm always afraid to lose my next chance to see someone.
-...Today could even be the last day I'd ever see 410.
-What if I don't see her tomorrow?"
+...I\'m always afraid to lose my next chance to see someone.
+...Today could even be the last day I\'d ever see 410.
+What if I don\'t see her tomorrow?"
 
-"...So that I don't miss my chance,
+"...So that I don\'t miss my chance,
 I always say thanks whenever I can.
 ...And to you, for listening to me,
 
@@ -510,10 +510,10 @@ will never allow that."
 "As the leader of the team, I will not allow anyone to die.
 I will never allow that to happen. 
 
-It disgusts me that you're throwing around those words of gratitude and acting as if we'll all disappear tomorrow."
+It disgusts me that you\'re throwing around those words of gratitude and acting as if we\'ll all disappear tomorrow."
 
 "I will get you rid of that cowardice!
-Welcome to my team!.. You're staying with us now!"
+Welcome to my team!.. You\'re staying with us now!"
 
 "Thank you very much, 00.
 Chiester 556, reporting for duty."
