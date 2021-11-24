@@ -1,4 +1,4 @@
-# English patch for Umineko Catbox (UCE)
+# English patch for Umineko Catbox
 
 This is an English patch for Umineko When They Cry: The Symphony of Catbox and Dreams, the console version
 of Umineko on Nintendo Switch.
