@@ -59,6 +59,10 @@ If you don't have Atmosphère already, please see if it's compatible with your S
 Afterwards, [download](../../releases/latest/download/patch_atmos.zip) the Atmosphère version of the patch and copy it to the "atmosphere" folder on your SD card.
 The next time the game starts, it should be in English.
 
+### More questions?
+
+Use the [forums](../../discussions) to ask them and I'll try to answer as soon as I'm able to.
+
 ## Developer documentation
 
 Some limited docs for those who wish to contribute to patch development, or perhaps translate the script into another language, are available [here](CONTRIBUTING.md).
