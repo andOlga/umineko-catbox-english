@@ -61,7 +61,7 @@ The next time the game starts, it should be in English.
 
 ## More questions?
 
-Use the [forums](../../discussions) to ask them and I'll try to answer as soon as I'm able to.
+Use the [forums](../../discussions) to ask them and I'll try to answer as soon as I'm able to. If (and *only* if) you find a bug, please open an [issue](../../issues) instead.
 
 ## Developer documentation
 
