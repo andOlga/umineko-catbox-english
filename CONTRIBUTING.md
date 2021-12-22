@@ -24,7 +24,7 @@ Alternatively, a GitHub Actions workflow is provided in the repository. You may 
 If your workflow isn't particularly heavy and you don't build the patch super often, you might prefer this approach.
 
 Additionally, if you are building locally and using Ryujinx to test, you may define the `$UMINEKO_TARGET` environment variable as the path to your Ryujinx folder,
-e.g. `/c/Users/<your username>/AppData/Roaming/Ryujinx`.
+e.g. `/mnt/c/Users/<your username>/AppData/Roaming/Ryujinx`.
 If done correctly, then building the patch will automatically copy it to your Ryujinx folder instead of creating archives for manual extraction.
 
 # Testing
