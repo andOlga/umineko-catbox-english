@@ -83,7 +83,7 @@ However, this squad of sisters formed from specialised soldiers, each with their
 The name "Sisters" was given to the Chiester units
 due to their powerful intercommunication capabilities.
 
-Chiester 410 was designed as a sniper.
+Chiester410 was designed as a sniper.
 
 Aside from having a phenomenal firing range, she was equipped with a special analogue radar. 
 
@@ -92,14 +92,14 @@ With that in mind, their data should obviously be read digitally.
 
 However, the battlefield itself is analogue, not digital.
 The possibility for unexpected circumstances outside of pure ones and zeroes did exist.
-Chiester 410 was designed specifically to excel in that gray area.
+Chiester410 was designed specifically to excel in that gray area.
 
 Early on she was ranked quite low.
 During practice her skills as a sniper were mediocre at best and her peculiar personality didn\'t do her any favors either.
 
 She made her decisions based not so much on information provided by friendly troops as on her own ideas, which led to her being thought of as a rogue who refused to follow orders.
 
-However, after she was paired with Chiester 45, who specialised in firing calculations, 410 started to rapidly improve.
+However, after she was paired with Chiester45, who specialised in firing calculations, 410 started to rapidly improve.
 
 The following year, she participated in a war between several puppet nations, and dramatically blossomed into an excellent field sniper. 
 
@@ -128,7 +128,7 @@ I always work hard to give you the most precise calculations possible, and you j
 
 Everyone just criticises us!"
 
-Let\'s talk about Chiester 45 as well.
+Let\'s talk about Chiester45 as well.
 
 45 was specifically created for the purpose of Spirit Particle calculations during combat. 
 
@@ -271,7 +271,7 @@ If she did put them into words, it would dilute the raw emotion.
 
 so she nimbly dodged my emotionally charged slap...
 
-Chiester 556 was created as a prototype for state-of-the-art weaponry,
+Chiester556 was created as a prototype for state-of-the-art weaponry,
 and thus she joined the Imperial Guards for experimental purposes.
 
 She specialised in fire support -- or, in other words, the heavy firepower. 
@@ -516,7 +516,7 @@ It disgusts me that you\'re throwing around those words of gratitude and acting 
 Welcome to my team!.. You\'re staying with us now!"
 
 "Thank you very much, 00.
-Chiester 556, reporting for duty."
+Chiester556, reporting for duty."
 
 From that day on, they became the personal guard of Lady MARIA...
 
