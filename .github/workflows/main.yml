@@ -1,6 +1,10 @@
 name: Patch build
 
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        required: true
 
 jobs:
   build:
@@ -17,9 +21,7 @@ jobs:
         run: bash build.sh
         
       - name: Release
-        run: |
-          offset=221
-          gh release create v1.1.$((PATCH - offset)) patch_atmos.zip patch_yuzu.zip
+        run: gh release create v$VERSION patch_atmos.zip patch_yuzu.zip
         env:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-         PATCH: ${{ github.RUN_NUMBER }}
+         VERSION: ${{ inputs.version }}
