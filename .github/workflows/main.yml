@@ -24,4 +24,4 @@ jobs:
         run: gh release create v$VERSION patch_atmos.zip patch_yuzu.zip
         env:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-         VERSION: ${{ inputs.version }}
+         VERSION: ${{ github.event.inputs.version }}
