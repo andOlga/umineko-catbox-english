@@ -63,7 +63,8 @@ const nametags = {
   'エンジェ・ベアトリーチェ': 'ANGE',
   '八城　幾子': 'Ikuko',
   '寿ゆかり': 'Yukari',
-  'サク': 'Saku'
+  'サク': 'Saku',
+  '黒き戦人': 'Black Battler'
 }
 /* eslint-enable quote-props */
 for (let i = 0; i < lines.length; i++) {
