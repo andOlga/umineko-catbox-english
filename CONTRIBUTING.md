@@ -63,6 +63,7 @@ The tags that are used in Umineko, with example arguments, are as follows:
 - `@w500.` waits for 500 milliseconds before continuing the text.
 - `@k` waits for a user to click before continuing in the middle of a line (this is automatic on end of line).
 - `@e` ends the line without waiting for a click. If used, this must be the last two characters of the line.
+- `@t` causes the text before and after it to appear at the same time, generally used when two characters talk over each other.
 - `@v29/52200086.` plays the voice line located in the file `voice/29/52200086.nxa`.
 - `@c900.` changes the text color to red. The number here is a strange decimal RGB code, ranging from `000` (black) to `999` (white).
 - `@c.` is the same thing as `@c999.`, i.e. it changes the text color to white.
