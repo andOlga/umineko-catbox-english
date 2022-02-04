@@ -64,7 +64,8 @@ const nametags = {
   '八城　幾子': 'Ikuko',
   '寿ゆかり': 'Yukari',
   'サク': 'Saku',
-  '黒き戦人': 'Black Battler'
+  '黒き戦人': 'Black Battler',
+  'フラウロス': 'Flauros'
 }
 /* eslint-enable quote-props */
 for (let i = 0; i < lines.length; i++) {
