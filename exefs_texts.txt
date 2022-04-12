@@ -53,7 +53,7 @@
 0x15c8eb	Start reading from the selected line?	シーンジャンプを実行します。@rよろしいですか？
 0x15f024	Writing save data.@rPlease do not close the game.	セーブデータを更新中です。@r電源を切ったり、アプリケーションを終了したりしないでください。
 0x16468c	Start the game?	このシナリオを開始します。@rよろしいですか？
-0x16119c	This story cannot be experienced@rout of intended order.@rYou should not use this option to skip content@ryou have never read before.@r@rDo you accept?	本編シナリオの全てと、追加シナリオの一部をアンロックします。よろしいですか？@r@z75.一度アンロックしたら元の状態に戻すことはできません。ご注意ください。
+0x16119c	All eight main Episodes@rwill be marked as read.@rThe story cannot be experienced@rout of intended order.@rYou should not use this option to skip content@ryou have never read before.@r@rDo you accept?	本編シナリオの全てと、追加シナリオの一部をアンロックします。よろしいですか？@r@z75.一度アンロックしたら元の状態に戻すことはできません。ご注意ください。
 0x161d8e	Automatic sleep will now be disabled@rwhen using Auto Mode and the Music Box.	オートモード中とMusicBoxの楽曲再生中は、@r本体の自動スリープ機能が動作しないようになります。
 0x163da3	OK	確認
 0x15e9cf	Unlocked: 	達成率:
