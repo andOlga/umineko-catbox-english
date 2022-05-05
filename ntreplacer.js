@@ -66,7 +66,8 @@ const nametags = {
   'サク': 'Saku',
   '黒き戦人': 'Black Battler',
   'フラウロス': 'Flauros',
-  'ピース': 'PIECE'
+  'ピース': 'PIECE',
+  'ウェルギリアス': 'Virgilius'
 }
 /* eslint-enable quote-props */
 for (let i = 0; i < lines.length; i++) {
