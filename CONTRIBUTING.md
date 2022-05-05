@@ -27,6 +27,9 @@ Additionally, if you are building locally and using Ryujinx to test, you may def
 e.g. `/mnt/c/Users/<your username>/AppData/Roaming/Ryujinx`.
 If done correctly, then building the patch will automatically copy it to your Ryujinx folder instead of creating archives for manual extraction.
 
+If you are building locally and using Yuzu to test, there is an similar `$UMINEKO_TARGET_YUZU` environment variable as the path to your Yuzu folder,
+e.g. `/mnt/c/Users/<your username>/AppData/Roaming/Yuzu`.
+
 # Testing
 
 Test any lines of the script you've changed. The quickest way is to select the appropriate Episode, then open the backlog with the X button and find your lines.
