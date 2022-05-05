@@ -7,7 +7,14 @@ This patch is meant to be used on the **actual console release of the game**. It
 
 ## Credits
 
-This patch would be impossible without the assistance of the following projects.
+Besides me, the following people have *directly* contributed to this project:
+- [@DoctorDiablo](//github.com/doctordiablo)
+- [@silverwolf-waltz](//github.com/silverwolf-waltz)
+- [@Quplet](//github.com/quplet)
+- [LHCollider](https://www.youtube.com/lhcollider)
+- OphidianLass
+
+Furthermore, this patch would be impossible without the resources and tools provided by the the following projects:
 
 - [kaleido](https://gitlab.com/Neurochitin/kaleido/-/tree/saku/) by Neurochitin, which can decompile and recompile the SNR script format used by the game, as well as generate the `patch.rom` files that can be used to replace files in the base game.
 - [enter_extractor](https://github.com/07th-mod/enter_extractor) by TellowKrinkle, which can extract files from the base game's `data.rom` format, as well as generate `pic` and `txa` files used to store the game's images.
@@ -18,13 +25,6 @@ This patch would be impossible without the assistance of the following projects.
   - You can *technically* also buy the game on [PSN](https://store.playstation.com/ja-jp/product/JP0741-CUSA16973_00-UMINEKOSAKUZZZZZ), though that version isn't fully compatible with the patch, and the parts that *may be* compatible (romfs changes) are untested. If you get that one, you're on your own in trying to get it to run.
   - There are also a few various versions of Umineko native to PC. How good they are varies depending on the version you dig up, but none of them properly support the creators, none of them are compatible with this patch, and all of them have various missing content compared to the console release of the game.
     - This includes the Steam version, as it is a re-release of the old indie version of Umineko, and as such does not include any of the console version's improvements. Because of this, buying this release does not help support the creators of the console version in any way, though it *does* help support the author and the original creator of the series, Ryukishi07. The Steam version is also not compatible with this patch.
-
-## Progress
-The final goal of the patch is to translate the entire game into English, including all of the new content.
-
-Currently, the "main" content (i.e. Episodes 1-8) is fully translated and playable, and work on bonus content (i.e. Tsubasa, Hane, and the new Saku-exclusive stories) is in progress.
-
-If you would like to see a more detailed list of tasks, including their current status, you may find it [here](../../issues/3).
 
 ## Applying the patch
 
