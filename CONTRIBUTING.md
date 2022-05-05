@@ -30,6 +30,8 @@ If done correctly, then building the patch will automatically copy it to your Ry
 If you are building locally and using Yuzu to test, there is an similar `$UMINEKO_TARGET_YUZU` environment variable as the path to your Yuzu folder,
 e.g. `/mnt/c/Users/<your username>/AppData/Roaming/Yuzu`.
 
+It can also be built using a Docker container. To do so, install Docker and run `./docker_build.sh --build-image` (Linux-like) or `./docker_build.bat --build-image` (Windows) to create the ~70MB image; this only has to be run once or when you want to update the image. Run `./build_docker.sh` (Linux-like) or `./build_docker.bat` (Windows) with no arguments to build the patch (building locally with `$UMINEKO_TARGET` or `$UMINEKO_TARGET_YUZU` will also work, although if using the `.bat` file, you will need to use Windows-style paths).
+
 # Testing
 
 Test any lines of the script you've changed. The quickest way is to select the appropriate Episode, then open the backlog with the X button and find your lines.

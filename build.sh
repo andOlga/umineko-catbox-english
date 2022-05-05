@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # Build requirements: Python 3, Ruby, zip
 set -e
 
