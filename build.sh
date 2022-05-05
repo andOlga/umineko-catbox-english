@@ -1,5 +1,5 @@
 #!/bin/bash
-# Build requirements: Python 3 with Numpy, Ruby, zip
+# Build requirements: Python 3, Ruby, zip
 set -e
 
 echo "=== Building romfs... ==="

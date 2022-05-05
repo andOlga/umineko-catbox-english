@@ -1,4 +1,4 @@
-import numpy
+import struct
 import sys
 
 with open("exefs_texts.txt", 'r') as f:
@@ -31,10 +31,10 @@ with open("7616F8963DACCD70E20FF3904E13367F96F2D9B3000000000000000000000000.ips"
         print("Wrote", extra_len, "extra patch bytes")
 
     for i in range(0, len(Offsets)):
-        f.write(numpy.uint32(int(Offsets[i], 16)+0x100).byteswap())
-        f.write(numpy.uint16(len(Texts[i].encode("UTF-8"))+1).byteswap())
+        f.write(struct.pack(">I", int(Offsets[i], 16)+0x100)) # uint32 big-endian
+        f.write(struct.pack(">H", len(Texts[i].encode("UTF-8"))+1)) # uint16 big-endian
         f.write(bytes(Texts[i].encode("UTF-8")))
-        f.write(numpy.uint8(0))
+        f.write(struct.pack("B", 0)) # unsigned byte
     f.write(b"EEOF")
 
 print("Patch has been created.")
