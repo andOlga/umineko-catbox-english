@@ -43,7 +43,7 @@ The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game 
 To set Ryujinx up, you will need a copy of the `prod.keys` file dumped from a hackable Nintendo Switch, the Nintendo Switch firmware, and the game itself. Having acquired these, you may [follow their guide](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) to finish your configuration and add the game to the emulator, but please ignore the "Managing mods" section as this patch has a somewhat more complicated structure and cannot be simply added to a per-game folder like they recommend.
 
 To install the patch, [download](../../releases/latest/download/patch_atmos.zip) the Atmosphère version (Ryujinx is 100% Atmosphère-compatible),
-<br>then choose File -> Open Ryujinx Folder. Navigate to the "mods" directory and extract the entire archive to that location.
+<br>then choose File -> Open Ryujinx Folder. Navigate to the "mods" directory and extract the entire archive to that location. If the "mods" directory does not exist, create it first.
 
 ### On PC (via Yuzu)
 Another Switch emulator, [Yuzu](https://yuzu-emu.org), is also compatible with the game and the patch.
