@@ -1,5 +1,5 @@
-#!/bin/bash
-# Build requirements: Python 3 with Numpy, Ruby, zip
+#!/bin/sh
+# Build requirements: Python 3, Ruby, zip
 set -e
 
 echo "=== Building romfs... ==="
@@ -23,6 +23,13 @@ echo "=== Deploying... ==="
 if [ -e "$UMINEKO_TARGET" ]
 then # Local/dev build
     cp -rf mods "$UMINEKO_TARGET"
+    rm -rf mods
+elif [ -e "$UMINEKO_TARGET_YUZU" ]
+then # Local/dev build
+    MODBASE_YUZU=$UMINEKO_TARGET_YUZU/load/01006A300BA2C000/UminekoCatboxEnglish
+    mkdir -p "$MODBASE_YUZU/" 2> /dev/null || true
+    cp -rf $MODBASE/* "$MODBASE_YUZU/"
+    cp -rf mods/exefs_patches/umineko/*.ips "$MODBASE_YUZU/exefs/"
     rm -rf mods
 else # Public/Github build
     cd mods
