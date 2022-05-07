@@ -8,11 +8,10 @@ This patch is meant to be used on the **actual console release of the game**. It
 ## Credits
 
 Besides me, the following people have *directly* contributed to this project:
-- [@DoctorDiablo](//github.com/doctordiablo)
-- [@silverwolf-waltz](//github.com/silverwolf-waltz)
-- [@Quplet](//github.com/quplet)
-- [LHCollider](https://www.youtube.com/lhcollider)
-- OphidianLass
+- [@DoctorDiablo](//github.com/doctordiablo), translating the Witch Hunter's Interview Tape story.
+- [@silverwolf-waltz](//github.com/silverwolf-waltz), porting over the translation for Last Note.
+- [@Quplet](//github.com/quplet), providing help with porting some of the main episodes.
+- [LHCollider](https://www.youtube.com/lhcollider) and OphidianLass, helping with testing.
 
 Furthermore, this patch would be impossible without the resources and tools provided by the the following projects:
 
@@ -20,6 +19,10 @@ Furthermore, this patch would be impossible without the resources and tools prov
 - [enter_extractor](https://github.com/07th-mod/enter_extractor) by TellowKrinkle, which can extract files from the base game's `data.rom` format, as well as generate `pic` and `txa` files used to store the game's images.
 - [HigurashiENX](https://github.com/masagrator/HigurashiENX) by MasaGratoR, which is a similar translation patch for the Switch version of Higurashi. Specifically, the IPS patch generation scripts from that project were used to translate some of the text hardcoded into the executables of the game.
 - [Umineko Project](https://umineko-project.org), a similar translation work done for the PS3 version of Umineko, which serves as the base for the translated script and images used in the patch.
+- [Umineko Tsubasa English Patch](https://uminekotsubasa.github.io/), which served as the intiial source for the translation of the Tsubasa arcs present in the PC version (these were heavily edited).
+- ArsMagica's English patch for Hane, now lost to time, which served as the initial source for the translation of the Hane arcs (these also received quite a bit of editing).
+- The 07th-Expansion wiki, which had a translation for Our Confession as well as most of the new Tsubasa stories.
+- A person called "last-note" who just showed up on the Hinamizawa Discord one day, dumped a full translation of Last Note, and left.
 - The original translation of the PC version of Umineko by [The Witch Hunt](https://witch-hunt.com). While their work isn't being used directly, without these people Umineko would have never made it to the West in any form at all.
 - And, of course, the game itself, created by 07th-Expansion and producted (sic) by Entergram. Please buy the game on the [eShop](https://store-jp.nintendo.com/list/software/70010000012343.html) to support the creators.
   - You can *technically* also buy the game on [PSN](https://store.playstation.com/ja-jp/product/JP0741-CUSA16973_00-UMINEKOSAKUZZZZZ), though that version isn't fully compatible with the patch, and the parts that *may be* compatible (romfs changes) are untested. If you get that one, you're on your own in trying to get it to run.
