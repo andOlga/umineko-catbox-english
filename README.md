@@ -9,7 +9,7 @@ This patch is meant to be used on the **actual console release of the game**. It
 
 Besides me, the following people have *directly* contributed to this project:
 - [@DoctorDiablo](//github.com/doctordiablo), translating the Witch Hunter's Interview Tape story.
-- [@silverwolf-waltz](//github.com/silverwolf-waltz), porting over the translation for Last Note.
+- [@silverwolf-waltz](//github.com/silverwolf-waltz), helping port over the translations for Hane and Saku.
 - [@Quplet](//github.com/quplet), providing help with porting some of the main episodes.
 - [LHCollider](https://www.youtube.com/lhcollider) and OphidianLass, helping with testing.
 
