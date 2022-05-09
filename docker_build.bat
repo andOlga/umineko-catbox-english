@@ -18,3 +18,4 @@ if not "%UMINEKO_TARGET_YUZU%" == "" (
 docker run --rm -v "%CD%":/umineko -w /umineko umineko "./build.sh"
 
 :end
+pause
