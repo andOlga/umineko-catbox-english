@@ -9,10 +9,10 @@ That included the imperfections of the patch, the various minor text issues here
 This decision still stands, in part. However, I also now realise that she wouldn't want our hard work to be abandoned in an unfinished state,
 that she would want others to experience a truly "perfect" version of this incredible story.
 
-So I shall do both. The `master` branch is left as-is, untouched, at the day of her passing, save for this notice at the top.
+So I shall do both. The [master](../../tree/master) branch is left as-is, untouched, at the day of her passing, save for this notice at the top.
 The release that most closely corresponds to this state is [v9.9.99999](../../releases/tag/v9.9.99999).
 
-All of the new development on this project shall happen on the [rebirth](../../tree/rebirth) branch.
+All of the new development on this project shall happen on the `rebirth` branch.
 
 Rest in peace, Tara.
 
