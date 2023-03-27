@@ -104,4 +104,4 @@ The next time the game starts, it should be in English.
 
 ## Developer documentation
 
-Some limited docs for those who wish to contribute to patch development, or perhaps translate the script into another language, are available [here](CONTRIBUTING.md).
+Some limited docs for those who wish to contribute to patch development, or perhaps translate the script into another language, are available [here](https://github.com/andOlga/umineko-catbox-english/blob/rebirth/CONTRIBUTING.md).
