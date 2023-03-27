@@ -1,0 +1,2 @@
+title: 'Umineko Catbox English'
+exclude: ['romfs', 'exefs', 'script_plain', 'script.rb', 'exefs_texts.txt'] # Speed up pages build

@@ -9,8 +9,8 @@ That included the imperfections of the patch, the various minor text issues here
 This decision still stands, in part. However, I also now realise that she wouldn't want our hard work to be abandoned in an unfinished state,
 that she would want others to experience a truly "perfect" version of this incredible story.
 
-So I shall do both. The [master](../../tree/master) branch is left as-is, untouched, at the day of her passing, save for this notice at the top.
-The release that most closely corresponds to this state is [v9.9.99999](../../releases/tag/v9.9.99999).
+So I shall do both. The [master](https://github.com/andOlga/umineko-catbox-english/tree/master) branch is left as-is, untouched, at the day of her passing, save for this notice at the top.
+The release that most closely corresponds to this state is [v9.9.99999](https://github.com/andOlga/umineko-catbox-english/releases/tag/v9.9.99999).
 
 All of the new development on this project shall happen on the `rebirth` branch.
 
@@ -72,7 +72,7 @@ The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game 
 
 To set Ryujinx up, you will need a copy of the `prod.keys` file dumped from a hackable Nintendo Switch, the Nintendo Switch firmware, and the game itself. Having acquired these, you may [follow their guide](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) to finish your configuration and add the game to the emulator, but please ignore the "Managing mods" section as this patch has a somewhat more complicated structure and cannot be simply added to a per-game folder like they recommend.
 
-To install the patch, [download](../../releases/latest/download/patch_atmos.zip) the Atmosphère version (Ryujinx is 100% Atmosphère-compatible),
+To install the patch, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_atmos.zip) the Atmosphère version (Ryujinx is 100% Atmosphère-compatible),
 <br>then choose File -> Open Ryujinx Folder. Navigate to the "mods" directory and extract the entire archive to that location. If the "mods" directory does not exist, create it first.
 
 ### On PC (using shin)
@@ -83,7 +83,7 @@ Note: **this method doesn't work yet** as shin is still in early development, bu
 
 To play the game on shin, you will need to extract the `data.rom` file from the base game. Follow the Ryujinx instructions above, but instead of actually running the game, right-click it in the emulator, choose "Extract Data", then "RomFS". It will likely take a while, but when it tells you that it's done, you will find the `data.rom` file in the folder you selected. Use it to set up shin as per their instructions.
 
-Next, [download](../../releases/latest/download/patch_atmos.zip) the Atmosphère version of the patch, and navigate to `contents/01006a300ba2c000/romfs/` inside the archive. Take the `patch.rom` file and place it near the `data.rom` in your shin set-up, then run the game.
+Next, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_atmos.zip) the Atmosphère version of the patch, and navigate to `contents/01006a300ba2c000/romfs/` inside the archive. Take the `patch.rom` file and place it near the `data.rom` in your shin set-up, then run the game.
 
 Once again: **THIS DOES NOT WORK YET**. Please wait until shin development progresses further.
 
@@ -92,14 +92,14 @@ Another Switch emulator, [Yuzu](https://yuzu-emu.org), is also compatible with t
 
 To set Yuzu up, you will need a copy of the `prod.keys` file dumped from a hackable Nintendo Switch and the game itself. Once you have acquired the keys, navigate to File -> Open Yuzu folder, then find (or create) the subfolder called "keys" inside that and paste the file there. Restart Yuzu and double-click the giant empty rectangle in the main yuzu window to add your game folder.
 
-To install the patch, [download](../../releases/latest/download/patch_yuzu.zip) the Yuzu version,
+To install the patch, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_yuzu.zip) the Yuzu version,
 <br>then right-click the game in Yuzu, choose "Open Mod Data Location" and extract the entire archive there.
 
 ### On Nintendo Switch (the actual hardware)
 
 If you want to play the game on your Nintendo Switch hardware, it will need [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) installed on it.
 If you don't have Atmosphère already, please see if it's compatible with your Switch model and install it if it is.
-Afterwards, [download](../../releases/latest/download/patch_atmos.zip) the Atmosphère version of the patch and copy it to the "atmosphere" folder on your SD card.
+Afterwards, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_atmos.zip) the Atmosphère version of the patch and copy it to the "atmosphere" folder on your SD card.
 The next time the game starts, it should be in English.
 
 ## Developer documentation
