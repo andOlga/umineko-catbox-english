@@ -66,7 +66,7 @@ Note that to play on PC, you will need to acquire an NSP of the base game and ad
 
 To comply with US laws, you have to buy the game on the [eShop](https://store-jp.nintendo.com/list/software/70010000012343.html) and dump it using [nxdumptool](https://github.com/DarkMatterCore/nxdumptool) from a hackable Nintendo Switch to obtain a legal copy for emulation. Software distribution laws in other countries may vary.
 
-### On PC (via Ryujinx)
+### On PC (using Ryujinx)
 
 The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch.
 
@@ -75,7 +75,19 @@ To set Ryujinx up, you will need a copy of the `prod.keys` file dumped from a ha
 To install the patch, [download](../../releases/latest/download/patch_atmos.zip) the Atmosphère version (Ryujinx is 100% Atmosphère-compatible),
 <br>then choose File -> Open Ryujinx Folder. Navigate to the "mods" directory and extract the entire archive to that location. If the "mods" directory does not exist, create it first.
 
-### On PC (via Yuzu)
+### On PC (using shin)
+
+Note: **this method doesn't work yet** as shin is still in early development, but it may become the best way to play in the near future, so it's documented here. You may want to just read the Ryujinx/Yuzu sections for now though.
+
+[shin](https://github.com/DCNick3/shin) is a complete port of ENTERGRAM's engine to PC, allowing you to experience Umineko without the overhead of emulation.
+
+To play the game on shin, you will need to extract the `data.rom` file from the base game. Follow the Ryujinx instructions above, but instead of actually running the game, right-click it in the emulator, choose "Extract Data", then "RomFS". It will likely take a while, but when it tells you that it's done, you will find the `data.rom` file in the folder you selected. Use it to set up shin as per their instructions.
+
+Next, [download](../../releases/latest/download/patch_atmos.zip) the Atmosphère version of the patch, and navigate to `contents/01006a300ba2c000/romfs/` inside the archive. Take the `patch.rom` file and place it near the `data.rom` in your shin set-up, then run the game.
+
+Once again: **THIS DOES NOT WORK YET**. Please wait until shin development progresses further.
+
+### On PC (using Yuzu)
 Another Switch emulator, [Yuzu](https://yuzu-emu.org), is also compatible with the game and the patch.
 
 To set Yuzu up, you will need a copy of the `prod.keys` file dumped from a hackable Nintendo Switch and the game itself. Once you have acquired the keys, navigate to File -> Open Yuzu folder, then find (or create) the subfolder called "keys" inside that and paste the file there. Restart Yuzu and double-click the giant empty rectangle in the main yuzu window to add your game folder.
