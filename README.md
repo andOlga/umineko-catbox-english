@@ -24,6 +24,8 @@ I love you, my heart.
 
 ---
 
+Note: the **canonical link** for this project is https://andolga.github.io/umineko-catbox-english. Please **DO NOT** link directly to any other part of the project, including its downloads.
+
 # English patch for Umineko Catbox
 
 This is an English patch for Umineko When They Cry: The Symphony of Catbox and Dreams, the console version
