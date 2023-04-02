@@ -4,33 +4,32 @@ This file is here to provide some information to anyone who wants to assist on t
 
 To prepare for this work, please first set up the actual game and the patch in their existing form. Make sure they work. This will allow you to test your changes.
 
-Secondly, clone the repository *with submodules*: `git clone https://github.com/ooa113y/umineko-catbox-english --recursive`, or else your builds will fail.
+For your build environment, I strongly recommend using either a Codespace on GitHub (click the green "Code" button above -> Codespaces -> Create new codespace),
+or using GitHub Actions (through the "Actions" tab in your fork -- a workflow is included that can be used to produce a release).
 
-Finally, set up your build environment. This is, unfortunately, not trivial to do, and requires some knowledge of the command line and Linux-like operating systems.
+If you are building locally, make sure you have *at least* the following:
 
-Myself, I build the project with the following:
-
-- OS: [Ubuntu](https://ubuntu.com/) 20.04 (Windows users should use the [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) version of Ubuntu).
+- OS: [Ubuntu](https://ubuntu.com/) 20.04 or later (Windows users should use the [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) version of Ubuntu).
 Other operating systems are likely going to work fine, but it's untested.
-- [Python](https://python.org/) 3.8 (later versions will work fine as well), to generate exefs patches
-- [Ruby](https://www.ruby-lang.org/) 2.7 (later versions *should* work, but I'm not 100% sure), to generate the romfs patch
-- `zip`, to generate the patch archives.
+- [Python](https://python.org/) 3.8 or later, to generate exefs patches
+- [Ruby](https://www.ruby-lang.org/) 2.7 or later, to generate the romfs patch
+- A `zip` command, to generate the patch archives.
 - Bash, to run the `build.sh` script.
+
+If you are building locally *or* on a Codespace, make sure to run the following after cloning the repo to check out the submodules:
+```
+git submodule init
+git submodule update
+```
 
 Set all these things up and run `build.sh`. You are going to end up with the same patch archives as what's available in the release section.
 Follow the normal installation procedure from that point to update your patch and test your changes.
 
-Alternatively, a GitHub Actions workflow is provided in the repository. You may simply choose to enable actions in your fork, after which you'll be able to build a release by clicking "Run workflow" in the Actions tab, or by `gh workflow run` in the GitHub CLI.
-If your workflow isn't particularly heavy and you don't build the patch super often, you might prefer this approach.
+If you are building locally and using an emulator to test, you may define the `$UMINEKO_TARGET` (for Ryujinx) or `$UMINEKO_TARGET_YUZU` environment variables as the path to your Ryujinx/Yuzu folders,
+e.g. `/mnt/c/Users/<your username>/AppData/Roaming/Ryujinx` or `/mnt/c/Users/<your username>/AppData/Roaming/Yuzu`.
+If done correctly, then building the patch will automatically copy it to your emulator folder instead of creating archives for manual extraction.
 
-Additionally, if you are building locally and using Ryujinx to test, you may define the `$UMINEKO_TARGET` environment variable as the path to your Ryujinx folder,
-e.g. `/mnt/c/Users/<your username>/AppData/Roaming/Ryujinx`.
-If done correctly, then building the patch will automatically copy it to your Ryujinx folder instead of creating archives for manual extraction.
-
-If you are building locally and using Yuzu to test, there is an similar `$UMINEKO_TARGET_YUZU` environment variable as the path to your Yuzu folder,
-e.g. `/mnt/c/Users/<your username>/AppData/Roaming/Yuzu`.
-
-It can also be built using a Docker container. To do so, install Docker and run `./docker_build.sh --build-image` (Linux-like) or `./docker_build.bat --build-image` (Windows) to create the ~70MB image; this only has to be run once or when you want to update the image. Run `./build_docker.sh` (Linux-like) or `./build_docker.bat` (Windows) with no arguments to build the patch (building locally with `$UMINEKO_TARGET` or `$UMINEKO_TARGET_YUZU` will also work, although if using the `.bat` file, you will need to use Windows-style paths).
+Finally, Docker is also supported for building. To use this option, install Docker and run `./docker_build.sh --build-image` (Linux-like) or `docker_build.bat --build-image` (Windows) to create the ~70MB image; this only has to be run once or when you want to update the image. Run `./docker_build.sh` (Linux-like) or `docker_build.bat` (Windows) with no arguments to build the patch (building locally with `$UMINEKO_TARGET` or `$UMINEKO_TARGET_YUZU` will also work, although if using the `.bat` file, you will need to use Windows-style paths).
 
 # Testing
 
