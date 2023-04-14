@@ -1,0 +1,26 @@
+name: Test build
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: recursive
+        
+      - name: Build patch archives
+        run: bash build.sh
+        
+      - name: Upload Atmos build
+        uses: actions/upload-artifact@v3
+        with:
+          name: patch_atmos
+          path: patch_atmos.zip
+
+      - name: Upload Yuzu build
+        uses: actions/upload-artifact@v3
+        with:
+          name: patch_yuzu
+          path: patch_yuzu.zip

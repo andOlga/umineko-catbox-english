@@ -4,8 +4,7 @@ This file is here to provide some information to anyone who wants to assist on t
 
 To prepare for this work, please first set up the actual game and the patch in their existing form. Make sure they work. This will allow you to test your changes.
 
-For your build environment, I strongly recommend using either a Codespace on GitHub (click the green "Code" button above -> Codespaces -> Create new codespace),
-or using GitHub Actions (through the "Actions" tab in your fork -- a workflow is included that can be used to produce a release).
+For your build environment, I strongly recommend using GitHub Actions (through the "Actions" tab in your fork). There are two workflows: one which produces a publicly downloadable permanent release (that one is triggered manually), and one which produces a temporary download for testing you can find on the workflow's page (that one is triggered on every push).
 
 If you are building locally, make sure you have *at least* the following:
 
@@ -16,8 +15,8 @@ Other operating systems are likely going to work fine, but it's untested.
 - A `zip` command, to generate the patch archives.
 - Bash, to run the `build.sh` script.
 
-If you are building locally *or* on a Codespace, make sure to run the following after cloning the repo to check out the submodules:
-```
+Also, make sure to run the following commands after cloning the repo, or your build will fail:
+```bash
 git submodule init
 git submodule update
 ```

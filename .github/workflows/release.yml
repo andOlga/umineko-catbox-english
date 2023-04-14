@@ -1,4 +1,4 @@
-name: Patch build
+name: Release build
 
 on:
   workflow_dispatch:
@@ -10,15 +10,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
-         submodules: recursive
+          submodules: recursive
         
-      - name: Build patch archive
+      - name: Build patch archives
         run: bash build.sh
         
       - name: Release
         run: gh release create v$VERSION patch_atmos.zip patch_yuzu.zip
         env:
-         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-         VERSION: ${{ github.event.inputs.version }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VERSION: ${{ github.event.inputs.version }}
