@@ -19,7 +19,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: patch_atmos
-          path: mods/*
+          path: mods
 
       - name: Upload Yuzu build
         uses: actions/upload-artifact@v3
