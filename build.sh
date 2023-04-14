@@ -31,13 +31,19 @@ then # Local/dev build
     cp -rf $MODBASE/* "$MODBASE_YUZU/"
     cp -rf mods/exefs_patches/umineko/*.ips "$MODBASE_YUZU/exefs/"
     rm -rf mods
-else # Public/Github build
+else # Public build
     cd mods
-    zip -r ../patch_atmos.zip .
+    if [ "$SKIP_ARCHIVE" != "1" ]
+    then
+        zip -r ../patch_atmos.zip .
+    fi
     cd ..
     mkdir UminekoCatboxEnglish
     cp -r $MODBASE/* UminekoCatboxEnglish/
     cp mods/exefs_patches/umineko/*.ips UminekoCatboxEnglish/exefs/
-    zip -r patch_yuzu.zip UminekoCatboxEnglish
+    if [ "$SKIP_ARCHIVE" != 1 ]
+    then
+        zip -r patch_yuzu.zip UminekoCatboxEnglish
+    fi
     cd ..
 fi

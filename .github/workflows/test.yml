@@ -12,15 +12,17 @@ jobs:
         
       - name: Build patch archives
         run: bash build.sh
+        env:
+          SKIP_ARCHIVE: 1
         
       - name: Upload Atmos build
         uses: actions/upload-artifact@v3
         with:
           name: patch_atmos
-          path: patch_atmos.zip
+          path: mods/*
 
       - name: Upload Yuzu build
         uses: actions/upload-artifact@v3
         with:
           name: patch_yuzu
-          path: patch_yuzu.zip
+          path: UminekoCatboxEnglish
