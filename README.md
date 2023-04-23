@@ -107,3 +107,7 @@ The next time the game starts, it should be in English.
 ## Developer documentation
 
 Some limited docs for those who wish to contribute to patch development, or perhaps translate the script into another language, are available [here](https://github.com/andOlga/umineko-catbox-english/blob/rebirth/CONTRIBUTING.md).
+
+## Support
+
+If you find a bug in the patch, please use the [issue tracker](https://github.com/andOlga/umineko-catbox-english/issues). If you have a question, please use the [forums](https://github.com/andOlga/umineko-catbox-english/discussions). Note that any modifications to the game that aren't translation-related are explicitly out of scope of this project, please refrain from making such requests. This includes fixing the couple of bugs that are present in the original Japanese release.
