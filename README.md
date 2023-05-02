@@ -60,7 +60,7 @@ Furthermore, this patch would be impossible without the resources and tools prov
 
 ## Applying the patch
 
-The game, and this patch, can be played either in two ways:
+The game, and this patch, can be played in two ways:
 - On PC, via a Switch emulator (either Ryujinx or Yuzu)
 - On a hackable Nintendo Switch, via Atmosphère
 
