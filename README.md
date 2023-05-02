@@ -66,7 +66,7 @@ The game, and this patch, can be played in two ways:
 
 Additionally, two promising future developments exist for the game. These do not currently work, but likely will in the future:
 - An ENTERGRAM engine source port, shin.
-- Skyline, an Android emulator for the Switch.
+- Skyline, a Switch emulator for Android.
 
 Please follow the below instructions to get the patch set up.
 
