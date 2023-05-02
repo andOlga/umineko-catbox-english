@@ -60,10 +60,13 @@ Furthermore, this patch would be impossible without the resources and tools prov
 
 ## Applying the patch
 
-The game, and this patch, can be played either in three ways:
+The game, and this patch, can be played either in two ways:
 - On PC, via a Switch emulator (either Ryujinx or Yuzu)
-- On PC, via a source port (shin)
 - On a hackable Nintendo Switch, via Atmosphère
+
+Additionally, two promising future developments exist for the game. These do not currently work, but likely will in the future:
+- An ENTERGRAM engine source port, shin.
+- Skyline, an Android emulator for the Switch.
 
 Please follow the below instructions to get the patch set up.
 
@@ -79,18 +82,6 @@ To set Ryujinx up, you will need a copy of the `prod.keys` file dumped from a ha
 
 To install the patch, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_atmos.zip) the Atmosphère version (Ryujinx is 100% Atmosphère-compatible),
 <br>then choose File -> Open Ryujinx Folder. Navigate to the "mods" directory and extract the entire archive to that location. If the "mods" directory does not exist, create it first.
-
-### On PC (using shin)
-
-Note: **this method doesn't work yet** as shin is still in early development, but it may become the best way to play in the near future, so it's documented here. You may want to just read the Ryujinx/Yuzu sections for now though.
-
-[shin](https://github.com/DCNick3/shin) is a complete port of ENTERGRAM's engine to PC, allowing you to experience Umineko without the overhead of emulation.
-
-To play the game on shin, you will need to extract the `data.rom` file from the base game. Follow the Ryujinx instructions above, but instead of actually running the game, right-click it in the emulator, choose "Extract Data", then "RomFS". It will likely take a while, but when it tells you that it's done, you will find the `data.rom` file in the folder you selected. Use it to set up shin as per their instructions.
-
-Next, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_atmos.zip) the Atmosphère version of the patch, and navigate to `contents/01006a300ba2c000/romfs/` inside the archive. Take the `patch.rom` file and place it near the `data.rom` in your shin set-up, then run the game.
-
-Once again: **THIS DOES NOT WORK YET**. Please wait until shin development progresses further.
 
 ### On PC (using Yuzu)
 Another Switch emulator, [Yuzu](https://yuzu-emu.org), is also compatible with the game and the patch.
