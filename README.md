@@ -60,10 +60,12 @@ Furthermore, this patch would be impossible without the resources and tools prov
 
 ## Applying the patch
 
-The game, and this patch, can be played either on PC, via a Switch emulator
-(both Ryujinx and Yuzu work well with the patch, so choose whichever you prefer),
-or via an ENTERGRAM engine source port,
-or on a hackable Nintendo Switch, via Atmosphère. Please follow the below instructions to get the patch set up.
+The game, and this patch, can be played either in three ways:
+- On PC, via a Switch emulator (either Ryujinx or Yuzu)
+- On PC, via a source port (shin)
+- On a hackable Nintendo Switch, via Atmosphère
+
+Please follow the below instructions to get the patch set up.
 
 Note that to play on PC, you will need to acquire an NSP of the base game.
 
