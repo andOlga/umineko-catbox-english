@@ -61,10 +61,11 @@ Furthermore, this patch would be impossible without the resources and tools prov
 ## Applying the patch
 
 The game, and this patch, can be played either on PC, via a Switch emulator
-(both Ryujinx and Yuzu have been tested with the patch and both work perfectly, so choose whichever you prefer)
+(both Ryujinx and Yuzu work well with the patch, so choose whichever you prefer),
+or via an ENTERGRAM engine source port,
 or on a hackable Nintendo Switch, via Atmosphère. Please follow the below instructions to get the patch set up.
 
-Note that to play on PC, you will need to acquire an NSP of the base game and add it to your emulator.
+Note that to play on PC, you will need to acquire an NSP of the base game.
 
 To comply with US laws, you have to buy the game on the [eShop](https://store-jp.nintendo.com/list/software/70010000012343.html) and dump it using [nxdumptool](https://github.com/DarkMatterCore/nxdumptool) from a hackable Nintendo Switch to obtain a legal copy for emulation. Software distribution laws in other countries may vary.
 
@@ -91,6 +92,8 @@ Once again: **THIS DOES NOT WORK YET**. Please wait until shin development progr
 
 ### On PC (using Yuzu)
 Another Switch emulator, [Yuzu](https://yuzu-emu.org), is also compatible with the game and the patch.
+
+**WARNING:** Many users have reported to me that they have issues with the sound when playing the game on Yuzu. This isn't a universal occurence, but it's common enough to mention it. Unfortunately, there is no known fix for this problem. If this happens to you, please use Ryujinx instead.
 
 To set Yuzu up, you will need a copy of the `prod.keys` file dumped from a hackable Nintendo Switch and the game itself. Once you have acquired the keys, navigate to File -> Open Yuzu folder, then find (or create) the subfolder called "keys" inside that and paste the file there. Restart Yuzu and double-click the giant empty rectangle in the main yuzu window to add your game folder.
 
