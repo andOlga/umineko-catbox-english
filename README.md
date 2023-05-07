@@ -64,9 +64,8 @@ The game, and this patch, can be played in two ways:
 - On PC, via a Switch emulator (either Ryujinx or Yuzu)
 - On a hackable Nintendo Switch, via Atmosphère
 
-Additionally, two promising future developments exist for the game. These do not currently work, but likely will in the future:
+Additionally, promising future developments exist for the game. These do not currently work, but likely will in the future:
 - An ENTERGRAM engine source port, shin.
-- Skyline, a Switch emulator for Android.
 
 Please follow the below instructions to get the patch set up.
 
