@@ -99,9 +99,13 @@ If you don't have Atmosphère already, please see if it's compatible with your S
 Afterwards, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_atmos.zip) the Atmosphère version of the patch and copy it to the "atmosphere" folder on your SD card.
 The next time the game starts, it should be in English.
 
-## Developer documentation
+## Alternative translations
 
-Some limited docs for those who wish to contribute to patch development, or perhaps translate the script into another language, are available [here](https://github.com/andOlga/umineko-catbox-english/blob/rebirth/CONTRIBUTING.md).
+There is a fair number of [translations of Umineko to other languages](https://github.com/andOlga/umineko-catbox-english/forks) that are based on this patch.
+
+**Note that these are completely unrelated to me. I cannot guarantee their accuracy or even basic functionality. I will not help you get these working, nor will I answer any questions about them.**
+
+If you wish to create your own fan translation, please check the documentation [here](https://github.com/andOlga/umineko-catbox-english/blob/rebirth/CONTRIBUTING.md). **I will most likely not be able to provide any assistance beyond what's written in these docs.**
 
 ## Support
 

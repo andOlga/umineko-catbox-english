@@ -45,9 +45,6 @@ As a general rule, do not touch any line except those that start with `s.ins 0x8
 and they're the only ones you should be changing.
 I currently do not parse any of the other instructions into anything sensible, so what anything else even does is a mystery to me.
 
-Either way, I will not accept any pull requests that modify other lines, since my only goal is translation.
-If you are intending to keep your project separate from mine, go ahead and figure out what they do and change them, but do not send PRs in that case.
-
 Inside the `0x86` lines, you will also find a single call to `s.layout()` containing the actual text. This is what you should be editing.
 
 All strings in the file use single-quote syntax, so make sure to escape apostrophes inside the text (i.e. replace `'` with `\'` before you do anything).
@@ -77,8 +74,6 @@ The tags that are used in Umineko, with example arguments, are as follows:
 - `@u229.` renders as `å`. This allows to, theoretically, render arbitrary Unicode characters via their decimal code, but you will need to generate new `.fnt` files and manifests for this to actually work, since the default font only supports English and Japanese. The `repack` folder contains the relevant tools and documentation for this. Don't use these unless you are translating the script to another language.
 - `@|` runs an external piece of code. This can do virtually anything, but is generally used for sound effect playback or mid-line sprite changes. This code is defined outside of the line itself, and it's not currently known how to change it. Because of this, it's very important to keep the amount and placement of `@|` tags the same between translated and original lines, as modifying these can break the whole game.
 - `@y` waits for the code that was launched by `@|` to finish executing. It almost always directly follows `@|`, and just like the above, its placement should not be modified from the original line.
-
-With the exception of furigana (`@b`), *leave all tags alone* in appropriate positions in the text, do not try to change them. Just replace the actual Japanese (or English, if you are translating) text. Use the furigana tag when you need to show Japanese text and its pronounciation. This documentation is here to help you understand what the tags do, but do not go wild with them, preserve the original formatting as much as possible.
 
 # Editing the exefs_texts
 
