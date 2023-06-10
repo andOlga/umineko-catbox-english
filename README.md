@@ -61,8 +61,8 @@ Furthermore, this patch would be impossible without the resources and tools prov
 ## Applying the patch
 
 The game, and this patch, can be played in two ways:
-- On PC, using Yuzu or Ryujinx
-- On select Android devices, using Yuzu
+- On PC, using yuzu or Ryujinx
+- On select Android devices, using yuzu
 - On a hackable Nintendo Switch, using Atmosphère
 
 Additionally, promising future developments exist for the game. These do not currently work, but likely will in the future:
@@ -74,15 +74,15 @@ Note that to play on PC, you will need to acquire an NSP of the base game.
 
 To comply with US laws, you have to buy the game on the [eShop](https://store-jp.nintendo.com/list/software/70010000012343.html) and dump it using [nxdumptool](https://github.com/DarkMatterCore/nxdumptool) from a hackable Nintendo Switch to obtain a legal copy for emulation. Software distribution laws in other countries may vary.
 
-### On PC (using Yuzu)
-The Switch emulator [Yuzu](https://yuzu-emu.org) is compatible with the game and the patch.
+### On PC (using yuzu)
+The Switch emulator [yuzu](https://yuzu-emu.org) is compatible with the game and the patch.
 
-To set Yuzu up, you will need a copy of the `prod.keys` file dumped from a hackable Nintendo Switch and the game itself. Once you have acquired the keys, navigate to File -> Open Yuzu folder, then find the subfolder called "keys" inside that and paste the file there. Restart Yuzu and double-click the giant empty rectangle in the main yuzu window to add your game folder.
+To set yuzu up, you will need a copy of the `prod.keys` file dumped from a hackable Nintendo Switch and the game itself. Once you have acquired the keys, navigate to File -> Open yuzu folder, then find the subfolder called "keys" inside that and paste the file there. Restart yuzu and double-click the giant empty rectangle in the main yuzu window to add your game folder.
 
-To install the patch, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_yuzu.zip) the Yuzu version,
-<br>then right-click the game in Yuzu, choose "Open Mod Data Location" and extract the entire archive there.
+To install the patch, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_yuzu.zip) the yuzu version,
+<br>then right-click the game in yuzu, choose "Open Mod Data Location" and extract the entire archive there.
 
-You may now start the game in Yuzu and play it in English.
+You may now start the game in yuzu and play it in English.
 
 ### On PC (using Ryujinx)
 The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch.
@@ -94,16 +94,16 @@ To install the patch, [download](https://github.com/andOlga/umineko-catbox-engli
 
 You may now start the game in Ryujinx and play it in English.
 
-### On Android (using Yuzu)
-Some Android devices may be able to run the game using [Yuzu's Android port](https://play.google.com/store/apps/details?id=org.yuzu.yuzu_emu), though the current system requirements are rather high by Android standards: the device has to have a Snapdragon CPU and at least 8GB of RAM.
+### On Android (using yuzu)
+Some Android devices may be able to run the game using [yuzu's Android port](https://play.google.com/store/apps/details?id=org.yuzu.yuzu_emu), though the current system requirements are rather high by Android standards: the device has to have a Snapdragon CPU and at least 8GB of RAM.
 
-Just like on PC, you will need a copy of the `prod.keys` file. Yuzu will ask you for its location on its first run. It will also ask you to specify the folder in which the game is located. For performance reasons, I recommend not putting the game on an SD card unless you absolutely have to, keep it in your internal storage.
+Just like on PC, you will need a copy of the `prod.keys` file. yuzu will ask you for its location on its first run. It will also ask you to specify the folder in which the game is located. For performance reasons, I recommend not putting the game on an SD card unless you absolutely have to, keep it in your internal storage.
 
 Once the initial setup is done, **run the base game (in Japanese) at least once and exit it**. This will allow you to confirm that your device can actually run the game, and also create some required files necessary for the patch installation to work.
 
-You may now [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_yuzu.zip) the Yuzu version of the patch,<br>and extract it somewhere on your device.
+You may now [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_yuzu.zip) the yuzu version of the patch,<br>and extract it somewhere on your device.
 
-Now return to Yuzu, and in the settings menu tap "Open yuzu folder". Pull out the menu on the left, switch to "Internal Storage" (or "SD Card") and find the extracted mod files. Tap and hold the `UminekoCatboxEnglish` folder to select it, and choose "Copy to..." from the kebab menu on top. Pull out the left panel again, tap "yuzu" and navigate to `load/01006A300BA2C000/`, then click the "Copy" button to install the patch.
+Now return to yuzu, and in the settings menu tap "Open yuzu folder". Pull out the menu on the left, switch to "Internal Storage" (or "SD Card") and find the extracted mod files. Tap and hold the `UminekoCatboxEnglish` folder to select it, and choose "Copy to..." from the kebab menu on top. Pull out the left panel again, tap "yuzu" and navigate to `load/01006A300BA2C000/`, then click the "Copy" button to install the patch.
 
 The next time you start the game, it will be in English.
 

@@ -24,8 +24,8 @@ git submodule update
 Set all these things up and run `build.sh`. You are going to end up with the same patch archives as what's available in the release section.
 Follow the normal installation procedure from that point to update your patch and test your changes.
 
-If you are building locally and using an emulator to test, you may define the `$UMINEKO_TARGET` (for Ryujinx) or `$UMINEKO_TARGET_YUZU` environment variables as the path to your Ryujinx/Yuzu folders,
-e.g. `/mnt/c/Users/<your username>/AppData/Roaming/Ryujinx` or `/mnt/c/Users/<your username>/AppData/Roaming/Yuzu`.
+If you are building locally and using an emulator to test, you may define the `$UMINEKO_TARGET` (for Ryujinx) or `$UMINEKO_TARGET_YUZU` environment variables as the path to your Ryujinx/yuzu folders,
+e.g. `/mnt/c/Users/<your username>/AppData/Roaming/Ryujinx` or `/mnt/c/Users/<your username>/AppData/Roaming/yuzu`.
 If done correctly, then building the patch will automatically copy it to your emulator folder instead of creating archives for manual extraction.
 
 Finally, Docker is also supported for building. To use this option, install Docker and run `./docker_build.sh --build-image` (Linux-like) or `docker_build.bat --build-image` (Windows) to create the ~70MB image; this only has to be run once or when you want to update the image. Run `./docker_build.sh` (Linux-like) or `docker_build.bat` (Windows) with no arguments to build the patch (building locally with `$UMINEKO_TARGET` or `$UMINEKO_TARGET_YUZU` will also work, although if using the `.bat` file, you will need to use Windows-style paths).

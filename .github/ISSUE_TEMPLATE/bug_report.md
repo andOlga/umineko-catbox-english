@@ -15,7 +15,7 @@ Furthermore, if you are reporting an issue related to the PS4/PS5 version of the
 
 If you understand and accept the above, please *delete everything* from this input box except the form below. Then, fill the form out, picking *one* of the presented options from the square brackets in each category and removing the rest.
 
-Platform: [Atmosphère/Ryujinx/Yuzu/PS4/PS5]
+Platform: [Atmosphère/Ryujinx/yuzu/PS4/PS5]
 Issue type: [missing translation/broken text/incorrect (or missing) nametag/untranslated image/something else (describe in detail)]
 Episode number: [1-8 or Tsubasa/Hane/Saku]
 Chapter name: [specify, e.g. "Arrival at Niijima Airport" (you can find this by pressing X/Square twice)]

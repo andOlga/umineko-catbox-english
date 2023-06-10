@@ -21,7 +21,7 @@ jobs:
           name: patch_atmos
           path: mods
 
-      - name: Upload Yuzu build
+      - name: Upload yuzu build
         uses: actions/upload-artifact@v3
         with:
           name: patch_yuzu
