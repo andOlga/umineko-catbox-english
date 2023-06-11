@@ -77,7 +77,7 @@ The tags that are used in Umineko, with example arguments, are as follows:
 
 # Editing the exefs_texts
 
-`exefs_texts.txt` contains text that is hardcoded in the Nintendo Switch executable of the game. This is mainly used for UI text, such as confirmation prompts, but it *also* unfortunately includes BERNKASTEL's game during EP8.
+`exefs_texts.txt` contains text that is hardcoded in the Switch executable of the game. This is mainly used for UI text, such as confirmation prompts, but it *also* unfortunately includes BERNKASTEL's game during EP8.
 
 This file is a TSV file. Each row has the format `offset<tab>English text<tab>Japanese text`.
 Out of these, the only one you should be changing is the "English text".

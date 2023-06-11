@@ -29,7 +29,7 @@ Note: the **canonical link** for this project is [https://andolga.github.io/umin
 # English patch for Umineko Catbox
 
 This is an English patch for Umineko When They Cry: The Symphony of Catbox and Dreams, the console version
-of Umineko on Nintendo Switch.
+of Umineko on the Switch.
 
 This patch is meant to be used on the **actual console release of the game**. It is ***not* a standalone application**.
 
@@ -53,7 +53,7 @@ Furthermore, this patch would be impossible without the resources and tools prov
 - [The 07th-Expansion wiki](https://07th-expansion.fandom.com/wiki/07th_Expansion_Wiki), which had a translation for Our Confession as well as most of the new Tsubasa stories.
 - A random person who just showed up on the Hinamizawa Discord one day with the nickname of "last-note", dumped a full translation of Last Note, and left.
 - The original translation of the PC version of Umineko by [The Witch Hunt](https://witch-hunt.com). While their work isn't being used directly, without these people Umineko would have never made it to the West in any form at all.
-- And, of course, the game itself, created by 07th-Expansion and producted (sic) by Entergram. Please buy the game on the [eShop](https://store-jp.nintendo.com/list/software/70010000012343.html) to support the creators.
+- And, of course, the game itself, created by 07th-Expansion and producted (sic) by Entergram. Please [buy the game](https://store-jp.nintendo.com/list/software/70010000012343.html) to support the creators.
   - You can *technically* also buy the game on [PSN](https://store.playstation.com/ja-jp/product/JP0741-CUSA16973_00-UMINEKOSAKUZZZZZ), though that version isn't fully compatible with the patch, and the parts that *may be* compatible (romfs changes) are untested. If you get that one, you're on your own in trying to get it to run.
   - There are also a few various versions of Umineko native to PC. How good they are varies depending on the version you dig up, but none of them properly support the creators, none of them are compatible with this patch, and all of them have various missing content compared to the console release of the game.
     - This includes the Steam version, as it is a re-release of the old indie version of Umineko, and as such does not include any of the console version's improvements. Because of this, buying this release does not help support the creators of the console version in any way, though it *does* help support the author and the original creator of the series, Ryukishi07. The Steam version is also not compatible with this patch.
@@ -63,7 +63,7 @@ Furthermore, this patch would be impossible without the resources and tools prov
 The game, and this patch, can be played in two ways:
 - On PC, using yuzu or Ryujinx
 - On select Android devices, using yuzu
-- On a hackable Nintendo Switch, using Atmosphère
+- On a hackable Switch, using Atmosphère
 
 Additionally, promising future developments exist for the game. These do not currently work, but likely will in the future:
 - An ENTERGRAM engine source port, shin.
@@ -72,12 +72,12 @@ Please follow the below instructions to get the patch set up.
 
 Note that to play on PC, you will need to acquire an NSP of the base game.
 
-To comply with US laws, you have to buy the game on the [eShop](https://store-jp.nintendo.com/list/software/70010000012343.html) and dump it using [nxdumptool](https://github.com/DarkMatterCore/nxdumptool) from a hackable Nintendo Switch to obtain a legal copy for emulation. Software distribution laws in other countries may vary.
+To comply with US laws, you have to [buy the game](https://store-jp.nintendo.com/list/software/70010000012343.html) and dump it using [nxdumptool](https://github.com/DarkMatterCore/nxdumptool) from a hackable Switch to obtain a legal copy for emulation. Software distribution laws in other countries may vary.
 
 ### On PC (using yuzu)
 The Switch emulator [yuzu](https://yuzu-emu.org) is compatible with the game and the patch.
 
-To set yuzu up, you will need a copy of the `prod.keys` file dumped from a hackable Nintendo Switch and the game itself. Once you have acquired the keys, navigate to File -> Open yuzu folder, then find the subfolder called "keys" inside that and paste the file there. Restart yuzu and double-click the giant empty rectangle in the main yuzu window to add your game folder.
+To set yuzu up, you will need a copy of the `prod.keys` file dumped from a hackable Switch and the game itself. Once you have acquired the keys, navigate to File -> Open yuzu folder, then find the subfolder called "keys" inside that and paste the file there. Restart yuzu and double-click the giant empty rectangle in the main yuzu window to add your game folder.
 
 To install the patch, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_yuzu.zip) the yuzu version,
 <br>then right-click the game in yuzu, choose "Open Mod Data Location" and extract the entire archive there.
@@ -87,7 +87,7 @@ You may now start the game in yuzu and play it in English.
 ### On PC (using Ryujinx)
 The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch.
 
-To set Ryujinx up, you will need a copy of the `prod.keys` file dumped from a hackable Nintendo Switch, the Nintendo Switch firmware, and the game itself. Having acquired these, you may [follow their guide](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) to finish your configuration and add the game to the emulator, but please ignore the "Managing mods" section as this patch has a somewhat more complicated structure and cannot be simply added to a per-game folder like they recommend.
+To set Ryujinx up, you will need a copy of the `prod.keys` file dumped from a hackable Switch, the Switch firmware, and the game itself. Having acquired these, you may [follow their guide](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) to finish your configuration and add the game to the emulator, but please ignore the "Managing mods" section as this patch has a somewhat more complicated structure and cannot be simply added to a per-game folder like they recommend.
 
 To install the patch, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_atmos.zip) the Atmosphère version (Ryujinx is 100% Atmosphère-compatible),
 <br>then choose File -> Open Ryujinx Folder. Navigate to the "mods" directory and extract the entire archive to that location. If the "mods" directory does not exist, create it first.
@@ -107,9 +107,9 @@ Now return to yuzu, and in the settings menu tap "Open yuzu folder". Pull out th
 
 The next time you start the game, it will be in English.
 
-### On Nintendo Switch (the actual hardware)
+### On the Switch (the actual hardware)
 
-If you want to play the game on your Nintendo Switch hardware, it will need [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) installed on it.
+If you want to play the game on your Switch hardware, it will need [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) installed on it.
 If you don't have Atmosphère already, please see if it's compatible with your Switch model and install it if it is.
 Afterwards, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_atmos.zip) the Atmosphère version of the patch and copy it to the "atmosphere" folder on your SD card.
 The next time the game starts, it should be in English.
