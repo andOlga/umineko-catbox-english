@@ -62,6 +62,7 @@ Furthermore, this patch would be impossible without the resources and tools prov
 
 The game, and this patch, can be played in two ways:
 - On PC, using yuzu or Ryujinx
+- On Macs, using Ryujinx
 - On select Android devices, using yuzu
 - On a hackable Switch, using Atmosphère
 
@@ -84,7 +85,7 @@ To install the patch, [download](https://github.com/andOlga/umineko-catbox-engli
 
 You may now start the game in yuzu and play it in English.
 
-### On PC (using Ryujinx)
+### On PC/Mac (using Ryujinx)
 The Switch emulator [Ryujinx](https://ryujinx.org/) is compatible with the game and the patch.
 
 To set Ryujinx up, you will need a copy of the `prod.keys` file dumped from a hackable Switch, the Switch firmware, and the game itself. Having acquired these, you may [follow their guide](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) to finish your configuration and add the game to the emulator, but please ignore the "Managing mods" section as this patch has a somewhat more complicated structure and cannot be simply added to a per-game folder like they recommend.
