@@ -61,10 +61,10 @@ Furthermore, this patch would be impossible without the resources and tools prov
 ## Applying the patch
 
 The game, and this patch, can be played in two ways:
-- On PC, using yuzu or Ryujinx
+- On PCs, using yuzu or Ryujinx
 - On Macs, using Ryujinx
 - On select Android devices, using yuzu
-- On a hackable Switch, using Atmosphère
+- On hackable Switches, using Atmosphère
 
 Additionally, promising future developments exist for the game. These do not currently work, but likely will in the future:
 - An ENTERGRAM engine source port, shin.
