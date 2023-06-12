@@ -71,7 +71,8 @@ Additionally, promising future developments exist for the game. These do not cur
 
 Please follow the below instructions to get the patch set up.
 
-Note that to play on PC, you will need to acquire an NSP of the base game.
+No matter the platform you play on, you will need a copy of the base game and the decryption keys for it.
+Game updates are optional, the patch applies cleanly regardless of the game's version.
 
 To comply with US laws, you have to [buy the game](https://store-jp.nintendo.com/list/software/70010000012343.html) and dump it using [nxdumptool](https://github.com/DarkMatterCore/nxdumptool) from a hackable Switch to obtain a legal copy for emulation. Software distribution laws in other countries may vary.
 
