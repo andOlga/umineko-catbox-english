@@ -40,7 +40,7 @@ Besides me, the following people have *directly* contributed to this project:
 - [@DoctorDiablo](https://github.com/doctordiablo), translating the Witch Hunter's Interview Tape story.
 - [@silverwolf-waltz](https://github.com/silverwolf-waltz), helping port over the translations for Hane and Saku.
 - [@Quplet](https://github.com/quplet), providing help with porting some of the main episodes.
-- [@DerJaybe](https://github.com/DerJaybe), creating the project logo.
+- [@DerJaybe](https://github.com/DerJaybe), helping with translating images and creating the project logo.
 - [LHCollider](https://www.youtube.com/lhcollider), helping with testing.
 
 Furthermore, this patch would be impossible without the resources and tools provided by the the following projects:
