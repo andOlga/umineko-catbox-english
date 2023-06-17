@@ -6,6 +6,8 @@ To prepare for this work, please first set up the actual game and the patch in t
 
 For your build environment, I strongly recommend using GitHub Actions (through the "Actions" tab in your fork). There are two workflows: one which produces a publicly downloadable permanent release (that one is triggered manually), and one which produces a temporary download for testing you can find on the workflow's page (that one is triggered on every push).
 
+If your release builds are failing, go to Settings -> Actions -> General, and make sure "Workflow Permissions" are set to "Read & Write".
+
 If you are building locally, make sure you have *at least* the following:
 
 - OS: [Ubuntu](https://ubuntu.com/) 20.04 or later (Windows users should use the [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) version of Ubuntu).
