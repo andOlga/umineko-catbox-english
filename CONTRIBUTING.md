@@ -105,7 +105,7 @@ First, open up `replace_chars.js` and add the list of special characters in your
 
 Secondly, replace the base game's fonts with ones that have the characters your language needs. The `repack/fnt` folder has tools to generate the .fnt files you will need.
 
-Finally, create a "font_manifests" folder in the project root, generate the manifests for your fonts (once again using `repack/fnt`) and place them in `font_manifests/regular` and `font_manifests/bold`.
+Finally, create a `font_manifests` folder in the project root, generate the manifests for your fonts (once again using `repack/fnt`) and place them in `font_manifests/regular` and `font_manifests/bold`.
 
 On a final note, please be aware that the `@b` tag (for furigana) will not work correctly with languages that contain special characters. You may choose to write the appropriate descriptions in parentheses instead.
 
