@@ -2,6 +2,13 @@
 # Build requirements: Python 3, Ruby, zip
 set -e
 
+if [ -e "font_manifests" ]
+then
+    echo "=== Copying font manifests... ==+"
+    cp font_manifests/regular repack/rom-repack/font/regular
+    cp font_manifests/bold repack/rom-repack/font/bold
+fi
+
 echo "=== Building romfs... ==="
 cd repack/rom-repack
 ruby kal_real.rb ../../script.rb ../../romfs ../../patch.rom ../../patch.snr 6 19 88
