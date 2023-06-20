@@ -73,7 +73,6 @@ The tags that are used in Umineko, with example arguments, are as follows:
 - `@{text@}` displays "text" in bold.
 - `@[text@]` displays "text" instantly, regardless of the user's text speed setting.
 - `@btop text.@<bottom text@>` causes [furigana](https://en.wikipedia.org/wiki/Ruby_character) to render, with "bottom text" being the main, large text at the bottom, and "top text" being the smaller, informative text at the top. This is used mainly for pronounciation guides. Note that "top text", annoyingly, may not include any other tags or the `.` character.
-- `@u229.` renders as `å`. This allows to, theoretically, render arbitrary Unicode characters via their decimal code, but you will need to generate new `.fnt` files and manifests for this to actually work, since the default font only supports English and Japanese. Place the fonts themselves into `romfs`, and the manifests into a `font_manifests` folder in the root of the project. The `repack` folder contains the relevant tools and documentation for generating these. Don't use these unless you are translating the script to another language.
 - `@|` runs an external piece of code. This can do virtually anything, but is generally used for sound effect playback or mid-line sprite changes. This code is defined outside of the line itself, and it's not currently known how to change it. Because of this, it's very important to keep the amount and placement of `@|` tags the same between translated and original lines, as modifying these can break the whole game.
 - `@y` waits for the code that was launched by `@|` to finish executing. It almost always directly follows `@|`, and just like the above, its placement should not be modified from the original line.
 
@@ -97,6 +96,18 @@ however, translating to other languages may prove problematic because of this li
 As a workaround, do note that the entire text for Bern's game is also mirrored in the actual script file.
 You may choose to inform your users of the ability to use the backlog to browse through the script, instead of translating the exefs text,
 if your language cannot be reasonably made work with the length requirements.
+
+# Translating into languages with non-English characters
+
+Many languages, even Latin-based ones, include characters that are not found in English. The game does not correctly handle these, so some hacking is required.
+
+First, open up `replace_chars.js` and add the list of special characters in your language to the `intlCharacters` array.
+
+Secondly, replace the base game's fonts with ones that have the characters your language needs. The `repack/fnt` folder has tools to generate the .fnt files you will need.
+
+Finally, create a "font_manifests" folder in the project root, generate the manifests for your fonts (once again using `repack/fnt`) and place them in `font_manifests/regular` and `font_manifests/bold`.
+
+On a final note, please be aware that the `@b` tag (for furigana) will not work correctly with languages that contain special characters. You may choose to write the appropriate descriptions in parentheses instead.
 
 # Editing images
 
