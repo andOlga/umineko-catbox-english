@@ -7,6 +7,8 @@ then
     echo "=== Copying font manifests... ==="
     cp font_manifests/regular repack/rom-repack/font/regular
     cp font_manifests/bold repack/rom-repack/font/bold
+    echo "=== Running localization script... ==="
+    node replace_chars.js
 fi
 
 echo "=== Building romfs... ==="
