@@ -20,6 +20,7 @@ jobs:
         with:
           name: patch_atmos
           path: mods
+          
       - name: Create yuzu subfolder
         run: |
           mkdir patch_yuzu
