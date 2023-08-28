@@ -78,13 +78,11 @@ The tags that are used in Umineko, with example arguments, are as follows:
 
 # Translating into languages with non-English characters
 
-Many languages, even Latin-based ones, include characters that are not found in English. The game does not correctly handle these, so some hacking is required.
+Many languages, even Latin-based ones, include characters that are not found in English. The game does not correctly handle these by default, so some extra files are required.
 
-First, open up `replace_chars.js` and add the list of special characters in your language to the `intlCharacters` array.
+You may find these in the `locale_base` folder. Simply take all of the files and copy them over to the main repo folder (where `script.rb` is). After the files are copied, open `replace_chars.txt` in a text editor and list any non-English characters that your language has, one per line. The game should now work with your language's character set.
 
-Secondly, replace the base game's fonts with ones that have the characters your language needs. The `repack/fnt` folder has tools to generate the .fnt files you will need.
-
-Finally, create a `font_manifests` folder in the project root, generate the manifests for your fonts (once again using `repack/fnt`) and place them in `font_manifests/regular` and `font_manifests/bold`.
+If that fails and the localized font does not correctly render your language's characters, you will need to manually generate new font and manifest files, and structure them the same way as what's in the `locale_base` folder. The `repack/fnt` folder contains tooling necessary to do this, but do note that replacing this game's fonts is a long and annoying process. I recommend against doing it unless it is completely necessary.
 
 On a final note, please be aware that the `@b` tag (for furigana) will not work correctly with languages that contain special characters. You may choose to write the appropriate descriptions in parentheses instead.
 
