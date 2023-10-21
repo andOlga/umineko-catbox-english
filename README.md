@@ -25,7 +25,7 @@ I love you, my heart.
 ---
 
 Note: the **canonical link** for this project is [https://andolga.github.io/umineko-catbox-english](https://andolga.github.io/umineko-catbox-english). If you wish to link to this project, please use this link.
-However, you are free -- in fact, *encouraged* -- to re-host/mirror the downloads for the project on alternate sources.
+However, you are free -- in fact, *encouraged* -- to re-host/mirror the downloads for the project on alternate sources, as long as you backlink to the canonical URL.
 
 # English patch for Umineko Catbox
 
