@@ -64,7 +64,7 @@ Furthermore, this patch would be impossible without the resources and tools prov
 
 ## Applying the patch
 
-The game, and this patch, can be played in two ways:
+The game, and this patch, can be played in a few ways:
 - On PCs, using yuzu or Ryujinx
 - On Macs, using Ryujinx
 - On select Android devices, using yuzu
