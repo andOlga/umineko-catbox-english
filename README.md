@@ -76,7 +76,7 @@ Please follow the below instructions to get the patch set up.
 No matter the platform you play on, you will need a copy of the base game and the decryption keys for it.
 Game updates are optional, the patch applies cleanly regardless of the game's version.
 
-To comply with US laws, you have to [buy the game](https://google.com/search?q=うみねこのなく頃に咲～猫箱と夢想の交響曲～) and dump it using [nxdumptool](https://github.com/DarkMatterCore/nxdumptool) from a CFW-capable console to obtain a legal copy for emulation. Software distribution laws in other countries may vary.
+To comply with US laws, you have to [buy the game](https://google.com/search?q=うみねこのなく頃に咲～猫箱と夢想の交響曲～) and dump it using nxdumptool from a CFW-capable console to obtain a legal copy for emulation. Software distribution laws in other countries may vary.
 
 ### On PC (using yuzu)
 yuzu is compatible with the game and the patch.
