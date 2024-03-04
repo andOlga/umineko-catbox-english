@@ -79,7 +79,7 @@ Game updates are optional, the patch applies cleanly regardless of the game's ve
 To comply with US laws, you have to [buy the game](https://google.com/search?q=うみねこのなく頃に咲～猫箱と夢想の交響曲～) and dump it using [nxdumptool](https://github.com/DarkMatterCore/nxdumptool) from a CFW-capable console to obtain a legal copy for emulation. Software distribution laws in other countries may vary.
 
 ### On PC (using yuzu)
-[yuzu](https://yuzu-emu.org) is compatible with the game and the patch.
+yuzu is compatible with the game and the patch.
 
 To set yuzu up, you will need a copy of your encryption keys dumped from a CFW-capable console, and the game itself. Once you have acquired the keys, navigate to File -> Open yuzu folder, then find the subfolder called "keys" inside that and paste the file there. Restart yuzu and double-click the giant empty rectangle in the main yuzu window to add your game folder.
 
@@ -89,9 +89,9 @@ To install the patch, [download](https://github.com/andOlga/umineko-catbox-engli
 You may now start the game in yuzu and play it in English.
 
 ### On PC/Mac (using Ryujinx)
-[Ryujinx](https://ryujinx.org/) is compatible with the game and the patch.
+Ryujinx is compatible with the game and the patch.
 
-To set Ryujinx up, you will need a copy of your encryption keys dumped from a CFW-capable console as well as that console's firmware, and the game itself. Having acquired these, you may [follow their guide](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) to finish your configuration and add the game to Ryujinx, but please ignore the "Managing mods" section as this patch has a somewhat more complicated structure and cannot be simply added to a per-game folder like they recommend.
+To set Ryujinx up, you will need a copy of your encryption keys dumped from a CFW-capable console as well as that console's firmware, and the game itself. Having acquired these, you may follow their Guide to finish your configuration and add the game to Ryujinx, but please ignore the "Managing mods" section as this patch has a somewhat more complicated structure and cannot be simply added to a per-game folder like they recommend.
 
 To install the patch, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_atmos.zip) the Atmosphère version (Ryujinx is 100% Atmosphère-compatible),
 <br>then choose File -> Open Ryujinx Folder. Navigate to the "mods" directory and extract the entire archive to that location. If the "mods" directory does not exist, create it first.
@@ -99,7 +99,7 @@ To install the patch, [download](https://github.com/andOlga/umineko-catbox-engli
 You may now start the game in Ryujinx and play it in English.
 
 ### On Android (using yuzu)
-Some Android devices may be able to run the game using [yuzu's Android port](https://play.google.com/store/apps/details?id=org.yuzu.yuzu_emu), though the current system requirements are rather high by Android standards: the device has to have a Snapdragon CPU and at least 8GB of RAM.
+Some Android devices may be able to run the game using yuzu's Android port, though the current system requirements are rather high by Android standards: the device has to have a Snapdragon CPU and at least 8GB of RAM.
 
 Just like on PC, you will need a copy of your encryption keys. yuzu will ask you for their location on its first run. It will also ask you to specify the folder in which the game is located. For performance reasons, I recommend not putting the game on an SD card unless you absolutely have to, keep it in your internal storage.
 
@@ -113,7 +113,7 @@ The next time you start the game, it will be in English.
 
 ### On the actual hardware
 
-If you want to play the game on your console, it will need [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) installed on it.
+If you want to play the game on your console, it will need Atmosphère installed on it.
 If you don't have Atmosphère already, please see if it's compatible with your console model and install it if it is.
 Afterwards, [download](https://github.com/andOlga/umineko-catbox-english/releases/latest/download/patch_atmos.zip) the Atmosphère version of the patch and copy it to the "atmosphere" folder on your SD card.
 The next time the game starts, it should be in English.
