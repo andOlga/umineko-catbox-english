@@ -1,4 +1,0 @@
-[submodule "repack"]
-	path = repack
-	url = https://github.com/andOlga/kaleido
-	branch = saku
