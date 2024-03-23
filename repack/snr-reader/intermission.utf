@@ -1,0 +1,184 @@
+game
+
+*start
+if PONSCRIPTER = 0 skip 1
+h_mapfont 0, "default.ttf"
+
+!s0
+textspeed 0
+h_usewindow "internal_default"
+
+; temporary saku hack, these lines should have no effect in kal
+mov $window, "window_0x02"
+mov %char_name_x, 390
+mov %char_name_y, 709
+
+mov %sp, 0 ; initialize stack pointer
+mov %psp, 0
+
+; fill_array sp_0x00_x_offset_0, num_sprites, 0
+; fill_array sp_0x01_y_offset_0, num_sprites, 0
+fill_array sp_0x02_visibility_0, num_sprites, 1
+; fill_array sp_0x03_x_offset_1, num_sprites, 0
+; fill_array sp_0x04_y_offset_1, num_sprites, 0
+; fill_array sp_0x05_z_position, num_sprites, 0
+fill_array sp_0x06_red_channel, num_sprites, 1000
+fill_array sp_0x07_green_channel, num_sprites, 1000
+fill_array sp_0x08_blue_channel, num_sprites, 1000
+fill_array sp_0x09_alpha_channel, num_sprites, 1000
+; fill_array sp_0x0a_unknown, num_sprites, 0
+; fill_array sp_0x0b_unknown, num_sprites, 0
+fill_array sp_0x0c_x_scale_0, num_sprites, 1000
+fill_array sp_0x0d_y_scale_0, num_sprites, 1000
+fill_array sp_0x0e_x_scale_1, num_sprites, 1000
+fill_array sp_0x0f_y_scale_1, num_sprites, 1000
+; fill_array sp_0x10_unknown, num_sprites, 0
+; fill_array sp_0x11_unknown, num_sprites, 0
+; fill_array sp_0x12_rotation_0, num_sprites, 0
+; fill_array sp_0x13_rotation_1, num_sprites, 0
+; fill_array sp_0x14_x_offset_inverted, num_sprites, 0
+; fill_array sp_0x15_y_offset_inverted, num_sprites, 0
+fill_array sp_0x16_visibility_1, num_sprites, 1
+; fill_array sp_0x17_unknown, num_sprites, 0
+; fill_array sp_0x18_effect, num_sprites, 0
+; fill_array sp_0x19_unknown, num_sprites, 0
+; fill_array sp_0x1a_flip, num_sprites, 0
+; fill_array sp_0x1b_unknown, num_sprites, 0
+; fill_array sp_0x1c_unknown, num_sprites, 1000
+; fill_array sp_0x1d_unknown, num_sprites, 1000
+; fill_array sp_0x1e_unknown, num_sprites, 1000
+; fill_array sp_0x1f_unknown, num_sprites, 1000
+; fill_array sp_0x20_unknown, num_sprites, 0
+
+fill_array sp_static_scale, num_sprites, 100
+
+;goto *snr_script_start
+goto *l_scenario_start ; jump to where the script actually starts
+
+*set_char
+h_usewindow $window + "_char"
+return
+
+*set_nochar
+h_usewindow $window + "_nochar"
+csp2 slot_char_name
+return
+
+*enter_lsp
+getparam %i8, $i9, %i13, %i14, %i15, %i16, %i17 ; slot, sprite to load, static origin x+y, static offset x+y, static scale
+mov ?sp_static_x_origin[%i8], %i13
+mov ?sp_static_y_origin[%i8], %i14
+mov ?sp_static_x_offset[%i8], %i15
+mov ?sp_static_y_offset[%i8], %i16
+mov ?sp_static_scale[%i8], %i17
+lsph %i8, $i9, 0, 0 ; regular hidden sprite, for measuring purposes
+lsph2 %i8, $i9, 0, 0, 100, 100, 0, 255 ; the sprite that will actually be shown
+enter_msp %i8 ; adjust sprite positioning before displaying it
+return
+
+*enter_msp ; Update Ponscripter sprite properties as governed by the sprite property cache
+; This is the function where the sprite positioning model of Entergram's engine
+; is implemented. This model does not really do anything out of the ordinary,
+; but the fact that it is influenced by a ton of separate factors means that it
+; was a nightmare to reverse engineer. So consider this the magnum opus of this
+; project...
+
+getparam %i10 ; slot
+
+; Scaling: first apply the scale factor from the bustup table, which is in percent...
+mov %i3, %bup_scale
+mov %i4, %bup_scale
+
+; ...then apply the two scale properties, which are in 1000ths
+mov %i3, %i3 * ?sp_0x0c_x_scale_0[%i10] / 1000
+mov %i4, %i4 * ?sp_0x0d_y_scale_0[%i10] / 1000
+mov %i3, %i3 * ?sp_0x0e_x_scale_1[%i10] / 1000
+mov %i4, %i4 * ?sp_0x0f_y_scale_1[%i10] / 1000
+
+; Positioning step 1: calculate the difference between the true center of the image
+; (which Ponscripter uses as its origin) and its defined origin, taking into account
+; the scaling.
+getspsize %i10, %i11, %i12 ; Get the width (%i11) and height (%i12) of the sprite to calculate its center
+mov %i1, (%i11 / 2 - ?sp_static_x_origin[%i10]) * %i3 / 100
+mov %i2, (%i12 / 2 - ?sp_static_y_origin[%i10]) * %i4 / 100
+
+; Positioning step 2: apply offsets which are independent of scaling
+mov %i1, %i1 - ?sp_static_x_offset[%i10] + ?sp_0x00_x_offset_0[%i10] + ?sp_0x03_x_offset_1[%i10] - ?sp_0x14_x_offset_inverted[%i10]
+mov %i2, %i2 - ?sp_static_y_offset[%i10] + ?sp_0x01_y_offset_0[%i10] + ?sp_0x04_y_offset_1[%i10] - ?sp_0x15_y_offset_inverted[%i10]
+
+; Rotation: add the two different rotation offsets, then convert degrees to 1000ths of a circle
+; This is not fully accurate, as in reality the rotation would occur around the
+; offset. But I don't think this can be realised within Ponscripter
+; IDEA: this could be fixed (and this whole function simplified) by changing the sprites' image
+; files to include some transparent padding so that its true center is equivalent to the
+; origin of the original sprite.
+mov %i5, (?sp_0x12_rotation_0[%i10] + ?sp_0x13_rotation_1[%i10]) * 9 / 25
+
+; Opacity: convert 0-1000 range to 0-255
+mov %i6, ?sp_0x09_alpha_channel[%10] * 200 / 51
+
+; Apply all values except visibility...
+amsp2 %i10, screen_width / 2 + %i1, screen_height / 2 + %i2, %i3, %i4, %i5, %i6
+
+; then apply visibility
+vsp2 %i10, ?sp_0x02_visibility_0[%i10] * ?sp_0x16_visibility_1[%i10]
+
+; And we're done!
+return
+
+*fill_array ; Fill an array with one value
+getparam %i5, %i6, %i7 ; Array ID, length, value
+*fill_array_loop
+dec %i6
+;^fill_array i5=^%i5^ i6=^%i6^ i7=^%i7
+mov ?%i5[%i6], %i7
+if %i6 <= 0: goto fill_array_done
+goto fill_array_loop
+*fill_array_done
+return
+
+*restore_params ; Restore parameters saved to the pstack
+;^beforeret^%psp^,^?param_stack[%psp]^/
+mov %i5, ?param_stack[%psp]:dec %psp
+;^inret^%psp^,^%i5^,^?param_stack[%psp]^/
+tablegoto %i5, *rp0, *rp1, *rp2, *rp3, *rp4, *rp5, *rp6, *rp7, *rp8, *rp9, *rpa, *rpb, *rpc, *rpd, *rpe, *rp10
+*rp10:mov %pxf, ?param_stack[%psp]:dec %psp:goto *rpf ; Somehow these GOTOs are necessary,
+*rpf :mov %pxe, ?param_stack[%psp]:dec %psp:goto *rpe ; otherwise it will repeat the last label
+*rpe :mov %pxd, ?param_stack[%psp]:dec %psp:goto *rpd ; for whatever reason. (Ponscripter bug?)
+*rpd :mov %pxc, ?param_stack[%psp]:dec %psp:goto *rpc ; This took me many hours of debugging...
+*rpc :mov %pxb, ?param_stack[%psp]:dec %psp:goto *rpb
+*rpb :mov %pxa, ?param_stack[%psp]:dec %psp:goto *rpa
+*rpa :mov %px9, ?param_stack[%psp]:dec %psp:goto *rp9
+*rp9 :mov %px8, ?param_stack[%psp]:dec %psp:goto *rp8
+*rp8 :mov %px7, ?param_stack[%psp]:dec %psp:goto *rp7
+*rp7 :mov %px6, ?param_stack[%psp]:dec %psp:goto *rp6
+*rp6 :mov %px5, ?param_stack[%psp]:dec %psp:goto *rp5
+*rp5 :mov %px4, ?param_stack[%psp]:dec %psp:goto *rp4
+*rp4 :mov %px3, ?param_stack[%psp]:dec %psp:goto *rp3
+*rp3 :mov %px2, ?param_stack[%psp]:dec %psp:goto *rp2
+*rp2 :mov %px1, ?param_stack[%psp]:dec %psp:goto *rp1
+*rp1 :mov %px0, ?param_stack[%psp]:dec %psp:goto *rp0
+*rp0
+;^afterret^%psp^,^%i5^,^?param_stack[%psp]^/
+return
+
+; Converts a number (parameter 2) to a string and left-pads it with zeroes until
+; it is the given length (parameter 3) of characters long.
+*itoa_pad
+getparam s%i5, %i6, %i7
+itoa $%i5, %i6
+*itoa_pad_lengthen
+len %i6, $%i5
+if %i6 >= %i7 goto *itoa_pad_return
+mov $%i5, "0" + $%i5
+goto *itoa_pad_lengthen
+*itoa_pad_return
+return
+
+*ff_bupload
+getparam %ichar, %ibup_cat, %ibup_expr
+return
+
+*ff_bupclear
+getparam %ichar
+return

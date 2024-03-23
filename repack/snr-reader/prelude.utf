@@ -1,0 +1,153 @@
+;value2500,modew1080
+;gameid test
+
+*define
+
+; This is ignored by Ponscripter
+numalias PONSCRIPTER, 0
+
+caption "NScripter test suite"
+versionstr "NScripter test suite"," version 1.0"
+
+savename "Save","Load","File "
+savenumber 20
+effectblank 0
+selectcolor #ffffff,#cccccc
+menuselectcolor #ffffff,#aaaaaa,#999999
+defaultspeed 0,0,0
+
+numalias screen_width, 1920
+numalias screen_height, 1080
+
+; internal variables
+numalias i1, 1
+numalias i2, 2
+numalias i3, 3
+numalias i4, 4
+numalias i5, 5
+numalias i6, 6
+numalias i7, 7
+numalias i8, 8
+numalias i9, 9
+numalias i10, 10
+numalias sp, 11
+numalias psp, 12
+
+numalias ichar, 13
+numalias ibup_cat, 14
+numalias ibup_expr, 15
+
+numalias current_slot, 16
+numalias timer, 17
+numalias window, 18
+
+numalias char_name_x, 19
+numalias char_name_y, 20
+
+numalias i11, 21
+numalias i12, 22
+numalias i13, 23
+numalias i14, 24
+numalias i15, 25
+numalias i16, 26
+numalias i17, 27
+numalias i18, 28
+numalias i19, 29
+numalias i20, 30
+
+; Special values set by certain lookup tables
+numalias bup_origin_x, 31
+numalias bup_origin_y, 32
+numalias bup_offset_x, 33
+numalias bup_offset_y, 34
+numalias bup_scale, 35
+numalias pic_origin_x, 36
+numalias pic_origin_y, 37
+
+; The stack that registers can be pushed to and popped from by SNR instructions.
+numalias stack, 0
+dim ?stack[256]
+
+; Temporary array used for lookup_read and lookup_store
+numalias lookup, 1
+dim ?lookup[256]
+
+; Internal stack used for saving parameter values when calling a function
+numalias param_stack, 3
+dim ?param_stack[256]
+
+; Static sprite properties
+numalias num_sprites, 256
+numalias sp_static_x_origin, 10
+dim ?sp_static_x_origin[num_sprites]
+numalias sp_static_y_origin, 11
+dim ?sp_static_y_origin[num_sprites]
+numalias sp_static_x_offset, 12
+dim ?sp_static_x_offset[num_sprites]
+numalias sp_static_y_offset, 13
+dim ?sp_static_y_offset[num_sprites]
+numalias sp_static_scale, 14
+dim ?sp_static_scale[num_sprites]
+
+; Dynamic sprite properties
+mov %0, 20
+numalias sp_0x00_x_offset_0, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x01_y_offset_0, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x02_visibility_0, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x03_x_offset_1, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x04_y_offset_1, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x05_z_position, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x06_red_channel, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x07_green_channel, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x08_blue_channel, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x09_alpha_channel, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x0a_unknown, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x0b_unknown, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x0c_x_scale_0, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x0d_y_scale_0, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x0e_x_scale_1, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x0f_y_scale_1, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x10_unknown, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x11_unknown, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x12_rotation_0, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x13_rotation_1, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x14_x_offset_inverted, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x15_y_offset_inverted, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x16_visibility_1, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x17_unknown, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x18_effect, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x19_unknown, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x1a_flip, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x1b_unknown, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x1c_unknown, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x1d_unknown, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x1e_unknown, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x1f_unknown, %0:dim ?%0[num_sprites]:inc %0
+numalias sp_0x20_unknown, %0:dim ?%0[num_sprites]:inc %0
+
+; Null (this constant is used wherever an 0xe0 varlen is used in the code)
+numalias null, -1
+
+; Predefined sprite slots
+numalias slot_char_name, 2
+numalias slot_section_title, 3
+numalias slot_bgm_name, 4
+
+defsub fill_array
+defsub restore_params
+defsub itoa_pad
+defsub new_sprite_slot
+defsub lookup_window
+defsub set_char
+defsub set_nochar
+defsub enter_lsp
+defsub enter_msp
+
+defsub ff_bupload
+defsub ff_bupclear
+
+h_defwindow "internal_default_char",   100,100,1720,880,20,0,2,0,1,1,#999999,0,0,1919,1079 ; for debug
+h_defwindow "internal_default_nochar", 100,100,1720,880,20,0,2,0,1,1,#999999,0,0,1919,1079
+h_defwindow "internal_default",        100,100,1720,880,20,0,2,0,1,1,#999999,0,0,1919,1079
+
+effect 2, 10, 10

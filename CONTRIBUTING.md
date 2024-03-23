@@ -17,12 +17,6 @@ Other operating systems are likely going to work fine, but it's untested.
 - A `zip` command, to generate the patch archives.
 - Bash, to run the `build.sh` script.
 
-Also, make sure to run the following commands after cloning the repo, or your build will fail:
-```bash
-git submodule init
-git submodule update
-```
-
 Set all these things up and run `build.sh`. You are going to end up with the same patch archives as what's available in the release section.
 Follow the normal installation procedure from that point to update your patch and test your changes.
 
